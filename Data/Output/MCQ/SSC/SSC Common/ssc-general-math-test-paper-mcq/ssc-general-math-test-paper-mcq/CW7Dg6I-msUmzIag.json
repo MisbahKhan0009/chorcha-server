@@ -1,0 +1,865 @@
+{
+  "read_id": "CW7Dg6I-msUmzIag",
+  "title": "পাবনা ক্যাডেট কলেজ ২০২৫",
+  "count": 26,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "PCC 25",
+      "question": "log3 + log9 + log27 .......ধারাটির সাধারণ অন্তর কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "log3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "log6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2log3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2log6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "log3",
+      "option_b": "log6",
+      "option_c": "2log3",
+      "option_d": "2log6",
+      "correct": "ক",
+      "explanation": "log3 + log9 + log27 + ......... \\text{log3 + log9 + log27 + .........} log3 + log9 + log27 + ......... = log3 + log 3 2  + log 3 3  + ......... \\text{= log3 + log}3^2\\text{ + log}3^3\\text{ + .........} = log3 + log 3 2  + log 3 3  + ......... = log3 + 2log3 + 3log3 + ......... \\text{= log3 + 2log3 + 3log3 + .........} = log3 + 2log3 + 3log3 + ......... ∴ ধারাটির সাধারণ অন্তর = 2log3 – log3 = log3 \\text{∴ ধারাটির সাধারণ অন্তর = 2log3 – log3 = log3} ∴  ধারাটির   সাধারণ   অন্তর  = 2log3 – log3 = log3"
+    },
+    {
+      "number": "2",
+      "tag": "PCC 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: 1+3+5+ 7 +............. 2.1. r তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2r-1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2г-3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2r+3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2r+1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2r-1",
+      "option_b": "2г-3",
+      "option_c": "2r+3",
+      "option_d": "2r+1",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "PCC 25",
+      "question": "x + 1 x = 2 x + \\frac{1}{x} = 2 x + x 1 ​ = 2 হলে x 5 + 1 x 5 x^5 + \\frac{1}{x^5} x 5 + x 5 1 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "খ",
+      "explanation": "x + 1 x = 2  বা,  x 2 + 1 = 2 x  বা,  x 2 − 2 x + 1 = 0 x+\\frac{1}{x}=2 \\text{ বা, } x^2+1=2x \\text{ বা, } x^2-2x+1=0 x + x 1 ​ = 2   বা ,  x 2 + 1 = 2 x   বা ,  x 2 − 2 x + 1 = 0 বা,  ( x − 1 ) 2 = 0 ∴ x = 1 ∴ x 5 + 1 x 5 = 1 5 + 1 1 5 = 2 \\text{বা, } (x-1)^2=0 \\therefore x=1 \\therefore x^5+\\frac{1}{x^5}=1^5+\\frac{1}{1^5}=2 বা ,  ( x − 1 ) 2 = 0 ∴ x = 1 ∴ x 5 + x 5 1 ​ = 1 5 + 1 5 1 ​ = 2"
+    },
+    {
+      "number": "4",
+      "tag": "PCC 25",
+      "question": "বৃত্তের অধিচাপে অন্তলিখিত কোণ কিরূপ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সমকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সরলকোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সূক্ষ্মকোণ",
+      "option_b": "সমকোণ",
+      "option_c": "স্থূলকোণ",
+      "option_d": "সরলকোণ",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "PCC 25",
+      "question": "নিচের চিত্রের আলোকে প্রশ্নের উত্তর দাও: O হলো অন্তঃকেন্দ্র এবং ∠ A = 70 ∘ \\angle A = 70^\\circ ∠ A = 7 0 ∘ , A B = A C AB = AC A B = A C 5.1. ∠ A B C = ? \\angle ABC = ? ∠ A BC = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40 ∘ 40^\\circ 4 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^\\circ 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "50 ∘ 50^\\circ 5 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "55 ∘ 55^\\circ 5 5 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "40 ∘ 40^\\circ 4 0 ∘",
+      "option_b": "45 ∘ 45^\\circ 4 5 ∘",
+      "option_c": "50 ∘ 50^\\circ 5 0 ∘",
+      "option_d": "55 ∘ 55^\\circ 5 5 ∘",
+      "correct": "ঘ",
+      "explanation": ". △ A B C \\triangle ABC △ A BC হতে, ∠ A + ∠ A B C + ∠ A C B = 180 ∘ \\angle A + \\angle ABC + \\angle ACB = 180^\\circ ∠ A + ∠ A BC + ∠ A CB = 18 0 ∘ বা, 70 ∘ + ∠ A B C + ∠ A B C = 180 ∘ [ ∵ A B = A C ] 70^\\circ + \\angle ABC + \\angle ABC = 180^\\circ [\\because AB = AC] 7 0 ∘ + ∠ A BC + ∠ A BC = 18 0 ∘ [ ∵ A B = A C ] বা, 2 ∠ A B C = 110 ∘ ∴ ∠ A B C = 55 ∘ 2\\angle ABC = 110^\\circ \\therefore \\angle ABC = 55^\\circ 2∠ A BC = 11 0 ∘ ∴ ∠ A BC = 5 5 ∘"
+    },
+    {
+      "number": "6",
+      "tag": "PCC 25",
+      "question": "একটি ত্রিভুজের কয়টি রহির্ভূত্ত আঁকা সম্ভব?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "PCC 25",
+      "question": "sin ⁡ x + cos ⁡ x = m \\sin x + \\cos x = m sin x + cos x = m হলে sin ⁡ 4 x + cos ⁡ 4 x = ? \\sin^4 x + \\cos^4 x = ? sin 4 x + cos 4 x = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( m 2 + 1 ) 2 2 \\frac{(m^2 + 1)^2}{2} 2 ( m 2 + 1 ) 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( m 2 − 1 ) 2 2 \\frac{(m^2 - 1)^2}{2} 2 ( m 2 − 1 ) 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 + ( m 2 − 1 ) 2 2 1 + \\frac{(m^2 - 1)^2}{2} 1 + 2 ( m 2 − 1 ) 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 − ( m 2 − 1 ) 2 2 1 - \\frac{(m^2 - 1)^2}{2} 1 − 2 ( m 2 − 1 ) 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "( m 2 + 1 ) 2 2 \\frac{(m^2 + 1)^2}{2} 2 ( m 2 + 1 ) 2 ​",
+      "option_b": "( m 2 − 1 ) 2 2 \\frac{(m^2 - 1)^2}{2} 2 ( m 2 − 1 ) 2 ​",
+      "option_c": "1 + ( m 2 − 1 ) 2 2 1 + \\frac{(m^2 - 1)^2}{2} 1 + 2 ( m 2 − 1 ) 2 ​",
+      "option_d": "1 − ( m 2 − 1 ) 2 2 1 - \\frac{(m^2 - 1)^2}{2} 1 − 2 ( m 2 − 1 ) 2 ​",
+      "correct": "ঘ",
+      "explanation": "sin ⁡ x + cos ⁡ x = m  বা,  sin ⁡ 2 x + cos ⁡ 2 x + 2 sin ⁡ x cos ⁡ x = m 2  বা,  1 + 2 sin ⁡ x cos ⁡ x = m 2 ∴ sin ⁡ x cos ⁡ x = m 2 − 1 2 ∴ sin ⁡ 4 x + cos ⁡ 4 x = ( sin ⁡ 2 x + cos ⁡ 2 x ) 2 − 2 sin ⁡ 2 x cos ⁡ 2 x = 1 2 − 2 ⋅ ( m 2 − 1 2 ) 2 = 1 − ( m 2 − 1 ) 2 2 \\begin{array}{l} \\sin x+\\cos x=m \\text { বা, } \\sin ^{2} x+\\cos ^{2} x+2 \\sin x \\cos x=m^{2} \\\\ \\text { বা, } 1+2 \\sin x \\cos x=m^{2} \\therefore \\sin x \\cos x=\\frac{m^{2}-1}{2} \\\\ \\therefore \\sin ^{4} x+\\cos ^{4} x=\\left(\\sin ^{2} x+\\cos ^{2} x\\right)^{2}-2 \\sin ^{2} x \\cos ^{2} x \\\\ =1^{2}-2 \\cdot\\left(\\frac{m^{2}-1}{2}\\right)^{2}=1-\\frac{\\left(m^{2}-1\\right)^{2}}{2} \\end{array} sin x + cos x = m   বা ,  sin 2 x + cos 2 x + 2 sin x cos x = m 2   বা ,  1 + 2 sin x cos x = m 2 ∴ sin x cos x = 2 m 2 − 1 ​ ∴ sin 4 x + cos 4 x = ( sin 2 x + cos 2 x ) 2 − 2 sin 2 x cos 2 x = 1 2 − 2 ⋅ ( 2 m 2 − 1 ​ ) 2 = 1 − 2 ( m 2 − 1 ) 2 ​ ​"
+    },
+    {
+      "number": "8",
+      "tag": "PCC 25",
+      "question": "একটি নির্দিষ্ট চতুর্ভুজ অঙ্কনে কয়টি স্বতন্ত্র তথ্য প্রয়োজন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "PCC 25",
+      "question": "sin ⁡ x cosec ⁡ 2 x − 1 = ? \\sin x \\sqrt{\\operatorname{cosec}^{2} x - 1} = ? sin x cosec 2 x − 1 ​ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "cosx",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "sinx",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "tanx",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "cotx",
+          "is_correct": false
+        }
+      ],
+      "option_a": "cosx",
+      "option_b": "sinx",
+      "option_c": "tanx",
+      "option_d": "cotx",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "PCC 25",
+      "question": "বৃত্তে অন্তর্লিখিত সামান্তরিক হলো-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রম্বস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বর্গ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ট্রাপিজিয়াম",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আয়ত",
+          "is_correct": true
+        }
+      ],
+      "option_a": "রম্বস",
+      "option_b": "বর্গ",
+      "option_c": "ট্রাপিজিয়াম",
+      "option_d": "আয়ত",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "PCC 25",
+      "question": "sin3A = cos3A \\text{sin3A} = \\text{cos3A} sin3A = cos3A হলে cot2A = ? \\text{cot2A} = ? cot2A = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 1 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 1 1",
+      "option_b": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_c": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+      "option_d": "3 \\sqrt{3} 3 ​",
+      "correct": "ঘ",
+      "explanation": "sin ⁡ 3 A = cos ⁡ 3 A \\sin3A = \\cos3A sin 3 A = cos 3 A বা, sin ⁡ 3 A cos ⁡ 3 A = 1 \\frac{\\sin3A}{\\cos3A} = 1 c o s 3 A s i n 3 A ​ = 1 বা, tan ⁡ 3 A = 1 \\tan3A = 1 tan 3 A = 1 বা, tan ⁡ 3 A = tan ⁡ 45 ∘ \\tan3A = \\tan45^\\circ tan 3 A = tan 4 5 ∘ বা, 3 A = 45 ∘ ∴ A = 15 ∘ 3A = 45^\\circ \\therefore A = 15^\\circ 3 A = 4 5 ∘ ∴ A = 1 5 ∘ ∴ cot ⁡ 2 A = cot ⁡ ( 2 × 15 ∘ ) = cot ⁡ 30 ∘ = 3 \\therefore \\cot2A = \\cot (2 \\times 15^\\circ) = \\cot30^\\circ = \\sqrt{3} ∴ cot 2 A = cot ( 2 × 1 5 ∘ ) = cot 3 0 ∘ = 3 ​"
+    },
+    {
+      "number": "12",
+      "tag": "PCC 25",
+      "question": "cosec ( 90 ∘ − m ) = 2 3 \\text{cosec}(90^\\circ - \\text{m}) = \\frac{2}{\\sqrt{3}} cosec ( 9 0 ∘ − m ) = 3 ​ 2 ​ হলে m = ? \\text{m} = ? m = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^\\circ 3 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^\\circ 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^\\circ 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90 ∘ 90^\\circ 9 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^\\circ 3 0 ∘",
+      "option_b": "45 ∘ 45^\\circ 4 5 ∘",
+      "option_c": "60 ∘ 60^\\circ 6 0 ∘",
+      "option_d": "90 ∘ 90^\\circ 9 0 ∘",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "PCC 25",
+      "question": "i. 1 + 2 + 3 + … … … ⋯ + n = n ( n + 1 ) 2 1 + 2 + 3 + \\dots \\dots \\dots \\dots + \\text{n} = \\frac{\\text{n}(\\text{n} + 1)}{2} 1 + 2 + 3 + ………⋯ + n = 2 n ( n + 1 ) ​ ii. a + ar + ar 2 + … … … ⋯ + ar n − 1 = a ( 1 − r n ) 1 − r \\text{a} + \\text{ar} + \\text{ar}^2 + \\dots \\dots \\dots \\dots + \\text{ar}^{\\text{n}-1} = \\frac{\\text{a}(1 - \\text{r}^{\\text{n}})}{1-\\text{r}} a + ar + ar 2 + ………⋯ + ar n − 1 = 1 − r a ( 1 − r n ) ​ iii. একটি গুণোত্তর ধারার n \\text{n} n তম পদ = ar n − 1 = \\text{ar}^{\\text{n}-1} = ar n − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i, ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i, iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii, iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii, iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i, ii",
+      "option_b": "i, iii",
+      "option_c": "ii, iii",
+      "option_d": "i, ii, iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "PCC 25",
+      "question": "নিচের চিত্রের আলোকে প্রশ্নের উত্তর দাও: PR =3, QR=4 14.1. sin ⁡ θ + tan ⁡ θ \\sin\\theta + \\tan\\theta sin θ + tan θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "21 20 \\frac{21}{20} 20 21 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "23 20 \\frac{23}{20} 20 23 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 20 \\frac{25}{20} 20 25 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "27 20 \\frac{27}{20} 20 27 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "21 20 \\frac{21}{20} 20 21 ​",
+      "option_b": "23 20 \\frac{23}{20} 20 23 ​",
+      "option_c": "25 20 \\frac{25}{20} 20 25 ​",
+      "option_d": "27 20 \\frac{27}{20} 20 27 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "PCC 25",
+      "question": "3 সে.মি.,4 সে.মি. ও 5 সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি বৃত্ত পরস্পরকে বহিঃস্থভাবে স্পর্শ করলে বৃত্তদ্বয়ের তিনটি কেন্দ্র দ্বারা গঠিত ত্রিভুজের পরিসীমা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "21 cm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "22 cm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "23 cm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24 cm",
+          "is_correct": true
+        }
+      ],
+      "option_a": "21 cm",
+      "option_b": "22 cm",
+      "option_c": "23 cm",
+      "option_d": "24 cm",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "PCC 25",
+      "question": "সুষম অষ্টভুজের প্রতিটি শীর্ষকোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "125°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "130°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "135°",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "140°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "125°",
+      "option_b": "130°",
+      "option_c": "135°",
+      "option_d": "140°",
+      "correct": "গ",
+      "explanation": ". সুষম বহুভুজের শীর্ষকোণ = ( n − 2 ) × 180 ∘ n = \\frac{(n-2) \\times 180^\\circ}{n} = n ( n − 2 ) × 18 0 ∘ ​ সুষম অষ্টভুজের শীর্ষকোণ = ( 8 − 2 ) × 180 ∘ 8 = 135 ∘ = \\frac{(8-2) \\times 180^\\circ}{8} = 135^\\circ = 8 ( 8 − 2 ) × 18 0 ∘ ​ = 13 5 ∘"
+    },
+    {
+      "number": "17",
+      "tag": "PCC 25",
+      "question": "কোনো বৃত্তের ব্যাস 26 সে.মি. হলে, বৃত্তটির কেন্দ্র হতে 5 সে.মি. দূরবর্তী জ্যা এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "21",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "22",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "23",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24",
+          "is_correct": true
+        }
+      ],
+      "option_a": "21",
+      "option_b": "22",
+      "option_c": "23",
+      "option_d": "24",
+      "correct": "ঘ",
+      "explanation": "কেন্দ্র হতে জ্যা এর উপর অঙ্কিত লম্ব উক্ত জ্যাকে সমদ্বিখণ্ডিত করে। ∴ \\therefore ∴ জ্যা এর দৈর্ঘ্য = 2 ( 26 2 ) 2 − 5 2 = 2 \\sqrt{\\left(\\frac{26}{2}\\right)^2 - 5^2} = 2 ( 2 26 ​ ) 2 − 5 2 ​ = 2 13 2 − 5 2 = 2.12 = 24 = 2\\sqrt{13^2 - 5^2} = 2.12 = 24 = 2 1 3 2 − 5 2 ​ = 2.12 = 24 সে.মি."
+    },
+    {
+      "number": "18",
+      "tag": "PCC 25",
+      "question": "একটি ঘনকের আয়তন 24 3 24\\sqrt{3} 24 3 ​ ঘন একক হলে এর কর্ণ কত একক হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 2\\sqrt{3} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 3 3\\sqrt{3} 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 2\\sqrt{3} 2 3 ​",
+      "option_b": "3 3 3\\sqrt{3} 3 3 ​",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "গ",
+      "explanation": "ঘনকটির বাহুর দৈর্ঘ্য a একক হলে, a 3 = 24 3 = ( 2 3 ) 3 ∴ a = 2 3 a^3 = 24\\sqrt{3} = (2\\sqrt{3})^3 \\quad \\therefore a = 2\\sqrt{3} a 3 = 24 3 ​ = ( 2 3 ​ ) 3 ∴ a = 2 3 ​ একক ∴ \\therefore ∴ কর্ণের দৈর্ঘ্য = a 3 = 2 3 . 3 = 6 = a\\sqrt{3} = 2\\sqrt{3}.\\sqrt{3} = 6 = a 3 ​ = 2 3 ​ . 3 ​ = 6 একক।"
+    },
+    {
+      "number": "19",
+      "tag": "PCC 25",
+      "question": "নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও: একটি সিলিন্ডারের বক্রতলের ক্ষেত্রফল 100 বর্গ সে.মি. এবং আয়তন 150 ঘন সে.মি.। 19.1. সিলিন্ডারের উচ্চতা (সে.মি.) কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3.3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5.3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "7.3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9.3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3.3",
+      "option_b": "5.3",
+      "option_c": "7.3",
+      "option_d": "9.3",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "PCC 25",
+      "question": "2, 0, 5, 0, 4, 7 i. গড় 3 ii. প্রচুরক 0 iii. মধ্যক 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i, ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i, iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii, iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii, iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i, ii",
+      "option_b": "i, iii",
+      "option_c": "ii, iii",
+      "option_d": "i, ii, iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "PCC 25",
+      "question": "নিচের কোনটি বিচ্ছিন্ন চলক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জনসংখ্যা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "বয়স",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ওজন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "উচ্চতা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "জনসংখ্যা",
+      "option_b": "বয়স",
+      "option_c": "ওজন",
+      "option_d": "উচ্চতা",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "PCC 25",
+      "question": "1, 3,5, ……, 21 এর গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10.5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "11",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "11.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "10.5",
+      "option_c": "11",
+      "option_d": "11.5",
+      "correct": "গ",
+      "explanation": "প্রদত্ত সংখ্যাগুলো বিজোড় সংখ্যার ধারা যার সাধারণ পদ = 2 n − 1 = 2n - 1 = 2 n − 1 ∴ \\therefore ∴ পদসংখ্যা = 11 = 11 = 11 কেননা 2.11 − 1 = 21 2.11 - 1 = 21 2.11 − 1 = 21 n n n সংখ্যক সাধারণ বিজোড় সংখ্যার সমষ্টি = n 2 = n^2 = n 2 ∴ \\therefore ∴ 11 11 11 টি পদের সমষ্টি = 11 2 = 11^2 = 1 1 2 ∴ \\therefore ∴ গড় = 11 2 11 = 11 = \\frac{11^2}{11} = 11 = 11 1 1 2 ​ = 11"
+    },
+    {
+      "number": "23",
+      "tag": "PCC 25",
+      "question": "নিচের কোনটি নির্ণয়ের জন্য ধাপ বিচ্যুতি প্রয়োজন হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "গড়",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "মধ্যক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্রচুরক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অজিভ রেখা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "গড়",
+      "option_b": "মধ্যক",
+      "option_c": "প্রচুরক",
+      "option_d": "অজিভ রেখা",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "",
+      "tag": "PCC 25",
+      "question": "শ্রেণিব্যাপ্তি 21-30 31-40 41-50 51-60 গণসংখ্যা 5 8 10 12 প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "51.4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "52.4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "53.4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "54.4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "51.4",
+      "option_b": "52.4",
+      "option_c": "53.4",
+      "option_d": "54.4",
+      "correct": "খ",
+      "explanation": "প্রচুরক শ্রেণি: (51 - 60) f 1 = 12 − 10 = 2 f 2 = 12 − 0 = 12 \\begin{array}{|l} f_1 = 12 - 10 = 2 \\\\ f_2 = 12 - 0 = 12 \\end{array} f 1 ​ = 12 − 10 = 2 f 2 ​ = 12 − 0 = 12 ​ ∴ প্রচুরক = L + f 1 f 1 + f 2 × h \\therefore \\text{প্রচুরক} = L + \\frac{f_1}{f_1 + f_2} \\times h ∴ প্রচুরক = L + f 1 ​ + f 2 ​ f 1 ​ ​ × h = 51 + 2 × 10 2 + 12 = 52.4 = 51 + \\frac{2 \\times 10}{2+12} = 52.4 = 51 + 2 + 12 2 × 10 ​ = 52.4"
+    },
+    {
+      "number": "25",
+      "tag": "PCC 25",
+      "question": "a + 1 a = 3 a+\\frac{1}{a}=3 a + a 1 ​ = 3 হলে 12 a 2 − 3 a + 7 \\frac{12}{a^2-3a+7} a 2 − 3 a + 7 12 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "3",
+      "option_c": "2",
+      "option_d": "4",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "26",
+      "tag": "PCC 25",
+      "question": "কালো বর্গক্ষেত্র 1 , 1 3 , 1 7 , 1 15 1, \\frac{1}{3}, \\frac{1}{7}, \\frac{1}{15} 1 , 3 1 ​ , 7 1 ​ , 15 1 ​ ...... অনুক্রমটির সাধারণ পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 n \\frac{1}{n} n 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 n \\frac{1}{2^n} 2 n 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 n + 1 \\frac{1}{2^n+1} 2 n + 1 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 n − 1 \\frac{1}{2^n-1} 2 n − 1 1 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 n \\frac{1}{n} n 1 ​",
+      "option_b": "1 2 n \\frac{1}{2^n} 2 n 1 ​",
+      "option_c": "1 2 n + 1 \\frac{1}{2^n+1} 2 n + 1 1 ​",
+      "option_d": "1 2 n − 1 \\frac{1}{2^n-1} 2 n − 1 1 ​",
+      "correct": "ঘ",
+      "explanation": "1. 1 , 1 3 , 1 7 , 1 15 , … … … = 1 2 1 − 1 , 1 2 2 − 1 , 1 2 3 − 1 , 1 2 4 − 1 , … … … , 1 2 n − 1 1, \\frac{1}{3}, \\frac{1}{7}, \\frac{1}{15}, \\ldots \\ldots \\ldots = \\frac{1}{2^1-1}, \\frac{1}{2^2-1}, \\frac{1}{2^3-1}, \\frac{1}{2^4-1}, \\ldots \\ldots \\ldots , \\frac{1}{2^n-1} 1 , 3 1 ​ , 7 1 ​ , 15 1 ​ , ……… = 2 1 − 1 1 ​ , 2 2 − 1 1 ​ , 2 3 − 1 1 ​ , 2 4 − 1 1 ​ , ……… , 2 n − 1 1 ​ অর্থাৎ, সাধারণ পদ = 1 2 n − 1 = \\frac{1}{2^n-1} = 2 n − 1 1 ​"
+    }
+  ]
+}

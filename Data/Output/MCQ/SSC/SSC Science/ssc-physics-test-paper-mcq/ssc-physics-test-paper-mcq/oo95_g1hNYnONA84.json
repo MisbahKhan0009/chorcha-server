@@ -1,0 +1,832 @@
+{
+  "read_id": "oo95_g1hNYnONA84",
+  "title": "রংপুর ক্যাডেট কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RCC 24",
+      "question": "প্লাবতার মাত্রা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "M L − 1   T 2 \\mathrm{ML}^{-1} \\mathrm{~T}^{2} ML − 1   T 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "M L − 2   T − 2 \\mathrm{ML}^{-2} \\mathrm{~T}^{-2} ML − 2   T − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "M L − 1   T 2 \\mathrm{ML}^{-1} \\mathrm{~T}^{2} ML − 1   T 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "M L T − 2 \\mathrm{MLT}^{-2} MLT − 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "M L − 1   T 2 \\mathrm{ML}^{-1} \\mathrm{~T}^{2} ML − 1   T 2",
+      "option_b": "M L − 2   T − 2 \\mathrm{ML}^{-2} \\mathrm{~T}^{-2} ML − 2   T − 2",
+      "option_c": "M L − 1   T 2 \\mathrm{ML}^{-1} \\mathrm{~T}^{2} ML − 1   T 2",
+      "option_d": "M L T − 2 \\mathrm{MLT}^{-2} MLT − 2",
+      "correct": "ঘ",
+      "explanation": "প্লবতা এক প্রকারের বল । এর মাত্রা বলের মাত্রার সমরূপ :: প্লবতার -মাত্রা [ MLT -2 ] F = ভর x ত্বরন = M x LT -2 = MLT -2"
+    },
+    {
+      "number": "2",
+      "tag": "RCC 24",
+      "question": "ট্রান্সফর্মারের মুখ্য কুন্ডলীর পাকসংখ্যা 100। গৌণ কুন্ডলীর পাকসংখ্যা 1000। মুখ্য কুন্ডলীতে 12V AC সংযুক্ত। সেকেন্ডারি কুন্ডলীতে ভোল্টেজ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0V",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10 V",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "100 V",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "120 V",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0V",
+      "option_b": "10 V",
+      "option_c": "100 V",
+      "option_d": "120 V",
+      "correct": "ঘ",
+      "explanation": "V s V p = n s n p \\frac{V_{\\mathrm{s}}}{\\mathrm{V}_{\\mathrm{p}}}=\\frac{\\mathrm{n}_{\\mathrm{s}}}{\\mathrm{n}_{\\mathrm{p}}} V p ​ V s ​ ​ = n p ​ n s ​ ​ বা, V s = 1000 100 × 12 = 120   V \\mathrm{V}_{\\mathrm{s}}=\\frac{1000}{100} \\times 12=120 \\mathrm{~V} V s ​ = 100 1000 ​ × 12 = 120   V"
+    },
+    {
+      "number": "3",
+      "tag": "RCC 24",
+      "question": "নিচের কোন অঙ্গটি কিডনি থেকে নাইট্রোজেন ঘটিত বর্জ্য পদার্থ দূর করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "হৃদপিন্ড",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বৃক্ক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "লিভার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পাকস্থলি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "হৃদপিন্ড",
+      "option_b": "বৃক্ক",
+      "option_c": "লিভার",
+      "option_d": "পাকস্থলি",
+      "correct": "খ",
+      "explanation": "বৃক্কের নেফ্রন সাধারণত কিডনি থেকে নাইট্রোজেন ঘটিত বর্জ্য পদার্থ মুত্র আকারে বের করে দেয়"
+    },
+    {
+      "number": "4",
+      "tag": "RCC 24,SB 23",
+      "question": "গোলীয় দর্পণের প্রতিফলক পৃষ্ঠের মধ্যবিন্দু কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মেরু",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "বক্রতার কেন্দ্র",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ফোকাস",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আলোক কেন্দ্র",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মেরু",
+      "option_b": "বক্রতার কেন্দ্র",
+      "option_c": "ফোকাস",
+      "option_d": "আলোক কেন্দ্র",
+      "correct": "ক",
+      "explanation": "গোলীয় দর্পণের প্রতিফলক পৃষ্ঠের মধ্যবিন্দু কে মেরু বলা হয়।"
+    },
+    {
+      "number": "5",
+      "tag": "MB 24,RCC 24",
+      "question": "আদর্শ গ্যাস সমীকরণে ধ্রুবক 'R' এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8.413 J K − 1   m o l − 1 8.413 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.413 JK − 1   mol − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8.31 J K − 2   m o l − 1 8.31 \\mathrm{JK}^{-2} \\mathrm{~mol}^{-1} 8.31 JK − 2   mol − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8.314 J K − 1   m o l − 1 8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.314 JK − 1   mol − 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8.134 J K − 1   m o l − 1 8.134 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.134 JK − 1   mol − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8.413 J K − 1   m o l − 1 8.413 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.413 JK − 1   mol − 1",
+      "option_b": "8.31 J K − 2   m o l − 1 8.31 \\mathrm{JK}^{-2} \\mathrm{~mol}^{-1} 8.31 JK − 2   mol − 1",
+      "option_c": "8.314 J K − 1   m o l − 1 8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.314 JK − 1   mol − 1",
+      "option_d": "8.134 J K − 1   m o l − 1 8.134 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.134 JK − 1   mol − 1",
+      "correct": "গ",
+      "explanation": "আদর্শ গ্যাস সমীকরণ হল, ( PV = nRT ) যেখানে R হল গ্যাস ধ্রুবক। গ্যাস ধ্রুবক R এর মান হলো 8.314 J K − 1   m o l − 1 8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.314 JK − 1   mol − 1 । অতএব, সঠিক উত্তরটি হল (c): 8.314 J K − 1   m o l − 1 8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.314 JK − 1   mol − 1"
+    },
+    {
+      "number": "6",
+      "tag": "RCC 24",
+      "question": "কে দেখায় যে, মহাবিশ্বে গ্যালাক্সি একে অপর থেকে দূরে সরে যায়, যেটি নির্দেশ করে যে মহাবিশ্ব ধীরে ধীরে প্রসারিত হচ্ছে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যারিস্টার্কাস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "হাইয়ান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কোপার্নিকাস",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "হাবল",
+          "is_correct": true
+        }
+      ],
+      "option_a": "অ্যারিস্টার্কাস",
+      "option_b": "হাইয়ান",
+      "option_c": "কোপার্নিকাস",
+      "option_d": "হাবল",
+      "correct": "ঘ",
+      "explanation": "মহাবিশ্বের প্রসারণের প্রমাণ প্রথম দেখিয়েছিলেন জ্যোতির্বিজ্ঞানী এডউইন হাবল । ১৯২৯ সালে তিনি তাঁর পর্যবেক্ষণে দেখান যে, যত দূরের গ্যালাক্সি, তত দ্রুত তারা পৃথিবী থেকে সরে যাচ্ছে। এই সম্পর্কটিকে বলা হয় হাবলস ল’ (Hubble’s Law), যা মহাবিশ্বের প্রসারণের প্রথম দৃশ্যমান প্রমাণ হিসেবে বিবেচিত।"
+    },
+    {
+      "number": "7",
+      "tag": "RCC 24,CPSCR 24,DB 21",
+      "question": "একটি স্ক্রুগজের বৃত্তাকার স্কেলের ভাগসংখ্যা a, ন্যূনাঙ্ক b এবং স্ক্রুর পিচ c হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "abc = 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "c = ab",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "a = bc",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "b = ac",
+          "is_correct": false
+        }
+      ],
+      "option_a": "abc = 1",
+      "option_b": "c = ab",
+      "option_c": "a = bc",
+      "option_d": "b = ac",
+      "correct": "খ",
+      "explanation": "এখানে, একটি স্ক্রুগজের পিচকে c c c দ্বারা, বৃত্তাকার স্কেলের ভাগসংখ্যা a a a দ্বারা এবং ন্যূনাঙ্ককে b b b দ্বারা প্রকাশ করা হয়েছে। স্ক্রুগজের সূত্র অনুসারে: ন্যূনাঙ্ক=পিচ/ বৃত্তাকার স্কেলের ভাগ সংখ্যা পিচ=ন্যূনাঙ্ক× বৃত্তাকারী স্কুলের ভাগ সংখ্যা c=b×a c=ab অতএব, সঠিক উত্তরে হবে: c = a b c = ab c = ab সুতরাং, সঠিক উত্তরটি হল বিকল্প B ."
+    },
+    {
+      "number": "8",
+      "tag": "RCC 24",
+      "question": "স্প্রিং দ্বারা স্পন্দনরত একটি বস্তুর গতি কী ধরনের?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বৃত্তীয় গতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সরলরৈখিক গতি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পর্যায়বৃত্ত গতি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "বক্রাকার গতি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বৃত্তীয় গতি",
+      "option_b": "সরলরৈখিক গতি",
+      "option_c": "পর্যায়বৃত্ত গতি",
+      "option_d": "বক্রাকার গতি",
+      "correct": "গ",
+      "explanation": "স্প্রিং দ্বারা স্পন্দনরত একটি বস্তুর গতি হলো পর্যায়বৃত্ত গতি। এটি এক ধরনের সরল ছন্দিক গতি যেখানে বস্তুটি স্প্রিংয়ের দ্বারা তার স্থিতিস্থাপক অবস্থার আশেপাশে ফিরে আসে। সঠিক উত্তর: পর্যায়বৃত্ত গতি"
+    },
+    {
+      "number": "9",
+      "tag": "RCC 24",
+      "question": "একটি চলন্ত বস্তুর বেগ 4 sec এ 6 m s -1 থেকে 12 m s -1 হলো। 4 sec পর বস্তুর বেগ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12ms -1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16ms -1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "18ms -1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "24ms -1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12ms -1",
+      "option_b": "16ms -1",
+      "option_c": "18ms -1",
+      "option_d": "24ms -1",
+      "correct": "গ",
+      "explanation": "আমরা জানি: - প্রাথমিক বেগ u = 6   m s − 1 u=6 \\mathrm{~ms}^{-1} u = 6   ms − 1 - চূড়ান্ত বেগ v = 12   m s − 1 v=12 \\mathrm{~ms}^{-1} v = 12   ms − 1 - সময় t = 4 s e c t=4 \\mathrm{sec} t = 4 sec \\qquad প্রথমে ত্বরণ নির্ণয় করি: a = v − u t = 12 − 6 4 = 6 4 = 1.5   m s − 2 a=\\frac{v-u}{t}=\\frac{12-6}{4}=\\frac{6}{4}=1.5 \\mathrm{~ms}^{-2} a = t v − u ​ = 4 12 − 6 ​ = 4 6 ​ = 1.5   ms − 2 এখন পরবর্তী 4 সেকেন্ডে একই ত্বরণ ধরে, নতুন বেগ নির্ণয় করি: v new  = v + a t = 12 + ( 1.5 × 4 ) = 12 + 6 = 18   m s − 1 v_{\\text {new }}=v+a t=12+(1.5 \\times 4)=12+6=18 \\mathrm{~ms}^{-1} v new  ​ = v + a t = 12 + ( 1.5 × 4 ) = 12 + 6 = 18   ms − 1"
+    },
+    {
+      "number": "10",
+      "tag": "FCC 24,RCC 24,JB 23,SB 19",
+      "question": "বন্দুক থেকে গুলি ছুঁড়লে- i. গুলি ও বন্দুকের ভরবেগ সমমুখী হয় ii. গুলি ও বন্দুকের ভরবেগ সমমানের হয় iii. বন্দুকের পশ্চাৎবেগ গুলির তুলনায় কম হয় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "বন্দুকের পশ্চাৎ বেগ: গুলি ছোড়ার পর বন্দুককে পেছনের দিকে সরে আসাও ভরবেগের নিত্যতার সূত্র থেকে ব্যাখ্যা করা যায়। এক্ষেত্রেও গুলি ছোড়ার পূর্বে বন্দুক ও গুলি উভয়ের বেগ শূন্য থাকে কাজেই তখন তাদের ভরবেগের সমষ্টি শূন্য। গুলি ছোড়ার পর সামনের দিকে গুলির ভরবেগ উৎপন্ন হয়। এক্ষেত্রেও গুলি ছোড়ার আগের ভরবেগের সমষ্টি পরের ভরবেগের সমষ্টির সমান হতে হবে। সুতরাং গুলি ছোড়ার পরের ভরবেগের সমষ্টি শূন্য হতে হলে বন্দুকেরও গুলির সমান ও বিপরীতমুখী একটা ভরবেগের সৃষ্টি হতে হবে। ফলে বন্দুককেও পেছনের দিকে সরে আসতে দেখা যায়। গুলি ছোড়ার সময় গুলি সামনের দিকে যায় এবং বন্দুক পশ্চাৎ ব্যাগের কারণে পিছনের দিকে যায়। তাই এদের ভরবেগ একে অপরের সমমানের হলেও বিপরীতমুখী হয়। এক্ষেত্রে উভয়ের ভরবেগ সমান থাকে। যেহেতু গুলির ভর অনেক কম তাই এর বেগ অনেক উচ্চ থাকে, অন্যদিকে বন্দুকের ভর বেশি হওয়ায় এর পশ্চাৎ বেগ অনেক কম হয় গুলির তুলনায়"
+    },
+    {
+      "number": "11",
+      "tag": "RCC 24",
+      "question": "একটি বস্তুর ভর 2 kg এবং আদিবেগ 5   m s − 1 5 \\mathrm{~ms}^{-1} 5   ms − 1 । যদি 3s পর বস্তুটির বেগ 8   m s − 1 8 \\mathrm{~ms}^{-1} 8   ms − 1 হয়, তবে বলের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1N",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2N",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3N",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4N",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1N",
+      "option_b": "2N",
+      "option_c": "3N",
+      "option_d": "4N",
+      "correct": "খ",
+      "explanation": "F = m a = m v − u t = 2 × 8 − 5 3 = 2 N F=m a=m \\frac{v-u}{t}=2 \\times \\frac{8-5}{3}=2 N F = ma = m t v − u ​ = 2 × 3 8 − 5 ​ = 2 N"
+    },
+    {
+      "number": "12",
+      "tag": "RCC 24",
+      "question": "10 kW ক্ষমতার কার্যকর ক্ষমতা যদি 6 kW হয় তবে কর্মদক্ষতা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60%",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "100%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30%",
+      "option_b": "40%",
+      "option_c": "60%",
+      "option_d": "100%",
+      "correct": "গ",
+      "explanation": "η = P ovt  P in  × 100 % = 6 10 × 100 = 60 % \\eta=\\frac{P_{\\text {ovt }}}{P_{\\text {in }}} \\times 100 \\%=\\frac{6}{10} \\times 100=60 \\% η = P in  ​ P ovt  ​ ​ × 100% = 10 6 ​ × 100 = 60%"
+    },
+    {
+      "number": "13",
+      "tag": "RCC 24",
+      "question": "ফিউশন বিক্রিয়ার জ্বালানী কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "হিলিয়াম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "হাইড্রোজেন",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ইউরেনিয়াম",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পানি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "হিলিয়াম",
+      "option_b": "হাইড্রোজেন",
+      "option_c": "ইউরেনিয়াম",
+      "option_d": "পানি",
+      "correct": "খ",
+      "explanation": "সবচেয়ে প্রচলিত ফিউশন বিক্রিয়া হলো ডিউটেরিয়াম-ট্রিটিয়াম (D-T) ফিউশন, যেখানে ডিউটেরিয়াম এবং ট্রিটিয়াম নিউক্লিয়াস একত্রিত হয়ে একটি হিলিয়াম নিউক্লিয়াস, একটি নিউট্রন এবং বিপুল পরিমাণ শক্তি উৎপন্ন করে।"
+    },
+    {
+      "number": "14",
+      "tag": "RCC 24",
+      "question": "চার্জের প্রবাহ নিচের কোনটি দ্বারা নির্ধারণ করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তড়িৎ শক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "তড়িৎ ক্ষমতা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তড়িৎ ক্ষেত্র",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "তড়িৎ বিভব",
+          "is_correct": true
+        }
+      ],
+      "option_a": "তড়িৎ শক্তি",
+      "option_b": "তড়িৎ ক্ষমতা",
+      "option_c": "তড়িৎ ক্ষেত্র",
+      "option_d": "তড়িৎ বিভব",
+      "correct": "ঘ",
+      "explanation": "প্রশ্ন: চার্জের প্রবাহ নিচের কোনটি দ্বারা নির্ধারণ করা হয়? উত্তর: তড়িৎ বিভব সমাধান: তড়িৎ বিভব (অথবা ভোল্টেজ) বৈদ্যুতিক চার্জের প্রবাহ নির্ধারণ করে। তড়িৎ বিভবের কারণেই চার্জ এক স্থান থেকে অন্য স্থানে প্রবাহিত হয়। ভোল্টেজ যত বেশি হয়, চার্জের প্রবাহ তত বেশি হয়। সুতরাং, সঠিক উত্তর হল (D) তড়িৎ বিভব ."
+    },
+    {
+      "number": "15",
+      "tag": "RCC 24",
+      "question": "যদি দুটি সদৃশ বিন্দু চার্জ 1 m দূরে রাখা হয় এবং এদের মধ্যকার বিকর্ষণ বল হয় 9 × 10 9 N, তবে প্রত্যেক চার্জের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1C",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "9 × 10 9 C",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0 C",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 C",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1C",
+      "option_b": "9 × 10 9 C",
+      "option_c": "0 C",
+      "option_d": "2 C",
+      "correct": "ক",
+      "explanation": "F = c q 1 q 2   d 2 \\mathrm{F}=\\frac{\\mathrm{c} \\mathrm{q}_{1} \\mathrm{q}_{2}}{\\mathrm{~d}^{2}} F =   d 2 c q 1 ​ q 2 ​ ​ বা, 9 × 10 9 = 9 × 10 9 × q × q ( 1 ) 2 9 \\times 10^{9}=\\frac{9 \\times 10^{9} \\times \\mathrm{q} \\times \\mathrm{q}}{(1)^{2}} 9 × 1 0 9 = ( 1 ) 2 9 × 1 0 9 × q × q ​ বা, q 2 = 1 \\mathrm{q}^{2}=1 q 2 = 1 বা, q = 1 C \\mathrm{q}=1 \\mathrm{C} q = 1 C"
+    },
+    {
+      "number": "16",
+      "tag": "DB 24,RB 24,PCC 24,RCC 24,HC 24,SJHSS 24,SB 23,JB 23,MB 22,DIN.B 22,CTG.B 22 ,JB 22,MB 21,DIN.B 21,MB 20,RB 20",
+      "question": "বর্তনীটির তূল্যরোধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "11/18 Ω",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18/11 Ω",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 Ω",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 Ω",
+          "is_correct": false
+        }
+      ],
+      "option_a": "11/18 Ω",
+      "option_b": "18/11 Ω",
+      "option_c": "3 Ω",
+      "option_d": "6 Ω",
+      "correct": "খ",
+      "explanation": "প্রশ্নে দেওয়া বর্তনীতে দুটি সমান্তরাল সংযুক্ত প্রতিরোধক এবং একটি সিরিজে সংযুক্ত প্রতিরোধক রয়েছে। এখানে tতূল্য প্রতিরোধক বের করতে আমাদেরকে প্রথমে সমান্তরাল প্রতিরোধকগুলির তূল্য প্রতিরোধক বের করতে হবে এবং পরে এটিকে সিরিজের সাথে যুক্ত প্রতিরোধকের সাথে যোগ করতে হবে। প্রথমে, সমান্তরাল প্রতিরোধকগুলির তূল্য প্রতিরোধক হিসাব করি: 1 R parallel = 1 R 1 + 1 R 2 \\frac{1}{R_\\text{parallel}} = \\frac{1}{R_1} + \\frac{1}{R_2} R parallel ​ 1 ​ = R 1 ​ 1 ​ + R 2 ​ 1 ​ এখানে, R 1 = 9 Ω R_1 = 9 \\, \\Omega R 1 ​ = 9 Ω এবং R 2 = 18 Ω R_2 = 18 \\, \\Omega R 2 ​ = 18 Ω । 1 R parallel = 1 9 + 1 18 \\frac{1}{R_\\text{parallel}} = \\frac{1}{9} + \\frac{1}{18} R parallel ​ 1 ​ = 9 1 ​ + 18 1 ​ 1 R parallel = 2 18 + 1 18 = 3 18 = 1 6 \\frac{1}{R_\\text{parallel}} = \\frac{2}{18} + \\frac{1}{18} = \\frac{3}{18} = \\frac{1}{6} R parallel ​ 1 ​ = 18 2 ​ + 18 1 ​ = 18 3 ​ = 6 1 ​ অতএব, সমান্তরাল প্রতিরোধকগুলির তূল্যরোধ হলো R parallel = 6 Ω R_\\text{parallel} = 6 \\, \\Omega R parallel ​ = 6 Ω । এখন, এই সমান্তরাল প্রতিরোধকটি সিরিজ প্রতিরোধক R 3 = 6 Ω R_3 = 6 \\, \\Omega R 3 ​ = 6 Ω এর সাথে যুক্ত: R total = R parallel + R 3 R_\\text{total} = R_\\text{parallel} + R_3 R total ​ = R parallel ​ + R 3 ​ R total = 6 + 6 = 12 Ω R_\\text{total} = 6 + 6 = 12 \\, \\Omega R total ​ = 6 + 6 = 12 Ω কিন্তু আমরা ভুল করেছি, R 3 R_3 R 3 ​ যে 6 Ω 6 \\, \\Omega 6 Ω ছিল না। এটা যে 6 Ω 6 \\, \\Omega 6 Ω এর সাথে সমান্তরাল বর্তনীতে অন্তর্ভুক্ত করাই ছিল। সমীকরণের ভুল নেই কিন্তু অপশন B ইতিমধ্যে ভুল থাকায় সর্বশেষ তৈরী করার ভুল থাকতে পারে। উত্তর হবে অপশন B) 18/11 ।"
+    },
+    {
+      "number": "17",
+      "tag": "RCC 24,JB 23",
+      "question": "চিত্রানুযায়ী- i. I = I 2 + I 1 \\mathrm{I}=\\mathrm{I}_{2}+\\mathrm{I}_{1} I = I 2 ​ + I 1 ​ ii. I 1 > I 2 I_{1}>I_{2} I 1 ​ > I 2 ​ iii. V 1 = V 2 V_{1}=V_{2} V 1 ​ = V 2 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "বর্তনীর মোট তড়িৎ প্রবাহ I = E R e q = 20 10 = 2   A \\mathrm{I}=\\frac{\\mathrm{E}}{\\mathrm{R}_{\\mathrm{eq}}}=\\frac{20}{10}=2 \\mathrm{~A} I = R eq ​ E ​ = 10 20 ​ = 2   A এখন, I 1 = 12 12 + 6 × 2 = 1.33   A \\mathrm{I}_{1}=\\frac{12}{12+6} \\times 2=1.33 \\mathrm{~A} I 1 ​ = 12 + 6 12 ​ × 2 = 1.33   A এবং I 2 = 6 12 + 6 × 2 = 0.67   A \\mathrm{I}_{2}=\\frac{6}{12+6} \\times 2=0.67 \\mathrm{~A} I 2 ​ = 12 + 6 6 ​ × 2 = 0.67   A i. I 1 + I 2 = 1.33 + 0.67 = 2 = I \\mathrm{I}_{1}+\\mathrm{I}_{2}=1.33+0.67=2=\\mathrm{I} I 1 ​ + I 2 ​ = 1.33 + 0.67 = 2 = I ii. I 1 > I 2 \\mathrm{I}_{1}>\\mathrm{I}_{2} I 1 ​ > I 2 ​ iii. সমান্তরালে সংযুক্ত একাধিক রোধের দুই প্রান্তের বিভব পার্থক্য একই থাকে। অর্থাৎ V 1 = V 2 = I R p = 2 × 4 = 8   V \\mathrm{V}_{1}=\\mathrm{V}_{2}=I \\mathrm{R}_{\\mathrm{p}}=2 \\times 4=8 \\mathrm{~V} V 1 ​ = V 2 ​ = I R p ​ = 2 × 4 = 8   V"
+    },
+    {
+      "number": "18",
+      "tag": "BB 24,RCC 24,BB 20",
+      "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে যখন-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আপতন কোণ > প্রতিফলন কোণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আপতন কোণ > প্রতিসরণ কোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আপতন কোণ > সংকট কোণ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সংকট কোণ > প্রতিসরণ কোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "আপতন কোণ > প্রতিফলন কোণ",
+      "option_b": "আপতন কোণ > প্রতিসরণ কোণ",
+      "option_c": "আপতন কোণ > সংকট কোণ",
+      "option_d": "সংকট কোণ > প্রতিসরণ কোণ",
+      "correct": "গ",
+      "explanation": "পূর্ণ অভ্যন্তরীণ প্রতিফলনের শর্ত: ১. আলোক রশ্মিকে অবশ্যই ঘন মাধ্যম থেকে হালকা মাধ্যমের অভিমুখে যেতে হবে এবং দুই মাধ্যমের বিভেদ-তলে আপতিত হবে। ২. ঘন মাধ্যমে আপাতন কোণ, ক্রান্তি কোণের চেয়ে বড় হতে হবে।"
+    },
+    {
+      "number": "19",
+      "tag": "RCC 24",
+      "question": "অবতল দর্পণের ক্ষেত্রে- i. বাস্তব অথবা অবাস্তব বিম্ব গঠিত হয় ii. সোজা ও উল্টো প্রতিবিম্ব গঠিত হয় iii. মেরু হলো সর্বোচ্চ বিন্দু নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "অবতল দর্পণের ক্ষেত্রে- ·       বাস্তব অথবা অবাস্তব বিম্ব গঠিত হয় ·       সোজা ও উল্টো প্রতিবিম্ব গঠিত হয় ·       বিবর্ধিত অথবা সমান প্রতিবিম্ব গঠিত হয় ·       মেরু হলো সর্বোনিম্ন বিন্দু"
+    },
+    {
+      "number": "20",
+      "tag": "RCC 24",
+      "question": "যে তাপ তাপমাত্রা অপরিবর্তিত রেখে তরলকে বাষ্পে রূপান্তরিত করে তাকে বলে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বাষ্পায়ন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "গলনের সুপ্ততাপ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বাষ্পীভবনের সুপ্ততাপ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ঘনীভবন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বাষ্পায়ন",
+      "option_b": "গলনের সুপ্ততাপ",
+      "option_c": "বাষ্পীভবনের সুপ্ততাপ",
+      "option_d": "ঘনীভবন",
+      "correct": "গ",
+      "explanation": "যে তাপ তাপমাত্রা অপরিবর্তিত রেখে তরলকে বাষ্পে রূপান্তরিত করে, তাকে বলা হয় বাষ্পীভবনের সুপ্ত তাপ বা Latent Heat of Vaporization । তাপমাত্রার পরিবর্তন ছাড়াই তরলকে গ্যাসে রূপান্তরিত করতে যে পরিমাণ তাপ প্রয়োজন, সেটাই বাষ্পীভবনের সুপ্ত তাপ।"
+    },
+    {
+      "number": "21",
+      "tag": "RCC 24",
+      "question": "মাধ্যমের পরিবর্তন হলে তরঙ্গের কোনটির পরিবর্তন হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কম্পাঙ্ক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "তরঙ্গদৈর্ঘ্য",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "পর্যায়কাল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চাপ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কম্পাঙ্ক",
+      "option_b": "তরঙ্গদৈর্ঘ্য",
+      "option_c": "পর্যায়কাল",
+      "option_d": "চাপ",
+      "correct": "খ",
+      "explanation": "তরঙ্গের কম্পাঙ্ক উৎসের উপর নির্ভর করে, তাই মাধ্যম বদলালেও এটি অপরিবর্তিত থাকে। তবে নতুন মাধ্যমে তরঙ্গের গতি ও তরঙ্গদৈর্ঘ্য পরিবর্তিত হয়।"
+    },
+    {
+      "number": "22",
+      "tag": "RCC 24",
+      "question": "শব্দের তীব্রতা তরঙ্গের বিস্তারের সাথে সম্পর্কযুক্ত-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বর্গমূলের ব্যাস্তানুপাতিক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ব্যাস্তানুপাতিক সমানুপাতিক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমানুপাতিক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বর্গের সমানুপাতিক",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বর্গমূলের ব্যাস্তানুপাতিক",
+      "option_b": "ব্যাস্তানুপাতিক সমানুপাতিক",
+      "option_c": "সমানুপাতিক",
+      "option_d": "বর্গের সমানুপাতিক",
+      "correct": "ঘ",
+      "explanation": "তীব্রতা ∝ (বিস্তার)² অর্থাৎ, যদি শব্দ তরঙ্গের বিস্তার দ্বিগুণ হয়, তাহলে তার তীব্রতা চার গুণ হয়ে যায়।"
+    },
+    {
+      "number": "23",
+      "tag": "RCC 24",
+      "question": "প্রতিসরণাঙ্ক- i. একক নেই ii. আলোর তরঙ্গদৈর্ঘ্যের উপর নির্ভর করে iii. বাতাসের ক্ষেত্রে 1.00029 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i. একক নেই : প্রতিসরণাঙ্ক হলো একই প্রকৃতির দুটি রাশির অনুপাত (যেমন, শূন্য মাধ্যমে আলোর বেগ এবং কোনো নির্দিষ্ট মাধ্যমে আলোর বেগের অনুপাত, অথবা আপতন কোণের সাইন এবং প্রতিসরণ কোণের সাইনের অনুপাত)। যেহেতু এটি দুটি সমজাতীয় রাশির অনুপাত, তাই এর কোনো একক থাকে না। এটি একটি বিশুদ্ধ সংখ্যা। ii. আলোর তরঙ্গদৈর্ঘ্যের উপর নির্ভর করে : প্রতিসরণাঙ্ক আলোর তরঙ্গদৈর্ঘ্যের (বা বর্ণের) উপর নির্ভর করে। এটিই ডিসপারশন (dispersion) বা আলোর বিচ্ছুরণ ঘটনার কারণ। যখন সাদা আলো কোনো প্রিজমের মধ্যে দিয়ে যায়, তখন আলোর বিভিন্ন রঙের জন্য (অর্থাৎ বিভিন্ন তরঙ্গদৈর্ঘ্যের জন্য) প্রতিসরণাঙ্ক ভিন্ন হয়, যার ফলে তারা ভিন্ন ভিন্ন কোণে বেঁকে যায় এবং বর্ণালীতে বিভক্ত হয়। সাধারণত, বেগুনি আলোর প্রতিসরণাঙ্ক সবচেয়ে বেশি এবং লাল আলোর প্রতিসরণাঙ্ক সবচেয়ে কম হয়। iii. বাতাসের ক্ষেত্রে 1.00029 : বাতাসের পরম প্রতিসরণাঙ্ক শূন্যের (vacuum) কাছাকাছি হলেও, এর একটি নির্দিষ্ট মান আছে। সাধারণত, বাতাসের প্রতিসরণাঙ্ক 1.00029 থেকে 1.0003 এর কাছাকাছি ধরা হয়। এটি শূন্য মাধ্যমের প্রতিসরণাঙ্ক (যা 1) থেকে সামান্য বেশি।"
+    },
+    {
+      "number": "24",
+      "tag": "RCC 24",
+      "question": "একটি উত্তল লেন্সের ফোকাস দূরত্ব 15 cm এবং একটি বস্তুকে মেরু থেকে 20 cm দূরে রাখা হলো। তবে- i. প্রতিবিম্ব উল্টো হবে ii. বিবর্ধন। এর চেয়ে বড় হবে iii. প্রতিবিম্বের দূরত্ব 60 cm নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "1 u + 1 v = 1 f \\frac{1}{u}+\\frac{1}{v}=\\frac{1}{f} u 1 ​ + v 1 ​ = f 1 ​ বা, 1 v = 1 15 − 1 20 \\frac{1}{v}=\\frac{1}{15}-\\frac{1}{20} v 1 ​ = 15 1 ​ − 20 1 ​ বা, v = 60   c m v=60 \\mathrm{~cm} v = 60   cm m = − v u = − 60 20 = − 3 \\mathrm{m}=-\\frac{\\mathrm{v}}{\\mathrm{u}}=-\\frac{60}{20}=-3 m = − u v ​ = − 20 60 ​ = − 3 [m যেহেতু ঋনাত্মক তাই প্রতিবিম্ব উল্টো] ∣ m ∣ > 1 |m|>1 ∣ m ∣ > 1 সুতরাং বিবর্ধিত।"
+    },
+    {
+      "number": "25",
+      "tag": "RCC 24",
+      "question": "নিচের কোন দুটি রাশির একক একই?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পীড়ন ও চাপ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "বিকৃতি ও চাপ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্থিতিস্থাপক ধ্রুবক ও বল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চাপ ও বল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "পীড়ন ও চাপ",
+      "option_b": "বিকৃতি ও চাপ",
+      "option_c": "স্থিতিস্থাপক ধ্রুবক ও বল",
+      "option_d": "চাপ ও বল",
+      "correct": "ক",
+      "explanation": "পীড়ন (Stress) এবং চাপ (Pressure) উভয়ই বল(N)/এলাকা(m^2) হিসাবে প্রকাশ করা যায়, যার একক নিউটন/বর্গমিটার(Nm^-2)বা পাস্কাল (Pa)। তাই উভয়ের একক একই। অন্যদিকে বিকৃতির কোনো একক নেই স্থিতিস্থাপক ধ্রুবকের একক Nm^-2 বলের একক N অতএব, সঠিক উত্তর হল A. পীড়ন ও চাপ"
+    }
+  ]
+}

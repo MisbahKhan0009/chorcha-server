@@ -1,0 +1,832 @@
+{
+  "read_id": "b4Q0IWp1vEhK0CHO",
+  "title": "রাজশাহী বোর্ড ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RB 25",
+      "question": "F ( x ) = 3 x − 2 F(x)=\\sqrt{3 x-2} F ( x ) = 3 x − 2 ​ ফাংশনটির ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডোম F = { x ∈ R : x ≠ 2 3 } F=\\left\\{x \\in \\mathbf{R}: x \\neq \\frac{2}{3}\\right\\} F = { x ∈ R : x  = 3 2 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ডোম F = { x ∈ R : x ≥ 2 3 } F=\\left\\{x \\in R: x \\geq \\frac{2}{3}\\right\\} F = { x ∈ R : x ≥ 3 2 ​ }",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ডোম ⁡ F = { x ∈ R : x ⩽ 2 3 } \\operatorname{ডোম} F=\\left\\{x \\in \\mathbb{R}: x \\leqslant \\frac{2}{3}\\right\\} ডোম F = { x ∈ R : x ⩽ 3 2 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ডোম F = { x ∈ R : x > 2 3 } ডোম F=\\left\\{x \\in R: x>\\frac{2}{3}\\right\\} ডোম F = { x ∈ R : x > 3 2 ​ }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ডোম F = { x ∈ R : x ≠ 2 3 } F=\\left\\{x \\in \\mathbf{R}: x \\neq \\frac{2}{3}\\right\\} F = { x ∈ R : x  = 3 2 ​ }",
+      "option_b": "ডোম F = { x ∈ R : x ≥ 2 3 } F=\\left\\{x \\in R: x \\geq \\frac{2}{3}\\right\\} F = { x ∈ R : x ≥ 3 2 ​ }",
+      "option_c": "ডোম ⁡ F = { x ∈ R : x ⩽ 2 3 } \\operatorname{ডোম} F=\\left\\{x \\in \\mathbb{R}: x \\leqslant \\frac{2}{3}\\right\\} ডোম F = { x ∈ R : x ⩽ 3 2 ​ }",
+      "option_d": "ডোম F = { x ∈ R : x > 2 3 } ডোম F=\\left\\{x \\in R: x>\\frac{2}{3}\\right\\} ডোম F = { x ∈ R : x > 3 2 ​ }",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "RB 25",
+      "question": "S = { ( x , y ) : x 2 + y 2 − 16 = 0 S=\\left\\{(x, y): x^{2}+y^{2}-16=0\\right. S = { ( x , y ) : x 2 + y 2 − 16 = 0 এবং x ≥ 0 } \\left.x \\geq 0\\right\\} x ≥ 0 } হলে , i. অন্বয়টি ফাংশন নয় ii. অন্বয়টির লেখচিত্র একটি অর্ধবৃত্ত iii. অন্বয়টির লেখচিত্র অক্ষের উপর অর্ধতলে থাকবে নিচের কোনটি সঠিক ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "1. ফাংশন নয়: একটি ফাংশন হতে হলে, প্রতিটি x মানের জন্য y এর একটি অনন্য মান থাকতে হবে। প্রদত্ত সমীকরণে, প্রতিটি x (যেখানে x ≥ 0) মানের জন্য y এর দুটি মান পাওয়া যাচ্ছে (একটি ধনাত্মক এবং একটি ঋণাত্মক)। সুতরাং, এটি একটি ফাংশন নয়। 2. অর্ধবৃত্ত: x² + y² = 16 একটি বৃত্তের সমীকরণ যার কেন্দ্র (0,0) এবং ব্যাসার্ধ 4। x ≥ 0 শর্তটি y-অক্ষের ডান দিকের অংশ নির্দেশ করে। সুতরাং, প্রদত্ত অন্বয়টির লেখচিত্র একটি অর্ধবৃত্ত। 3. অর্ধতলে থাকবে: x ≥ 0 শর্তটি y-অক্ষের ডান দিকের অংশ নির্দেশ করে। সুতরাং, লেখচিত্রটি y-অক্ষের ডান দিকের অর্ধতলে থাকবে।  অতএব, প্রদত্ত অন্বয়টির লেখচিত্র একটি অর্ধবৃত্ত এবং এটি ফাংশন নয়।"
+    },
+    {
+      "number": "3",
+      "tag": "RB 25",
+      "question": "নিচের কোনটি বহুপদী নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 x 2 4 x^{2} 4 x 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 x 6 x 6 x",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 x \\frac{3}{x} x 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "-4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 x 2 4 x^{2} 4 x 2",
+      "option_b": "6 x 6 x 6 x",
+      "option_c": "3 x \\frac{3}{x} x 3 ​",
+      "option_d": "-4",
+      "correct": "গ",
+      "explanation": "সুতরাং সঠিক উত্তর গ"
+    },
+    {
+      "number": "4",
+      "tag": "RB 25",
+      "question": "2 x 3 + x 2 − p x − 9 2 x^{3}+x^{2}-p x-9 2 x 3 + x 2 − p x − 9 বহুপদীর একটি উতপাদক ( x+3) p p p এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "18",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-18",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-42",
+          "is_correct": false
+        }
+      ],
+      "option_a": "18",
+      "option_b": "12",
+      "option_c": "-18",
+      "option_d": "-42",
+      "correct": "ক",
+      "explanation": "যদি (x+3) বহুপদীর একটি উৎপাদক হয়, তাহলে x=-3 বসালে বহুপদীর মান শূন্য হবে। সুতরাং, 2(-3)³ + (-3)² - p(-3) - 9 = 0 -54 + 9 + 3p - 9 = 0 -54 + 3p = 0 3p = 54 p = 18"
+    },
+    {
+      "number": "5",
+      "tag": "RB 25",
+      "question": "2 x 3 + x 2 − p x − 9 2 x^{3}+x^{2}-p x-9 2 x 3 + x 2 − p x − 9 বহুপদীর একটি উতপাদক ( x+3) বহুপদীটির মাত্রা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "2",
+      "option_c": "1",
+      "option_d": "0",
+      "correct": "ক",
+      "explanation": "বহুপদীটি হলো: 2x³ + x² - 18x - 9 এই বহুপদীর মাত্রা হল 3, কারণ x এর সর্বোচ্চ ঘাত 3।"
+    },
+    {
+      "number": "6",
+      "tag": "RB 25",
+      "question": "একটি সমকোণী সমদ্বিবাহু ত্রিভুজের সমকোণ সংলগ্ন বাহুদ্বয়ের প্রত্যেকটির দৈর্ঘ্য 3 সেমি. হলে, অতিভুজের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.44 সেমি. (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3.67 সেমি. (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4.24 সেমি. (প্রায়)",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6.36 সেমি. (প্রায়)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2.44 সেমি. (প্রায়)",
+      "option_b": "3.67 সেমি. (প্রায়)",
+      "option_c": "4.24 সেমি. (প্রায়)",
+      "option_d": "6.36 সেমি. (প্রায়)",
+      "correct": "গ",
+      "explanation": "একটি সমকোণী সমদ্বিবাহু ত্রিভুজের সমকোণ সংলগ্ন বাহুদ্বয়ের প্রত্যেকটির দৈর্ঘ্য 3 সেমি. হলে, অতিভুজের দৈর্ঘ্য নির্ণয়ের জন্য পিথাগোরাসের উপপাদ্য ব্যবহার করা যেতে পারে। পিথাগোরাসের উপপাদ্য অনুসারে, একটি সমকোণী ত্রিভুজের অতিভুজের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফল, অপর দুই বাহুর উপর অঙ্কিত বর্গক্ষেত্রদ্বয়ের ক্ষেত্রফলের সমষ্টির সমান।  ধরা যাক, সমকোণী সমদ্বিবাহু ত্রিভুজের সমকোণ সংলগ্ন বাহুদ্বয়ের দৈর্ঘ্য a, এবং অতিভুজের দৈর্ঘ্য c। তাহলে, পিথাগোরাসের উপপাদ্য অনুসারে, c² = a² + a² c² = 2a² c = √(2a²) c = a√2  এখানে, a = 3 সেমি. অতএব, c = 3√2 সেমি. c ≈ 4.24 সেমি.  সুতরাং, অতিভুজের দৈর্ঘ্য 3√2 সেমি. বা প্রায় 4.24 সেমি.।"
+    },
+    {
+      "number": "7",
+      "tag": "RB 25",
+      "question": "2x²-7.x-4=0 সমীকরণের মূলদ্বয় i বাস্তব ii. অসমান iii. অমূলদ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "এখানে, b 2 − 4 a c = ( − 7 ) 2 − 4 × 2 × ( − 4 ) = 49 + 32 = 81 \\begin{aligned} & b^{2}-4 a c \\\\ = & (-7)^{2}-4 \\times 2 \\times(-4) \\\\ = & 49+32 \\\\ = & 81 \\end{aligned} = = = ​ b 2 − 4 a c ( − 7 ) 2 − 4 × 2 × ( − 4 ) 49 + 32 81 ​ এখানে, b 2 − 4 a c > 0 b^{2}-4 a c>0 b 2 − 4 a c > 0 এবং একটি পূর্ণবর্গ সংখ্যা। ∴ \\therefore ∴ মুলদ্বয় বাস্তব, অসমান একং মুলদ হবে।"
+    },
+    {
+      "number": "8",
+      "tag": "RB 25",
+      "question": "log ⁡ 2 x 2 = 4 \\log _{\\sqrt{2}} x^{2} = 4 lo g 2 ​ ​ x 2 = 4 হলে x এর মান কত ? x এর ~মান ~কত ? x এর   মান   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "± 4 \\pm 4 ± 4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "± 2 2 \\pm 2 \\sqrt{2} ± 2 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "± 2 \\pm 2 ± 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "± 2 \\pm \\sqrt{2} ± 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "± 4 \\pm 4 ± 4",
+      "option_b": "± 2 2 \\pm 2 \\sqrt{2} ± 2 2 ​",
+      "option_c": "± 2 \\pm 2 ± 2",
+      "option_d": "± 2 \\pm \\sqrt{2} ± 2 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "RB 25",
+      "question": "( 1 + x ) 5 (1+x)^5 ( 1 + x ) 5 এর বিস্তৃতিতে দ্বি-পদী সহগগুলোর সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "31",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30",
+      "option_b": "31",
+      "option_c": "32",
+      "option_d": "36",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "RB 25",
+      "question": "( 2 x + 1 x ) 6 এর \\left(2 x+\\frac{1}{x}\\right)^{6} এর ( 2 x + x 1 ​ ) 6 এর বিস্তৃতিতে — i. পদসংখ্যা 7 ii. চতুর্থ পদ হলো মুক্ত iii. মুক্ত পদের মান 160 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "ঘ",
+      "explanation": "এখানে, i. পদসংখ্যা 7: (2x + 1/x) এর ৬ষ্ঠ ঘাতের বিস্তৃতিতে পদসংখ্যা হবে n+1 = 6+1 = 7, যা সঠিক। ii. চতুর্থ পদ হলো মুক্ত: চতুর্থ পদ (r=3) এর জন্য, বিস্তৃতির r+1 = 3+1 = ৪র্থ পদটি হবে, ⁶C₃ (2x)³ (1/x)³ = 20 8x³ 1/x³ = 160, যা x মুক্ত পদ। এটি সঠিক। iii. মুক্ত পদের মান 160: উপরে গণনা করে দেখা গেছে যে, চতুর্থ পদটি হলো 160, যা x মুক্ত পদ। সুতরাং, এই উক্তিটিও সঠিক।  অতএব, উপরের তিনটি উক্তিই সঠিক।"
+    },
+    {
+      "number": "11",
+      "tag": "RB 25",
+      "question": "B(12,2) এবং ((14,1) বিন্দুদ্বয়ের সংযোগকারী সবলরেখার ঢাল 3 হলে। এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "7",
+      "option_c": "8",
+      "option_d": "9",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "CB 20,All.B 18,ACC 24",
+      "question": "একটি ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 10 সে. মি. হলে ঐ ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল কত বর্গ সে. মি.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25 π 25 \\pi 25 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "100 π 100 \\pi 100 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "200 π 200 \\pi 200 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "400 π 400 \\pi 400 π",
+          "is_correct": true
+        }
+      ],
+      "option_a": "25 π 25 \\pi 25 π",
+      "option_b": "100 π 100 \\pi 100 π",
+      "option_c": "200 π 200 \\pi 200 π",
+      "option_d": "400 π 400 \\pi 400 π",
+      "correct": "ঘ",
+      "explanation": "একটি ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ (r) এবং পরিবৃন্তের ব্যাসার্ধ (R) এর মধ্যে সম্পর্ক হলো: r = R 2 r=\\frac{R}{2} r = 2 R ​ অর্থাৎ, R = 2 r R=2 r R = 2 r পরিবৃত্তের ব্যাসার্ধ নির্ণয় R = 2 × 10 = 20  সে.|মি.  R=2 \\times 10=20 \\text { সে.|মি. } R = 2 × 10 = 20   সে .| মি .  পরিবৃত্তের ক্ষেত্রফল নির্ণয় বৃত্তের ক্ষেত্রফলের সূত্র:  ক্ষেত্রফল  = π R 2 \\text { ক্ষেত্রফল }=\\pi R^{2}   ক্ষেত্রফল   = π R 2 মান বসিয়ে:  ক্ষেত্রফল  = π ( 20 ) 2 = 400 π  বর্গ সে.মি  \\text { ক্ষেত্রফল }=\\pi(20)^{2}=400 \\pi \\text { বর্গ সে.মি }   ক্ষেত্রফল   = π ( 20 ) 2 = 400 π   বর্গ   সে . মি"
+    },
+    {
+      "number": "2",
+      "tag": "DRMC 24,ISCM 24,RB 20,JB 19,ACC 24",
+      "question": "13 সে.মি., 16 সে.মি. এবং 17 সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি বৃত্ত পরস্পরকে বহিঃ স্পর্শ করলে কেন্দ্রত্রয় দ্বারা উৎপন্ন ত্রিভুজের অর্ধ পরিসীমা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "92 সেমি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "46 সেমি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "42 সেমি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "38 সেমি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "92 সেমি",
+      "option_b": "46 সেমি",
+      "option_c": "42 সেমি.",
+      "option_d": "38 সেমি.",
+      "correct": "খ",
+      "explanation": "ধরা যাক বৃত্ত তিনটির কেন্দ্র A, B এবং C। তাদের ব্যাসার্ধ যথাক্রমে r1 = 13 সেমি, r2 = 16 সেমি এবং r3 = 17 সেমি। যেহেতু বৃত্ত তিনটি পরস্পরকে বহিঃস্পর্শ করে, তাই ত্রিভুজ ABC-এর বাহুগুলির দৈর্ঘ্য হবে: AB = r1 + r2 = 13 + 16 = 29 সেমি BC = r2 + r3 = 16 + 17 = 33 সেমি CA = r3 + r1 = 17 + 13 = 30 সেমি ত্রিভুজ ABC-এর পরিসীমা (Perimeter) = AB + BC + CA = 29 + 33 + 30 = 92 সেমি ত্রিভুজ ABC-এর অর্ধ-পরিসীমা (Semi-perimeter) = (29 + 33 + 30) / 2 = 92 / 2 = 46 সেমি।"
+    },
+    {
+      "number": "3",
+      "tag": "RB 25,CPSCM 24",
+      "question": "16 x = 4 x + 1 16^{x}=4^{x+1} 1 6 x = 4 x + 1 সমীকরণটির সমাধান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "ক",
+      "explanation": "প্রদত্ত সমীকরণটি হল, 16 x = 4 x + 1 16^{x} = 4^{x+1} 1 6 x = 4 x + 1 আমরা জানি, 16 = 4 2 16 = 4^2 16 = 4 2 তাই, 16 x = ( 4 2 ) x = 4 2 x 16^x = (4^2)^x = 4^{2x} 1 6 x = ( 4 2 ) x = 4 2 x এখন সমীকরণটি হবে: 4 2 x = 4 x + 1 4^{2x} = 4^{x+1} 4 2 x = 4 x + 1 যেহেতু উভয় পাশে একই ভিত্তি 4 4 4 রয়েছে, তাই সূচকগুলো সমান হবে। 2 x = x + 1 2x = x + 1 2 x = x + 1 এখন x x x -এর জন্য সমাধান করলে পাই, 2 x − x = 1 2x - x = 1 2 x − x = 1 x = 1 x = 1 x = 1 অতএব, সমীকরণটির সমাধান x = 1 x = 1 x = 1"
+    },
+    {
+      "number": "4",
+      "tag": "CB 23,MB 22,SB 22,JB 22,MB 21,BB 20,JB 19,All.B 18",
+      "question": "x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটি- i. সমমাত্রিক ii. চক্রক্রমিক iii. প্রতিসম নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "প্রদত্ত রাশি: x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটিকে প্রসারিত করে সরলীকরণ প্রথমে প্রতিতি বন্ধনীকে প্রসারিত করি: = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 =x y^{2}-x z^{2}+y z^{2}-y x^{2}+z x^{2}-z y^{2} = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 পদগুলিকে পুনর্বিন্যাস করি: = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 =-x^{2} y+x y^{2}-y^{2} z+y z^{2}-z^{2} x+z x^{2} = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 এখন, আমরা লক্ষ্য করি যে এটি একটি চক্রক্রমিক রাশি, কারণ x , y x, y x , y , এবং z z z কে চক্রাকারে পরিবর্তন করলে রাশির গঠন অপরিবর্তিত থাকে। উদাহরণস্বরূপ: x → y , y → z , z → x x \\rightarrow y, y \\rightarrow z, z \\rightarrow x x → y , y → z , z → x প্রতিস্থাপন করলে: − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 -y^{2} z+y z^{2}-z^{2} x+z x^{2}-x^{2} y+x y^{2} − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 যা মূল রাশির সমান। সমমাত্রিকতা পরীক্ষা প্রর্তিটি পদের মোট ঘাত (ডিগ্রি) গণনা করি: − x 2 y : 2 + 1 = 3 -x^{2} y: 2+1=3 − x 2 y : 2 + 1 = 3 x y 2 : 1 + 2 = 3 x y^{2}: 1+2=3 x y 2 : 1 + 2 = 3 − y 2 z : 2 + 1 = 3 -y^{2} z: 2+1=3 − y 2 z : 2 + 1 = 3 y z 2 : 1 + 2 = 3 y z^{2}: 1+2=3 y z 2 : 1 + 2 = 3 − z 2 x : 2 + 1 = 3 -z^{2} x: 2+1=3 − z 2 x : 2 + 1 = 3 সকল পদের ডিগ্রি 3, তাই রাশিটি সমমাত্রিক । প্রতিসমতা পরীক্ষা রাশিটি প্রতিসম (Symmetric) নয়, কারণ যেকোনো দুটি চলক অদলবদল করলে রাশিটি অপরিবর্তিত থাকে না। উদাহরণস্বরূপ: x x x ও y y y অদলবদল করলে: y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) y\\left(x^{2}-z^{2}\\right)+x\\left(z^{2}-y^{2}\\right)+z\\left(y^{2}-x^{2}\\right) y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) যা মূল রাশির সমান নয়। সঠিক উত্তর: রাশিটি সমমাত্রিক এবং চক্রক্রমিক, কিন্তু প্রতিসম নয়। ∴ i \\therefore \\mathbf{i} ∴ i ও ii সঠিক।"
+    },
+    {
+      "number": "5",
+      "tag": "RB 25",
+      "question": "কোনো গুণোত্তর ধারার ১ম পদ 5 এবং সাধারণ অনুপাত -1/3 ধারাটির পঞ্চম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 3 6 \\frac{5}{3^{6}} 3 6 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "15 3 \\frac{15}{3} 3 15 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 3 ! \\frac{1}{3!} 3 ! 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 81 \\frac{5}{81} 81 5 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5 3 6 \\frac{5}{3^{6}} 3 6 5 ​",
+      "option_b": "15 3 \\frac{15}{3} 3 15 ​",
+      "option_c": "1 3 ! \\frac{1}{3!} 3 ! 1 ​",
+      "option_d": "5 81 \\frac{5}{81} 81 5 ​",
+      "correct": "ঘ",
+      "explanation": "গুণোত্তর ধারার n-তম পদ নির্ণয়ের সূত্রটি হলো: aₙ = a * r⁽ⁿ⁻¹⁾, যেখানে 'a' হলো প্রথম পদ, 'r' হলো সাধারণ অনুপাত এবং 'n' হলো পদ সংখ্যা।  প্রদত্ত তথ্যের ভিত্তিতে, ১ম পদ (a) = 5, সাধারণ অনুপাত (r) = -1/3, এবং পদ সংখ্যা (n) = 5। সুতরাং, পঞ্চম পদ (a₅) হবে:  a₅ = 5 (-1/3)⁽⁵⁻¹⁾ a₅ = 5 (-1/3)⁴ a₅ = 5 * (1/81) a₅ = 5/81 সুতরাং, ধারাটির পঞ্চম পদ 5/81।"
+    },
+    {
+      "number": "6",
+      "tag": "RB 25",
+      "question": "কোনো গুণোত্তর ধারার ১ম পদ 5 এবং সাধারণ অনুপাত -1/3 ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "15 2 \\frac{15}{2} 2 15 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20/3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16/3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15/4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "15 2 \\frac{15}{2} 2 15 ​",
+      "option_b": "20/3",
+      "option_c": "16/3",
+      "option_d": "15/4",
+      "correct": "ঘ",
+      "explanation": "অসীমতক সমষ্টির সূত্রটি হলো: S = a / (1 - r), যেখানে a হল প্রথম পদ এবং r হল সাধারণ অনুপাত। এখানে, a = 5 এবং r = -1/3। সুতরাং, S = 5 / (1 - (-1/3)) S = 5 / (1 + 1/3) S = 5 / (4/3) S = (5 * 3) / 4 S = 15/4"
+    },
+    {
+      "number": "7",
+      "tag": "RB 25",
+      "question": "- 1665 deg কোণটি কোন চতুর্ভাগে অবস্থান করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রথম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিতীয়",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "তৃতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রথম",
+      "option_b": "দ্বিতীয়",
+      "option_c": "তৃতীয়",
+      "option_d": "চতুর্থ",
+      "correct": "খ",
+      "explanation": "একটি কোণকে ৪টি চতুর্ভাগে ভাগ করা হয়: প্রথম, দ্বিতীয়, তৃতীয় এবং চতুর্থ। একটি সম্পূর্ণ ঘূর্ণন (360°) এর পর কোণটি পুনরায় প্রথম চতুর্ভাগ থেকে শুরু হয়। যেহেতু -1665° একটি ঋণাত্মক কোণ, তাই এটি ঘড়ির কাঁটার দিকে পরিমাপ করা হবে। -1665° কে 360° দ্বারা ভাগ করলে আমরা পাই -4. 625, যার মানে -1665° কোণটি -1440° (4টি সম্পূর্ণ ঘূর্ণন) এবং -1800° (5টি সম্পূর্ণ ঘূর্ণন) এর মধ্যে অবস্থিত। -1440° থেকে -1800° পর্যন্ত কোণটি দ্বিতীয় চতুর্ভাগে অবস্থিত।"
+    },
+    {
+      "number": "8",
+      "tag": "RB 25",
+      "question": "tan ⁡ ( A − 90 ∘ ) = − 3 \\tan \\left(A-90^{\\circ}\\right)=-\\sqrt{3} tan ( A − 9 0 ∘ ) = − 3 ​ , হলে A A A এর মান কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "50 ∘ 50^{\\circ} 5 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_b": "50 ∘ 50^{\\circ} 5 0 ∘",
+      "option_c": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_d": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "correct": "ঘ",
+      "explanation": "tan ⁡ ( A − 90 ∘ ) = − 3 − tan ⁡ ( 90 ∘ − A ) = − tan ⁡ 60 ∘ ( 90 ∘ − A ) = 60 ∘ A = 30 ∘ \\begin{array}{l} \\tan \\left(A-90^{\\circ}\\right)=-\\sqrt{3} \\\\ -\\tan \\left(90^{\\circ}-A\\right)=-\\tan 60^{\\circ} \\\\ \\left(90^{\\circ}-A\\right)=60^{\\circ} \\\\ A=30^{\\circ} \\end{array} tan ( A − 9 0 ∘ ) = − 3 ​ − tan ( 9 0 ∘ − A ) = − tan 6 0 ∘ ( 9 0 ∘ − A ) = 6 0 ∘ A = 3 0 ∘ ​"
+    },
+    {
+      "number": "9",
+      "tag": "RB 25",
+      "question": "cos ⁡ θ = − 3 2 \\cos \\theta=-\\frac{\\sqrt{3}}{2} cos θ = − 2 3 ​ ​ এবং π 2 < θ < π \\frac{\\pi}{2}<\\theta<\\pi 2 π ​ < θ < π হলে . θ \\theta θ এর মান কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 π 6 \\frac{5 \\pi}{6} 6 5 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 π 3 \\frac{2 \\pi}{3} 3 2 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7 π 6 \\frac{7 \\pi}{6} 6 7 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 π 3 \\frac{4 \\pi}{3} 3 4 π ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 π 6 \\frac{5 \\pi}{6} 6 5 π ​",
+      "option_b": "2 π 3 \\frac{2 \\pi}{3} 3 2 π ​",
+      "option_c": "7 π 6 \\frac{7 \\pi}{6} 6 7 π ​",
+      "option_d": "4 π 3 \\frac{4 \\pi}{3} 3 4 π ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "RB 25",
+      "question": "sec ⁡ ( 25 π 6 ) \\sec \\left(\\frac{25 \\pi}{6}\\right) sec ( 6 25 π ​ ) এর মান কোনটি ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+      "option_b": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+      "option_c": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+      "option_d": "1 2 \\frac{1}{2} 2 1 ​",
+      "correct": "ক",
+      "explanation": "25π/6 = 4π + π/6 sec(25π/6) = sec(4π + π/6) sec(θ) একটি পর্যায়বৃত্ত ফাংশন, যার পর্যায়কাল 2π, তাই sec(4π + π/6) = sec(π/6) sec(π/6) = 1/cos(π/6) cos(π/6) = √3/2 সুতরাং, sec(π/6) = 1/(√3/2) = 2/√3"
+    },
+    {
+      "number": "11",
+      "tag": "RB 25,JB 22",
+      "question": "P(3, 4) বিন্দু থেকে x-অক্ষের দূরত্ব কত একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "7",
+      "correct": "খ",
+      "explanation": "p (3, 4) এই বিন্দু থেকে x অক্ষের দূরত্ব 4 একক । y-স্থানাঙ্কের পরম মানই হলো কোনো বিন্দু থেকে x অক্ষের দূরত্ব।  এখানে, বিন্দুর y-স্থানাঙ্ক 4, এবং এর পরম মান |4| = 4। সুতরাং, বিন্দুটি থেকে x অক্ষের দূরত্ব 4 একক।"
+    },
+    {
+      "number": "12",
+      "tag": "RB 25,JB 25,DB 24,MB 24,VNSC 24,BNMPC 24,NISD 24,CPSCM 24,ISCM 24,MC 24,SJSC 24,RB 20,CTG.B 20",
+      "question": "মূলবিন্দু O এর সাপেক্ষে P এবং Q এর অবস্থান ভেক্টর যথাক্রমে 9 a ‾ − 4 b ‾ \\mathbf{9\\underline{\\mathbf{a}}-4\\underline{\\mathbf{b}} } 9 a ​ − 4 b ​ ও − 3 a ‾ − b ‾ -\\mathbf{3 \\underline{\\mathbf{a}}}-\\underline{\\mathbf{b}} − 3 a ​ − b ​ হলে, P Q → \\overrightarrow{\\mathbf{P Q}} PQ ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 a ‾ − 5 b ‾ 6 \\underline{a}-5 \\underline{b} 6 a ​ − 5 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12 a ‾ − 3 b ‾ 12 \\underline{a}-3 \\underline{b} 12 a ​ − 3 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 12 a ‾ + 3 b ‾ -12 \\underline{a}+3 \\underline{b} − 12 a ​ + 3 b ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12 a ‾ + 3 b ‾ 12 \\underline{a}+3 \\underline{b} 12 a ​ + 3 b ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 a ‾ − 5 b ‾ 6 \\underline{a}-5 \\underline{b} 6 a ​ − 5 b ​",
+      "option_b": "12 a ‾ − 3 b ‾ 12 \\underline{a}-3 \\underline{b} 12 a ​ − 3 b ​",
+      "option_c": "− 12 a ‾ + 3 b ‾ -12 \\underline{a}+3 \\underline{b} − 12 a ​ + 3 b ​",
+      "option_d": "12 a ‾ + 3 b ‾ 12 \\underline{a}+3 \\underline{b} 12 a ​ + 3 b ​",
+      "correct": "গ",
+      "explanation": "দুটি বিন্দু P P P এবং Q Q Q এর মধ্যবর্তী ভেক্টর P Q → \\overrightarrow{P Q} PQ ​ নিম্নোক্ত সূত্র দ্বারা প্রকাশ করা হয়: P Q → = O Q → − O P → \\overrightarrow{P Q}=\\overrightarrow{O Q}-\\overrightarrow{O P} PQ ​ = OQ ​ − OP মানগুলি বসানো P Q → = ( − 3 a − b ) − ( 9 a − 4 b ) = − 3 a − b − 9 a + 4 b = ( − 3 a − 9 a ) + ( − b + 4 b ) = − 12 a + 3 b \\begin{array}{c} \\overrightarrow{P Q}=(-3 \\mathbf{a}-\\mathbf{b})-(9 \\mathbf{a}-4 \\mathbf{b}) \\\\ =-3 \\mathbf{a}-\\mathbf{b}-9 \\mathbf{a}+4 \\mathbf{b} \\\\ =(-3 \\mathbf{a}-9 \\mathbf{a})+(-\\mathbf{b}+4 \\mathbf{b}) \\\\ =-12 \\mathbf{a}+3 \\mathbf{b} \\end{array} PQ ​ = ( − 3 a − b ) − ( 9 a − 4 b ) = − 3 a − b − 9 a + 4 b = ( − 3 a − 9 a ) + ( − b + 4 b ) = − 12 a + 3 b ​"
+    },
+    {
+      "number": "13",
+      "tag": "RB 25",
+      "question": "একটি সিলিন্ডারের ভূমির ব্যাস 4 সে.মি. এবং উচ্চতা 3 সে.মি. হলে এব বক্রতলের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 π \\pi π বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12 π \\pi π বর্গ সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "18 π \\pi π বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24 π \\pi π বর্গ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 π \\pi π বর্গ সে.মি.",
+      "option_b": "12 π \\pi π বর্গ সে.মি.",
+      "option_c": "18 π \\pi π বর্গ সে.মি.",
+      "option_d": "24 π \\pi π বর্গ সে.মি.",
+      "correct": "খ",
+      "explanation": "একটি সিলিন্ডারের বক্রতলের ক্ষেত্রফল (Curved Surface Area) নির্ণয়ের সূত্রটি হলো: 2πrh, যেখানে 'r' হলো ভূমির ব্যাসার্ধ এবং 'h' হলো উচ্চতা। এখানে, ভূমির ব্যাস 4 সেমি, তাই ব্যাসার্ধ (r) হবে 4/2 = 2 সেমি। এবং উচ্চতা (h) 3 সেমি। সুতরাং, বক্রতলের ক্ষেত্রফল = 2 π 2 * 3 = 12π বর্গ সেমি।"
+    },
+    {
+      "number": "14",
+      "tag": "RB 25",
+      "question": "একটি ছক্কা ও একটি মুদ্রা একত্রে একবার নিক্ষেপ করলে ছক্কায় বিজোড় সংখ্যা ও মুদ্রায় H আসার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "½",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "¼",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1/6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1/12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "½",
+      "option_b": "¼",
+      "option_c": "1/6",
+      "option_d": "1/12",
+      "correct": "খ",
+      "explanation": ", ছক্কা নিক্ষেপে বিজোড় সংখ্যা আসার সম্ভাবনা ৩/৬ = ১/২ এবং মুদ্রা নিক্ষেপে হেড আসার সম্ভাবনা ১/২। সুতরাং, উভয় ঘটনার একত্র ঘটার সম্ভাবনা (১/২) ×(১/২) = ১/৪।"
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "read_id": "uDtlSbIKXbQxgiPK",
+  "title": "বরিশাল বোর্ড ২০১৭",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "BB 17",
+      "question": "x y = y x x^{y}=y^{x} x y = y x এবং y = 2 x y=2 x y = 2 x সমীকরণ দুইটির সমাধান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(2, 4)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "(4, 2)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(-4, 2)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(4, -2)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(2, 4)",
+      "option_b": "(4, 2)",
+      "option_c": "(-4, 2)",
+      "option_d": "(4, -2)",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "BB 17",
+      "question": "log ⁡ x a × log ⁡ a b × log ⁡ b c × log ⁡ c y =  কত?  \\log _{x} a \\times \\log _{a} b \\times \\log _{b} c \\times \\log _{c} y=\\text { কত? } lo g x ​ a × lo g a ​ b × lo g b ​ c × lo g c ​ y =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "log ⁡ y x \\log _{y} x lo g y ​ x",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "log ⁡ x y \\log _{x} y lo g x ​ y",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "log ⁡ y \\log y lo g y",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "log ⁡ x \\log x lo g x",
+          "is_correct": false
+        }
+      ],
+      "option_a": "log ⁡ y x \\log _{y} x lo g y ​ x",
+      "option_b": "log ⁡ x y \\log _{x} y lo g x ​ y",
+      "option_c": "log ⁡ y \\log y lo g y",
+      "option_d": "log ⁡ x \\log x lo g x",
+      "correct": "খ",
+      "explanation": "আমরা জানি যে, log ⁡ k l = ln ⁡ l ln ⁡ k \\log _{k} l=\\frac{\\ln l}{\\ln k} lo g k ​ l = l n k l n l ​ । সুতরাং, প্রতিটি লগারিদমকে প্রাকৃতিক লগারিদমের মাধ্যমে প্রকাশ করা যায়: log ⁡ x a × log ⁡ a b × log ⁡ b c × log ⁡ c y = ln ⁡ a ln ⁡ x × ln ⁡ b ln ⁡ a × ln ⁡ c ln ⁡ b × ln ⁡ y ln ⁡ c = ln ⁡ y ln ⁡ x = log ⁡ x y \\log _{x} a \\times \\log _{a} b \\times \\log _{b} c \\times \\log _{c} y=\\frac{\\ln a}{\\ln x} \\times \\frac{\\ln b}{\\ln a} \\times \\frac{\\ln c}{\\ln b} \\times \\frac{\\ln y}{\\ln c}=\\frac{\\ln y}{\\ln x}=\\log _{x} y lo g x ​ a × lo g a ​ b × lo g b ​ c × lo g c ​ y = l n x l n a ​ × l n a l n b ​ × l n b l n c ​ × l n c l n y ​ = l n x l n y ​ = lo g x ​ y"
+    },
+    {
+      "number": "3",
+      "tag": "BB 17",
+      "question": "( a + b ) n (\\mathrm{a}+\\mathrm{b})^{\\mathrm{n}} ( a + b ) n এর বিস্তুতি এর সাধারন পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( n r ) a n b r \\binom{n}{\\mathrm{r}} \\mathrm{a}^{\\mathrm{n}} \\mathrm{b}^{r} ( r n ​ ) a n b r",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( n r ) a r b n \\binom{n}{r} a^{r} b^{n} ( r n ​ ) a r b n",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( n r ) a r b n − r \\binom{n}{r} a^{r} b^{n-r} ( r n ​ ) a r b n − r",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( n r ) a n − r b r \\binom{\\mathrm{n}}{\\mathrm{r}} \\mathrm{a}^{\\mathrm{n}-\\mathrm{r}} \\mathrm{b}^{r} ( r n ​ ) a n − r b r",
+          "is_correct": true
+        }
+      ],
+      "option_a": "( n r ) a n b r \\binom{n}{\\mathrm{r}} \\mathrm{a}^{\\mathrm{n}} \\mathrm{b}^{r} ( r n ​ ) a n b r",
+      "option_b": "( n r ) a r b n \\binom{n}{r} a^{r} b^{n} ( r n ​ ) a r b n",
+      "option_c": "( n r ) a r b n − r \\binom{n}{r} a^{r} b^{n-r} ( r n ​ ) a r b n − r",
+      "option_d": "( n r ) a n − r b r \\binom{\\mathrm{n}}{\\mathrm{r}} \\mathrm{a}^{\\mathrm{n}-\\mathrm{r}} \\mathrm{b}^{r} ( r n ​ ) a n − r b r",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "BB 17",
+      "question": "2 π 11 = \\frac{2 \\pi}{11}= 11 2 π ​ = কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "43 ∘ 32 ′ 38 ′ ′ 43^{\\circ} 32^{\\prime} 38^{\\prime \\prime} 4 3 ∘ 3 2 ′ 3 8 ′′",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "32 ∘ 43 ′ 38.18 ′ ′ 32^{\\circ} 43^{\\prime} 38.18^{\\prime \\prime} 3 2 ∘ 4 3 ′ 38.1 8 ′′",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "38 ∘ 32 ′ 43 ′ ′ 38^{\\circ} 32^{\\prime} 43^{\\prime \\prime} 3 8 ∘ 3 2 ′ 4 3 ′′",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "32 ∘ 38 ′ 43.18 ′ ′ 32^{\\circ} 38^{\\prime} 43.18^{\\prime \\prime} 3 2 ∘ 3 8 ′ 43.1 8 ′′",
+          "is_correct": false
+        }
+      ],
+      "option_a": "43 ∘ 32 ′ 38 ′ ′ 43^{\\circ} 32^{\\prime} 38^{\\prime \\prime} 4 3 ∘ 3 2 ′ 3 8 ′′",
+      "option_b": "32 ∘ 43 ′ 38.18 ′ ′ 32^{\\circ} 43^{\\prime} 38.18^{\\prime \\prime} 3 2 ∘ 4 3 ′ 38.1 8 ′′",
+      "option_c": "38 ∘ 32 ′ 43 ′ ′ 38^{\\circ} 32^{\\prime} 43^{\\prime \\prime} 3 8 ∘ 3 2 ′ 4 3 ′′",
+      "option_d": "32 ∘ 38 ′ 43.18 ′ ′ 32^{\\circ} 38^{\\prime} 43.18^{\\prime \\prime} 3 2 ∘ 3 8 ′ 43.1 8 ′′",
+      "correct": "খ",
+      "explanation": "."
+    },
+    {
+      "number": "5",
+      "tag": "BB 17",
+      "question": "1 + 1 3 + 1 9 + … … … 1+\\frac{1}{3}+\\frac{1}{9}+\\ldots \\ldots \\ldots 1 + 3 1 ​ + 9 1 ​ + ……… একটি অসীম ধারা। ধারাটির 15 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 14 \\frac{1}{2^{14}} 2 14 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 15 \\frac{1}{2^{15}} 2 15 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 3 14 \\frac{1}{3^{14}} 3 14 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 3 15 \\frac{1}{3^{15}} 3 15 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 14 \\frac{1}{2^{14}} 2 14 1 ​",
+      "option_b": "1 2 15 \\frac{1}{2^{15}} 2 15 1 ​",
+      "option_c": "1 3 14 \\frac{1}{3^{14}} 3 14 1 ​",
+      "option_d": "1 3 15 \\frac{1}{3^{15}} 3 15 1 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "BB 17",
+      "question": "1 + 1 3 + 1 9 + … … … 1+\\frac{1}{3}+\\frac{1}{9}+\\ldots \\ldots \\ldots 1 + 3 1 ​ + 9 1 ​ + ……… একটি অসীম ধারা। ধারাটির প্রথম পাঁচ পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "21 128 \\frac{21}{128} 128 21 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "81 121 \\frac{81}{121} 121 81 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "121 81 \\frac{121}{81} 81 121 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "121 18 \\frac{121}{18} 18 121 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "21 128 \\frac{21}{128} 128 21 ​",
+      "option_b": "81 121 \\frac{81}{121} 121 81 ​",
+      "option_c": "121 81 \\frac{121}{81} 81 121 ​",
+      "option_d": "121 18 \\frac{121}{18} 18 121 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "BB 17",
+      "question": "ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_c": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_d": "2",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "BB 17",
+      "question": "একটি ছক্কা নিক্ষেপে 2 আসার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "1 6 \\frac{1}{6} 6 1 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "BB 17",
+      "question": "f ( x ) = 2 x f(\\mathrm{x})=2^{\\mathrm{x}} f ( x ) = 2 x ফাংশনের জন্য যদি x → ∞ \\mathrm{x} \\rightarrow \\infty x → ∞ , হয় তাহলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "f ( x ) → 0 f(\\mathrm{x}) \\rightarrow 0 f ( x ) → 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "f ( x ) → 1 f(\\mathrm{x}) \\rightarrow 1 f ( x ) → 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "f ( x ) → − ∞ f(\\mathrm{x}) \\rightarrow-\\infty f ( x ) → − ∞",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "f ( x ) → ∞ f(x) \\rightarrow \\infty f ( x ) → ∞",
+          "is_correct": true
+        }
+      ],
+      "option_a": "f ( x ) → 0 f(\\mathrm{x}) \\rightarrow 0 f ( x ) → 0",
+      "option_b": "f ( x ) → 1 f(\\mathrm{x}) \\rightarrow 1 f ( x ) → 1",
+      "option_c": "f ( x ) → − ∞ f(\\mathrm{x}) \\rightarrow-\\infty f ( x ) → − ∞",
+      "option_d": "f ( x ) → ∞ f(x) \\rightarrow \\infty f ( x ) → ∞",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "BB 17",
+      "question": "নিচের কোনটি সূচক ফাংশন ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "f ( x ) = 2 x f(\\mathrm{x})=2 \\mathrm{x} f ( x ) = 2 x",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "f ( x ) = 2 x f(x)=2^{x} f ( x ) = 2 x",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "f ( x ) = 2 x f(x)=\\frac{2}{x} f ( x ) = x 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "f ( x ) = x 2 f(\\mathrm{x})=\\frac{\\mathrm{x}}{2} f ( x ) = 2 x ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "f ( x ) = 2 x f(\\mathrm{x})=2 \\mathrm{x} f ( x ) = 2 x",
+      "option_b": "f ( x ) = 2 x f(x)=2^{x} f ( x ) = 2 x",
+      "option_c": "f ( x ) = 2 x f(x)=\\frac{2}{x} f ( x ) = x 2 ​",
+      "option_d": "f ( x ) = x 2 f(\\mathrm{x})=\\frac{\\mathrm{x}}{2} f ( x ) = 2 x ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "BB 17",
+      "question": "(3,2) এবং (6,3) বিন্দুগামী সরলরেখার ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_b": "3",
+      "option_c": "6",
+      "option_d": "18",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "BB 17",
+      "question": "লগারিদমের ক্ষেত্রে- i. log ⁡ ( x y ) = log ⁡ x + log ⁡ y \\log (x y)=\\log x+\\log y lo g ( x y ) = lo g x + lo g y ii. log ⁡ ( x + y ) = log ⁡ x + log ⁡ y \\log (x+y)=\\log x+\\log y lo g ( x + y ) = lo g x + lo g y iii. log ⁡ x × log ⁡ y = log ⁡ x + log ⁡ y \\log x \\times \\log y=\\log x+\\log y lo g x × lo g y = lo g x + lo g y নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "i ও ii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "BB 17",
+      "question": "( x − 2 ) 2 + ( y + 3 ) 2 = 25 (x-2)^{2}+(y+3)^{2}=25 ( x − 2 ) 2 + ( y + 3 ) 2 = 25 বৃত্তের কেন্দ্রের স্থানাঙ্ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( − 3 , 2 ) (-3,2) ( − 3 , 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 2 , − 3 ) (2,-3) ( 2 , − 3 )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( − 2 , 3 ) (-2,3) ( − 2 , 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 3 , − 2 ) (3,-2) ( 3 , − 2 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( − 3 , 2 ) (-3,2) ( − 3 , 2 )",
+      "option_b": "( 2 , − 3 ) (2,-3) ( 2 , − 3 )",
+      "option_c": "( − 2 , 3 ) (-2,3) ( − 2 , 3 )",
+      "option_d": "( 3 , − 2 ) (3,-2) ( 3 , − 2 )",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "BB 17",
+      "question": "একটি মুদ্রাকে 3 বার নিক্ষেপ করা হলে নমুনা বিন্দুর সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "BB 17",
+      "question": "একটি সমবাহু ত্রিভুজের বহিঃস্থ কোণগুলোর যোগফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "180 ∘ 180^{\\circ} 18 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "270 ∘ 270^{\\circ} 27 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "360 ∘ 360^{\\circ} 36 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_b": "180 ∘ 180^{\\circ} 18 0 ∘",
+      "option_c": "270 ∘ 270^{\\circ} 27 0 ∘",
+      "option_d": "360 ∘ 360^{\\circ} 36 0 ∘",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "BB 17",
+      "question": "যদি A = { 2 , 3 } , B = { 3 , 4 } A=\\{2,3\\}, B=\\{3,4\\} A = { 2 , 3 } , B = { 3 , 4 } হয়, তাহলে— i. P ( A ) = { { 2 , 3 } , { 2 } , { 3 } , ∅ } \\mathrm{P}(\\mathrm{A})=\\{\\{2,3\\},\\{2\\},\\{3\\}, \\varnothing\\} P ( A ) = {{ 2 , 3 } , { 2 } , { 3 } , ∅ } ii. P ( B ) = { { 2 , 4 } , { 2 } , { 4 } , ∅ } \\mathrm{P}(\\mathrm{B})=\\{\\{2,4\\},\\{2\\},\\{4\\}, \\varnothing\\} P ( B ) = {{ 2 , 4 } , { 2 } , { 4 } , ∅ } iii. P ( A ∩ B ) = { { 3 } , ∅ } \\mathrm{P}(\\mathrm{A} \\cap \\mathrm{B})=\\{\\{3\\}, \\varnothing\\} P ( A ∩ B ) = {{ 3 } , ∅ } নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "i ও ii",
+      "option_c": "i ও iii",
+      "option_d": "ii ও iii",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "BB 17",
+      "question": "y = 3 এবং x= y-1 সরলরেখা দুইটির ছেদবিন্দু কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 3 , 2 ) (3,2) ( 3 , 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 2 , 3 ) (2,3) ( 2 , 3 )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( 3 , − 1 ) (3,-1) ( 3 , − 1 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( − 1 , 3 ) (-1,3) ( − 1 , 3 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 3 , 2 ) (3,2) ( 3 , 2 )",
+      "option_b": "( 2 , 3 ) (2,3) ( 2 , 3 )",
+      "option_c": "( 3 , − 1 ) (3,-1) ( 3 , − 1 )",
+      "option_d": "( − 1 , 3 ) (-1,3) ( − 1 , 3 )",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "BB 17",
+      "question": "যদি কোনো অনুক্রমের n n n তম পদ 1 − ( − 1 ) n 2 \\frac{1-(-1)^{\\mathrm{n}}}{2} 2 1 − ( − 1 ) n ​ হয়, হয়, তাহলে 19 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "0",
+      "option_c": "1",
+      "option_d": "2",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "BB 17",
+      "question": "sin ⁡ 2 ( − θ ) + cos ⁡ 2 ( θ ) = \\sin ^{2}(-\\theta)+\\cos ^{2}(\\theta)= sin 2 ( − θ ) + cos 2 ( θ ) = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "অসংঙ্গায়িত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "0",
+      "option_c": "1",
+      "option_d": "অসংঙ্গায়িত",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "BB 17",
+      "question": "একটি সমকোণী ত্রিভুজের অতিভুজ ভিন্ন অপর বাহুদ্বয় 8 সে.মি. ও 6 সে.মি.। একে বৃহত্তর বাহুর চতুর্দিকে ঘুরালে উৎপন্ন ঘনবস্তু হবে- i. সমবৃত্তভূমিক কোণক ii. সমবৃত্তভূমিক বেলন iii. উৎপন্ন ঘনবস্তুর ভূমির ক্ষেত্রফল 36 π 36 \\pi 36 π বর্গ সে.মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "ii",
+      "option_c": "i ও iii",
+      "option_d": "ii ও iii",
+      "correct": "গ",
+      "explanation": "প্রথমে, সমকোণী ত্রিভুজের বাহুগুলো: ভূমি = 8 = 8 = 8 সে.মি., লম্ব = 6 = 6 = 6 সে.মি., অতিভুজ = 8 2 + 6 2 = 64 + 36 = 100 = 10 = \\sqrt{8^2 + 6^2} = \\sqrt{64 + 36} = \\sqrt{100} = 10 = 8 2 + 6 2 ​ = 64 + 36 ​ = 100 ​ = 10 সে.মি. বৃহত্তর বাহু (অতিভুজ বাদে) = 8 = 8 = 8 সে.মি. এই বাহুটিকে অক্ষ ধরে ঘুরালে যে ঘনবস্তু তৈরি হয়, তা হবে একটি সমবৃত্তভূমিক শঙ্কু । কারণ: 8 8 8 সে.মি. বাহুকে অক্ষ ধরে ঘোরালে, 6 6 6 সে.মি. বাহুটি ভূমির ব্যাসার্ধ হবে। উচ্চতা = 8 = 8 = 8 সে.মি., ব্যাসার্ধ = 6 = 6 = 6 সে.মি.। (i) সমবৃত্তভূমিক কোণক → এটি শঙ্কুকে বোঝায় (ii) সমবৃত্তভূমিক বেলন নয়, কারণ শঙ্কু তৈরি হচ্ছে। (iii) উৎপন্ন ঘনবস্তুর ভূমির ক্ষেত্রফল 36 π 36\\pi 36 π বর্গ সে.মি.। ভূমির ক্ষেত্রফল = π r 2 = π × 6 2 = 36 π = \\pi r^2 = \\pi \\times 6^2 = 36\\pi = π r 2 = π × 6 2 = 36 π সঠিক উত্তর: i ও iii"
+    },
+    {
+      "number": "21",
+      "tag": "BB 17",
+      "question": "চিত্রে P, Q ও R হল যথাক্রমে EF, DF ও DE এর মধ্যবিন্দুত্রয়। যদি △ D E F \\triangle \\mathrm{DEF} △ DEF এর শীর্ষবিন্দুত্রয় দিয়ে একটি বৃত্ত আঁকা হয়, তাহলে এটি কী ধরনের বৃত্ত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পরিবৃত্ত",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "অন্তর্বৃত্ত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বহির্বৃত্ত",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "নববিন্দুবৃত্ত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "পরিবৃত্ত",
+      "option_b": "অন্তর্বৃত্ত",
+      "option_c": "বহির্বৃত্ত",
+      "option_d": "নববিন্দুবৃত্ত",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "BB 17",
+      "question": "চিত্রে P, Q ও R হল যথাক্রমে EF, DF ও DE এর মধ্যবিন্দুত্রয়। নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "D G : G P = 2 : 1 \\mathrm{DG}: \\mathrm{GP}=2: 1 DG : GP = 2 : 1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "D G : G P = 1 : 2 \\mathrm{DG}: \\mathrm{GP}=1: 2 DG : GP = 1 : 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "D G : G P = 3 : 2 \\mathrm{DG}: \\mathrm{GP}=3 : 2 DG : GP = 3 : 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "D G : G P − 2 : 3 \\mathrm{DG}: \\mathrm{GP}-2 : 3 DG : GP − 2 : 3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "D G : G P = 2 : 1 \\mathrm{DG}: \\mathrm{GP}=2: 1 DG : GP = 2 : 1",
+      "option_b": "D G : G P = 1 : 2 \\mathrm{DG}: \\mathrm{GP}=1: 2 DG : GP = 1 : 2",
+      "option_c": "D G : G P = 3 : 2 \\mathrm{DG}: \\mathrm{GP}=3 : 2 DG : GP = 3 : 2",
+      "option_d": "D G : G P − 2 : 3 \\mathrm{DG}: \\mathrm{GP}-2 : 3 DG : GP − 2 : 3",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "BB 17",
+      "question": "f ( x ) = 2 x − 3 f(\\mathrm{x})=\\sqrt{2 \\mathrm{x}-3} f ( x ) = 2 x − 3 ​ ফাংশনটির ডোমেন নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x ∈ R : x > 2 3 } \\left\\{x \\in \\R: x>\\frac{2}{3}\\right\\} { x ∈ R : x > 3 2 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x ∈ R : x ≥ 2 3 } \\left\\{x \\in \\R: x \\geq \\frac{2}{3}\\right\\} { x ∈ R : x ≥ 3 2 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x ∈ R : x > 3 2 } \\left\\{x \\in \\R: x>\\frac{3}{2}\\right\\} { x ∈ R : x > 2 3 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x ∈ □ : x ≥ 3 2 } \\left\\{x \\in \\square: x \\geq \\frac{3}{2}\\right\\} { x ∈ □ : x ≥ 2 3 ​ }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ x ∈ R : x > 2 3 } \\left\\{x \\in \\R: x>\\frac{2}{3}\\right\\} { x ∈ R : x > 3 2 ​ }",
+      "option_b": "{ x ∈ R : x ≥ 2 3 } \\left\\{x \\in \\R: x \\geq \\frac{2}{3}\\right\\} { x ∈ R : x ≥ 3 2 ​ }",
+      "option_c": "{ x ∈ R : x > 3 2 } \\left\\{x \\in \\R: x>\\frac{3}{2}\\right\\} { x ∈ R : x > 2 3 ​ }",
+      "option_d": "{ x ∈ □ : x ≥ 3 2 } \\left\\{x \\in \\square: x \\geq \\frac{3}{2}\\right\\} { x ∈ □ : x ≥ 2 3 ​ }",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "BB 17",
+      "question": "যদি P Q ∣ ∣ R S PQ||RS PQ ∣∣ RS হয়, তাহলে- i. P Q → = n R S → \\overrightarrow{P Q}=n \\overrightarrow{R S} PQ ​ = n RS ; যেখানে n হল অদিক রাশি ii. P Q → = R S → \\overrightarrow{\\mathrm{PQ}}=\\overrightarrow{\\mathrm{RS}} PQ ​ = RS iii. P Q → = S R → \\overrightarrow{\\mathrm{PQ}}=\\overrightarrow{\\mathrm{SR}} PQ ​ = SR নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "ii",
+      "option_c": "i ও ii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "BB 17",
+      "question": "নিচের কোনটি tan ⁡ ( − 25 π 6 ) \\tan \\left(\\frac{-25 \\pi}{6}\\right) tan ( 6 − 25 π ​ ) এর মান-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 3 -\\frac{1}{\\sqrt{3}} − 3 ​ 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "− 1 3 -\\frac{1}{\\sqrt{3}} − 3 ​ 1 ​",
+      "option_c": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_d": "1",
+      "correct": "খ",
+      "explanation": "tan ⁡ ( − 25 π 6 ) = − tan ⁡ ( 25 π 6 ) = − tan ⁡ ( 8 ⋅ π 2 + π 6 ) = − tan ⁡ π 6 = − 1 3 \\begin{array}{l}\\tan \\left(-\\frac{25 \\pi}{6}\\right) \\\\ =-\\tan \\left(\\frac{25 \\pi}{6}\\right) \\\\ =-\\tan \\left(8 \\cdot \\frac{\\pi}{2}+\\frac{\\pi}{6}\\right) \\\\ =-\\tan \\frac{\\pi}{6} \\\\ =-\\frac{1}{\\sqrt{3}}\\end{array} tan ( − 6 25 π ​ ) = − tan ( 6 25 π ​ ) = − tan ( 8 ⋅ 2 π ​ + 6 π ​ ) = − tan 6 π ​ = − 3 ​ 1 ​ ​"
+    }
+  ]
+}

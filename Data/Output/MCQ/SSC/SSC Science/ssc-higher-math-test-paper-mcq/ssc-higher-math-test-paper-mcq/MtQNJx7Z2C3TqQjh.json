@@ -1,0 +1,832 @@
+{
+  "read_id": "MtQNJx7Z2C3TqQjh",
+  "title": "দিনাজপুর বোর্ড ২০২০",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DIN.B 20,CTG.B 20",
+      "question": "A = { x : x ∈ R A=\\{x: x \\in \\R A = { x : x ∈ R এবং 1 ≤ x ≤ 2 } 1 \\leq x \\leq 2\\} 1 ≤ x ≤ 2 } B = { x : x ∈ R B=\\{x: x \\in\\R B = { x : x ∈ R এবং 0 < x < 1 } 0<x<1\\} 0 < x < 1 } হলে P ( A ∩ B ) P(A∩B) P ( A ∩ B ) কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "∅ \\varnothing ∅",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ ∅ } \\{\\varnothing\\} { ∅ }",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "{ { 1 } , { 2 } } \\{\\{1\\},\\{2\\}\\} {{ 1 } , { 2 }}",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ ∅ , { 1 } , { 2 } } \\{\\varnothing,\\{1\\},\\{2\\}\\} { ∅ , { 1 } , { 2 }}",
+          "is_correct": false
+        }
+      ],
+      "option_a": "∅ \\varnothing ∅",
+      "option_b": "{ ∅ } \\{\\varnothing\\} { ∅ }",
+      "option_c": "{ { 1 } , { 2 } } \\{\\{1\\},\\{2\\}\\} {{ 1 } , { 2 }}",
+      "option_d": "{ ∅ , { 1 } , { 2 } } \\{\\varnothing,\\{1\\},\\{2\\}\\} { ∅ , { 1 } , { 2 }}",
+      "correct": "খ",
+      "explanation": "প্রদত্ত সেট: A = { x ∈ R ∣ 1 ≤ x ≤ 2 } A=\\{x \\in \\mathbb{R} \\mid 1 \\leq x \\leq 2\\} A = { x ∈ R ∣ 1 ≤ x ≤ 2 } , B = { x ∈ R ∣ 0 ≤ x ≤ 1 } B=\\{x \\in \\mathbb{R} \\mid 0 \\leq x \\leq 1\\} B = { x ∈ R ∣ 0 ≤ x ≤ 1 } , A ∩ B A \\cap B A ∩ B নির্ণয় A A A এর সদস্য: 1 ≤ x ≤ 2 1 \\leq x \\leq 2 1 ≤ x ≤ 2 B B B এর সদস্য: 0 ≤ x ≤ 1 0 \\leq x \\leq 1 0 ≤ x ≤ 1 ছেদ সেট: A ∩ B A \\cap B A ∩ B হলো এমন সকল x x x যেগুলো একই সাথে A A A এবং B B B -এর সদস্য। A A A -এর সর্বনিম্ন মান 1 , কিন্তু B B B -এর সর্বোচ্চ মান 1 (অন্তর্ভুক্ত নয়)। সুতরাং, কোনো বাস্তব সংখ্যা x x x নেই যা উভয় সেটের শর্ত পূরণ করে। A ∩ B = ∅  (ফাঁকা সেট)  A \\cap B=\\emptyset \\quad \\text { (ফাঁকা সেট) } A ∩ B = ∅  ( ফাঁকা   সেট )  P ( A ∩ B ) P(A \\cap B) P ( A ∩ B ) নির্ণয় P ( A ∩ B ) P(A \\cap B) P ( A ∩ B ) হলো A ∩ B A \\cap B A ∩ B -এর শক্তি সেট (Power Set)। ফাঁকা সেটের শক্তি সেট: P ( ∅ ) = { ∅ } P(\\emptyset)=\\{\\emptyset\\} P ( ∅ ) = { ∅ } (একটি একক সেট যার উপাদান ফাঁকা সেট)।"
+    },
+    {
+      "number": "2",
+      "tag": "CB 20,CTG.B 20,SB 20,BB 20,DB 19,RB 19,CB 19,JB 19,BB 19,All.B 18,ACC 24",
+      "question": "যদি Δ \\Delta Δ PQR-এ PQ ও PR এর মধ্যবিন্দু যথাক্রমে M ও N হয়, তবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+      "option_b": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+      "option_c": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+      "option_d": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+      "correct": "ক",
+      "explanation": "△ P Q R \\triangle P Q R △ PQR হতে পাই P Q → + Q R → = P R → ⇒ Q R → = P R → − P Q → \\begin{aligned} & \\overrightarrow{P Q}+\\overrightarrow{Q R}=\\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{Q R}=\\overrightarrow{P R}-\\overrightarrow{P Q} \\end{aligned} ⇒ ​ PQ ​ + QR ​ = PR QR ​ = PR − PQ ​ ​ △ P M N \\triangle P M N △ PMN হতে পাই M N → = P N → − P M → \\overrightarrow{M N}=\\overrightarrow{P N}-\\overrightarrow{P M} MN = PN − PM P M → + M N → = P N → ↑ ⇒ 1 2 P Q → + M N → = 1 2 P R → ⇒ M N → = 1 2 P R → − 1 2 P Q → ⇒ M N → = 1 2 Q R → ⇒ P N → − P M → = 1 2 Q R → ∴ Q R → = 2 ( P N → − P M → ) \\begin{aligned} & \\overrightarrow{P M}+\\overrightarrow{M N}=\\overrightarrow{P N} \\uparrow \\\\ \\Rightarrow & \\frac{1}{2} \\overrightarrow{P Q}+\\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R}-\\frac{1}{2} \\overrightarrow{P Q} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\Rightarrow & \\overrightarrow{P N}-\\overrightarrow{P M}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\therefore & \\overrightarrow{Q R}=2(\\overrightarrow{P N}-\\overrightarrow{P M}) \\end{aligned} ⇒ ⇒ ⇒ ⇒ ∴ ​ PM + MN = PN ↑ 2 1 ​ PQ ​ + MN = 2 1 ​ PR MN = 2 1 ​ PR − 2 1 ​ PQ ​ MN = 2 1 ​ QR ​ PN − PM = 2 1 ​ QR ​ QR ​ = 2 ( PN − PM ) ​"
+    },
+    {
+      "number": "3",
+      "tag": "RB 24,CSCD 24,ISCM 24,MC 24,BCPC ,RB 23,BB 23,RB 22,DIN.B 22,CB 22,BB 22,DB 21,MB 21,CB 21,JB 21,DB 20,DIN.B 20,CB 19,CTG.B 19",
+      "question": "2x – 2y + 1 = 0 সমীকরণটির— i. ঢাল = 1 ii. y-অঙ্কের ছেদক = ½ iii. x-অক্ষের সাথে ধনাত্মক দিকে উৎপন্ন কোণ সূক্ষ্মকোণ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "সরল রেখার মানক রূপ হলো y = m x + c y=m x+c y = m x + c , যেখানে m m m হলো রেখার ঢাল এবং c c c হলো y y y -অক্ষের ছেদক। দেওয়া সমীকরণকে আমরা এই রূপে নিয়ে আসি: 2 x − 2 y + 1 = 0 2 x-2 y+1=0 2 x − 2 y + 1 = 0 − 2 y = − 2 x − 1 y = x + 1 2 -2 y=-2 x-1 y=x+\\frac{1}{2} − 2 y = − 2 x − 1 y = x + 2 1 ​ তাহলে রেখার ঢাল m = 1 । m=1 । m = 1 । y -অক্ষের ছেদক c = 1 2   c=\\frac{1}{2} \\ c = 2 1 ​   ধাপ ৩: x-অক্ষের সাথে তৈরি কোন নির্ণয় যেহেতু রেখার ঢাল m = 1 m=1 m = 1 , এবং ঢাল ধনাত্মক, তাই রেখাটি x x x -অক্ষের সাথে ধন্নাতক দিকে সুক্ষ কোন তৈরি করে ।"
+    },
+    {
+      "number": "4",
+      "tag": "DIN.B 20",
+      "question": "y = m x + c y=m x+c y = m x + c সমীকরণটির m m m ঋণাত্মক হলে লেখচিত্রে সরলরেখাটি দ্বারা x \\mathbf{x} x -অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ হবে—",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্থূলকোণ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রবৃদ্ধ কোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "স্থূলকোণ",
+      "option_b": "সূক্ষ্মকোণ",
+      "option_c": "সমকোণ",
+      "option_d": "প্রবৃদ্ধ কোণ",
+      "correct": "ক",
+      "explanation": "x অক্ষের ধনাত্মক দিকের সাথে কোনের মান 90° এর বেশি হলে m এর মান ঋণাত্মক হবে । সুতরাং উত্তর হবে স্থূলকোণ"
+    },
+    {
+      "number": "5",
+      "tag": "DIN.B 20",
+      "question": "( p − y 3 ) 7 \\left(\\mathrm{p}-\\frac{\\mathrm{y}}{3}\\right)^{7} ( p − 3 y ​ ) 7 এর বিস্তৃতিতে p 5 \\mathrm{p}^{5} p 5 এর সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 7 y 3 \\frac{-7 y}{3} 3 − 7 y ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 7 y 2 3 \\frac{-7 y^{2}}{3} 3 − 7 y 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7 y 3 \\frac{7 y}{3} 3 7 y ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 y 2 3 \\frac{7 y^{2}}{3} 3 7 y 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 7 y 3 \\frac{-7 y}{3} 3 − 7 y ​",
+      "option_b": "− 7 y 2 3 \\frac{-7 y^{2}}{3} 3 − 7 y 2 ​",
+      "option_c": "7 y 3 \\frac{7 y}{3} 3 7 y ​",
+      "option_d": "7 y 2 3 \\frac{7 y^{2}}{3} 3 7 y 2 ​",
+      "correct": "ঘ",
+      "explanation": "ধরি, পদটি 7 c r p 7 − r ( − y 3 ) r p 5  এর জন্য  7 − r = 5 ⇒ r = 2 ∴  পদটি,  7 c 2 p 7 − 2 ⋅ ( − y 3 ) 2 = 7 × 6 2 × 1 p 5 ⋅ y 2 9 = 7 3 y 2 ⋅ p 5 \\begin{array}{c} { }^{7} c_{r} p^{7-r}\\left(-\\frac{y}{3}\\right)^{r} \\\\ p^{5} \\text { এর জন্য } 7-r=5 \\\\ \\Rightarrow r=2 \\\\ \\therefore \\text { পদটি, }{ }^{7} c_{2} p^{7-2} \\cdot\\left(-\\frac{y}{3}\\right)^{2} \\\\ =\\frac{7 \\times 6}{2 \\times 1} p^{5} \\cdot \\frac{y^{2}}{9} \\\\ =\\frac{7}{3} y^{2} \\cdot p^{5} \\end{array} 7 c r ​ p 7 − r ( − 3 y ​ ) r p 5   এর   জন্য   7 − r = 5 ⇒ r = 2 ∴   পদটি ,  7 c 2 ​ p 7 − 2 ⋅ ( − 3 y ​ ) 2 = 2 × 1 7 × 6 ​ p 5 ⋅ 9 y 2 ​ = 3 7 ​ y 2 ⋅ p 5 ​"
+    },
+    {
+      "number": "6",
+      "tag": "DRMC 24,BMARPC 24,BAFSC 24,RCPC 24,BCPC ,DB 23,BB 23,DB 22,DIN.B 22,CB 22,CTG.B 21,BB 21,MB 20,DIN.B 20,CTG.B 20,RB 19",
+      "question": "log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x=3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ , হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "32",
+      "option_b": "16",
+      "option_c": "8",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": "দেয়া আছে log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x = 3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ প্রথমে ভগ্নাংশকে অপরিমেয় ভগ্নাংশের আকারে প্রকাশ করি: 3 1 3 = 10 3 3 \\frac{1}{3} = \\frac{10}{3} 3 3 1 ​ = 3 10 ​ অতএব, সমীকরণটি হবে: log ⁡ 8 x = 10 3 \\log _{\\sqrt{8}} x = \\frac{10}{3} lo g 8 ​ ​ x = 3 10 ​ এটি থেকে পাওয়া যায়: x = ( 8 ) 10 3 x = (\\sqrt{8})^{\\frac{10}{3}} x = ( 8 ​ ) 3 10 ​ 8 = 8 1 2 \\sqrt{8} = 8^{\\frac{1}{2}} 8 ​ = 8 2 1 ​ হিসাবে লিখতে পারি। তাহলে সমীকরণটি হবে: x = ( 8 1 2 ) 10 3 x = (8^{\\frac{1}{2}})^{\\frac{10}{3}} x = ( 8 2 1 ​ ) 3 10 ​ শক্তি হিসাব করে নেওয়া যাক: x = 8 1 2 × 10 3 = 8 5 3 x = 8^{\\frac{1}{2} \\times \\frac{10}{3}} = 8^{\\frac{5}{3}} x = 8 2 1 ​ × 3 10 ​ = 8 3 5 ​ এখন, এটিকে প্রাথমিক হিসাব করে বের করতে পারি: 8 = 2 3 8 = 2^3 8 = 2 3 সুতরাং, 8 5 3 = ( 2 3 ) 5 3 = 2 3 × 5 3 = 2 5 8^{\\frac{5}{3}} = (2^3)^{\\frac{5}{3}} = 2^{3 \\times \\frac{5}{3}} = 2^5 8 3 5 ​ = ( 2 3 ) 3 5 ​ = 2 3 × 3 5 ​ = 2 5 অতএব, x = 2 5 = 32 x = 2^5 = 32 x = 2 5 = 32"
+    },
+    {
+      "number": "7",
+      "tag": "DIN.B 20",
+      "question": "( 5 p ‾ − 3 q ‾ ) (5 \\underline{p}-3 \\underline{q}) ( 5 p ​ − 3 q ​ ) এর বিপরীত ভেক্টর কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 5 p ‾ − 3 q ‾ \\frac{1}{5 \\underline{p}-3 \\underline{q}} 5 p ​ − 3 q ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 q ‾ − 5 p ‾ \\frac{1}{3 \\underline{q}-5 \\underline{p}} 3 q ​ − 5 p ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 q ‾ − 5 p ‾ 3 \\underline{q}-5 \\underline{p} 3 q ​ − 5 p ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 q ‾ − 3 p ‾ 5 \\underline{q}-3 \\underline{p} 5 q ​ − 3 p ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 5 p ‾ − 3 q ‾ \\frac{1}{5 \\underline{p}-3 \\underline{q}} 5 p ​ − 3 q ​ 1 ​",
+      "option_b": "1 3 q ‾ − 5 p ‾ \\frac{1}{3 \\underline{q}-5 \\underline{p}} 3 q ​ − 5 p ​ 1 ​",
+      "option_c": "3 q ‾ − 5 p ‾ 3 \\underline{q}-5 \\underline{p} 3 q ​ − 5 p ​",
+      "option_d": "5 q ‾ − 3 p ‾ 5 \\underline{q}-3 \\underline{p} 5 q ​ − 3 p ​",
+      "correct": "গ",
+      "explanation": "বিপরীত ভেক্টরের মান একই শুধু দিক ভিন্ন"
+    },
+    {
+      "number": "8",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 19,All.B 18",
+      "question": "− 840 ∘ -840^{\\circ} − 84 0 ∘ কোণটির অবস্থান কোন চতুর্ভাগে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রথম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তৃতীয়",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রথম",
+      "option_b": "দ্বিতীয়",
+      "option_c": "তৃতীয়",
+      "option_d": "চতুর্থ",
+      "correct": "গ",
+      "explanation": "− 840 ∘ -840^{\\circ} − 84 0 ∘ কোণটির অবস্থান নির্ণয় করতে, আমরা নিম্নলিখিত ধাপগুলি অনুসরণ করব: কোণটিকে 0 ∘ 0^{\\circ} 0 ∘ থেকে 360 ∘ 360^{\\circ} 36 0 ∘ এর মধ্যে আনয়ন যেহেতু কোণের মান − 840 ∘ -840^{\\circ} − 84 0 ∘ যা ঋণাত্মক, আমরা এটিকে ধনাত্মক কোণে রূপান্তর করতে পারি। একটি পূর্ণ বৃত্ত 360 ∘ 360^{\\circ} 36 0 ∘ এর সমান, তাই আমরা − 840 ∘ -840^{\\circ} − 84 0 ∘ কে 360 ∘ 360^{\\circ} 36 0 ∘ দ্বারা ভাগ করে ভাগশেষ নির্ণয় করব। − 840 ∘ = − 2 × 360 ∘ − 120 ∘ -840^{\\circ}=-2 \\times 360^{\\circ}-120^{\\circ} − 84 0 ∘ = − 2 × 36 0 ∘ − 12 0 ∘ এখানে, − 2 × 360 ∘ = − 720 ∘ -2 \\times 360^{\\circ}=-720^{\\circ} − 2 × 36 0 ∘ = − 72 0 ∘ , তাই: − 840 ∘ = − 720 ∘ − 120 ∘ = − 840 ∘ -840^{\\circ}=-720^{\\circ}-120^{\\circ}=-840^{\\circ} − 84 0 ∘ = − 72 0 ∘ − 12 0 ∘ = − 84 0 ∘ এখন, − 120 ∘ -120^{\\circ} − 12 0 ∘ কে ধনাত্মক কোণে রূপান্তর করতে: − 120 ∘ + 360 ∘ = 240 ∘ -120^{\\circ}+360^{\\circ}=240^{\\circ} − 12 0 ∘ + 36 0 ∘ = 24 0 ∘ অত,এব, − 840 ∘ -840^{\\circ} − 84 0 ∘ কোণটি 240 ∘ 240^{\\circ} 24 0 ∘ কোণের সমতুল্য। কোণের অবস্থান নির্ণয় 240 ∘ 240^{\\circ} 24 0 ∘ কোণটি তৃতীয় চতুর্ভাগে অবস্থিত। কারণ: - প্রথম চতুর্ভাগ: 0 ∘ 0^{\\circ} 0 ∘ থেকে 90 ∘ 90^{\\circ} 9 0 ∘ - দ্বিতীয় চতুর্ভাগ: 90 ∘ 90^{\\circ} 9 0 ∘ থেকে 180 ∘ 180^{\\circ} 18 0 ∘ - তৃতীয় চতুর্ভাগ: 180 ∘ 180^{\\circ} 18 0 ∘ থেকে 270 ∘ 270^{\\circ} 27 0 ∘ - চতুর্থ চতুর্ভাগ: 270 ∘ 270^{\\circ} 27 0 ∘ থেকে 360 ∘ 360^{\\circ} 36 0 ∘ যেহেতু 240 ∘ 240^{\\circ} 24 0 ∘ কোণটি 180 ∘ 180^{\\circ} 18 0 ∘ থেকে 270 ∘ 270^{\\circ} 27 0 ∘ এর মধ্যে অবস্থিত, এটি তৃতীয় চতুর্ভাগে রয়েছে।"
+    },
+    {
+      "number": "9",
+      "tag": "BCPC ,DIN.B 20",
+      "question": "উপরের চিত্রের আলোকে sec ⁡ θ \\sec \\theta sec θ এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 \\sqrt{5} 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5 2 \\frac{\\sqrt{5}}{2} 2 5 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 5 \\frac{2}{\\sqrt{5}} 5 ​ 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 5 \\frac{1}{\\sqrt{5}} 5 ​ 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 \\sqrt{5} 5 ​",
+      "option_b": "5 2 \\frac{\\sqrt{5}}{2} 2 5 ​ ​",
+      "option_c": "2 5 \\frac{2}{\\sqrt{5}} 5 ​ 2 ​",
+      "option_d": "1 5 \\frac{1}{\\sqrt{5}} 5 ​ 1 ​",
+      "correct": "ক",
+      "explanation": "sec ⁡ θ = A C A B = 5 1 ∴ sec ⁡ θ = 5 \\begin{array}{l}\\sec \\theta=\\frac{A C}{A B}=\\frac{\\sqrt{5}}{1} \\\\ \\therefore \\sec \\theta=\\sqrt{5}\\end{array} sec θ = A B A C ​ = 1 5 ​ ​ ∴ sec θ = 5 ​ ​"
+    },
+    {
+      "number": "10",
+      "tag": "CB 20,SB 20,JB 20,DB 19,CB 19,DIN.B 19,CTG.B 19,SB 19,BB 19,ACC 24",
+      "question": "f ( x ) = 4 − 2 x f(\\mathbf{x})=\\sqrt{4-2 \\mathrm{x}} f ( x ) = 4 − 2 x ​ এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+      "option_b": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+      "option_c": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+      "option_d": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+      "correct": "গ",
+      "explanation": "f ( x ) = 4 − 2 x f(x) = \\sqrt{4-2x} f ( x ) = 4 − 2 x ​ বর্গমূলের ভিতরের রাশি অঋণাত্মক হতে হবে: 4 − 2 x ≥ 0 4-2x \\ge 0 4 − 2 x ≥ 0 − 2 x ≥ − 4 -2x \\ge -4 − 2 x ≥ − 4 x ≤ 2 x \\le 2 x ≤ 2 তাই ডোমেন: { x ∈ R ∣ x ≤ 2 } \\{x \\in \\mathbb{R} \\mid x \\le 2\\} { x ∈ R ∣ x ≤ 2 } ইন্টারভাল আকারে: ( − ∞ , 2 ] (-\\infty, 2] ( − ∞ , 2 ]"
+    },
+    {
+      "number": "11",
+      "tag": "DIN.B 20",
+      "question": "( 1 − 6 x ) 6 (1-6 x)^{6} ( 1 − 6 x ) 6 এর বিস্তৃতিতে x x x এর সহগ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-36",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-18",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "135",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-36",
+      "option_b": "-18",
+      "option_c": "6",
+      "option_d": "135",
+      "correct": "ক",
+      "explanation": "ধরি, পদটি, 6 C r ( − 6 x ) r { }^{6} C_{r}(-6 x)^{r} 6 C r ​ ( − 6 x ) r x x x এর সহগের জন্য r = 1 r=1 r = 1 ∴ 6 C 1 ( − 6 x ) 1 = 6 1 × ( − 6 ) = − 36 \\begin{array}{l} \\therefore{ }^{6} C_{1}(-6 x)^{1} \\\\ =\\frac{6}{1} \\times(-6) \\\\ =-36 \\end{array} ∴ 6 C 1 ​ ( − 6 x ) 1 = 1 6 ​ × ( − 6 ) = − 36 ​"
+    },
+    {
+      "number": "12",
+      "tag": "SB 21,DIN.B 20",
+      "question": "{ 1 , 3 , 5 , 7 , … } \\{1, \\sqrt{3}, \\sqrt{5}, \\sqrt{7}, \\ldots\\} { 1 , 3 ​ , 5 ​ , 7 ​ , … } অনুক্রমের সাধারণ পদ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 n + 1 \\sqrt{2 \\mathrm{n}+1} 2 n + 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 n − 1 \\sqrt{2 n-1} 2 n − 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "n + 1 \\sqrt{\\mathrm{n}+1} n + 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "n − 1 \\sqrt{\\mathrm{n}-1} n − 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 n + 1 \\sqrt{2 \\mathrm{n}+1} 2 n + 1 ​",
+      "option_b": "2 n − 1 \\sqrt{2 n-1} 2 n − 1 ​",
+      "option_c": "n + 1 \\sqrt{\\mathrm{n}+1} n + 1 ​",
+      "option_d": "n − 1 \\sqrt{\\mathrm{n}-1} n − 1 ​",
+      "correct": "খ",
+      "explanation": "প্রদত্ত অনুক্রম হলঃ { 1 , 3 , 5 , 7 , … } \\{1, \\sqrt{3}, \\sqrt{5}, \\sqrt{7}, \\ldots\\} { 1 , 3 ​ , 5 ​ , 7 ​ , … } এখানে পূর্বের সংখ্যা গুলোর পার্থক্য নির্ণয় করে দেখা যাক 3 − 1 = 2 \\sqrt{3} - 1 = \\sqrt{2} 3 ​ − 1 = 2 ​ 5 − 3 = 2 \\sqrt{5} - \\sqrt{3} = \\sqrt{2} 5 ​ − 3 ​ = 2 ​ 7 − 5 = 2 \\sqrt{7} - \\sqrt{5} = \\sqrt{2} 7 ​ − 5 ​ = 2 ​ এটি নির্দেশ করছে যে সংখ্যা গুলো মধ্যে ধারাবাহিক পার্থক্য থাকে 2 \\sqrt{2} 2 ​ , যা নির্দেশ করে যে প্রতিটি সংখ্যা অনুক্রমভাবে বৃদ্ধি পাচ্ছে। এটি দেখে বোঝা যায়, সাধারণ পদ (n তম পদ) হবে 2 n − 1 \\sqrt{2n-1} 2 n − 1 ​ । তাহলে উত্তর হবে, 2 n − 1 \\sqrt{2n-1} 2 n − 1 ​ ."
+    },
+    {
+      "number": "13",
+      "tag": "RUMC 24,BCPC ,MB 20,DIN.B 20",
+      "question": "তোমার নিকট 4 সে.মি. ব্যাসের একটি গোলক আকারের বল রয়েছে। বলটির আয়তন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8 π 8 \\pi 8 π ঘন সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16 π 16 \\pi 16 π ঘন সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36 3 π \\frac{36}{3} \\pi 3 36 ​ π ঘন সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "32 3 π \\frac{32}{3} \\pi 3 32 ​ π ঘন সে.মি.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "8 π 8 \\pi 8 π ঘন সে.মি.",
+      "option_b": "16 π 16 \\pi 16 π ঘন সে.মি.",
+      "option_c": "36 3 π \\frac{36}{3} \\pi 3 36 ​ π ঘন সে.মি.",
+      "option_d": "32 3 π \\frac{32}{3} \\pi 3 32 ​ π ঘন সে.মি.",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত: - গোলকের ব্যাস, d = 4 d=4 d = 4 সে.মি. ∴ \\therefore ∴ ব্যাসার্ধ, r = d 2 = 4 2 = 2 r=\\frac{d}{2}=\\frac{4}{2}=2 r = 2 d ​ = 2 4 ​ = 2 সে.মি. গোলকের আয়তনের সূত্র: V = 4 3 π r 3 V=\\frac{4}{3} \\pi r^{3} V = 3 4 ​ π r 3 গণনা: V = 4 3 π ( 2 ) 3 = 4 3 π × 8 = 32 3 π  ঘন সে.মি.  V=\\frac{4}{3} \\pi(2)^{3}=\\frac{4}{3} \\pi \\times 8=\\frac{32}{3} \\pi \\text { ঘন সে.মি. } V = 3 4 ​ π ( 2 ) 3 = 3 4 ​ π × 8 = 3 32 ​ π   ঘন   সে . মি ."
+    },
+    {
+      "number": "14",
+      "tag": "RUMC 24,GLHSD 24,BCPC ,MB 20,DIN.B 20",
+      "question": "তোমার নিকট 4 সে.মি. ব্যাসের একটি গোলক আকারের বল রয়েছে। গোলকের কেন্দ্র থেকে 1 সে.মি. উচ্চতায় তলচ্ছেদে উৎপন্ন বৃত্তক্ষেত্রের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π \\pi π বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 π \\sqrt{2} \\pi 2 ​ π বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 π \\sqrt{3} \\pi 3 ​ π বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 π 3 \\pi 3 π বর্গ সে.মি.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "π \\pi π বর্গ সে.মি.",
+      "option_b": "2 π \\sqrt{2} \\pi 2 ​ π বর্গ সে.মি.",
+      "option_c": "3 π \\sqrt{3} \\pi 3 ​ π বর্গ সে.মি.",
+      "option_d": "3 π 3 \\pi 3 π বর্গ সে.মি.",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত গোলকের ব্যাস হল 4 সে.মি., সুতরাং গোলকের ব্যাসার্ধ হল r = 4 2 = 2 r = \\frac{4}{2} = 2 r = 2 4 ​ = 2 সে.মি। গোলকের কেন্দ্র থেকে 1 সে.মি. উচ্চতায় একটি তলচ্ছেদে উৎপন্ন বৃত্তক্ষেত্রের ক্ষেত্রফল খুঁজতে হবে। তলচ্ছেদ থেকে কেন্দ্রের দূরত্ব হল 1 সে.মি., সুতরাং এই ক্ষেত্রে একটি ত্রিভুজ ব্যবহার করতে পারি যেখানে হাইপোটেনিউজ হবে গোলকের ব্যাসার্ধ এবং এক প্রান্ত হবে কেন্দ্র থেকে তলচ্ছেদের দূরত্ব। হাইপোটেনিউজ = r = 2 r = 2 r = 2 সে.মি., এবং এক প্রান্ত = 1 সে.মি। তাহলে বৃত্তের ব্যাসার্ধ হবে: r 2 − 1 2 = 2 2 − 1 2 = 4 − 1 = 3 \\sqrt{r^2 - 1^2} = \\sqrt{2^2 - 1^2} = \\sqrt{4 - 1} = \\sqrt{3} r 2 − 1 2 ​ = 2 2 − 1 2 ​ = 4 − 1 ​ = 3 ​ সে.মি। বৃত্তক্ষেত্রের ক্ষেত্রফল হবে: π × ( বৃত্তের ব্যাসার্ধ ) 2 = π × ( 3 ) 2 = 3 π \\pi \\times (\\text{বৃত্তের ব্যাসার্ধ})^2 = \\pi \\times (\\sqrt{3})^2 = 3\\pi π × ( বৃত্তের   ব্যাসার্ধ ) 2 = π × ( 3 ​ ) 2 = 3 π বর্গ সে.মি।"
+    },
+    {
+      "number": "15",
+      "tag": "CTG.B 25,RB 24,CPSCM 24,BMARPC 24,CSCD 24,MC 24,RCPC 24,JB 22,DB 21,JB 21,MB 20,DIN.B 20,ACC 24",
+      "question": "সকাল 9:25 মিনিটের সময় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "120°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "127.5°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "132.5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "197°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "120°",
+      "option_b": "127.5°",
+      "option_c": "132.5",
+      "option_d": "197°",
+      "correct": "গ",
+      "explanation": "মিনিটের কাঁটা প্রতি মিনিটে 6° অগ্রসর হয়। 9.25 সময়ে মিনিটের কাঁটার উৎপন্ন কোণ 25 × 6 = 150 ∘ 25 \\times 6=150^{\\circ} 25 × 6 = 15 0 ∘ . 9টার সময় ঘন্টার কাঁটা ছিল 9 × 30 = 270 ∘ 9 \\times 30=270^{\\circ} 9 × 30 = 27 0 ∘ এ 25 মিনিটে ঘন্টার কাঁটা অতিক্রম করে = 25 60 × 30 = 12.5 ∘ =\\frac{25}{60} \\times 30=12.5^{\\circ} = 60 25 ​ × 30 = 12. 5 ∘ ∴ \\therefore ∴ ঘন্টার কাঁটার মোট কোণ = 270 ∘ + 12.5 ∘ =270^{\\circ}+12.5^{\\circ} = 27 0 ∘ + 12. 5 ∘ = 282.5 ∘ =282.5^{\\circ} = 282. 5 ∘ ∴ \\therefore ∴ মিনিটের কাঁটা ও ঘন্টার দুটি মধ্যবতী কোণ = ( 282.5 ∘ − 150 ∘ ) = 132.5 ∘ \\begin{array}{l} =\\left(282.5^{\\circ}-150^{\\circ}\\right) \\\\ =132.5^{\\circ} \\end{array} = ( 282. 5 ∘ − 15 0 ∘ ) = 132. 5 ∘ ​"
+    },
+    {
+      "number": "16",
+      "tag": "DRMC 24,DIN.B 20",
+      "question": "শূন্য বহুপদীর মাত্রা কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অসংজ্ঞায়িত",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "x",
+      "option_d": "অসংজ্ঞায়িত",
+      "correct": "ঘ",
+      "explanation": "0 ⋅ x ∞ 0 \\cdot x^{\\infty} 0 ⋅ x ∞ x এর মতো অসংজ্ঞায়িত"
+    },
+    {
+      "number": "17",
+      "tag": "BCPC ,RB 22,DIN.B 20",
+      "question": "( − 3 , 5 ) (-3,5) ( − 3 , 5 ) বিন্দুগামী এবং x x x -অক্ষের সমান্তরাল সরলরেখার সমীকরণ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x = − 3 \\mathrm{x}=-3 x = − 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x = 5 \\mathrm{x}=5 x = 5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "y = − 3 y=-3 y = − 3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "y = 5 y=5 y = 5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "x = − 3 \\mathrm{x}=-3 x = − 3",
+      "option_b": "x = 5 \\mathrm{x}=5 x = 5",
+      "option_c": "y = − 3 y=-3 y = − 3",
+      "option_d": "y = 5 y=5 y = 5",
+      "correct": "ঘ",
+      "explanation": "x অক্ষের সমান্তরাল রেখার সমীকরণ y = b …(i) যা, (-3, 5) বিন্দুগামী, 5 = 6 ∴ b = 5 ∴  সমীকরণ y = 5 \\begin{array}{l}\\therefore b=5 \\\\ \\therefore \\text { সমীকরণ} y=5\\end{array} ∴ b = 5 ∴   সমীকরণ y = 5 ​"
+    },
+    {
+      "number": "18",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "19",
+      "tag": "DIN.B 20",
+      "question": "∠ X = 20 ∘ \\angle \\mathrm{X}=20^{\\circ} ∠ X = 2 0 ∘ হলে, ∠ X \\angle \\mathrm{X} ∠ X এর সম্পূরক কোণের অর্ধেক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 ∘ 10^{\\circ} 1 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "35 ∘ 35^{\\circ} 3 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "80 ∘ 80^{\\circ} 8 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "160 ∘ 160^{\\circ} 16 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 ∘ 10^{\\circ} 1 0 ∘",
+      "option_b": "35 ∘ 35^{\\circ} 3 5 ∘",
+      "option_c": "80 ∘ 80^{\\circ} 8 0 ∘",
+      "option_d": "160 ∘ 160^{\\circ} 16 0 ∘",
+      "correct": "গ",
+      "explanation": "∠ x = 20 ∘ ∠ x এর সম্পুরক   কোন = 180 ∘ − ∠ x = 180 ∘ − 20 ∘ = 160 ∘ \\begin{aligned} \\angle x & =20^{\\circ} \\\\ \\angle x & \\text {এর সম্পুরক } \\\\ \\text { কোন} & =180^{\\circ}-\\angle x \\\\ & =180^{\\circ}-20^{\\circ} \\\\ & =160^{\\circ} \\end{aligned} ∠ x ∠ x   কোন ​ = 2 0 ∘ এর   সম্পুরক   = 18 0 ∘ − ∠ x = 18 0 ∘ − 2 0 ∘ = 16 0 ∘ ​ 160 ∘ 160^{\\circ} 16 0 ∘ কোনের অর্ধেক 80 ∘ 80^{\\circ} 8 0 ∘ ,"
+    },
+    {
+      "number": "20",
+      "tag": "BB 24,PCC 24,FGCC 24,MB 20,RB 20,DIN.B 20,BB 20,All.B 18",
+      "question": "x − 10 > 3 x + 2 x-10>3 x+2 x − 10 > 3 x + 2 অসমতাটির সমাধান সেট কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "S = { x ∈ R : x < − 6 } \\mathrm{S}=\\{\\mathrm{x} \\in \\R: \\mathrm{x}<-6\\} S = { x ∈ R : x < − 6 }",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "S = { x ∈ R : x < 6 } S=\\{x \\in \\R: x<6\\} S = { x ∈ R : x < 6 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "S = { x ∈ R : x > 6 } S=\\{x \\in \\R: x>6\\} S = { x ∈ R : x > 6 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "S = { x ∈ R : x > − 6 } S=\\{x \\in \\R: x>-6\\} S = { x ∈ R : x > − 6 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "S = { x ∈ R : x < − 6 } \\mathrm{S}=\\{\\mathrm{x} \\in \\R: \\mathrm{x}<-6\\} S = { x ∈ R : x < − 6 }",
+      "option_b": "S = { x ∈ R : x < 6 } S=\\{x \\in \\R: x<6\\} S = { x ∈ R : x < 6 }",
+      "option_c": "S = { x ∈ R : x > 6 } S=\\{x \\in \\R: x>6\\} S = { x ∈ R : x > 6 }",
+      "option_d": "S = { x ∈ R : x > − 6 } S=\\{x \\in \\R: x>-6\\} S = { x ∈ R : x > − 6 }",
+      "correct": "ক",
+      "explanation": "x − 10 > 3 x + 2 x − 10 + 10 > 3 x + 2 + 10 ⇒ x > 3 x + 12 ⇒ x − 3 x > 3 x − 3 x + 12 ⇒ − 2 x > 12 ⇒ 2 x < − 12 ∴ x < − 6 ∴ S = { x ∈ R : x < − 6 } \\begin{array}{l}x-10>3 x+2 \\\\ x-10+10>3 x+2+10 \\\\ \\Rightarrow x>3 x+12 \\\\ \\Rightarrow x-3 x>3 x-3 x+12 \\\\ \\Rightarrow-2 x>12 \\\\ \\Rightarrow 2 x<-12 \\\\ \\therefore x<-6 \\\\ \\therefore S=\\{x \\in R: x<-6\\}\\end{array} x − 10 > 3 x + 2 x − 10 + 10 > 3 x + 2 + 10 ⇒ x > 3 x + 12 ⇒ x − 3 x > 3 x − 3 x + 12 ⇒ − 2 x > 12 ⇒ 2 x < − 12 ∴ x < − 6 ∴ S = { x ∈ R : x < − 6 } ​"
+    },
+    {
+      "number": "21",
+      "tag": "DIN.B 20",
+      "question": "Δ M N R \\Delta MNR Δ MNR -এ ∠ M R N ∠MRN ∠ MRN স্থূলকোণ হলে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "M N 2 > M R 2 + R N 2 \\mathrm{MN}^{2}>\\mathrm{MR}^{2}+\\mathrm{RN}^{2} MN 2 > MR 2 + RN 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "M N 2 < M R 2 + R N 2 \\mathrm{MN}^{2}<\\mathrm{MR}^{2}+\\mathrm{RN}^{2} MN 2 < MR 2 + RN 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "M N 2 = M R 2 + R N 2 \\mathrm{MN}^{2}=\\mathrm{MR}^{2}+\\mathrm{RN}^{2} MN 2 = MR 2 + RN 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "M R 2 > M N 2 + R N 2 \\mathrm{MR}^{2}>\\mathrm{MN}^{2}+\\mathrm{RN}^{2} MR 2 > MN 2 + RN 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "M N 2 > M R 2 + R N 2 \\mathrm{MN}^{2}>\\mathrm{MR}^{2}+\\mathrm{RN}^{2} MN 2 > MR 2 + RN 2",
+      "option_b": "M N 2 < M R 2 + R N 2 \\mathrm{MN}^{2}<\\mathrm{MR}^{2}+\\mathrm{RN}^{2} MN 2 < MR 2 + RN 2",
+      "option_c": "M N 2 = M R 2 + R N 2 \\mathrm{MN}^{2}=\\mathrm{MR}^{2}+\\mathrm{RN}^{2} MN 2 = MR 2 + RN 2",
+      "option_d": "M R 2 > M N 2 + R N 2 \\mathrm{MR}^{2}>\\mathrm{MN}^{2}+\\mathrm{RN}^{2} MR 2 > MN 2 + RN 2",
+      "correct": "ক",
+      "explanation": "∠ M R N =  স্থূলকোণ.   এক্ষেত্রে,  M N 2 > M R 2 + R N 2 \\begin{array}{l}\\angle M R N=\\text { স্থূলকোণ. } \\\\ \\text { এক্ষেত্রে, } M N^{2}>M R^{2}+R N^{2}\\end{array} ∠ MRN =   স্থূলকোণ .    এক্ষেত্রে ,  M N 2 > M R 2 + R N 2 ​"
+    },
+    {
+      "number": "22",
+      "tag": "NISD 24,DIN.B 20",
+      "question": "একটি পিরামিডের ভূমির ক্ষেত্রফল 4 বর্গ সে.মি. এবং উচ্চতা 3 সে.মি. হলে আয়তন কত ঘন সেমি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12",
+      "option_b": "6",
+      "option_c": "4",
+      "option_d": "3.5",
+      "correct": "গ",
+      "explanation": "পিরামিডের আয়তনের সূত্র:  আয়তন  = 1 3 ×  ভূমির ক্ষেত্রফল  ×  উচ্চতা  \\text { আয়তন }=\\frac{1}{3} \\times \\text { ভূমির ক্ষেত্রফল } \\times \\text { উচ্চতা }   আয়তন   = 3 1 ​ ×   ভূমির   ক্ষেত্রফল   ×   উচ্চতা   প্রদত্ত মানসমূহ: ভূমির ক্ষেত্রফন = 4 =4 = 4 বর্গ সে.মি. উচ্চতা = 3 =3 = 3 সে.মি. আয়তন নির্ণয়:  আয়তন  = 1 3 × 4 × 3 = 12 3 = 4  ঘন সে.মি.  \\text { আয়তন }=\\frac{1}{3} \\times 4 \\times 3=\\frac{12}{3}=4 \\text { ঘন সে.মি. }   আয়তন   = 3 1 ​ × 4 × 3 = 3 12 ​ = 4   ঘন   সে . মি ."
+    },
+    {
+      "number": "23",
+      "tag": "DIN.B 20",
+      "question": "△ P Q R \\triangle \\mathrm{PQR} △ PQR এর মধ্যমাত্রয় যথাক্রম P A , Q B \\mathrm{PA}, \\mathrm{QB} PA , QB ও RC মধ্যমাত্রয়ের দৈর্ঘ্য যথাক্রমে 3, 4 ও 5 সে.মি. এবং মধ্যমাত্রয় পরস্পর M বিন্দুতে ছেদ করে। PM এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_b": "1",
+      "option_c": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_d": "2",
+      "correct": "ঘ",
+      "explanation": "P M : M A = 2 : 1 ⇒ P M M A = 2 1 P M = 2 M A ⇒ M A = 1 2 P M P A = P M + M A ⇒ 3 = P M + 1 2 P M ⇒ 3 = 3 2 P M ∴ P M = 2. \\begin{aligned} & P M: M A=2: 1 \\\\ \\Rightarrow & \\frac{P M}{M A}=\\frac{2}{1} \\\\ & P M=2 M A \\Rightarrow M A=\\frac{1}{2} P M \\\\ & P A=P M+M A \\\\ \\Rightarrow & 3=P M+\\frac{1}{2} P M \\\\ \\Rightarrow & 3=\\frac{3}{2} P M \\\\ \\therefore & P M=2 .\\end{aligned} ⇒ ⇒ ⇒ ∴ ​ PM : M A = 2 : 1 M A PM ​ = 1 2 ​ PM = 2 M A ⇒ M A = 2 1 ​ PM P A = PM + M A 3 = PM + 2 1 ​ PM 3 = 2 3 ​ PM PM = 2. ​"
+    },
+    {
+      "number": "24",
+      "tag": "DIN.B 20",
+      "question": "△ P Q R \\triangle \\mathrm{PQR} △ PQR এর মধ্যমাত্রয় যথাক্রম P A , Q B \\mathrm{PA}, \\mathrm{QB} PA , QB ও RC মধ্যমাত্রয়ের দৈর্ঘ্য যথাক্রমে 3, 4 ও 5 সে.মি. এবং মধ্যমাত্রয় পরস্পর M বিন্দুতে ছেদ করে। PM এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_b": "1",
+      "option_c": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_d": "2",
+      "correct": "ঘ",
+      "explanation": "P M : M A = 2 : 1 ⇒ P M M A = 2 1 P M = 2 M A ⇒ M A = 1 2 P M P A = P M + M A ⇒ 3 = P M + 1 2 P M ⇒ 3 = 3 2 P M ∴ P M = 2. \\begin{aligned} & P M: M A=2: 1 \\\\ \\Rightarrow & \\frac{P M}{M A}=\\frac{2}{1} \\\\ & P M=2 M A \\Rightarrow M A=\\frac{1}{2} P M \\\\ & P A=P M+M A \\\\ \\Rightarrow & 3=P M+\\frac{1}{2} P M \\\\ \\Rightarrow & 3=\\frac{3}{2} P M \\\\ \\therefore & P M=2 .\\end{aligned} ⇒ ⇒ ⇒ ∴ ​ PM : M A = 2 : 1 M A PM ​ = 1 2 ​ PM = 2 M A ⇒ M A = 2 1 ​ PM P A = PM + M A 3 = PM + 2 1 ​ PM 3 = 2 3 ​ PM PM = 2. ​"
+    },
+    {
+      "number": "25",
+      "tag": "GLHSD 24,DIN.B 20",
+      "question": "MATHEMATICS শব্দটির প্রত্যেকটি বর্ণ আলাদা করে একটি বাক্সে রাখা হল। বাক্সটি থেকে নির্বিচারে একটি বর্ণ তুললে সেটি T হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 1 − 1 \\frac{9}{1-1} 1 − 1 9 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 9 \\frac{2}{9} 9 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 11 \\frac{2}{11} 11 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "9 1 − 1 \\frac{9}{1-1} 1 − 1 9 ​",
+      "option_b": "2 9 \\frac{2}{9} 9 2 ​",
+      "option_c": "1 5 \\frac{1}{5} 5 1 ​",
+      "option_d": "2 11 \\frac{2}{11} 11 2 ​",
+      "correct": "ঘ",
+      "explanation": "মোট বর্ণ সংখ্যা = 11 মোট T সংখ্যা = 2 ∴ T উঠার সম্ভাবনা = 2 11 \\frac{2}{11} 11 2 ​"
+    }
+  ]
+}

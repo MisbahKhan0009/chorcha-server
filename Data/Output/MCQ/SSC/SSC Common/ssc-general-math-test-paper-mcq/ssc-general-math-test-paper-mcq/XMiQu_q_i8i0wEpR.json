@@ -1,0 +1,964 @@
+{
+  "read_id": "XMiQu_q_i8i0wEpR",
+  "title": "রাজশাহী বোর্ড ২০২৫",
+  "count": 29,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RB 25",
+      "question": "{4,5,6,7,8} সেটটির প্রকৃত উপসেট কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "31",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "32",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "33",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "31",
+      "option_c": "32",
+      "option_d": "33",
+      "correct": "খ",
+      "explanation": "একটি সেটের n সংখ্যক উপাদান থাকলে, তার উপসেট সংখ্যা হয় 2^n, এবং প্রকৃত উপসেট সংখ্যা হয় 2^n - 1। এই ক্ষেত্রে, প্রদত্ত সেটে 5টি উপাদান (4, 5, 6, 7, 8) রয়েছে, তাই এর উপসেট সংখ্যা 2^5 = 32 এবং প্রকৃত উপসেট সংখ্যা 32 - 1 = 31।"
+    },
+    {
+      "number": "2",
+      "tag": "RB 25",
+      "question": "30 সে.মি. ব্যাসবিশিষ্ট বৃত্তের কেন্দ্র হতে 9 সে.মি. দূরে অবস্থিত জ্যা এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "21",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "42",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12",
+      "option_b": "21",
+      "option_c": "24",
+      "option_d": "42",
+      "correct": "গ",
+      "explanation": "[বৃত্তের কেন্দ্র থেকে ব্যাসভিন্ন কোন জ্যা এর উপর রেখা অঙ্কন করলে তা ঐ জ্যাকে লম্বদ্বিখন্ডিত করে] ∴ A C = ( 15 ) 2 − ( 9 ) 2 = 144 = 12 A B = A C × 2 = 12 × 2 = 24 \\begin{aligned} \\therefore \\quad A C & =\\sqrt{(15)^{2}-(9)^{2}} \\\\ & =\\sqrt{144}=12 \\\\ A B & =A C \\times 2 \\\\ & =12 \\times 2=24 \\end{aligned} ∴ A C A B ​ = ( 15 ) 2 − ( 9 ) 2 ​ = 144 ​ = 12 = A C × 2 = 12 × 2 = 24 ​"
+    },
+    {
+      "number": "3",
+      "tag": "RB 25",
+      "question": "x=-5 হলে 3x-2y = 5 সমীকরণ হতে প্রাপ্ত বিন্দুটি কোন চতুর্ভাগে অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রথম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তৃতীয়",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রথম",
+      "option_b": "দ্বিতীয়",
+      "option_c": "তৃতীয়",
+      "option_d": "চতুর্থ",
+      "correct": "গ",
+      "explanation": "x=−5 3x−2y=5 ⇒3×(−5)−2y=5 ⇒−15−2y=5 ⇒−15−5=2y y=−10 ∴(x,y)=(−5,−10); যা তৃতীয় চতুর্ভাগে বিদ্যমান।"
+    },
+    {
+      "number": "4",
+      "tag": "RB 25",
+      "question": "দুইটি সংখ্যার অনুপাত 2:3 এবং তাদের ল.সা.গু. 24 হলে সংখ্যা দুইটির গ.সা.গু. কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8",
+      "option_b": "4",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "খ",
+      "explanation": "ধরা যাক, সংখ্যা দুইটি হলো 2x এবং 3x। তাদের লসাগু (2x *3x) / গসাগু = 24। যেহেতু 2x এবং 3x এর গসাগু (greatest common divisor) হল x, তাই আমরা লিখতে পারি: (2x * 3x) / x = 24। এখান থেকে, 6x = 24, সুতরাং x = 4। সুতরাং, সংখ্যা দুইটির গসাগু (x) হল 4। সুতরাং, সংখ্যা দুইটির গসাগু 4"
+    },
+    {
+      "number": "5",
+      "tag": "RB 25",
+      "question": "নির্দিষ্ট চতুর্ভুজ আঁকার জন্য কতটি স্বতন্ত্র উপাত্ত প্রয়োজন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "নির্দিষ্ট চতুর্ভুজ আঁকার জন্য প্রয়োজনীয় স্বতন্ত্র উপাত্তের সংখ্যা: 5 ব্যাখ্যা: একটি সাধারণ চতুর্ভুজ গঠনের জন্য ন্যূনতম ৫টি স্বতন্ত্র উপাত্ত প্রয়োজন। নিচে এর কারণ দেওয়া হলো: মৌলিক উপাত্ত: চতুর্ভুজের ৪টি বাহু (a, b, c, d) এবং ১টি কোণ (যেকোনো একটি) দেওয়া থাকলে এটি অনন্যভাবে আঁকা সম্ভব। উদাহরণ: বাহু: 5 cm, 6 cm, 4 cm, 3 cm কোণ: 90° (যেকোনো এক বাহুর মধ্যে) বিকল্প উপাত্ত সমন্বয়: 3টি বাহু + 2টি কোণ (যেমন: দুই সন্নিহিত কোণ) 2টি বাহু + 3টি কোণ (যদি বিশেষ শর্ত থাকে) গাণিতিক যুক্তি: চতুর্ভুজের অভ্যন্তরীণ কোণের সমষ্টি = 360° 4টি বাহু ও 1টি কোণ জানা থাকলে অবশিষ্ট কোণগুলি ত্রিকোণমিতির মাধ্যমে নির্ণয় করা যায়। ব্যতিক্রম: বিশেষ চতুর্ভুজ (যেমন: বর্গ, আয়ত) ক্ষেত্রে কম উপাত্তে কাজ হয় (যেমন: বর্গের জন্য শুধু 1টি বাহুই যথেষ্ট)। সুতরাং, সাধারণ চতুর্ভুজের জন্য 5টি উপাত্ত প্রয়োজন।"
+    },
+    {
+      "number": "6",
+      "tag": "RB 25",
+      "question": "সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয়ের পার্থক্য 10 ° \\degree ° হলে উক্ত কোণদ্বয়ের বৃহত্তম কোণটির মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40 ° \\degree °",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "50 ° \\degree °",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "55 ° \\degree °",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "80 ° \\degree °",
+          "is_correct": false
+        }
+      ],
+      "option_a": "40 ° \\degree °",
+      "option_b": "50 ° \\degree °",
+      "option_c": "55 ° \\degree °",
+      "option_d": "80 ° \\degree °",
+      "correct": "খ",
+      "explanation": "একটি সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয়ের পার্থক্য 10° হলে, বৃহত্তম সূক্ষ্মকোণটির মান হবে 50° । একটি সমকোণী ত্রিভুজের তিনটি কোণের সমষ্টি 180° হয়। সমকোণী ত্রিভুজে একটি কোণ 90° থাকে, তাই অন্য দুটি সূক্ষ্মকোণের সমষ্টি 180° - 90° = 90° হবে। যদি সূক্ষ্মকোণ দুটি x এবং y হয়, তবে তাদের পার্থক্য 10° দেওয়া আছে, অর্থাৎ x - y = 10°। তাদের যোগফল 90° হবে, x + y = 90°। এখন, দুটি সমীকরণ সমাধান করে পাই: x - y = 10 x + y = 90 এই দুটি সমীকরণ যোগ করে পাই, 2x = 100, সুতরাং x = 50°। অতএব, বৃহত্তম সূক্ষ্মকোণটির মান 50°"
+    },
+    {
+      "number": "7",
+      "tag": "RB 25",
+      "question": "△ L M N \\triangle \\mathrm{LMN} △ LMN ও △ P Q R \\triangle \\mathrm{PQR} △ PQR সদৃশ এবং M N : Q R = 4 : 5 \\mathrm{MN}: \\mathrm{QR}=4: 5 MN : QR = 4 : 5 হলে △ P O R : △ L M N = \\triangle \\mathrm{POR}: \\triangle \\mathrm{LMN}= △ POR : △ LMN = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "16:25",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4:5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5:4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25:16",
+          "is_correct": true
+        }
+      ],
+      "option_a": "16:25",
+      "option_b": "4:5",
+      "option_c": "5:4",
+      "option_d": "25:16",
+      "correct": "ঘ",
+      "explanation": "যেহেতু △LMN ও △PQR সদৃশ, তাই তাদের অনুরূপ বাহুগুলির অনুপাত সমান হবে। অর্থাৎ, LM/PQ = MN/QR = NL/RP হবে। এখানে, MN:QR = 4:5 দেওয়া আছে। সদৃশ ত্রিভুজের ক্ষেত্রফলের অনুপাত তাদের অনুরূপ বাহুগুলির বর্গের অনুপাতের সমান। সুতরাং, (△POR এর ক্ষেত্রফল) / (△LMN এর ক্ষেত্রফল) = (QR/MN) 2 = (5/4) 2 = 25/16 হবে।"
+    },
+    {
+      "number": "8",
+      "tag": "RB 25",
+      "question": "একটি সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ 5 সে.মি. এবং উচ্চতা 6 সে.মি. হলে বেলনটির i ভূমির ক্ষেত্রফল = 25 π \\pi π বর্গ সে.মি. ii. আয়তন = 150 π \\pi π ঘন সে.মি iii. বক্রতলের ক্ষেত্রফল = 60 π \\pi π বর্গ সে.মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "দেওয়া আছে, সমবৃত্তভূমিক বেলনের ব্যাসার্ধ = 5 c m =5 \\mathrm{~cm} = 5 cm উচ্চতা, h = 6 c m h=6 \\mathrm{~cm} h = 6 cm (i) ভূমির ক্ষেত্রফল = π r 2 = ( 5 ) 2 × π = 25 π =\\pi r^{2}=(5)^{2} \\times \\pi=25 \\pi = π r 2 = ( 5 ) 2 × π = 25 π ব. সে.মি. (ii) আয়তন = π r 2 h = π × 5 2 × 6 = 150 π =\\pi r^{2} h=\\pi \\times 5^{2} \\times 6=150 \\pi = π r 2 h = π × 5 2 × 6 = 150 π ঘন সে.মি. (iii) বক্রতলের ক্ষেত্রফল = 2 π r h = 2 × π × 5 × 6 = 60 π =2 \\pi r h=2 \\times \\pi \\times 5 \\times 6=60 \\pi = 2 π r h = 2 × π × 5 × 6 = 60 π ব. সে.মি. ∴ \\therefore ∴ সঠিক উত্তর: i, ii ও iii."
+    },
+    {
+      "number": "9",
+      "tag": "RB 25",
+      "question": "1 + cot ⁡ 2 A 1 − cos ⁡ 2 A = কোনটি? \\frac{1+\\cot ^{2} A}{1-\\cos ^{2} A}=\\text { কোনটি? } 1 − c o s 2 A 1 + c o t 2 A ​ = কোনটি ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "cosec ⁡ 4 A \\operatorname{cosec}^{4} A cosec 4 A",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "sin ⁡ 4 A \\sin ^{4} A sin 4 A",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "cot ⁡ 4 A \\cot ^{4} A cot 4 A",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "cos ⁡ 4 A \\cos ^{4} A cos 4 A",
+          "is_correct": false
+        }
+      ],
+      "option_a": "cosec ⁡ 4 A \\operatorname{cosec}^{4} A cosec 4 A",
+      "option_b": "sin ⁡ 4 A \\sin ^{4} A sin 4 A",
+      "option_c": "cot ⁡ 4 A \\cot ^{4} A cot 4 A",
+      "option_d": "cos ⁡ 4 A \\cos ^{4} A cos 4 A",
+      "correct": "ক",
+      "explanation": "1 + cot ⁡ 2 A 1 − cos ⁡ 2 A = cosec ⁡ 2 A sin ⁡ 2 A = cosec ⁡ 2 A ⋅ 1 sin ⁡ 2 A = cosec ⁡ 2 A ⋅ cosec ⁡ 2 A = cosec ⁡ 4 A \\begin{array}{l}\\frac{1+\\cot ^{2} A}{1-\\cos ^{2} A}=\\frac{\\operatorname{cosec}^{2} A}{\\sin ^{2} A}=\\operatorname{cosec}^{2} A \\cdot \\frac{1}{\\sin ^{2} A} \\\\ =\\operatorname{cosec}^{2} A \\cdot \\operatorname{cosec}^{2} A \\\\ =\\operatorname{cosec}^{4} A\\end{array} 1 − c o s 2 A 1 + c o t 2 A ​ = s i n 2 A cosec 2 A ​ = cosec 2 A ⋅ s i n 2 A 1 ​ = cosec 2 A ⋅ cosec 2 A = cosec 4 A ​"
+    },
+    {
+      "number": "10",
+      "tag": "RB 25",
+      "question": "সমকোণী ত্রিভুজের 30 ° \\degree ° কোণ অঙ্কনের ক্ষেত্রে- i. ভূমি > লম্ব ii. ভূমি = লম্ব iii. অতিভুজ > লম্ব নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "iও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "iও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "সমকোণী ত্রিভুজের 30 ∘ 30^{\\circ} 3 0 ∘ কো ন অঙ্কনের জন্য ভূমি > লম্ব এবং অতিভুজ > লম্ব ভূমি = লম্ব হলে কোন হবে 45 ∘ 45^{\\circ} 4 5 ∘ ."
+    },
+    {
+      "number": "11",
+      "tag": "RB 25",
+      "question": "বৃত্তে, অন্তর্লিখিত সামান্তরিক একটি—",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রম্বস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আয়তক্ষেত্র",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বৰ্গ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ট্রাপিজিয়াম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রম্বস",
+      "option_b": "আয়তক্ষেত্র",
+      "option_c": "বৰ্গ",
+      "option_d": "ট্রাপিজিয়াম",
+      "correct": "খ",
+      "explanation": "বৃত্তস্থ সামান্তরিক একটি আয়ত। কেননা প্রতিটি কোন এক সমকোন।"
+    },
+    {
+      "number": "12",
+      "tag": "RB 25",
+      "question": "কোনো ত্রিভুজের কয়টি বর্হিবৃত্ত অঙ্কন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "কোনো ত্রিভুজের তিনটি বহিবৃত্ত আঁকা যায়।"
+    },
+    {
+      "number": "13",
+      "tag": "RB 25",
+      "question": "বর্গক্ষেত্রের প্রতিসাম্য রেখা কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "বর্গক্ষেত্রের প্রতিসাম্য রেখা সংখ্যার গাণিতিক ব্যাখ্যা: বাহু সম্পর্কিত প্রতিসাম্য (2টি) : প্রতিটি বর্গক্ষেত্রে দুটি মধ্যরেখা থাকে: একটি অনুভূমিক (x-অক্ষ সমান্তরাল) একটি উল্লম্ব (y-অক্ষ সমান্তরাল) গাণিতিকভাবে, n-বাহু বিশিষ্ট সুষম বহুভুজের প্রতিসাম্য রেখা সংখ্যা n। বর্গক্ষেত্রে n=4, তবে মধ্যরেখা হিসেবে 2টি। কর্ণ সম্পর্কিত প্রতিসাম্য (2টি) : বর্গক্ষেত্রের কর্ণদ্বয় প্রতিসাম্য রেখা: y = x y = -x প্রতিটি কর্ণ রেখায় প্রতিফলনে চিত্র অপরিবর্তিত থাকে। মোট প্রতিসাম্য রেখা : সাধারণ সূত্র: একটি সুষম n-বাহু বিশিষ্ট বহুভুজের nটি প্রতিসাম্য রেখা থাকে। বর্গক্ষেত্রের জন্য (n=4): 4টি প্রতিসাম্য রেখা। ∴ বর্গক্ষেত্রের মোট প্রতিসাম্য রেখা সংখ্যা = 4টি।"
+    },
+    {
+      "number": "14",
+      "tag": "RB 25",
+      "question": "কোনো ধারার ১ম পদ 8, সাধারণ অন্তর 2 হলে- i. ধারাটি = 8+10+12+..... ii. ধারাটির দশম পদ = 26 iii. ধারাটির ১ম 15 টি পদের সমষ্টি = 300 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "কোন ধারার প্রথমপদ a = 8 a=8 a = 8 সাধারণ অন্তর , d = d= d = ? (i) ধারাটি হবে, a + ( a + d ) + ( a + 2 d ) + ⋯ ⋯ = 8 + ( 8 + 2 ) + ( 8 + 4 ) + ⋯ = 8 + 10 + 12 + ⋯ \\begin{aligned} & a+(a+d)+(a+2 d)+\\cdots \\cdots \\\\ = & 8+(8+2)+(8+4)+\\cdots \\\\ = & 8+10+12+\\cdots \\end{aligned} = = ​ a + ( a + d ) + ( a + 2 d ) + ⋯⋯ 8 + ( 8 + 2 ) + ( 8 + 4 ) + ⋯ 8 + 10 + 12 + ⋯ ​ (ii) দশম পদ = { a + ( n − 1 ) d } = { 8 + ( 10 − 1 ) × 2 } = 26 \\begin{aligned} \\text { দশম পদ }=\\{a+(n-1) d\\} & =\\{8+(10-1) \\times 2\\} \\\\ & =26\\end{aligned} দশম পদ = { a + ( n − 1 ) d } ​ = { 8 + ( 10 − 1 ) × 2 } = 26 ​ (iii) 15টি পদের সমষ্টি = n 2 { 2 a + ( n − 1 ) d } = 15 2 × { 16 + 14 × 2 } = 330 \\begin{aligned} \\\\ \\text { 15টি পদের সমষ্টি} & =\\frac{n}{2}\\{2 a+(n-1) d\\} \\\\ & =\\frac{15}{2} \\times\\{16+14 \\times 2\\} \\\\ & =330 \\end{aligned} 15 টি পদের সমষ্টি ​ = 2 n ​ { 2 a + ( n − 1 ) d } = 2 15 ​ × { 16 + 14 × 2 } = 330 ​"
+    },
+    {
+      "number": "15",
+      "tag": "RB 25",
+      "question": "log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 5 \\frac{6}{5} 5 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 3 \\frac{4}{3} 3 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 5 \\frac{6}{5} 5 6 ​",
+      "option_b": "5 6 \\frac{5}{6} 6 5 ​",
+      "option_c": "4 3 \\frac{4}{3} 3 4 ​",
+      "option_d": "3 4 \\frac{3}{4} 4 3 ​",
+      "correct": "খ",
+      "explanation": "log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান নির্ণয় করতে নিচের ধাপগুলি অনুসরণ করা যাক: 1. প্রদত্ত রাশিটিকে সরলীকরণ করা: 5 3 ⋅ 5 \\sqrt[3]{5} \\cdot \\sqrt{5} 3 5 ​ ⋅ 5 ​ এখানে, 5 3 = 5 1 3 এবং 5 = 5 1 2 \\sqrt[3]{5}=5^{\\frac{1}{3}} \\quad \\text { এবং } \\quad \\sqrt{5}=5^{\\frac{1}{2}} 3 5 ​ = 5 3 1 ​ এবং 5 ​ = 5 2 1 ​ সুতরাং, 5 3 ⋅ 5 = 5 1 3 ⋅ 5 1 2 = 5 1 3 + 1 2 = 5 5 6 \\sqrt[3]{5} \\cdot \\sqrt{5}=5^{\\frac{1}{3}} \\cdot 5^{\\frac{1}{2}}=5^{\\frac{1}{3}+\\frac{1}{2}}=5^{\\frac{5}{6}} 3 5 ​ ⋅ 5 ​ = 5 3 1 ​ ⋅ 5 2 1 ​ = 5 3 1 ​ + 2 1 ​ = 5 6 5 ​ 2. লগারিদমের মান নির্ণয়: log ⁡ 5 ( 5 5 6 ) \\log _{5}\\left(5^{\\frac{5}{6}}\\right) lo g 5 ​ ( 5 6 5 ​ ) লগারিদমের সূত্র অনুযায়ী, log ⁡ a ( a b ) = b \\log _{a}\\left(a^{b}\\right)=b lo g a ​ ( a b ) = b সুতরাং, log ⁡ 5 ( 5 5 6 ) = 5 6 \\log _{5}\\left(5^{\\frac{5}{6}}\\right)=\\frac{5}{6} lo g 5 ​ ( 5 6 5 ​ ) = 6 5 ​ সুতরাং, log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান হলো 5 6 \\frac{5}{6} 6 5 ​"
+    },
+    {
+      "number": "16",
+      "tag": "RB 25",
+      "question": "নিচের কোনটি বিচ্ছিন্ন চলক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "দৈর্ঘ্য",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ভর",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বইয়ের সংখ্যা",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "মানুষের বয়স",
+          "is_correct": false
+        }
+      ],
+      "option_a": "দৈর্ঘ্য",
+      "option_b": "ভর",
+      "option_c": "বইয়ের সংখ্যা",
+      "option_d": "মানুষের বয়স",
+      "correct": "গ",
+      "explanation": "উত্তর: গ) বইয়ের সংখ্যা হলো বিচ্ছিন্ন চলক। ব্যাখ্যা: বিচ্ছিন্ন চলক : যে চলক কেবল পূর্ণসংখ্যা মান নিতে পারে এবং গণনা করা যায় (যেমন: বইয়ের সংখ্যা, ছাত্রের সংখ্যা ইত্যাদি)। বইয়ের সংখ্যা → ১টি, ২টি, ৩টি ইত্যাদি (ভগ্নাংশ হয় না)। অন্যান্য অপশনগুলো অবিচ্ছিন্ন চলক: দৈর্ঘ্য: ৫.৩ মিটার, ২.৭৫ মিটার ইত্যাদি (যেকোনো বাস্তব মান নেয়)। ভর: ৩.৫ কেজি, ৭.২১ কেজি ইত্যাদি। মানুষের বয়স: যদিও বয়স পূর্ণসংখ্যায় প্রকাশ করা হয়, তত্ত্বগতভাবে এটি অবিচ্ছিন্ন (যেমন: ২৫.৫ বছর)।"
+    },
+    {
+      "number": "1",
+      "tag": "RB 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: শ্রেণি ব্যাপ্তি 21–30 31–40 41–50 51–60 গণসংখ্যা 6 16 20 14 1.1. মধ্যক নির্ণয়ের জন্য F c F_c F c ​ এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "22",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "42",
+          "is_correct": false
+        }
+      ],
+      "option_a": "16",
+      "option_b": "20",
+      "option_c": "22",
+      "option_d": "42",
+      "correct": "গ",
+      "explanation": "শ্রেণিব্যাপ্তি 21 – 30 31 – 40 41 – 50 51 – 60 গণসংখ্যা 6 16 20 14 ক্রমযোজিত গণসংখ্যা 6 22 42 56 এখানে, n = 56 ∴ n 2 = 56 2 = 28 ∴ n = 56 \\therefore \\frac{n}{2} = \\frac{56}{2} = 28 \\therefore n = 56 ∴ 2 n ​ = 2 56 ​ = 28 ∴ মধ্যক শ্রেণি ( 41 − 50 ) (41-50) ( 41 − 50 ) সুতরাং F c = 22 F_c = 22 F c ​ = 22"
+    },
+    {
+      "number": "2",
+      "tag": "RB 25",
+      "question": "নিচের কোনটি স্বাভাবিক সংখ্যা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 2 \\frac{5}{2} 2 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "3 \\sqrt{3} 3 ​",
+      "option_c": "5 2 \\frac{5}{2} 2 5 ​",
+      "option_d": "3",
+      "correct": "ঘ",
+      "explanation": "স্বাভাবিক সংখ্যা হলো সেইসব ধনাত্মক পূর্ণসংখ্যা যা গণনা করার জন্য ব্যবহৃত হয়। এদেরকে \\(N = \\{1, 2, 3, ...\\}\\) সেট দ্বারা প্রকাশ করা হয়। প্রদত্ত বিকল্পগুলো হলো: \\(A: -3\\) - এটি একটি ঋণাত্মক পূর্ণসংখ্যা, তাই এটি স্বাভাবিক সংখ্যা নয়। \\(B: \\sqrt{3}\\) - এটি একটি অমূলদ সংখ্যা, তাই এটি স্বাভাবিক সংখ্যা নয়। \\(C: \\frac{5}{2}\\) - এটি একটি ভগ্নাংশ, যা \\(2.5\\) এর সমান, তাই এটি স্বাভাবিক সংখ্যা নয়। \\(D: 3\\) - এটি একটি ধনাত্মক পূর্ণসংখ্যা, যা \\(N\\) সেটের অন্তর্ভুক্ত। সুতরাং, \\(3\\) হলো একটি স্বাভাবিক সংখ্যা।"
+    },
+    {
+      "number": "3",
+      "tag": "RB 25",
+      "question": "যদি a 2 + 1 a 2 = 18 a^2 + \\frac{1}{a^2} = 18 a 2 + a 2 1 ​ = 18 হলে- i. a − 1 a = 4 a - \\frac{1}{a} = 4 a − a 1 ​ = 4 ii. ( a + 1 a ) 2 = 20 (a + \\frac{1}{a})^2 = 20 ( a + a 1 ​ ) 2 = 20 iii. a 3 − 1 a 3 = 76 a^3 - \\frac{1}{a^3} = 76 a 3 − a 3 1 ​ = 76 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "দেওয়া আছে, a 2 + 1 a 2 = 18 a^2+\\frac{1}{a^2}=18 a 2 + a 2 1 ​ = 18 (i) ( a − 1 a ) 2 + 2 a ⋅ 1 a = 18 \\left(a-\\frac{1}{a}\\right)^2+2a\\cdot\\frac{1}{a}=18 ( a − a 1 ​ ) 2 + 2 a ⋅ a 1 ​ = 18 বা, ( a − 1 a ) 2 = 16 ∴ a − 1 a = 4 \\left(a-\\frac{1}{a}\\right)^2=16 \\therefore a-\\frac{1}{a}=4 ( a − a 1 ​ ) 2 = 16 ∴ a − a 1 ​ = 4 (ii) ( a + 1 a ) 2 − 2 a ⋅ 1 a = 18 ∴ ( a + 1 a ) 2 = 20 \\left(a+\\frac{1}{a}\\right)^2-2a\\cdot\\frac{1}{a}=18 \\therefore \\left(a+\\frac{1}{a}\\right)^2=20 ( a + a 1 ​ ) 2 − 2 a ⋅ a 1 ​ = 18 ∴ ( a + a 1 ​ ) 2 = 20 (iii) a 3 − 1 a 3 = ( a − 1 a ) 3 + 3 a ⋅ 1 a ( a − 1 a ) = 4 3 + 3 ⋅ 4 = 76 a^3-\\frac{1}{a^3}=\\left(a-\\frac{1}{a}\\right)^3+3a\\cdot\\frac{1}{a}\\left(a-\\frac{1}{a}\\right)=4^3+3\\cdot4=76 a 3 − a 3 1 ​ = ( a − a 1 ​ ) 3 + 3 a ⋅ a 1 ​ ( a − a 1 ​ ) = 4 3 + 3 ⋅ 4 = 76 ∴ \\therefore ∴ তিনটি তথ্যই সঠিক।"
+    },
+    {
+      "number": "4",
+      "tag": "RB 25",
+      "question": "যদি tan ⁡ θ = 3 \\tan\\theta = \\sqrt{3} tan θ = 3 ​ হলে, sec ⁡ θ = \\sec\\theta = sec θ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+      "option_c": "2 \\sqrt{2} 2 ​",
+      "option_d": "2",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "RB 25",
+      "question": "যদি 2.8 x − 1 = 1 2.8^{x-1} = 1 2. 8 x − 1 = 1 হলে, x x x -এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 3 \\frac{4}{3} 3 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_b": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_c": "4 3 \\frac{4}{3} 3 4 ​",
+      "option_d": "3 2 \\frac{3}{2} 2 3 ​",
+      "correct": "ক",
+      "explanation": "যদি \\( 2.8^{x-1} = 1 \\) হয়, তাহলে \\( x \\)-এর মান নির্ণয় করতে হবে। আমরা জানি যে, যেকোনো অশূন্য সংখ্যার পাওয়ার \\( 0 \\) হলে তার মান \\( 1 \\) হয়। অর্থাৎ, \\( a^0 = 1 \\) যখন $ a eq 0 \\(। এখানে \\) 2.8 eq 0 \\(। সুতরাং, \\) x-1 = 0 \\(। এই সমীকরণটি সমাধান করলে \\) x = 1 $ পাওয়া যায়।"
+    },
+    {
+      "number": "6",
+      "tag": "RB 25",
+      "question": "যদি f ( x ) = x 2 − 5 x − 6 f(x) = x^2 - 5x - 6 f ( x ) = x 2 − 5 x − 6 হলে x x x এর কোন মানের জন্য f ( x ) = 0 f(x) = 0 f ( x ) = 0 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2, -3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1, -6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-1, 6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "-2, 3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2, -3",
+      "option_b": "1, -6",
+      "option_c": "-1, 6",
+      "option_d": "-2, 3",
+      "correct": "গ",
+      "explanation": "f(x) = 0 হলে, x 2 − 5 x − 6 = 0 x^2 - 5x - 6 = 0 x 2 − 5 x − 6 = 0 বা, x 2 − 6 x + x − 6 = 0 x^2 - 6x + x - 6 = 0 x 2 − 6 x + x − 6 = 0 বা, x ( x − 6 ) + 1 ( x − 6 ) = 0 x(x - 6) + 1(x - 6) = 0 x ( x − 6 ) + 1 ( x − 6 ) = 0 বা, ( x − 6 ) ( x + 1 ) = 0 ∴ x = − 1 , 6 (x - 6)(x + 1) = 0 \\therefore x = -1, 6 ( x − 6 ) ( x + 1 ) = 0 ∴ x = − 1 , 6"
+    },
+    {
+      "number": "7",
+      "tag": "RB 25",
+      "question": "ABC সমবাহু ত্রিভুজে BD = 2 সে.মি. হলে, AD এর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8 3 8\\sqrt{3} 8 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 3 4\\sqrt{3} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 2\\sqrt{3} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8 3 8\\sqrt{3} 8 3 ​",
+      "option_b": "4 3 4\\sqrt{3} 4 3 ​",
+      "option_c": "2 3 2\\sqrt{3} 2 3 ​",
+      "option_d": "3 \\sqrt{3} 3 ​",
+      "correct": "গ",
+      "explanation": "চিত্রে, ABC সমবাহু ত্রিভুজের AD ⊥ \\bot ⊥ BC সুতরাং BD = DC ∴ \\therefore ∴ BC=2BD=2 × \\times × 2 = 4 সে.মি. ∴ \\therefore ∴ উচ্চতা, AD= 3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​ × \\times × BC= 3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​ × \\times × 4 = 2 3 \\sqrt{3} 3 ​ সে.মি."
+    },
+    {
+      "number": "8",
+      "tag": "RB 25",
+      "question": "সুষম ষড়ভুজের শীর্ষবিন্দুতে উৎপন্ন শীর্ষকোণের পরিমাণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "135 ∘ 135^\\circ 13 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "120 ∘ 120^\\circ 12 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "108 ∘ 108^\\circ 10 8 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90 ∘ 90^\\circ 9 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "135 ∘ 135^\\circ 13 5 ∘",
+      "option_b": "120 ∘ 120^\\circ 12 0 ∘",
+      "option_c": "108 ∘ 108^\\circ 10 8 ∘",
+      "option_d": "90 ∘ 90^\\circ 9 0 ∘",
+      "correct": "খ",
+      "explanation": "আমরা জানি, n সংখ্যক বাহুবিশিষ্ট সুষম বহুভুজের শীর্ষবিন্দুতে উৎপন্ন অন্তঃস্থ কোণের পরিমাণ = ( n − 2 ) × 180 ∘ n \\frac{(n-2) \\times 180^\\circ}{n} n ( n − 2 ) × 18 0 ∘ ​ ∴ সুষম ষড়ভুজের শীর্ষকোণের পরিমাণ = ( 6 − 2 ) × 180 ∘ 6 = 120 ∘ \\frac{(6-2) \\times 180^\\circ}{6} = 120^\\circ 6 ( 6 − 2 ) × 18 0 ∘ ​ = 12 0 ∘"
+    },
+    {
+      "number": "9",
+      "tag": "RB 25",
+      "question": "0.00000786 এর সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 ˉ \\bar{6} 6 ˉ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5 ˉ \\bar{5} 5 ˉ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 ˉ \\bar{6} 6 ˉ",
+      "option_b": "5 ˉ \\bar{5} 5 ˉ",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "RB 25",
+      "question": "8 সে.মি. ও 6 সে.মি. ব্যাসার্ধবিশিষ্ট দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করলে, এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "14",
+      "option_b": "7",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "ঘ",
+      "explanation": "দুইটি বৃত্ত অন্তঃস্পর্শ করলে এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব = ব্যাসার্ধদ্বয়ের অন্তর। নির্ণেয় দূরত্ব = ( 8 2 − 6 2 ) সে.মি. = ( 4 − 3 ) সে.মি. = 1 সে.মি. \\text{নির্ণেয় দূরত্ব} = \\left(\\frac{8}{2} - \\frac{6}{2}\\right) \\text{সে.মি.} = (4-3) \\text{সে.মি.} = 1 \\text{সে.মি.} নির্ণেয় দূরত্ব = ( 2 8 ​ − 2 6 ​ ) সে . মি . = ( 4 − 3 ) সে . মি . = 1 সে . মি ."
+    },
+    {
+      "number": "11",
+      "tag": "RB 25",
+      "question": "যদি sin ⁡ ( 90 ∘ − θ ) = 3 2 \\sin(90^\\circ - \\theta) = \\frac{\\sqrt{3}}{2} sin ( 9 0 ∘ − θ ) = 2 3 ​ ​ হলে, θ = \\theta = θ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^\\circ 3 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^\\circ 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^\\circ 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90 ∘ 90^\\circ 9 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^\\circ 3 0 ∘",
+      "option_b": "45 ∘ 45^\\circ 4 5 ∘",
+      "option_c": "60 ∘ 60^\\circ 6 0 ∘",
+      "option_d": "90 ∘ 90^\\circ 9 0 ∘",
+      "correct": "ক",
+      "explanation": "sin ⁡ ( 90 ∘ − θ ) = 3 2 \\sin(90^\\circ - \\theta) = \\frac{\\sqrt{3}}{2} sin ( 9 0 ∘ − θ ) = 2 3 ​ ​ বা, cos ⁡ θ = 3 2 \\cos \\theta = \\frac{\\sqrt{3}}{2} cos θ = 2 3 ​ ​ বা, cos ⁡ θ = cos ⁡ 30 ∘ \\cos \\theta = \\cos 30^\\circ cos θ = cos 3 0 ∘ . ∴ θ = 30 ∘ \\therefore \\theta = 30^\\circ ∴ θ = 3 0 ∘"
+    },
+    {
+      "number": "12",
+      "tag": "RB 25",
+      "question": "পরিসীমা ও একটি কোণ দেওয়া থাকলে নিচের কোনটি আঁকা সম্ভব?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রম্বস",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "আয়ত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সামান্তরিক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ট্রাপিজিয়াম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রম্বস",
+      "option_b": "আয়ত",
+      "option_c": "সামান্তরিক",
+      "option_d": "ট্রাপিজিয়াম",
+      "correct": "ক",
+      "explanation": "রম্বস আঁকার জন্য, এর চারটি বাহুর দৈর্ঘ্য প্রয়োজন। যেহেতু রম্বসের চারটি বাহুই সমান, তাই পরিসীমা দেওয়া থাকলে আমরা একটি বাহুর দৈর্ঘ্য সহজেই বের করতে পারি। ধরা যাক রম্বসের পরিসীমা \\(P\\) এবং একটি বাহুর দৈর্ঘ্য \\(a\\)। তাহলে, \\(P = 4a\\), সুতরাং \\(a = rac{P}{4}\\)। এখন, আমাদের একটি কোণ দেওয়া আছে। রম্বসের একটি বাহুর দৈর্ঘ্য এবং একটি কোণ জানা থাকলে সেটি আঁকা সম্ভব। একটি নির্দিষ্ট দৈর্ঘ্যের বাহু এবং একটি প্রদত্ত কোণ ব্যবহার করে আমরা রম্বসের দুটি বাহু এবং তাদের মধ্যবর্তী কোণ আঁকতে পারি, যা রম্বসটি সম্পূর্ণ করার জন্য যথেষ্ট। অন্যান্য বিকল্পগুলি (আয়ত, সামান্তরিক, ট্রাপিজিয়াম) আঁকার জন্য শুধুমাত্র পরিসীমা এবং একটি কোণ যথেষ্ট নয়, কারণ তাদের বাহুগুলির দৈর্ঘ্য ভিন্ন হতে পারে বা কোণের সংখ্যার সীমাবদ্ধতা থাকতে পারে।"
+    },
+    {
+      "number": "13",
+      "tag": "RB 25",
+      "question": "4 x − 7 + 1 = 0 \\sqrt{4x-7} + 1 = 0 4 x − 7 ​ + 1 = 0 সমীকরণটির সমাধান সেট নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "∅ \\emptyset ∅",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "{ 1 2 } \\left\\{\\frac{1}{2}\\right\\} { 2 1 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ ∅ } \\{\\emptyset\\} { ∅ }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 2 } \\{2\\} { 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "∅ \\emptyset ∅",
+      "option_b": "{ 1 2 } \\left\\{\\frac{1}{2}\\right\\} { 2 1 ​ }",
+      "option_c": "{ ∅ } \\{\\emptyset\\} { ∅ }",
+      "option_d": "{ 2 } \\{2\\} { 2 }",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

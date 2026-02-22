@@ -1,0 +1,898 @@
+{
+  "read_id": "VHHwpucjlzVB8ulu",
+  "title": "বরিশাল বোর্ড ২০১৯",
+  "count": 27,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "MB 23,CB 19,BB 19,CSC 24",
+      "question": "f ( x ) = 3 x + 1 3 x − 1  হলে,  f ( 1 ) + 1 f ( 1 ) − 1 =  কত?  f(x)=\\frac{3 x+1}{3 x-1} \\text { হলে, } \\frac{f(1)+1}{f(1)-1}=\\text { কত? } f ( x ) = 3 x − 1 3 x + 1 ​   হলে ,  f ( 1 ) − 1 f ( 1 ) + 1 ​ =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "ঘ",
+      "explanation": "প্রতিস্থাপন করে, f ( 1 ) f(1) f ( 1 ) নির্ণয় করা যাক: f ( x ) = 3 x + 1 3 x − 1 f(x) = \\frac{3x+1}{3x-1} f ( x ) = 3 x − 1 3 x + 1 ​ f ( 1 ) = 3 ⋅ 1 + 1 3 ⋅ 1 − 1 = 3 + 1 3 − 1 = 4 2 = 2 f(1) = \\frac{3 \\cdot 1 + 1}{3 \\cdot 1 - 1} = \\frac{3 + 1}{3 - 1} = \\frac{4}{2} = 2 f ( 1 ) = 3 ⋅ 1 − 1 3 ⋅ 1 + 1 ​ = 3 − 1 3 + 1 ​ = 2 4 ​ = 2 এখন, f ( 1 ) + 1 f ( 1 ) − 1 \\frac{f(1)+1}{f(1)-1} f ( 1 ) − 1 f ( 1 ) + 1 ​ নির্ণয়: f ( 1 ) + 1 f ( 1 ) − 1 = 2 + 1 2 − 1 = 3 1 = 3 \\frac{f(1)+1}{f(1)-1} = \\frac{2 + 1}{2 - 1} = \\frac{3}{1} = 3 f ( 1 ) − 1 f ( 1 ) + 1 ​ = 2 − 1 2 + 1 ​ = 1 3 ​ = 3"
+    },
+    {
+      "number": "2",
+      "tag": "BB 19",
+      "question": "চিত্রে BC রেখার দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10.5 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "11.5 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12.0 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "14.0 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10.5 সে.মি.",
+      "option_b": "11.5 সে.মি.",
+      "option_c": "12.0 সে.মি.",
+      "option_d": "14.0 সে.মি.",
+      "correct": "ক",
+      "explanation": "এখানে, △ A D E \\triangle A D E △ A D E ও △ A B C \\triangle A B C △ A BC সদৃশকোণী হওয়ায় A D A B = D E B C ⇒ 4 4 + 3 = 6 B C ⇒ B C = 7 × 6 4 ⇒ B C = 10.5 \\begin{aligned} & \\frac{A D}{A B}=\\frac{D E}{B C} \\\\ \\Rightarrow & \\frac{4}{4+3}=\\frac{6}{B C} \\\\ \\Rightarrow \\quad & B C=\\frac{7 \\times 6}{4} \\\\ \\Rightarrow \\quad & B C=10.5 \\end{aligned} ⇒ ⇒ ⇒ ​ A B A D ​ = BC D E ​ 4 + 3 4 ​ = BC 6 ​ BC = 4 7 × 6 ​ BC = 10.5 ​"
+    },
+    {
+      "number": "3",
+      "tag": "BB 19",
+      "question": "5 x 2 − x − 4 = 0 5 x^{2}-x-4=0 5 x 2 − x − 4 = 0 সমীকরণের সমাধান সেট নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ − 4 5 , 1 } \\left\\{-\\frac{4}{5}, 1\\right\\} { − 5 4 ​ , 1 }",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "{ − 1 , 4 5 } \\left\\{-1, \\frac{4}{5}\\right\\} { − 1 , 5 4 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ − 1 , − 4 5 } \\left\\{-1,-\\frac{4}{5}\\right\\} { − 1 , − 5 4 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 1 , 4 5 } \\left\\{1, \\frac{4}{5}\\right\\} { 1 , 5 4 ​ }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ − 4 5 , 1 } \\left\\{-\\frac{4}{5}, 1\\right\\} { − 5 4 ​ , 1 }",
+      "option_b": "{ − 1 , 4 5 } \\left\\{-1, \\frac{4}{5}\\right\\} { − 1 , 5 4 ​ }",
+      "option_c": "{ − 1 , − 4 5 } \\left\\{-1,-\\frac{4}{5}\\right\\} { − 1 , − 5 4 ​ }",
+      "option_d": "{ 1 , 4 5 } \\left\\{1, \\frac{4}{5}\\right\\} { 1 , 5 4 ​ }",
+      "correct": "ক",
+      "explanation": "এখানে , 5 x 2 − x − 4 = 0 ⇒ 5 x 2 − 5 x + 4 x − 4 = 0 ⇒ 5 x ( x − 1 ) + 4 ( x − 1 ) = 0 ⇒ ( 5 x + 4 ) ( x − 1 ) = 0 ⇒ ( 5 x + 4 ) = 0  অথবা,  x − 1 = 0 ∴ x = − 4 / 5 ∴ x = 1 \\begin{aligned} & 5 x^{2}-x-4=0 \\\\ \\Rightarrow & 5 x^{2}-5 x+4 x-4=0 \\\\ \\Rightarrow & 5 x(x-1)+4(x-1)=0 \\\\ \\Rightarrow & (5 x+4)(x-1)=0 \\\\ \\Rightarrow & (5 x+4)=0 \\quad \\text { অথবা, } x-1=0 \\\\ & \\therefore x=-4 / 5 \\quad \\therefore x=1 \\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ 5 x 2 − x − 4 = 0 5 x 2 − 5 x + 4 x − 4 = 0 5 x ( x − 1 ) + 4 ( x − 1 ) = 0 ( 5 x + 4 ) ( x − 1 ) = 0 ( 5 x + 4 ) = 0   অথবা ,  x − 1 = 0 ∴ x = − 4/5 ∴ x = 1 ​ ∴ \\therefore ∴ সমাধান সেট = { − 4 / 5 , 3 } =\\{-4 / 5,3\\} = { − 4/5 , 3 }"
+    },
+    {
+      "number": "4",
+      "tag": "BB 25,DB 24,SB 20,CTG.B 19,BB 19,MCC 24,RCC 24,CCC 24,MC 24",
+      "question": "অবনতি কোণের মান কত ডিগ্রী হলে খুঁটির দৈর্ঘ্য ছায়ার দৈর্ঘ্যের 3 \\sqrt{3} 3 ​ গুণ হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_c": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_d": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "correct": "গ",
+      "explanation": "⇒ 1 sin ⁡ x = 2 ∴ sin ⁡ x = 1 2 \\begin{array}{l} \\Rightarrow \\frac{1}{\\sin x}=2 \\\\ \\therefore \\sin x=\\frac{1}{2} \\end{array} ⇒ s i n x 1 ​ = 2 ∴ sin x = 2 1 ​ ​ ধরি, ছায়ার দৈর্ঘ্য , B C = x B C=x BC = x খুঁটির দৈর্ঘ্য , A B = 3 x A B=\\sqrt{3} x A B = 3 ​ x অবনতি কোন , ∠ D A C = θ \\angle D A C=\\theta ∠ D A C = θ △ A B C ∼ এ \\triangle A B C \\sim এ △ A BC ∼ এ tan ⁡ θ = A B B C ⇒ tan ⁡ θ = 3 x x ⇒ tan ⁡ θ = 3 ⇒ tan ⁡ θ = tan ⁡ 60 ∘ ⇒ θ = 60 ∘ \\begin{aligned} \\tan \\theta & =\\frac{A B}{B C} \\\\ \\Rightarrow \\tan \\theta & =\\frac{\\sqrt{3} x}{x} \\\\ \\Rightarrow \\tan \\theta & =\\sqrt{3} \\\\ \\Rightarrow \\tan \\theta & =\\tan 60^{\\circ} \\Rightarrow \\theta=60^{\\circ} \\end{aligned} tan θ ⇒ tan θ ⇒ tan θ ⇒ tan θ ​ = BC A B ​ = x 3 ​ x ​ = 3 ​ = tan 6 0 ∘ ⇒ θ = 6 0 ∘ ​"
+    },
+    {
+      "number": "5",
+      "tag": "SB 25,JB 24,BB 19,MC 24",
+      "question": "কোনো ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য 3 সে.মি. ও 6 সে.মি. হলে, তৃতীয় বাহুর দৈর্ঘ্য কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "ঘ",
+      "explanation": "আমরা জানি, একটি ত্রিভুজের তিন বাহুর দৈর্ঘ্য দেয়া থাকলে অংকন করা সম্ভব যদি এবং কেবল যদি যেকোনো দুই বাহু সমষ্টি তৃতীয় বাহু অপেক্ষা বৃহত্তর হয়। এক্ষেত্রে,ত্রিভুজটির তৃতীয় বাহু 4 হলে ত্রিভুজটি অঙ্কন করা সম্ভব"
+    },
+    {
+      "number": "6",
+      "tag": "BB 19,FCC 24",
+      "question": "প্রথম 100 টি স্বাভাবিক সংখ্যার যোগফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1000",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5000",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5050",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5100",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1000",
+      "option_b": "5000",
+      "option_c": "5050",
+      "option_d": "5100",
+      "correct": "গ",
+      "explanation": "১ম n n n সংখ্যক ম্বাভাবিক সংখ্যার যোগফল S n = n ( n + 1 ) 2 ∴ S 100 = 100 × ( 100 + 1 ) 2 = 5050 \\begin{array}{l} S_{n}=\\frac{n(n+1)}{2} \\\\ \\therefore S_{100}=\\frac{100 \\times(100+1)}{2} \\\\ =5050 \\end{array} S n ​ = 2 n ( n + 1 ) ​ ∴ S 100 ​ = 2 100 × ( 100 + 1 ) ​ = 5050 ​"
+    },
+    {
+      "number": "7",
+      "tag": "BB 19,MCPSC 24",
+      "question": "[ A C = 24   c m , B D = 18   c m ] [\\mathrm{AC}=24 \\mathrm{~cm}, \\mathrm{BD}=18 \\mathrm{~cm}] [ AC = 24   cm , BD = 18   cm ] ABCD রম্বসের পরিসীমা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "84",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "42",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "option_a": "84",
+      "option_b": "60",
+      "option_c": "42",
+      "option_d": "15",
+      "correct": "খ",
+      "explanation": "OC= A C 2 =   24 2 = 12 \\frac{AC}{2}=\\ \\frac{24}{2}=12 2 A C ​ =   2 24 ​ = 12 ; OB= B D 2 =   18 2 = 9 \\frac{BD}{2}=\\ \\frac{18}{2}=9 2 B D ​ =   2 18 ​ = 9 BC= 12 2 + 9 2 \\sqrt{12^2+9^2} 1 2 2 + 9 2 ​ = 15 ( ∵ \\because ∵ রম্বসের কর্ণদ্বয় পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করে ) রম্বসের পরিসীমা = 4a= 4×15= 60সে.মি."
+    },
+    {
+      "number": "8",
+      "tag": "BB 19,MCPSC 24",
+      "question": "[ A C = 24   c m , B D = 18   c m ] [\\mathrm{AC}=24 \\mathrm{~cm}, \\mathrm{BD}=18 \\mathrm{~cm}] [ AC = 24   cm , BD = 18   cm ] ABCD রম্বসের পরিসীমা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "84",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "42",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "option_a": "84",
+      "option_b": "60",
+      "option_c": "42",
+      "option_d": "15",
+      "correct": "খ",
+      "explanation": "OC= A C 2 =   24 2 = 12 \\frac{AC}{2}=\\ \\frac{24}{2}=12 2 A C ​ =   2 24 ​ = 12 ; OB= B D 2 =   18 2 = 9 \\frac{BD}{2}=\\ \\frac{18}{2}=9 2 B D ​ =   2 18 ​ = 9 BC= 12 2 + 9 2 \\sqrt{12^2+9^2} 1 2 2 + 9 2 ​ = 15 ( ∵ \\because ∵ রম্বসের কর্ণদ্বয় পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করে ) রম্বসের পরিসীমা = 4a= 4×15= 60সে.মি."
+    },
+    {
+      "number": "9",
+      "tag": "RB 25",
+      "question": "log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 5 \\frac{6}{5} 5 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 3 \\frac{4}{3} 3 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 5 \\frac{6}{5} 5 6 ​",
+      "option_b": "5 6 \\frac{5}{6} 6 5 ​",
+      "option_c": "4 3 \\frac{4}{3} 3 4 ​",
+      "option_d": "3 4 \\frac{3}{4} 4 3 ​",
+      "correct": "খ",
+      "explanation": "log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান নির্ণয় করতে নিচের ধাপগুলি অনুসরণ করা যাক: 1. প্রদত্ত রাশিটিকে সরলীকরণ করা: 5 3 ⋅ 5 \\sqrt[3]{5} \\cdot \\sqrt{5} 3 5 ​ ⋅ 5 ​ এখানে, 5 3 = 5 1 3  এবং  5 = 5 1 2 \\sqrt[3]{5}=5^{\\frac{1}{3}} \\quad \\text { এবং } \\quad \\sqrt{5}=5^{\\frac{1}{2}} 3 5 ​ = 5 3 1 ​   এবং   5 ​ = 5 2 1 ​ সুতরাং, 5 3 ⋅ 5 = 5 1 3 ⋅ 5 1 2 = 5 1 3 + 1 2 = 5 5 6 \\sqrt[3]{5} \\cdot \\sqrt{5}=5^{\\frac{1}{3}} \\cdot 5^{\\frac{1}{2}}=5^{\\frac{1}{3}+\\frac{1}{2}}=5^{\\frac{5}{6}} 3 5 ​ ⋅ 5 ​ = 5 3 1 ​ ⋅ 5 2 1 ​ = 5 3 1 ​ + 2 1 ​ = 5 6 5 ​ 2. লগারিদমের মান নির্ণয়: log ⁡ 5 ( 5 5 6 ) \\log _{5}\\left(5^{\\frac{5}{6}}\\right) lo g 5 ​ ( 5 6 5 ​ ) লগারিদমের সূত্র অনুযায়ী, log ⁡ a ( a b ) = b \\log _{a}\\left(a^{b}\\right)=b lo g a ​ ( a b ) = b সুতরাং, log ⁡ 5 ( 5 5 6 ) = 5 6 \\log _{5}\\left(5^{\\frac{5}{6}}\\right)=\\frac{5}{6} lo g 5 ​ ( 5 6 5 ​ ) = 6 5 ​ সুতরাং, log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান হলো 5 6 \\frac{5}{6} 6 5 ​"
+    },
+    {
+      "number": "10",
+      "tag": "BB 19",
+      "question": "0.4 × 0.3 = ? 0.4 \\times 0.3=? 0.4 × 0.3 = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0.12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.102",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.148",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.2",
+      "option_b": "0.12",
+      "option_c": "0.102",
+      "option_d": "0.148",
+      "correct": "ক",
+      "explanation": "To solve the multiplication 0.4 × 0.3 0.4 \\times 0.3 0.4 × 0.3 , one can follow these steps: Remove the decimals and start by multiplying the numbers as whole numbers: 4 × 3 = 12 4 \\times 3 = 12 4 × 3 = 12 . Since there are two decimal places in total (one from each of 0.4 and 0.3), place the decimal point two places from the right in the result: 0.12 0.12 0.12 . So, the answer is 0.12 ."
+    },
+    {
+      "number": "11",
+      "tag": "MB 24,JB 24,DB 22,CB 22,CTG.B 22,MB 20,CTG.B 20,BB 19,JB 19,FCC 24,CSC 24,BCPC 24",
+      "question": "U সার্বিক সেট এবং A সেটটি U এর উপসেট হলে— i. A C ∪ A = U A^{C} \\cup A=U A C ∪ A = U ii. A C ∩ A = ϕ \\mathrm{A}^{\\mathrm{C}} \\cap \\mathrm{A}=\\phi A C ∩ A = ϕ iii. A ∪ U = A C A \\cup U=A^{\\mathrm{C}} A ∪ U = A C নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "এখানে, U U U সার্বিক সেট এবং A A A সেটটি U U U এর একটি উপসেট। আমরা প্রতিটি বিবৃতি বিশ্লেষণ করি: i. A C ∪ A = U A^{C} \\cup A=U A C ∪ A = U A C A^C A C হল A A A সেটের পূরক সেট, অর্থাৎ U U U এর যে সকল উপাদান A A A এ নেই। A A A এবং A C A^C A C এর সংযোগ সেট (union) সর্বদা সার্বিক সেট U U U হবে। এটি সেটের একটি মৌলিক ধর্ম। সুতরাং, বিবৃতি (i) সঠিক। ii. A C ∩ A = ϕ A^{C} \\cap A=\\phi A C ∩ A = ϕ A C A^C A C এবং A A A এর ছেদ সেট (intersection) সর্বদা ফাঁকা সেট ( ϕ \\phi ϕ ) হবে, কারণ A A A এবং A C A^C A C এর মধ্যে কোনো সাধারণ উপাদান নেই। এটিও সেটের একটি মৌলিক ধর্ম। সুতরাং, বিবৃতি (ii) সঠিক। iii. A ∪ U = A C A \\cup U=A^{\\mathrm{C}} A ∪ U = A C যেহেতু A A A সেটটি সার্বিক সেট U U U এর একটি উপসেট, তাই A A A এবং U U U এর সংযোগ সেট সর্বদা U U U হবে, অর্থাৎ A ∪ U = U A \\cup U = U A ∪ U = U । কিন্তু বিবৃতিতে বলা হয়েছে A ∪ U = A C A \\cup U = A^C A ∪ U = A C । এটি সাধারণত ভুল, কারণ U U U এবং A C A^C A C শুধুমাত্র তখনই সমান হতে পারে যদি A A A একটি ফাঁকা সেট হয়। এটি সেটের একটি সাধারণ ধর্ম নয়। সুতরাং, বিবৃতি (iii) ভুল। উপরিউক্ত বিশ্লেষণ থেকে দেখা যায়, বিবৃতি (i) এবং (ii) সঠিক। সঠিক বিকল্পটি হল ক। The final answer is ক \\boxed{\\text{ক}} ক ​"
+    },
+    {
+      "number": "12",
+      "tag": "BB 19",
+      "question": "2 x − 1 3 x = 2 2 \\mathrm{x}-\\frac{1}{3 \\mathrm{x}}=2 2 x − 3 x 1 ​ = 2 হলে, 3 x − 1 2 x 3 \\mathrm{x}-\\frac{1}{2 \\mathrm{x}} 3 x − 2 x 1 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_b": "1",
+      "option_c": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_d": "3",
+      "correct": "ঘ",
+      "explanation": "দেওয়া আছে, 2 x − 1 3 x = 2 ⇒ 6 x 2 − 1 3 x = 2 ⇒ 6 x 2 − 1 = 6 x ∴ 3 x − 1 2 x = 6 x 2 − 1 2 x = 6 x 2 x = 3 \\begin{array}{l} 2 x-\\frac{1}{3 x}=2 \\\\ \\Rightarrow \\frac{6 x^{2}-1}{3 x}=2 \\\\ \\Rightarrow 6 x^{2}-1=6 x \\\\ \\therefore 3 x-\\frac{1}{2 x} \\\\ =\\frac{6 x^{2}-1}{2 x} \\\\ =\\frac{6 x}{2 x} \\\\ =3 \\end{array} 2 x − 3 x 1 ​ = 2 ⇒ 3 x 6 x 2 − 1 ​ = 2 ⇒ 6 x 2 − 1 = 6 x ∴ 3 x − 2 x 1 ​ = 2 x 6 x 2 − 1 ​ = 2 x 6 x ​ = 3 ​"
+    },
+    {
+      "number": "13",
+      "tag": "BB 19",
+      "question": "'A' একটি কাজ x দিনে করতে পারে। 'B' ঐ কাজ y দিনে করতে পারে। তারা একত্রে কত দিনে কাজটি শেষ করতে পারবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "xy দিনে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( x − y ) (x-y) ( x − y ) দিনে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x + y x y \\frac{x+y}{x y} x y x + y ​ দিনে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x y x + y \\frac{x y}{x+y} x + y x y ​ দিনে",
+          "is_correct": true
+        }
+      ],
+      "option_a": "xy দিনে",
+      "option_b": "( x − y ) (x-y) ( x − y ) দিনে",
+      "option_c": "x + y x y \\frac{x+y}{x y} x y x + y ​ দিনে",
+      "option_d": "x y x + y \\frac{x y}{x+y} x + y x y ​ দিনে",
+      "correct": "ঘ",
+      "explanation": "'A' একটি কাজ (x) দিনে করতে পারে অর্থাৎ তার ১ দিনে কাজ করার পরিমাণ হচ্ছে 1 x \\frac{1}{x} x 1 ​ । 'B' ঐ কাজ (y) দিনে করতে পারে অর্থাৎ তার ১ দিনে কাজ করার পরিমাণ হচ্ছে 1 y \\frac{1}{y} y 1 ​ । তাদের একত্রে ১ দিনে কাজ করার পরিমাণ হবে: 1 x + 1 y = y + x x y \\frac{1}{x} + \\frac{1}{y} = \\frac{y + x}{xy} x 1 ​ + y 1 ​ = x y y + x ​ এখন, তারা একত্রে পুরো কাজটি শেষ করতে কতদিন লাগবে তা বের করতে হলে, পুরো কাজের জন্য প্রয়োজনীয় দিন সংখ্যা হবে: x y x + y \\frac{x y}{x + y} x + y x y ​ দিনে।"
+    },
+    {
+      "number": "15",
+      "tag": "BB 19,JGCC 24",
+      "question": "a , b , c ∈ R ; a > b > 0 a, b, c \\in \\R ; a>b>0 a , b , c ∈ R ; a > b > 0 এবং c < 0 c<0 c < 0 হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a c = b c \\mathrm{ac}=\\mathrm{bc} ac = bc",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a c > b c \\mathrm{ac}>\\mathrm{bc} ac > bc",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a c < b c \\mathrm{ac}<\\mathrm{bc} ac < bc",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a b < b c \\mathrm{ab}<\\mathrm{bc} ab < bc",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a c = b c \\mathrm{ac}=\\mathrm{bc} ac = bc",
+      "option_b": "a c > b c \\mathrm{ac}>\\mathrm{bc} ac > bc",
+      "option_c": "a c < b c \\mathrm{ac}<\\mathrm{bc} ac < bc",
+      "option_d": "a b < b c \\mathrm{ab}<\\mathrm{bc} ab < bc",
+      "correct": "গ",
+      "explanation": "প্রদত্ত শর্ত অনুযায়ী a > b > 0 a > b > 0 a > b > 0 এবং c < 0 c < 0 c < 0 । আমরা এখানে a c ac a c এবং b c bc b c তুলনা করব: যেহেতু a > b a > b a > b এবং c < 0 c < 0 c < 0 , c c c এর সাথে গুন করলে, অসমতা বিপরীত হয়ে যাবে। তাই: a c < b c ac < bc a c < b c হবে।"
+    },
+    {
+      "number": "16",
+      "tag": "DC 25,MB 25,RB 25,CB 25,DIN.B 25,MAD 25,DB 24,CB 24,DIN.B 24,MB 24,CTG.B 24,DB 24,BB 24,DB 23,SB 23,CB 23,RB 23,DB 22,CB 22,DIN.B 22,RB 22,DB 20,CB 20,SB 20,JB 20,BB 20,RB 19,CB 19,DIN.B 19,BB 19,All.B 18,DB 17,DIN.B 17,CB 17,CTG.B 17,JB 17,SB 17,BB 17,MCC 24,FCC 24,FGCC 24,RCC 24,PCC 24,CCC 24,RUMC 24,BCC 24,RUMC 24,GLHSD 24,BAFSC 24,ACPS 24,CSC 24,MCPSC 24,RCPC 24",
+      "question": "x + 1 x = 5  হলে  − x+\\frac{1}{x}=5 \\text { হলে }- x + x 1 ​ = 5   হলে   − i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ ii. x 3 + 1 x 3 = 110 \\mathrm{x}^{3}+\\frac{1}{\\mathrm{x}^{3}}=110 x 3 + x 3 1 ​ = 110 iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত সমীকরণ: x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 ধাপ 1: x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ এর মান নির্ণয় প্রথমে x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ গর মান বের করব। আমরা জানি: ( x + 1 x ) 2 = x 2 + 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 + 2 + 1 x 2 \\left(x+\\frac{1}{x}\\right)^{2}=x^{2}+2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}+2+\\frac{1}{x^{2}} ( x + x 1 ​ ) 2 = x 2 + 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 + 2 + x 2 1 ​ অতএব: x 2 + 1 x 2 = ( x + 1 x ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 x^{2}+\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)^{2}-2=5^{2}-2=25-2=23 x 2 + x 2 1 ​ = ( x + x 1 ​ ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 ধাপ 2: x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান नির্ণয় x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান নির্ণয় করতে হলে: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right) x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) এখানে x − 1 x x-\\frac{1}{x} x − x 1 ​ এর মান নির্ণয় করতে হবে। আমরা জানি: ( x − 1 x ) 2 = x 2 − 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 − 2 + 1 x 2 \\left(x-\\frac{1}{x}\\right)^{2}=x^{2}-2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}-2+\\frac{1}{x^{2}} ( x − x 1 ​ ) 2 = x 2 − 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 − 2 + x 2 1 ​ অতএব: ( x − 1 x ) 2 = x 2 + 1 x 2 − 2 = 23 − 2 = 21 x − 1 x = 21 \\begin{aligned} \\left(x-\\frac{1}{x}\\right)^{2}= & x^{2}+\\frac{1}{x^{2}}-2=23-2=21 \\\\ & x-\\frac{1}{x}=\\sqrt{21} \\end{aligned} ( x − x 1 ​ ) 2 = ​ x 2 + x 2 1 ​ − 2 = 23 − 2 = 21 x − x 1 ​ = 21 ​ ​ অতএব: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) = 5 × 21 = 5 21 x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right)=5 \\times \\sqrt{21}=5 \\sqrt{21} x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) = 5 × 21 ​ = 5 21 ​ x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় করতে হলে: x 3 + 1 x 3 = ( x + 1 x ) 3 − 3 ⋅ x ⋅ 1 x ( x + 1 x ) x^{3}+\\frac{1}{x^{3}}=\\left(x+\\frac{1}{x}\\right)^{3}-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right) x 3 + x 3 1 ​ = ( x + x 1 ​ ) 3 − 3 ⋅ x ⋅ x 1 ​ ( x + x 1 ​ ) অতএব: x 3 + 1 x 3 = 5 3 − 3 × 5 = 125 − 15 = 110 x^{3}+\\frac{1}{x^{3}}=5^{3}-3 \\times 5=125-15=110 x 3 + x 3 1 ​ = 5 3 − 3 × 5 = 125 − 15 = 110 x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 এর সত্যতা যাচাই প্রদত্ত সমীকরণ x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 কে x x x দ্বারা গুণ করে পাই: x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 \\begin{array}{c} x^{2}+1=5 x \\\\ x^{2}-5 x+1=0 \\end{array} x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 ​ অত,এব, x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক। উত্তর: i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ সঠিক ii. x 3 + 1 x 3 = 110 x^{3}+\\frac{1}{x^{3}}=110 x 3 + x 3 1 ​ = 110 সঠিক iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক অত,এব, i, ii, এবং iii সবগুলি সঠিক।"
+    },
+    {
+      "number": "18",
+      "tag": "RB 23,CB 22,BB 19,RCPC 24",
+      "question": "একটি বর্গের অন্তর্বৃত্তের ব্যাসার্ধ 3 সে.মি. হলে, বর্গের বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6 \\sqrt{6} 6 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 \\sqrt{3} 3 ​",
+      "option_b": "3",
+      "option_c": "6",
+      "option_d": "6 \\sqrt{6} 6 ​",
+      "correct": "গ",
+      "explanation": "বর্গের অন্তর্বৃত্তের ব্যাসার্ধ হল বর্গের বাহুর দৈর্ঘ্যের অর্ধেক, অর্থাৎ বর্গের বাহুর অর্ধেক। ধরা যাক, বর্গের বাহুর দৈর্ঘ্য x x x সেমি। তাহলে, অন্তর্বৃত্তের ব্যাসার্ধ হবে x 2 \\frac{x}{2} 2 x ​ সেমি। প্রশ্নে অন্তর্বৃত্তের ব্যাসার্ধ 3 সেমি দেওয়া আছে। অর্থাৎ, x 2 = 3 \\frac{x}{2} = 3 2 x ​ = 3 বা, x = 3 × 2 = 6 x = 3 \\times 2 = 6 x = 3 × 2 = 6 সুতরাং, বর্গের বাহুর দৈর্ঘ্য হল 6 সেমি।"
+    },
+    {
+      "number": "20",
+      "tag": "BB 19",
+      "question": "চিত্রে, রাস্তার চওড়া 2 মিটার হলে, রাস্তা দু'টির ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "16 বর্গমিটার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "32 বর্গমিটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36 বর্গমিটার",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "40 বর্গমিটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "16 বর্গমিটার",
+      "option_b": "32 বর্গমিটার",
+      "option_c": "36 বর্গমিটার",
+      "option_d": "40 বর্গমিটার",
+      "correct": "গ",
+      "explanation": "বর্গের ক্ষেত্রফল  = ( 10 ) 2 = 100  বর্গসে.মি.   রাস্তাবাদে বর্গের দৈর্ঘ্য  = ( 10 − 2 ) মি . = 8 মি . ∴  রাস্তাবাদে বর্গের ক্ষেত্রফল  = 64  বর্গ সে.মি. .  ∴  রাস্তার ক্ষেত্রফল  = ( 100 − 64 ) বর্গ . মি . = 36  বর্গ.মি. \\begin{array}{l} \\text { বর্গের ক্ষেত্রফল }=(10)^{2} \\\\ =100 \\text { বর্গসে.মি. } \\\\ \\text { রাস্তাবাদে বর্গের দৈর্ঘ্য }=(10-2) মি. \\\\ =8 মি . \\\\ \\therefore \\text { রাস্তাবাদে বর্গের ক্ষেত্রফল }=64 \\text { বর্গ সে.মি. } \\text {. } \\\\ \\therefore \\text { রাস্তার ক্ষেত্রফল } =(100-64) বর্গ.মি. \\\\ =36 \\text { বর্গ.মি.} \\mathrm{} \\end{array}   বর্গের   ক্ষেত্রফল   = ( 10 ) 2 = 100   বর্গসে . মি .    রাস্তাবাদে   বর্গের   দৈর্ঘ্য   = ( 10 − 2 ) মি . = 8 মি . ∴   রাস্তাবাদে   বর্গের   ক্ষেত্রফল   = 64   বর্গ   সে . মি .  .  ∴   রাস্তার   ক্ষেত্রফল   = ( 100 − 64 ) বর্গ . মি . = 36   বর্গ . মি . ​"
+    },
+    {
+      "number": "21",
+      "tag": "BB 19",
+      "question": "চিত্রে, PQ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7.5 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10.0 m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12.5 m",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "15.0 m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7.5 m",
+      "option_b": "10.0 m",
+      "option_c": "12.5 m",
+      "option_d": "15.0 m",
+      "correct": "গ",
+      "explanation": "প্রদত্ত চিত্রে, △ P Q R \\triangle PQR △ PQR একটি সমকোণী ত্রিভুজ যার ∠ P Q R = 90 ∘ \\angle PQR = 90^\\circ ∠ PQR = 9 0 ∘ । Q S QS QS হল P R PR PR অতিভুজের উপর লম্ব। দেওয়া আছে: Q R = 10 QR = 10 QR = 10 m R S = 8 RS = 8 RS = 8 m ধাপসমূহ: ১. প্রথমে △ Q S R \\triangle QSR △ QSR সমকোণী ত্রিভুজে পিথাগোরাসের উপপাদ্য প্রয়োগ করে Q S QS QS এর দৈর্ঘ্য নির্ণয় করি। ∠ Q S R = 90 ∘ \\angle QSR = 90^\\circ ∠ QSR = 9 0 ∘ (যেহেতু Q S ⊥ P R QS \\perp PR QS ⊥ PR ) Q R 2 = Q S 2 + R S 2 QR^2 = QS^2 + RS^2 Q R 2 = Q S 2 + R S 2 10 2 = Q S 2 + 8 2 10^2 = QS^2 + 8^2 1 0 2 = Q S 2 + 8 2 100 = Q S 2 + 64 100 = QS^2 + 64 100 = Q S 2 + 64 Q S 2 = 100 − 64 QS^2 = 100 - 64 Q S 2 = 100 − 64 Q S 2 = 36 QS^2 = 36 Q S 2 = 36 Q S = 36 QS = \\sqrt{36} QS = 36 ​ Q S = 6 QS = 6 QS = 6 m ২. এবার, সমকোণী ত্রিভুজ △ P Q R \\triangle PQR △ PQR এ ভূমি Q R QR QR এর উপর লম্ব Q S QS QS এর বৈশিষ্ট্য ব্যবহার করি। আমরা জানি, সমকোণী ত্রিভুজের সমকোণ থেকে অতিভুজের উপর অঙ্কিত লম্ব ত্রিভুজটিকে যে দুটি ত্রিভুজে বিভক্ত করে, তারা মূল ত্রিভুজের সাথে এবং একে অপরের সাথে সদৃশ। এক্ষেত্রে, △ P Q R ∼ △ Q S R \\triangle PQR \\sim \\triangle QSR △ PQR ∼ △ QSR . সদৃশতার ধর্ম অনুযায়ী, Q R 2 = R S × R P QR^2 = RS \\times RP Q R 2 = RS × RP 10 2 = 8 × R P 10^2 = 8 \\times RP 1 0 2 = 8 × RP 100 = 8 × R P 100 = 8 \\times RP 100 = 8 × RP R P = 100 8 RP = \\frac{100}{8} RP = 8 100 ​ R P = 12.5 RP = 12.5 RP = 12.5 m ৩. P S PS PS এর দৈর্ঘ্য নির্ণয় করি। P S = R P − R S PS = RP - RS PS = RP − RS P S = 12.5 − 8 PS = 12.5 - 8 PS = 12.5 − 8 P S = 4.5 PS = 4.5 PS = 4.5 m ৪. এখন, △ P Q S \\triangle PQS △ PQS সমকোণী ত্রিভুজে পিথাগোরাসের উপপাদ্য প্রয়োগ করে P Q PQ PQ এর দৈর্ঘ্য নির্ণয় করি। ∠ Q S P = 90 ∘ \\angle QSP = 90^\\circ ∠ QSP = 9 0 ∘ P Q 2 = P S 2 + Q S 2 PQ^2 = PS^2 + QS^2 P Q 2 = P S 2 + Q S 2 P Q 2 = ( 4.5 ) 2 + 6 2 PQ^2 = (4.5)^2 + 6^2 P Q 2 = ( 4.5 ) 2 + 6 2 P Q 2 = 20.25 + 36 PQ^2 = 20.25 + 36 P Q 2 = 20.25 + 36 P Q 2 = 56.25 PQ^2 = 56.25 P Q 2 = 56.25 P Q = 56.25 PQ = \\sqrt{56.25} PQ = 56.25 ​ P Q = 7.5 PQ = 7.5 PQ = 7.5 m বিকল্প পদ্ধতি (সদৃশতার ধর্ম ব্যবহার করে): P Q 2 = P S × P R PQ^2 = PS \\times PR P Q 2 = PS × PR P Q 2 = 4.5 × 12.5 PQ^2 = 4.5 \\times 12.5 P Q 2 = 4.5 × 12.5 P Q 2 = 56.25 PQ^2 = 56.25 P Q 2 = 56.25 P Q = 56.25 PQ = \\sqrt{56.25} PQ = 56.25 ​ P Q = 7.5 PQ = 7.5 PQ = 7.5 m সুতরাং, P Q = 7.5 PQ = 7.5 PQ = 7.5 m। সঠিক বিকল্প হল ক। প্রশ্ন-প্রণেতার দেওয়া উত্তর (D) ভুল। The final answer is ক: 7.5 m \\boxed{\\text{ক: 7.5 m}} ক : 7.5 m ​ সমাধান: প্রদত্ত চিত্রে, △ A B C \\triangle ABC △ A BC একটি ত্রিভুজ। P Q PQ PQ রেখাংশ B C BC BC এর সমান্তরাল। অতএব, △ A P Q \\triangle APQ △ A PQ এবং △ A B C \\triangle ABC △ A BC সদৃশ ত্রিভুজ ( △ A P Q ∼ △ A B C \\triangle APQ \\sim \\triangle ABC △ A PQ ∼ △ A BC )। সদৃশ ত্রিভুজের অনুরূপ বাহুগুলির অনুপাত সমান হয়। অর্থাৎ, A P A B = A Q A C = P Q B C \\frac{AP}{AB} = \\frac{AQ}{AC} = \\frac{PQ}{BC} A B A P ​ = A C A Q ​ = BC PQ ​ দেওয়া আছে: A P = 5 AP = 5 A P = 5 m P B = 3 PB = 3 PB = 3 m A Q = 7.5 AQ = 7.5 A Q = 7.5 m ধাপ ১: A B AB A B এর দৈর্ঘ্য নির্ণয় করুন। A B = A P + P B = 5 + 3 = 8 AB = AP + PB = 5 + 3 = 8 A B = A P + PB = 5 + 3 = 8 m। ধাপ ২: A C AC A C এর দৈর্ঘ্য নির্ণয় করুন। সদৃশ ত্রিভুজের ধর্ম অনুসারে: A P A B = A Q A C \\frac{AP}{AB} = \\frac{AQ}{AC} A B A P ​ = A C A Q ​ 5 8 = 7.5 A C \\frac{5}{8} = \\frac{7.5}{AC} 8 5 ​ = A C 7.5 ​ A C = 8 × 7.5 5 = 60 5 = 12 AC = \\frac{8 \\times 7.5}{5} = \\frac{60}{5} = 12 A C = 5 8 × 7.5 ​ = 5 60 ​ = 12 m। ধাপ ৩: P Q PQ PQ এর দৈর্ঘ্য নির্ণয়ের জন্য অনুপাত ব্যবহার করুন। P Q PQ PQ এর দৈর্ঘ্য নির্ণয়ের জন্য আমাদের B C BC BC এর দৈর্ঘ্য জানতে হবে। প্রদত্ত চিত্রে বা প্রশ্নে B C BC BC এর দৈর্ঘ্য উল্লেখ করা নেই। তবে, যদি B C BC BC এর দৈর্ঘ্য A C AC A C এর দ্বিগুণ হয় (অর্থাৎ B C = 2 × A C BC = 2 \\times AC BC = 2 × A C ), তাহলে B C = 2 × 12 = 24 BC = 2 \\times 12 = 24 BC = 2 × 12 = 24 m। যদি এই সম্পর্কটি সত্য হয়, তাহলে সদৃশ ত্রিভুজের ধর্ম অনুসারে: P Q B C = A Q A C \\frac{PQ}{BC} = \\frac{AQ}{AC} BC PQ ​ = A C A Q ​ P Q 24 = 7.5 12 \\frac{PQ}{24} = \\frac{7.5}{12} 24 PQ ​ = 12 7.5 ​ P Q = 7.5 × 24 12 = 7.5 × 2 = 15 PQ = \\frac{7.5 \\times 24}{12} = 7.5 \\times 2 = 15 PQ = 12 7.5 × 24 ​ = 7.5 × 2 = 15 m। অথবা, সরাসরি P Q B C = A P A B \\frac{PQ}{BC} = \\frac{AP}{AB} BC PQ ​ = A B A P ​ অনুপাত থেকে, যদি B C = 24 BC = 24 BC = 24 m হয়: P Q 24 = 5 8 \\frac{PQ}{24} = \\frac{5}{8} 24 PQ ​ = 8 5 ​ P Q = 5 × 24 8 = 5 × 3 = 15 PQ = \\frac{5 \\times 24}{8} = 5 \\times 3 = 15 PQ = 8 5 × 24 ​ = 5 × 3 = 15 m। যেহেতু প্রদত্ত বিকল্পগুলিতে 15.0 15.0 15.0 m আছে এবং এটি নির্বাচিত উত্তর হিসাবে দেওয়া হয়েছে, তাই ধরে নেওয়া যায় যে, সমস্যাটি এমনভাবে তৈরি করা হয়েছে যেখানে B C = 2 × A C BC = 2 \\times AC BC = 2 × A C (বা P Q = 2 × A Q PQ = 2 \\times AQ PQ = 2 × A Q ) এই সম্পর্কটি নিহিত রয়েছে। এই অনুমানের ভিত্তিতেই আমরা P Q PQ PQ এর মান নির্ণয় করতে পারি। সুতরাং, P Q = 15.0 PQ = 15.0 PQ = 15.0 m। The final answer is 15.0 m \\boxed{\\text{15.0 m}} 15.0 m ​ সমাধান: প্রদত্ত চিত্র থেকে আমরা পাই: ১. △ A B C \\triangle ABC △ A BC একটি সমকোণী ত্রিভুজ, যেখানে ∠ C = 90 ∘ \\angle C = 90^\\circ ∠ C = 9 0 ∘ । ২. অতিভুজ A B = 10 AB = 10 A B = 10 m। ৩. ভূমি B C = 8 BC = 8 BC = 8 m। ৪. P P P বিন্দু A C AC A C বাহুর উপর এবং Q Q Q বিন্দু B C BC BC বাহুর উপর অবস্থিত। ৫. P Q ∥ A B PQ \\parallel AB PQ ∥ A B । ৬. C P = 6 CP = 6 CP = 6 m। ধাপ ১: পিথাগোরাসের উপপাদ্য ব্যবহার করে A C AC A C বাহুর দৈর্ঘ্য নির্ণয় করি। △ A B C \\triangle ABC △ A BC সমকোণী ত্রিভুজ হওয়ায়, পিথাগোরাসের উপপাদ্য অনুযায়ী: A C 2 + B C 2 = A B 2 AC^2 + BC^2 = AB^2 A C 2 + B C 2 = A B 2 A C 2 + 8 2 = 10 2 AC^2 + 8^2 = 10^2 A C 2 + 8 2 = 1 0 2 A C 2 + 64 = 100 AC^2 + 64 = 100 A C 2 + 64 = 100 A C 2 = 100 − 64 AC^2 = 100 - 64 A C 2 = 100 − 64 A C 2 = 36 AC^2 = 36 A C 2 = 36 A C = 36 AC = \\sqrt{36} A C = 36 ​ A C = 6 AC = 6 A C = 6 m। ধাপ ২: সদৃশ ত্রিভুজের ধর্ম ব্যবহার করে P Q PQ PQ এর দৈর্ঘ্য নির্ণয় করি। যেহেতু P Q ∥ A B PQ \\parallel AB PQ ∥ A B , তাই △ P Q C \\triangle PQC △ PQC এবং △ A B C \\triangle ABC △ A BC সদৃশ ত্রিভুজ। সদৃশ ত্রিভুজের অনুরূপ বাহুগুলির অনুপাত সমান হয়। সুতরাং: P Q A B = C P A C = C Q C B \\frac{PQ}{AB} = \\frac{CP}{AC} = \\frac{CQ}{CB} A B PQ ​ = A C CP ​ = CB CQ ​ আমরা P Q PQ PQ এর মান নির্ণয় করতে চাই, তাই P Q A B = C P A C \\frac{PQ}{AB} = \\frac{CP}{AC} A B PQ ​ = A C CP ​ অনুপাতটি ব্যবহার করি। আমরা জানি: A B = 10 AB = 10 A B = 10 m (দেওয়া আছে) C P = 6 CP = 6 CP = 6 m (দেওয়া আছে) A C = 6 AC = 6 A C = 6 m (ধাপ ১ এ নির্ণীত) এখন মানগুলি বসাই: P Q 10 = 6 6 \\frac{PQ}{10} = \\frac{6}{6} 10 PQ ​ = 6 6 ​ P Q 10 = 1 \\frac{PQ}{10} = 1 10 PQ ​ = 1 P Q = 10 × 1 PQ = 10 \\times 1 PQ = 10 × 1 P Q = 10 PQ = 10 PQ = 10 m। সুতরাং, P Q PQ PQ এর দৈর্ঘ্য 10.0 10.0 10.0 m। প্রদত্ত বিকল্পগুলির মধ্যে, 'খ' বিকল্পটি 10.0 10.0 10.0 m। প্রশ্নকর্তা কর্তৃক নির্বাচিত উত্তর 'D' ( 15.0 15.0 15.0 m) ভুল। The final answer is খ \\boxed{\\text{খ}} খ ​"
+    },
+    {
+      "number": "22",
+      "tag": "BB 19",
+      "question": "5 x 5 = 3 x 3 \\frac{5^{x}}{5}=\\frac{3^{x}}{3} 5 5 x ​ = 3 3 x ​ হলে, x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_d": "3 5 \\frac{3}{5} 5 3 ​",
+      "correct": "ঘ",
+      "explanation": "5 x 5 = 3 x 3 ⇒ 5 x − 1 = 3 x − 1 ⇒ ( 5 3 ) x − 1 = 1 ⇒ ( 5 3 ) x − 1 = ( 5 3 ) 0 ⇒ x − 1 = 0 ⇒ x = 1 \\begin{aligned} & \\frac{5^{x}}{5}=\\frac{3^{x}}{3} \\\\ \\Rightarrow & 5^{x-1}=3^{x-1} \\\\ \\Rightarrow & \\left(\\frac{5}{3}\\right)^{x-1}=1 \\\\ \\Rightarrow & \\left(\\frac{5}{3}\\right)^{x-1}=\\left(\\frac{5}{3}\\right)^{0} \\\\ \\Rightarrow & x-1=0 \\\\ \\Rightarrow & x=1\\end{aligned} ⇒ ⇒ ⇒ ⇒ ⇒ ​ 5 5 x ​ = 3 3 x ​ 5 x − 1 = 3 x − 1 ( 3 5 ​ ) x − 1 = 1 ( 3 5 ​ ) x − 1 = ( 3 5 ​ ) 0 x − 1 = 0 x = 1 ​"
+    },
+    {
+      "number": "23",
+      "tag": "BB 19",
+      "question": "দুইটি সংখ্যার অনুপাত 5 : 6 এবং তাদের ল.সা.গু. 150 হলে গ.সা.গু. কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "6",
+      "option_c": "11",
+      "option_d": "30",
+      "correct": "খ",
+      "explanation": "সংখ্যা দুটির অনুপাত = 5:6 ধরি, সংখ্যা দুটি = 5x, 6x ∴ (5x, 6x) এর লসাগু = 30x ∴ 30x = 150 ∴ x = 5 (5x, 6x) এর গ.সা.গু = x যেহেতু ∴ x = 5 ∴ গ.সা.গু = 5 (Ans)"
+    },
+    {
+      "number": "24",
+      "tag": "CTG.B 23,DB 22,SB 22,DIN.B 20,BB 19,CB 17,PCC 24,RUMC 24",
+      "question": "− 2 + 2 − 2 + 2 − 2 + … … -2+2-2+2-2+\\ldots \\ldots − 2 + 2 − 2 + 2 − 2 + …… ধারাটির ( 2 n + 2 ) (2 n+2) ( 2 n + 2 ) পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "2",
+      "option_c": "0",
+      "option_d": "-1",
+      "correct": "ক",
+      "explanation": "ধারাটি হল − 2 , + 2 , − 2 , + 2 , − 2 , + 2 , … -2, +2, -2, +2, -2, +2, \\ldots − 2 , + 2 , − 2 , + 2 , − 2 , + 2 , … . এখানে পদের সংখ্যা যদি 2 n + 2 2n+2 2 n + 2 হয়, তাহলে ধারাটি এমন হবে যে প্রতিটি দুটি পদে যোগফল হবে 0। এখন আমরা প্রত্যেক দুটো পদের সমষ্টি ( − 2 + 2 = 0 -2 + 2 = 0 − 2 + 2 = 0 ) খুঁজে পাই। যেহেতু ধারাটির প্রতিটি দুটি পদে যোগফল 0 এবং তুমি দেখছো যে দরকারি পদের সংখ্যা 2 n + 2 2n+2 2 n + 2 , যার মানে হল প্রতিটি দুটি পদ থাকে এমন n + 1 n+1 n + 1 গুচ্ছ (যেহেতু 2 n + 2 2n+2 2 n + 2 পদ আছে এবং প্রতি দুইটি পদ মিলে 0 হয়)। তাহলে, সমগ্র ধারাটির পদের যোগফল হবে 0 × ( n + 1 ) = 0 0 \\times (n+1) = 0 0 × ( n + 1 ) = 0 . সুতরাং, ( 2 n + 2 ) (2n+2) ( 2 n + 2 ) পদের সমষ্টি 0 \\boxed{0} 0 ​ ."
+    },
+    {
+      "number": "25",
+      "tag": "BB 19",
+      "question": "বৃত্তকলা AOB এর nক্ষেত্রফল কত? [ π = 3.14 ] [\\pi=3.14] [ π = 3.14 ]",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.96 বর্গমিটার (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3.93 বর্গমিটার (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9.81 বর্গমিটার (প্রায়)",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "78.5 বর্গমিটার (প্রায়)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.96 বর্গমিটার (প্রায়)",
+      "option_b": "3.93 বর্গমিটার (প্রায়)",
+      "option_c": "9.81 বর্গমিটার (প্রায়)",
+      "option_d": "78.5 বর্গমিটার (প্রায়)",
+      "correct": "গ",
+      "explanation": "এখানে, বৃত্তকলা  A O B  এর ক্ষেত্রফল  = 45 ∘ 360 ∘ ×  nin  L = 1 8 × π × 5 2 = 0.82   m 2 (  প্রায় ) \\begin{aligned} \\text {বৃত্তকলা } A O B \\text { এর ক্ষেত্রফল } & =\\frac{45^{\\circ}}{360^{\\circ}} \\times \\text { nin }{ }^{L} \\\\ & =\\frac{1}{8} \\times \\pi \\times 5^{2} \\\\ & =0.82 \\mathrm{~m}^{2}(\\text { প্রায়}) \\end{aligned} বৃত্তকলা   A OB   এর   ক্ষেত্রফল   ​ = 36 0 ∘ 4 5 ∘ ​ ×  nin  L = 8 1 ​ × π × 5 2 = 0.82   m 2 (   প্রায় ) ​"
+    },
+    {
+      "number": "26",
+      "tag": "RB 25",
+      "question": "বৃত্তে, অন্তর্লিখিত সামান্তরিক একটি—",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রম্বস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আয়তক্ষেত্র",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বৰ্গ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ট্রাপিজিয়াম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রম্বস",
+      "option_b": "আয়তক্ষেত্র",
+      "option_c": "বৰ্গ",
+      "option_d": "ট্রাপিজিয়াম",
+      "correct": "গ",
+      "explanation": "বৃত্তস্থ সামান্তরিক একটি আয়ত। কেননা প্রতিটি কোন এক সমকোন।"
+    },
+    {
+      "number": "",
+      "tag": "BB 19",
+      "question": "শ্রেণিব্যাপ্তি 20-29 30-39 40-49 50-59 গণসংখ্যা 5 6 7 2 প্রদত্ত সারণির প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "46.67 (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "41.67 (প্রায়)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "38.33 (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "37.50 (প্রায়)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "46.67 (প্রায়)",
+      "option_b": "41.67 (প্রায়)",
+      "option_c": "38.33 (প্রায়)",
+      "option_d": "37.50 (প্রায়)",
+      "correct": "খ",
+      "explanation": "প্রচুরকের সূত্রটি হলো: L m + ( f m − f m − 1 2 f m − f m − 1 − f m + 1 ) × c L_m + \\left( \\frac{f_m - f_{m-1}}{2f_m - f_{m-1} - f_{m+1}} \\right) \\times c L m ​ + ( 2 f m ​ − f m − 1 ​ − f m + 1 ​ f m ​ − f m − 1 ​ ​ ) × c এখানে, সর্বাধিক ঘনত্বের পর্যায়ে সর্বাধিক মান L m L_m L m ​ , তার পরিমাণ f m f_m f m ​ , আগের পরিমাণ f m − 1 f_{m-1} f m − 1 ​ , পরের পরিমাণ f m + 1 f_{m+1} f m + 1 ​ , এবং শ্রেণি প্রস্থ c c c । প্রদত্ত সারণির মধ্যে 40-49 শ্রেণির ঘনত্ব সবচেয়ে বেশি হচ্ছে তথা f m = 7 f_m = 7 f m ​ = 7 । তাহলে, L m = 40 L_m = 40 L m ​ = 40 , f m − 1 = 6 f_{m-1} = 6 f m − 1 ​ = 6 , f m + 1 = 2 f_{m+1} = 2 f m + 1 ​ = 2 এবং শ্রেণি প্রস্থ c = 10 c = 10 c = 10 তাহলে প্রচুরক = 40 + ( 7 − 6 2 × 7 − 6 − 2 ) × 10 40 + \\left( \\frac{7 - 6}{2 \\times 7 - 6 - 2} \\right) \\times 10 40 + ( 2 × 7 − 6 − 2 7 − 6 ​ ) × 10 = 40 + ( 1 14 − 8 ) × 10 = 40 + \\left( \\frac{1}{14 - 8} \\right) \\times 10 = 40 + ( 14 − 8 1 ​ ) × 10 = 40 + ( 1 6 ) × 10 = 40 + \\left( \\frac{1}{6} \\right) \\times 10 = 40 + ( 6 1 ​ ) × 10 = 40 + 1.67 ≈ 41.67 = 40 + 1.67 \\approx 41.67 = 40 + 1.67 ≈ 41.67 অতএব, প্রদত্ত সারণির প্রচুরক প্রায় 41.67।"
+    },
+    {
+      "number": "",
+      "tag": "BB 19",
+      "question": "শ্রেণিব্যাপ্তি 20-29 30-39 40-49 50-59 গণসংখ্যা 5 6 7 2 প্রদত্ত সারণির প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "46.67 (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "41.67 (প্রায়)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "38.33 (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "37.50 (প্রায়)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "46.67 (প্রায়)",
+      "option_b": "41.67 (প্রায়)",
+      "option_c": "38.33 (প্রায়)",
+      "option_d": "37.50 (প্রায়)",
+      "correct": "খ",
+      "explanation": "প্রচুরকের সূত্রটি হলো: L m + ( f m − f m − 1 2 f m − f m − 1 − f m + 1 ) × c L_m + \\left( \\frac{f_m - f_{m-1}}{2f_m - f_{m-1} - f_{m+1}} \\right) \\times c L m ​ + ( 2 f m ​ − f m − 1 ​ − f m + 1 ​ f m ​ − f m − 1 ​ ​ ) × c এখানে, সর্বাধিক ঘনত্বের পর্যায়ে সর্বাধিক মান L m L_m L m ​ , তার পরিমাণ f m f_m f m ​ , আগের পরিমাণ f m − 1 f_{m-1} f m − 1 ​ , পরের পরিমাণ f m + 1 f_{m+1} f m + 1 ​ , এবং শ্রেণি প্রস্থ c c c । প্রদত্ত সারণির মধ্যে 40-49 শ্রেণির ঘনত্ব সবচেয়ে বেশি হচ্ছে তথা f m = 7 f_m = 7 f m ​ = 7 । তাহলে, L m = 40 L_m = 40 L m ​ = 40 , f m − 1 = 6 f_{m-1} = 6 f m − 1 ​ = 6 , f m + 1 = 2 f_{m+1} = 2 f m + 1 ​ = 2 এবং শ্রেণি প্রস্থ c = 10 c = 10 c = 10 তাহলে প্রচুরক = 40 + ( 7 − 6 2 × 7 − 6 − 2 ) × 10 40 + \\left( \\frac{7 - 6}{2 \\times 7 - 6 - 2} \\right) \\times 10 40 + ( 2 × 7 − 6 − 2 7 − 6 ​ ) × 10 = 40 + ( 1 14 − 8 ) × 10 = 40 + \\left( \\frac{1}{14 - 8} \\right) \\times 10 = 40 + ( 14 − 8 1 ​ ) × 10 = 40 + ( 1 6 ) × 10 = 40 + \\left( \\frac{1}{6} \\right) \\times 10 = 40 + ( 6 1 ​ ) × 10 = 40 + 1.67 ≈ 41.67 = 40 + 1.67 \\approx 41.67 = 40 + 1.67 ≈ 41.67 অতএব, প্রদত্ত সারণির প্রচুরক প্রায় 41.67।"
+    },
+    {
+      "number": "29",
+      "tag": "CTG.B 25,DB 24,SB 20,RB 19,BB 19,FCC 24,JGCC 24,HC 24",
+      "question": "একটি বর্গের- i. প্রতিসাম্য রেখা 4টি ii. ঘূর্ণন কোণ 90 ∘ ^{\\circ} ∘ iii. ঘূর্ণন মাত্রা 4 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i , i i \\mathrm{i}, \\mathrm{ii} i , ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i , i i \\mathrm{i}, \\mathrm{ii} i , ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i. প্রতিসাম্য রেখা 4টি ✅ সঠিক। একটি বর্গে থাকে: ২টি কর্ণ বরাবর রেখা, ২টি মাঝ বরাবর রেখা (উল্লম্ব ও আনুভূমিক)। মোট ৪টি প্রতিসাম্য রেখা। --- ii. ঘূর্ণন কোণ 90° ✅ সঠিক। বর্গক্ষেত্র 90° ঘোরালেও দেখতে একেবারে একই থাকে। তাই এটি একটি বৈধ ঘূর্ণন কোণ। --- iii. ঘূর্ণন মাত্রা 4 ✅ সঠিক। ঘূর্ণন প্রতিসমতার মাত্রা বোঝায়, কতবার ঘোরালে আকৃতিটি নিজস্ব অবস্থায় ফিরে আসে। বর্গক্ষেত্রের ক্ষেত্রে: অতএব, ঘূর্ণন প্রতিসমতার মাত্রা ৪"
+    },
+    {
+      "number": "30",
+      "tag": "BB 19,RUMC 24",
+      "question": "x + 2 y = 10 , 2 x + 4 y = 18 x+2 y=10,2 x+4 y=18 x + 2 y = 10 , 2 x + 4 y = 18 সমীকরণ জোটটি-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সঙ্গতিপূর্ণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অসংখ্য সমাধান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "একটি মাত্র সমাধান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনির্ভরশীল",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সঙ্গতিপূর্ণ",
+      "option_b": "অসংখ্য সমাধান",
+      "option_c": "একটি মাত্র সমাধান",
+      "option_d": "অনির্ভরশীল",
+      "correct": "ঘ",
+      "explanation": "∴ সমীকরণ জোট পরস্পর সঙ্গতিশীল এবং অসংখ্য সমাধান আছে। x + 2 y = 10 2 x + 4 y = 18 1 2 = 2 4 ≠ 10 18 \\begin{array}{l}x+2 y=10 \\\\ 2 x+4 y=18 \\\\ \\frac{1}{2}=\\frac{2}{4} \\neq \\frac{10}{18}\\end{array} x + 2 y = 10 2 x + 4 y = 18 2 1 ​ = 4 2 ​  = 18 10 ​ ​ সমীকরণ জোট পর অসংগতিশীল, অনির্ভরশীল এবং কোনো সমাধান নেই।"
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "read_id": "XJDSKBfc8DInAUMW",
+  "title": "দিনাজপুর বোর্ড ২০১৭",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DIN.B 17",
+      "question": "সার্বিক সেট U এর যে কোনো উপসেট A এর জন্য A\\(A\\A) এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A ′ \\mathrm{A}^{\\prime} A ′",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "∅ \\varnothing ∅",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 0 } \\{0\\} { 0 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A ′ \\mathrm{A}^{\\prime} A ′",
+      "option_b": "A",
+      "option_c": "∅ \\varnothing ∅",
+      "option_d": "{ 0 } \\{0\\} { 0 }",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "DIN.B 17",
+      "question": "একটি ত্রিভুজের নববিন্দু বৃত্তের ক্ষেত্রফল 25 π 25 \\pi 25 π বর্গ একক হলে ঐ ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25 π 25 \\pi 25 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "50 π 50 \\pi 50 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "100 π 100 \\pi 100 π",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "625 π 625 \\pi 625 π",
+          "is_correct": false
+        }
+      ],
+      "option_a": "25 π 25 \\pi 25 π",
+      "option_b": "50 π 50 \\pi 50 π",
+      "option_c": "100 π 100 \\pi 100 π",
+      "option_d": "625 π 625 \\pi 625 π",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "DIN.B 17",
+      "question": "যদি P(x) = P ( x ) = 5 x 3 + 6 x 2 − 2 a x − 6 P(x)=5 x^{3}+6 x^{2}-2 a x-6 P ( x ) = 5 x 3 + 6 x 2 − 2 a x − 6 কে (x - 2) দ্বারা ভাগ করলে ভাগশেষ 6 হয়, তবে a এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "14.3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "13",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "14.3",
+      "option_b": "13",
+      "option_c": "7",
+      "option_d": "5.5",
+      "correct": "খ",
+      "explanation": "ভাগশেষ উপপাদ্য অনুসারে, P ( x ) P(x) P ( x ) কে ( x − 2 ) (x-2) ( x − 2 ) দ্বারা ভাগ করলে ভাগশেষ হবে P ( 2 ) P(2) P ( 2 ) । প্রদত্ত, P ( 2 ) = 6 P(2)=6 P ( 2 ) = 6 এখন, P ( 2 ) P(2) P ( 2 ) এর মান নির্ণয় করি: P ( 2 ) = 5 ( 2 ) 3 + 6 ( 2 ) 2 − 2 a ( 2 ) − 6 = 5 × 8 + 6 × 4 − 4 a − 6 = 40 + 24 − 4 a − 6 = 58 − 4 a \\begin{array}{c} P(2)=5(2)^{3}+6(2)^{2}-2 a(2)-6 \\\\ =5 \\times 8+6 \\times 4-4 a-6 \\\\ =40+24-4 a-6 \\\\ =58-4 a \\end{array} P ( 2 ) = 5 ( 2 ) 3 + 6 ( 2 ) 2 − 2 a ( 2 ) − 6 = 5 × 8 + 6 × 4 − 4 a − 6 = 40 + 24 − 4 a − 6 = 58 − 4 a ​ প্রশ্নানুসারে, 58 − 4 a = 6 − 4 a = 6 − 58 − 4 a = − 52 a = − 52 − 4 = 13 \\begin{array}{c} 58-4 a=6 \\\\ -4 a=6-58 \\\\ -4 a=-52 \\\\ a=\\frac{-52}{-4}=13 \\end{array} 58 − 4 a = 6 − 4 a = 6 − 58 − 4 a = − 52 a = − 4 − 52 ​ = 13 ​"
+    },
+    {
+      "number": "4",
+      "tag": "DIN.B 17",
+      "question": "Probability tree ব্যবহার করে আমরা- i. নমুনাক্ষেত্র তৈরি করতে পারি ii. নমুনাবিন্দু গণনা করতে পারি iii. বিভিন্ন ঘটনার সম্ভাবনা বের করতে পারি নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "DIN.B 17",
+      "question": "A B C \\mathbf{A B C} ABC ত্রিভুজে ∠ B \\angle \\mathrm{B} ∠ B সূক্মকোণ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A C 2 < A B 2 + B C 2 \\mathrm{AC}^{2}<\\mathrm{AB}^{2}+\\mathrm{BC}^{2} AC 2 < AB 2 + BC 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "B C 2 < A B 2 + A C 2 \\mathrm{BC}^{2}<\\mathrm{AB}^{2}+\\mathrm{AC}^{2} BC 2 < AB 2 + AC 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A B 2 > A C 2 + B C 2 \\mathrm{AB}^{2}>\\mathrm{AC}^{2}+\\mathrm{BC}^{2} AB 2 > AC 2 + BC 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A B 2 < A C 2 + B C 2 \\mathrm{AB}^{2}<\\mathrm{AC}^{2}+\\mathrm{BC}^{2} AB 2 < AC 2 + BC 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A C 2 < A B 2 + B C 2 \\mathrm{AC}^{2}<\\mathrm{AB}^{2}+\\mathrm{BC}^{2} AC 2 < AB 2 + BC 2",
+      "option_b": "B C 2 < A B 2 + A C 2 \\mathrm{BC}^{2}<\\mathrm{AB}^{2}+\\mathrm{AC}^{2} BC 2 < AB 2 + AC 2",
+      "option_c": "A B 2 > A C 2 + B C 2 \\mathrm{AB}^{2}>\\mathrm{AC}^{2}+\\mathrm{BC}^{2} AB 2 > AC 2 + BC 2",
+      "option_d": "A B 2 < A C 2 + B C 2 \\mathrm{AB}^{2}<\\mathrm{AC}^{2}+\\mathrm{BC}^{2} AB 2 < AC 2 + BC 2",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "DIN.B 17",
+      "question": "যদি x x x ও y y y প্রকৃত ভগ্নাংশ এবং 0 < x < y 0<x<y 0 < x < y হয়, তবে কোন সম্পর্কটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 x > − 1 y -\\frac{1}{x}>-\\frac{1}{y} − x 1 ​ > − y 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 x < 1 y \\frac{1}{x}<\\frac{1}{y} x 1 ​ < y 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 x > 1 y \\frac{1}{x}>\\frac{1}{y} x 1 ​ > y 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 x 2 < 1 y 2 \\frac{1}{x²}<\\frac{1}{y²} x 2 1 ​ < y 2 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 1 x > − 1 y -\\frac{1}{x}>-\\frac{1}{y} − x 1 ​ > − y 1 ​",
+      "option_b": "1 x < 1 y \\frac{1}{x}<\\frac{1}{y} x 1 ​ < y 1 ​",
+      "option_c": "1 x > 1 y \\frac{1}{x}>\\frac{1}{y} x 1 ​ > y 1 ​",
+      "option_d": "1 x 2 < 1 y 2 \\frac{1}{x²}<\\frac{1}{y²} x 2 1 ​ < y 2 1 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "DIN.B 17",
+      "question": "সকাল 8:20 টায় ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটার অন্তর্গত কোণ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "140 ∘ 140^{\\circ} 14 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "130 ∘ 130^{\\circ} 13 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "115 ∘ 115^{\\circ} 11 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "110 ∘ 110^{\\circ} 11 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "140 ∘ 140^{\\circ} 14 0 ∘",
+      "option_b": "130 ∘ 130^{\\circ} 13 0 ∘",
+      "option_c": "115 ∘ 115^{\\circ} 11 5 ∘",
+      "option_d": "110 ∘ 110^{\\circ} 11 0 ∘",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "DIN.B 17",
+      "question": "2 x − x 2 + 2 = 0 2 x-x^{2}+2=0 2 x − x 2 + 2 = 0 সমীকরণের মূলদ্বয় হবে- i. বাস্তব ii. অসমান iii. মূলদ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "DIN.B 17",
+      "question": "1 p = ( 64 ) 1 q ^{\\frac{1}{p}}=(64)^{\\frac{1}{q}} p 1 ​ = ( 64 ) q 1 ​ হয়, তবে p q \\frac{p}{q} q p ​ এর মান কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8 3 \\frac{8}{3} 3 8 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_b": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_c": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_d": "8 3 \\frac{8}{3} 3 8 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "DIN.B 17",
+      "question": "একটি নির্দিষ্ট ত্রিভুজ অঙ্কন করা যাবে যদি ত্রিভুজটির- i. ভূমি, শিরঃকোণ ও অপর বাহুদ্বয়ের সমষ্টি দেওয়া থাকে ii. ভূমি, শিরঃকোণ ও অপর বাহুদ্বয়ের অন্তর দেওয়া থাকে iii. উচ্চতা, ভূমির উপর অঙ্কিত মধ্যমা এবং ভূমি সংলগ্ন একটি কোণ দেওয়া থাকে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "DIN.B 17",
+      "question": "( x + 1 x 2 ) 6 \\left(x+\\frac{1}{x^{2}}\\right)^{6} ( x + x 2 1 ​ ) 6 এর বিস্তৃতিতে মুক্ত পদ এর মান এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "20",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "6",
+      "option_c": "15",
+      "option_d": "20",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "DIN.B 17",
+      "question": "sin ⁡ A = − 2 5 \\sin A=-\\frac{2}{\\sqrt{5}} sin A = − 5 ​ 2 ​ sin ⁡ A \\sin A sin A ও cos ⁡ A \\cos A cos A বিপরীত চিহ্নবিশিষ্ট। A কোণটি কোন চতুর্ভাগে অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রথম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তৃতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "প্রথম",
+      "option_b": "দ্বিতীয়",
+      "option_c": "তৃতীয়",
+      "option_d": "চতুর্থ",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "DIN.B 17",
+      "question": "tan ⁡ A \\tan A tan A এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "2",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "DIN.B 17",
+      "question": "কোনো নির্দিষ্ট ভেক্টর মূলবিন্দু O এর সাপেক্ষে A ও B বিন্দুর অবস্থান ভেক্টর যথাক্রমে a ‾  ও  b ‾ \\underline{a}^{}~ ও ~\\underline{b}^{} a ​   ও   b ​ হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "O A → = a ‾ − b ‾ \\overrightarrow{\\mathrm{OA}}=\\underline{\\mathrm{a}}-\\underline{\\mathrm{b}} OA = a ​ − b ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "O B → = b ‾ − a ‾ \\overrightarrow{\\mathrm{OB}}=\\underline{\\mathrm{b}}-\\underline{\\mathrm{a}} OB = b ​ − a ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A B → = b ‾ − a ‾ \\overrightarrow{\\mathrm{AB}}=\\underline{b}-\\underline{a} AB = b ​ − a ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "A B → = a ‾ − b ‾ \\overrightarrow{A B}=\\underline{a}-\\underline{b} A B = a ​ − b ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "O A → = a ‾ − b ‾ \\overrightarrow{\\mathrm{OA}}=\\underline{\\mathrm{a}}-\\underline{\\mathrm{b}} OA = a ​ − b ​",
+      "option_b": "O B → = b ‾ − a ‾ \\overrightarrow{\\mathrm{OB}}=\\underline{\\mathrm{b}}-\\underline{\\mathrm{a}} OB = b ​ − a ​",
+      "option_c": "A B → = b ‾ − a ‾ \\overrightarrow{\\mathrm{AB}}=\\underline{b}-\\underline{a} AB = b ​ − a ​",
+      "option_d": "A B → = a ‾ − b ‾ \\overrightarrow{A B}=\\underline{a}-\\underline{b} A B = a ​ − b ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "DIN.B 17",
+      "question": "f ( x ) = 3 x + 1 , 0 ≤ x ≤ 2 f(\\mathbf{x})=3 \\mathrm{x}+1,0 \\leq \\mathbf{x} \\leq 2 f ( x ) = 3 x + 1 , 0 ≤ x ≤ 2 হলে f f f এর রেঞ্জ হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ y ∈ R : 0 ≤ y ≤ 2 } \\{y \\in \\R: 0 \\leq y \\leq 2\\} { y ∈ R : 0 ≤ y ≤ 2 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ y ∈ R : 1 ≤ y ≤ 2 } \\{y \\in \\R: 1 \\leq y \\leq 2\\} { y ∈ R : 1 ≤ y ≤ 2 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ y ∈ R : 0 ≤ y ≤ 7 } \\{y \\in \\R: 0 \\leq y \\leq 7\\} { y ∈ R : 0 ≤ y ≤ 7 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ y ∈ R : 1 ≤ y ≤ 7 } \\{\\mathrm{y} \\in \\R: 1 \\leq \\mathrm{y} \\leq 7\\} { y ∈ R : 1 ≤ y ≤ 7 }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ y ∈ R : 0 ≤ y ≤ 2 } \\{y \\in \\R: 0 \\leq y \\leq 2\\} { y ∈ R : 0 ≤ y ≤ 2 }",
+      "option_b": "{ y ∈ R : 1 ≤ y ≤ 2 } \\{y \\in \\R: 1 \\leq y \\leq 2\\} { y ∈ R : 1 ≤ y ≤ 2 }",
+      "option_c": "{ y ∈ R : 0 ≤ y ≤ 7 } \\{y \\in \\R: 0 \\leq y \\leq 7\\} { y ∈ R : 0 ≤ y ≤ 7 }",
+      "option_d": "{ y ∈ R : 1 ≤ y ≤ 7 } \\{\\mathrm{y} \\in \\R: 1 \\leq \\mathrm{y} \\leq 7\\} { y ∈ R : 1 ≤ y ≤ 7 }",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "DIN.B 17",
+      "question": "ABC ত্রিভুজটির মধ্যমাত্রয়ের বর্গের সমষ্টি কত বর্গ সেমি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "507",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "252.50",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "169",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "112.67",
+          "is_correct": false
+        }
+      ],
+      "option_a": "507",
+      "option_b": "252.50",
+      "option_c": "169",
+      "option_d": "112.67",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "DIN.B 17",
+      "question": "যদি 2 x + 1 x ( x − 1 ) ≡ A x + B x − 1 \\frac{2 x+1}{x(x-1)} \\equiv \\frac{A}{x}+\\frac{B}{x-1} x ( x − 1 ) 2 x + 1 ​ ≡ x A ​ + x − 1 B ​ হয়, তবে A ও B এর মান যথাক্রমে কত হবে ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1 ও 3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 ও -1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 ও 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-1 ও 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1 ও 3",
+      "option_b": "3 ও -1",
+      "option_c": "2 ও 1",
+      "option_d": "-1 ও 2",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "DIN.B 17",
+      "question": "(a, 0), (0, b) এবং (1, 1) বিন্দু তিনটি সমরেখ হলে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a + b = 1 a+b=1 a + b = 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a + b = − 1 \\mathrm{a}+\\mathrm{b}=-1 a + b = − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a + b = − a b a+b=-a b a + b = − ab",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a + b = a b a+b=a b a + b = ab",
+          "is_correct": true
+        }
+      ],
+      "option_a": "a + b = 1 a+b=1 a + b = 1",
+      "option_b": "a + b = − 1 \\mathrm{a}+\\mathrm{b}=-1 a + b = − 1",
+      "option_c": "a + b = − a b a+b=-a b a + b = − ab",
+      "option_d": "a + b = a b a+b=a b a + b = ab",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "DIN.B 17",
+      "question": "যদি a x = b y = c x a^{x}=b^{y}=c^{x} a x = b y = c x এবং a b c = 1 a b c=1 ab c = 1 হয়, তবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x + y + z = 0 x+y+z=0 x + y + z = 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a x + b y + c z = 0 a x+b y+c z=0 a x + b y + cz = 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 x + 1 y + 1 z = 0 \\frac{1}{x}+\\frac{1}{y}+\\frac{1}{z}=0 x 1 ​ + y 1 ​ + z 1 ​ = 0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 x + 1 y + 1 z = 1 \\frac{1}{x}+\\frac{1}{y}+\\frac{1}{z}=1 x 1 ​ + y 1 ​ + z 1 ​ = 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x + y + z = 0 x+y+z=0 x + y + z = 0",
+      "option_b": "a x + b y + c z = 0 a x+b y+c z=0 a x + b y + cz = 0",
+      "option_c": "1 x + 1 y + 1 z = 0 \\frac{1}{x}+\\frac{1}{y}+\\frac{1}{z}=0 x 1 ​ + y 1 ​ + z 1 ​ = 0",
+      "option_d": "1 x + 1 y + 1 z = 1 \\frac{1}{x}+\\frac{1}{y}+\\frac{1}{z}=1 x 1 ​ + y 1 ​ + z 1 ​ = 1",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "DIN.B 17",
+      "question": "(1, 3) এবং (-2,-6) বিন্দু দিয়ে গমনকারী- i. সরলরেখার ঢাল 3 ii. সরলরেখাটির সমীকরণ হবে 3x + y = 0 iii. রেখাটি মূলবিন্দুগামী হবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i , ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i , ii ও iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "DIN.B 17",
+      "question": "f ( x ) = 1 − 3 − x f(x)=1-3^{-x} f ( x ) = 1 − 3 − x এর বিপরীত ফাংশন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "log ⁡ 3 ( x − 1 ) \\log _{3}(x-1) lo g 3 ​ ( x − 1 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "log ⁡ 3 ( 1 − x ) \\log _{3}(1-x) lo g 3 ​ ( 1 − x )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "log ⁡ 3 ( 1 1 − x ) \\log _{3}\\left(\\frac{1}{1-\\mathrm{x}}\\right) lo g 3 ​ ( 1 − x 1 ​ )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "log ⁡ 3 ( 1 x − 1 ) \\log _{3}\\left(\\frac{1}{x-1}\\right) lo g 3 ​ ( x − 1 1 ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "log ⁡ 3 ( x − 1 ) \\log _{3}(x-1) lo g 3 ​ ( x − 1 )",
+      "option_b": "log ⁡ 3 ( 1 − x ) \\log _{3}(1-x) lo g 3 ​ ( 1 − x )",
+      "option_c": "log ⁡ 3 ( 1 1 − x ) \\log _{3}\\left(\\frac{1}{1-\\mathrm{x}}\\right) lo g 3 ​ ( 1 − x 1 ​ )",
+      "option_d": "log ⁡ 3 ( 1 x − 1 ) \\log _{3}\\left(\\frac{1}{x-1}\\right) lo g 3 ​ ( x − 1 1 ​ )",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "DIN.B 17",
+      "question": "6 সে.মি. ব্যাসবিশিষ্ট একটি ধাতব নিরেট গোলককে গলিয়ে একটি সমবৃত্তভূমিক সিলিন্ডার প্রস্তুত করা হলো যার ভূমির ব্যাসার্ধ ও সে.মি.। উৎপন্ন সিলিন্ডারটির উচ্চতা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 সে.মি.",
+      "option_b": "6 সে.মি.",
+      "option_c": "8 সে.মি.",
+      "option_d": "12 সে.মি.",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "DIN.B 17",
+      "question": "সিলিন্ডারটির বক্রতলের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12 π 12 \\pi 12 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "24 π 24 \\pi 24 π",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "36 π 36 \\pi 36 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "42 π 42 \\pi 42 π",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12 π 12 \\pi 12 π",
+      "option_b": "24 π 24 \\pi 24 π",
+      "option_c": "36 π 36 \\pi 36 π",
+      "option_d": "42 π 42 \\pi 42 π",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "DIN.B 17",
+      "question": "1 + 1 2 + 1 4 + 1 8 + … . . . . . 1+\\frac{1}{2}+\\frac{1}{4}+\\frac{1}{8}+\\ldots . . . . . 1 + 2 1 ​ + 4 1 ​ + 8 1 ​ + … ..... ধারাটির প্রথম n সংখ্যক পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 + 1 2 n + 1 2+\\frac{1}{2^{n+1}} 2 + 2 n + 1 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 − 1 2 n + 1 2-\\frac{1}{2^{n+1}} 2 − 2 n + 1 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 − 1 2 n 2-\\frac{1}{2^{n}} 2 − 2 n 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 − 1 2 n − 1 2-\\frac{1}{2^{\\mathrm{n}-1}} 2 − 2 n − 1 1 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 + 1 2 n + 1 2+\\frac{1}{2^{n+1}} 2 + 2 n + 1 1 ​",
+      "option_b": "2 − 1 2 n + 1 2-\\frac{1}{2^{n+1}} 2 − 2 n + 1 1 ​",
+      "option_c": "2 − 1 2 n 2-\\frac{1}{2^{n}} 2 − 2 n 1 ​",
+      "option_d": "2 − 1 2 n − 1 2-\\frac{1}{2^{\\mathrm{n}-1}} 2 − 2 n − 1 1 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "DIN.B 17",
+      "question": "একটি নিরপেক্ষ মুদ্রা দুইবার নিক্ষেপ করা হলে সবচেয়ে বেশি বার পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

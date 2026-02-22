@@ -1,0 +1,832 @@
+{
+  "read_id": "P0PvWcj6Y4h5avPk",
+  "title": "ক্যামব্রিয়ান স্কুল এন্ড কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CSC 24",
+      "question": "কম্পিউটারের কোথা হতে সফটওয়্যার আনইনস্টল করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সেটিংস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কন্ট্রোল প্যানেল",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "অল প্রোগ্রামস",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "হেল্প এন্ড সাপোর্ট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সেটিংস",
+      "option_b": "কন্ট্রোল প্যানেল",
+      "option_c": "অল প্রোগ্রামস",
+      "option_d": "হেল্প এন্ড সাপোর্ট",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "CSC 24",
+      "question": "সিডি থেকে স্বয়ংক্রিয়ভাবে কাজ করে কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Auto Run File",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Read Me File",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Command File",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": ".exe",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Auto Run File",
+      "option_b": "Read Me File",
+      "option_c": "Command File",
+      "option_d": ".exe",
+      "correct": "ক",
+      "explanation": "সঠিক উত্তর হলো Auto Run File । একটি সিডি থেকে স্বয়ংক্রিয়ভাবে কাজ করার জন্য \"Auto Run File\" ব্যবহার করা হয়। এটি \"Autorun.inf\" নামক একটি ফাইলের মাধ্যমে শুরু হয় যা সিডিতে রাখা হয়। এই ফাইলটি উইন্ডোজ অপারেটিং সিস্টেমকে নির্দেশনা দেয় কীভাবে স্বয়ংক্রিয়ভাবে কোন ফাইল বা অ্যাপ্লিকেশন চালাতে হবে।"
+    },
+    {
+      "number": "3",
+      "tag": "JB 19,CSC 24",
+      "question": "হার্ডডিস্কের ধারণক্ষমতা বাড়ানোর জন্য কোনটি প্রয়োজন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডিস্ক ক্লিন আপ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ডিস্ক ডিলিট আপ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ডিস্ক রিড আপ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ডিস্ক রিমোভার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ডিস্ক ক্লিন আপ",
+      "option_b": "ডিস্ক ডিলিট আপ",
+      "option_c": "ডিস্ক রিড আপ",
+      "option_d": "ডিস্ক রিমোভার",
+      "correct": "ক",
+      "explanation": "হার্ডডিস্কের ধারণক্ষমতা বাড়ানোর জন্য \"ডিস্ক ক্লিন আপ\" প্রয়োজন, এটি একটি উইন্ডোজ ইউটিলিটি যা অপ্রয়োজনীয় ফাইল মুছে ফেলে এবং ডিস্ক স্পেস মুক্তি দেয়।"
+    },
+    {
+      "number": "4",
+      "tag": "DB 25,DIN.B 24,RB 23,All.B 20,All.B 18,DRMC 24,CSC 24,RCS 24",
+      "question": "প্রেজেন্টেশনে স্লাইড প্রদর্শনের কি-বোর্ড কমান্ড কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "F1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "F2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "F5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "F9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "F1",
+      "option_b": "F2",
+      "option_c": "F5",
+      "option_d": "F9",
+      "correct": "গ",
+      "explanation": "F5- প্রেজেন্টেশনে স্লাইড প্রদর্শনের জন্য ব্যবহৃত কি-বোর্ড কমান্ড। এছাড়া এটি দ্বারা মাইক্রোসফট ওয়ার্ডে find, replace, go to ইত্যাদি উইন্ডো খোলা হয়। F1- এটি সাহায্য বা হেল্প কি হিসেবে ব্যবহৃত হয়। অর্থাৎ যেকোনো প্রোগ্রামের হেল্প মেনু দেখতে এটি ব্যবহার করা হয়। F2- এটি সাধারণত কোনো ফাইল বা ফোল্ডারের নাম পরিবর্তন করার জন্য ব্যবহৃত হয়। যেকোনো ফাইল বা ফোল্ডার নির্বাচন করে এই কি চেপে ফাইলের নাম বদলানো যাবে। F9- এটি দ্বারা কোয়ার্ক এক্সপ্রেস ৫.০-এর মেজারমেন্ট টুলবার ওপেন করা হয়।"
+    },
+    {
+      "number": "5",
+      "tag": "CSC 24",
+      "question": "কোন সফটওয়‍্যারের সাহায্যে লেখা, ছবি, অডিও, ভিডিও, গ্রাফ ইত্যাদির সমন্বয়ে আকর্ষণীয়ভাবে তথ্যাদি উপস্থাপন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "MS Word",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Excel",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Access",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "PowerPoint",
+          "is_correct": true
+        }
+      ],
+      "option_a": "MS Word",
+      "option_b": "Excel",
+      "option_c": "Access",
+      "option_d": "PowerPoint",
+      "correct": "ঘ",
+      "explanation": "PowerPoint সফটওয়্যারের সাহায্যে লেখা, ছবি, অডিও, ভিডিও, গ্রাফ ইত্যাদির সমন্বয়ে আকর্ষণীয়ভাবে তথ্যাদি উপস্থাপন করা যায়। এটি মূলত প্রেজেন্টেশন তৈরির জন্য ব্যবহৃত হয় এবং ব্যবহারকারীকে বহু মাধ্যমিক উপকরণ যুক্ত করে আকর্ষণীয় উপায়ে বিষয়বস্তু উপস্থাপনের সুযোগ দেয়। সঠিক উত্তর: PowerPoint"
+    },
+    {
+      "number": "6",
+      "tag": "JB 23,CSC 24",
+      "question": "নিচের কোনটি মাল্টিমিডিয়া?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "টেলিভিশন",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "রেডিও",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পত্রিকা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বই",
+          "is_correct": false
+        }
+      ],
+      "option_a": "টেলিভিশন",
+      "option_b": "রেডিও",
+      "option_c": "পত্রিকা",
+      "option_d": "বই",
+      "correct": "ক",
+      "explanation": "মাল্টিমিডিয়া হলো এমন মাধ্যম যা একাধিক মিডিয়া উপাদানের (যেমন: অডিও, ভিডিও, টেক্সট ইত্যাদি) সংমিশ্রণে তৈরি হয়। টেলিভিশন একটি মাল্টিমিডিয়া মাধ্যম, কারণ এটি একই সাথে অডিও এবং ভিজ্যুয়াল উভয় উপাদান ব্যবহার করে। অন্যদিকে, রেডিও কেবল অডিও মাধ্যম, পত্রিকা ও বই শুধুমাত্র টেক্সট ভিত্তিক মাধ্যম। তাই সঠিক উত্তর হলো টেলিভিশন। সঠিক উত্তর: টেলিভিশন"
+    },
+    {
+      "number": "7",
+      "tag": "CSC 24",
+      "question": "বাংলাদেশ-৭১ কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মুক্তিযুদ্ধের বই",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "স্মার্টবুক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ডেটাবেজ সফটওয়‍্যার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মাল্টিমিডিয়া সফটওয়‍্যার",
+          "is_correct": true
+        }
+      ],
+      "option_a": "মুক্তিযুদ্ধের বই",
+      "option_b": "স্মার্টবুক",
+      "option_c": "ডেটাবেজ সফটওয়‍্যার",
+      "option_d": "মাল্টিমিডিয়া সফটওয়‍্যার",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "All.B 20,CSC 24",
+      "question": "ভিডিও কার্যত এক ধরনের-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বর্ণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "চিত্র",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "শব্দ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সংখ্যা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বর্ণ",
+      "option_b": "চিত্র",
+      "option_c": "শব্দ",
+      "option_d": "সংখ্যা",
+      "correct": "খ",
+      "explanation": "ভিডিও মূলত চিত্রের একটি ধারাবাহিক সেট যা দ্রুতগতিতে প্রদর্শন করে চলমান পরিস্থিতি তৈরি করে। তাই ভিডিও এক ধরনের চিত্র। সঠিক উত্তর: চিত্র"
+    },
+    {
+      "number": "9",
+      "tag": "CB 25,CSC 24",
+      "question": "কখন থেকে কম্পিউটার ডেটাবেজ ফাইলে ডেটা সংরক্ষণ শুরু হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সপ্তদশ শতাব্দি থেকে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "উনবিংশ শতাব্দি থেকে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ষাটের দশক থেকে",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সত্তর দশক থেকে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সপ্তদশ শতাব্দি থেকে",
+      "option_b": "উনবিংশ শতাব্দি থেকে",
+      "option_c": "ষাটের দশক থেকে",
+      "option_d": "সত্তর দশক থেকে",
+      "correct": "গ",
+      "explanation": "কম্পিউটার ডেটাবেজ ফাইলে ডেটা সংরক্ষণ শুরু হয় ষাটের দশক থেকে। সেই সময়েই বিভিন্ন কোম্পানি এবং প্রতিষ্ঠান তাদের ডেটা সংরক্ষণের জন্য ডেটাবেজ ব্যবহারের শুরু করে। সঠিক উত্তর: ষাটের দশক থেকে"
+    },
+    {
+      "number": "10",
+      "tag": "CSC 24",
+      "question": "ডেটাবেজ থেকে তথ্য খুঁজে বের করার জন্য কী ব্যবহার করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ইনপুট",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফাইল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ইনডেক্স",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "আউটপুট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ইনপুট",
+      "option_b": "ফাইল",
+      "option_c": "ইনডেক্স",
+      "option_d": "আউটপুট",
+      "correct": "গ",
+      "explanation": "ডেটাবেজ থেকে তথ্য খুঁজে বের করার জন্য ইনডেক্স ব্যবহার করা হয়। ডেটাবেজ ইনডেক্স হলো একটি ডাটা স্ট্রাকচার। এটি ডেটাবেজ টেবিলে ডেটা পুনরুদ্ধারের গতি বাড়ায়।"
+    },
+    {
+      "number": "11",
+      "tag": "All.B 17,CSC 24",
+      "question": "আজকের দিনের মাল্টিমিডিয়ার পূর্বপুরুষ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Television",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Radio",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Video",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Cinema",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Television",
+      "option_b": "Radio",
+      "option_c": "Video",
+      "option_d": "Cinema",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "DB 25,DIN.B 24,All.B 20,PCC 24,ACPS 24,CSC 24",
+      "question": "ডেটাবেজ প্রোগ্রাম হলো- i. ডিবেজ ii. ওরাকল iii. ফক্সপ্রো নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "ডিবেজ, ওরাকল, এবং ফক্সপ্রো সকলই ডেটাবেজ প্রোগ্রামের উদাহরণ। ডিবেজ (dBase) একটি ডেটাবেজ ম্যানেজমেন্ট সিস্টেম যা সাধারণত ব্যক্তিগত কম্পিউটারের জন্য ব্যবহৃত হয়। ওরাকল একটি বড় মাপের ডেটাবেজ ম্যানেজমেন্ট সিস্টেম এবং সাধারণত বড় কর্পোরেট বা এন্টারপ্রাইজ লেভেলের জন্য ব্যবহৃত হয়। ফক্সপ্রো (FoxPro) একটি টেক্সট-বেজড প্রোগ্রামিং ভাষা এবং ডেটাবেজ ম্যানেজমেন্ট সিস্টেম যা সাধারণত বড় আকারের ডেটার ক্ষেত্রে ব্যবহৃত হয়। i, ii ও iii (অপশন ডি)"
+    },
+    {
+      "number": "13",
+      "tag": "DB 24,CSC 24",
+      "question": "প্রেজেন্টেশনের খসড়াকে বলা হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "File",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Handouts",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Slide",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Slide layout",
+          "is_correct": true
+        }
+      ],
+      "option_a": "File",
+      "option_b": "Handouts",
+      "option_c": "Slide",
+      "option_d": "Slide layout",
+      "correct": "ঘ",
+      "explanation": "প্রেজেন্টেশনের এক একটি অংশকে স্লাইড (Slide) বলে । একাধিক স্লাইড বিশিষ্ট একটি পৃষ্ঠাকে হ্যান্ড আউটস বলা হয় । পরিকল্পিতভাবে একটি পাওয়ার পয়েন্টে প্রেজেন্টেশন তৈরী করার জন্য খসড়া করে নিতে হয় । এই খসড়া কে বলা হয় Slide Layout ।"
+    },
+    {
+      "number": "14",
+      "tag": "CSC 24",
+      "question": "মাহিম একটি চাকরিতে আবেদন করার উদ্দেশ্যে তার সংরক্ষিত CV এর ওয়ার্ড ফাইলটি খুললো এবং তাতে প্রয়োজনীয় পরিবর্তন এনে নতুন নামে সেইভ করলো। সংরক্ষিত CV খুলতে মাহিম কোন অপশন ব্যবহার করে? i. Ctrl+O ii. Open iii. New নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "DIN.B 25,CSC 24",
+      "question": "কম্পিউটারে বিপুল পরিমাণ তথ্য সঞ্চয় করে রাখা হয়- i. CD-ROM এ ii. ROM এ iii. Hard disk এ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "কম্পিউটার বিভিন্ন ধরনের ডাটা সংরক্ষণের জন্য বিভিন্ন ধরনের স্টোরেজ মিডিয়া ব্যবহার করে। CD-ROM: এটি একটি অপটিক্যাল ড্রাইভ যা সাধারণত ডাটা পড়ার জন্য ব্যবহৃত হয় এবং সাধারণত কমপ্যাক্ট ডিস্কের মাধ্যমে ডাটা স্টোরেজ করে, সেক্ষেত্রে ঐক্যতান সংরক্ষণের জন্য সাধারণভাবে ব্যবহৃত হয় না। ROM: এটি একটি ধরনের মেমোরি যা শুধুমাত্র রিড-অলিউ মেমোরি। এখানে সাধারণত পার্মানেন্ট ফার্মওয়্যার বা সফটওয়্যার সংরক্ষণ করা হয়, কিন্তু বিপুল পরিমাণ তথ্য সাধারণত রাখা হয় না। Hard disk: এটি কম্পিউটারের প্রধান স্টোরেজ ইউনিট, যেখানে বিপুল পরিমাণ তথ্য সঞ্চয় করা হয়। হার্ডডিস্কেই সাধারণত সকল মূল ডাটা বা ফাইল সংরক্ষণ থাকে। তাহলে সঠিক উত্তর হবে যে, কম্পিউটারে বিপুল পরিমাণ তথ্য সাধারণত CD-ROM ও Hard disk এ সঞ্চয় করে রাখা হয়, কারণ হার্ড ডিস্ক প্রধান স্টোরেজ ইউনিট আর CD-ROM ব্যবহৃত হয় কিছু বিশেষ ক্ষেত্রে যদিও অন্যতম প্রধান নয়। সঠিক উত্তর: i ও iii"
+    },
+    {
+      "number": "16",
+      "tag": "MAD.B 24,SB 23,DRMC 24,CSC 24",
+      "question": "দুর্বল পাসওয়ার্ডের কারণে— i. ভাইরাস সহজে আক্রমণ করতে পারে ii. তথ্য হ্যাক হতে পারে iii. তথ্য নষ্ট হওয়ার রাস্তা তৈরি হতে পারে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "দুর্বল পাসওয়ার্ডের কারণে তথ্য সুরক্ষার বিভিন্ন সমস্যা হতে পারে। i. ভাইরাস সহজে আক্রমণ করতে পারে - এটি সরাসরি দুর্বল পাসওয়ার্ডের সমস্যা নয়। ভাইরাস আক্রমণের সাথে পাসওয়ার্ডের সরাসরি সম্পর্ক নেই। ii. তথ্য হ্যাক হতে পারে - দুর্বল পাসওয়ার্ডের কারণে হ্যাকাররা সহজেই তথ্য চুরি করতে পারে। iii. তথ্য নষ্ট হওয়ার রাস্তা তৈরি হতে পারে - দুর্বল পাসওয়ার্ডের কারণে হ্যাকাররা সহজে সিস্টেমে প্রবেশ করতে পারে এবং তথ্য নষ্ট করতে পারে।"
+    },
+    {
+      "number": "17",
+      "tag": "RB 23,MAD.B 18,CSC 24",
+      "question": "সর্বপ্রথম ইন্টারনেট প্রটোকলের ধারণা দেন কে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "গুগলিয়েলমো মার্কনি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মার্ক জাকারবার্গ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "গস্টিভ জবস",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "স্যামুয়েল টমলিনসন",
+          "is_correct": true
+        }
+      ],
+      "option_a": "গুগলিয়েলমো মার্কনি",
+      "option_b": "মার্ক জাকারবার্গ",
+      "option_c": "গস্টিভ জবস",
+      "option_d": "স্যামুয়েল টমলিনসন",
+      "correct": "ঘ",
+      "explanation": "স্যামুয়েল টমলিনসন: ১৯৭১ সালে ইন্টারনেটের পূর্বসূরী আরপানেট (ARPANET) প্রথম ই-মেইল সিস্টেম চালু করেন এবং ই-মেইল সিস্টেমের প্রটোকল সম্পর্কে ধারণা দেন। মার্ক জাকারবার্গ: ২০০৪ সালের ৪ ফেব্রুয়ারি ফেসবুক চালু করেন। স্টিভ জবস: ১৯৭৬ সালের ১ এপ্রিল অ্যাপল কম্পিউটার নামে একটি প্রতিষ্ঠান চালু করেন। গুগলিয়েলমো মার্কনি: বেতার যন্ত্রের আবিষ্কারক হিসেবে স্বীকৃত।"
+    },
+    {
+      "number": "18",
+      "tag": "CSC 24",
+      "question": "উইন্ডোজ অপারেটিং সিস্টেম কোন কোম্পানির?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মাইক্রোসফট",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "অ্যাপল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ওরাকল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "গুগল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মাইক্রোসফট",
+      "option_b": "অ্যাপল",
+      "option_c": "ওরাকল",
+      "option_d": "গুগল",
+      "correct": "ক",
+      "explanation": "উইন্ডোজ অপারেটিং সিস্টেমটি মাইক্রোসফট কোম্পানির তৈরি। এটি বিশ্বের অন্যতম জনপ্রিয় ডেক্সটপ অপারেটিং সিস্টেম হিসেবে বিবেচিত হয়। সঠিক উত্তর: মাইক্রোসফট"
+    },
+    {
+      "number": "19",
+      "tag": "CSC 24",
+      "question": "ই-কমার্সে বিল পরিশোধের পদ্ধতি কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "COM",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "CBD",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "COD",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ATM",
+          "is_correct": false
+        }
+      ],
+      "option_a": "COM",
+      "option_b": "CBD",
+      "option_c": "COD",
+      "option_d": "ATM",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "CSC 24",
+      "question": "নিচের কোনটি কম্পিউটারের গতি কমিয়ে দেয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": ".exe",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Temp",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "DAT",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Regedit",
+          "is_correct": false
+        }
+      ],
+      "option_a": ".exe",
+      "option_b": "Temp",
+      "option_c": "DAT",
+      "option_d": "Regedit",
+      "correct": "খ",
+      "explanation": "Temp' কম্পিউটারের হার্ড ড্রাইভে অনেক জায়গা নিয়ে নেয় এবং এটি প্রায়শই কম্পিউটারের গতি কমিয়ে দিতে পারে। অতিরিক্ত জমা হওয়া এই ফাইলগুলো যখন নিয়মিতভাবে মুছে ফেলা হয় না, তখন তারা সিস্টেম পারফরম্যান্সকে প্রয়োজনীয় রিসোর্স থেকে বঞ্চিত করতে পারে। তাই সঠিক উত্তর হল: Temp"
+    },
+    {
+      "number": "21",
+      "tag": "CSC 24",
+      "question": "কোথা থেকে 2-step verification চালু করতে হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কন্ট্রোল প্যানেল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ডিভাইস সেটিংস",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "একাউন্ট সেটিংস",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ডিসপ্লে সেটিংস",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কন্ট্রোল প্যানেল",
+      "option_b": "ডিভাইস সেটিংস",
+      "option_c": "একাউন্ট সেটিংস",
+      "option_d": "ডিসপ্লে সেটিংস",
+      "correct": "গ",
+      "explanation": "2-step verification সাধারণত ব্যবহারকারীর একাউন্টকে অতিরিক্ত নিরাপত্তা প্রদান করার জন্য ব্যবহৃত হয় এবং এটি সাধারণত একাউন্ট সেটিংস থেকে চালু করতে হয়। সঠিক উত্তর: একাউন্ট সেটিংস"
+    },
+    {
+      "number": "22",
+      "tag": "CSC 24",
+      "question": "ভাইরাসের নামকরণ করেন-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বিল গেটস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অধ্যাপক ফ্রেড কোহেন",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "চার্লস ব্যাবেজ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "নিউটন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বিল গেটস",
+      "option_b": "অধ্যাপক ফ্রেড কোহেন",
+      "option_c": "চার্লস ব্যাবেজ",
+      "option_d": "নিউটন",
+      "correct": "খ",
+      "explanation": "অধ্যাপক ফ্রেড কোহেন ১৯৮৩ সালে কম্পিউটার ভাইরাসের ধারণাটি পরীক্ষামূলকভাবে প্রদর্শন করে ভাইরাসের নামকরণের প্রস্তাব দেন।"
+    },
+    {
+      "number": "23",
+      "tag": "RB 23,CSC 24",
+      "question": "বুট ভাইরাস ডিস্কের কোনটিকে আক্রমণ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পাওয়ার সাপ্লাই",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "প্রসেসর",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বুট সেক্টর",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "রেজিস্ট্রি ফাইল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "পাওয়ার সাপ্লাই",
+      "option_b": "প্রসেসর",
+      "option_c": "বুট সেক্টর",
+      "option_d": "রেজিস্ট্রি ফাইল",
+      "correct": "গ",
+      "explanation": "বুট ভাইরাস সাধারণত ডিস্কের বুট সেক্টরকে আক্রমণ করে। বুট সেক্টর হল ডিস্কের প্রথম সেক্টর যা অপারেটিং সিস্টেমকে লোড করার জন্য প্রয়োজনীয় নির্দেশাবলী ধারণ করে। এই কারণে, সঠিক উত্তর হল: বুট সেক্টর"
+    },
+    {
+      "number": "1",
+      "tag": "CSC 24",
+      "question": "মাহিম একটি চাকরিতে আবেদন করার উদ্দেশ্যে তার সংরক্ষিত CV এর ওয়ার্ড ফাইলটি খুললো এবং তাতে প্রয়োজনীয় পরিবর্তন এনে নতুন নামে সেইভ করলো। মাহিম নতুন CV সংরক্ষণে কোন অপশনটি ব্যবহার করল?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Save as",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Save",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Open",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Ctrl + S",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Save as",
+      "option_b": "Save",
+      "option_c": "Open",
+      "option_d": "Ctrl + S",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "CSC 24",
+      "question": "মেইনফ্রেম কম্পিউটার তৈরি করে কোন কোম্পানি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যাপল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আই বি এম",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ইনটেল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "গুগল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অ্যাপল",
+      "option_b": "আই বি এম",
+      "option_c": "ইনটেল",
+      "option_d": "গুগল",
+      "correct": "খ",
+      "explanation": ""
+    }
+  ]
+}

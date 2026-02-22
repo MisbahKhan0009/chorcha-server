@@ -1,0 +1,832 @@
+{
+  "read_id": "COg1GQ2Z-pkRm-fD",
+  "title": "ঢাকা বোর্ড ২০১৭",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DB 17",
+      "question": "x² - 6x + 8 = 0 সমীকরণের নিশ্চায়কের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "খ",
+      "explanation": "প্রদত্ত দ্বিঘাত সমীকরণ: x 2 − 6 x + 8 = 0 x^{2}-6 x+8=0 x 2 − 6 x + 8 = 0 ধাপ ১: দ্বিঘাত সমীকরণের সাধারণ রূপ হলো a x 2 + b x + c = 0 a x^{2}+b x+c=0 a x 2 + b x + c = 0 , যেখানে: a = 1 a=1 a = 1 b = − 6 b=-6 b = − 6 c = 8 c=8 c = 8 নিশ্চায়ক (Discriminant, D D D ) এর সূত্র: D = b 2 − 4 a c D=b^{2}-4 a c D = b 2 − 4 a c মানগুলি বসিয়ে D D D নির্ণয়: D = ( − 6 ) 2 − 4 × 1 × 8 = 36 − 32 = 4 D=(-6)^{2}-4 \\times 1 \\times 8=36-32=4 D = ( − 6 ) 2 − 4 × 1 × 8 = 36 − 32 = 4"
+    },
+    {
+      "number": "2",
+      "tag": "DB 17",
+      "question": "দুইটি ধনাত্মক পূর্ণ সংখ্যার বর্গের সমষ্টি 130 এবং গুণফল 63. সংখ্যা দুটির যোগফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "7",
+      "option_c": "9",
+      "option_d": "16",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "DB 17",
+      "question": "দুইটি ধনাত্মক পূর্ণ সংখ্যার বর্গের সমষ্টি 130 এবং গুণফল 63. সংখ্যা দুটির বর্গের অন্তরফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "63",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "67",
+          "is_correct": false
+        }
+      ],
+      "option_a": "16",
+      "option_b": "32",
+      "option_c": "63",
+      "option_d": "67",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "DB 17",
+      "question": "x 2 − 3 > x 3 − 2 \\frac{x}{2}-3>\\frac{x}{3}-2 2 x ​ − 3 > 3 x ​ − 2 অসমতার সমাধান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x>6",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x>-6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x<6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x>1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x>6",
+      "option_b": "x>-6",
+      "option_c": "x<6",
+      "option_d": "x>1",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "DB 17",
+      "question": "একটি ধারার ১৫তম পদ কত, যার n-তম পদ 1 − ( − 1 ) n 1 + n ? \\frac{1-(-1)^{n}}{1+n} ? 1 + n 1 − ( − 1 ) n ​ ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 8 -\\frac{1}{8} − 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 16 \\frac{1}{16} 16 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 1 8 -\\frac{1}{8} − 8 1 ​",
+      "option_b": "0",
+      "option_c": "1 16 \\frac{1}{16} 16 1 ​",
+      "option_d": "1 8 \\frac{1}{8} 8 1 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "DB 17",
+      "question": "65 ° 42 ′ 65°42' 65°4 2 ′ এর সঠিক মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "65.5°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "65.6°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "65.7°",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "65.8°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "65.5°",
+      "option_b": "65.6°",
+      "option_c": "65.7°",
+      "option_d": "65.8°",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "DB 17",
+      "question": "যদি cos ⁡ θ = 1 2 \\cos \\theta=\\frac{1}{\\sqrt{2}} cos θ = 2 ​ 1 ​ হয়, তবে- i. sec ⁡ 2 θ = 2 \\sec ^{2} \\theta=2 sec 2 θ = 2 ii. sin ⁡ 2 θ = 1 2 \\sin ^{2} \\theta=\\frac{1}{2} sin 2 θ = 2 1 ​ iii. tan ⁡ 2 θ = 1 \\tan ^{2} \\theta=1 tan 2 θ = 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "DB 17",
+      "question": "cos ⁡ ( − 31 π 3 ) \\cos \\left(\\frac{-31 \\pi}{3}\\right) cos ( 3 − 31 π ​ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "DB 17",
+      "question": "( 5 ) x + 3 = 125 (\\sqrt{5})^{x+3}=125 ( 5 ​ ) x + 3 = 125 এর সমাধান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 \\sqrt{5} 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "5 \\sqrt{5} 5 ​",
+      "option_c": "3",
+      "option_d": "5",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "DB 17",
+      "question": "যদি x 2 3 = ( x a x a ) b \\sqrt[3]{x^{2}}=\\left(x^{a} \\sqrt{x^{a}}\\right)^{b} 3 x 2 ​ = ( x a x a ​ ) b হয়, তাহলে ab এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 9 \\frac{4}{9} 9 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2 9 \\frac{2}{9} 9 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_c": "4 9 \\frac{4}{9} 9 4 ​",
+      "option_d": "2 9 \\frac{2}{9} 9 2 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "DB 17",
+      "question": "যদি log ⁡ x 1 27 = − 3 2 \\log x \\sqrt{\\frac{1}{27}}=-\\frac{3}{2} lo g x 27 1 ​ ​ = − 2 3 ​ হয়, তবে x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 3 2 -\\frac{3}{2} − 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "− 3 2 -\\frac{3}{2} − 2 3 ​",
+      "option_c": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_d": "3",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "DB 17",
+      "question": "n C r { }^{\\mathrm{n}} \\mathrm{C}_{\\mathrm{r}} n C r ​ এর মান কত, যখন r = 0 \\mathrm{r}=0 r = 0 ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "n",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনির্ণেয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "n",
+      "option_d": "অনির্ণেয়",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "DB 17",
+      "question": "যদি P(3,- 5) ও Q(- 4, 2) হয়, তবে P ও Q বিন্দুগামী সরলরেখার ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "1",
+      "option_d": "3",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "DB 17",
+      "question": "যদি P(3,- 5) ও Q(- 4, 2) হয়, তবে PQ সরলরেখার সমীকরণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x - y + 2 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3x - y + 2 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x + y + 2 = 0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "x - 3y + 2 = 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x - y + 2 = 0",
+      "option_b": "3x - y + 2 = 0",
+      "option_c": "x + y + 2 = 0",
+      "option_d": "x - 3y + 2 = 0",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "DB 17",
+      "question": "ভেক্টর 3 a ‾ − 2 b ‾ 3 \\underline{a}-2 \\underline{b} 3 a ​ − 2 b ​ এর সমান্তরাল ভেক্টর কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 a ‾ + 3   b ‾ 2 \\underline{\\mathrm{a}}+3 \\underline{\\mathrm{~b}} 2 a ​ + 3   b ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 3 a ‾ + 2 b ‾ -3 \\underline{a}+2 \\underline{b} − 3 a ​ + 2 b ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 a ‾ − 3 b ‾ 2 \\underline{a}-3 \\underline{b} 2 a ​ − 3 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a ‾ + 3 b ‾ \\underline{a}+3 \\underline{b} a ​ + 3 b ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 a ‾ + 3   b ‾ 2 \\underline{\\mathrm{a}}+3 \\underline{\\mathrm{~b}} 2 a ​ + 3   b ​",
+      "option_b": "− 3 a ‾ + 2 b ‾ -3 \\underline{a}+2 \\underline{b} − 3 a ​ + 2 b ​",
+      "option_c": "2 a ‾ − 3 b ‾ 2 \\underline{a}-3 \\underline{b} 2 a ​ − 3 b ​",
+      "option_d": "a ‾ + 3 b ‾ \\underline{a}+3 \\underline{b} a ​ + 3 b ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "DB 17",
+      "question": "একটি ক্যাপসুলের দৈর্ঘ্য ও ব্যাস যথাক্রমে 3 সে.মি. ও 2 সে.মি.। ক্যাপসুলের সমগ্রপৃষ্ঠের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 π 6 \\pi 6 π",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 π 4 \\pi 4 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 π 2 \\pi 2 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π \\pi π",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 π 6 \\pi 6 π",
+      "option_b": "4 π 4 \\pi 4 π",
+      "option_c": "2 π 2 \\pi 2 π",
+      "option_d": "π \\pi π",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "DB 17",
+      "question": "একটি ক্যাপসুলের দৈর্ঘ্য ও ব্যাস যথাক্রমে 3 সে.মি. ও 2 সে.মি.। ক্যাপসুলের আয়তন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 π 3 \\frac{4 \\pi}{3} 3 4 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7 π 3 \\frac{7 \\pi}{3} 3 7 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 π 4 \\pi 4 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 π 6 \\pi 6 π",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 π 3 \\frac{4 \\pi}{3} 3 4 π ​",
+      "option_b": "7 π 3 \\frac{7 \\pi}{3} 3 7 π ​",
+      "option_c": "4 π 4 \\pi 4 π",
+      "option_d": "6 π 6 \\pi 6 π",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "DB 17",
+      "question": "তিনটি মুদ্রা একবার নিক্ষেপ করা হলো। কমপক্ষে একটি হেড পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 8 \\frac{3}{8} 8 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7 8 \\frac{7}{8} 8 7 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_b": "3 8 \\frac{3}{8} 8 3 ​",
+      "option_c": "7 8 \\frac{7}{8} 8 7 ​",
+      "option_d": "1",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "DB 17",
+      "question": "a x 2 + b x + c = 0 a x^{2}+b x+c=0 a x 2 + b x + c = 0 সমীকরণের মূলদ্বয় সমান হলে, নিচের কোন তথ্যটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "b 2 − 4 a c > 0 b^{2}-4 a c>0 b 2 − 4 a c > 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "b 2 − 4 a c < 0 b^{2}-4 a c<0 b 2 − 4 a c < 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "b 2 − 4 a c ≥ 0 \\mathrm{b}^{2}-4 \\mathrm{ac} \\geq 0 b 2 − 4 ac ≥ 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "b 2 − 4 a c = 0 b^{2}-4 a c=0 b 2 − 4 a c = 0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "b 2 − 4 a c > 0 b^{2}-4 a c>0 b 2 − 4 a c > 0",
+      "option_b": "b 2 − 4 a c < 0 b^{2}-4 a c<0 b 2 − 4 a c < 0",
+      "option_c": "b 2 − 4 a c ≥ 0 \\mathrm{b}^{2}-4 \\mathrm{ac} \\geq 0 b 2 − 4 ac ≥ 0",
+      "option_d": "b 2 − 4 a c = 0 b^{2}-4 a c=0 b 2 − 4 a c = 0",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "DB 17",
+      "question": "যদি A ⊂ B A \\subset B A ⊂ B হয়, তবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A ∪ B = A \\mathrm{A} \\cup \\mathrm{B}=\\mathrm{A} A ∪ B = A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A ∩ B = A \\mathrm{A} \\cap \\mathrm{B}=\\mathrm{A} A ∩ B = A",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "A ∩ B = B \\mathrm{A} \\cap \\mathrm{B}=\\mathrm{B} A ∩ B = B",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A ′ ⊂ B ′ \\mathrm{A}^{\\prime} \\subset \\mathrm{B}^{\\prime} A ′ ⊂ B ′",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A ∪ B = A \\mathrm{A} \\cup \\mathrm{B}=\\mathrm{A} A ∪ B = A",
+      "option_b": "A ∩ B = A \\mathrm{A} \\cap \\mathrm{B}=\\mathrm{A} A ∩ B = A",
+      "option_c": "A ∩ B = B \\mathrm{A} \\cap \\mathrm{B}=\\mathrm{B} A ∩ B = B",
+      "option_d": "A ′ ⊂ B ′ \\mathrm{A}^{\\prime} \\subset \\mathrm{B}^{\\prime} A ′ ⊂ B ′",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "DB 17",
+      "question": "যদি n ( A ) = 3 , n ( B ) = 4 n(A)=3, n(B)=4 n ( A ) = 3 , n ( B ) = 4 এবং A ∩ B = ϕ A \\cap B=\\phi A ∩ B = ϕ হয়, তবে n ( A ∪ B ) = n(A \\cup B)= n ( A ∪ B ) = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "7",
+      "option_d": "12",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "DB 17",
+      "question": "( x − 5 ) (x-5) ( x − 5 ) বহুপদী x 3 − a x 2 − 9 x − 5 x^{3}-a x^{2}-9 x-5 x 3 − a x 2 − 9 x − 5 এর একটি উৎপাদক। a এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "-3",
+      "option_c": "-5",
+      "option_d": "-9",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "DB 17",
+      "question": "সমমাত্রিক বহুপদী কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x 2 + 2 x + 1 x^{2}+2 x+1 x 2 + 2 x + 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x 3 + 3 x 2 + 3 x + 1 \\mathrm{x}^{3}+3 \\mathrm{x}^{2}+3 \\mathrm{x}+1 x 3 + 3 x 2 + 3 x + 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 − 2 x + y 2 \\mathrm{x}^{2}-2 \\mathrm{x}+\\mathrm{y}^{2} x 2 − 2 x + y 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 3 + 3 x 2 y + 3 x y 2 + y 3 x^{3}+3 x^{2} y+3 x y^{2}+y^{3} x 3 + 3 x 2 y + 3 x y 2 + y 3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "x 2 + 2 x + 1 x^{2}+2 x+1 x 2 + 2 x + 1",
+      "option_b": "x 3 + 3 x 2 + 3 x + 1 \\mathrm{x}^{3}+3 \\mathrm{x}^{2}+3 \\mathrm{x}+1 x 3 + 3 x 2 + 3 x + 1",
+      "option_c": "x 2 − 2 x + y 2 \\mathrm{x}^{2}-2 \\mathrm{x}+\\mathrm{y}^{2} x 2 − 2 x + y 2",
+      "option_d": "x 3 + 3 x 2 y + 3 x y 2 + y 3 x^{3}+3 x^{2} y+3 x y^{2}+y^{3} x 3 + 3 x 2 y + 3 x y 2 + y 3",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "DB 17",
+      "question": "দুইটি বহুপদী P(x) ও Q(x) সকল x এর জন্য সমান হলে- i. এদের সমতাকে অভেদ বলা হয় ii. বহুপদীদ্বয়কে P ( x ) ≅ Q ( x ) P(x) \\cong Q(x) P ( x ) ≅ Q ( x ) আকারে লেখা হয় iii. উভয়ের মাত্রা সমান হয় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "ধরা আছে—দুইটি বহুপদী P ( x ) P(x) P ( x ) ও Q ( x ) Q(x) Q ( x ) সকল x x x -এর জন্য সমান। অর্থাৎ, P ( x ) = Q ( x ) P(x) = Q(x) P ( x ) = Q ( x ) সব x x x এর জন্য এটাকে বীজগণিতে বলা হয় অভেদ । (i) এদের সমতাকে অভেদ বলা হয় যদি দুইটি রাশি সব x x x -এর জন্য সমান হয়, তাকে অভেদ বলা হয়। সঠিক (ii) বহুপদীদ্বয়কে P ( x ) ≅ Q ( x ) P(x) \\cong Q(x) P ( x ) ≅ Q ( x ) আকারে লেখা হয় অভেদ বোঝাতে ব্যবহার করা হয়: P(x) = Q(x) কিন্তু ≅ \\cong ≅ (congruent) এখানে ব্যবহৃত হয় না। ভুল (iii) উভয়ের মাত্রা সমান হয় যদি দুইটি বহুপদী সব x x x -এর জন্য সমান হয়, তবে তাদের ঘাত (degree) সমান হবে সহগগুলোও সমান হবে। সঠিক"
+    },
+    {
+      "number": "25",
+      "tag": "DB 17",
+      "question": "উপরের চিত্রে DE || BC হলে x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5.5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10.5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "14",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5.5",
+      "option_b": "10.5",
+      "option_c": "12",
+      "option_d": "14",
+      "correct": "খ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "read_id": "LVlsx40XkaNQWBCT",
+  "title": "বরিশাল বোর্ড ২০২১",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DIN.B 25,BB 24,BB 21",
+      "question": "y = x + 5 এবং y = - x + 5 রেখায়য়ের ছেদবিন্দু নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(0,0)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "(-5, 5)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(5, 0)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(0,5 )",
+          "is_correct": true
+        }
+      ],
+      "option_a": "(0,0)",
+      "option_b": "(-5, 5)",
+      "option_c": "(5, 0)",
+      "option_d": "(0,5 )",
+      "correct": "ঘ",
+      "explanation": "এখানে, দুটি সমীকরণ দেওয়া আছে:  y = x + 5 y = -x + 5 ছেদবিন্দু বের করার জন্য, দুটি সমীকরণকে একসাথে সমাধান করতে হবে। যেহেতু উভয় সমীকরণে y এর মান দেওয়া আছে, তাই আমরা দুটি সমীকরণকে সমান করতে পারি: x + 5 = -x + 5 এখন, x এর মান বের করার জন্য সমাধান করি: 2x = 0 x = 0  x এর মান যেকোনো একটি সমীকরণে বসালে, y এর মান পাওয়া যাবে: y = x + 5 y = 0 + 5 y = 5  সুতরাং, ছেদবিন্দুর স্থানাঙ্ক (0, 5)।"
+    },
+    {
+      "number": "2",
+      "tag": "BB 21",
+      "question": "3 − 3 + 3 − 3 + .... অনন্ত গুণোত্তর ধারাটির— i. সাধারণ অনুপাত – 1 ii. 11 তম পদ 3 iii. অসীমতক সমষ্টি 2/3 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "প্রদত্ত গুণোত্তর ধারাটি হলো: 3 − 3 + 3 − 3 + … 3-3+3-3+\\ldots 3 − 3 + 3 − 3 + … (অনন্ত পর্যন্ত) i. সাধারণ অনুপাত - এটি একটি গুপোত্তর ধারা, যেখানে প্রথম পদ a = 3 a=3 a = 3 এবং সাধারণ অনুপাত r r r হলো পরপর দুটি পদের অনুপাত। এখানে, r = − 3 3 = − 1 r=\\frac{-3}{3}=-1 r = 3 − 3 ​ = − 1 সুতরাং, i নং বিবৃতি সঠিক ii. 11 তম পদ 3 গুণোত্তর ধারার n n n -তম পদ দেওয়া হয় সূত্র দ্বারা: a n = a ⋅ r n − 1 a_{n}=a \\cdot r^{n-1} a n ​ = a ⋅ r n − 1 এখানে, a 11 = 3 ⋅ ( − 1 ) 10 = 3 ⋅ 1 = 3 a_{11}=3 \\cdot(-1)^{10}=3 \\cdot 1=3 a 11 ​ = 3 ⋅ ( − 1 ) 10 = 3 ⋅ 1 = 3 সুতরাং, ii নং বিবৃতি সঠিক iii. অসীমতক সমষ্টি 2 3 \\frac{2}{3} 3 2 ​ এক্টি অসীম গুণোত্তর ধারার সর্মষ্টি দেওয়া হয় যখন ∣ r ∣ < 1 |r|<1 ∣ r ∣ < 1 : S ∞ = a 1 − r S_{\\infty}=\\frac{a}{1-r} S ∞ ​ = 1 − r a ​ কিক্তু এখানে r = − 1 r=-1 r = − 1 এবং ∣ r ∣ = 1 |r|=1 ∣ r ∣ = 1 , যা শর্ত পূরণ করে না। তাই এই ধারার অসীমতক সমষ্টি অভিসারী নয় (ধারাটি বিল্রান্ত)। সুতরাং, iii নং বিবৃতি ভুল"
+    },
+    {
+      "number": "3",
+      "tag": "BB 21",
+      "question": "y = 2 এবং x = 2y – 1 সরলরেখা দুটির ছেদ বিন্দুর স্থানাঙ্ক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(1,2)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "(4,2)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(5,2)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(3,2)",
+          "is_correct": true
+        }
+      ],
+      "option_a": "(1,2)",
+      "option_b": "(4,2)",
+      "option_c": "(5,2)",
+      "option_d": "(3,2)",
+      "correct": "ঘ",
+      "explanation": "y = 2 , x = 2 y − 1 y=2, x=2 y-1 y = 2 , x = 2 y − 1 সমাধান করে পাই x = 2 × 2 − 1 = 4 − 1 = 3 x = 3 , y = 2 ∴  ছেদ বিন্দু  ( 3 , 2 ) \\begin{array}{l} x=2 \\times 2-1=4-1=3 \\\\ x=3, y=2 \\\\ \\therefore \\text { ছেদ বিন্দু }(3,2) \\end{array} x = 2 × 2 − 1 = 4 − 1 = 3 x = 3 , y = 2 ∴   ছেদ   বিন্দু   ( 3 , 2 ) ​"
+    },
+    {
+      "number": "4",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "গ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "5",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "খ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "6",
+      "tag": "BB 21",
+      "question": "2, 4, 6, 8... অনুক্রমটির 13 তম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "14",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "26",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "28",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30",
+          "is_correct": false
+        }
+      ],
+      "option_a": "14",
+      "option_b": "26",
+      "option_c": "28",
+      "option_d": "30",
+      "correct": "ক",
+      "explanation": "প্রদত্ত সমান্তর অনুক্রম: 2 , 4 , 6 , 8 , … 2,4,6,8, \\ldots 2 , 4 , 6 , 8 , … সাধারণ পদ নির্ণয় এটি একটি সমান্তর অনুক্রম যেখানে: প্রথম পদ ( a 1 ) = 2 \\left(a_{1}\\right)=2 ( a 1 ​ ) = 2 সাধারণ পার্থক্য ( d ) = 4 − 2 = 2 (d)=4-2=2 ( d ) = 4 − 2 = 2 সমান্তর অনুক্রমের সাধারণ পদ: a n = a 1 + ( n − 1 ) d a_{n}=a_{1}+(n-1) d a n ​ = a 1 ​ + ( n − 1 ) d 13তম পদ গণনা a 13 = 2 + ( 13 − 1 ) × 2 = 2 + 12 × 2 = 2 + 24 = 26 \\begin{aligned} a_{13} & =2+(13-1) \\times 2 \\\\ & =2+12 \\times 2 \\\\ & =2+24 \\\\ & =26 \\end{aligned} a 13 ​ ​ = 2 + ( 13 − 1 ) × 2 = 2 + 12 × 2 = 2 + 24 = 26 ​"
+    },
+    {
+      "number": "7",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "8",
+      "tag": "DRMC 24,BMARPC 24,BAFSC 24,RCPC 24,BCPC ,DB 23,BB 23,DB 22,DIN.B 22,CB 22,CTG.B 21,BB 21,MB 20,DIN.B 20,CTG.B 20,RB 19",
+      "question": "log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x=3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ , হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "32",
+      "option_b": "16",
+      "option_c": "8",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": "দেয়া আছে log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x = 3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ প্রথমে ভগ্নাংশকে অপরিমেয় ভগ্নাংশের আকারে প্রকাশ করি: 3 1 3 = 10 3 3 \\frac{1}{3} = \\frac{10}{3} 3 3 1 ​ = 3 10 ​ অতএব, সমীকরণটি হবে: log ⁡ 8 x = 10 3 \\log _{\\sqrt{8}} x = \\frac{10}{3} lo g 8 ​ ​ x = 3 10 ​ এটি থেকে পাওয়া যায়: x = ( 8 ) 10 3 x = (\\sqrt{8})^{\\frac{10}{3}} x = ( 8 ​ ) 3 10 ​ 8 = 8 1 2 \\sqrt{8} = 8^{\\frac{1}{2}} 8 ​ = 8 2 1 ​ হিসাবে লিখতে পারি। তাহলে সমীকরণটি হবে: x = ( 8 1 2 ) 10 3 x = (8^{\\frac{1}{2}})^{\\frac{10}{3}} x = ( 8 2 1 ​ ) 3 10 ​ শক্তি হিসাব করে নেওয়া যাক: x = 8 1 2 × 10 3 = 8 5 3 x = 8^{\\frac{1}{2} \\times \\frac{10}{3}} = 8^{\\frac{5}{3}} x = 8 2 1 ​ × 3 10 ​ = 8 3 5 ​ এখন, এটিকে প্রাথমিক হিসাব করে বের করতে পারি: 8 = 2 3 8 = 2^3 8 = 2 3 সুতরাং, 8 5 3 = ( 2 3 ) 5 3 = 2 3 × 5 3 = 2 5 8^{\\frac{5}{3}} = (2^3)^{\\frac{5}{3}} = 2^{3 \\times \\frac{5}{3}} = 2^5 8 3 5 ​ = ( 2 3 ) 3 5 ​ = 2 3 × 3 5 ​ = 2 5 অতএব, x = 2 5 = 32 x = 2^5 = 32 x = 2 5 = 32"
+    },
+    {
+      "number": "9",
+      "tag": "BB 21",
+      "question": "y + 4 x − 5 = 0  এবং  y − 2 x + 3 = 0 y+4 x-5=0 \\text { এবং } y-2 x+3=0 y + 4 x − 5 = 0   এবং   y − 2 x + 3 = 0 রেখাদ্বয়ের ঢালদ্বয়ের গুণফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-8",
+      "option_b": "-6",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "ঘ",
+      "explanation": "y = − 4 x + 5 … … ( i ) y = 2 x − 3 … . . ( i i )  ঢালদ্বয়ের গুণফল  = − 4 × 2 = − 8 \\begin{aligned} y & =-4 x+5 ……(i)\\\\ y=2 x-3…..(ii) & \\\\ \\text { ঢালদ্বয়ের গুণফল } & =-4 \\times 2 \\\\ & =-8 \\end{aligned} y y = 2 x − 3 … .. ( ii )   ঢালদ্বয়ের   গুণফল   ​ = − 4 x + 5 …… ( i ) = − 4 × 2 = − 8 ​"
+    },
+    {
+      "number": "10",
+      "tag": "RCS 24,DB 21,RB 21,CTG.B 21,BB 21,RB 20,ACC 24",
+      "question": "একটি গুণোত্তর ধারার ১ম পদ 1 5 \\frac{1}{5} 5 1 ​ এবং অসীমতক সমষ্টি 1 7 \\frac{1}{7} 7 1 ​ হলে ধারাটির সাধারণ অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 5 \\frac{2}{5} 5 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 1 5 \\frac{-1}{5} 5 − 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "− 2 5 \\frac{-2}{5} 5 − 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 5 \\frac{2}{5} 5 2 ​",
+      "option_b": "1 5 \\frac{1}{5} 5 1 ​",
+      "option_c": "− 1 5 \\frac{-1}{5} 5 − 1 ​",
+      "option_d": "− 2 5 \\frac{-2}{5} 5 − 2 ​",
+      "correct": "গ",
+      "explanation": "প্রদত্ত তথ্য: প্রথম পদ, a = 1 5 a=\\frac{1}{5} a = 5 1 ​ অসীমতক সমষ্টি , S ∞ = 1 7 S_{\\infty}=\\frac{1}{7} S ∞ ​ = 7 1 ​ অসীম গুণোত্তর ধারার সমষ্টি সূত্র: S ∞ = a 1 − r S_{\\infty}=\\frac{a}{1-r} S ∞ ​ = 1 − r a ​ প্রদত্ত মানগুলি বসিয়ে পাই: 1 7 = 1 5 1 − r \\frac{1}{7}=\\frac{\\frac{1}{5}}{1-r} 7 1 ​ = 1 − r 5 1 ​ ​ সমীকরণটি সমাধান করে সাধারণ অনুপাত r r r নির্ণয়: 1. সমীকরণকে সরলীকরণ: 1 7 = 1 5 ( 1 − r ) \\frac{1}{7}=\\frac{1}{5(1-r)} 7 1 ​ = 5 ( 1 − r ) 1 ​ বা, 5 ( 1 − r ) = 7 5(1-r)=7 5 ( 1 − r ) = 7 বা, 5 − 5 r = 7 5-5 r=7 5 − 5 r = 7 বা , − 5 r = 7 − 5 বা , − 5 r = 2 বা , r = − 2 5 \\begin{array}{c} বা,-5 r=7-5 \\\\বা, -5 r=2 \\\\ বা,r=-\\frac{2}{5} \\end{array} বা , − 5 r = 7 − 5 বা , − 5 r = 2 বা , r = − 5 2 ​ ​"
+    },
+    {
+      "number": "11",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 19,All.B 18",
+      "question": "− 840 ∘ -840^{\\circ} − 84 0 ∘ কোণটির অবস্থান কোন চতুর্ভাগে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রথম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তৃতীয়",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রথম",
+      "option_b": "দ্বিতীয়",
+      "option_c": "তৃতীয়",
+      "option_d": "চতুর্থ",
+      "correct": "গ",
+      "explanation": "− 840 ∘ -840^{\\circ} − 84 0 ∘ কোণটির অবস্থান নির্ণয় করতে, আমরা নিম্নলিখিত ধাপগুলি অনুসরণ করব: কোণটিকে 0 ∘ 0^{\\circ} 0 ∘ থেকে 360 ∘ 360^{\\circ} 36 0 ∘ এর মধ্যে আনয়ন যেহেতু কোণের মান − 840 ∘ -840^{\\circ} − 84 0 ∘ যা ঋণাত্মক, আমরা এটিকে ধনাত্মক কোণে রূপান্তর করতে পারি। একটি পূর্ণ বৃত্ত 360 ∘ 360^{\\circ} 36 0 ∘ এর সমান, তাই আমরা − 840 ∘ -840^{\\circ} − 84 0 ∘ কে 360 ∘ 360^{\\circ} 36 0 ∘ দ্বারা ভাগ করে ভাগশেষ নির্ণয় করব। − 840 ∘ = − 2 × 360 ∘ − 120 ∘ -840^{\\circ}=-2 \\times 360^{\\circ}-120^{\\circ} − 84 0 ∘ = − 2 × 36 0 ∘ − 12 0 ∘ এখানে, − 2 × 360 ∘ = − 720 ∘ -2 \\times 360^{\\circ}=-720^{\\circ} − 2 × 36 0 ∘ = − 72 0 ∘ , তাই: − 840 ∘ = − 720 ∘ − 120 ∘ = − 840 ∘ -840^{\\circ}=-720^{\\circ}-120^{\\circ}=-840^{\\circ} − 84 0 ∘ = − 72 0 ∘ − 12 0 ∘ = − 84 0 ∘ এখন, − 120 ∘ -120^{\\circ} − 12 0 ∘ কে ধনাত্মক কোণে রূপান্তর করতে: − 120 ∘ + 360 ∘ = 240 ∘ -120^{\\circ}+360^{\\circ}=240^{\\circ} − 12 0 ∘ + 36 0 ∘ = 24 0 ∘ অত,এব, − 840 ∘ -840^{\\circ} − 84 0 ∘ কোণটি 240 ∘ 240^{\\circ} 24 0 ∘ কোণের সমতুল্য। কোণের অবস্থান নির্ণয় 240 ∘ 240^{\\circ} 24 0 ∘ কোণটি তৃতীয় চতুর্ভাগে অবস্থিত। কারণ: - প্রথম চতুর্ভাগ: 0 ∘ 0^{\\circ} 0 ∘ থেকে 90 ∘ 90^{\\circ} 9 0 ∘ - দ্বিতীয় চতুর্ভাগ: 90 ∘ 90^{\\circ} 9 0 ∘ থেকে 180 ∘ 180^{\\circ} 18 0 ∘ - তৃতীয় চতুর্ভাগ: 180 ∘ 180^{\\circ} 18 0 ∘ থেকে 270 ∘ 270^{\\circ} 27 0 ∘ - চতুর্থ চতুর্ভাগ: 270 ∘ 270^{\\circ} 27 0 ∘ থেকে 360 ∘ 360^{\\circ} 36 0 ∘ যেহেতু 240 ∘ 240^{\\circ} 24 0 ∘ কোণটি 180 ∘ 180^{\\circ} 18 0 ∘ থেকে 270 ∘ 270^{\\circ} 27 0 ∘ এর মধ্যে অবস্থিত, এটি তৃতীয় চতুর্ভাগে রয়েছে।"
+    },
+    {
+      "number": "12",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "13",
+      "tag": "BB 21",
+      "question": "যদি P ( 1 , − 1 ) \\mathrm{P}(1,-1) P ( 1 , − 1 ) এবং Q ( 3 , 4 ) \\mathrm{Q}(3,4) Q ( 3 , 4 ) হয়, তবে P Q = \\mathrm{PQ}= PQ = কত একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "41 \\sqrt{41} 41 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "32 \\sqrt{32} 32 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "29 \\sqrt{29} 29 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 \\sqrt{25} 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "41 \\sqrt{41} 41 ​",
+      "option_b": "32 \\sqrt{32} 32 ​",
+      "option_c": "29 \\sqrt{29} 29 ​",
+      "option_d": "25 \\sqrt{25} 25 ​",
+      "correct": "ক",
+      "explanation": "P Q = ( 3 − 1 ) 2 + ( 4 + 1 ) 2 = 2 2 + 5 2 = 29 একক \\begin{aligned} P Q & =\\sqrt{(3-1)^{2}+(4+1)^{2}} \\\\ & =\\sqrt{2^{2}+5^{2}} \\\\ & =\\sqrt{29} একক \\end{aligned} PQ ​ = ( 3 − 1 ) 2 + ( 4 + 1 ) 2 ​ = 2 2 + 5 2 ​ = 29 ​ একক ​"
+    },
+    {
+      "number": "14",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "15",
+      "tag": "BB 21",
+      "question": "কোনো একটি অনুক্রমের nতম পদ = n ( n + 1 ) 2 =\\frac{n(n+1)}{2} = 2 n ( n + 1 ) ​ ; n ∈ \\mathbf{n} \\in n ∈ N হলে, তৃতীয় পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9 2 \\frac{9}{2} 2 9 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_b": "3",
+      "option_c": "9 2 \\frac{9}{2} 2 9 ​",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "তৃতীয় পদ,   = 3 ( 3 + 1 ) 2 = 12 2 = 6 \\begin{aligned} \\text { } & =\\frac{3(3+1)}{2} \\\\ & =\\frac{12}{2} \\\\ & =6 \\end{aligned}   ​ = 2 3 ( 3 + 1 ) ​ = 2 12 ​ = 6 ​"
+    },
+    {
+      "number": "16",
+      "tag": "CTG.B 25,SB 25,CB 24,CTG.B 24,SB 24,HC 24,BNMPC 24,NISD 24,CPSCR 24,RCS 24,MB 23,RB 21,DIN.B 21,CB 21,SB 21,BB 21,DB 19,CTG.B 19,SB 19",
+      "question": "f ( x ) = x 2  হলে-  f(x)=x^{2} \\text { হলে- } f ( x ) = x 2   হলে -  i. ডোম f = R f=\\mathbb{R} f = R ii. রেঞ্জ f = { y ∈ R : y ≥ 0 } f=\\{y \\in \\mathbb{R}: y \\geq 0\\} f = { y ∈ R : y ≥ 0 } iii. f এক-এক ফাংশন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "প্রদত্ত f ( x ) = x 2 f(x) = x^2 f ( x ) = x 2 একটি স্কয়ার ফাংশন যা আমাদের বাস্তব সংখ্যাগুলি থেকে বাস্তব সংখ্যাগুলিতে ম্যাপ করে। i. ডোমেইন f = R f = \\mathbb{R} f = R : এই ব্যাপারটি সঠিক কারণ আমরা যে কোনও বাস্তব সংখ্যাকে ইনপুট হিসাবে ব্যবহার করতে পারি। ii. রেঞ্জ f = { y ∈ R : y ≥ 0 } f = \\{y \\in \\mathbb{R} : y \\geq 0\\} f = { y ∈ R : y ≥ 0 } : এই ব্যাপারটি সঠিক যেহেতু ফাংশন f ( x ) = x 2 f(x) = x^2 f ( x ) = x 2 এর আউটপুট কখনোই নেতিবাচক হয় না, কারণ x 2 x^2 x 2 সর্বদা ধনাত্মক বা শূণ্য হয়। iii. f এক-এক ফাংশন না: একটি এক-এক ফাংশন হবে কেবল তখনই যখন ভিন্ন ইনপুটের জন্য আলাদা আউটপুট তৈরি করবে। এখানে x 2 x^2 x 2 ফাংশন একাধিক ইনপুটের জন্য একই আউটপুট প্রদানে সক্ষম যেমন, f ( 1 ) = 1 f(1) = 1 f ( 1 ) = 1 এবং f ( − 1 ) = 1 f(-1) = 1 f ( − 1 ) = 1 । সুতরাং এটি এক-এক ফাংশন নয়। অতএব, সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "17",
+      "tag": "DRMC 24,BMARPC 24,BAFSC 24,RCPC 24,BCPC ,DB 23,BB 23,DB 22,DIN.B 22,CB 22,CTG.B 21,BB 21,MB 20,DIN.B 20,CTG.B 20,RB 19",
+      "question": "log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x=3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ , হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "32",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "32",
+      "option_b": "16",
+      "option_c": "8",
+      "option_d": "1",
+      "correct": "গ",
+      "explanation": "দেয়া আছে log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x = 3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ প্রথমে ভগ্নাংশকে অপরিমেয় ভগ্নাংশের আকারে প্রকাশ করি: 3 1 3 = 10 3 3 \\frac{1}{3} = \\frac{10}{3} 3 3 1 ​ = 3 10 ​ অতএব, সমীকরণটি হবে: log ⁡ 8 x = 10 3 \\log _{\\sqrt{8}} x = \\frac{10}{3} lo g 8 ​ ​ x = 3 10 ​ এটি থেকে পাওয়া যায়: x = ( 8 ) 10 3 x = (\\sqrt{8})^{\\frac{10}{3}} x = ( 8 ​ ) 3 10 ​ 8 = 8 1 2 \\sqrt{8} = 8^{\\frac{1}{2}} 8 ​ = 8 2 1 ​ হিসাবে লিখতে পারি। তাহলে সমীকরণটি হবে: x = ( 8 1 2 ) 10 3 x = (8^{\\frac{1}{2}})^{\\frac{10}{3}} x = ( 8 2 1 ​ ) 3 10 ​ শক্তি হিসাব করে নেওয়া যাক: x = 8 1 2 × 10 3 = 8 5 3 x = 8^{\\frac{1}{2} \\times \\frac{10}{3}} = 8^{\\frac{5}{3}} x = 8 2 1 ​ × 3 10 ​ = 8 3 5 ​ এখন, এটিকে প্রাথমিক হিসাব করে বের করতে পারি: 8 = 2 3 8 = 2^3 8 = 2 3 সুতরাং, 8 5 3 = ( 2 3 ) 5 3 = 2 3 × 5 3 = 2 5 8^{\\frac{5}{3}} = (2^3)^{\\frac{5}{3}} = 2^{3 \\times \\frac{5}{3}} = 2^5 8 3 5 ​ = ( 2 3 ) 3 5 ​ = 2 3 × 3 5 ​ = 2 5 অতএব, x = 2 5 = 32 x = 2^5 = 32 x = 2 5 = 32"
+    },
+    {
+      "number": "18",
+      "tag": "BB 21",
+      "question": "পাশের চিত্র অনুসারে AB = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "90 π 90 \\pi 90 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 π 60 \\pi 60 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30 π 30 \\pi 30 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15 π 15 \\pi 15 π",
+          "is_correct": true
+        }
+      ],
+      "option_a": "90 π 90 \\pi 90 π",
+      "option_b": "60 π 60 \\pi 60 π",
+      "option_c": "30 π 30 \\pi 30 π",
+      "option_d": "15 π 15 \\pi 15 π",
+      "correct": "ঘ",
+      "explanation": "A B = S r = 90 ∘ θ = 30 ∘ = 30 × π 180 r a d s = r θ ⇒ A B = 90 × ( 30 × π 180 ) A B = 15 π . \\begin{aligned} A B & =S \\\\ r & =90^{\\circ} \\quad \\theta=30^{\\circ}=30 \\times \\frac{\\pi}{180^{\\mathrm{rad}}} \\\\ s & =r \\theta \\\\ \\Rightarrow A B & =90 \\times\\left(30 \\times \\frac{\\pi}{180}\\right) \\\\ A B & =15 \\pi .\\end{aligned} A B r s ⇒ A B A B ​ = S = 9 0 ∘ θ = 3 0 ∘ = 30 × 18 0 rad π ​ = r θ = 90 × ( 30 × 180 π ​ ) = 15 π . ​"
+    },
+    {
+      "number": "19",
+      "tag": "DB 21,BB 21",
+      "question": "f ( x ) = 3 ∣ x ∣ − 5 x ,  যখন  − 2 ≤ x ≤ 11. f(\\mathrm{x})=3|\\mathrm{x}|-5 \\mathrm{x}, \\text { যখন }-2 \\leq \\mathrm{x} \\leq 11 . f ( x ) = 3∣ x ∣ − 5 x ,   যখন   − 2 ≤ x ≤ 11. f f f এর রেঞ্জ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "[ − 2 , 11 ] [-2,11] [ − 2 , 11 ]",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "[ − 22 , 4 ] [-22,4] [ − 22 , 4 ]",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "[ − 22 , 16 ] [-22,16] [ − 22 , 16 ]",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( − 22 , 16 ) (-22,16) ( − 22 , 16 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "[ − 2 , 11 ] [-2,11] [ − 2 , 11 ]",
+      "option_b": "[ − 22 , 4 ] [-22,4] [ − 22 , 4 ]",
+      "option_c": "[ − 22 , 16 ] [-22,16] [ − 22 , 16 ]",
+      "option_d": "( − 22 , 16 ) (-22,16) ( − 22 , 16 )",
+      "correct": "খ",
+      "explanation": "ধাপ ১: পরম মান ( ∣ x ∣ |x| ∣ x ∣ ) ভেঙে ফাংশন পুনর্বিন্যাস 1. ক্ষেত্র ১: x ≥ 0 x \\geq 0 x ≥ 0 - এখানে ∣ x ∣ = x |x|=x ∣ x ∣ = x , তাই: f ( x ) = 3 x − 5 x = − 2 x f(x)=3 x-5 x=-2 x f ( x ) = 3 x − 5 x = − 2 x - x x x -এর সীমা: 0 ≤ x ≤ 11 0 \\leq x \\leq 11 0 ≤ x ≤ 11 । 2. ক্ষেত্র ২: x < 0 x<0 x < 0 - এখানে ∣ x ∣ = − x |x|=-x ∣ x ∣ = − x , তাই: f ( x ) = 3 ( − x ) − 5 x = − 3 x − 5 x = − 8 x f(x)=3(-x)-5 x=-3 x-5 x=-8 x f ( x ) = 3 ( − x ) − 5 x = − 3 x − 5 x = − 8 x - x x x -এর সীমা: − 2 ≤ x < 0 -2 \\leq x<0 − 2 ≤ x < 0 । ধাপ ২: প্রতিটি ক্ষেত্রে f ( x ) f(x) f ( x ) -এর মানের সীমা নির্ণয় ক্ষেত্র ১: f ( x ) = − 2 x f(x)=-2 x f ( x ) = − 2 x (घখन 0 ≤ x ≤ 11 0 \\leq x \\leq 11 0 ≤ x ≤ 11 ) - x x x -বৃদ্ধির সাথে f ( x ) f(x) f ( x ) রৈখিকভাবে হ্রাস পায় (ঋণাঅ্মক ঢাল -2 )। - সর্বোচ্চ মান: x = 0 − এ , f ( 0 ) = − 2 ( 0 ) = 0 x=0-এ, f(0)=-2(0)=0 x = 0 − এ , f ( 0 ) = − 2 ( 0 ) = 0 । - সর্বনিম্ন মান: x = 11 − এ , f ( 11 ) = − 2 ( 11 ) = − 22 x=11-এ, f(11)=-2(11)=-22 x = 11 − এ , f ( 11 ) = − 2 ( 11 ) = − 22 । - রেঞ্জ অংশ: [ − 22 , 0 ] [-22,0] [ − 22 , 0 ] । ক্ষেত্র ২: f ( x ) = − 8 x f(x)=-8 x f ( x ) = − 8 x (যখन − 2 ≤ x < 0 -2 \\leq x<0 − 2 ≤ x < 0 ) - x x x -বৃদ্ধির সাথে f ( x ) f(x) f ( x ) রৈখিকভাবে হ্রাস পায় (ঋণাঅ্মক ঢাল -8)। - সর্বোচ্চ মান: x = − 2 − এ , f ( − 2 ) = − 8 ( − 2 ) = 16 x=-2-এ, f(-2)=-8(-2)=16 x = − 2 − এ , f ( − 2 ) = − 8 ( − 2 ) = 16 । - সর্বনিম্ন মান: x → 0 − − এ , f ( x ) → − 8 ( 0 ) = 0 x \\rightarrow 0^{-}-এ, f(x) \\rightarrow-8(0)=0 x → 0 − − এ , f ( x ) → − 8 ( 0 ) = 0 (তবে x = 0 x=0 x = 0 এই ক্ষেত্রে অন্তর্ভুক্ত নয়)। - রেঞ্জ অংশ: ( 0 , 16 ] (0,16] ( 0 , 16 ] । ধাপ ৩: সম্মিলিত রেঞ্জ উভয় ক্ষেত্রের রেঞ্জ একত্র করলে:  রেঞ্জ  = [ − 22 , 0 ] ∪ ( 0 , 16 ] = [ − 22 , 16 ] \\text { রেঞ্জ }=[-22,0] \\cup(0,16]=[-22,16]   রেঞ্জ   = [ − 22 , 0 ] ∪ ( 0 , 16 ] = [ − 22 , 16 ]"
+    },
+    {
+      "number": "20",
+      "tag": "RCS 24,JB 23,BB 21",
+      "question": "(3, 5) বিন্দুগামী ও 2 ঢালবিশিষ্ট সরলরেখার সমীকরণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "y = 2x + 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "y = 2x – 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "y = 2x + 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2y = x + 7",
+          "is_correct": true
+        }
+      ],
+      "option_a": "y = 2x + 2",
+      "option_b": "y = 2x – 1",
+      "option_c": "y = 2x + 1",
+      "option_d": "2y = x + 7",
+      "correct": "ঘ",
+      "explanation": "(3, 5) বিন্দুগামী 2 ঢালবিশিষ্ট সরলরেখার সমীকরণ y − 5 = 2 ( x − 3 ) ⇒ y − 5 = 2 x − 6 ⇒ y = 2 x − 6 + 5 ∴ y = 2 x − 1 \\begin{aligned} & y-5=2(x-3) \\\\ \\Rightarrow & y-5=2 x-6 \\\\ \\Rightarrow & y=2 x-6+5 \\\\ \\therefore & y=2 x-1\\end{aligned} ⇒ ⇒ ∴ ​ y − 5 = 2 ( x − 3 ) y − 5 = 2 x − 6 y = 2 x − 6 + 5 y = 2 x − 1 ​"
+    },
+    {
+      "number": "21",
+      "tag": "BB 21",
+      "question": "পাশের চিত্রের আলোকে cos ⁡ θ = \\cos \\theta= cos θ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a a 2 − b 2 \\frac{a}{\\sqrt{a^{2}-b^{2}}} a 2 − b 2 ​ a ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "b a 2 − b 2 \\frac{b}{\\sqrt{a^{2}-b^{2}}} a 2 − b 2 ​ b ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a 2 − b 2 a \\frac{\\sqrt{a^{2}-b^{2}}}{a} a a 2 − b 2 ​ ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a 2 − b 2 b \\frac{\\sqrt{a^{2}-b^{2}}}{b} b a 2 − b 2 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a a 2 − b 2 \\frac{a}{\\sqrt{a^{2}-b^{2}}} a 2 − b 2 ​ a ​",
+      "option_b": "b a 2 − b 2 \\frac{b}{\\sqrt{a^{2}-b^{2}}} a 2 − b 2 ​ b ​",
+      "option_c": "a 2 − b 2 a \\frac{\\sqrt{a^{2}-b^{2}}}{a} a a 2 − b 2 ​ ​",
+      "option_d": "a 2 − b 2 b \\frac{\\sqrt{a^{2}-b^{2}}}{b} b a 2 − b 2 ​ ​",
+      "correct": "গ",
+      "explanation": "∴  লম্ব  = b  অতিভুজ  = a  ভুমি  = a 2 − b 2 ∴ cos ⁡ θ = a 2 − b 2 a \\begin{aligned} \\therefore \\text { লম্ব } & =b \\\\ \\text { অতিভুজ } & =a \\\\ \\text { ভুমি } & =\\sqrt{a^{2}-b^{2}} \\\\ \\therefore \\cos \\theta & =\\frac{\\sqrt{a^{2}-b^{2}}}{a}\\end{aligned} ∴   লম্ব     অতিভুজ     ভুমি   ∴ cos θ ​ = b = a = a 2 − b 2 ​ = a a 2 − b 2 ​ ​ ​"
+    },
+    {
+      "number": "22",
+      "tag": "BB 21",
+      "question": "M(1, 2), N(3, 4) এবং P(−2, 5) শীর্ষ বিন্দুবিশিষ্ট MNP ত্রিভুজের ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "20",
+      "option_b": "12",
+      "option_c": "9",
+      "option_d": "6",
+      "correct": "ঘ",
+      "explanation": "Δ M N P = 1 2 ∣ 1 3 − 2 1 2 4 5 2 ∣ = 1 2 ∣ ( 4 + 15 − 4 ) − ( 6 − 8 + 5 ) ∣ = 1 2 × 12 = 6  বর্গ একক \\begin{aligned} \\Delta M N P & =\\frac{1}{2}\\left|\\begin{array}{cccc}1 & 3 & -2 & 1 \\\\ 2 & 4 & 5 & 2\\end{array}\\right| \\\\ & =\\frac{1}{2}|(4+15-4)-(6-8+5)| \\\\ & =\\frac{1}{2} \\times 12=6 ~বর্গ ~একক\\end{aligned} Δ MNP ​ = 2 1 ​ ​ 1 2 ​ 3 4 ​ − 2 5 ​ 1 2 ​ ​ = 2 1 ​ ∣ ( 4 + 15 − 4 ) − ( 6 − 8 + 5 ) ∣ = 2 1 ​ × 12 = 6   বর্গ   একক ​"
+    },
+    {
+      "number": "23",
+      "tag": "DRMC 24,BMARPC 24,BCPC ,DIN.B 21,JB 21,BB 21",
+      "question": "0. 5 ˙ 3 ˙ 0 . \\dot{5} \\dot{3} 0. 5 ˙ 3 ˙ হতে প্রাপ্ত গুণোত্তর ধারার সাধারণ অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.01",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.001",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.0001",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.1",
+      "option_b": "0.01",
+      "option_c": "0.001",
+      "option_d": "0.0001",
+      "correct": "খ",
+      "explanation": "1. 0. 5 ˙ 3 ˙ 0.\\dot{5}\\dot{3} 0. 5 ˙ 3 ˙ কে ভগ্নাংশে রূপান্তর করা হলো: x = 0. 5 ˙ 3 ˙ = 0.535353 … x = 0.\\dot{5}\\dot{3} = 0.535353\\ldots x = 0. 5 ˙ 3 ˙ = 0.535353 … 2. যেহেতু \"53\" দুই অঙ্কের পুনরাবৃত্তি হচ্ছে, তাই আমরা x x x কে 100 দ্বারা গুণ করি: 100 x = 53.535353 … 100x = 53.535353\\ldots 100 x = 53.535353 … 3. এখন, মূল সংখ্যা x = 0.535353 … x = 0.535353\\ldots x = 0.535353 … থেকে এটি বিয়োগ করুন: 100 x − x = 53.535353 … − 0.535353 … 100x - x = 53.535353\\ldots - 0.535353\\ldots 100 x − x = 53.535353 … − 0.535353 … 99 x = 53 99x = 53 99 x = 53 4. x x x এর মান বের করুন: x = 53 99 x = \\frac{53}{99} x = 99 53 ​ 5. গুণোত্তর ধারার সাধারণ অনুপাত নির্ণয়: 0. 5 ˙ 3 ˙ = 53 99 0.\\dot{5}\\dot{3} = \\frac{53}{99} 0. 5 ˙ 3 ˙ = 99 53 ​ এই ধারার সাধারণ অনুপাত (common ratio) হলো পুনরাবৃত্ত অংশের অনুপাত। যেহেতু \"53\" পুনরাবৃত্ত হচ্ছে, সাধারণ অনুপাত r r r হলো: r = 1 100 r = \\frac{1}{100} r = 100 1 ​ উত্তর: গুণোত্তর ধারার সাধারণ অনুপাত হলো 1 100 \\boxed{\\dfrac{1}{100}} 100 1 ​ ​ ।"
+    },
+    {
+      "number": "24",
+      "tag": "DRMC 24,BCPC ,BB 23,CB 22,MB 21,CB 21,CTG.B 21,BB 21,MB 20,DIN.B 19,SB 19",
+      "question": "3 2 x + 3.27 x = 4 3^{2 x}+3.27^{x}=4 3 2 x + 3.2 7 x = 4 হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_b": "1",
+      "option_c": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_d": "0",
+      "correct": "ঘ",
+      "explanation": "3 2 x + 3 ⋅ 2 2 x = 4 ⇒ 3 2 x + 3 ⋅ 3 3 x = 4 ⇒ ( 3 x ) 2 + ( 3 x ) 3 ⋅ 3 = 4 3 x = a → a 2 + 3 a 3 = 4 ⇒ 3 a 3 + a 2 − 4 = 0 ⇒ 3 a 3 − 3 a 2 + 4 a 2 − 4 a + 4 a − 4 = 0 ⇒ 3 a 2 ( a − 1 ) + 4 a ( a − 1 ) + 4 ( a − 1 ) = 0 ⇒ ( a − 1 ) ( 3 a 2 + 4 a + 4 ) = 0 a − 1 = 0 ⇒ 3 x − 1 = 0 ⇒ 3 x = 1 = 3 0 ∴ x = 0 \\begin{array}{l}3^{2 x}+3 \\cdot 2^{2 x}=4 \\\\ \\Rightarrow 3^{2 x}+3 \\cdot 3^{3 x}=4 \\\\ \\Rightarrow\\left(3^{x}\\right)^{2}+\\left(3^{x}\\right)^{3} \\cdot 3=4 \\\\ 3^{x}=a \\rightarrow \\\\ a^{2}+3 a^{3}=4 \\\\ \\Rightarrow 3 a^{3}+a^{2}-4=0 \\\\ \\Rightarrow 3 a^{3}-3 a^{2}+4 a^{2}-4 a+4 a-4=0 \\\\ \\Rightarrow 3 a^{2}(a-1)+4 a(a-1)+4(a-1)=0 \\\\ \\Rightarrow(a-1)\\left(3 a^{2}+4 a+4\\right)=0 \\\\ a-1=0 \\\\ \\Rightarrow 3^{x}-1=0 \\\\ \\Rightarrow 3^{x}=1=3^{0} \\\\ \\therefore x=0\\end{array} 3 2 x + 3 ⋅ 2 2 x = 4 ⇒ 3 2 x + 3 ⋅ 3 3 x = 4 ⇒ ( 3 x ) 2 + ( 3 x ) 3 ⋅ 3 = 4 3 x = a → a 2 + 3 a 3 = 4 ⇒ 3 a 3 + a 2 − 4 = 0 ⇒ 3 a 3 − 3 a 2 + 4 a 2 − 4 a + 4 a − 4 = 0 ⇒ 3 a 2 ( a − 1 ) + 4 a ( a − 1 ) + 4 ( a − 1 ) = 0 ⇒ ( a − 1 ) ( 3 a 2 + 4 a + 4 ) = 0 a − 1 = 0 ⇒ 3 x − 1 = 0 ⇒ 3 x = 1 = 3 0 ∴ x = 0 ​"
+    },
+    {
+      "number": "25",
+      "tag": "DRMC 24,BCPC ,BB 23,CB 22,MB 21,CB 21,CTG.B 21,BB 21,MB 20,DIN.B 19,SB 19",
+      "question": "3 2 x + 3.27 x = 4 3^{2 x}+3.27^{x}=4 3 2 x + 3.2 7 x = 4 হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_b": "1",
+      "option_c": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_d": "0",
+      "correct": "ঘ",
+      "explanation": "3 2 x + 3 ⋅ 2 2 x = 4 ⇒ 3 2 x + 3 ⋅ 3 3 x = 4 ⇒ ( 3 x ) 2 + ( 3 x ) 3 ⋅ 3 = 4 3 x = a → a 2 + 3 a 3 = 4 ⇒ 3 a 3 + a 2 − 4 = 0 ⇒ 3 a 3 − 3 a 2 + 4 a 2 − 4 a + 4 a − 4 = 0 ⇒ 3 a 2 ( a − 1 ) + 4 a ( a − 1 ) + 4 ( a − 1 ) = 0 ⇒ ( a − 1 ) ( 3 a 2 + 4 a + 4 ) = 0 a − 1 = 0 ⇒ 3 x − 1 = 0 ⇒ 3 x = 1 = 3 0 ∴ x = 0 \\begin{array}{l}3^{2 x}+3 \\cdot 2^{2 x}=4 \\\\ \\Rightarrow 3^{2 x}+3 \\cdot 3^{3 x}=4 \\\\ \\Rightarrow\\left(3^{x}\\right)^{2}+\\left(3^{x}\\right)^{3} \\cdot 3=4 \\\\ 3^{x}=a \\rightarrow \\\\ a^{2}+3 a^{3}=4 \\\\ \\Rightarrow 3 a^{3}+a^{2}-4=0 \\\\ \\Rightarrow 3 a^{3}-3 a^{2}+4 a^{2}-4 a+4 a-4=0 \\\\ \\Rightarrow 3 a^{2}(a-1)+4 a(a-1)+4(a-1)=0 \\\\ \\Rightarrow(a-1)\\left(3 a^{2}+4 a+4\\right)=0 \\\\ a-1=0 \\\\ \\Rightarrow 3^{x}-1=0 \\\\ \\Rightarrow 3^{x}=1=3^{0} \\\\ \\therefore x=0\\end{array} 3 2 x + 3 ⋅ 2 2 x = 4 ⇒ 3 2 x + 3 ⋅ 3 3 x = 4 ⇒ ( 3 x ) 2 + ( 3 x ) 3 ⋅ 3 = 4 3 x = a → a 2 + 3 a 3 = 4 ⇒ 3 a 3 + a 2 − 4 = 0 ⇒ 3 a 3 − 3 a 2 + 4 a 2 − 4 a + 4 a − 4 = 0 ⇒ 3 a 2 ( a − 1 ) + 4 a ( a − 1 ) + 4 ( a − 1 ) = 0 ⇒ ( a − 1 ) ( 3 a 2 + 4 a + 4 ) = 0 a − 1 = 0 ⇒ 3 x − 1 = 0 ⇒ 3 x = 1 = 3 0 ∴ x = 0 ​"
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "read_id": "N_v21EIZXjru9L3w",
+  "title": "সিলেট বোর্ড ২০১৯",
+  "count": 23,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "SB 19",
+      "question": "3.2 এর সাধারণ ভগ্নাংশ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 1 3 3 \\frac{1}{3} 3 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 2 9 3 \\frac{2}{9} 3 9 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 5 9 3 \\frac{5}{9} 3 9 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 7 9 3 \\frac{7}{9} 3 9 7 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 1 3 3 \\frac{1}{3} 3 3 1 ​",
+      "option_b": "3 2 9 3 \\frac{2}{9} 3 9 2 ​",
+      "option_c": "3 5 9 3 \\frac{5}{9} 3 9 5 ​",
+      "option_d": "3 7 9 3 \\frac{7}{9} 3 9 7 ​",
+      "correct": "খ",
+      "explanation": "এর সংখ্যা 3.2 কে সাধারণ ভগ্নাংশে রূপান্তর করতে হলে, প্রথমে দশমিক সংখ্যা অংশ বের করতে হবে, যেটি হল 0.2। সেই ভগ্নাংশ অংশকে সাধারণ ভগ্নাংশ রূপান্তর করা হবে। 0.2 কে ভগ্নাংশে রূপান্তর করা যায়: 0.2 = 2 10 = 1 5 0.2 = \\frac{2}{10} = \\frac{1}{5} 0.2 = 10 2 ​ = 5 1 ​ তাহলে 3.2 কে সাধারণ ভগ্নাংশে প্রকাশ করলে হবে: 3 + 1 5 = 3 1 5 3 + \\frac{1}{5} = 3 \\frac{1}{5} 3 + 5 1 ​ = 3 5 1 ​ তবে দৃষ্টিকোণ থেকে এটি ভুল হয়েছে কারণ, প্রশ্নের অপশন চূড়ান্ত ভগ্নাংশ দেয়। সঠিকভাবে 0.2 কে লিখতে হবে: 0.2 = 2 10 = 18 90 = 9 45 = 1 5 = 18 90 = 18 9 ÷ 10 90 = 2 9 0.2 = \\frac{2}{10} = \\frac{18}{90} = \\frac{9}{45} = \\frac{1}{5} = \\frac{18}{90} = \\frac{18}{9} \\div \\frac{10}{90} = \\frac{2}{9} 0.2 = 10 2 ​ = 90 18 ​ = 45 9 ​ = 5 1 ​ = 90 18 ​ = 9 18 ​ ÷ 90 10 ​ = 9 2 ​ যা থেকে, চূড়ান্তভাবে 3.2 কে ভগ্নাংশে প্রকাশ করতে হবে: 3 + 2 9 = 3 2 9 3 + \\frac{2}{9} = 3 \\frac{2}{9} 3 + 9 2 ​ = 3 9 2 ​ সুতরাং, সঠিক উত্তর হবে অপশন B: 3 2 9 3 \\frac{2}{9} 3 9 2 ​"
+    },
+    {
+      "number": "2",
+      "tag": "SB 19",
+      "question": "f ( x ) = x 4 + 5 x + 3 f(x)=x^{4}+5 x+3 f ( x ) = x 4 + 5 x + 3 হলে f ( − 2 ) f(-2) f ( − 2 ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-23",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-17",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-23",
+      "option_b": "-17",
+      "option_c": "1",
+      "option_d": "9",
+      "correct": "ঘ",
+      "explanation": "f ( x ) = x 4 + 5 x + 3 f ( − 2 ) = ( − 2 ) 4 + 5 ( − 2 ) + 3 = 16 − 10 + 3 = 9 \\begin{aligned} f(x) & =x^{4}+5 x+3 \\\\ f(-2) & =(-2)^{4}+5(-2)+3 \\\\ & =16-10+3 \\\\ & =9\\end{aligned} f ( x ) f ( − 2 ) ​ = x 4 + 5 x + 3 = ( − 2 ) 4 + 5 ( − 2 ) + 3 = 16 − 10 + 3 = 9 ​"
+    },
+    {
+      "number": "3",
+      "tag": "SB 19",
+      "question": "সার্বিক সেট U = { 1 , 2 , 3 , 4 , 5 , 6 } \\mathrm{U}=\\{1,2,3,4,5,6\\} U = { 1 , 2 , 3 , 4 , 5 , 6 } এবং P = { n ∈ R : x 2 − 6 x + 8 = 0 } , Q = { 1 , 3 } \\mathrm{P}=\\left\\{\\mathrm{n} \\in \\R: \\mathrm{x}^{2}-6 \\mathrm{x}+8=0\\right\\}, \\mathrm{Q}=\\{1,3\\} P = { n ∈ R : x 2 − 6 x + 8 = 0 } , Q = { 1 , 3 } এবং R = { 1 , 4 , 5 } \\mathrm{R}=\\{1,4,5\\} R = { 1 , 4 , 5 } . Q ′ ∪ R = \\mathbf{Q}^{\\prime} \\cup \\mathbf{R}= Q ′ ∪ R = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 4 , 5 } \\{4,5\\} { 4 , 5 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ 2 , 4 , 5 , 6 } \\{2,4,5,6\\} { 2 , 4 , 5 , 6 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 1 , 2 , 4 , 5 , 6 } \\{1,2,4,5,6\\} { 1 , 2 , 4 , 5 , 6 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 1 , 2 , 3 , 4 , 5 , 6 } \\{1,2,3,4,5,6\\} { 1 , 2 , 3 , 4 , 5 , 6 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ 4 , 5 } \\{4,5\\} { 4 , 5 }",
+      "option_b": "{ 2 , 4 , 5 , 6 } \\{2,4,5,6\\} { 2 , 4 , 5 , 6 }",
+      "option_c": "{ 1 , 2 , 4 , 5 , 6 } \\{1,2,4,5,6\\} { 1 , 2 , 4 , 5 , 6 }",
+      "option_d": "{ 1 , 2 , 3 , 4 , 5 , 6 } \\{1,2,3,4,5,6\\} { 1 , 2 , 3 , 4 , 5 , 6 }",
+      "correct": "গ",
+      "explanation": "প্রথমে, Q ′ \\mathbf{Q}^{\\prime} Q ′ নির্ণয় করতে হবে। Q = { 1 , 3 } \\mathbf{Q} = \\{1, 3\\} Q = { 1 , 3 } এবং সার্বিক সেট U = { 1 , 2 , 3 , 4 , 5 , 6 } \\mathbf{U} = \\{1, 2, 3, 4, 5, 6\\} U = { 1 , 2 , 3 , 4 , 5 , 6 } দেওয়া আছে। অতএব, Q ′ = U − Q = { 1 , 2 , 3 , 4 , 5 , 6 } − { 1 , 3 } = { 2 , 4 , 5 , 6 } \\mathbf{Q}^{\\prime} = \\mathbf{U} - \\mathbf{Q} = \\{1, 2, 3, 4, 5, 6\\} - \\{1, 3\\} = \\{2, 4, 5, 6\\} Q ′ = U − Q = { 1 , 2 , 3 , 4 , 5 , 6 } − { 1 , 3 } = { 2 , 4 , 5 , 6 } এখন Q ′ ∪ R \\mathbf{Q}^{\\prime} \\cup \\mathbf{R} Q ′ ∪ R নির্ণয় করি, যেখানে R = { 1 , 4 , 5 } \\mathbf{R} = \\{1, 4, 5\\} R = { 1 , 4 , 5 } Q ′ ∪ R = { 2 , 4 , 5 , 6 } ∪ { 1 , 4 , 5 } = { 1 , 2 , 4 , 5 , 6 } \\mathbf{Q}^{\\prime} \\cup \\mathbf{R} = \\{2, 4, 5, 6\\} \\cup \\{1, 4, 5\\} = \\{1, 2, 4, 5, 6\\} Q ′ ∪ R = { 2 , 4 , 5 , 6 } ∪ { 1 , 4 , 5 } = { 1 , 2 , 4 , 5 , 6 } অতএব, Q ′ ∪ R = { 1 , 2 , 4 , 5 , 6 } \\mathbf{Q}^{\\prime} \\cup \\mathbf{R} = \\{1, 2, 4, 5, 6\\} Q ′ ∪ R = { 1 , 2 , 4 , 5 , 6 } সঠিক উত্তর: (C) { 1 , 2 , 4 , 5 , 6 } \\{1, 2, 4, 5, 6\\} { 1 , 2 , 4 , 5 , 6 }"
+    },
+    {
+      "number": "4",
+      "tag": "SB 19",
+      "question": "সার্বিক সেট U = { 1 , 2 , 3 , 4 , 5 , 6 } \\mathrm{U}=\\{1,2,3,4,5,6\\} U = { 1 , 2 , 3 , 4 , 5 , 6 } এবং P = { n ∈ R : x 2 − 6 x + 8 = 0 } , Q = { 1 , 3 } \\mathrm{P}=\\left\\{\\mathrm{n} \\in \\R: \\mathrm{x}^{2}-6 \\mathrm{x}+8=0\\right\\}, \\mathrm{Q}=\\{1,3\\} P = { n ∈ R : x 2 − 6 x + 8 = 0 } , Q = { 1 , 3 } এবং R = { 1 , 4 , 5 } \\mathrm{R}=\\{1,4,5\\} R = { 1 , 4 , 5 } . Q ′ ∪ R = \\mathbf{Q}^{\\prime} \\cup \\mathbf{R}= Q ′ ∪ R = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 4 , 5 } \\{4,5\\} { 4 , 5 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ 2 , 4 , 5 , 6 } \\{2,4,5,6\\} { 2 , 4 , 5 , 6 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 1 , 2 , 4 , 5 , 6 } \\{1,2,4,5,6\\} { 1 , 2 , 4 , 5 , 6 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 1 , 2 , 3 , 4 , 5 , 6 } \\{1,2,3,4,5,6\\} { 1 , 2 , 3 , 4 , 5 , 6 }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ 4 , 5 } \\{4,5\\} { 4 , 5 }",
+      "option_b": "{ 2 , 4 , 5 , 6 } \\{2,4,5,6\\} { 2 , 4 , 5 , 6 }",
+      "option_c": "{ 1 , 2 , 4 , 5 , 6 } \\{1,2,4,5,6\\} { 1 , 2 , 4 , 5 , 6 }",
+      "option_d": "{ 1 , 2 , 3 , 4 , 5 , 6 } \\{1,2,3,4,5,6\\} { 1 , 2 , 3 , 4 , 5 , 6 }",
+      "correct": "ঘ",
+      "explanation": "প্রথমে, Q ′ \\mathbf{Q}^{\\prime} Q ′ নির্ণয় করতে হবে। Q = { 1 , 3 } \\mathbf{Q} = \\{1, 3\\} Q = { 1 , 3 } এবং সার্বিক সেট U = { 1 , 2 , 3 , 4 , 5 , 6 } \\mathbf{U} = \\{1, 2, 3, 4, 5, 6\\} U = { 1 , 2 , 3 , 4 , 5 , 6 } দেওয়া আছে। অতএব, Q ′ = U − Q = { 1 , 2 , 3 , 4 , 5 , 6 } − { 1 , 3 } = { 2 , 4 , 5 , 6 } \\mathbf{Q}^{\\prime} = \\mathbf{U} - \\mathbf{Q} = \\{1, 2, 3, 4, 5, 6\\} - \\{1, 3\\} = \\{2, 4, 5, 6\\} Q ′ = U − Q = { 1 , 2 , 3 , 4 , 5 , 6 } − { 1 , 3 } = { 2 , 4 , 5 , 6 } এখন Q ′ ∪ R \\mathbf{Q}^{\\prime} \\cup \\mathbf{R} Q ′ ∪ R নির্ণয় করি, যেখানে R = { 1 , 4 , 5 } \\mathbf{R} = \\{1, 4, 5\\} R = { 1 , 4 , 5 } Q ′ ∪ R = { 2 , 4 , 5 , 6 } ∪ { 1 , 4 , 5 } = { 1 , 2 , 4 , 5 , 6 } \\mathbf{Q}^{\\prime} \\cup \\mathbf{R} = \\{2, 4, 5, 6\\} \\cup \\{1, 4, 5\\} = \\{1, 2, 4, 5, 6\\} Q ′ ∪ R = { 2 , 4 , 5 , 6 } ∪ { 1 , 4 , 5 } = { 1 , 2 , 4 , 5 , 6 } অতএব, Q ′ ∪ R = { 1 , 2 , 4 , 5 , 6 } \\mathbf{Q}^{\\prime} \\cup \\mathbf{R} = \\{1, 2, 4, 5, 6\\} Q ′ ∪ R = { 1 , 2 , 4 , 5 , 6 } সঠিক উত্তর: (C) { 1 , 2 , 4 , 5 , 6 } \\{1, 2, 4, 5, 6\\} { 1 , 2 , 4 , 5 , 6 }"
+    },
+    {
+      "number": "5",
+      "tag": "SB 19,CB 17",
+      "question": "a : b = 3 : 4 , b : c = 6 : 7 a: b=3: 4, b: c=6: 7 a : b = 3 : 4 , b : c = 6 : 7 হলে, a : b : c = a : b : c = a : b : c = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 : 6 : 7 3: 6: 7 3 : 6 : 7",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 : 6 : 7 4: 6: 7 4 : 6 : 7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7 : 12 : 14 7: 12: 14 7 : 12 : 14",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9 : 12 : 14 9: 12: 14 9 : 12 : 14",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 : 6 : 7 3: 6: 7 3 : 6 : 7",
+      "option_b": "4 : 6 : 7 4: 6: 7 4 : 6 : 7",
+      "option_c": "7 : 12 : 14 7: 12: 14 7 : 12 : 14",
+      "option_d": "9 : 12 : 14 9: 12: 14 9 : 12 : 14",
+      "correct": "ক",
+      "explanation": "এখানে, a : b = 3 : 4 ∴ a b = 3 9 = 9 12 a: b=3: 4 \\quad \\therefore \\frac{a}{b}=\\frac{3}{9}=\\frac{9}{12} a : b = 3 : 4 ∴ b a ​ = 9 3 ​ = 12 9 ​ আবার, b : c = 6 : 7 \\quad b: c=6: 7 b : c = 6 : 7 ⇒ b c = 6 7 ⇒ b c = 12 14 ∴ a : b : c = 9 : 12 : 34 \\begin{aligned} & \\Rightarrow \\frac{b}{c}=\\frac{6}{7} \\\\ & \\Rightarrow \\frac{b}{c}=\\frac{12}{14} \\\\ \\therefore a: b: c & =9: 12: 34 \\end{aligned} ∴ a : b : c ​ ⇒ c b ​ = 7 6 ​ ⇒ c b ​ = 14 12 ​ = 9 : 12 : 34 ​"
+    },
+    {
+      "number": "6",
+      "tag": "DC 25,MB 25,RB 25,DIN.B 25,JB 25,BB 25,MAD 25,DB 24,RB 24,CB 24,DIN.B 24,MB 24,DB 24,JB 24,BB 24,DB 20,MB 20,DIN.B 20,BB 20,DB 19,RB 19,CB 19,DIN.B 19,JB 19,SB 19,DB 17,JB 17,FCC 24,JGCC 24,BCC 24,VNSC 24,GLHSD 24,ACPS 24,NISD 24,MCPSC 24,RCPC 24,CCS 24,RCPC 24,BCPC 24",
+      "question": "2 x − 3 + 5 = 2 \\sqrt{2 x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণ- i. একটি এক চলকবিশিষ্ট সমীকরণ ii. এর সমাধান সেট S = { } \\mathrm{S}=\\{ \\} S = { } iii. এর সমাধান x = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "ক",
+      "explanation": "2 x − 3 + 5 = 2 \\sqrt{2x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণটি সমাধান করা যাক। প্রথমত, সমীকরণটি সরল করার জন্য আমরা উভয় পাশে 5 5 5 বিয়োগ করব: 2 x − 3 = 2 − 5 \\sqrt{2x-3} = 2 - 5 2 x − 3 ​ = 2 − 5 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 পুরুত্ব বর্গমূলের মান কখনোই ঋণাত্মক হতে পারে না, তাই 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 সমাধায় কোন সমর্থন বা সঠিক সমাধান নেই। অতএব, এর সমাধান সেট হল S = { } S = \\{\\} S = { } , যা একটি খালি সেট নির্দেশ করে। তাহলে, নিচের বস্তুগুলি সঠিক: i. একটি এক চলকবিশিষ্ট সমীকরণ কারণ এটি শুধু x x x -এর উপর নির্ভর করে। ii. এর সমাধান সেট S = { } \\mathrm{S} = \\{ \\} S = { } হল খালি সেট। iii. এর সমাধান x = 6 x = 6 x = 6 ভুল কারণ উক্ত সমীকরণ থেকে এমন কোন সমাধান পাওয়া যায় না। সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "7",
+      "tag": "SB 19",
+      "question": "যদি log ⁡ x 36 = 4 \\log _{x} 36=4 lo g x ​ 36 = 4 হয়, তবে x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 \\sqrt{6} 6 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 2 3 \\sqrt{2} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 \\sqrt{6} 6 ​",
+      "option_b": "3 2 3 \\sqrt{2} 3 2 ​",
+      "option_c": "4",
+      "option_d": "6",
+      "correct": "ক",
+      "explanation": "দেয়া আছে, log ⁡ x 36 = 4 ⇒ x 4 = 36 ⇒ x 4 = 6 4 ⇒ x 4 = ( 6 ) 4 ⇒ x = 6 \\begin{aligned} & \\log _{x} 36=4 \\\\ \\Rightarrow & x^{4}=36 \\\\ \\Rightarrow & x^{4}=6^{4} \\\\ \\Rightarrow & x^{4}=(\\sqrt{6})^{4} \\\\ \\Rightarrow & x=\\sqrt{6}\\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ lo g x ​ 36 = 4 x 4 = 36 x 4 = 6 4 x 4 = ( 6 ​ ) 4 x = 6 ​ ​"
+    },
+    {
+      "number": "10",
+      "tag": "SB 19",
+      "question": "9 n − 4 3 n + 2 \\frac{9^{n}-4}{3^{n}+2} 3 n + 2 9 n − 4 ​ এর সরলিকরণ মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 n + 2 3^{n}+2 3 n + 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 n − 2 3^{n}-2 3 n − 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 2 n + 2 3^{2 n}+2 3 2 n + 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 n − 2 3^{2 n}-2 3 2 n − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 n + 2 3^{n}+2 3 n + 2",
+      "option_b": "3 n − 2 3^{n}-2 3 n − 2",
+      "option_c": "3 2 n + 2 3^{2 n}+2 3 2 n + 2",
+      "option_d": "3 2 n − 2 3^{2 n}-2 3 2 n − 2",
+      "correct": "খ",
+      "explanation": "প্রদত্ত রাশি  = 9 n − 4 3 n + 2 = ( 3 n ) 2 − 2 2 3 n + 2 = ( 3 n + 2 ) ( 3 n − 2 ) ( 3 n + 2 ) ∴  সরলীকৃত মান  = 3 n − 2 \\begin{array}{l}\\text { প্রদত্ত রাশি }=\\frac{9^{n}-4}{3^{n}+2} \\\\ =\\frac{\\left(3^{n}\\right)^{2}-2^{2}}{3^{n}+2} \\\\ =\\frac{\\left(3^{n}+2\\right)\\left(3^{n}-2\\right)}{\\left(3^{n}+2\\right)} \\\\ \\therefore \\text { সরলীকৃত মান }=3^{n}-2\\end{array}   প্রদত্ত   রাশি   = 3 n + 2 9 n − 4 ​ = 3 n + 2 ( 3 n ) 2 − 2 2 ​ = ( 3 n + 2 ) ( 3 n + 2 ) ( 3 n − 2 ) ​ ∴   সরলীকৃত   মান   = 3 n − 2 ​"
+    },
+    {
+      "number": "11",
+      "tag": "SB 19",
+      "question": "যদি 2 x ( x − 3 ) = x − 3 2 x(x-3)=x-3 2 x ( x − 3 ) = x − 3 হয় তবে x x x এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 1 2 , 3 ) \\left(\\frac{1}{2}, 3\\right) ( 2 1 ​ , 3 )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "( 2 , 3 ) (2,3) ( 2 , 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 2 , − 3 ) (2,-3) ( 2 , − 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 1 2 , − 3 ) \\left(\\frac{1}{2},-3\\right) ( 2 1 ​ , − 3 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 1 2 , 3 ) \\left(\\frac{1}{2}, 3\\right) ( 2 1 ​ , 3 )",
+      "option_b": "( 2 , 3 ) (2,3) ( 2 , 3 )",
+      "option_c": "( 2 , − 3 ) (2,-3) ( 2 , − 3 )",
+      "option_d": "( 1 2 , − 3 ) \\left(\\frac{1}{2},-3\\right) ( 2 1 ​ , − 3 )",
+      "correct": "ক",
+      "explanation": "2 x ( x − 3 ) = ( x − 3 ) ⇒ 2 x ( x − 3 ) − ( x − 3 ) = 0 ⇒ ( 2 x − 1 ) ( x − 3 ) = 0 ∴ x = ( 1 / 2 , 3 ) \\begin{aligned} & 2 x(x-3)=(x-3) \\\\ \\Rightarrow & 2 x(x-3)-(x-3)=0 \\\\ \\Rightarrow & (2 x-1)(x-3)=0 \\\\ \\therefore & x=(1 / 2,3) \\end{aligned} ⇒ ⇒ ∴ ​ 2 x ( x − 3 ) = ( x − 3 ) 2 x ( x − 3 ) − ( x − 3 ) = 0 ( 2 x − 1 ) ( x − 3 ) = 0 x = ( 1/2 , 3 ) ​"
+    },
+    {
+      "number": "12",
+      "tag": "SB 19",
+      "question": "3 x − 7 y − 4 = 0 3 x-7 y-4=0 3 x − 7 y − 4 = 0 এবং a x + b y + c = 0 a x+b y+c=0 a x + b y + c = 0 সমীকরণ দ্বয়ের তুলনায় c এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "-7",
+      "option_c": "-4",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "3 x − 7 y − 4 = 0 … . . ( i ) a x + b y + c = 0 … . ( i i ) \\begin{array}{l} 3 x-7 y-4=0…..(i) \\\\ a x+b y+c=0 ….(ii)\\end{array} 3 x − 7 y − 4 = 0 … .. ( i ) a x + b y + c = 0 … . ( ii ) ​ (i) ও (ii) নং তুলনা করে, a = 3 , b = − 7 , c = − 4 a=3, b=-7, c=-4 a = 3 , b = − 7 , c = − 4"
+    },
+    {
+      "number": "13",
+      "tag": "RB 25",
+      "question": "log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 5 \\frac{6}{5} 5 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 3 \\frac{4}{3} 3 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 5 \\frac{6}{5} 5 6 ​",
+      "option_b": "5 6 \\frac{5}{6} 6 5 ​",
+      "option_c": "4 3 \\frac{4}{3} 3 4 ​",
+      "option_d": "3 4 \\frac{3}{4} 4 3 ​",
+      "correct": "খ",
+      "explanation": "log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান নির্ণয় করতে নিচের ধাপগুলি অনুসরণ করা যাক: 1. প্রদত্ত রাশিটিকে সরলীকরণ করা: 5 3 ⋅ 5 \\sqrt[3]{5} \\cdot \\sqrt{5} 3 5 ​ ⋅ 5 ​ এখানে, 5 3 = 5 1 3  এবং  5 = 5 1 2 \\sqrt[3]{5}=5^{\\frac{1}{3}} \\quad \\text { এবং } \\quad \\sqrt{5}=5^{\\frac{1}{2}} 3 5 ​ = 5 3 1 ​   এবং   5 ​ = 5 2 1 ​ সুতরাং, 5 3 ⋅ 5 = 5 1 3 ⋅ 5 1 2 = 5 1 3 + 1 2 = 5 5 6 \\sqrt[3]{5} \\cdot \\sqrt{5}=5^{\\frac{1}{3}} \\cdot 5^{\\frac{1}{2}}=5^{\\frac{1}{3}+\\frac{1}{2}}=5^{\\frac{5}{6}} 3 5 ​ ⋅ 5 ​ = 5 3 1 ​ ⋅ 5 2 1 ​ = 5 3 1 ​ + 2 1 ​ = 5 6 5 ​ 2. লগারিদমের মান নির্ণয়: log ⁡ 5 ( 5 5 6 ) \\log _{5}\\left(5^{\\frac{5}{6}}\\right) lo g 5 ​ ( 5 6 5 ​ ) লগারিদমের সূত্র অনুযায়ী, log ⁡ a ( a b ) = b \\log _{a}\\left(a^{b}\\right)=b lo g a ​ ( a b ) = b সুতরাং, log ⁡ 5 ( 5 5 6 ) = 5 6 \\log _{5}\\left(5^{\\frac{5}{6}}\\right)=\\frac{5}{6} lo g 5 ​ ( 5 6 5 ​ ) = 6 5 ​ সুতরাং, log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান হলো 5 6 \\frac{5}{6} 6 5 ​"
+    },
+    {
+      "number": "16",
+      "tag": "SB 19",
+      "question": "যদি A B = B C = A C = 10 A B=B C=A C=10 A B = BC = A C = 10 সে.মি. হয় তবে AD = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 3 5 \\sqrt{3} 5 3 ​ সে.মি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5 5 5 \\sqrt{5} 5 5 ​ সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "75 সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "125 সে.মি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 3 5 \\sqrt{3} 5 3 ​ সে.মি",
+      "option_b": "5 5 5 \\sqrt{5} 5 5 ​ সে.মি",
+      "option_c": "75 সে.মি",
+      "option_d": "125 সে.মি",
+      "correct": "ক",
+      "explanation": "আমরা জানি, সমবাহু ত্রিভুজের উচ্চতা =(এক বাহুর দৈর্ঘ্য /২)×√3 =10/2×√3=5√3"
+    },
+    {
+      "number": "18",
+      "tag": "SB 19,CSC 24",
+      "question": "কয়টি বাহুর দৈর্ঘ্য দেওয়া থাকলে বর্গ অঙ্কন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "একটি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "দুইটি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তিনটি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চারটি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "একটি",
+      "option_b": "দুইটি",
+      "option_c": "তিনটি",
+      "option_d": "চারটি",
+      "correct": "ক",
+      "explanation": "চতুর্ভুজ অঙ্কনের জন্য চতুর্ভুজ সংক্রান্ত কমপক্ষে যেকোনো পাঁচটি তথ্য জানা দরকার । কিন্তু বর্গের শুধু একটি বাহু জানা থাকলেই এটি আঁকা সম্ভব। কেননা বর্গের বাহুগুলো সমান ও কোণগুলো সমকোণ, প্রকৃতপক্ষে এতে করে আটটি তথ্যই জানা যায়"
+    },
+    {
+      "number": "19",
+      "tag": "SB 19",
+      "question": "O কেন্দ্রবিশিষ্ট ABC বৃত্তের AB ব্যাস। ACB বৃত্ত চাপের দৈর্ঘ্য 2 π 2 \\pi 2 π সে. মি. হলে বৃত্তের পরিধি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π \\pi π সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 π 4 \\pi 4 π সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 π r 2 \\pi \\mathrm{r} 2 π r সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 π r 4 \\pi \\mathrm{r} 4 π r সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π \\pi π সে.মি.",
+      "option_b": "4 π 4 \\pi 4 π সে.মি.",
+      "option_c": "2 π r 2 \\pi \\mathrm{r} 2 π r সে.মি.",
+      "option_d": "4 π r 4 \\pi \\mathrm{r} 4 π r সে.মি.",
+      "correct": "খ",
+      "explanation": "ACB বৃত্তের চাপের দৈর্ঘ্য = বৃত্তের অর্ধপরিধি ∴ বৃত্তের অর্ধপরিধি =2π ∴ বৃত্তের পরিধি =4π"
+    },
+    {
+      "number": "20",
+      "tag": "SB 19",
+      "question": "O কেন্দ্রবিশিষ্ট ABC বৃত্তের AB ব্যাস। যদি BO = 4 সে.মি. হয় তবে AC = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 2 4 \\sqrt{2} 4 2 ​ সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 3 4 \\sqrt{3} 4 3 ​ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "32 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 2 4 \\sqrt{2} 4 2 ​ সে.মি.",
+      "option_b": "4 3 4 \\sqrt{3} 4 3 ​ সে.মি.",
+      "option_c": "8 সে.মি.",
+      "option_d": "32 সে.মি.",
+      "correct": "ক",
+      "explanation": "এখানে , O A = O B = O C = r = 4   c m O A=O B=O C=r=4 \\mathrm{~cm} O A = OB = OC = r = 4   cm ∴ A C = O A 2 + O B 2 = 4 2 + 4 2 = 4 2   c m \\therefore A C=\\sqrt{O A^{2}+O B^{2}}=\\sqrt{4^{2}+4^{2}}=4 \\sqrt{2} \\mathrm{~cm} ∴ A C = O A 2 + O B 2 ​ = 4 2 + 4 2 ​ = 4 2 ​   cm"
+    },
+    {
+      "number": "21",
+      "tag": "SB 19",
+      "question": "12 + 24 + 48 + 12+24+48+ 12 + 24 + 48 + ……… +768 গুণোত্তর ধারাটিতে কতটি পদ আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "6",
+      "option_c": "7",
+      "option_d": "8",
+      "correct": "গ",
+      "explanation": "প্রদত্ত গুণোত্তর ধারাটি হল 12 , 24 , 48 , … , 768 12, 24, 48, \\ldots, 768 12 , 24 , 48 , … , 768 । গুনোত্তর ধারার সাধারণ রূপ হল a , a r , a r 2 , … , a r n − 1 a, ar, ar^2, \\ldots, ar^{n-1} a , a r , a r 2 , … , a r n − 1 যেখানে, a a a = প্রথম পদ r r r = গুণোত্তর ধারার গুণক n n n = পদের সংখ্যা প্রথম পদ a = 12 a = 12 a = 12 দ্বিতীয় পদ a r = 24 ar = 24 a r = 24 এখানে r = 24 12 = 2 r = \\frac{24}{12} = 2 r = 12 24 ​ = 2 ধরি n n n -তম পদ হল 768 768 768 , তাহলে a r n − 1 = 768 ar^{n-1} = 768 a r n − 1 = 768 অথবা, 12 × 2 n − 1 = 768 12 \\times 2^{n-1} = 768 12 × 2 n − 1 = 768 এখান থেকে, 2 n − 1 = 768 12 = 64 2^{n-1} = \\frac{768}{12} = 64 2 n − 1 = 12 768 ​ = 64 64 = 2 6 64 = 2^6 64 = 2 6 অতএব, n − 1 = 6 ⇒ n = 7 n-1 = 6 \\Rightarrow n = 7 n − 1 = 6 ⇒ n = 7 সুতরাং, ধারাটিতে 7টি পদ আছে।"
+    },
+    {
+      "number": "22",
+      "tag": "SB 19,BNMPC 24",
+      "question": "2 − 2 + 2 − 2 + 2-2+2-2+ 2 − 2 + 2 − 2 + ……… ধারাটির ১৯তম পদ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "-38",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "38",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "2",
+      "option_c": "-38",
+      "option_d": "38",
+      "correct": "খ",
+      "explanation": "ধারাটি হচ্ছে 2 − 2 + 2 − 2 + … 2-2+2-2+\\ldots 2 − 2 + 2 − 2 + … অর্থাৎ এটি একটি পর্যায়ভুক্ত ধারা যেখানে পরপর দুইটি পদ একটি করে চক্র (cycle) গঠন করছে: একবার ধনাত্মক পদ 2 2 2 এবং পরেরটি ঋণাত্মক পদ − 2 -2 − 2 । নির্দিষ্ট করে বললে, বেজোড় সংখ্যক পদের জন্য ধনাত্মক সংখ্যা 2 2 2 এবং জোড় সংখ্যক পদের জন্য ঋণাত্মক সংখ্যা − 2 -2 − 2 আসে। এখন, ১৯ হল একটি বেজোড় সংখ্যা। সুতরাং ১৯তম পদ হলো ধনাত্মক সংখ্যা, যা 2 2 2 ।"
+    },
+    {
+      "number": "23",
+      "tag": "SB 19",
+      "question": "যদি A D = 30 \\mathrm{AD}=30 AD = 30 মি. এবং ∠ A C D = 45 ∘ \\angle \\mathrm{ACD}=45^{\\circ} ∠ ACD = 4 5 ∘ হয় তবে CD = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 3 10 \\sqrt{3} 10 3 ​ মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "30 মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "30 3 30 \\sqrt{3} 30 3 ​ মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60 মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 3 10 \\sqrt{3} 10 3 ​ মি.",
+      "option_b": "30 মি.",
+      "option_c": "30 3 30 \\sqrt{3} 30 3 ​ মি.",
+      "option_d": "60 মি.",
+      "correct": "খ",
+      "explanation": "চিত্র হতে, tan ⁡ 45 ∘ = A D C D ⇒ 1 = 3 O C D ∴ C D = 30 মি . \\begin{aligned} \\tan 45^{\\circ} & =\\frac{A D}{C D} \\\\ \\Rightarrow 1 & =\\frac{3 O}{C D} \\\\ \\therefore C D & =30 মি . \\end{aligned} tan 4 5 ∘ ⇒ 1 ∴ C D ​ = C D A D ​ = C D 3 O ​ = 30 মি . ​"
+    },
+    {
+      "number": "24",
+      "tag": "SB 19",
+      "question": "A D = 7 \\mathrm{AD}=7 AD = 7 মি., C D = 12 \\mathrm{CD}=12 CD = 12 মি. এবং A B = 25 \\mathrm{AB}=25 AB = 25 মি. হলে B C = \\mathrm{BC}= BC = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "24 মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "19 মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12 মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6 মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "24 মি.",
+      "option_b": "19 মি.",
+      "option_c": "12 মি.",
+      "option_d": "6 মি.",
+      "correct": "গ",
+      "explanation": "এখানে, B D = A B 2 − A D 2 = 25 2 − 7 2 ∴ B D = 24 B D = 24 ⇒ B C + C D = 24 ⇒ B C = 24 − 12 ∴ B C = 12 m \\begin{array}{c} B D=\\sqrt{A B^{2}-A D^{2}} \\\\ =\\sqrt{25^{2}-7^{2}} \\\\ \\therefore B D=24 \\\\ B D=24 \\\\ \\Rightarrow B C+C D=24 \\\\ \\Rightarrow B C=24-12 \\\\ \\therefore B C=12 m \\end{array} B D = A B 2 − A D 2 ​ = 2 5 2 − 7 2 ​ ∴ B D = 24 B D = 24 ⇒ BC + C D = 24 ⇒ BC = 24 − 12 ∴ BC = 12 m ​"
+    },
+    {
+      "number": "26",
+      "tag": "MB 24,CB 23,SB 19",
+      "question": "সামান্তরিকের ভূমি 9 সেমি ও উচ্চতা 4 সেমি হলে এর ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "18 বর্গ.সেমি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "26 বর্গ.সেমি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36 বর্গ.সেমি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "72 বর্গ.সেমি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "18 বর্গ.সেমি.",
+      "option_b": "26 বর্গ.সেমি.",
+      "option_c": "36 বর্গ.সেমি.",
+      "option_d": "72 বর্গ.সেমি.",
+      "correct": "গ",
+      "explanation": "এখানে, সামন্তরিকের ক্ষেত্রফল = ভূমি × উচ্চতা = 9 × 4 = 36   c m 2 \\begin{array}{l} =9 \\times 4 \\\\ =36 \\mathrm{~cm}^{2} \\end{array} = 9 × 4 = 36   cm 2 ​"
+    },
+    {
+      "number": "28",
+      "tag": "SB 19",
+      "question": "সমবৃত্তভূমিক সিলিন্ডারের ভূমির ব্যাসার্ধ 5 সে.মি. এবং উচ্চতা 12 সে.মি. হলে সিলিন্ডারের বক্রতলের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 π 10 \\pi 10 π ব.সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "24 π 24 \\pi 24 π ব.সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 π 60 \\pi 60 π ব.সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "120 π 120 \\pi 120 π ব.সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 π 10 \\pi 10 π ব.সে.মি.",
+      "option_b": "24 π 24 \\pi 24 π ব.সে.মি.",
+      "option_c": "60 π 60 \\pi 60 π ব.সে.মি.",
+      "option_d": "120 π 120 \\pi 120 π ব.সে.মি.",
+      "correct": "গ",
+      "explanation": "সিলিন্ডারের বক্রতলের ক্ষেত্রফল=2πrh= 2π×5×12= 120π বর্গ সে.মি."
+    },
+    {
+      "number": "29",
+      "tag": "SB 19",
+      "question": "৯, ১৭, ১১, ২০, ১৯, ১০, ১৫, ১২, ১৩। সংখ্যাগুলোর গাণিতিক গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১২.৬",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "১৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১৪.৫",
+          "is_correct": true
+        }
+      ],
+      "option_a": "১২.৬",
+      "option_b": "১৩",
+      "option_c": "১৪",
+      "option_d": "১৪.৫",
+      "correct": "ঘ",
+      "explanation": "উপাত্ত: ৯, ১৭, ১১, ২০, ১৯, ১০, ১৫, ১২, ১৩ মোট যোগফল = 9 + 17 + 11 + 20 + 19 + 10 + 15 + 12 + 13 = 126 = 9 + 17 + 11 + 20 + 19 + 10 + 15 + 12 + 13 = 126 = 9 + 17 + 11 + 20 + 19 + 10 + 15 + 12 + 13 = 126 উপাত্তের সংখ্যা = 9 = 9 = 9 গাণিতিক গড় = 126 9 = 14 = \\frac{126}{9} = \\boxed{14} = 9 126 ​ = 14 ​"
+    },
+    {
+      "number": "30",
+      "tag": "SB 19",
+      "question": "৯, ১৭, ১১, ২০, ১৯, ১০, ১৫, ১২, ১৩। মধ্যক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১১",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "১২",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১৩",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "১৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১১",
+      "option_b": "১২",
+      "option_c": "১৩",
+      "option_d": "১৫",
+      "correct": "গ",
+      "explanation": "উপাত্তগুলোকে মালের উর্ধ্বক্রমানুসারে সাজিয়ে বাই ৯, ১০, ১১, ১২ ,১৩, ১৫, ১৭, ১৯, ২০    ∴ \\ \\ \\therefore     ∴ মধ্যক=১৩"
+    }
+  ]
+}

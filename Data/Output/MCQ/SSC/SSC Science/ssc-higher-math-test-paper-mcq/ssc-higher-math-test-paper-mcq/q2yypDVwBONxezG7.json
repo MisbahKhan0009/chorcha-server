@@ -1,0 +1,832 @@
+{
+  "read_id": "q2yypDVwBONxezG7",
+  "title": "বরিশাল ক্যাডেট কলেজ ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "BCC 25",
+      "question": "3(1-2x)(3x+2) রাশিটির ধ্রুবপদ এবং মুখ্য সহগের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-18",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-24",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-12",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-18",
+      "option_b": "-24",
+      "option_c": "-12",
+      "option_d": "12",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "BCC 25",
+      "question": "x + 4 x ( x + 2 ) \\frac{x+4}{x(x+2)} x ( x + 2 ) x + 4 ​ এর আংশিক ভগ্নাংশে প্রকাশিত রূপ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 x − 1 x + 2 \\frac{2}{x} - \\frac{1}{x+2} x 2 ​ − x + 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 x + 1 x + 2 \\frac{2}{x} + \\frac{1}{x+2} x 2 ​ + x + 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 x − 2 x + 2 \\frac{1}{x} - \\frac{2}{x+2} x 1 ​ − x + 2 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 x + 2 x + 2 \\frac{1}{x} + \\frac{2}{x+2} x 1 ​ + x + 2 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 x − 1 x + 2 \\frac{2}{x} - \\frac{1}{x+2} x 2 ​ − x + 2 1 ​",
+      "option_b": "2 x + 1 x + 2 \\frac{2}{x} + \\frac{1}{x+2} x 2 ​ + x + 2 1 ​",
+      "option_c": "1 x − 2 x + 2 \\frac{1}{x} - \\frac{2}{x+2} x 1 ​ − x + 2 2 ​",
+      "option_d": "1 x + 2 x + 2 \\frac{1}{x} + \\frac{2}{x+2} x 1 ​ + x + 2 2 ​",
+      "correct": "ক",
+      "explanation": "x + 4 x ( x + 2 ) = 0 + 4 0 ( 0 + 2 ) + 4 − 2 ( x + 2 ) ( − 2 ) [Cover-up Rule] \\frac{x+4}{x(x+2)} = \\frac{0+4}{0(0+2)} + \\frac{4-2}{(x+2)(-2)} \\text{[Cover-up Rule]} x ( x + 2 ) x + 4 ​ = 0 ( 0 + 2 ) 0 + 4 ​ + ( x + 2 ) ( − 2 ) 4 − 2 ​ [Cover-up Rule] = 4 2 x − 2 2 ( x + 2 ) = 2 x − 1 x + 2 = \\frac{4}{2x} - \\frac{2}{2(x+2)} = \\frac{2}{x} - \\frac{1}{x+2} = 2 x 4 ​ − 2 ( x + 2 ) 2 ​ = x 2 ​ − x + 2 1 ​"
+    },
+    {
+      "number": "3",
+      "tag": "BCC 25",
+      "question": "( 5 x 2 − 3 x − 1 ) (5x^2 - 3x - 1) ( 5 x 2 − 3 x − 1 ) কে ( 2 x + 1 ) (2x + 1) ( 2 x + 1 ) দ্বারা ভাগ করলে ভাগশেষ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 7 \\frac{4}{7} 7 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 4 \\frac{7}{4} 4 7 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+      "option_b": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+      "option_c": "4 7 \\frac{4}{7} 7 4 ​",
+      "option_d": "7 4 \\frac{7}{4} 4 7 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "BCC 25",
+      "question": "a, b, c কে চলক ধরে প্রতিসম রাশি হলো— i. a + b + c ii. ab + bc + ca iii. 2 a 2 − 5 a b + c 2 2a^2 - 5ab + c^2 2 a 2 − 5 ab + c 2 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "BCC 25",
+      "question": "1 2 , 1 10 , 1 30 , … \\frac{1}{2}, \\frac{1}{10}, \\frac{1}{30}, \\dots 2 1 ​ , 10 1 ​ , 30 1 ​ , … অনুক্রমটির n-তম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 n 2 ( n + 1 ) \\frac{1}{n^2(n+1)} n 2 ( n + 1 ) 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 n ( n 2 + 1 ) \\frac{1}{n(n^2+1)} n ( n 2 + 1 ) 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 n 3 ( n + 1 ) \\frac{1}{n3(n+1)} n 3 ( n + 1 ) 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 n ( n 3 + 1 ) \\frac{1}{n(n³+1)} n ( n 3 + 1 ) 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 n 2 ( n + 1 ) \\frac{1}{n^2(n+1)} n 2 ( n + 1 ) 1 ​",
+      "option_b": "1 n ( n 2 + 1 ) \\frac{1}{n(n^2+1)} n ( n 2 + 1 ) 1 ​",
+      "option_c": "1 n 3 ( n + 1 ) \\frac{1}{n3(n+1)} n 3 ( n + 1 ) 1 ​",
+      "option_d": "1 n ( n 3 + 1 ) \\frac{1}{n(n³+1)} n ( n 3 + 1 ) 1 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "BCC 25",
+      "question": "রফিকের খুলনা হতে রাজশাহী বাসে যাওয়ার সম্ভাবনা 4 5 \\frac{4}{5} 5 4 ​ এবং রাজশাহী হতে রংপুর ট্রেনে যাওয়ার সম্ভাবনা 6 7 \\frac{6}{7} 7 6 ​ । রফিকের খুলনা হতে রাজশাহী বাসে কিন্তু রাজশাহী হতে রংপুর ট্রেনে না যাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "24 35 \\frac{24}{35} 35 24 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 35 \\frac{6}{35} 35 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 35 \\frac{4}{35} 35 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 35 \\frac{1}{35} 35 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "24 35 \\frac{24}{35} 35 24 ​",
+      "option_b": "6 35 \\frac{6}{35} 35 6 ​",
+      "option_c": "4 35 \\frac{4}{35} 35 4 ​",
+      "option_d": "1 35 \\frac{1}{35} 35 1 ​",
+      "correct": "গ",
+      "explanation": "রফিকের খুলনা হতে রাজশাহী বাসে কিন্তু রাজশাহী হতে রংপুর ট্রেনে না যাওয়ার সম্ভাবনা = 4 5 × ( 1 − 6 7 ) = 4 5 × 1 7 = 4 35 \\frac{4}{5} \\times \\left(1-\\frac{6}{7}\\right) = \\frac{4}{5} \\times \\frac{1}{7} = \\frac{4}{35} 5 4 ​ × ( 1 − 7 6 ​ ) = 5 4 ​ × 7 1 ​ = 35 4 ​"
+    },
+    {
+      "number": "7",
+      "tag": "BCC 25",
+      "question": "3 + 3 2 + 3 2 + 3 2 2 + … … +\\frac{3}{\\sqrt{2}}+\\frac{3}{2}+\\frac{3}{2 \\sqrt{2}}+\\ldots \\ldots + 2 ​ 3 ​ + 2 3 ​ + 2 2 ​ 3 ​ + …… একটি অসীম ধারা। ধারারটির অষ্টম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "24 2 24\\sqrt{2} 24 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "21 8 2 \\frac{21}{8\\sqrt{2}} 8 2 ​ 21 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 8 2 \\frac{3}{8\\sqrt{2}} 8 2 ​ 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 16 \\frac{3}{16} 16 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "24 2 24\\sqrt{2} 24 2 ​",
+      "option_b": "21 8 2 \\frac{21}{8\\sqrt{2}} 8 2 ​ 21 ​",
+      "option_c": "3 8 2 \\frac{3}{8\\sqrt{2}} 8 2 ​ 3 ​",
+      "option_d": "3 16 \\frac{3}{16} 16 3 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "BCC 25",
+      "question": "3 + 3 2 + 3 2 + 3 2 2 + … … +\\frac{3}{\\sqrt{2}}+\\frac{3}{2}+\\frac{3}{2 \\sqrt{2}}+\\ldots \\ldots + 2 ​ 3 ​ + 2 3 ​ + 2 2 ​ 3 ​ + …… একটি অসীম ধারা। ধারারটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 + 3 2 6 + 3\\sqrt{2} 6 + 3 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "7 7 7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 5 5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 − 3 2 6 - 3\\sqrt{2} 6 − 3 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 + 3 2 6 + 3\\sqrt{2} 6 + 3 2 ​",
+      "option_b": "7 7 7",
+      "option_c": "5 5 5",
+      "option_d": "6 − 3 2 6 - 3\\sqrt{2} 6 − 3 2 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "BCC 25",
+      "question": "cos ⁡ x + sin ⁡ x = 2 \\cos x + \\sin x = \\sqrt{2} cos x + sin x = 2 ​ হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_c": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_d": "কোনোটিই নয়",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "BCC 25",
+      "question": "cos ⁡ A = − 1 2 \\cos A = -\\frac{1}{\\sqrt{2}} cos A = − 2 ​ 1 ​ এবং π < A < 3 π 2 \\pi < A < \\frac{3\\pi}{2} π < A < 2 3 π ​ হলে- i. sin ⁡ A = − 1 2 \\sin A = -\\frac{1}{\\sqrt{2}} sin A = − 2 ​ 1 ​ ii. tan ⁡ A = cot ⁡ A \\tan A = \\cot A tan A = cot A iii. A = 5 π 4 A = \\frac{5\\pi}{4} A = 4 5 π ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "BCC 25",
+      "question": "sec ⁡ 2 ( − x 2 ) − tan ⁡ 2 ( x 2 ) \\sec^2\\left(-\\frac{x}{2}\\right) - \\tan^2\\left(\\frac{x}{2}\\right) sec 2 ( − 2 x ​ ) − tan 2 ( 2 x ​ ) কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 -1 − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 1 1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0 0 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "∞ \\infty ∞",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 1 -1 − 1",
+      "option_b": "1 1 1",
+      "option_c": "0 0 0",
+      "option_d": "∞ \\infty ∞",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "BCC 25",
+      "question": "( y y ) y = ( y y ) y (y^y)^{\\sqrt{y}} = (y\\sqrt{y})^y ( y y ) y ​ = ( y y ​ ) y হলে, y \\sqrt{y} y ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0 0 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 1 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0 0 0",
+      "option_b": "1 1 1",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "3 2 \\frac{3}{2} 2 3 ​",
+      "correct": "ঘ",
+      "explanation": "( y ) y = ( y ) y (y)^{\\sqrt{y}} = (\\sqrt{y})^{y} ( y ) y ​ = ( y ​ ) y বা, y y 1 / 2 = ( y 1 / 2 ) y y^{y^{1/2}} = (y^{1/2})^y y y 1/2 = ( y 1/2 ) y বা, y y / 2 = y 3 y / 2 y^{y/2} = y^{3y/2} y y /2 = y 3 y /2 বা, y 2 = 3 y 2 y^2 = \\frac{3y}{2} y 2 = 2 3 y ​ বা, y 2 − 1 = 3 2 y^{2-1} = \\frac{3}{2} y 2 − 1 = 2 3 ​ বা, y 1 = 3 2 ∴ y = 3 2 y^{1} = \\frac{3}{2} \\therefore \\sqrt{y} = \\frac{3}{2} y 1 = 2 3 ​ ∴ y ​ = 2 3 ​"
+    },
+    {
+      "number": "13",
+      "tag": "BCC 25",
+      "question": "log ⁡ 4 ( x + y ) = 2 = log ⁡ 2 ( x − y ) \\log_4(x+y) = 2 = \\log_2(x-y) lo g 4 ​ ( x + y ) = 2 = lo g 2 ​ ( x − y ) হলে, ( x , y ) (x, y) ( x , y ) = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(6, 2)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "(10, 6)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "(6, 10)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(20, 12)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(6, 2)",
+      "option_b": "(10, 6)",
+      "option_c": "(6, 10)",
+      "option_d": "(20, 12)",
+      "correct": "খ",
+      "explanation": "log ⁡ 4 ( x + y ) = 2 ∴ x + y = 4 2 = 16 … … ( i ) \\log_4(x+y) = 2 \\therefore x+y = 4^2 = 16 \\ldots \\ldots (i) lo g 4 ​ ( x + y ) = 2 ∴ x + y = 4 2 = 16 …… ( i ) log ⁡ 2 ( x − y ) = 2 ∴ x − y = 2 2 = 4 … … ( i i ) \\log_2(x-y) = 2 \\therefore x-y = 2^2 = 4 \\ldots \\ldots (ii) lo g 2 ​ ( x − y ) = 2 ∴ x − y = 2 2 = 4 …… ( ii ) (i) + (ii) হতে পাই, 2 x = 16 + 4 = 20 ∴ x = 10 2x = 16+4 = 20 \\therefore x = 10 2 x = 16 + 4 = 20 ∴ x = 10 (i) – (ii) হতে পাই, 2 y = 16 − 4 = 12 ∴ y = 6 2y = 16-4 = 12 \\therefore y = 6 2 y = 16 − 4 = 12 ∴ y = 6 ∴ ( x , y ) = ( 10 , 6 ) \\therefore (x, y) = (10, 6) ∴ ( x , y ) = ( 10 , 6 )"
+    },
+    {
+      "number": "14",
+      "tag": "BCC 25",
+      "question": "f ( x ) = ln ⁡ ( 1 − x 1 + x ) f(x) = \\ln \\left(\\frac{1-x}{1+x}\\right) f ( x ) = ln ( 1 + x 1 − x ​ ) এর বিপরীত ফাংশন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 + e x 1 − e x \\frac{1+e^x}{1-e^x} 1 − e x 1 + e x ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "e x 1 − e x \\frac{e^x}{1-e^x} 1 − e x e x ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 + e x 1 − e x \\frac{1+e^x}{1-e^x} 1 − e x 1 + e x ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 − e x 1 + e x \\frac{1-e^x}{1+e^x} 1 + e x 1 − e x ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 + e x 1 − e x \\frac{1+e^x}{1-e^x} 1 − e x 1 + e x ​",
+      "option_b": "e x 1 − e x \\frac{e^x}{1-e^x} 1 − e x e x ​",
+      "option_c": "1 + e x 1 − e x \\frac{1+e^x}{1-e^x} 1 − e x 1 + e x ​",
+      "option_d": "1 − e x 1 + e x \\frac{1-e^x}{1+e^x} 1 + e x 1 − e x ​",
+      "correct": "ঘ",
+      "explanation": "ধরি, y = f ( x ) = ln ⁡ ( 1 − x 1 + x ) y = f(x) = \\ln \\left(\\frac{1-x}{1+x}\\right) y = f ( x ) = ln ( 1 + x 1 − x ​ ) বা, e y = 1 − x 1 + x e^y = \\frac{1-x}{1+x} e y = 1 + x 1 − x ​ বা, 1 + x 1 − x = 1 e y \\frac{1+x}{1-x} = \\frac{1}{e^y} 1 − x 1 + x ​ = e y 1 ​ বা, 1 + x + 1 − x 1 + x − 1 + x = 1 + e y 1 − e y \\frac{1+x+1-x}{1+x-1+x} = \\frac{1+e^y}{1-e^y} 1 + x − 1 + x 1 + x + 1 − x ​ = 1 − e y 1 + e y ​ বা, 2 2 x = 1 + e y 1 − e y \\frac{2}{2x} = \\frac{1+e^y}{1-e^y} 2 x 2 ​ = 1 − e y 1 + e y ​ বা, x = 1 − e y 1 + e y x = \\frac{1-e^y}{1+e^y} x = 1 + e y 1 − e y ​ ∴ f − 1 ( y ) = 1 − e y 1 + e y \\therefore f^{-1}(y) = \\frac{1-e^y}{1+e^y} ∴ f − 1 ( y ) = 1 + e y 1 − e y ​ বিপরীত ফাংশন, f − 1 ( x ) = 1 − e x 1 + e x f^{-1}(x) = \\frac{1-e^x}{1+e^x} f − 1 ( x ) = 1 + e x 1 − e x ​"
+    },
+    {
+      "number": "15",
+      "tag": "BCC 25",
+      "question": "( 4 x 2 + 4 x + 1 ) n (4x^2 + 4x + 1)^n ( 4 x 2 + 4 x + 1 ) n বিস্তৃতিটির পদসংখ্যা 7 বিস্তৃতিটির চতুর্থ পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "160 x 3 160x^3 160 x 3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "160 x 2 160x^2 160 x 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 x 3 60x^3 60 x 3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60 x 2 60x^2 60 x 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "160 x 3 160x^3 160 x 3",
+      "option_b": "160 x 2 160x^2 160 x 2",
+      "option_c": "60 x 3 60x^3 60 x 3",
+      "option_d": "60 x 2 60x^2 60 x 2",
+      "correct": "ক",
+      "explanation": "( 4 x 2 + 4 x + 1 ) n = ( 2 x + 1 ) 2 n (4x^2+4x+1)^n = (2x+1)^{2n} ( 4 x 2 + 4 x + 1 ) n = ( 2 x + 1 ) 2 n শর্তমতে, 2 n + 1 = 7 ∴ n = 3 2n+1=7 \\therefore n=3 2 n + 1 = 7 ∴ n = 3 এখন, { ( 2 x + 1 ) 2 } 3 \\{(2x+1)^2\\}^3 {( 2 x + 1 ) 2 } 3 বা, ( 2 x + 1 ) 6 (2x+1)^6 ( 2 x + 1 ) 6 এর বিস্তৃতির চতুর্থ পদ বা, ( 3 + 1 ) (3+1) ( 3 + 1 ) তম পদ = 6 C 3 ( 2 x ) 3 = 20 × 2 3 × x 3 = 160 x 3 = ^6C_3 (2x)^3 = 20 \\times 2^3 \\times x^3 = 160x^3 = 6 C 3 ​ ( 2 x ) 3 = 20 × 2 3 × x 3 = 160 x 3"
+    },
+    {
+      "number": "16",
+      "tag": "BCC 25",
+      "question": "( 4 x 2 + 4 x + 1 ) n (4x^2 + 4x + 1)^n ( 4 x 2 + 4 x + 1 ) n বিস্তৃতিটির পদসংখ্যা 7 x x x এর ঘাতের ঊর্ধ্বক্রম অনুযায়ী বিস্তৃতিটির 2 2 2 য় পদ 72 72 72 হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 3 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 4 4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 5 5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 6 6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3 3 3",
+      "option_b": "4 4 4",
+      "option_c": "5 5 5",
+      "option_d": "6 6 6",
+      "correct": "ঘ",
+      "explanation": "x x x এর ঘাতের ঊর্ধ্বক্রমানুযায়ী দ্বিতীয় পদ = 6 C 1 ( 2 x ) = ^6C_1 (2x) = 6 C 1 ​ ( 2 x ) শর্তমতে, 6 C 1 ( 2 x ) = 72 ^6C_1 (2x) = 72 6 C 1 ​ ( 2 x ) = 72 বা, 12 x = 72 ∴ x = 6 12x = 72 \\therefore x=6 12 x = 72 ∴ x = 6"
+    },
+    {
+      "number": "17",
+      "tag": "BCC 25",
+      "question": "একটি ত্রিভুজের শীর্ষবিন্দুগুলোর স্থানাঙ্ক A ( − 1 , 2 ) , B ( 2 , 5 ) , C ( 1 , 3 ) A(-1, 2), B(2, 5), C(1, 3) A ( − 1 , 2 ) , B ( 2 , 5 ) , C ( 1 , 3 ) । ত্রিভুজটির ক্ষেত্রফল কত বর্গএকক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 3 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "25 25 25",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 2 \\frac{25}{2} 2 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 3 3",
+      "option_b": "25 25 25",
+      "option_c": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_d": "25 2 \\frac{25}{2} 2 25 ​",
+      "correct": "গ",
+      "explanation": "△ A B C \\triangle ABC △ A BC এর ক্ষেত্রফল = 1 2 ∣ − 1 1 2 − 1 2 3 5 2 ∣ = \\frac{1}{2} \\begin{vmatrix} -1 & 1 & 2 & -1 \\\\ 2 & 3 & 5 & 2 \\end{vmatrix} = 2 1 ​ ​ − 1 2 ​ 1 3 ​ 2 5 ​ − 1 2 ​ ​ বর্গএকক = 1 2 ∣ − 3 + 5 + 4 − 2 − 6 + 5 ∣ = 3 2 = \\frac{1}{2} |-3+5+4-2-6+5| = \\frac{3}{2} = 2 1 ​ ∣ − 3 + 5 + 4 − 2 − 6 + 5∣ = 2 3 ​ বর্গএকক"
+    },
+    {
+      "number": "18",
+      "tag": "BCC 25",
+      "question": "P ( − 3 , 2 ) P(-3, 2) P ( − 3 , 2 ) এবং Q ( 3 , − 2 ) Q(3, -2) Q ( 3 , − 2 ) দুটি বিন্দুর স্থানাঙ্ক হলে- i. P Q PQ PQ এর দৈর্ঘ্য 2 13 2\\sqrt{13} 2 13 ​ একক ii. P Q PQ PQ রেখা x x x -অক্ষের ধনাত্মক দিকের সাথে স্থূলকোণ উৎপন্ন করে iii. P Q PQ PQ এর ঢাল 2 3 \\frac{2}{3} 3 2 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "BCC 25",
+      "question": "3 x + 4 y − 12 = 0 3x + 4y - 12 = 0 3 x + 4 y − 12 = 0 রেখাটি x ও y অক্ষকে যথাক্রমে P ও Q বিন্দুতে ছেদ করে। রেখাটির ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 4 3 -\\frac{4}{3} − 3 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 3 4 -\\frac{3}{4} − 4 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 3 \\frac{4}{3} 3 4 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 4 3 -\\frac{4}{3} − 3 4 ​",
+      "option_b": "− 3 4 -\\frac{3}{4} − 4 3 ​",
+      "option_c": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_d": "4 3 \\frac{4}{3} 3 4 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "BCC 25",
+      "question": "3 x + 4 y − 12 = 0 3x + 4y - 12 = 0 3 x + 4 y − 12 = 0 রেখাটি x ও y অক্ষকে যথাক্রমে P ও Q বিন্দুতে ছেদ করে। POQ ত্রিভুজের ক্ষেত্রফল কত বর্গএকক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "12",
+      "option_b": "9",
+      "option_c": "8",
+      "option_d": "6",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "BCC 25",
+      "question": "A B ⃗ \\vec{AB} A B ভেক্টরের C বিন্দুতে 3 : 2 3 : 2 3 : 2 অনুপাতে অন্তর্বিভক্ত হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 c ⃗ = 3 a ⃗ + 2 b ⃗ 5\\vec{c} = 3\\vec{a} + 2\\vec{b} 5 c = 3 a + 2 b",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 c ⃗ = 2 a ⃗ + 3 b ⃗ 5\\vec{c} = 2\\vec{a} + 3\\vec{b} 5 c = 2 a + 3 b",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "c ⃗ = 3 a ⃗ + 2 b ⃗ \\vec{c} = 3\\vec{a} + 2\\vec{b} c = 3 a + 2 b",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "c ⃗ = 2 a ⃗ − 3 b ⃗ \\vec{c} = 2\\vec{a} - 3\\vec{b} c = 2 a − 3 b",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 c ⃗ = 3 a ⃗ + 2 b ⃗ 5\\vec{c} = 3\\vec{a} + 2\\vec{b} 5 c = 3 a + 2 b",
+      "option_b": "5 c ⃗ = 2 a ⃗ + 3 b ⃗ 5\\vec{c} = 2\\vec{a} + 3\\vec{b} 5 c = 2 a + 3 b",
+      "option_c": "c ⃗ = 3 a ⃗ + 2 b ⃗ \\vec{c} = 3\\vec{a} + 2\\vec{b} c = 3 a + 2 b",
+      "option_d": "c ⃗ = 2 a ⃗ − 3 b ⃗ \\vec{c} = 2\\vec{a} - 3\\vec{b} c = 2 a − 3 b",
+      "correct": "খ",
+      "explanation": "A B ⃗ \\vec{AB} A B ভেক্টর C C C বিন্দুতে 3 : 2 3:2 3 : 2 অনুপাতে অন্তর্বিভক্ত হলে, c ⃗ = 3 b ⃗ + 2 a ⃗ 2 + 3 ∴ 5 c ⃗ = 2 a ⃗ + 3 b ⃗ \\vec{c} = \\frac{3\\vec{b}+2\\vec{a}}{2+3} \\therefore 5\\vec{c} = 2\\vec{a}+3\\vec{b} c = 2 + 3 3 b + 2 a ​ ∴ 5 c = 2 a + 3 b"
+    },
+    {
+      "number": "22",
+      "tag": "BCC 25",
+      "question": "নিচের তথ্যগুলো লক্ষ্য কর- i. A B ⃗ \\vec{AB} A B ভেক্টরের মান A B AB A B এবং দিক হলো A A A হতে B B B ii. A B ⃗ \\vec{AB} A B এবং B A ⃗ \\vec{BA} B A পরস্পর সমান ভেক্টর iii. A B ⃗ ∣ A B ⃗ ∣ \\frac{\\vec{AB}}{|\\vec{AB}|} ∣ A B ∣ A B ​ একটি একক ভেক্টর নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "BCC 25",
+      "question": "এখানে, OB || DC ও M, OB এর মধ্যবিন্দু এবং DC = OM A B ⃗ = \\vec{AB} = A B = নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a ⃗ − b ⃗ \\vec{a} - \\vec{b} a − b",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a ⃗ − 2 b ⃗ \\vec{a} - 2\\vec{b} a − 2 b",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 a ⃗ − b ⃗ 2\\vec{a} - \\vec{b} 2 a − b",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2 b ⃗ − a ⃗ 2\\vec{b} - \\vec{a} 2 b − a",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a ⃗ − b ⃗ \\vec{a} - \\vec{b} a − b",
+      "option_b": "a ⃗ − 2 b ⃗ \\vec{a} - 2\\vec{b} a − 2 b",
+      "option_c": "2 a ⃗ − b ⃗ 2\\vec{a} - \\vec{b} 2 a − b",
+      "option_d": "2 b ⃗ − a ⃗ 2\\vec{b} - \\vec{a} 2 b − a",
+      "correct": "গ",
+      "explanation": "O B ∥ D C OB \\parallel DC OB ∥ D C এবং O M = D C OM = DC OM = D C হওয়ায় O M ⃗ = a ⃗ \\vec{OM} = \\vec{a} OM = a আবার, M , O B M, OB M , OB এর মধ্যবিন্দু হলে, O B ⃗ = 2 a ⃗ \\vec{OB} = 2\\vec{a} OB = 2 a △ O A B \\triangle OAB △ O A B হতে, O A ⃗ + A B ⃗ = O B ⃗ \\vec{OA} + \\vec{AB} = \\vec{OB} O A + A B = OB বা, A B ⃗ = O B ⃗ − O A ⃗ = 2 a ⃗ − b ⃗ \\vec{AB} = \\vec{OB} - \\vec{OA} = 2\\vec{a}-\\vec{b} A B = OB − O A = 2 a − b"
+    },
+    {
+      "number": "24",
+      "tag": "BCC 25",
+      "question": "এখানে, OB || DC ও M, OB এর মধ্যবিন্দু এবং DC = OM B C ⃗ = \\vec{BC} = BC = নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "c ⃗ + a ⃗ \\vec{c} + \\vec{a} c + a",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "c ⃗ − a ⃗ \\vec{c} - \\vec{a} c − a",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "− 2 a ⃗ − b ⃗ -2\\vec{a} - \\vec{b} − 2 a − b",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 2 a ⃗ + b ⃗ -2\\vec{a} + \\vec{b} − 2 a + b",
+          "is_correct": false
+        }
+      ],
+      "option_a": "c ⃗ + a ⃗ \\vec{c} + \\vec{a} c + a",
+      "option_b": "c ⃗ − a ⃗ \\vec{c} - \\vec{a} c − a",
+      "option_c": "− 2 a ⃗ − b ⃗ -2\\vec{a} - \\vec{b} − 2 a − b",
+      "option_d": "− 2 a ⃗ + b ⃗ -2\\vec{a} + \\vec{b} − 2 a + b",
+      "correct": "খ",
+      "explanation": "△ B O C \\triangle BOC △ BOC হতে, O C ⃗ + C B ⃗ = O B ⃗ \\vec{OC} + \\vec{CB} = \\vec{OB} OC + CB = OB বা, C B ⃗ = O B ⃗ − O C ⃗ \\vec{CB} = \\vec{OB} - \\vec{OC} CB = OB − OC বা, B C ⃗ = O C ⃗ − O B ⃗ = O D ⃗ + D C ⃗ − O B ⃗ = c ⃗ + a ⃗ − 2 a ⃗ = c ⃗ − a ⃗ \\vec{BC} = \\vec{OC} - \\vec{OB} = \\vec{OD} + \\vec{DC} - \\vec{OB} = \\vec{c} + \\vec{a} - 2\\vec{a} = \\vec{c}-\\vec{a} BC = OC − OB = O D + D C − OB = c + a − 2 a = c − a"
+    },
+    {
+      "number": "25",
+      "tag": "BCC 25",
+      "question": "একটি নিরপেক্ষ মুদ্রা নিক্ষেপ করার ঘটনা হলো— i. দৈব ঘটনা ii. সমসম্ভাব্য ঘটনা iii. নিশ্চিত ঘটনা নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

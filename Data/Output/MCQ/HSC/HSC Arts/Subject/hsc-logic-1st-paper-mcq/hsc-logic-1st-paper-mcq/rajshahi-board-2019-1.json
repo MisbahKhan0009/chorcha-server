@@ -1,0 +1,997 @@
+{
+  "read_id": "rajshahi-board-2019-1",
+  "title": "রাজশাহী বোর্ড ২০১৯",
+  "count": 30,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DB 24,MB 24,RB 24,DIN.B 24,JB 24,BB 24,SB 24,DB 23,RB 23,CTG.B 23,JB 23,SB 23,DB 22,RB 22,JB 22,DIN.B 22,BB 22,CB 22,SB 22,DB 22,MB 21,BB 21,DIN.B 21,RB 19,CTG.B 19,JB 19,BB 19,DIN.B 19,CB 19,SB 19,DB 24,DCC 24,NDCD 24,HC 24,ISCM 24,BAFSC 24,BMARPC 24,BNMPC 24,VNSC 23,BAFSC 23,AKMCCN 23,ISCD 23,ISCM 23,MGMC 23,NDCM 23,CGC 23,BCPC 23,MGMC 23,CCJ 23,CGCC 23,PLSCR 23,TGWC 23,BGC 23",
+      "question": "গুণ অনুসা। যুক্তিবাক্য কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "ক",
+      "explanation": "গুণ অনুসারে যুক্তিবাক্য ২ প্রকার।"
+    },
+    {
+      "number": "2",
+      "tag": "DB 24,SB 24,MB 23,RB 23,BB 23,CB 23,JB 23,DIN.B 22,MB 21,RB 21,BB 21,DIN.B 21,CB 21,SB 21,RB 19,JB 19,DIN.B 19,CB 19,DB 24,ISCD 24,BAFSC 24,BMARPC 24,NDCD 23,DC 23,HC 23,BAFSC 23,ISCD 23,GCPC 23,NDCM 23,CGC 23,BCPC 23,MGMC 23,CGCC 23,PLSCR 23",
+      "question": "যুক্তিবিদ্যার মূল আলোচ্য বিষয় কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সৌন্দর্য",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অনুমান",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "আচরণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চিন্তা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সৌন্দর্য",
+      "option_b": "অনুমান",
+      "option_c": "আচরণ",
+      "option_d": "চিন্তা",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "SB 21,DB 19,RB 19",
+      "question": "উদ্দীপকটি কোন স্থানকে নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রথম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তৃতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "প্রথম",
+      "option_b": "দ্বিতীয়",
+      "option_c": "তৃতীয়",
+      "option_d": "চতুর্থ",
+      "correct": "ঘ",
+      "explanation": "উপরিভাগে লেখা আছে: P — M এরপর: M — P তারপর নিচে: ∴ S — P এটি একটি যুক্তি গঠনের ক্রম নির্দেশ করছে। এখানে: 1. P — M → একটি উপপাদ্য 2. M — P → দ্বিতীয় উপপাদ্য 3. S — P → সিদ্ধান্ত তবে লক্ষ্য করুন: এখানে S — P সিদ্ধান্তে \"S\" হঠাৎ এসেছে, যা আগের কোথাও নেই। এটি একটি চতুর্থ পদ (Fourth term fallacy)। কারণ, সিলোজিজমে মোট ৩টি পদ থাকা উচিত (Major, Minor, Middle)। কিন্তু এখানে চতুর্থ পদ S যুক্ত হওয়ায় এটি একটি অযুক্তিক (Invalid) যুক্তি। ---"
+    },
+    {
+      "number": "4",
+      "tag": "SB 21,RB 19",
+      "question": "উদ্দপকের সংস্থানে কয়টি বৈধ মূর্তি আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তিনটি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "চারটি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "পাঁচটি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ছয়টি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "তিনটি",
+      "option_b": "চারটি",
+      "option_c": "পাঁচটি",
+      "option_d": "ছয়টি",
+      "correct": "খ",
+      "explanation": "ধ্রুপদি যুক্তিতে (classical syllogism) \"মূর্তি\" (figure) বলতে বোঝায় — একটি যুক্তির মধ্যে মধ্য পদ (Middle Term) কোথায় অবস্থান করছে, তার ভিত্তিতে যুক্তির গঠন বা \"সংস্থান\"। একটি সিলোজিস্টিক যুক্তির তিনটি ধাপ থাকে: Major Premise (বড় উপপাদ্য) Minor Premise (ছোট উপপাদ্য) Conclusion (উপসংহার) প্রতিটি উপপাদ্যে দুটি পদ থাকে: বিষয় (Subject) ও বিধেয় (Predicate)। মধ্য পদ (M) দুটো উপপাদ্যের মধ্যে থাকে কিন্তু উপসংহারে থাকে না। এখন দেখা যাক ৪টি মূর্তি কীভাবে গঠিত হয়: ১ম মূর্তি (Figure 1): বড় উপপাদ্য: M – P ছোট উপপাদ্য: S – M উপসংহার: S – P ২য় মূর্তি (Figure 2): বড় উপপাদ্য: P – M ছোট উপপাদ্য: S – M উপসংহার: S – P ৩য় মূর্তি (Figure 3): বড় উপপাদ্য: M – P ছোট উপপাদ্য: M – S উপসংহার: S – P ৪র্থ মূর্তি (Figure 4): বড় উপপাদ্য: P – M ছোট উপপাদ্য: M – S উপসংহার: S – P এই চারটি মূর্তি ব্যাকরণগতভাবে বৈধ এবং প্রতিটিতে কিছু নির্দিষ্ট যুক্তির \"mood\" বসালে যুক্তিটি \"যুক্তিসম্মত\" বা \"valid\" হয়। সুতরাং, যুক্তির গঠন অনুসারে ধ্রুপদি যুক্তিতে সর্বোচ্চ ৪টি বৈধ মূর্তি রয়েছে। উত্তর: খ — চারটি।"
+    },
+    {
+      "number": "5",
+      "tag": "RB 19",
+      "question": "সৌন্দর্যানুভূতি কোন বিদ্যার অন্তর্ভুক্ত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নন্দনতত্ত্ব",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "শিক্ষাবিজ্ঞান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "গণিত",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "নীতিবিদ্যা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নন্দনতত্ত্ব",
+      "option_b": "শিক্ষাবিজ্ঞান",
+      "option_c": "গণিত",
+      "option_d": "নীতিবিদ্যা",
+      "correct": "ক",
+      "explanation": "সৌন্দর্যানুভূতি নন্দনতত্ত্ব বিদ্যার অন্তর্ভুক্ত।"
+    },
+    {
+      "number": "6",
+      "tag": "RB 19,DB 24,PLSCR 23",
+      "question": "`I' যুক্তিবাক্য কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সকল ছাত্র হয় মেধাবী",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কোন ছাত্র নয় মেধাবী",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কিছু ছাত্র হয় মেধাবী",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "কিছু ছাত্র নয় মেধাবী",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সকল ছাত্র হয় মেধাবী",
+      "option_b": "কোন ছাত্র নয় মেধাবী",
+      "option_c": "কিছু ছাত্র হয় মেধাবী",
+      "option_d": "কিছু ছাত্র নয় মেধাবী",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "JB 22,RB 19",
+      "question": "নিচের কোনটি পদযোগ্য শব্দ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সারাপ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আহ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কলম",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "বইটি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সারাপ",
+      "option_b": "আহ",
+      "option_c": "কলম",
+      "option_d": "বইটি",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "DB 23",
+      "question": "যুক্তিবিদ্যার জনক কে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "এরিস্টটল",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "যোসেফ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মিল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কপি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "এরিস্টটল",
+      "option_b": "যোসেফ",
+      "option_c": "মিল",
+      "option_d": "কপি",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "RB 19",
+      "question": "`Ethics' শব্দের অর্থ কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "দর্শন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নীতবিদ্যা",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "নন্দনতত্ত্ব",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "যুক্তিবিদ্যা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "দর্শন",
+      "option_b": "নীতবিদ্যা",
+      "option_c": "নন্দনতত্ত্ব",
+      "option_d": "যুক্তিবিদ্যা",
+      "correct": "খ",
+      "explanation": "নীতবিদ্যা"
+    },
+    {
+      "number": "10",
+      "tag": "RB 19,DB 24,ISCM 24",
+      "question": "শিক্ষক, পিতা, প্রজা শব্দগুলো কোন ধরনের পদ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নিরপেক্ষ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সাপেক্ষ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "নির্দিষ্ট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনির্দিষ্ট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নিরপেক্ষ",
+      "option_b": "সাপেক্ষ",
+      "option_c": "নির্দিষ্ট",
+      "option_d": "অনির্দিষ্ট",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "RB 19,CGC 23",
+      "question": "ব্যক্তিগত বিচ্ছেদ্য অবান্তর লক্ষণ হচ্ছে-- i. বাসস্থান ii. পোশাক iii. কাকের কালে রং নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "RB 19",
+      "question": "চিত্র-১ চিত্র-২ দ্রষ্টব্য: উদ্দেশ্য পদ = প, বিধেয় পদ = ফ উদ্দীপকে চিত্র-১ কোন যুক্তি বা কোন পদের ব্যাপ্যতা নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "E",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "I",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "O",
+          "is_correct": true
+        }
+      ],
+      "option_a": "A",
+      "option_b": "E",
+      "option_c": "I",
+      "option_d": "O",
+      "correct": "ঘ",
+      "explanation": "চিত্র-১-এ দেখা যাচ্ছে যে, 'প' সম্পূর্ণভাবে 'ফ'-এর অন্তর্ভুক্ত। এটি যুক্তিবিদ্যায় একটি সার্বিক সদর্থক (A-type) বচনকে নির্দেশ করে। অর্থাৎ, \"সকল প হয় ফ\"। এখন, যদি প্রশ্নটি 'চিত্র-১' দ্বারা নির্দেশিত বচনের (A-type) বিরুদ্ধ বচন জানতে চায়, তাহলে সেই বচনটি হবে বিশেষ নঞর্থক (O-type) বচন। বিরুদ্ধ বচন (Contradictory Proposition) হলো এমন দুটি বচন, যাদের একটি সত্য হলে অন্যটি মিথ্যা হয় এবং একটি মিথ্যা হলে অন্যটি সত্য হয়। সার্বিক সদর্থক (A) বচনের বিরুদ্ধ বচন হলো বিশেষ নঞর্থক (O) বচন। একটি বিশেষ নঞর্থক (O-type) বচনের রূপ হলো \"কোনো কোনো উদ্দেশ্য পদ নয় বিধেয় পদ\" (Some S are not P)। এই বচনে: উদ্দেশ্য পদ (Subject) অব্যাপ্য (Undistributed) থাকে। বিধেয় পদ (Predicate) ব্যাপ্য (Distributed) থাকে।"
+    },
+    {
+      "number": "13",
+      "tag": "RB 19",
+      "question": "চিত্র-১ চিত্র-২ দ্রষ্টব্য: উদ্দেশ্য পদ = প, বিধেয় পদ = ফ উদ্দীপকের চিত্র-১ ও চিত্র-২ এ নির্দেশিত যুক্তিবাক্য দুটির মধ্যে সাদৃশ হচ্ছে--",
+      "options": [
+        {
+          "label": "ক",
+          "text": "গুনের",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "পরিমাপের",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "শব্দের",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "গুণ ও পরিমানের",
+          "is_correct": false
+        }
+      ],
+      "option_a": "গুনের",
+      "option_b": "পরিমাপের",
+      "option_c": "শব্দের",
+      "option_d": "গুণ ও পরিমানের",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "DB 24,MB 24,CB 24,CTG.B 24,JB 24,BB 24,SB 24,MB 23,DIN.B 23,BB 23,CTG.B 23,CB 23,JB 23,SB 23,DB 22,MB 22,RB 22,DIN.B 22,CTG.B 22,CB 22,SB 22,MB 21,JB 21,BB 21,DIN.B 21,CB 21,SB 21,DB 19,RB 19,CTG.B 19,JB 19,BB 19,CB 19,DB 24,DRMC 24,ISCD 24,BAFSC 24,BMARPC 24,NDCD 23,DC 23,DRMC 23,VNSC 23,BMARPC 23,DIC 23,BAFSC 23,AKMCCN 23,ISCD 23,ISCM 23,GCPC 23,NDCM 23,CGC 23,BCPC 23,PLSCR 23,BGC 23",
+      "question": "E বাক্যকে আবর্তন করলে কোনটি পাওয়া যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "E",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "I",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "O",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A",
+      "option_b": "E",
+      "option_c": "I",
+      "option_d": "O",
+      "correct": "খ",
+      "explanation": "E-বাক্যকে আবর্তন (Conversion) করলে E-বাক্যই পাওয়া যায়। 1. E-বাক্যের গঠন : - E-বাক্য হলো সর্বব্যাপী নঞর্থক (Universal Negative), যার সাধারণ রূপ: - \"কোন S নয় P\" (উদাহরণ: \"কোন পাখি স্তন্যপায়ী নয়\")। 2. E-বাক্যের আবর্তন : - আবর্তনের সময় বাক্যের Subject (S) ও Predicate (P)-এর স্থান বিনিময় করা হয়। - E-বাক্য আবর্তনের নিয়ম: - মূল বাক্য: কোন S নয় P → আবর্তিত বাক্য: কোন P নয় S । - উদাহরণ: - মূল: \"কোন পাখি (S) স্তন্যপায়ী (P) নয়\" - আবর্তিত: \"কোন স্তন্যপায়ী (P) পাখি (S) নয়\"। 3. যুক্তিগত বৈধতা : - E-বাক্য আবর্তনের পরও E-বাক্য থাকে (সর্বব্যাপী নঞর্থক), অর্থাৎ E → E । - এটি সিদ্ধ (Valid) আবর্তন, কারণ উভয় বাক্যের অর্থ ও যৌক্তিকতা অপরিবর্তিত থাকে।"
+    },
+    {
+      "number": "15",
+      "tag": "BB 24,RB 19",
+      "question": "সমষ্টিবাচক পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পাঠাগার",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সভ্যতা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মানুষ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "শিক্ষক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "পাঠাগার",
+      "option_b": "সভ্যতা",
+      "option_c": "মানুষ",
+      "option_d": "শিক্ষক",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "SB 21,RB 19",
+      "question": "উদ্দপকের সংস্থানে কয়টি বৈধ মূর্তি আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তিনটি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "চারটি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "পাঁচটি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ছয়টি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "তিনটি",
+      "option_b": "চারটি",
+      "option_c": "পাঁচটি",
+      "option_d": "ছয়টি",
+      "correct": "খ",
+      "explanation": "ধ্রুপদি যুক্তিতে (classical syllogism) \"মূর্তি\" (figure) বলতে বোঝায় — একটি যুক্তির মধ্যে মধ্য পদ (Middle Term) কোথায় অবস্থান করছে, তার ভিত্তিতে যুক্তির গঠন বা \"সংস্থান\"। একটি সিলোজিস্টিক যুক্তির তিনটি ধাপ থাকে: Major Premise (বড় উপপাদ্য) Minor Premise (ছোট উপপাদ্য) Conclusion (উপসংহার) প্রতিটি উপপাদ্যে দুটি পদ থাকে: বিষয় (Subject) ও বিধেয় (Predicate)। মধ্য পদ (M) দুটো উপপাদ্যের মধ্যে থাকে কিন্তু উপসংহারে থাকে না। এখন দেখা যাক ৪টি মূর্তি কীভাবে গঠিত হয়: ১ম মূর্তি (Figure 1): বড় উপপাদ্য: M – P ছোট উপপাদ্য: S – M উপসংহার: S – P ২য় মূর্তি (Figure 2): বড় উপপাদ্য: P – M ছোট উপপাদ্য: S – M উপসংহার: S – P ৩য় মূর্তি (Figure 3): বড় উপপাদ্য: M – P ছোট উপপাদ্য: M – S উপসংহার: S – P ৪র্থ মূর্তি (Figure 4): বড় উপপাদ্য: P – M ছোট উপপাদ্য: M – S উপসংহার: S – P এই চারটি মূর্তি ব্যাকরণগতভাবে বৈধ এবং প্রতিটিতে কিছু নির্দিষ্ট যুক্তির \"mood\" বসালে যুক্তিটি \"যুক্তিসম্মত\" বা \"valid\" হয়। সুতরাং, যুক্তির গঠন অনুসারে ধ্রুপদি যুক্তিতে সর্বোচ্চ ৪টি বৈধ মূর্তি রয়েছে। উত্তর: খ — চারটি।"
+    },
+    {
+      "number": "17",
+      "tag": "RB 19,CGC 23",
+      "question": "ব্যক্তিগত বিচ্ছেদ্য অবান্তর লক্ষণ হচ্ছে-- i. বাসস্থান ii. পোশাক iii. কাকের কালে রং নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "অবরোহ অনুমান সাধারণত দুই প্রকার।"
+    },
+    {
+      "number": "18",
+      "tag": "CTG.C 24,MB 23,RB 23,CTG.B 23,BB 23,CB 23,DC 23,ISCD 23,DRMC 23,CCPC 23,MB 22,RB 22,CTG.B 22,JB 22,CB 22,RB 21,BB 21,DIN.B 21,CB 21,DIN.B 19,CB 19",
+      "question": "নিচের কোনটিকে আরোহের প্রাণ বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কার্যকারণ নিয়ম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আরোহাত্মক উল্লম্ফন",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "প্রকৃতির নিয়মানুবর্তিতা নীতি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আরোহের কূটাভাস",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কার্যকারণ নিয়ম",
+      "option_b": "আরোহাত্মক উল্লম্ফন",
+      "option_c": "প্রকৃতির নিয়মানুবর্তিতা নীতি",
+      "option_d": "আরোহের কূটাভাস",
+      "correct": "খ",
+      "explanation": "খ: আরোহাত্মক উল্লম্ফন আরোহ যুক্তিতে জানা বা জ্ঞাত বিষয় থেকে অজানা বা অজ্ঞাত বিষয়ে, অর্থাৎ বিশেষ দৃষ্টান্ত থেকে সামান্য বা সার্বিক সিদ্ধান্তে উপনীত হওয়া হয়। এই জ্ঞাত থেকে অজ্ঞাতে বা বিশেষ থেকে সামান্যতে যাওয়ার প্রক্রিয়াকেই 'আরোহাত্মক উল্লম্ফন' বলা হয়। এটি আরোহ যুক্তির একটি অপরিহার্য ও মৌলিক বৈশিষ্ট্য, যা একে অবরোহ যুক্তি থেকে পৃথক করে। এই উল্লম্ফন না থাকলে আরোহ যুক্তি তার নিজস্বতা হারায়, তাই একে আরোহের প্রাণ বলা হয়।"
+    },
+    {
+      "number": "19",
+      "tag": "RB 19",
+      "question": "অবরোহ অনুমান প্রদানত কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": true
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "DB 24,RB 24,CB 24,BB 24,SB 24,BB 23,JB 23,DB 22,RB 22,JB 22,DIN.B 22,BB 22,CB 22,DB 22,JB 21,BB 21,CTG.B 21,DIN.B 21,SB 21,RB 19,ISCM 24,ISCD 24,BAFSC 24,DC 23,BMARPC 23,BAFSC 23,ISCD 23,ISCM 23,NDCM 23,CGC 23,BCPC 23,CGCC 23,TGWC 23,BGC 23",
+      "question": "সহানুমানে প্রধান পদের অবস্থান কোথায়? i. প্রধান আশ্রয়বাক্যে ii. অপ্রধান আশ্রয়বাক্যে iii. সিদ্ধান্তের বিধেয়ে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "iও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "iও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "RB 19",
+      "question": "পরীক্ষণ প্রক্রিয়া হলো-- i. জটিল ii. ব্যয়বহুল iii. সময় সাপেক্ষ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "MB 24,RB 24,JB 24,BB 24,DIN.B 23,JB 22,DIN.B 22,SB 22,MB 21,JB 21,RB 19,DIN.B 19,DB 24,DCC 24,BAFSC 24,BMARPC 24,VNSC 23,BAFSC 23,MGMC 23,CGCC 23",
+      "question": "আবর্তন কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "RB 19,DB 24",
+      "question": "সজল ও মাসুদ দুই সহকর্মীর শতকালীন ছুটির পর প্রথম দেখা। সজল মনে মনে চিন্তা করেছিল মাসুদকে বলবে বাংলাদেশ ক্রিকেটদল ওয়েস্ট ইন্ডিজকে হোয়াইট ওয়াশ করতে পারে নাই। কিন্তু তার পূর্বেই মাসুদ বলে ফেলে বাংলাদেশ ক্রিকেট দল হয় তারা যারা ওয়েস্ট ইন্ডিজকে হোয়াইট ওয়াশ করতে পারে নাই। উদ্দীপকে সজলের চিন্তা কোন বিষেয়ের সাথে সম্পর্কিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "যু্ক্তিবাক্য",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অবধারণ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "পদ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনুমান",
+          "is_correct": false
+        }
+      ],
+      "option_a": "যু্ক্তিবাক্য",
+      "option_b": "অবধারণ",
+      "option_c": "পদ",
+      "option_d": "অনুমান",
+      "correct": "খ",
+      "explanation": "যদি A, B এর কারণ হয়, তাহলে A-কে কারণ এবং B-কে কার্য হিসেবে দেখানো হয়। একইভাবে, যদি A ঘটলে B ঘটে, তাহলে A হলো পূর্বপদ এবং B হলো উত্তরপদ। এই ধরনের শর্তাধীন বাক্যকে প্রতীকী যুক্তিবিদ্যায় p ⊃ q অথবা p → q দিয়ে প্রকাশ করা হয়। দেওয়া বাক্য, “যদি তুমি বুদ্ধিমান হও তবে তুমি উন্নতি করবে”, একটি শর্তাধীন বাক্য। এখানে “তুমি বুদ্ধিমান হও” হলো পূর্বপদ (p), এবং “তুমি উন্নতি করবে” হলো উত্তরপদ (q)। সুতরাং, এই বাক্যটির প্রতীকী রূপ হলো p ⊃ q (অথবা p → q)। বিকল্পগুলোর মধ্যে ‘p ⸧ q’ এই প্রতীকটিকে বোঝায়, যা শর্তাধীন বাক্যের সঠিক প্রতীকী রূপ।"
+    },
+    {
+      "number": "24",
+      "tag": "RB 19,DB 24",
+      "question": "সজল ও মাসুদ দুই সহকর্মীর শতকালীন ছুটির পর প্রথম দেখা। সজল মনে মনে চিন্তা করেছিল মাসুদকে বলবে বাংলাদেশ ক্রিকেটদল ওয়েস্ট ইন্ডিজকে হোয়াইট ওয়াশ করতে পারে নাই। কিন্তু তার পূর্বেই মাসুদ বলে ফেলে বাংলাদেশ ক্রিকেট দল হয় তারা যারা ওয়েস্ট ইন্ডিজকে হোয়াইট ওয়াশ করতে পারে নাই। উদ্দীপকে সজলের চিন্তা কোন বিষেয়ের সাথে সম্পর্কিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "যু্ক্তিবাক্য",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অবধারণ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "পদ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনুমান",
+          "is_correct": false
+        }
+      ],
+      "option_a": "যু্ক্তিবাক্য",
+      "option_b": "অবধারণ",
+      "option_c": "পদ",
+      "option_d": "অনুমান",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "RB 22,RB 19,BMARPC 23,NDCM 23",
+      "question": "সংযোজক সর্বদা কোন কালের হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বর্তমান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অতীত",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ভবিষ্যৎ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অদূর ভবিষ্যৎ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বর্তমান",
+      "option_b": "অতীত",
+      "option_c": "ভবিষ্যৎ",
+      "option_d": "অদূর ভবিষ্যৎ",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "26",
+      "tag": "RB 19",
+      "question": "‘যদি তুমি বুদ্ধিমান হও তবে তুমি উন্নতি করবে’ -- বাক্যটির প্রতীকী রূপ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "p . q",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "p ⸧ q",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "p v q",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "p ° q",
+          "is_correct": false
+        }
+      ],
+      "option_a": "p . q",
+      "option_b": "p ⸧ q",
+      "option_c": "p v q",
+      "option_d": "p ° q",
+      "correct": "ক",
+      "explanation": "সঠিক উত্তর হলো i ও iii । উদ্দীপকের 'C' চিহ্নটি চলন্ত ট্রেন থেকে গাছপালাকে বিপরীত দিকে ছুটতে দেখা ভুলটিকে নির্দেশ করে। এটি একটি সর্বজনীন ভুল, কারণ এই পরিস্থিতিতে সকল মানুষই গাছপালাকে বিপরীত দিকে ছুটতে দেখে। এটি জীববৃত্তীয় ভুলও, কারণ এটি আমাদের ইন্দ্রিয়গত অনুভূতির সাথে সম্পর্কিত। অন্যদিকে, ব্যক্তিগত ভুল বলতে বোঝায় এমন ভুল যা কেবল একজন ব্যক্তির ক্ষেত্রে ঘটে। এই ভুলটি ব্যক্তিগত নয়, কারণ এটি সকলের ক্ষেত্রেই ঘটে।"
+    },
+    {
+      "number": "27",
+      "tag": "DIN.B 24,SB 24,DB 23,DIN.B 23,SB 23,BB 22,JB 21,DIN.B 21,CB 21,DB 19,RB 19,All.B 18,DCC 24,ISCM 24,BMARPC 23,ISCD 23,MGMC 23,AHC 23",
+      "question": "আবর্তনের সিদ্ধান্তকে বলা হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আবর্তনীয়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আবর্তিত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আবর্তিত",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "অন্তরাবর্তন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "আবর্তনীয়",
+      "option_b": "আবর্তিত",
+      "option_c": "আবর্তিত",
+      "option_d": "অন্তরাবর্তন",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "28",
+      "tag": "RB 19",
+      "question": "উদ্দীপকের ছকে 'A' চিহ্নিত স্থানে কী বসবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অনিরীক্ষণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ভ্রান্ত-নিরীক্ষণ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "কাকতালীয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অব্যাপ্য মধ্যপদ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অনিরীক্ষণ",
+      "option_b": "ভ্রান্ত-নিরীক্ষণ",
+      "option_c": "কাকতালীয়",
+      "option_d": "অব্যাপ্য মধ্যপদ",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "29",
+      "tag": "RB 19",
+      "question": "উদ্দীপকের 'C' চিহ্নটি যে ভুলকে নির্দেশ কর তা-- i. সর্বজনীন ii. ব্যক্তিগত iii. জীববৃত্তীয় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "30",
+      "tag": "RB 19",
+      "question": "উপরের সারণিতে খালিঘরে কোনটি বসবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "T",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "~ T",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "F",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "~ F",
+          "is_correct": false
+        }
+      ],
+      "option_a": "T",
+      "option_b": "~ T",
+      "option_c": "F",
+      "option_d": "~ F",
+      "correct": "গ",
+      "explanation": ""
+    }
+  ]
+}

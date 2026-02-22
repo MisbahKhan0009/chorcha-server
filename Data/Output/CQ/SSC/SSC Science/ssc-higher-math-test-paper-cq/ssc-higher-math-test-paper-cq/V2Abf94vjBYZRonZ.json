@@ -1,0 +1,160 @@
+{
+  "title": "বীরশ্রেষ্ঠ নূর মোহাম্মদ পাবলিক কলেজ ২০২৫",
+  "subtitle": "সংক্ষিপ্ত-উত্তর প্রশ্ন (7)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "P ( x ) = a x 3 + b x + c , G ( x , y , z ) = 1 x 3 + 1 8 y 3 + 1 64 z 3 P(x) = ax^3 + bx + c, G(x, y, z) = \\frac{1}{x^3} + \\frac{1}{8y^3} + \\frac{1}{64z^3} P ( x ) = a x 3 + b x + c , G ( x , y , z ) = x 3 1 ​ + 8 y 3 1 ​ + 64 z 3 1 ​ এবং R ( x ) = x 2 ( x − 1 ) 3 ( x − 2 ) R(x) = \\frac{x^2}{(x-1)^3 (x-2)} R ( x ) = ( x − 1 ) 3 ( x − 2 ) x 2 ​",
+      "tag": "BNMPC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "যদি P ( x ) P(x) P ( x ) কে ( x − m ) (x-m) ( x − m ) দ্বারা ভাগ করা হয়, তবে দেখাও যে, ভাগশেষ হবে P ( m ) P(m) P ( m ) ।",
+          "explanation": "P(x) = a x 3 + b x + c ax^3 + bx + c a x 3 + b x + c কে x − m x - m x − m দ্বারা ভাগ করা হলো: x − m ) a x 3 + b x + c ( a x 2 + a m x + a m 2 + b x - m) ax^3 + bx + c (ax^2 + amx + am^2 + b x − m ) a x 3 + b x + c ( a x 2 + am x + a m 2 + b a x 3 − a m x 2 ‾ \\underline{ax^3 - amx^2} a x 3 − am x 2 ​ a m x 2 + b x + c amx^2 + bx + c am x 2 + b x + c a m x 2 − a m 2 x ‾ \\underline{amx^2 - am^2x} am x 2 − a m 2 x ​ ( a m 2 + b ) x + c (am^2 + b)x + c ( a m 2 + b ) x + c ( a m 2 + b ) x − ( a m 2 + b ) m ‾ \\underline{(am^2 + b)x - (am^2 + b)m} ( a m 2 + b ) x − ( a m 2 + b ) m ​ a m 3 + b m + c am^3 + bm + c a m 3 + bm + c এখানে ভাগশেষ = a m 3 + b m + c am^3 + bm + c a m 3 + bm + c আবার, P(m) = a m 3 + b m + c am^3 + bm + c a m 3 + bm + c ; সুতরাং ভাগশেষ P(m) এর সমান। (দেখানো হলো)"
+        },
+        {
+          "label": "খ",
+          "question": "যদি G ( x , y , z ) = 3 8 x y z G(x, y, z) = \\frac{3}{8xyz} G ( x , y , z ) = 8 x yz 3 ​ হয়, তবে প্রমাণ কর যে, 4 y z + 2 z x + x y = 0 4yz + 2zx + xy = 0 4 yz + 2 z x + x y = 0 অথবা x = 2 y = 4 z x = 2y = 4z x = 2 y = 4 z",
+          "explanation": "দেওয়া আছে, R ( x ) = x 2 ( x − 1 ) 3 ( x − 2 ) R(x) = \\frac{x^2}{(x - 1)^3 (x - 2)} R ( x ) = ( x − 1 ) 3 ( x − 2 ) x 2 ​ ধরি, x 2 ( x − 1 ) 3 ( x − 2 ) = A x − 1 + B ( x − 1 ) 2 + C ( x − 1 ) 3 + D x − 2 \\frac{x^2}{(x - 1)^3 (x - 2)} = \\frac{A}{x - 1} + \\frac{B}{(x - 1)^2} + \\frac{C}{(x - 1)^3} + \\frac{D}{x - 2} ( x − 1 ) 3 ( x − 2 ) x 2 ​ = x − 1 A ​ + ( x − 1 ) 2 B ​ + ( x − 1 ) 3 C ​ + x − 2 D ​ ... ... ... (i) (i) নং কে ( x − 1 ) 3 ( x − 2 ) (x - 1)^3 (x - 2) ( x − 1 ) 3 ( x − 2 ) দ্বারা গুণ করে, x 2 = A ( x − 1 ) 2 ( x − 2 ) + B ( x − 1 ) ( x − 2 ) + C ( x − 2 ) + D ( x − 1 ) 3 x^2 = A(x - 1)^2(x - 2) + B(x - 1)(x - 2) + C(x - 2) + D(x - 1)^3 x 2 = A ( x − 1 ) 2 ( x − 2 ) + B ( x − 1 ) ( x − 2 ) + C ( x − 2 ) + D ( x − 1 ) 3 ... ... ... (ii) বা, x 2 = A ( x 2 − 2 x + 1 ) ( x − 2 ) + B ( x 2 − 2 x − x + 2 ) + C ( x − 2 ) + D ( x 3 − 3 x 2 + 3 x − 1 ) x^2 = A(x^2 - 2x + 1)(x - 2) + B(x^2 - 2x - x + 2) + C(x - 2) + D(x^3 - 3x^2 + 3x - 1) x 2 = A ( x 2 − 2 x + 1 ) ( x − 2 ) + B ( x 2 − 2 x − x + 2 ) + C ( x − 2 ) + D ( x 3 − 3 x 2 + 3 x − 1 ) বা, x 2 = A ( x 3 − 2 x 2 + x − 2 x 2 + 4 x − 2 ) + B ( x 2 − 3 x + 2 ) + C ( x − 2 ) + D ( x 3 − 3 x 2 + 3 x − 1 ) x^2 = A(x^3 - 2x^2 + x - 2x^2 + 4x - 2) + B(x^2 - 3x + 2) + C(x - 2) + D(x^3 - 3x^2 + 3x - 1) x 2 = A ( x 3 − 2 x 2 + x − 2 x 2 + 4 x − 2 ) + B ( x 2 − 3 x + 2 ) + C ( x − 2 ) + D ( x 3 − 3 x 2 + 3 x − 1 ) বা, x 2 = ( A + D ) x 3 + ( B − 4 A − 3 D ) x 2 + ( 5 A − 3 B + C + 3 D ) x − 2 A + 2 B − 2 C − D x^2 = (A + D)x^3 + (B - 4A - 3D)x^2 + (5A - 3B + C + 3D)x - 2A + 2B - 2C - D x 2 = ( A + D ) x 3 + ( B − 4 A − 3 D ) x 2 + ( 5 A − 3 B + C + 3 D ) x − 2 A + 2 B − 2 C − D ... ... ... (iii) (ii) নং এ x = 2 x = 2 x = 2 বসিয়ে, 2 2 = D ( 2 − 1 ) 3 ∴ D = 4 2^2 = D(2 - 1)^3 \\therefore D = 4 2 2 = D ( 2 − 1 ) 3 ∴ D = 4 (ii) নং এ x = 1 x = 1 x = 1 বসিয়ে, 1 2 = C ( 1 − 2 ) 1^2 = C(1 - 2) 1 2 = C ( 1 − 2 ) বা, 1 = − C ∴ C = − 1 1 = -C \\therefore C = -1 1 = − C ∴ C = − 1 (iii) নং হতে x 3 x^3 x 3 এর সহগ সমীকৃত করে, A + D = 0 A + D = 0 A + D = 0 বা, A + 4 = 0 ∴ A = − 4 A + 4 = 0 \\therefore A = -4 A + 4 = 0 ∴ A = − 4 একইভাবে x 2 x^2 x 2 এর সহগ সমীকৃত করে, B − 4 A − 3 D = 1 B - 4A - 3D = 1 B − 4 A − 3 D = 1 বা, B − 4 ( − 4 ) − 3 ⋅ 4 = 1 B - 4(-4) - 3 \\cdot 4 = 1 B − 4 ( − 4 ) − 3 ⋅ 4 = 1 বা, B + 16 − 12 = 1 ∴ B = − 3 B + 16 - 12 = 1 \\therefore B = -3 B + 16 − 12 = 1 ∴ B = − 3 A, B, C, D এর মান (i) নং এ বসিয়ে পাই, x 2 ( x − 1 ) 3 ( x − 2 ) = ( − 4 ) x − 1 + ( − 3 ) ( x − 1 ) 2 + ( − 1 ) ( x − 1 ) 3 + 4 ( x − 2 ) \\frac{x^2}{(x - 1)^3 (x - 2)} = \\frac{(-4)}{x - 1} + \\frac{(-3)}{(x - 1)^2} + \\frac{(-1)}{(x - 1)^3} + \\frac{4}{(x - 2)} ( x − 1 ) 3 ( x − 2 ) x 2 ​ = x − 1 ( − 4 ) ​ + ( x − 1 ) 2 ( − 3 ) ​ + ( x − 1 ) 3 ( − 1 ) ​ + ( x − 2 ) 4 ​ = − 4 x − 1 − 3 ( x − 1 ) 2 − 1 ( x − 1 ) 3 + 4 x − 2 = -\\frac{4}{x - 1} - \\frac{3}{(x - 1)^2} - \\frac{1}{(x - 1)^3} + \\frac{4}{x - 2} = − x − 1 4 ​ − ( x − 1 ) 2 3 ​ − ( x − 1 ) 3 1 ​ + x − 2 4 ​"
+        },
+        {
+          "label": "গ",
+          "question": "R ( x ) R(x) R ( x ) কে আংশিক ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "দেওয়া আছে, R ( x ) = x 2 ( x − 1 ) 3 ( x − 2 ) R(x) = \\frac{x^2}{(x - 1)^3 (x - 2)} R ( x ) = ( x − 1 ) 3 ( x − 2 ) x 2 ​ ধরি, x 2 ( x − 1 ) 3 ( x − 2 ) = A x − 1 + B ( x − 1 ) 2 + C ( x − 1 ) 3 + D x − 2 \\frac{x^2}{(x - 1)^3 (x - 2)} = \\frac{A}{x - 1} + \\frac{B}{(x - 1)^2} + \\frac{C}{(x - 1)^3} + \\frac{D}{x - 2} ( x − 1 ) 3 ( x − 2 ) x 2 ​ = x − 1 A ​ + ( x − 1 ) 2 B ​ + ( x − 1 ) 3 C ​ + x − 2 D ​ ... ... ... (i) (i) নং কে ( x − 1 ) 3 ( x − 2 ) (x - 1)^3 (x - 2) ( x − 1 ) 3 ( x − 2 ) দ্বারা গুণ করে, x 2 = A ( x − 1 ) 2 ( x − 2 ) + B ( x − 1 ) ( x − 2 ) + C ( x − 2 ) + D ( x − 1 ) 3 x^2 = A(x - 1)^2(x - 2) + B(x - 1)(x - 2) + C(x - 2) + D(x - 1)^3 x 2 = A ( x − 1 ) 2 ( x − 2 ) + B ( x − 1 ) ( x − 2 ) + C ( x − 2 ) + D ( x − 1 ) 3 ... ... ... (ii) বা, x 2 = A ( x 2 − 2 x + 1 ) ( x − 2 ) + B ( x 2 − 2 x − x + 2 ) + C ( x − 2 ) + D ( x 3 − 3 x 2 + 3 x − 1 ) x^2 = A(x^2 - 2x + 1)(x - 2) + B(x^2 - 2x - x + 2) + C(x - 2) + D(x^3 - 3x^2 + 3x - 1) x 2 = A ( x 2 − 2 x + 1 ) ( x − 2 ) + B ( x 2 − 2 x − x + 2 ) + C ( x − 2 ) + D ( x 3 − 3 x 2 + 3 x − 1 ) বা, x 2 = A ( x 3 − 2 x 2 + x − 2 x 2 + 4 x − 2 ) + B ( x 2 − 3 x + 2 ) + C ( x − 2 ) + D ( x 3 − 3 x 2 + 3 x − 1 ) x^2 = A(x^3 - 2x^2 + x - 2x^2 + 4x - 2) + B(x^2 - 3x + 2) + C(x - 2) + D(x^3 - 3x^2 + 3x - 1) x 2 = A ( x 3 − 2 x 2 + x − 2 x 2 + 4 x − 2 ) + B ( x 2 − 3 x + 2 ) + C ( x − 2 ) + D ( x 3 − 3 x 2 + 3 x − 1 ) বা, x 2 = ( A + D ) x 3 + ( B − 4 A − 3 D ) x 2 + ( 5 A − 3 B + C + 3 D ) x − 2 A + 2 B − 2 C − D x^2 = (A + D)x^3 + (B - 4A - 3D)x^2 + (5A - 3B + C + 3D)x - 2A + 2B - 2C - D x 2 = ( A + D ) x 3 + ( B − 4 A − 3 D ) x 2 + ( 5 A − 3 B + C + 3 D ) x − 2 A + 2 B − 2 C − D ... ... ... (iii) (ii) নং এ x = 2 x = 2 x = 2 বসিয়ে, 2 2 = D ( 2 − 1 ) 3 ∴ D = 4 2^2 = D(2 - 1)^3 \\therefore D = 4 2 2 = D ( 2 − 1 ) 3 ∴ D = 4 (ii) নং এ x = 1 x = 1 x = 1 বসিয়ে, 1 2 = C ( 1 − 2 ) 1^2 = C(1 - 2) 1 2 = C ( 1 − 2 ) বা, 1 = − C ∴ C = − 1 1 = -C \\therefore C = -1 1 = − C ∴ C = − 1 (iii) নং হতে x 3 x^3 x 3 এর সহগ সমীকৃত করে, A + D = 0 A + D = 0 A + D = 0 বা, A + 4 = 0 ∴ A = − 4 A + 4 = 0 \\therefore A = -4 A + 4 = 0 ∴ A = − 4 একইভাবে x 2 x^2 x 2 এর সহগ সমীকৃত করে, B − 4 A − 3 D = 1 B - 4A - 3D = 1 B − 4 A − 3 D = 1 বা, B − 4 ( − 4 ) − 3 ⋅ 4 = 1 B - 4(-4) - 3 \\cdot 4 = 1 B − 4 ( − 4 ) − 3 ⋅ 4 = 1 বা, B + 16 − 12 = 1 ∴ B = − 3 B + 16 - 12 = 1 \\therefore B = -3 B + 16 − 12 = 1 ∴ B = − 3 A, B, C, D এর মান (i) নং এ বসিয়ে পাই, x 2 ( x − 1 ) 3 ( x − 2 ) = ( − 4 ) x − 1 + ( − 3 ) ( x − 1 ) 2 + ( − 1 ) ( x − 1 ) 3 + 4 ( x − 2 ) \\frac{x^2}{(x - 1)^3 (x - 2)} = \\frac{(-4)}{x - 1} + \\frac{(-3)}{(x - 1)^2} + \\frac{(-1)}{(x - 1)^3} + \\frac{4}{(x - 2)} ( x − 1 ) 3 ( x − 2 ) x 2 ​ = x − 1 ( − 4 ) ​ + ( x − 1 ) 2 ( − 3 ) ​ + ( x − 1 ) 3 ( − 1 ) ​ + ( x − 2 ) 4 ​ = − 4 x − 1 − 3 ( x − 1 ) 2 − 1 ( x − 1 ) 3 + 4 x − 2 = -\\frac{4}{x - 1} - \\frac{3}{(x - 1)^2} - \\frac{1}{(x - 1)^3} + \\frac{4}{x - 2} = − x − 1 4 ​ − ( x − 1 ) 2 3 ​ − ( x − 1 ) 3 1 ​ + x − 2 4 ​"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "f ( x ) = ln ⁡ 3 + x 3 − x f(x) = \\ln \\frac{3+x}{3-x} f ( x ) = ln 3 − x 3 + x ​ এবং A = 1 y q + y − r + 1 + 1 y r + y − p + 1 + 1 y p + y − q + 1 A = \\frac{1}{y^q + y^{-r} + 1} + \\frac{1}{y^r + y^{-p} + 1} + \\frac{1}{y^p + y^{-q} + 1} A = y q + y − r + 1 1 ​ + y r + y − p + 1 1 ​ + y p + y − q + 1 1 ​",
+      "tag": "BNMPC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "প্রমাণ কর যে, x log ⁡ z y = y log ⁡ z x x^{\\log_z y} = y^{\\log_z x} x l o g z ​ y = y l o g z ​ x",
+          "explanation": "ধরি, y = f ( x ) = ln ⁡ 3 + x 3 − x y = f(x) = \\ln\\frac{3+x}{3-x} y = f ( x ) = ln 3 − x 3 + x ​ যেহেতু লগারিদম শুধুমাত্র ধনাত্মক বাস্তব সংখ্যার জন্য সংজ্ঞায়িত হয়। ∴ 3 + x 3 − x > 0 \\therefore \\frac{3+x}{3-x} > 0 ∴ 3 − x 3 + x ​ > 0 যদি (i) 3 + x > 0 3+x>0 3 + x > 0 এবং 3 − x > 0 3-x>0 3 − x > 0 হয় অথবা (ii) 3 + x < 0 3+x<0 3 + x < 0 এবং 3 − x < 0 3-x<0 3 − x < 0 হয়, (i) নং হতে পাই, x > − 3 x>-3 x > − 3 এবং − x > − 3 ∴ x < 3 -x>-3 \\therefore x<3 − x > − 3 ∴ x < 3 ∴ \\therefore ∴ ডোমেন = { x : x > − 3 } ∩ { x : x < 3 } \\{x:x>-3\\} \\cap \\{x:x<3\\} { x : x > − 3 } ∩ { x : x < 3 } = ( − 3 , ∞ ) ∩ ( − ∞ , 3 ) = ( − 3 , 3 ) = (-3,\\infty) \\cap (-\\infty, 3) = (-3, 3) = ( − 3 , ∞ ) ∩ ( − ∞ , 3 ) = ( − 3 , 3 ) (ii) নং হতে পাই, x < − 3 x<-3 x < − 3 এবং − x > − 3 ∴ x > 3 -x>-3 \\therefore x>3 − x > − 3 ∴ x > 3 ∴ \\therefore ∴ ডোমেন = { x : x < − 3 } ∩ { x : x > 3 } = ∅ \\{x:x<-3\\} \\cap \\{x:x>3\\} = \\emptyset { x : x < − 3 } ∩ { x : x > 3 } = ∅ ∴ \\therefore ∴ প্রদত্ত ফাংশনের ডোমেন D f D_f D f ​ = (i) ও (ii) এ প্রাপ্ত ডোমেনের সংযোগ = ( − 3 , 3 ) ∪ ∅ = ( − 3 , 3 ) = (-3, 3) \\cup \\emptyset = (-3, 3) = ( − 3 , 3 ) ∪ ∅ = ( − 3 , 3 ) রেঞ্জ নির্ণয়: y = f ( x ) = ln ⁡ 3 + x 3 − x y = f(x) = \\ln\\frac{3+x}{3-x} y = f ( x ) = ln 3 − x 3 + x ​ বা, e y = 3 + x 3 − x e^y = \\frac{3+x}{3-x} e y = 3 − x 3 + x ​ বা, 3 + x = 3 e y − x e y 3+x = 3e^y - xe^y 3 + x = 3 e y − x e y বা, x ( 1 + e y ) = 3 ( e y − 1 ) x(1+e^y) = 3(e^y-1) x ( 1 + e y ) = 3 ( e y − 1 ) , বা, x = 3 ( e y − 1 ) e y + 1 x = \\frac{3(e^y-1)}{e^y+1} x = e y + 1 3 ( e y − 1 ) ​ y y y এর সকল বাস্তব মানের জন্য x x x .এর মান বাস্তব হয়। ∴ \\therefore ∴ প্রদত্ত ফাংশনের রেঞ্জ R f = R R_f = R R f ​ = R সুতরাং ডোমেন D f = ( − 3 ; 3 ) D_f = (-3; 3) D f ​ = ( − 3 ; 3 ) এবং রেঞ্জ R f = R R_f = R R f ​ = R (Ans)"
+        },
+        {
+          "label": "খ",
+          "question": "যদি p + q + r = 0 p+q+r=0 p + q + r = 0 , হয়, তবে দেখাও যে, A = 1 A = 1 A = 1",
+          "explanation": "ধরি, y = f ( x ) = ln ⁡ 3 + x 3 − x y = f(x) = \\ln\\frac{3+x}{3-x} y = f ( x ) = ln 3 − x 3 + x ​ যেহেতু লগারিদম শুধুমাত্র ধনাত্মক বাস্তব সংখ্যার জন্য সংজ্ঞায়িত হয়। ∴ 3 + x 3 − x > 0 \\therefore \\frac{3+x}{3-x} > 0 ∴ 3 − x 3 + x ​ > 0 যদি (i) 3 + x > 0 3+x>0 3 + x > 0 এবং 3 − x > 0 3-x>0 3 − x > 0 হয় অথবা (ii) 3 + x < 0 3+x<0 3 + x < 0 এবং 3 − x < 0 3-x<0 3 − x < 0 হয়, (i) নং হতে পাই, x > − 3 x>-3 x > − 3 এবং − x > − 3 ∴ x < 3 -x>-3 \\therefore x<3 − x > − 3 ∴ x < 3 ∴ \\therefore ∴ ডোমেন = { x : x > − 3 } ∩ { x : x < 3 } \\{x:x>-3\\} \\cap \\{x:x<3\\} { x : x > − 3 } ∩ { x : x < 3 } = ( − 3 , ∞ ) ∩ ( − ∞ , 3 ) = ( − 3 , 3 ) = (-3,\\infty) \\cap (-\\infty, 3) = (-3, 3) = ( − 3 , ∞ ) ∩ ( − ∞ , 3 ) = ( − 3 , 3 ) (ii) নং হতে পাই, x < − 3 x<-3 x < − 3 এবং − x > − 3 ∴ x > 3 -x>-3 \\therefore x>3 − x > − 3 ∴ x > 3 ∴ \\therefore ∴ ডোমেন = { x : x < − 3 } ∩ { x : x > 3 } = ∅ \\{x:x<-3\\} \\cap \\{x:x>3\\} = \\emptyset { x : x < − 3 } ∩ { x : x > 3 } = ∅ ∴ \\therefore ∴ প্রদত্ত ফাংশনের ডোমেন D f D_f D f ​ = (i) ও (ii) এ প্রাপ্ত ডোমেনের সংযোগ = ( − 3 , 3 ) ∪ ∅ = ( − 3 , 3 ) = (-3, 3) \\cup \\emptyset = (-3, 3) = ( − 3 , 3 ) ∪ ∅ = ( − 3 , 3 ) রেঞ্জ নির্ণয়: y = f ( x ) = ln ⁡ 3 + x 3 − x y = f(x) = \\ln\\frac{3+x}{3-x} y = f ( x ) = ln 3 − x 3 + x ​ বা, e y = 3 + x 3 − x e^y = \\frac{3+x}{3-x} e y = 3 − x 3 + x ​ বা, 3 + x = 3 e y − x e y 3+x = 3e^y - xe^y 3 + x = 3 e y − x e y বা, x ( 1 + e y ) = 3 ( e y − 1 ) x(1+e^y) = 3(e^y-1) x ( 1 + e y ) = 3 ( e y − 1 ) , বা, x = 3 ( e y − 1 ) e y + 1 x = \\frac{3(e^y-1)}{e^y+1} x = e y + 1 3 ( e y − 1 ) ​ y y y এর সকল বাস্তব মানের জন্য x x x .এর মান বাস্তব হয়। ∴ \\therefore ∴ প্রদত্ত ফাংশনের রেঞ্জ R f = R R_f = R R f ​ = R সুতরাং ডোমেন D f = ( − 3 ; 3 ) D_f = (-3; 3) D f ​ = ( − 3 ; 3 ) এবং রেঞ্জ R f = R R_f = R R f ​ = R (Ans)"
+        },
+        {
+          "label": "গ",
+          "question": "f ( x ) f(x) f ( x ) এর ডোমেন এবং রেঞ্জ নির্ণয় কর।",
+          "explanation": "ধরি, y = f ( x ) = ln ⁡ 3 + x 3 − x y = f(x) = \\ln\\frac{3+x}{3-x} y = f ( x ) = ln 3 − x 3 + x ​ যেহেতু লগারিদম শুধুমাত্র ধনাত্মক বাস্তব সংখ্যার জন্য সংজ্ঞায়িত হয়। ∴ 3 + x 3 − x > 0 \\therefore \\frac{3+x}{3-x} > 0 ∴ 3 − x 3 + x ​ > 0 যদি (i) 3 + x > 0 3+x>0 3 + x > 0 এবং 3 − x > 0 3-x>0 3 − x > 0 হয় অথবা (ii) 3 + x < 0 3+x<0 3 + x < 0 এবং 3 − x < 0 3-x<0 3 − x < 0 হয়, (i) নং হতে পাই, x > − 3 x>-3 x > − 3 এবং − x > − 3 ∴ x < 3 -x>-3 \\therefore x<3 − x > − 3 ∴ x < 3 ∴ \\therefore ∴ ডোমেন = { x : x > − 3 } ∩ { x : x < 3 } \\{x:x>-3\\} \\cap \\{x:x<3\\} { x : x > − 3 } ∩ { x : x < 3 } = ( − 3 , ∞ ) ∩ ( − ∞ , 3 ) = ( − 3 , 3 ) = (-3,\\infty) \\cap (-\\infty, 3) = (-3, 3) = ( − 3 , ∞ ) ∩ ( − ∞ , 3 ) = ( − 3 , 3 ) (ii) নং হতে পাই, x < − 3 x<-3 x < − 3 এবং − x > − 3 ∴ x > 3 -x>-3 \\therefore x>3 − x > − 3 ∴ x > 3 ∴ \\therefore ∴ ডোমেন = { x : x < − 3 } ∩ { x : x > 3 } = ∅ \\{x:x<-3\\} \\cap \\{x:x>3\\} = \\emptyset { x : x < − 3 } ∩ { x : x > 3 } = ∅ ∴ \\therefore ∴ প্রদত্ত ফাংশনের ডোমেন D f D_f D f ​ = (i) ও (ii) এ প্রাপ্ত ডোমেনের সংযোগ = ( − 3 , 3 ) ∪ ∅ = ( − 3 , 3 ) = (-3, 3) \\cup \\emptyset = (-3, 3) = ( − 3 , 3 ) ∪ ∅ = ( − 3 , 3 ) রেঞ্জ নির্ণয়: y = f ( x ) = ln ⁡ 3 + x 3 − x y = f(x) = \\ln\\frac{3+x}{3-x} y = f ( x ) = ln 3 − x 3 + x ​ বা, e y = 3 + x 3 − x e^y = \\frac{3+x}{3-x} e y = 3 − x 3 + x ​ বা, 3 + x = 3 e y − x e y 3+x = 3e^y - xe^y 3 + x = 3 e y − x e y বা, x ( 1 + e y ) = 3 ( e y − 1 ) x(1+e^y) = 3(e^y-1) x ( 1 + e y ) = 3 ( e y − 1 ) , বা, x = 3 ( e y − 1 ) e y + 1 x = \\frac{3(e^y-1)}{e^y+1} x = e y + 1 3 ( e y − 1 ) ​ y y y এর সকল বাস্তব মানের জন্য x x x .এর মান বাস্তব হয়। ∴ \\therefore ∴ প্রদত্ত ফাংশনের রেঞ্জ R f = R R_f = R R f ​ = R সুতরাং ডোমেন D f = ( − 3 ; 3 ) D_f = (-3; 3) D f ​ = ( − 3 ; 3 ) এবং রেঞ্জ R f = R R_f = R R f ​ = R (Ans)"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "A = ( 3 − x ) ( 1 + p x ) 7 = (3-x)(1+px)^7 = ( 3 − x ) ( 1 + p x ) 7 , B = ( x 2 + 1 x 2 ) 6 B = \\left(\\frac{x}{2}+\\frac{1}{x^2}\\right)^6 B = ( 2 x ​ + x 2 1 ​ ) 6 এবং C = ( 1 − 2 x + x 2 ) 3 C=(1-2x+x^2)^3 C = ( 1 − 2 x + x 2 ) 3",
+      "tag": "BNMPC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "প্যাসকেলের ত্রিভুজ ব্যবহার করে C এর সম্প্রসারণ কর।",
+          "explanation": "C = ( 1 − 2 x + x 2 ) 3 C = (1 - 2x + x^2)^3 C = ( 1 − 2 x + x 2 ) 3 = { ( 1 − x ) 2 } 3 = ( 1 − x ) 6 = \\{(1-x)^2\\}^3 = (1-x)^6 = {( 1 − x ) 2 } 3 = ( 1 − x ) 6 প্যাসকেলের ত্রিভুজ ব্যবহার করে, ∴ C = ( 1 − x ) 6 = 1 + 6 ( − x ) + 15 ( − x ) 2 + 20 ( − x ) 3 + 15 ( − x ) 4 + 6 ( − x ) 5 + ( − x ) 6 \\therefore C = (1-x)^6 = 1+6(-x)+15(-x)^2+20(-x)^3+15(-x)^4+6(-x)^5+(-x)^6 ∴ C = ( 1 − x ) 6 = 1 + 6 ( − x ) + 15 ( − x ) 2 + 20 ( − x ) 3 + 15 ( − x ) 4 + 6 ( − x ) 5 + ( − x ) 6 = 1 − 6 x + 15 x 2 − 20 x 3 + 15 x 4 − 6 x 5 + x 6  (Ans.) = 1-6x+15x^2-20x^3+15x^4-6x^5+x^6 \\text{ (Ans.)} = 1 − 6 x + 15 x 2 − 20 x 3 + 15 x 4 − 6 x 5 + x 6  (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "B এর সম্প্রসারণে যদি ধ্রুবক পদ এবং মধ্যপদ সমান হয় তবে x এর মান নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "A এর সম্প্রসারণ x³ পর্যন্ত 3+41x + 238x² + qx³ হলে p এবং q এর মান নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "x+3y = 13, x+ y = 3, x+y = 5 এবং y = 3 চারটি সরলরেখার সমীকরণ।",
+      "tag": "BNMPC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দ্বিতীয় রেখাটি x অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রী কোণ উৎপন্ন করে তা নির্ণয় কর।",
+          "explanation": "দ্বিতীয় রেখাটির সমীকরণ: x + y = 3 ∴ y = − x + 3 x + y = 3 \\quad \\therefore y = -x + 3 x + y = 3 ∴ y = − x + 3 একে y = m x + c y = mx + c y = m x + c এর সাথে তুলনা করে, ঢাল, m = − 1 m = -1 m = − 1 এটি x অক্ষের সাথে θ \\theta θ কোণ উৎপন্ন করলে tan ⁡ θ = − 1 \\tan\\theta = -1 tan θ = − 1 বা, tan ⁡ θ = − tan ⁡ π 4 \\tan\\theta = -\\tan\\frac{\\pi}{4} tan θ = − tan 4 π ​ বা, tan ⁡ θ = tan ⁡ ( π − π 4 ) \\tan\\theta = \\tan \\left(\\pi - \\frac{\\pi}{4}\\right) tan θ = tan ( π − 4 π ​ ) ∴ θ = 3 π 4 \\therefore \\theta = \\frac{3\\pi}{4} ∴ θ = 4 3 π ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "এই চারটি রেখা দ্বারা গঠিত চতুর্ভুজটির ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "প্রথম রেখাটির সমীকরণ: x + 3 y = 13 x + 3y = 13 x + 3 y = 13 বা, 3 y = − x + 13 ∴ y = − 1 3 x + 13 3 3y = -x + 13 \\therefore y = -\\frac{1}{3}x + \\frac{13}{3} 3 y = − x + 13 ∴ y = − 3 1 ​ x + 3 13 ​ একে y = m x + c y = mx + c y = m x + c এর সাথে তুলনা করে পাই, ঢাল, m = − 1 3 m = -\\frac{1}{3} m = − 3 1 ​ এখন রেখাটির উপর লম্বরেখার ঢাল m ′ m' m ′ হলে, m ′ × ( − 1 3 ) = − 1 ∴ m ′ = 3 m' \\times (-\\frac{1}{3}) = -1 \\therefore m' = 3 m ′ × ( − 3 1 ​ ) = − 1 ∴ m ′ = 3 ∴ ( − 2 , 1 ) \\therefore (-2, 1) ∴ ( − 2 , 1 ) বিন্দুগামী এবং 3 3 3 ঢাল বিশিষ্ট প্রথম রেখার লম্ব রেখার সমীকরণ, y − 1 = 3 ( x + 2 ) y - 1 = 3(x + 2) y − 1 = 3 ( x + 2 ) বা, y − 1 = 3 x + 6 y - 1 = 3x + 6 y − 1 = 3 x + 6 ∴ 3 x − y + 7 = 0 \\therefore 3x - y + 7 = 0 ∴ 3 x − y + 7 = 0 (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "(-2, 1)বিন্দুগামী এবং প্রথম রেখার উপর লম্ব সরলরেখার সমীকরণ নির্ণয় কর।",
+          "explanation": "প্রথম রেখাটির সমীকরণ: x + 3 y = 13 x + 3y = 13 x + 3 y = 13 বা, 3 y = − x + 13 ∴ y = − 1 3 x + 13 3 3y = -x + 13 \\therefore y = -\\frac{1}{3}x + \\frac{13}{3} 3 y = − x + 13 ∴ y = − 3 1 ​ x + 3 13 ​ একে y = m x + c y = mx + c y = m x + c এর সাথে তুলনা করে পাই, ঢাল, m = − 1 3 m = -\\frac{1}{3} m = − 3 1 ​ এখন রেখাটির উপর লম্বরেখার ঢাল m ′ m' m ′ হলে, m ′ × ( − 1 3 ) = − 1 ∴ m ′ = 3 m' \\times (-\\frac{1}{3}) = -1 \\therefore m' = 3 m ′ × ( − 3 1 ​ ) = − 1 ∴ m ′ = 3 ∴ ( − 2 , 1 ) \\therefore (-2, 1) ∴ ( − 2 , 1 ) বিন্দুগামী এবং 3 3 3 ঢাল বিশিষ্ট প্রথম রেখার লম্ব রেখার সমীকরণ, y − 1 = 3 ( x + 2 ) y - 1 = 3(x + 2) y − 1 = 3 ( x + 2 ) বা, y − 1 = 3 x + 6 y - 1 = 3x + 6 y − 1 = 3 x + 6 ∴ 3 x − y + 7 = 0 \\therefore 3x - y + 7 = 0 ∴ 3 x − y + 7 = 0 (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "△ \\triangle △ PQR এর PQ, PR এবং QR এর মধ্যবিন্দু যথাক্রমে A, B এবং C",
+      "tag": "BNMPC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "( P A ⃗ + A B ⃗ ) (\\vec{PA} + \\vec{AB}) ( P A + A B ) কে P R ⃗ \\vec{PR} PR এর সাহায্যে প্রকাশ কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "ভেক্টরের সাহায্যে প্রমাণ কর যে, Q R ∥ A B QR \\parallel AB QR ∥ A B এবং A B = 1 2 Q R AB = \\frac{1}{2}QR A B = 2 1 ​ QR",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "প্রমাণ কর যে, P C ⃗ + Q B ⃗ + R A ⃗ = 0 \\vec{PC} + \\vec{QB} + \\vec{RA} = 0 PC + QB ​ + R A = 0",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "M = sin ⁡ 2 N + sin ⁡ 2 3 N + sin ⁡ 2 5 N + sin ⁡ 2 7 N + sin ⁡ 2 9 N + sin ⁡ 2 11 N \\sin^2N + \\sin^23N + \\sin^25N + \\sin^27N + \\sin^29N + \\sin^211N sin 2 N + sin 2 3 N + sin 2 5 N + sin 2 7 N + sin 2 9 N + sin 2 11 N এবং P = 3 tan ⁡ 2 θ − 4 3 sec ⁡ θ + 7 3\\tan^2\\theta - 4\\sqrt{3} \\sec\\theta +7 3 tan 2 θ − 4 3 ​ sec θ + 7",
+      "tag": "BNMPC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "cos ⁡ 2 25 ∘ + cos ⁡ 2 65 ∘ \\cos^225^\\circ + \\cos^265^\\circ cos 2 2 5 ∘ + cos 2 6 5 ∘ এর মান নির্ণয় কর।",
+          "explanation": "প্রদত্ত রাশি = cos ⁡ 2 25 ∘ + cos ⁡ 2 65 ∘ = \\cos^2 25^\\circ + \\cos^2 65^\\circ = cos 2 2 5 ∘ + cos 2 6 5 ∘ = cos ⁡ 2 ( 90 ∘ − 65 ∘ ) + cos ⁡ 2 65 ∘ = \\cos^2(90^\\circ - 65^\\circ) + \\cos^2 65^\\circ = cos 2 ( 9 0 ∘ − 6 5 ∘ ) + cos 2 6 5 ∘ = sin ⁡ 2 65 ∘ + cos ⁡ 2 65 ∘ = 1 = \\sin^2 65^\\circ + \\cos^2 65^\\circ = 1 = sin 2 6 5 ∘ + cos 2 6 5 ∘ = 1 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "যদি P = 0 এবং 0 < θ < 2 π 0<\\theta <2\\pi 0 < θ < 2 π হয়, তবে θ \\theta θ এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, N = π 12 N = \\frac{\\pi}{12} N = 12 π ​ প্রদত্ত রাশি, M = sin ⁡ 2 N + sin ⁡ 2 3 N + sin ⁡ 2 5 N + sin ⁡ 2 7 N M = \\sin^2N + \\sin^23N + \\sin^25N + \\sin^27N M = sin 2 N + sin 2 3 N + sin 2 5 N + sin 2 7 N + sin ⁡ 2 9 N + sin ⁡ 2 11 N + \\sin^29N + \\sin^211N + sin 2 9 N + sin 2 11 N = sin ⁡ 2 π 12 + sin ⁡ 2 3 π 12 + sin ⁡ 2 5 π 12 + sin ⁡ 2 7 π 12 + sin ⁡ 2 9 π 12 + sin ⁡ 2 11 π 12 = \\sin^2\\frac{\\pi}{12} + \\sin^2\\frac{3\\pi}{12} + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\frac{7\\pi}{12} + \\sin^2\\frac{9\\pi}{12} + \\sin^2\\frac{11\\pi}{12} = sin 2 12 π ​ + sin 2 12 3 π ​ + sin 2 12 5 π ​ + sin 2 12 7 π ​ + sin 2 12 9 π ​ + sin 2 12 11 π ​ = sin ⁡ 2 π 12 + sin ⁡ 2 11 π 12 + sin ⁡ 2 5 π 12 + sin ⁡ 2 7 π 12 + sin ⁡ 2 3 π 12 + sin ⁡ 2 9 π 12 = \\sin^2\\frac{\\pi}{12} + \\sin^2\\frac{11\\pi}{12} + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\frac{7\\pi}{12} + \\sin^2\\frac{3\\pi}{12} + \\sin^2\\frac{9\\pi}{12} = sin 2 12 π ​ + sin 2 12 11 π ​ + sin 2 12 5 π ​ + sin 2 12 7 π ​ + sin 2 12 3 π ​ + sin 2 12 9 π ​ = sin ⁡ 2 π 12 + sin ⁡ 2 ( π − π 12 ) + sin ⁡ 2 5 π 12 + sin ⁡ 2 ( π − 5 π 12 ) = \\sin^2\\frac{\\pi}{12} + \\sin^2\\left(\\pi - \\frac{\\pi}{12}\\right) + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\left(\\pi - \\frac{5\\pi}{12}\\right) = sin 2 12 π ​ + sin 2 ( π − 12 π ​ ) + sin 2 12 5 π ​ + sin 2 ( π − 12 5 π ​ ) + sin ⁡ 2 2 π 4 + sin ⁡ 2 ( π − π 4 ) + \\sin^2\\frac{2\\pi}{4} + \\sin^2\\left(\\pi - \\frac{\\pi}{4}\\right) + sin 2 4 2 π ​ + sin 2 ( π − 4 π ​ ) = sin ⁡ 2 π 12 + sin ⁡ 2 π 12 + sin ⁡ 2 5 π 12 + sin ⁡ 2 5 π 12 + sin ⁡ 2 2 π 4 + sin ⁡ 2 2 π 4 = \\sin^2\\frac{\\pi}{12} + \\sin^2\\frac{\\pi}{12} + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\frac{2\\pi}{4} + \\sin^2\\frac{2\\pi}{4} = sin 2 12 π ​ + sin 2 12 π ​ + sin 2 12 5 π ​ + sin 2 12 5 π ​ + sin 2 4 2 π ​ + sin 2 4 2 π ​ = 2 sin ⁡ 2 π 12 + 2 sin ⁡ 2 5 π 12 + 2 sin ⁡ 2 2 π 4 = 2\\sin^2\\frac{\\pi}{12} + 2\\sin^2\\frac{5\\pi}{12} + 2\\sin^2\\frac{2\\pi}{4} = 2 sin 2 12 π ​ + 2 sin 2 12 5 π ​ + 2 sin 2 4 2 π ​ = 2 sin ⁡ 2 π 12 + 2 sin ⁡ 2 ( π 2 − π 12 ) + 2 ( 1 2 ) 2 = 2\\sin^2\\frac{\\pi}{12} + 2\\sin^2\\left(\\frac{\\pi}{2} - \\frac{\\pi}{12}\\right) + 2\\left(\\frac{1}{\\sqrt{2}}\\right)^2 = 2 sin 2 12 π ​ + 2 sin 2 ( 2 π ​ − 12 π ​ ) + 2 ( 2 ​ 1 ​ ) 2 = 2 ( sin ⁡ 2 π 12 + cos ⁡ 2 π 12 ) + 1 = 2 + 1 = 3 = 2\\left(\\sin^2\\frac{\\pi}{12} + \\cos^2\\frac{\\pi}{12}\\right) + 1 = 2 + 1 = 3 = 2 ( sin 2 12 π ​ + cos 2 12 π ​ ) + 1 = 2 + 1 = 3 (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "যদি N = π 12 \\frac{\\pi}{12} 12 π ​ হয়, তবে M এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, N = π 12 N = \\frac{\\pi}{12} N = 12 π ​ প্রদত্ত রাশি, M = sin ⁡ 2 N + sin ⁡ 2 3 N + sin ⁡ 2 5 N + sin ⁡ 2 7 N M = \\sin^2N + \\sin^23N + \\sin^25N + \\sin^27N M = sin 2 N + sin 2 3 N + sin 2 5 N + sin 2 7 N + sin ⁡ 2 9 N + sin ⁡ 2 11 N + \\sin^29N + \\sin^211N + sin 2 9 N + sin 2 11 N = sin ⁡ 2 π 12 + sin ⁡ 2 3 π 12 + sin ⁡ 2 5 π 12 + sin ⁡ 2 7 π 12 + sin ⁡ 2 9 π 12 + sin ⁡ 2 11 π 12 = \\sin^2\\frac{\\pi}{12} + \\sin^2\\frac{3\\pi}{12} + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\frac{7\\pi}{12} + \\sin^2\\frac{9\\pi}{12} + \\sin^2\\frac{11\\pi}{12} = sin 2 12 π ​ + sin 2 12 3 π ​ + sin 2 12 5 π ​ + sin 2 12 7 π ​ + sin 2 12 9 π ​ + sin 2 12 11 π ​ = sin ⁡ 2 π 12 + sin ⁡ 2 11 π 12 + sin ⁡ 2 5 π 12 + sin ⁡ 2 7 π 12 + sin ⁡ 2 3 π 12 + sin ⁡ 2 9 π 12 = \\sin^2\\frac{\\pi}{12} + \\sin^2\\frac{11\\pi}{12} + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\frac{7\\pi}{12} + \\sin^2\\frac{3\\pi}{12} + \\sin^2\\frac{9\\pi}{12} = sin 2 12 π ​ + sin 2 12 11 π ​ + sin 2 12 5 π ​ + sin 2 12 7 π ​ + sin 2 12 3 π ​ + sin 2 12 9 π ​ = sin ⁡ 2 π 12 + sin ⁡ 2 ( π − π 12 ) + sin ⁡ 2 5 π 12 + sin ⁡ 2 ( π − 5 π 12 ) = \\sin^2\\frac{\\pi}{12} + \\sin^2\\left(\\pi - \\frac{\\pi}{12}\\right) + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\left(\\pi - \\frac{5\\pi}{12}\\right) = sin 2 12 π ​ + sin 2 ( π − 12 π ​ ) + sin 2 12 5 π ​ + sin 2 ( π − 12 5 π ​ ) + sin ⁡ 2 2 π 4 + sin ⁡ 2 ( π − π 4 ) + \\sin^2\\frac{2\\pi}{4} + \\sin^2\\left(\\pi - \\frac{\\pi}{4}\\right) + sin 2 4 2 π ​ + sin 2 ( π − 4 π ​ ) = sin ⁡ 2 π 12 + sin ⁡ 2 π 12 + sin ⁡ 2 5 π 12 + sin ⁡ 2 5 π 12 + sin ⁡ 2 2 π 4 + sin ⁡ 2 2 π 4 = \\sin^2\\frac{\\pi}{12} + \\sin^2\\frac{\\pi}{12} + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\frac{5\\pi}{12} + \\sin^2\\frac{2\\pi}{4} + \\sin^2\\frac{2\\pi}{4} = sin 2 12 π ​ + sin 2 12 π ​ + sin 2 12 5 π ​ + sin 2 12 5 π ​ + sin 2 4 2 π ​ + sin 2 4 2 π ​ = 2 sin ⁡ 2 π 12 + 2 sin ⁡ 2 5 π 12 + 2 sin ⁡ 2 2 π 4 = 2\\sin^2\\frac{\\pi}{12} + 2\\sin^2\\frac{5\\pi}{12} + 2\\sin^2\\frac{2\\pi}{4} = 2 sin 2 12 π ​ + 2 sin 2 12 5 π ​ + 2 sin 2 4 2 π ​ = 2 sin ⁡ 2 π 12 + 2 sin ⁡ 2 ( π 2 − π 12 ) + 2 ( 1 2 ) 2 = 2\\sin^2\\frac{\\pi}{12} + 2\\sin^2\\left(\\frac{\\pi}{2} - \\frac{\\pi}{12}\\right) + 2\\left(\\frac{1}{\\sqrt{2}}\\right)^2 = 2 sin 2 12 π ​ + 2 sin 2 ( 2 π ​ − 12 π ​ ) + 2 ( 2 ​ 1 ​ ) 2 = 2 ( sin ⁡ 2 π 12 + cos ⁡ 2 π 12 ) + 1 = 2 + 1 = 3 = 2\\left(\\sin^2\\frac{\\pi}{12} + \\cos^2\\frac{\\pi}{12}\\right) + 1 = 2 + 1 = 3 = 2 ( sin 2 12 π ​ + cos 2 12 π ​ ) + 1 = 2 + 1 = 3 (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "(i) দুটি কয়েন ও একটি ছক্কা একসাথে নিক্ষেপ করা হলো। (ii) একটি বাক্সে একই আকারের 21 টি কার্ড রয়েছে, যেগুলো 20 থেকে 40 পর্যন্ত ক্রমিকভাবে নম্বরযুক্ত। বাক্স থেকে একটি কার্ড এলোমেলোভাবে তোলা হলো।",
+      "tag": "BNMPC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "যদি শুধুমাত্র ছক্কাটি একবার নিক্ষেপ করা হয়, তবে মৌলিক সংখ্যা অথবা জোড় সংখ্যা পাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "একটি ছক্কা একবার নিক্ষেপে সম্ভাব্য ফলাফল: 1, 2, 3, 4, 5, 6 ∴ \\therefore ∴ মোট নমুনা বিন্দুর সংখ্যা = 6টি জোড় অথবা মৌলিক সংখ্যার অনুকূল নমুনা বিন্দু: 2, 3, 4, 5, 6 ∴ \\therefore ∴ অনুকূল নমুনা বিন্দুর সংখ্যা = 5টি ∴ \\therefore ∴ ছক্কা নিক্ষেপে জোড় অথবা মৌলিক সংখ্যা উঠার সম্ভাবনা = 5 6 \\frac{5}{6} 6 5 ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "(i) এর জন্য সম্ভাবনার বৃক্ষ (Probability tree) অঙ্কন কর এবং ছক্কাটিতে জোড় সংখ্যা ও কয়েনে HH পাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "দেখাও যে, তোলা কার্ডটি মৌলিক সংখ্যা বা 7 এর গুণিতক হওয়ার সম্ভাবনা, কার্ডটি বিজোড় সংখ্যা বা 4 দ্বারা বিভাজ্য হওয়ার সম্ভাবনার চেয়ে কম।",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

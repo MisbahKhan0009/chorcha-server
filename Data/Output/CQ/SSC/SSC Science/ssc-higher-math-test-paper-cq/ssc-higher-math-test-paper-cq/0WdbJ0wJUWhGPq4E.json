@@ -1,0 +1,182 @@
+{
+  "title": "দিনাজপুর বোর্ড ২০২৫",
+  "subtitle": "(8)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "(i) f : R → R , f ( x ) = 1 3 x − 2 f: \\mathbb{R} \\rightarrow \\mathbb{R}, f(\\mathrm{x})=\\frac{1}{\\sqrt{3 \\mathrm{x}-2}} f : R → R , f ( x ) = 3 x − 2 ​ 1 ​ (ii) S = { ( x , y ) ; 4 x 2 + 4 y 2 − 256 = 0 S=\\left\\{(x, y) ; 4 x^{2}+4 y^{2}-256=0\\right. S = { ( x , y ) ; 4 x 2 + 4 y 2 − 256 = 0 এবং y ≥ 0 } \\left.y \\geq 0\\right\\} y ≥ 0 } একটি অন্বয়।",
+      "tag": "Din.B 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "f f f এর ডোমেন নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "f f f একটি সার্বিক ফাংশন কি-না তা নির্ধারণ কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "S অন্বয়ের লেখচিত্র অঙ্কন কর এবং S অন্বয়টি ফাংশন কি-না তা লেখচিত্র হতে নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "(i) g ( y ) = 2 y 3 1 − y 3 g(y)=\\frac{2 y^{3}}{1-y^{3}} g ( y ) = 1 − y 3 2 y 3 ​ (ii) B = ( 2 + x 5 ) n ; n ∈ N B=\\left(2+\\frac{x}{5}\\right)^{n} ; n \\in \\mathbb{N} B = ( 2 + 5 x ​ ) n ; n ∈ N",
+      "tag": "Din.B 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "n = 4 \\mathrm{n}=4 n = 4 হলে, প্যাসকেলের ত্রিভুজ ব্যবহার করে B এর বিস্তৃতি নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, B = ( 2 + x 5 ) n ; n ∈ N \\mathrm{B}=\\left(2+\\frac{\\mathrm{x}}{5}\\right)^{\\mathrm{n}} ; \\mathrm{n} \\in \\mathbb{N} B = ( 2 + 5 x ​ ) n ; n ∈ N এখন, n = 4 \\mathrm{n}=4 n = 4 হলে, B = ( 2 + x 5 ) 4 = 2 4 ( 1 + x 10 ) 4 \\mathrm{B}=\\left(2+\\frac{\\mathrm{x}}{5}\\right)^{4}=2^{4}\\left(1+\\frac{\\mathrm{x}}{10}\\right)^{4} B = ( 2 + 5 x ​ ) 4 = 2 4 ( 1 + 10 x ​ ) 4 প্যাসকেলের ত্রিভুজের সাহায্যে- ∴ 2 4 ( 1 + x 10 ) 4 = 2 4 { 1 + 4 ⋅ x 10 + 6 ⋅ ( x 10 ) 2 + 4 ⋅ ( x 10 ) 3 + ( x 10 ) 4 } = 2 4 ( 1 + 2 x 5 + 6 x 2 100 + 4 x 3 1000 + x 4 10000 ) = 16 ( 1 + 2 x 5 + 3 x 2 50 + x 3 250 + x 4 10000 ) \\begin{aligned} \\therefore \\quad 2^{4}\\left(1+\\frac{x}{10}\\right)^{4} & =2^{4}\\left\\{1+4 \\cdot \\frac{x}{10}+6 \\cdot\\left(\\frac{x}{10}\\right)^{2}+4 \\cdot\\left(\\frac{x}{10}\\right)^{3}+\\left(\\frac{x}{10}\\right)^{4}\\right\\} \\\\ & =2^{4}\\left(1+\\frac{2 x}{5}+\\frac{6 x^{2}}{100}+\\frac{4 x^{3}}{1000}+\\frac{x^{4}}{10000}\\right) \\\\ & =16\\left(1+\\frac{2 x}{5}+\\frac{3 x^{2}}{50}+\\frac{x^{3}}{250}+\\frac{x^{4}}{10000}\\right) \\end{aligned} ∴ 2 4 ( 1 + 10 x ​ ) 4 ​ = 2 4 { 1 + 4 ⋅ 10 x ​ + 6 ⋅ ( 10 x ​ ) 2 + 4 ⋅ ( 10 x ​ ) 3 + ( 10 x ​ ) 4 } = 2 4 ( 1 + 5 2 x ​ + 100 6 x 2 ​ + 1000 4 x 3 ​ + 10000 x 4 ​ ) = 16 ( 1 + 5 2 x ​ + 50 3 x 2 ​ + 250 x 3 ​ + 10000 x 4 ​ ) ​ নির্ণেয় B এর বিস্তৃতি 16 ( 1 + 2 x 5 + 3 x 2 50 + x 3 250 + x 4 10000 ) 16\\left(1+\\frac{2 x}{5}+\\frac{3 x^{2}}{50}+\\frac{x^{3}}{250}+\\frac{x^{4}}{10000}\\right) 16 ( 1 + 5 2 x ​ + 50 3 x 2 ​ + 250 x 3 ​ + 10000 x 4 ​ ) ."
+        },
+        {
+          "label": "খ",
+          "question": "B এর বিস্তৃতিতে x β \\mathrm{x}^{\\beta} x β এবং x 9 \\mathrm{x}^{9} x 9 এর সহগ পরস্পর সমান হলে, ( n 2 ) \\binom{n}{2} ( 2 n ​ ) এর সাংখ্যিক মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, B = ( 2 + x 5 ) n ; n ∈ N \\mathrm{B}=\\left(2+\\frac{\\mathrm{x}}{5}\\right)^{\\mathrm{n}} ; \\mathrm{n} \\in \\mathbb{N} B = ( 2 + 5 x ​ ) n ; n ∈ N দ্বিপদী বিস্তৃতির সাহায্যে পাই, ( 2 + x 5 ) n = ( n 0 ) 2 n ( x 5 ) 0 + ( n 1 ) 2 n − 1 ( x 5 ) + ( n 2 ) 2 n − 2 ( x 5 ) 2 + ( n 3 ) 2 n − 3 ( x 5 ) 3 + ( n 4 ) 2 n − 4 ( x 5 ) 4 + ( n 2. ) 2 n − 5 ( x 5 ) 5 + ( n 6 ) 2 n − 6 ( x 5 ) 6 + ( n 7 ) 2 n − 7 ( x 5 ) 7 + ( n 8 ) 2 n − 8 ( x 5 ) 8 + ( n 9 ) 2 n − 9 ( x 5 ) 9 + … … … ∴ x 8  এর সহগ  = ( n 8 ) 2 n − 8 ( 1 5 ) 8 x 9  এর সহগ  = ( n 9 ) 2 n − 9 ( 1 5 ) 9 \\begin{array}{l} \\left(2+\\frac{x}{5}\\right)^{n}=\\binom{n}{0} 2^{n}\\left(\\frac{x}{5}\\right)^{0}+\\binom{n}{1} 2^{n-1}\\left(\\frac{x}{5}\\right)+\\binom{n}{2} 2^{n-2} \\\\ \\begin{array}{l} \\left(\\frac{x}{5}\\right)^{2}+\\binom{n}{3} 2^{n-3}\\left(\\frac{x}{5}\\right)^{3}+\\binom{n}{4} 2^{n-4}\\left(\\frac{x}{5}\\right)^{4}+\\binom{n}{2 .} 2^{n-5}\\left(\\frac{x}{5}\\right)^{5} \\\\ +\\binom{n}{6} 2^{n-6}\\left(\\frac{x}{5}\\right)^{6}+\\binom{n}{7} 2^{n-7}\\left(\\frac{x}{5}\\right)^{7}+\\binom{n}{8} 2^{n-8}\\left(\\frac{x}{5}\\right)^{8} \\\\ +\\binom{n}{9} 2^{n-9}\\left(\\frac{x}{5}\\right)^{9}+\\ldots \\ldots \\ldots \\end{array} \\\\ \\therefore \\quad x^{8} \\text { এর সহগ }=\\binom{n}{8} 2^{n-8}\\left(\\frac{1}{5}\\right)^{8} \\\\ \\quad x^{9} \\text { এর সহগ }=\\binom{n}{9} 2^{n-9}\\left(\\frac{1}{5}\\right)^{9} \\end{array} ( 2 + 5 x ​ ) n = ( 0 n ​ ) 2 n ( 5 x ​ ) 0 + ( 1 n ​ ) 2 n − 1 ( 5 x ​ ) + ( 2 n ​ ) 2 n − 2 ( 5 x ​ ) 2 + ( 3 n ​ ) 2 n − 3 ( 5 x ​ ) 3 + ( 4 n ​ ) 2 n − 4 ( 5 x ​ ) 4 + ( 2. n ​ ) 2 n − 5 ( 5 x ​ ) 5 + ( 6 n ​ ) 2 n − 6 ( 5 x ​ ) 6 + ( 7 n ​ ) 2 n − 7 ( 5 x ​ ) 7 + ( 8 n ​ ) 2 n − 8 ( 5 x ​ ) 8 + ( 9 n ​ ) 2 n − 9 ( 5 x ​ ) 9 + ……… ​ ∴ x 8   এর   সহগ   = ( 8 n ​ ) 2 n − 8 ( 5 1 ​ ) 8 x 9   এর   সহগ   = ( 9 n ​ ) 2 n − 9 ( 5 1 ​ ) 9 ​ শর্তমতে, ( n 8 ) 2 n − 8 ( 1 5 ) 8 = ( n 9 ) 2 n − 9 ( 1 5 ) 9 \\binom{n}{8} 2^{n-8}\\left(\\frac{1}{5}\\right)^{8}=\\binom{n}{9} 2^{n-9}\\left(\\frac{1}{5}\\right)^{9} ( 8 n ​ ) 2 n − 8 ( 5 1 ​ ) 8 = ( 9 n ​ ) 2 n − 9 ( 5 1 ​ ) 9 বা, n ! 8 ! ( n − 8 ) ! 2 n − 8 2 n − 9 = n ! 9 ! ( n − 9 ) ! ⋅ ( 1 5 ) 9 ( 1 5 ) 8 \\frac{n!}{8!(n-8)!} \\frac{2^{n-8}}{2^{n-9}}=\\frac{n!}{9!(n-9)!} \\cdot \\frac{\\left(\\frac{1}{5}\\right)^{9}}{\\left(\\frac{1}{5}\\right)^{8}} 8 ! ( n − 8 )! n ! ​ 2 n − 9 2 n − 8 ​ = 9 ! ( n − 9 )! n ! ​ ⋅ ( 5 1 ​ ) 8 ( 5 1 ​ ) 9 ​ বা, 1 8 ! ( n − 8 ) ( n − 9 ) ! 2 n − 8 − n + 9 = 1 9 ⋅ 8 ! ( n − 9 ) ! ( 1 5 ) 9 − 8 \\frac{1}{8!(n-8)(n-9)!} 2^{n-8-n+9}=\\frac{1}{9 \\cdot 8!(n-9)!}\\left(\\frac{1}{5}\\right)^{9-8} 8 ! ( n − 8 ) ( n − 9 )! 1 ​ 2 n − 8 − n + 9 = 9 ⋅ 8 ! ( n − 9 )! 1 ​ ( 5 1 ​ ) 9 − 8 বা, 2 n − 8 = 1 9 ⋅ 1 5 \\frac{2}{n-8}=\\frac{1}{9} \\cdot \\frac{1}{5} n − 8 2 ​ = 9 1 ​ ⋅ 5 1 ​ বা, n − 8 = 90 n-8=90 n − 8 = 90 বা, n = 90 + 8 \\mathrm{n}=90+8 n = 90 + 8 ∴ n = 98 \\therefore \\mathrm{n}=98 ∴ n = 98 ∴ ( n 2 ) = ( 98 2 ) = 98.97 2.1 = 4753 \\therefore\\binom{n}{2}=\\binom{98}{2}=\\frac{98.97}{2.1}=4753 ∴ ( 2 n ​ ) = ( 2 98 ​ ) = 2.1 98.97 ​ = 4753 নির্ণেয় মান : 4753."
+        },
+        {
+          "label": "গ",
+          "question": "g(y) কে আংশিক ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "দেওয়া আছে,  g ( y ) = 2 y 3 1 − y 3 = − 2 + 2 y 3 + 2 1 − y 3 = − 2 ( 1 − y 3 ) + 2 1 − y 3 = − 2 ( 1 − y 3 ) ( 1 − y 3 ) + 2 1 − y 3 = − 2 + 2 1 − y 3 = − 2 + 2 ( 1 ) 3 − ( y ) 3 = − 2 + 2 ( 1 − y ) ( 1 + y + y 2 ) \\begin{array}{l}\\text { দেওয়া আছে, } g(y)=\\frac{2 y^{3}}{1-y^{3}}=\\frac{-2+2 y^{3}+2}{1-y^{3}}=\\frac{-2\\left(1-y^{3}\\right)+2}{1-y^{3}} \\\\ =\\frac{-2\\left(1-y^{3}\\right)}{\\left(1-y^{3}\\right)}+\\frac{2}{1-y^{3}}=-2+\\frac{2}{1-y^{3}}=-2+\\frac{2}{(1)^{3}-(y)^{3}} \\\\ =-2+\\frac{2}{(1-y)\\left(1+y+y^{2}\\right)}\\end{array}   দেওয়া   আছে ,  g ( y ) = 1 − y 3 2 y 3 ​ = 1 − y 3 − 2 + 2 y 3 + 2 ​ = 1 − y 3 − 2 ( 1 − y 3 ) + 2 ​ = ( 1 − y 3 ) − 2 ( 1 − y 3 ) ​ + 1 − y 3 2 ​ = − 2 + 1 − y 3 2 ​ = − 2 + ( 1 ) 3 − ( y ) 3 2 ​ = − 2 + ( 1 − y ) ( 1 + y + y 2 ) 2 ​ ​ ধরি, 2 ( 1 − y ) ( 1 + y + y 2 ) = A 1 − y + B y + C 1 + y + y 2 … ( 1 ) \\frac{2}{(1-y)\\left(1+y+y^{2}\\right)}=\\frac{A}{1-y}+\\frac{B y+C}{1+y+y^{2}}…(1) ( 1 − y ) ( 1 + y + y 2 ) 2 ​ = 1 − y A ​ + 1 + y + y 2 B y + C ​ … ( 1 ) (i) নং সমীকরণের উভয় পক্ষকে ( 1 − y ) ( 1 + y + y 2 ) (1-y)\\left(1+y+y^{2}\\right) ( 1 − y ) ( 1 + y + y 2 ) দ্বারা গুণ করে পাই, 2 ≡   A ( 1 + y + y 2 ) + ( B y + C ) ( 1 − y ) … ( 1 ) 2 \\equiv \\mathrm{~A}\\left(1+\\mathrm{y}+\\mathrm{y}^{2}\\right)+(\\mathrm{By}+\\mathrm{C})(1-\\mathrm{y})…(1) 2 ≡   A ( 1 + y + y 2 ) + ( By + C ) ( 1 − y ) … ( 1 ) \\qquad (2) নং সমীকরণে y = 1 y=1 y = 1 বসিয়ে পাই, 2 = A ( 1 + 1 + 1 2 ) + ( B × 1 + C ) ( 1 − 1 ) 2=A\\left(1+1+1^{2}\\right)+(B \\times 1+C)(1-1) 2 = A ( 1 + 1 + 1 2 ) + ( B × 1 + C ) ( 1 − 1 ) বা, 2 = 3   A + 0 2=3 \\mathrm{~A}+0 2 = 3   A + 0 বা, 3   A = 2 3 \\mathrm{~A}=2 3   A = 2 ∴ A = 2 3 \\therefore \\quad \\mathrm{A}=\\frac{2}{3} ∴ A = 3 2 ​ আবার, (2) নং সমীকরণ হতে পাই, 2 = A + A y + A y 2 + B y − B y 2 + C − C y 2=\\mathrm{A}+\\mathrm{Ay}+\\mathrm{Ay}^{2}+\\mathrm{By}-\\mathrm{By}^{2}+\\mathrm{C}-\\mathrm{Cy} 2 = A + Ay + Ay 2 + By − By 2 + C − Cy বা, 2 = ( A − B ) y 2 + ( A + B − C ) y + ( A + C ) … ( 3 ) 2=(\\mathrm{A}-\\mathrm{B}) \\mathrm{y}^{2}+(\\mathrm{A}+\\mathrm{B}-\\mathrm{C}) \\mathrm{y}+(\\mathrm{A}+\\mathrm{C})…(3) 2 = ( A − B ) y 2 + ( A + B − C ) y + ( A + C ) … ( 3 ) (3) নং সমীকরণ হতে y 2 \\mathrm{y}^{2} y 2 ও y এর সহগ সমৃকীত করে A − B = 0 A-B=0 A − B = 0 বা, A = B A=B A = B বা, 2 3 = B \\frac{2}{3}=B 3 2 ​ = B ∴ B = 2 3 \\therefore \\quad B=\\frac{2}{3} ∴ B = 3 2 ​ আবার, A+B-C=0 বা, 2 3 + 2 3 = C \\frac{2}{3}+\\frac{2}{3}=C 3 2 ​ + 3 2 ​ = C বা, C = 4 3 C=\\frac{4}{3} C = 3 4 ​ (i) নং এ A, B ও C এর মান বসিয়ে পাই, 2 ( 1 − y ) ( 1 + y + y 2 ) ≡ 2 3 1 − y + 2 y 3 + 4 3 1 + y + y 2 ≡ 2 3 ( 1 − y ) + 2 y + 4 3 1 + y + y 2 ≡ 2 3 ( 1 − y ) + 2 y + 4 3 ( 1 + y + y 2 ) ∴ g ( y ) ≡ − 2 + 2 3 ( 1 − y ) + 2 y + 4 3 ( 1 + y + y 2 )  যা নির্ণেয় আংশিক ভগ্নাংশ।  \\begin{array}{l} \\frac{2}{(1-y)\\left(1+y+y^{2}\\right)} \\equiv \\frac{\\frac{2}{3}}{1-y}+\\frac{\\frac{2 y}{3}+\\frac{4}{3}}{1+y+y^{2}} \\equiv \\frac{2}{3(1-y)}+\\frac{\\frac{2 y+4}{3}}{1+y+y^{2}} \\\\ \\equiv \\frac{2}{3(1-y)}+\\frac{2 y+4}{3\\left(1+y+y^{2}\\right)} \\\\ \\therefore g(y) \\equiv-2+\\frac{2}{3(1-y)}+\\frac{2 y+4}{3\\left(1+y+y^{2}\\right)} \\text { যা নির্ণেয় আংশিক ভগ্নাংশ। } \\end{array} ( 1 − y ) ( 1 + y + y 2 ) 2 ​ ≡ 1 − y 3 2 ​ ​ + 1 + y + y 2 3 2 y ​ + 3 4 ​ ​ ≡ 3 ( 1 − y ) 2 ​ + 1 + y + y 2 3 2 y + 4 ​ ​ ≡ 3 ( 1 − y ) 2 ​ + 3 ( 1 + y + y 2 ) 2 y + 4 ​ ∴ g ( y ) ≡ − 2 + 3 ( 1 − y ) 2 ​ + 3 ( 1 + y + y 2 ) 2 y + 4 ​   যা   নির্ণেয়   আংশিক   ভগ্নাংশ।   ​"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "(i) 5 ( 4 − 6 x ) − 1 + 15 ( 4 − 6 x ) − 2 + 45 ( 4 − 6 x ) − 3 + … … 5(4-6 x)^{-1}+15(4-6 x)^{-2}+45(4-6 x)^{-3}+\\ldots \\ldots 5 ( 4 − 6 x ) − 1 + 15 ( 4 − 6 x ) − 2 + 45 ( 4 − 6 x ) − 3 + …… . একটি অসীম গুণোত্তর ধারা। (ii) A = 3 + log ⁡ p ( q r ) , B = 6 + log ⁡ q ( r p ) \\mathrm{A}=3+\\log _{\\mathrm{p}}(\\mathrm{qr}), \\mathrm{B}=6+\\log _{\\mathrm{q}}(\\mathrm{rp}) A = 3 + lo g p ​ ( qr ) , B = 6 + lo g q ​ ( rp ) . এবং C = 7 + log ⁡ r ( p q ) \\mathrm{C}=7+\\log _{\\mathrm{r}}(\\mathrm{pq}) C = 7 + lo g r ​ ( pq )",
+      "tag": "Din.B 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "B = 8 \\mathrm{B}=8 B = 8 হলে, দেখাও যে, p q − 1 = q r − 1 \\mathrm{pq}^{-1}=\\mathrm{qr}^{-1} pq − 1 = qr − 1 .",
+          "explanation": "দেওয়া আছে, B = 6 + log ⁡ q ( r p ) B = 8  হলে,  6 + log ⁡ q ( r p ) = 8  বা,  log ⁡ q ( r p ) = 8 − 6  বা,  log ⁡ q ( r p ) = 2  বা,  p p = q 2  বা,  m p q r = q 2 q r  [উভয়পক্ষকে  q r  দ্বারা ভাগ করে]   বা,  p q = q r ∴ p q − 1 = q r − 1 . (দেখানো হলো)  \\begin{array}{l} \\quad \\mathrm{B}=6+\\log _{\\mathrm{q}}(\\mathrm{rp}) \\\\ \\mathrm{B}=8 \\text { হলে, } \\\\ \\quad 6+\\log _{\\mathrm{q}}(\\mathrm{rp})=8 \\\\ \\text { বা, } \\log _{\\mathrm{q}}(\\mathrm{rp})=8-6 \\\\ \\text { বা, } \\log _{\\mathrm{q}}(\\mathrm{rp})=2 \\\\ \\text { বা, } \\mathrm{pp}=\\mathrm{q}^{2} \\\\ \\text { বা, } \\frac{\\mathrm{mp}}{\\mathrm{qr}}=\\frac{\\mathrm{q}^{2}}{\\mathrm{qr}} \\text { [উভয়পক্ষকে } \\mathrm{qr} \\text { দ্বারা ভাগ করে] } \\\\ \\text { বা, } \\frac{\\mathrm{p}}{\\mathrm{q}}=\\frac{\\mathrm{q}}{\\mathrm{r}} \\\\ \\therefore \\mathrm{pq}^{-1}=\\mathrm{qr}^{-1} \\text {. (দেখানো হলো) } \\end{array} B = 6 + lo g q ​ ( rp ) B = 8   হলে ,  6 + lo g q ​ ( rp ) = 8   বা ,  lo g q ​ ( rp ) = 8 − 6   বা ,  lo g q ​ ( rp ) = 2   বা ,  pp = q 2   বা ,  qr mp ​ = qr q 2 ​  [ উভয়পক্ষকে   qr   দ্বারা   ভাগ   করে ]    বা ,  q p ​ = r q ​ ∴ pq − 1 = qr − 1 . ( দেখানো   হলো )  ​"
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, ( A − 2 ) − 1 + ( B − 5 ) − 1 + ( c − 6 ) − 1 = 1 (\\mathrm{A}-2)^{-1}+(\\mathrm{B}-5)^{-1}+(\\mathrm{c}-6)^{-1}=1 ( A − 2 ) − 1 + ( B − 5 ) − 1 + ( c − 6 ) − 1 = 1 .",
+          "explanation": "দেওয়া আছে, A = 3 + log ⁡ p ( q r ) B = 6 + log ⁡ q ( r p )  এবং  C = 7 + log ⁡ r ( p q )  বামপক্ষ  = ( A − 2 ) − 1 + ( B − 5 ) − 1 + ( C − 6 ) − 1 = 1   A − 2 + 1   B − 5 + 1 C − 6 = 1 3 + log ⁡ p ( q r ) − 2 + 1 6 + log ⁡ q ( r p ) − 5 + 1 7 + log ⁡ r ( p q ) − 6 = 1 1 + log ⁡ p q r + 1 1 + log ⁡ q r p + 1 1 + log ⁡ r p q \\begin{aligned} \\mathrm{A} & =3+\\log _{\\mathrm{p}}(\\mathrm{qr}) \\\\ \\mathrm{B} & =6+\\log _{\\mathrm{q}}(\\mathrm{rp}) \\\\ \\text { এবং } \\mathrm{C} & =7+\\log _{\\mathrm{r}}(\\mathrm{pq}) \\\\ \\text { বামপক্ষ } & =(\\mathrm{A}-2)^{-1}+(\\mathrm{B}-5)^{-1}+(\\mathrm{C}-6)^{-1} \\\\ & =\\frac{1}{\\mathrm{~A}-2}+\\frac{1}{\\mathrm{~B}-5}+\\frac{1}{\\mathrm{C}-6} \\\\ & =\\frac{1}{3+\\log _{\\mathrm{p}}(\\mathrm{qr})-2}+\\frac{1}{6+\\log _{\\mathrm{q}}(\\mathrm{rp})-5}+\\frac{1}{7+\\log _{\\mathrm{r}}(\\mathrm{pq})-6} \\\\ & =\\frac{1}{1+\\log _{\\mathrm{p}} \\mathrm{qr}}+\\frac{1}{1+\\log _{\\mathrm{q}} \\mathrm{rp}}+\\frac{1}{1+\\log _{\\mathrm{r}} \\mathrm{pq}} \\end{aligned} A B   এবং   C   বামপক্ষ   ​ = 3 + lo g p ​ ( qr ) = 6 + lo g q ​ ( rp ) = 7 + lo g r ​ ( pq ) = ( A − 2 ) − 1 + ( B − 5 ) − 1 + ( C − 6 ) − 1 =   A − 2 1 ​ +   B − 5 1 ​ + C − 6 1 ​ = 3 + lo g p ​ ( qr ) − 2 1 ​ + 6 + lo g q ​ ( rp ) − 5 1 ​ + 7 + lo g r ​ ( pq ) − 6 1 ​ = 1 + lo g p ​ qr 1 ​ + 1 + lo g q ​ rp 1 ​ + 1 + lo g r ​ pq 1 ​ ​ = 1 log ⁡ p p + log ⁡ p q r + 1 log ⁡ q q + log ⁡ q r p + 1 log ⁡ r r + log ⁡ r p q [ ∵ log ⁡ a a = 1 ] = 1 log ⁡ p p ( q r ) + 1 log ⁡ q q ( p r ) + 1 log ⁡ r r ( p q ) = 1 log ⁡ p p q r + 1 log ⁡ q p q r + 1 log ⁡ r p q r = log ⁡ p q r p + log ⁡ p q r q + log ⁡ p q r r [ ∵ log ⁡ a b = 1 log ⁡ b a ] = log ⁡ p q r ( p ⋅ q ⋅ r ) = log ⁡ p q r p q r = 1 =  ডানপক্ষ  ∴ ( A − 2 ) − 1 + ( B − 5 ) − 1 + ( C − 6 ) − 1 = 1. (  দেখানো হলো  ) \\begin{array}{l}=\\frac{1}{\\log _{p} p+\\log _{p} q r}+\\frac{1}{\\log _{q} q+\\log _{q} r p}+\\frac{1}{\\log _{r} r+\\log _{r} p q}\\left[\\because \\log _{a} a=1\\right] \\\\ =\\frac{1}{\\log _{p} p(q r)}+\\frac{1}{\\log _{q} q(p r)}+\\frac{1}{\\log _{r} r(p q)} \\\\ =\\frac{1}{\\log _{p} p q r}+\\frac{1}{\\log _{q} p q r}+\\frac{1}{\\log _{r} p q r} \\\\ =\\log _{p q r} p+\\log _{p q r} q+\\log _{p q r} r\\left[\\because \\log _{a} b=\\frac{1}{\\log _{b} a}\\right] \\\\ =\\log _{p q r}(p \\cdot q \\cdot r)=\\log _{p q r} p q r \\\\ =1=\\text { ডানপক্ষ } \\\\ \\therefore \\quad(A-2)^{-1}+(B-5)^{-1}+(C-6)^{-1}=1 .(\\text { দেখানো হলো })\\end{array} = l o g p ​ p + l o g p ​ q r 1 ​ + l o g q ​ q + l o g q ​ r p 1 ​ + l o g r ​ r + l o g r ​ pq 1 ​ [ ∵ lo g a ​ a = 1 ] = l o g p ​ p ( q r ) 1 ​ + l o g q ​ q ( p r ) 1 ​ + l o g r ​ r ( pq ) 1 ​ = l o g p ​ pq r 1 ​ + l o g q ​ pq r 1 ​ + l o g r ​ pq r 1 ​ = lo g pq r ​ p + lo g pq r ​ q + lo g pq r ​ r [ ∵ lo g a ​ b = l o g b ​ a 1 ​ ] = lo g pq r ​ ( p ⋅ q ⋅ r ) = lo g pq r ​ pq r = 1 =   ডানপক্ষ   ∴ ( A − 2 ) − 1 + ( B − 5 ) − 1 + ( C − 6 ) − 1 = 1. (   দেখানো   হলো   ) ​"
+        },
+        {
+          "label": "গ",
+          "question": "x এর উপর কী শর্ত আরোপ করলে গুণোত্তর ধারাটির অসীমতক সমষ্টি থাকবে তা নির্ণয়পূর্বক সেই সমষ্টি নির্ণয় কর।",
+          "explanation": "প্রদত্ত ধারা : 5 ( 4 − 6 x ) − 1 + 15 ( 4 − 6 x ) − 2 + 45 ( 4 − 6 x ) 3 + … 5(4-6 \\mathrm{x})^{-1}+15(4-6 \\mathrm{x})^{-2}+45(4-6 \\mathrm{x})^{3}+\\ldots 5 ( 4 − 6 x ) − 1 + 15 ( 4 − 6 x ) − 2 + 45 ( 4 − 6 x ) 3 + … = 5 4 − 6 x + 15 ( 4 − 6 x ) 2 + 45 ( 4 − 6 x ) 3 + … … . =\\frac{5}{4-6 x}+\\frac{15}{(4-6 x)^{2}}+\\frac{45}{(4-6 x)^{3}}+\\ldots \\ldots . = 4 − 6 x 5 ​ + ( 4 − 6 x ) 2 15 ​ + ( 4 − 6 x ) 3 45 ​ + …… . ধারাটির ১ম পদ, a = 5 4 − 6 x a=\\frac{5}{4-6 x} a = 4 − 6 x 5 ​ এবং সাধারণ অনুপাত, r = 15 ( 4 − 6 x ) 2 5 ( 4 − 6 x ) r=\\frac{\\frac{15}{(4-6 x)^{2}}}{\\frac{5}{(4-6 x)}} r = ( 4 − 6 x ) 5 ​ ( 4 − 6 x ) 2 15 ​ ​ = 15 ( 4 − 6 x ) 2 × ( 4 − 6 x ) 5 = 3 4 − 6 x =\\frac{15}{(4-6 x)^{2}} \\times \\frac{(4-6 x)}{5}=\\frac{3}{4-6 x} = ( 4 − 6 x ) 2 15 ​ × 5 ( 4 − 6 x ) ​ = 4 − 6 x 3 ​ প্রদত্ত ধারাটির অসীমতক সমন্টি থাকবে যদি | r ∣ < 1 \\mathrm{r} \\mid<1 r ∣< 1 হয়। অর্থাৎ, − 1 < r < 1 -1<\\mathrm{r}<1 − 1 < r < 1 বা, − 1 < 3 4 − 6 x < 1 -1<\\frac{3}{4-6 x}<1 − 1 < 4 − 6 x 3 ​ < 1 এখন, − 1 < 3 4 − 6 x -1<\\frac{3}{4-6 x} − 1 < 4 − 6 x 3 ​ বা, − 1 > 4 − 6 x 3 -1>\\frac{4-6 x}{3} − 1 > 3 4 − 6 x ​ [বিপরীতকরণ করে] বা, − 3 > 4 − 6 x -3>4-6 x − 3 > 4 − 6 x বা, -3-4>-6x বা, − 7 > − 6 x -7>-6 \\mathrm{x} − 7 > − 6 x বা, 6 x > 7 6 x>7 6 x > 7 বা, x > 7 6 x>\\frac{7}{6} x > 6 7 ​ আবার, 3 4 − 6 x < 1 \\frac{3}{4-6 x}<1 4 − 6 x 3 ​ < 1 বা, 4 − 6 x 3 > 1 \\frac{4-6 x}{3}>1 3 4 − 6 x ​ > 1 [বিপরীতকরণ করে] বা, 4 − 6 x > 3 4-6 x>3 4 − 6 x > 3 বা, − 6 x > 3 − 4 -6 x>3-4 − 6 x > 3 − 4 বা, − 6 x > − 1 -6 x>-1 − 6 x > − 1 বা, 6 x < 1 6 x<1 6 x < 1 ∴ x < 1 6 \\therefore \\quad x<\\frac{1}{6} ∴ x < 6 1 ​ ∴ \\therefore \\quad ∴ শর্ত : x > 7 6 \\mathrm{x}>\\frac{7}{6} x > 6 7 ​ অথবা x < 1 6 \\mathrm{x}<\\frac{1}{6} x < 6 1 ​ . ধারাটির অসীমতক সমষ্টি, S ∞ = a 1 − r = 5 4 − 6 x 1 − 3 4 − 6 x = 5 4 − 6 x 4 − 6 x − 3 4 − 6 x \\mathrm{S}_{\\infty}=\\frac{\\mathrm{a}}{1-\\mathrm{r}}=\\frac{\\frac{5}{4-6 \\mathrm{x}}}{1-\\frac{3}{4-6 \\mathrm{x}}}=\\frac{\\frac{5}{4-6 \\mathrm{x}}}{\\frac{4-6 \\mathrm{x}-3}{4-6 \\mathrm{x}}} S ∞ ​ = 1 − r a ​ = 1 − 4 − 6 x 3 ​ 4 − 6 x 5 ​ ​ = 4 − 6 x 4 − 6 x − 3 ​ 4 − 6 x 5 ​ ​ = 5 4 − 6 x × 4 − 6 x 1 − 6 x = 5 1 − 6 x =\\frac{5}{4-6 x} \\times \\frac{4-6 x}{1-6 x}=\\frac{5}{1-6 x} = 4 − 6 x 5 ​ × 1 − 6 x 4 − 6 x ​ = 1 − 6 x 5 ​ নির্ণেয় শর্ত : x > 7 6 x>\\frac{7}{6} x > 6 7 ​ অথবা x < 1 6 x<\\frac{1}{6} x < 6 1 ​ এবং সমষ্টি = 5 1 − 6 x =\\frac{5}{1-6 x} = 1 − 6 x 5 ​ ."
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "△ P Q R \\triangle \\mathrm{PQR} △ PQR এর মধ্যমাগুলো হলো PE, QF এবং RG.",
+      "tag": "Din.B 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "ত্রিভুজটির পরিবৃত্তের পরিধি 36 সে.মি. হলে, এর নববিন্দু বৃত্তের ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, P Q 2 + P R 2 = 2 P E 2 + 2 R E 2 \\mathrm{PQ}^{2}+\\mathrm{PR}^{2}=2 \\mathrm{PE}^{2}+2 \\mathrm{RE}^{2} PQ 2 + PR 2 = 2 PE 2 + 2 RE 2 .",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "যদি ত্রিভুজটির মধ্যমাত্রয় D বিন্দুতে মিলিত হয়, তবে প্রমাণ কর যে, 3 ( P D 2 + Q D 2 + R D 2 ) = P Q 2 + Q R 2 + P R 2 3\\left(\\mathrm{PD}^{2}+\\mathrm{QD}^{2}+\\mathrm{RD}^{2}\\right)=\\mathrm{PQ}^{2}+\\mathrm{QR}^{2}+\\mathrm{PR}^{2} 3 ( PD 2 + QD 2 + RD 2 ) = PQ 2 + QR 2 + PR 2",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "(i) 12 সেমি বাহুবিশিষ্ট বর্গাকার ভূমির উপর অবস্থিত একটি পিরামিডের উচ্চতা 8 সেমি। (ii) Δ \\Delta Δ PQR এর PQ এবং PR বাহুর মধ্যবিন্দুযথাক্রমে M ও N।",
+      "tag": "Din.B 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি ঘনকের পৃষ্ঠতলের কর্ণের দৈর্ঘ্য পিরামিডটির উচ্চতার সমান হলে, এর সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "যদি পিরামিডটির সমগ্রতলের ক্ষেত্রফল একটি গোলকের পৃষ্ঠতলের ক্ষেত্রফলের সমান হয়, তবে গোলকটির আয়তন নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "(ii) নং হতে ভেক্টর পদ্ধতিতে প্রমাণ কর যে,",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "(i) 2 x − 4 y + 6 a = 0 2 \\mathrm{x}-4 \\mathrm{y}+6 \\mathrm{a}=0 2 x − 4 y + 6 a = 0 এবং x + y = 8 \\mathrm{x}+\\mathrm{y}=8 x + y = 8 রেখাদ্বয় পরস্পর Q বিন্দুতে ছেদ করে। (ii) A ( 0 , − 1 ) , B ( 8 , 3 ) , C ( 6 , 7 ) \\mathrm{A}(0,-1), \\mathrm{B}(8,3), \\mathrm{C}(6,7) A ( 0 , − 1 ) , B ( 8 , 3 ) , C ( 6 , 7 ) এবং D ( − 2 , 3 ) \\mathrm{D}(-2,3) D ( − 2 , 3 ) একটি চতুর্ভুজের চারটি শীর্ষবিন্দু।",
+      "tag": "Din.B 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "BD রেখার সমীকরণ নির্ণয় কর।",
+          "explanation": "B ( 8 , 3 ) \\mathrm{B}(8,3) B ( 8 , 3 ) এবং D ( − 2 , 3 ) \\mathrm{D}(-2,3) D ( − 2 , 3 ) বিন্দুগামী BD রেখার সমীকরণ, y − y 1 x − x 1 = y 1 − y 2 x 1 − x 2 \\frac{y-y_{1}}{x-x_{1}}=\\frac{y_{1}-y_{2}}{x_{1}-x_{2}} x − x 1 ​ y − y 1 ​ ​ = x 1 ​ − x 2 ​ y 1 ​ − y 2 ​ ​ বা, y − 3 x − 8 = 3 − 3 8 − ( − 2 ) \\frac{\\mathrm{y}-3}{\\mathrm{x}-8}=\\frac{3-3}{8-(-2)} x − 8 y − 3 ​ = 8 − ( − 2 ) 3 − 3 ​ বা, y − 3 x − 8 = 0 10 \\frac{y-3}{x-8}=\\frac{0}{10} x − 8 y − 3 ​ = 10 0 ​ বা, y − 3 x − 8 = 0 \\frac{y-3}{x-8}=0 x − 8 y − 3 ​ = 0 বা, y − 3 = 0 y-3=0 y − 3 = 0 ∴ y = 3 \\therefore \\quad y=3 ∴ y = 3 নির্ণেয় সমীকরণ, y = 3 y=3 y = 3 ."
+        },
+        {
+          "label": "খ",
+          "question": "এমন একটি সরলরেখার সমীকরণ নির্ণয় কর যাQ বিন্দু দিয়ে যায় এবং যা 6 x – 4 y + 5 = 0 6x – 4y + 5 = 0 6 x –4 y + 5 = 0 রেখার সমান্তরাল।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "ABCD চতুর্ভুজের যে অংশ ১ম চতুর্ভাগে অবস্থান করে তার ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "(i) 5 sin ⁡ 2 θ + 4 cos ⁡ 2 θ = P 5 \\sin ^{2} \\theta+4 \\cos ^{2} \\theta=P 5 sin 2 θ + 4 cos 2 θ = P (ii) cosec ⁡ α + cot ⁡ α = M \\operatorname{cosec} \\alpha+\\cot \\alpha=\\mathrm{M} cosec α + cot α = M .",
+      "tag": "Din.B 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "50 ∘ 40 ′ 30 ′ ′ 50^{\\circ} 40^{\\prime} 30^{\\prime \\prime} 5 0 ∘ 4 0 ′ 3 0 ′′ কে রেডিয়ানে প্রকাশ কর।",
+          "explanation": "50 ∘ 40 ′ 30 ′ ′ = 50 ∘ ( 40 30 60 ) ′ = 50 ∘ ( 40 1 2 ) ′ = 50 ∘ ( 81 2 ) ′ = ( 50 81 2 × 60 ) ∘ = ( 50 27 40 ) ∘ = ( 2027 40 ) ∘ = 2027 40 × π 180  রেডিয়ান  [ ∵ 1 ∘ = π 180  রেডিয়ান  ] = 0.8844  রেডিয়ান (প্রায়)  ∴ 50 ∘ 40 ′ 30 ′ ′ = 0.8844  রেডিয়ান (প্রায়)।  \\begin{aligned} 50^{\\circ} 40^{\\prime} 30^{\\prime \\prime} & =50^{\\circ}\\left(40 \\frac{30}{60}\\right)^{\\prime} \\\\ & =50^{\\circ}\\left(40 \\frac{1}{2}\\right)^{\\prime} \\\\ & =50^{\\circ}\\left(\\frac{81}{2}\\right)^{\\prime} \\\\ & =\\left(50 \\frac{81}{2 \\times 60}\\right)^{\\circ}=\\left(50 \\frac{27}{40}\\right)^{\\circ}=\\left(\\frac{2027}{40}\\right)^{\\circ} \\\\ & =\\frac{2027}{40} \\times \\frac{\\pi}{180} \\text { রেডিয়ান }\\left[\\because 1^{\\circ}=\\frac{\\pi}{180} \\text { রেডিয়ান }\\right] \\\\ & =0.8844 \\text { রেডিয়ান (প্রায়) } \\\\ \\therefore 50^{\\circ} 40^{\\prime} 30^{\\prime \\prime} & =0.8844 \\text { রেডিয়ান (প্রায়)। }\\end{aligned} 5 0 ∘ 4 0 ′ 3 0 ′′ ∴ 5 0 ∘ 4 0 ′ 3 0 ′′ ​ = 5 0 ∘ ( 40 60 30 ​ ) ′ = 5 0 ∘ ( 40 2 1 ​ ) ′ = 5 0 ∘ ( 2 81 ​ ) ′ = ( 50 2 × 60 81 ​ ) ∘ = ( 50 40 27 ​ ) ∘ = ( 40 2027 ​ ) ∘ = 40 2027 ​ × 180 π ​   রেডিয়ান   [ ∵ 1 ∘ = 180 π ​   রেডিয়ান   ] = 0.8844   রেডিয়ান  ( প্রায় )  = 0.8844   রেডিয়ান  ( প্রায় ) ।   ​"
+        },
+        {
+          "label": "খ",
+          "question": "যদি M = 2 + 3 M=\\sqrt{2}+\\sqrt{3} M = 2 ​ + 3 ​ হয় তবে প্রমাণ কর যে; sec ⁡ α = ± 3 2 . \\sec \\alpha= \\pm \\sqrt{\\frac{3}{2}} . sec α = ± 2 3 ​ ​ .",
+          "explanation": "দেওয়া আছে, cosec ⁡ α + cot ⁡ α = M \\operatorname{cosec} \\alpha+\\cot \\alpha=\\mathrm{M} cosec α + cot α = M এখন, M = 2 + 3 \\mathrm{M}=\\sqrt{2}+\\sqrt{3} M = 2 ​ + 3 ​ হলে, cosec ⁡ α + cot ⁡ α = 2 + 3 \\operatorname{cosec} \\alpha+\\cot \\alpha=\\sqrt{2}+\\sqrt{3} cosec α + cot α = 2 ​ + 3 ​ বা, 1 sin ⁡ α + cos ⁡ α sin ⁡ α = 2 + 3 [ ∵ cosec ⁡ α = 1 sin ⁡ α \\frac{1}{\\sin \\alpha}+\\frac{\\cos \\alpha}{\\sin \\alpha}=\\sqrt{2}+\\sqrt{3}\\left[\\because \\operatorname{cosec} \\alpha=\\frac{1}{\\sin \\alpha}\\right. s i n α 1 ​ + s i n α c o s α ​ = 2 ​ + 3 ​ [ ∵ cosec α = s i n α 1 ​ এবং cot ⁡ α = cos ⁡ α sin ⁡ α ] \\left.\\cot \\alpha=\\frac{\\cos \\alpha}{\\sin \\alpha}\\right] cot α = s i n α c o s α ​ ] বা, 1 + cos ⁡ α sin ⁡ α = 2 + 3 \\frac{1+\\cos \\alpha}{\\sin \\alpha}=\\sqrt{2}+\\sqrt{3} s i n α 1 + c o s α ​ = 2 ​ + 3 ​ বা, ( 1 + cos ⁡ α sin ⁡ α ) 2 = ( 2 + 3 ) 2 \\left(\\frac{1+\\cos \\alpha}{\\sin \\alpha}\\right)^{2}=(\\sqrt{2}+\\sqrt{3})^{2} ( s i n α 1 + c o s α ​ ) 2 = ( 2 ​ + 3 ​ ) 2 , [বর্গ করে] বা, ( 1 + cos ⁡ α ) 2 sin ⁡ 2 α = ( 2 ) 2 + 2 ⋅ 2 ⋅ 3 + ( 3 ) 2 \\frac{(1+\\cos \\alpha)^{2}}{\\sin ^{2} \\alpha}=(\\sqrt{2})^{2}+2 \\cdot \\sqrt{2} \\cdot \\sqrt{3}+(\\sqrt{3})^{2} s i n 2 α ( 1 + c o s α ) 2 ​ = ( 2 ​ ) 2 + 2 ⋅ 2 ​ ⋅ 3 ​ + ( 3 ​ ) 2 বা, ( 1 + cos ⁡ α ) 2 1 − cos ⁡ 2 α = 2 + 2 6 + 3 [ ∵ sin ⁡ 2 α = 1 − cos ⁡ 2 α ] \\frac{(1+\\cos \\alpha)^{2}}{1-\\cos ^{2} \\alpha}=2+2 \\sqrt{6}+3\\left[\\because \\sin ^{2} \\alpha=1-\\cos ^{2} \\alpha\\right] 1 − c o s 2 α ( 1 + c o s α ) 2 ​ = 2 + 2 6 ​ + 3 [ ∵ sin 2 α = 1 − cos 2 α ] বা, ( 1 + cos ⁡ α ) ( 1 + cos ⁡ α ) ( 1 + cos ⁡ α ) ( 1 − cos ⁡ α ) = 5 + 2 6 \\frac{(1+\\cos \\alpha)(1+\\cos \\alpha)}{(1+\\cos \\alpha)(1-\\cos \\alpha)}=5+2 \\sqrt{6} ( 1 + c o s α ) ( 1 − c o s α ) ( 1 + c o s α ) ( 1 + c o s α ) ​ = 5 + 2 6 ​ বা, 1 + cos ⁡ α 1 − cos ⁡ α = 5 + 2 6 \\frac{1+\\cos \\alpha}{1-\\cos \\alpha}=5+2 \\sqrt{6} 1 − c o s α 1 + c o s α ​ = 5 + 2 6 ​ বা, 1 + cos ⁡ α + 1 − cos ⁡ α 1 + cos ⁡ α − 1 + cos ⁡ α = 5 + 2 6 + 1 5 + 2 6 − 1 \\frac{1+\\cos \\alpha+1-\\cos \\alpha}{1+\\cos \\alpha-1+\\cos \\alpha}=\\frac{5+2 \\sqrt{6}+1}{5+2 \\sqrt{6}-1} 1 + c o s α − 1 + c o s α 1 + c o s α + 1 − c o s α ​ = 5 + 2 6 ​ − 1 5 + 2 6 ​ + 1 ​ [যোজন-বিয়োজন করে] বা, 2 2 cos ⁡ α = 6 + 2 6 4 + 2 6 \\frac{2}{2 \\cos \\alpha}=\\frac{6+2 \\sqrt{6}}{4+2 \\sqrt{6}} 2 c o s α 2 ​ = 4 + 2 6 ​ 6 + 2 6 ​ ​ বা, 1 cos ⁡ α = 2 3 ( 3 + 2 ) 2 2 ( 2 + 3 ) \\frac{1}{\\cos \\alpha}=\\frac{2 \\sqrt{3}(\\sqrt{3}+\\sqrt{2})}{2 \\sqrt{2}(\\sqrt{2}+\\sqrt{3})} c o s α 1 ​ = 2 2 ​ ( 2 ​ + 3 ​ ) 2 3 ​ ( 3 ​ + 2 ​ ) ​ বা, 1 cos ⁡ α = 3 2 \\frac{1}{\\cos \\alpha}=\\frac{\\sqrt{3}}{\\sqrt{2}} c o s α 1 ​ = 2 ​ 3 ​ ​ . বা, ( 1 cos ⁡ α ) 2 = ( 3 2 ) 2 \\left(\\frac{1}{\\cos \\alpha}\\right)^{2}=\\left(\\frac{\\sqrt{3}}{\\sqrt{2}}\\right)^{2} ( c o s α 1 ​ ) 2 = ( 2 ​ 3 ​ ​ ) 2 [বর্গ করে] বা, 1 cos ⁡ 2 α = 3 2 \\frac{1}{\\cos ^{2} \\alpha}=\\frac{3}{2} c o s 2 α 1 ​ = 2 3 ​ বা, sec ⁡ 2 α = 3 2 \\sec ^{2} \\alpha=\\frac{3}{2} sec 2 α = 2 3 ​ ∴ sec ⁡ α = ± 3 2 \\therefore \\quad \\sec \\alpha= \\pm \\sqrt{\\frac{3}{2}} ∴ sec α = ± 2 3 ​ ​ . (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "যদি 2 P = 9 2 \\mathrm{P}=9 2 P = 9 হয়, তবে θ \\theta θ এর মান নির্ণয় কর। যেখানে 0 < θ < 2 π 0<\\theta<2 \\pi 0 < θ < 2 π .",
+          "explanation": "দেওয়া আছে, 5 sin ⁡ 2 θ + 4 cos ⁡ 2 θ = P 5 \\sin ^{2} \\theta+4 \\cos ^{2} \\theta=P 5 sin 2 θ + 4 cos 2 θ = P এখন, 2P = 9 হলে, 2 ( 5 sin ⁡ 2 θ + 4 cos ⁡ 2 θ ) = 9  বা,  10 sin ⁡ 2 θ + 8 cos ⁡ 2 θ = 9  বা,  10 sin ⁡ 2 θ + 8 ( 1 − sin ⁡ 2 θ ) = 9 [ ∵ cos ⁡ 2 θ = 1 − sin ⁡ 2 θ ]  বা,  10 sin ⁡ 2 θ + 8 − 8 sin ⁡ 2 θ = 9  বা,  2 sin ⁡ 2 θ = 9 − 8  বা,  2 sin ⁡ 2 θ = 1  বা,  sin ⁡ 2 θ = 1 2 ∴ sin ⁡ θ = ± 1 2 sin ⁡ θ = 1 2  হলে, প্রথম চতুর্ভাগে,  sin ⁡ θ = 1 2 = sin ⁡ π 4 ∴ θ = π 4 sin ⁡ θ = 1 2  হলে, দ্বিতীয় চতুর্ভাগে,  sin ⁡ θ = sin ⁡ ( π − π 4 ) = sin ⁡ 3 π 4 ∴ θ = 3 π 4 \\begin{array}{l} 2\\left(5 \\sin ^{2} \\theta+4 \\cos ^{2} \\theta\\right)=9 \\\\ \\text { বা, } 10 \\sin ^{2} \\theta+8 \\cos ^{2} \\theta=9 \\\\ \\text { বা, } 10 \\sin ^{2} \\theta+8\\left(1-\\sin ^{2} \\theta\\right)=9\\left[\\because \\cos ^{2} \\theta=1-\\sin ^{2} \\theta\\right] \\\\ \\text { বা, } 10 \\sin ^{2} \\theta+8-8 \\sin ^{2} \\theta=9 \\\\ \\text { বা, } 2 \\sin ^{2} \\theta=9-8 \\\\ \\text { বা, } 2 \\sin ^{2} \\theta=1 \\\\ \\text { বা, } \\sin ^{2} \\theta=\\frac{1}{2} \\\\ \\therefore \\quad \\sin \\theta= \\pm \\frac{1}{\\sqrt{2}} \\\\ \\sin \\theta=\\frac{1}{\\sqrt{2}} \\text { হলে, প্রথম চতুর্ভাগে, } \\sin \\theta=\\frac{1}{\\sqrt{2}}=\\sin \\frac{\\pi}{4} \\therefore \\theta=\\frac{\\pi}{4} \\\\ \\sin \\theta=\\frac{1}{\\sqrt{2}} \\text { হলে, দ্বিতীয় চতুর্ভাগে, } \\sin \\theta=\\sin \\left(\\pi-\\frac{\\pi}{4}\\right)=\\sin \\frac{3 \\pi}{4} \\\\ \\therefore \\quad \\theta=\\frac{3 \\pi}{4} \\end{array} 2 ( 5 sin 2 θ + 4 cos 2 θ ) = 9   বা ,  10 sin 2 θ + 8 cos 2 θ = 9   বা ,  10 sin 2 θ + 8 ( 1 − sin 2 θ ) = 9 [ ∵ cos 2 θ = 1 − sin 2 θ ]   বা ,  10 sin 2 θ + 8 − 8 sin 2 θ = 9   বা ,  2 sin 2 θ = 9 − 8   বা ,  2 sin 2 θ = 1   বা ,  sin 2 θ = 2 1 ​ ∴ sin θ = ± 2 ​ 1 ​ sin θ = 2 ​ 1 ​   হলে ,  প্রথম   চতুর্ভাগে ,  sin θ = 2 ​ 1 ​ = sin 4 π ​ ∴ θ = 4 π ​ sin θ = 2 ​ 1 ​   হলে ,  দ্বিতীয়   চতুর্ভাগে ,  sin θ = sin ( π − 4 π ​ ) = sin 4 3 π ​ ∴ θ = 4 3 π ​ ​ আবার, sin ⁡ θ = − 1 2 \\sin \\theta=-\\frac{1}{\\sqrt{2}} sin θ = − 2 ​ 1 ​ হলে, তৃতীয় চতুর্ভাগে, sin ⁡ θ = − 1 2 = − sin ⁡ π 4 = sin ⁡ ( π + π 4 ) = sin ⁡ 5 π 4 \\sin \\theta=-\\frac{1}{\\sqrt{2}}=-\\sin \\frac{\\pi}{4}=\\sin \\left(\\pi+\\frac{\\pi}{4}\\right)=\\sin \\frac{5 \\pi}{4} sin θ = − 2 ​ 1 ​ = − sin 4 π ​ = sin ( π + 4 π ​ ) = sin 4 5 π ​ ∴ θ = 5 π 4 sin ⁡ θ = − 1 2  হलে,  \\begin{array}{l} \\therefore \\quad \\theta=\\frac{5 \\pi}{4} \\\\ \\sin \\theta=-\\frac{1}{\\sqrt{2}} \\text { হलে, } \\end{array} ∴ θ = 4 5 π ​ sin θ = − 2 ​ 1 ​   হलে ,  ​ চতুর্থ চতুর্ভাগে, sin ⁡ θ = − 1 2 = − sin ⁡ π 4 = sin ⁡ ( 2 π − π 4 ) = sin ⁡ 7 π 4 \\sin \\theta=-\\frac{1}{\\sqrt{2}}=-\\sin \\frac{\\pi}{4}=\\sin \\left(2 \\pi-\\frac{\\pi}{4}\\right)=\\sin \\frac{7 \\pi}{4} sin θ = − 2 ​ 1 ​ = − sin 4 π ​ = sin ( 2 π − 4 π ​ ) = sin 4 7 π ​ ∴ θ = 7 π 4 \\therefore \\quad \\theta=\\frac{7 \\pi}{4} ∴ θ = 4 7 π ​ 0 < θ < 2 π 0<\\theta<2 \\pi 0 < θ < 2 π ব্যবধিতে θ = π 4 , 3 π 4 , 5 π 4 , 7 π 4 \\theta=\\frac{\\pi}{4}, \\frac{3 \\pi}{4}, \\frac{5 \\pi}{4}, \\frac{7 \\pi}{4} θ = 4 π ​ , 4 3 π ​ , 4 5 π ​ , 4 7 π ​ নির্ণেয় মান : θ = π 4 , 3 π 4 , 5 π 4 , 7 π 4 \\theta=\\frac{\\pi}{4}, \\frac{3 \\pi}{4}, \\frac{5 \\pi}{4}, \\frac{7 \\pi}{4} θ = 4 π ​ , 4 3 π ​ , 4 5 π ​ , 4 7 π ​ ."
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "(i) মোস্তাকিমের ঢাকা থেকে কুমিল্লা ট্রেনে যাওয়ার সম্ভাবনা 7 11 \\frac{7}{11} 11 7 ​ এবং কুমিল্লা থেকে চট্টগ্রামে বাসে যাওয়ার সম্ভাবনা 9 10 \\frac{9}{10} 10 9 ​ . (ii) একটি বাসে 3 y 3 y 3 y সংখ্যক লাল বল, ( y + 6 ) (y+6) ( y + 6 ) সংখ্যক সবুজ বল, ( 2 y + 4 ) (2 y+4) ( 2 y + 4 ) সংখ্যক হলুদ বল আছে। দৈবভাবে একটি বল নেওয়া হলো।",
+      "tag": "Din.B 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "",
+          "explanation": "আমরা জানি, আগস্ট মাস 31 দিন। যেহেতু আগস্ট মাসে 14 দিন বৃষ্টি হয়েছে। সুতরাং, আগস্ট মাসে যেকোনো একদিন বৃষ্টি হওয়ার সম্ভাবনা = 14 31 =\\frac{14}{31} = 31 14 ​ অতএব,7ই আগস্ট বৃষ্টি হওয়ার সম্ভাবনা = 14 31 =\\frac{14}{31} = 31 14 ​ ∴ \\therefore \\quad ∴ 7ই আগস্ট বৃষ্টি না হওয়ার সম্ভাবনা = 1 − 14 31 = 31 − 14 31 = 17 31 =1-\\frac{14}{31}=\\frac{31-14}{31}=\\frac{17}{31} = 1 − 31 14 ​ = 31 31 − 14 ​ = 31 17 ​ সুতরাং, 7ই আগস্ট বৃষ্টি না হওয়ার সম্ভাবনা 17 31 \\frac{17}{31} 31 17 ​ ।"
+        },
+        {
+          "label": "খ",
+          "question": "বলটি লাল অথবা সবুজ হবার সম্ভাবনা 13 20 \\frac{13}{20} 20 13 ​ হলে, মোট বলের সংখ্যা নির্ণয় কর।",
+          "explanation": "ব্যাগে লাল বল =3yটি ” সবুজ ” = (y+6) টি ” হলুদ ” = (2y+4) টি ∴ ব্যাগে মোট বলের সংখ্যা = (6y+10)টি ∴ \\therefore ∴ দৈবভাবে নেওয়া বলটি লাল হওয়ার সম্ভাবনা = 3 y 6 y + 10 =\\frac{3 y}{6 y+10} = 6 y + 10 3 y ​ \" \" \"  সবুজ \"  \" = y + 6 6 y + 10 \" \\quad \" \\quad \" \\text { সবুজ \" } \\quad \" \\quad=\\frac{y+6}{6 y+10} \" \" \"   সবুজ  \"  \" = 6 y + 10 y + 6 ​ ∴ \\therefore ∴ দৈবভাবে নেওয়া বলটি লাল অথবা সবুজ হওয়ার সম্ভাবনা = 3 y 6 y + 10 + y + 6 6 y + 10 =\\frac{3 y}{6 y+10}+\\frac{y+6}{6 y+10} = 6 y + 10 3 y ​ + 6 y + 10 y + 6 ​ শর্তমতে, 3 y 6 y + 10 + y + 6 6 y + 10 = 13 20 \\frac{3 y}{6 y+10}+\\frac{y+6}{6 y+10}=\\frac{13}{20} 6 y + 10 3 y ​ + 6 y + 10 y + 6 ​ = 20 13 ​ বা, 3 y + y + 6 6 y + 10 = 13 20 \\frac{3 y+y+6}{6 y+10}=\\frac{13}{20} 6 y + 10 3 y + y + 6 ​ = 20 13 ​ বা, 4 y + 6 6 y + 10 = 13 20 \\frac{4 y+6}{6 y+10}=\\frac{13}{20} 6 y + 10 4 y + 6 ​ = 20 13 ​ বা, 80 y + 120 = 78 y + 130 80 y+120=78 y+130 80 y + 120 = 78 y + 130 বা, 80 y − 78 y = 130 − 120 80 y-78 y=130-120 80 y − 78 y = 130 − 120 বা, 2 y = 10 2 y=10 2 y = 10 ∴ y = 5 \\therefore \\quad y=5 ∴ y = 5 ∴ \\therefore ∴ ব্যাগে মোট বলের সংখ্যা = ( 6 y + 10 ) =(6 \\mathrm{y}+10) = ( 6 y + 10 ) = ( 6 × 5 + 10 ) = 30 + 10 = 40  টি  =(6 \\times 5+10)=30+10=40 \\text { টি } = ( 6 × 5 + 10 ) = 30 + 10 = 40   টি"
+        },
+        {
+          "label": "গ",
+          "question": "মোস্তাকিমের ঢাকা থেকে কুমিল্লা ট্রেনে না যাওয়া এবং কুমিল্লা থেকে চট্টগ্রাম বাসে যাওয়ার সম্ভাবনা Probability tree ব্যবহার করে নির্ণয় কর।",
+          "explanation": "সম্ভাবনার মাধ্যমে Probability tree নিচে অঙ্কন করা হলো: ∴ \\therefore ∴ মোস্তাকিমের ঢাকা থেকে কুমিল্পা ট্রেনে না যাওয়া এবং কুমিল্পা থেকে চট্টগ্রাম বাসে যাওয়ার সম্ভাবনা = 4 11 × 9 10 = 36 110 = 18 55 =\\frac{4}{11} \\times \\frac{9}{10}=\\frac{36}{110}=\\frac{18}{55} = 11 4 ​ × 10 9 ​ = 110 36 ​ = 55 18 ​ নির্ণেয় সম্ভাবনা 18 55 \\frac{18}{55} 55 18 ​ ."
+        }
+      ]
+    }
+  ]
+}

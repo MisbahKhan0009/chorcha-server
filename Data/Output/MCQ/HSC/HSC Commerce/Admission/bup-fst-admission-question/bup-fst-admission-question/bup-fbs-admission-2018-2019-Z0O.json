@@ -1,0 +1,2251 @@
+{
+  "read_id": "bup-fbs-admission-2018-2019-Z0O",
+  "title": "BUP FST ADMISSION 18-19",
+  "count": 68,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "BUP FST 18 19",
+      "question": "একটি সমান্তরাল পাত ধারকের প্রত্যেক পাত্রের ক্ষেত্রফল 1.5 x 10 6 mm 2 এবং পাতদ্বয়ের মধ্যবর্তী দূরত্ব 2 mm। যদি বিভব পার্থক্য 60 V হয় তবে প্রত্যেক পাতের চার্জ কত C? (ε 0 = 8.854 x 10 -12 F/m)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.56 x 10 -9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3.98 x 10 -9",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4.82 x 10 -9",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5.15 x 10 -9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.56 x 10 -9",
+      "option_b": "3.98 x 10 -9",
+      "option_c": "4.82 x 10 -9",
+      "option_d": "5.15 x 10 -9",
+      "correct": "খ",
+      "explanation": "একটি সমান্তরাল পাত ধারকের চার্জ নির্ণয় করার জন্য আমাদের প্রথমে ধারকটির ধারকত্ব ( C ) (C) ( C ) বের করতে হবে এবং তারপর বিভব পার্থক্যের সাথে তা গুণ করতে হবে। এখানে দেওয়া আছে: প্রতিটি পাতের ক্ষেত্রফল, A = 1.5 × 10 6 mm 2 = 1.5 m 2 A = 1.5 \\times 10^6 \\text{ mm}^2 = 1.5 \\text{ m}^2 A = 1.5 × 1 0 6 mm 2 = 1.5 m 2 (যেহেতু 1 m 2 = 10 6 mm 2 1 \\text{ m}^2 = 10^6 \\text{ mm}^2 1 m 2 = 1 0 6 mm 2 ) পাতদ্বয়ের মধ্যবর্তী দূরত্ব, d = 2 mm = 2 × 10 − 3 m d = 2 \\text{ mm} = 2 \\times 10^{-3} \\text{ m} d = 2 mm = 2 × 1 0 − 3 m বিভব পার্থক্য, V = 60 V V = 60 \\text{ V} V = 60 V শূন্যস্থানের ভেদনযোগ্যতা, ϵ 0 = 8.854 × 10 − 12 F/m \\epsilon_0 = 8.854 \\times 10^{-12} \\text{ F/m} ϵ 0 ​ = 8.854 × 1 0 − 12 F/m সমান্তরাল পাত ধারকের ক্ষেত্রে আমরা জানি, C = ϵ 0 A d C = \\frac{\\epsilon_0 A}{d} C = d ϵ 0 ​ A ​ মান বসিয়ে পাই: C = 8.854 × 10 − 12 × 1.5 2 × 10 − 3 C = \\frac{8.854 \\times 10^{-12} \\times 1.5}{2 \\times 10^{-3}} C = 2 × 1 0 − 3 8.854 × 1 0 − 12 × 1.5 ​ C = 6.6405 × 10 − 9 F C = 6.6405 \\times 10^{-9} \\text{ F} C = 6.6405 × 1 0 − 9 F আমরা জানি, চার্জ Q = C V Q = CV Q = C V মান বসিয়ে পাই: Q = ( 6.6405 × 10 − 9 ) × 60 Q = (6.6405 \\times 10^{-9}) \\times 60 Q = ( 6.6405 × 1 0 − 9 ) × 60 Q = 3.9843 × 10 − 7 C Q = 3.9843 \\times 10^{-7} \\text{ C} Q = 3.9843 × 1 0 − 7 C"
+    },
+    {
+      "number": "2",
+      "tag": "BUP FST 18 19",
+      "question": "একটি আরোহী ট্রান্সফরমারের 150 V হলে 3000 V পাওয়া যায়। যদি মুখ্য কুন্ডলীর পাক সংখ্যা 200 হয়, তবে গৌণ কুন্ডলীর পাক সংখ্যা কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2000",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3000",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4000",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1000",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2000",
+      "option_b": "3000",
+      "option_c": "4000",
+      "option_d": "1000",
+      "correct": "গ",
+      "explanation": "আমরা জানি, N P N S = V P V S \\frac{N_P}{N_S} = \\frac{V_P}{V_S} N S ​ N P ​ ​ = V S ​ V P ​ ​ এখানে, মুখ্য কুণ্ডলীর পাক সংখ্যা, N P = 200 N_P = 200 N P ​ = 200 গৌণ কুণ্ডলীর পাক সংখ্যা, N S = 2 N_S = 2 N S ​ = 2 গৌণ কুণ্ডলীর ভোল্টেজ, V S = 3000 V V_S = 3000V V S ​ = 3000 V মুখ্য কুণ্ডলীর ভোল্টেজ, V P = 150 V V_P = 150V V P ​ = 150 V N S = V S V P × N P = 4000 N_S = \\frac{V_S}{V_P} \\times N_P = 4000 N S ​ = V P ​ V S ​ ​ × N P ​ = 4000 (Ans)."
+    },
+    {
+      "number": "3",
+      "tag": "BUP FST 18 19",
+      "question": "সমান ধারকত্বের 4টি ধারকের শ্রেণী সমবায়ে থাকাকালীন সমতুল ধারকত্ব তাদের সমান্তরাল থাকা কালিন সমতুল ধারকত্বের কত গুণ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "8",
+      "option_c": "16",
+      "option_d": "2",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "BUP FST 18 19",
+      "question": "একটি হুইটস্টোন ব্রিজের প্রথম, দ্বিতীয় ও তৃতীয় বাহুতে যথাক্রমে 8, 12 ও 16 ওহমের রোধ স্থাপন করে চতুর্থ বাহুতে কত রােধ যুক্ত করলে ব্রিজটি সাম্যাবস্থা প্রাপ্ত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6Ω",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12Ω",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "18Ω",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24Ω",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6Ω",
+      "option_b": "12Ω",
+      "option_c": "18Ω",
+      "option_d": "24Ω",
+      "correct": "ঘ",
+      "explanation": "P Q = R s ∴ S = R × Q P = 12 × 16 8 = 24 Ω \\frac{\\mathrm{P}}{\\mathrm{Q}}=\\frac{\\mathrm{R}}{\\mathrm{s}} \\therefore \\mathrm{S}=\\frac{\\mathrm{R} \\times \\mathrm{Q}}{\\mathrm{P}}=\\frac{12 \\times 16}{\\mathrm{~8}}=24 \\Omega Q P ​ = s R ​ ∴ S = P R × Q ​ = 8 12 × 16 ​ = 24Ω"
+    },
+    {
+      "number": "5",
+      "tag": "BUP FST 18 19",
+      "question": "5V তড়িৎ চালক শক্তি ও 4 Ohm অভ্যন্তরীণ রোধ বিশিষ্ট একটি কোষের প্রান্ত দ্বয় সমান্তরাল ভাবে সংযুক্ত 10 Ohm & 15 Ohm রোধের ছোট তার দ্বারা যুক্ত। কোষের ভিতর দিয়ে তড়িৎ প্রবাহের পরিমাণ কত অ্যাম্পিয়ার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5/29",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5/4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5/11",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1/2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5/29",
+      "option_b": "5/4",
+      "option_c": "5/11",
+      "option_d": "1/2",
+      "correct": "ঘ",
+      "explanation": "R P = ( 1 10 + 1 15 ) − 1 = 6 Ω E = I ( R P + 10 ) ⇒ 5 = I ( 6 + 4 ) ⇒ I = 1 2 A = 0.5 A . \\begin{aligned} R_{P} & =\\left(\\frac{1}{10}+\\frac{1}{15}\\right)^{-1}=6 \\Omega \\\\ E & =I\\left(R_{P}+10\\right) \\\\ \\Rightarrow 5 & =I(6+4) \\\\ \\Rightarrow I & =\\frac{1}{2} A=0.5 \\mathrm{~A} .\\end{aligned} R P ​ E ⇒ 5 ⇒ I ​ = ( 10 1 ​ + 15 1 ​ ) − 1 = 6Ω = I ( R P ​ + 10 ) = I ( 6 + 4 ) = 2 1 ​ A = 0.5 A . ​"
+    },
+    {
+      "number": "6",
+      "tag": "BUP FST 18 19",
+      "question": "মহাবিশ্বের ছায়াপথ সমূহের পরস্পর থেকে অপসারণের বেগ দূরত্বের-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ব্যাস্তানুপাতিক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বর্গের ব্যাস্তানুপাতিক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমানুপাতিক",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "বর্গের সমানুপাতিক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ব্যাস্তানুপাতিক",
+      "option_b": "বর্গের ব্যাস্তানুপাতিক",
+      "option_c": "সমানুপাতিক",
+      "option_d": "বর্গের সমানুপাতিক",
+      "correct": "গ",
+      "explanation": "হাবলের আইন অনুযায়ী, মহাবিশ্বের ছায়াপথ সমূহের পরস্পর থেকে অপসারণের বেগ তাদের দূরত্বের সাথে সমানুপাতিক। অর্থাৎ, ছায়াপথগুলি যত দূরে অবস্থিত, তারা তত দ্রুত গতিতে আমাদের থেকে দূরে সরে যাচ্ছে। v ∝ d v \\propto d v ∝ d v = H 0 × d v=H_{0} \\times d v = H 0 ​ × d এখানে, - v হল গ্যালাক্সির দূরে সরে যাওয়ার গতি, - H 0 \\mathrm{H}_{0} H 0 ​ হল হাবল কন্ট্ট্যান্ট (প্রায় ৭৩ কিলোমিটার/সেকেন্ড/মেগাপারসেক), - d হল গ্যালাক্সির পৃথিবী থেকে দূরত্ব (মেগাপারসেক)"
+    },
+    {
+      "number": "7",
+      "tag": "BUP FST 18 19",
+      "question": "একটি গ্রহের ব্যাসার্ধ 1.28 x 10 7 m এবং অভিকর্ষজ ত্বরণ পৃথিবীর অভিকর্ষজ ত্বরণের আটগুণ। উক্ত গ্রহের মুক্তবেগ কত Kms -1 ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "11.2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "22.4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "44.8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "89.6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "11.2",
+      "option_b": "22.4",
+      "option_c": "44.8",
+      "option_d": "89.6",
+      "correct": "গ",
+      "explanation": "V e ′ = 2 g ′ R ′ = 2 × 8 × 9.8 × 1.28 × 10 7 = 44.8 k m / s \\begin{aligned} V_{e}^{\\prime} & =\\sqrt{2 g^{\\prime} R^{\\prime}} \\\\ & =\\sqrt{2 \\times 8 \\times 9.8 \\times 1.28 \\times 10^{7}} \\\\ & =44.8 \\mathrm{~km} / \\mathrm{s}\\end{aligned} V e ′ ​ ​ = 2 g ′ R ′ ​ = 2 × 8 × 9.8 × 1.28 × 1 0 7 ​ = 44.8 km / s ​"
+    },
+    {
+      "number": "8",
+      "tag": "BUP FST 18 19",
+      "question": "একটি কৌশিক নলের ব্যাসার্ধ 0.1mm । একে 1.2 x 10 3 kgm -3 ঘনত্বের তরলে ডুবালে তরলটি নলে 15 cm উচ্চতায় উঠে। তরলটির পৃষ্ঠটান কত Nm -1 ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.4 x 10 -2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6.6 x 10 -2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7.2 x 10 -2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8.8 x 10 -2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4.4 x 10 -2",
+      "option_b": "6.6 x 10 -2",
+      "option_c": "7.2 x 10 -2",
+      "option_d": "8.8 x 10 -2",
+      "correct": "ঘ",
+      "explanation": "T = h ρ g r 2 T=\\frac{h \\rho g r}{2} T = 2 h ρ g r ​ T = 0.15 × 1.2 × 10 3 × 9.8 × 0.1 × 10 − 3 2 T = 0.15 × 1.2 × 10 3 × 9.8 × 0.1 × 10 − 3 2 = 0.1764 2 T = 0.0882 N / m \\begin{array}{c} T=\\frac{0.15 \\times 1.2 \\times 10^{3} \\times 9.8 \\times 0.1 \\times 10^{-3}}{2} \\\\ T=\\frac{0.15 \\times 1.2 \\times 10^{3} \\times 9.8 \\times 0.1 \\times 10^{-3}}{2}=\\frac{0.1764}{2} \\\\ T=0.0882 \\mathrm{~N} / \\mathrm{m} \\end{array} T = 2 0.15 × 1.2 × 1 0 3 × 9.8 × 0.1 × 1 0 − 3 ​ T = 2 0.15 × 1.2 × 1 0 3 × 9.8 × 0.1 × 1 0 − 3 ​ = 2 0.1764 ​ T = 0.0882 N / m ​"
+    },
+    {
+      "number": "9",
+      "tag": "BUP FST 18 19",
+      "question": "কোন নির্দিষ্ট উচ্চতায় একটি বস্তুর শক্তি 500 J। বস্তুটিকে স্থির অবস্থা থেকে ছেড়ে দেয়া হলো। বস্তুটি ভূমি থেকে পূর্ব উচ্চতার একক চতুর্থাংশে পৌছালে এর গতিশক্তি কত জুল?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "125",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "250",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "350",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "375",
+          "is_correct": true
+        }
+      ],
+      "option_a": "125",
+      "option_b": "250",
+      "option_c": "350",
+      "option_d": "375",
+      "correct": "ঘ",
+      "explanation": "E p = m g H ⇒ 500 = m × 9.8 H H = 51.02 m H 4 উচ্চতায় বিভব শক্তি = m × 9.8 × 51.02 m × 1 4 = 125 J H 4 উচ্চতায় গতিশক্তি 9 = 500 − 125 J = 375 J \\begin{array}{l}E_{p}=m g H \\\\ \\Rightarrow 500=m \\times 9.8 \\mathrm{H} \\\\ H=\\frac{51.02}{m} \\\\ \\frac{H}{4} \\text { উচ্চতায় বিভব শক্তি }=m \\times 9.8 \\times \\frac{51.02}{m} \\times \\frac{1}{4} =125 \\mathrm{~J} \\\\ \\frac{H}{4} \\text {উচ্চতায় } \\text { গতিশক্তি } \\sqrt{9}=500-125 \\mathrm{~J} =375 \\mathrm{~J} \\\\\\end{array} E p ​ = m g H ⇒ 500 = m × 9.8 H H = m 51.02 ​ 4 H ​ উচ্চতায় বিভব শক্তি = m × 9.8 × m 51.02 ​ × 4 1 ​ = 125 J 4 H ​ উচ্চতায় গতিশক্তি 9 ​ = 500 − 125 J = 375 J ​"
+    },
+    {
+      "number": "10",
+      "tag": "BUP FST 18 19",
+      "question": "পানি ও কাচের প্রতিসিরাংক যথাক্রমে 1.33 ও 1.5 হলে কাঁচে আলোর বেগ কত? (পানিতে আলোর বেগ 2.28 x 10 8 m/s)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3.02 x 10 6 m/s",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1.01 x 10 7 m/s",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2.02 x 10 8 m/s",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2.05 x 10 6 m/s",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3.02 x 10 6 m/s",
+      "option_b": "1.01 x 10 7 m/s",
+      "option_c": "2.02 x 10 8 m/s",
+      "option_d": "2.05 x 10 6 m/s",
+      "correct": "গ",
+      "explanation": "পানি ও কাচের প্রতিসিরাংক যথাক্রমে 1.33 ও 1.5 হলে কাঁচে আলোর বেগ 2.02 x 10 8 m/s।"
+    },
+    {
+      "number": "11",
+      "tag": "BUP FST 18 19",
+      "question": "একটি তরঙ্গের দুটি বিন্দুর মধ্য দশা পার্থক্য π হলে, বিন্দুদ্বয়ের মধ্যে পথ পার্থক্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "λ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2λ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "λ/2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "λ/4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "λ",
+      "option_b": "2λ",
+      "option_c": "λ/2",
+      "option_d": "λ/4",
+      "correct": "গ",
+      "explanation": "দশা পার্থক্য = 2 π λ × পথ পার্থক্য \\frac{2\\pi}{\\lambda}\\timesপথ\\ পার্থক্য λ 2 π ​ × পথ পার্থক্য ∴ পথ পার্থক্য = দশা পার্থক্য × λ 2 π \\thereforeপথ\\ পার্থক্য\\ =\\ দশা\\ পার্থক্য\\ \\times\\frac{\\lambda}{2\\pi} ∴ পথ পার্থক্য = দশা পার্থক্য × 2 π λ ​ = λ 2 π × π = λ 2 \\frac{\\lambda}{2\\pi}\\times\\pi\\ =\\ \\frac{\\lambda}{2} 2 π λ ​ × π = 2 λ ​"
+    },
+    {
+      "number": "12",
+      "tag": "BUP FST 18 19",
+      "question": "একটি অগ্রগামী তরঙ্গের সমীকরণ y= 0.2sin(18πt - 3πx/100), x, y মিটারে ও t সেকেন্ডে প্রকাশিত, তরঙ্গের কম্পাংক ও বেগ যথাক্রমে Hz ও ms -1 এ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9, 300",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18, 300",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9, 600",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "18, 600",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9, 300",
+      "option_b": "18, 300",
+      "option_c": "9, 600",
+      "option_d": "18, 600",
+      "correct": "গ",
+      "explanation": "y = a sin ⁡ ( ω t − 2 π λ x ) y=a \\sin \\left(\\omega t-\\frac{2 \\pi}{\\lambda} x\\right) y = a sin ( ω t − λ 2 π ​ x ) এর সাথে তুলনা করে পাই ω = 18 π ⇒ 2 π f = 18 π ⇒ f = 9 H z 2 π x λ = 3 π x 100 ⇒ λ = 200 3 m ∴ V = f λ = 9 × 200 3 = 600 m s − 1 \\begin{array}{l} \\omega=18 \\pi \\\\ \\Rightarrow 2 \\pi f=18 \\pi \\\\ \\Rightarrow f=9 H z \\\\ \\frac{2 \\pi x}{\\lambda}=\\frac{3 \\pi x}{100} \\\\ \\Rightarrow \\lambda=\\frac{200}{3} m \\\\ \\therefore V=f \\lambda=9 \\times \\frac{200}{3} \\\\ =600 \\mathrm{~ms}^{-1} \\end{array} ω = 18 π ⇒ 2 π f = 18 π ⇒ f = 9 Hz λ 2 π x ​ = 100 3 π x ​ ⇒ λ = 3 200 ​ m ∴ V = f λ = 9 × 3 200 ​ = 600 ms − 1 ​"
+    },
+    {
+      "number": "13",
+      "tag": "BUP FST 18 19",
+      "question": "একটি স্থির তরঙ্গের পরপর দুটি নিস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব -",
+      "options": [
+        {
+          "label": "ক",
+          "text": "λ 4 \\frac{\\lambda}{4} 4 λ ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 λ 2 \\frac{3 \\lambda}{2} 2 3 λ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "λ \\lambda λ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "λ 2 \\frac{\\lambda}{2} 2 λ ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "λ 4 \\frac{\\lambda}{4} 4 λ ​",
+      "option_b": "3 λ 2 \\frac{3 \\lambda}{2} 2 3 λ ​",
+      "option_c": "λ \\lambda λ",
+      "option_d": "λ 2 \\frac{\\lambda}{2} 2 λ ​",
+      "correct": "ঘ",
+      "explanation": "উত্তর : একটি স্থির তরঙ্গের পরপর দুটি নিস্পন্দ বিন্দুর মধ্যবর্তী দূরত্ব - λ 2 \\frac{\\lambda}{2} 2 λ ​"
+    },
+    {
+      "number": "14",
+      "tag": "BUP FST 18 19,SUST A 16-17",
+      "question": "সরল দোলন গতিসম্পন্ন কোনো বস্তুকণার গতির সমীকরণ x=20sin(31t-π/6), সর্বাধিক বেগ কত m/s?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "520",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "640",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "580",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "620",
+          "is_correct": true
+        }
+      ],
+      "option_a": "520",
+      "option_b": "640",
+      "option_c": "580",
+      "option_d": "620",
+      "correct": "ঘ",
+      "explanation": "ওপরের প্রদত্ত সমীকরণের সাথে তুলনা করে, A = 20 , ω = 31 A=20, \\omega=31 A = 20 , ω = 31 সর্বোচ্চ গতিবেগ V max ⁡ = ω A = 31 × 20 = 620 \\mathrm{V}_{\\max }=\\omega \\mathrm{A}=31 \\times 20=620 V m a x ​ = ω A = 31 × 20 = 620"
+    },
+    {
+      "number": "15",
+      "tag": "BUP FST 18 19",
+      "question": "একটি প্রিজমের প্রতিসারক কোণ 60 0 এবং এর উপাদানের প্রতিসরাংক 1.36। নূন্যতম বিচ্যুতি কোণ কত ডিগ্রী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "35.4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "15.4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "22.4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25.6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "35.4",
+      "option_b": "15.4",
+      "option_c": "22.4",
+      "option_d": "25.6",
+      "correct": "ঘ",
+      "explanation": "এখানে , A = প্রিজমের প্রতিসারক কোণ = 60 ∘ μ = 1.36 δ m = নূন্যতম বিচ্যুতি কোণ \\begin{array}{l} A=\\text { প্রিজমের } \\\\ \\text { প্রতিসারক কোণ }=60^{\\circ} \\\\ \\mu=1.36 \\\\ \\delta_{m}=\\text { নূন্যতম বিচ্যুতি কোণ } \\\\ \\end{array} A = প্রিজমের প্রতিসারক কোণ = 6 0 ∘ μ = 1.36 δ m ​ = নূন্যতম বিচ্যুতি কোণ ​ প্রিজমের নূন্যতম বিচ্যুতির ক্ষেত্রে , μ = sin ⁡ A + δ m 2 sin ⁡ A 2 ⇒ sin ⁡ A + δ m 2 = μ sin ⁡ A 2 \\begin{array}{r}\\mu=\\frac{\\sin \\frac{A+\\delta m}{2}}{\\sin \\frac{A}{2}} \\\\ \\Rightarrow \\sin \\frac{A+\\delta m}{2}=\\mu \\sin \\frac{A}{2}\\end{array} μ = s i n 2 A ​ s i n 2 A + δ m ​ ​ ⇒ sin 2 A + δ m ​ = μ sin 2 A ​ ​ ⇒ sin ⁡ A + δ m 2 = μ sin ⁡ A 2 ⇒ δ m = 2 sin ⁡ − 1 ( μ sin ⁡ A 2 ) − A = 2 sin ⁡ − 1 ( 1.36 sin ⁡ 60 2 ) − 60 = 25.687 ∴ δ m = 25.6 ∘ \\begin{array}{l}\\Rightarrow \\sin \\frac{A+\\delta m}{2}=\\mu \\sin \\frac{A}{2} \\\\ \\Rightarrow \\delta_{m}=2 \\sin ^{-1}\\left(\\mu \\sin \\frac{A}{2}\\right)-A \\\\ =2 \\sin ^{-1}\\left(1.36 \\sin \\frac{60}{2}\\right)-60 \\\\ =25.687 \\\\ \\therefore \\delta_{m}=25.6^{\\circ} \\\\\\end{array} ⇒ sin 2 A + δ m ​ = μ sin 2 A ​ ⇒ δ m ​ = 2 sin − 1 ( μ sin 2 A ​ ) − A = 2 sin − 1 ( 1.36 sin 2 60 ​ ) − 60 = 25.687 ∴ δ m ​ = 25. 6 ∘ ​"
+    },
+    {
+      "number": "16",
+      "tag": "BUP FST 18 19",
+      "question": "একটি সাবানের বুদবুদের ব্যাসার্ধ্য 1cm এবং সাবানের দ্রবণের পৃষ্ঠটান 3.2 x 10 -2 N/m। বুদবুদের বাইরে এবং ভিতরের তলের মধ্যে অতিরিক্ত চাপের পরিমাণ কত N/m 2 ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10.8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "11.8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12.8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "13.8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10.8",
+      "option_b": "11.8",
+      "option_c": "12.8",
+      "option_d": "13.8",
+      "correct": "গ",
+      "explanation": "Δ P = 4 T R = 4 × 3.2 × 10 − 2 1 / 100 = 12.8 \\begin{aligned} \\Delta P & =\\frac{4 T}{R} \\\\ & =\\frac{4 \\times 3.2 \\times 10^{-2}}{1 / 100} \\\\ & =12.8\\end{aligned} Δ P ​ = R 4 T ​ = 1/100 4 × 3.2 × 1 0 − 2 ​ = 12.8 ​"
+    },
+    {
+      "number": "17",
+      "tag": "BUP FST 18 19",
+      "question": "চারটি বৈদ্যুতিক রোধ যথাক্রমে 1 ohm , 2 ohm, 3 ohm & 4 ohm পরস্পর সমান্তরালে যুক্ত করলে কোনটির মধ্যে দিয়ে সবচেয়ে বেশি বিদ্যুৎ প্রবাহিত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1Ω",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2Ω",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3Ω",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4Ω",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1Ω",
+      "option_b": "2Ω",
+      "option_c": "3Ω",
+      "option_d": "4Ω",
+      "correct": "ক",
+      "explanation": "সুতরাং ১ ওহম রোধের মধ্যে দিয়ে বেশী তড়িৎ প্রবাহিত হবে।"
+    },
+    {
+      "number": "18",
+      "tag": "BUP FST 18 19",
+      "question": "j ^ − i ^ \\hat{j} - \\hat{i} j ^ ​ − i ^ ভেক্টরের দিকে j ^ − k ^ \\hat{j} - \\hat{k} j ^ ​ − k ^ ভেক্টরের অভিক্ষেপ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "½",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1/√2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "√3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "½",
+      "option_b": "1/√2",
+      "option_c": "1",
+      "option_d": "√3",
+      "correct": "খ",
+      "explanation": "ধরা যাক, a = j ^ − i ^ = − i ^ + j ^ \\text{a} = \\hat{j} - \\hat{i} = -\\hat{i} + \\hat{j} a = j ^ ​ − i ^ = − i ^ + j ^ ​ এবং b = j ^ − k ^ = j ^ − k ^ \\text{b} = \\hat{j} - \\hat{k} = \\hat{j} - \\hat{k} b = j ^ ​ − k ^ = j ^ ​ − k ^ a \\text{a} a ভেক্টরের দিকে b \\text{b} b ভেক্টরের অভিক্ষেপ হলো ∣ a ⋅ b ∣ a ∣ ∣ \\left|\\frac{\\text{a} \\cdot \\text{b}}{|\\text{a}|}\\right| ​ ∣ a ∣ a ⋅ b ​ ​ অভিক্ষেপ = ∣ a ⋅ b ∣ a ∣ ∣ = ∣ 1 2 ∣ = \\left|\\frac{\\text{a} \\cdot \\text{b}}{|\\text{a}|}\\right| = \\left|\\frac{1}{\\sqrt{2}}\\right| = ​ ∣ a ∣ a ⋅ b ​ ​ = ​ 2 ​ 1 ​ ​ 1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​"
+    },
+    {
+      "number": "1",
+      "tag": "BUP FST 18 19",
+      "question": "একটি 1.7 eV ফোটনের রঙ কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বেগুনী",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নীল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সবুজ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "লাল",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বেগুনী",
+      "option_b": "নীল",
+      "option_c": "সবুজ",
+      "option_d": "লাল",
+      "correct": "ঘ",
+      "explanation": "আমরা জানি, E = h c λ ⇒ λ = h c E = 6.626 × 10 − 34 × 3 × 10 8 2.72 × 10 − 19 J = 730 n m \\begin{aligned} E & =\\frac{h c}{\\lambda} \\\\ \\Rightarrow \\lambda & =\\frac{h c}{E} \\\\ & =\\frac{6.626 \\times 10^{-34} \\times 3 \\times 10^{8}}{2.72 \\times 10^{-19} \\mathrm{~J}} \\\\ & =730 \\mathrm{nm}\\end{aligned} E ⇒ λ ​ = λ h c ​ = E h c ​ = 2.72 × 1 0 − 19 J 6.626 × 1 0 − 34 × 3 × 1 0 8 ​ = 730 nm ​ যা, লাল আলোর তরঙ্গ দৈর্ঘ্য। [লাল আলোর ক্ষেত্রে, 647ー780nm]"
+    },
+    {
+      "number": "2",
+      "tag": "BUP FST 18 19",
+      "question": "5000Å তরঙ্গদৈর্ঘ্য বিশিষ্ট আলোক রশ্মি কোন ধরণের প্রক্রিয়ায় উৎপন্ন হতে পারে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্পন্দিত তড়িৎ প্রবাহ থেকে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "পরমাণুস্থ ইলেকট্রন স্থানান্তরের ফলে",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "এক্সরে টিউবে যে স্থানান্তর হয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "হাইড্রোজেন পরমাণুর ফিউশন থেকে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "স্পন্দিত তড়িৎ প্রবাহ থেকে",
+      "option_b": "পরমাণুস্থ ইলেকট্রন স্থানান্তরের ফলে",
+      "option_c": "এক্সরে টিউবে যে স্থানান্তর হয়",
+      "option_d": "হাইড্রোজেন পরমাণুর ফিউশন থেকে",
+      "correct": "খ",
+      "explanation": "পরমানুর ইলেক্ট্রন উচ্চ শক্তিস্তরে গিয়ে পুনরায় নিম্ন শক্তিস্তরে আসলে আলোর ন্যায় বর্নালীর সৃষ্টি হয় যা দৃশ্যমান অঞ্চলে হলে চোখে দেখা যায়।"
+    },
+    {
+      "number": "3",
+      "tag": "BUP FST 18 19,JnU A 17-18",
+      "question": "বেগুনী রশ্মির তরঙ্গদৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "380-424 nm",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "575-590 nm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "500-575 nm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "590-647 nm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "380-424 nm",
+      "option_b": "575-590 nm",
+      "option_c": "500-575 nm",
+      "option_d": "590-647 nm",
+      "correct": "ক",
+      "explanation": "বেগুনি : 380-424 nm নীল :424-450 nm আসমানী :450-500 nm সবুজ :500-575 nm হলুদ : 575-590 nm কমলা : 590-647 nm লাল : 647-780 nm"
+    },
+    {
+      "number": "4",
+      "tag": "BUP FST 18 19",
+      "question": "ধনাত্মক মেসোমারিক ফল নেই কোনটিতে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-OH",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-NH 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-Cl",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": ">C=O",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-OH",
+      "option_b": "-NH 2",
+      "option_c": "-Cl",
+      "option_d": ">C=O",
+      "correct": "ঘ",
+      "explanation": "মেসোমারিক ফল হল যখন একটি মলিকুলার সংযোজনের মধ্যে দুই বা ততোধিক সমতল ধারা রয়েছে এবং তাদের মধ্যে কোন মৌলিক ইউনিটের পার্থক্য নেই।>C=O বা কার্বনিল মুলকে একটি পৃথক কার্যকারী মূলক রয়েছে যা সাধারণত একটি সমতল ধারা নেই তাই এর মেসোমারিক ফল দেখা যায় না।"
+    },
+    {
+      "number": "5",
+      "tag": "BUP FST 18 19",
+      "question": "রিডক্স বিক্রিয়ায় বিজারক পদার্থের জারণ সংখ্যা -",
+      "options": [
+        {
+          "label": "ক",
+          "text": "হ্রাস পায়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বৃদ্ধি পায়",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "অপরিবর্তিত থাকে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "হ্রাস পায়",
+      "option_b": "বৃদ্ধি পায়",
+      "option_c": "অপরিবর্তিত থাকে",
+      "option_d": "কোনটিই নয়",
+      "correct": "খ",
+      "explanation": "রিডক্স বিক্রিয়ায় বিজারকে O, N বাড়ে।"
+    },
+    {
+      "number": "6",
+      "tag": "BUP FST 18 19",
+      "question": "সিলভারের সর্ববহিঃস্থ স্বরের ইলেকট্রন বিন্যাস কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3d 6 4s 4 5s 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4d 10 5s 1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4d 9 5s 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4d 8 5s 3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3d 6 4s 4 5s 1",
+      "option_b": "4d 10 5s 1",
+      "option_c": "4d 9 5s 2",
+      "option_d": "4d 8 5s 3",
+      "correct": "খ",
+      "explanation": "A g ( 47 ) → [ K r ] d 10 5 s 1 \\mathrm{Ag}(47) \\rightarrow[\\mathrm{Kr}] \\mathrm{d}^{10} 5 \\mathrm{~s}^{1} Ag ( 47 ) → [ Kr ] d 10 5 s 1"
+    },
+    {
+      "number": "7",
+      "tag": "BUP FST 18 19",
+      "question": "কোন সম্পর্কটি অসামঞ্জস্যপূর্ণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমশক্তির অরবিটাল; ডিজোনারেট অরবিটাল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "পারমানবিক বর্নালী; রেখা বর্নালী",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আলো শোষণ বর্নালী; কালো বর্নের রেখা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "জীবানুনাশক কাজ; 450-500 nm তরঙ্গ দৈর্ঘ্য",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সমশক্তির অরবিটাল; ডিজোনারেট অরবিটাল",
+      "option_b": "পারমানবিক বর্নালী; রেখা বর্নালী",
+      "option_c": "আলো শোষণ বর্নালী; কালো বর্নের রেখা",
+      "option_d": "জীবানুনাশক কাজ; 450-500 nm তরঙ্গ দৈর্ঘ্য",
+      "correct": "ঘ",
+      "explanation": "আলো শোষণ বর্ণালী → \\rightarrow → জীবানুনাশক কাজে"
+    },
+    {
+      "number": "8",
+      "tag": "BUP FST 18 19",
+      "question": "2- হাইড্রক্সি-3-পেন্টোনোন-এর কার্যকরী মূলক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যালকোহল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অ্যালডিহাইড",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কিটোন",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "কার্বক্সিল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অ্যালকোহল",
+      "option_b": "অ্যালডিহাইড",
+      "option_c": "কিটোন",
+      "option_d": "কার্বক্সিল",
+      "correct": "গ",
+      "explanation": "কার্যকরী মূলক (functional group) একটি পরমাণু বা পরমাণুগুলির একটি গোষ্ঠী যা একটি যৌগের রাসায়নিক বৈশিষ্ট্য নির্ধারণ করে। 2-হাইড্রক্সি-3-পেন্টোনোনে দুটি কার্যকরী মূলক রয়েছে -OH (হাইড্রক্সিল) মূলক: এটি একটি অ্যালকোহল (alcohol) মূলক যা একটি কার্বন পরমাণুর সাথে একটি হাইড্রোক্সিল (-OH) গ্রুপ যুক্ত হয়। =O (কার্বনিল) মূলক: এটি একটি কিটোন (ketone) মূলক যা দুটি কার্বন পরমাণুর মধ্যে একটি ডাবল বন্ধন (C=O) এবং তাদের সাথে যুক্ত দুটি অন্যান্য পরমাণু (যেমন, H, O, C) ধারণ করে। এই দুটি কার্যকরী মূলকের মধ্যে ,-OH মূলক 2-হাইড্রক্সি-3-পেন্টোনোনের কার্যকরী মূলক হিসাবে আরও বেশি প্রভাবশালী কারণ এটি যৌগের রাসায়নিক বৈশিষ্ট্যগুলিকে আরও বেশি প্রভাবিত করে।"
+    },
+    {
+      "number": "9",
+      "tag": "BUP FST 18 19",
+      "question": "STP তে 1500 L N 2 গ্যাস হতে NH 3 প্রস্তুত করতে কত লিটার H 2 গ্যাস প্রয়োজন হবে??",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4000",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4200",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4500",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4700",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4000",
+      "option_b": "4200",
+      "option_c": "4500",
+      "option_d": "4700",
+      "correct": "গ",
+      "explanation": "N 2 + 3 H 2 ⟶ 2 N H 3 22.4 L ( 3 × 22.4 ) \\begin{array}{l}\\mathrm{N}_{2}+3 \\mathrm{H}_{2} \\longrightarrow 2 \\mathrm{NH}_{3} \\\\ 22.4 \\mathrm{~L}(3 \\times 22.4)\\end{array} N 2 ​ + 3 H 2 ​ ⟶ 2 NH 3 ​ 22.4 L ( 3 × 22.4 ) ​ 22.4L N 2 _2 2 ​ প্রস্তুত করতে H 2 _2 2 ​ প্রয়োজন 3×22.4L ∴ 1500 L “ ” 3 × 22.4 × 1500 22.4 = 4500 L . \\begin{array}{r}\\therefore 1500 \\mathrm{~L}_{} “ ~~” \\frac{3 \\times 22.4 \\times 1500}{22.4} \\\\ =4500 \\mathrm{~L} .\\end{array} ∴ 1500 L ​ “ ” 22.4 3 × 22.4 × 1500 ​ = 4500 L . ​"
+    },
+    {
+      "number": "10",
+      "tag": "BUP FST 18 19",
+      "question": "শ্যাম্পুর আদর্শ p H মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5-7",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3-7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5-9",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5-8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5-7",
+      "option_b": "3-7",
+      "option_c": "5-9",
+      "option_d": "5-8",
+      "correct": "ক",
+      "explanation": "শ্যাম্পুর আদর্শ p H মান 5-7."
+    },
+    {
+      "number": "11",
+      "tag": "BUP FST 18 19,JU D 23-24 SET-H,JU D 15-16 SET 1,গুহ স্যার,হাজারী ও নাগ স্যার",
+      "question": "নিচের কোনটি সবল তড়িৎ বিশ্লেষ্য?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "KOH",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "HF",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "C 12 H 22 O 11",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "C 2 H 5 OH",
+          "is_correct": false
+        }
+      ],
+      "option_a": "KOH",
+      "option_b": "HF",
+      "option_c": "C 12 H 22 O 11",
+      "option_d": "C 2 H 5 OH",
+      "correct": "ক",
+      "explanation": "সবল তড়িৎ বিশ্লেষ্য হচ্ছে এমন একটি পদার্থ যা কোন পোলার দ্রাবকে (যেমন- পানি) দ্রবীভূত করলে তড়িৎ-পরিবাহী দ্রবণ তৈরি করে। KOH (পটাশিয়াম হাইড্রোক্সাইড): একটি শক্তিশালী ক্ষার যা জলে বিযুক্ত হয়ে K+ এবং OH- আয়নে পরিণত হয়। উচ্চ পরিবাহিতা এবং আয়নিক ঘনত্বের কারণে এটি একটি সবল তড়িৎ বিশ্লেষ্য।"
+    },
+    {
+      "number": "12",
+      "tag": "BUP FST 18 19",
+      "question": "নিচের কোনটি দাহ্য ও বিষাক্ত যৌগ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মিথানল",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "আর্সেনিক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ইথানল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "টলুইন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মিথানল",
+      "option_b": "আর্সেনিক",
+      "option_c": "ইথানল",
+      "option_d": "টলুইন",
+      "correct": "ক",
+      "explanation": "দাহ্য জৈব যৌগ (Flammable Organic Compounds): ল্যাবরেটরিতে ব্যবহৃত দাহ্য জৈব যৌগের মধ্যে হাইড্রোকার্বনরূপে বেনজিন, টলুইন, হেক্সেন, কেরোসিন ( C 12 থেকে C 15 C_{12}থেকেC_{15} C 12 ​ থেকে C 15 ​ ) ও LPG ইত্যাদি; ক্লোরোযৌগরূপে ক্লোরোফরম (CHCI₃), ক্লোরোফেনল (C₂H₂CI.OH); অ্যালকোহলরূপে মিথানল, ইথানল, প্রোপানল ইত্যাদি; কার্বনিল যৌগরূপে প্রোপান্যাল, প্রোপানোন; জৈব এসিডরূপে ফরমিক এসিড, অ্যাসিটিক এসিড, বেনজয়িক এসিড ইত্যাদি সংরক্ষণ করা হয়।"
+    },
+    {
+      "number": "13",
+      "tag": "BUP FST 18 19,গুহ স্যার",
+      "question": "কার্বন টেট্রাক্লোরাইড দ্বারা দূষিত পানিকে বিশোধনে ব্যবহৃত হয় কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Fe ন্যানো কণা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Zn ন্যানো কণা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Ag ন্যানো কণা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Ca ন্যানো কণা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Fe ন্যানো কণা",
+      "option_b": "Zn ন্যানো কণা",
+      "option_c": "Ag ন্যানো কণা",
+      "option_d": "Ca ন্যানো কণা",
+      "correct": "ক",
+      "explanation": "পানি বিশোধন : পানি হতে বিভিন্ন অপদ্রব্য দূর করার কাজে অর্থাৎ পানি বিশোধনের ক্ষেত্রে ন্যানো কণার আয়রন ব্যবহার নিয়ে গবেষণায় সুফল পাওয়া গেছে। অনতিবিলম্বে এটি বাজারে আসতে পারে। কার্বন টেট্রাক্লোরাইড ( C C l 4 CCl_4 CC l 4 ​ ) দ্বারা দূষিত পানিকে বিশোধনে আয়রন ন্যানো কণা এবং নলকূপের পানিতে থাকা আর্সেনিক দূর করতে আয়রন অক্সাইড ন্যানো কণা ব্যবহৃত হচ্ছে।"
+    },
+    {
+      "number": "14",
+      "tag": "BUP FST 18 19,গুহ স্যার",
+      "question": "25°C তাপমাত্রায় কপারের প্রমাণ বিজারণ বিভব (Cu/Cu 2+ ) কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "+0.34 V",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-0.34 V",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-0.38 V",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "+0.38 V",
+          "is_correct": false
+        }
+      ],
+      "option_a": "+0.34 V",
+      "option_b": "-0.34 V",
+      "option_c": "-0.38 V",
+      "option_d": "+0.38 V",
+      "correct": "ক",
+      "explanation": "25°C তাপমাত্রায় কপারের প্রমাণ বিজারণ বিভব (Cu/Cu 2+ )=0.34 volt."
+    },
+    {
+      "number": "15",
+      "tag": "BUP FST 18 19,কবীর স্যার",
+      "question": "65 g বেরিয়াম নাইট্রেট 1 L পানিতে দ্রবীভূত করলে ঐ দ্রবণের মোলার ঘনমাত্রা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.15 M",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.17 M",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.25 M",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0.20 M",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.15 M",
+      "option_b": "0.17 M",
+      "option_c": "0.25 M",
+      "option_d": "0.20 M",
+      "correct": "গ",
+      "explanation": "S = 1000 W M V = 1000 × 65 261 × 1000 = 0.25 M \\begin{aligned} S & =\\frac{1000 W}{M V} \\\\ & =\\frac{1000 \\times 65}{261 \\times 1000} \\\\ & =0.25 \\mathrm{~M}\\end{aligned} S ​ = M V 1000 W ​ = 261 × 1000 1000 × 65 ​ = 0.25 M ​"
+    },
+    {
+      "number": "16",
+      "tag": "RU C 20-21 (SET 1)",
+      "question": "CH 3 − CH 2 − C ( CH 3 ) 2 − C ≡ C − CH 3 \\text{CH}_3 - \\text{CH}_2 - \\text{C}(\\text{CH}_3)_2 - \\text{C} \\equiv \\text{C} - \\text{CH}_3 CH 3 ​ − CH 2 ​ − C ( CH 3 ​ ) 2 ​ − C ≡ C − CH 3 ​ যৌগটির IUPAC নাম কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1,3-ডাইমিথাইল পেন্টাইন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1,3,3- ট্রাইমিথাইল পেন্টাইন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4,4-ডাইমিথাইল-2-হেক্সাইন",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4-ইথাইল-2-হেক্সেন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1,3-ডাইমিথাইল পেন্টাইন",
+      "option_b": "1,3,3- ট্রাইমিথাইল পেন্টাইন",
+      "option_c": "4,4-ডাইমিথাইল-2-হেক্সাইন",
+      "option_d": "4-ইথাইল-2-হেক্সেন",
+      "correct": "গ",
+      "explanation": "প্রদত্ত জৈব যৌগটির IUPAC নাম নির্ধারণের ধাপগুলো নিচে আলোচনা করা হলো: ১. দীর্ঘতম কার্বন শিকল নির্বাচন যৌগটির গঠন লক্ষ্য করলে দেখা যায় যে, এর দীর্ঘতম কার্বন শিকলে মোট ৬টি কার্বন পরমাণু বিদ্যমান। ৬টি কার্বন বিশিষ্ট অ্যালকাইনকে হেক্সাইন (Hexyne) বলা হয়। ২. কার্বন শিকল নাম্বারিং IUPAC নিয়ম অনুযায়ী, কার্বন শিকলটি এমনভাবে নাম্বারিং করতে হবে যেন কার্যকরী মূলক অর্থাৎ ত্রিবন্ধন (triple bond) ক্ষুদ্রতম সংখ্যা পায়। ডান দিক থেকে নাম্বারিং করলে ত্রিবন্ধনটি ২ নম্বর কার্বনে অবস্থান করে। বাম দিক থেকে নাম্বারিং করলে ত্রিবন্ধনটি ৪ নম্বর কার্বনে অবস্থান করে। সুতরাং, ডান দিক থেকে নাম্বারিং করা সঠিক। ৩. প্রতিস্থাপক শনাক্তকরণ শিকলটির ৪ নম্বর কার্বনে দুটি মিথাইল (CH 3 ) গ্রুপ যুক্ত আছে। তাই এদেরকে '৪,৪-ডাইমিথাইল' হিসেবে নামকরণ করা হবে। সবগুলো অংশ একত্রে সাজালে যৌগটির নাম দাঁড়ায়: প্রতিস্থাপক: ৪,৪-ডাইমিথাইল মূল শিকল: হেক্স ত্রিবন্ধনের অবস্থান: ২-আইন অতএব, যৌগটির IUPAC নাম হলো: ৪,৪-ডাইমিথাইলহেক্স-২-আইন (4,4-dimethylhex-2-yne)"
+    },
+    {
+      "number": "17",
+      "tag": "BUP FST 18 19",
+      "question": "0.1 মোল সোডিয়াম অ্যাসিটেট ও 0.1 মোল এসিটিক এসিডের জলীয় দ্রবণের p H কত? (k a =2 x 10 -5 )?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3.7",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4.7",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5.3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7.7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3.7",
+      "option_b": "4.7",
+      "option_c": "5.3",
+      "option_d": "7.7",
+      "correct": "খ",
+      "explanation": "এটি একটি বাফার দ্রবণ। এর pH নির্ণয় করার জন্য হেন্ডারসন-হ্যাসেলবাল্ক সমীকরণ প্রয়োগ করতে হবে: p H = p K a + log ⁡ [ Base ] [ Acid ] pH = pK_a + \\log \\frac{[\\text{Base}]}{[\\text{Acid}]} p H = p K a ​ + lo g [ Acid ] [ Base ] ​ এখানে, [Base] = 0.1 মোল সোডিয়াম অ্যাসিটেট এবং [Acid] = 0.1 মোল এসিটিক এসিড। pK a = − log ⁡ ( k a ) -\\log(k_a) − lo g ( k a ​ ) = − log ⁡ ( 2 × 10 − 5 -\\log(2 \\times 10^{-5} − lo g ( 2 × 1 0 − 5 এখন, সূত্র প্রয়োগ করে: p H = 4.7 + log ⁡ 0.1 0.1 pH = 4.7 + \\log \\frac{0.1}{0.1} p H = 4.7 + lo g 0.1 0.1 ​ p H = 4.7 + log ⁡ 1 pH = 4.7 + \\log 1 p H = 4.7 + lo g 1 p H = 4.7 + 0 pH = 4.7 + 0 p H = 4.7 + 0 সুতরাং, দ্রবণের pH = 4.7"
+    },
+    {
+      "number": "1",
+      "tag": "BUP FST 18 19",
+      "question": "x 2 -2x+2=0 হলে x=?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1±i",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 ± − 1 \\sqrt{1 \\pm - 1} 1 ± − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ক ও খ উভয়ই",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1±i",
+      "option_b": "1 ± − 1 \\sqrt{1 \\pm - 1} 1 ± − 1 ​",
+      "option_c": "1",
+      "option_d": "ক ও খ উভয়ই",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "BUP FST 18 19",
+      "question": "SIn -1 1/3=θ হলে tanθ =?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1/(2√2)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1/(√2)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1/(2√2)",
+      "option_b": "1",
+      "option_c": "1/(√2)",
+      "option_d": "0",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "BUP FST 18 19",
+      "question": "ABC ত্রিভুজে A(k,-2) , B(3,9) , ও C(-5,8) তিনটি শীর্ষবিন্দু।এর ক্ষেত্রফল 44 বর্গ একক হলে, k=?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-5",
+      "option_b": "-2",
+      "option_c": "8",
+      "option_d": "3",
+      "correct": "ঘ",
+      "explanation": "A ( k , − 2 ) ; B ( 3 , 9 ) ; C ( − 5 , 8 ) △ A B C = 1 2 ∣ k − 2 1 3 9 1 − 5 8 1 ∣ = 44 ⇒ 1 2 ∣ k ( 9 − 8 ) + 2 ( 3 + 5 ) + 1 ( 24 + 45 ) ∣ = 44 ⇒ 1 2 ∣ k + 16 + 69 ∣ = 44 ⇒ k + 85 = 88 ⇒ k = 3 \\begin{aligned} & A(k,-2) ; B(3,9) ; C(-5,8) \\\\ & \\triangle A B C=\\frac{1}{2}\\left|\\begin{array}{ccc} k & -2 & 1 \\\\ 3 & 9 & 1 \\\\ -5 & 8 & 1 \\end{array}\\right|=44 \\\\ \\Rightarrow & \\frac{1}{2}|k(9-8)+2(3+5)+1(24+45)|=44 \\\\ \\Rightarrow & \\frac{1}{2}|k+16+69|=44 \\\\ \\Rightarrow & k+85=88 \\\\ \\Rightarrow & k=3 \\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ A ( k , − 2 ) ; B ( 3 , 9 ) ; C ( − 5 , 8 ) △ A BC = 2 1 ​ ​ k 3 − 5 ​ − 2 9 8 ​ 1 1 1 ​ ​ = 44 2 1 ​ ∣ k ( 9 − 8 ) + 2 ( 3 + 5 ) + 1 ( 24 + 45 ) ∣ = 44 2 1 ​ ∣ k + 16 + 69∣ = 44 k + 85 = 88 k = 3 ​"
+    },
+    {
+      "number": "4",
+      "tag": "MBSTU A 18-19",
+      "question": "5-3x-x 2 এর সর্বোচ্চ মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "47/4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "29/4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3",
+      "option_b": "5",
+      "option_c": "47/4",
+      "option_d": "29/4",
+      "correct": "ঘ",
+      "explanation": "আমরা f ( x ) = 5 − 3 x − x 2 f(x)=5-3 x-x^{2} f ( x ) = 5 − 3 x − x 2 কে একটি দ্বিঘাত ফাংশন হিসেবে দেখি। লিখিত আকারে, f ( x ) = − x 2 − 3 x + 5 f(x)=-x^{2}-3 x+5 f ( x ) = − x 2 − 3 x + 5 দ্বিঘাত ফাংশনের সর্বোচ্চ মান (যদি a < 0 a<0 a < 0 ) তার vertex এ পাతয়া যায়। Vertex-এর x x x -অবস্থান x = − b 2 a x=-\\frac{b}{2 a} x = − 2 a b ​ সূত্রে, x = − − 3 2 ( − 1 ) = − 3 2 x=-\\frac{-3}{2(-1)}=-\\frac{3}{2} x = − 2 ( − 1 ) − 3 ​ = − 2 3 ​ সর্বোচ্চ মান নির্তয় প্রই x x x এর মান রাখলে, f ( − 3 2 ) = 5 − 3 ( − 3 2 ) − ( − 3 2 ) 2 f\\left(-\\frac{3}{2}\\right)=5-3\\left(-\\frac{3}{2}\\right)-\\left(-\\frac{3}{2}\\right)^{2} f ( − 2 3 ​ ) = 5 − 3 ( − 2 3 ​ ) − ( − 2 3 ​ ) 2 গণনা করলে: - − 3 ( − 3 2 ) = 9 2 -3\\left(-\\frac{3}{2}\\right)=\\frac{9}{2} − 3 ( − 2 3 ​ ) = 2 9 ​ - ( − 3 2 ) 2 = 9 4 \\left(-\\frac{3}{2}\\right)^{2}=\\frac{9}{4} ( − 2 3 ​ ) 2 = 4 9 ​ তাহলে, f ( − 3 2 ) = 5 + 9 2 − 9 4 f\\left(-\\frac{3}{2}\\right)=5+\\frac{9}{2}-\\frac{9}{4} f ( − 2 3 ​ ) = 5 + 2 9 ​ − 4 9 ​ সমান করা যাক: 5 = 20 4 , 9 2 = 18 4 5=\\frac{20}{4}, \\quad \\frac{9}{2}=\\frac{18}{4} 5 = 4 20 ​ , 2 9 ​ = 4 18 ​ f ( − 3 2 ) = 20 4 + 18 4 − 9 4 = 29 4 f\\left(-\\frac{3}{2}\\right)=\\frac{20}{4}+\\frac{18}{4}-\\frac{9}{4}=\\frac{29}{4} f ( − 2 3 ​ ) = 4 20 ​ + 4 18 ​ − 4 9 ​ = 4 29 ​ 5 − 3 x − x 2 5-3 x-x^{2} 5 − 3 x − x 2 जর সर্বোচ্চ মান হল 29 4 \\frac{29}{4} 4 29 ​ বा প্রায় 7.25।"
+    },
+    {
+      "number": "6",
+      "tag": "BUP FST 18 19,DU A 14-15",
+      "question": "sin ⁡ − 1 4 5 + cos ⁡ − 1 2 5 \\sin^{-1}\\frac{4}{5}+\\cos^{-1}\\frac{2}{\\sqrt{5}} sin − 1 5 4 ​ + cos − 1 5 ​ 2 ​ সমান-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "tan ⁡ − 1 2 11 \\tan^{-1}\\frac{2}{11} tan − 1 11 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "tan ⁡ − 1 11 2 \\tan^{-1}\\frac{11}{2} tan − 1 2 11 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A & B Both",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "None Of Above",
+          "is_correct": false
+        }
+      ],
+      "option_a": "tan ⁡ − 1 2 11 \\tan^{-1}\\frac{2}{11} tan − 1 11 2 ​",
+      "option_b": "tan ⁡ − 1 11 2 \\tan^{-1}\\frac{11}{2} tan − 1 2 11 ​",
+      "option_c": "A & B Both",
+      "option_d": "None Of Above",
+      "correct": "ক",
+      "explanation": "sin ⁡ − 1 4 5 + cos ⁡ − 1 2 5 = tan ⁡ − 1 4 3 + tan ⁡ − 1 1 2 = tan ⁡ − 1 4 3 + 1 2 1 − 4 3 ⋅ 1 2 = tan ⁡ − 1 11 2 \\begin{array}{l} \\sin ^{-1} \\frac{4}{5}+\\cos ^{-1} \\frac{2}{\\sqrt{5}} \\\\ =\\tan ^{-1} \\frac{4}{3}+\\tan ^{-1} \\frac{1}{2} \\\\ =\\tan ^{-1} \\frac{\\frac{4}{3}+\\frac{1}{2}}{1-\\frac{4}{3} \\cdot \\frac{1}{2}} \\\\ =\\tan ^{-1} \\frac{11}{2} \\end{array} sin − 1 5 4 ​ + cos − 1 5 ​ 2 ​ = tan − 1 3 4 ​ + tan − 1 2 1 ​ = tan − 1 1 − 3 4 ​ ⋅ 2 1 ​ 3 4 ​ + 2 1 ​ ​ = tan − 1 2 11 ​ ​ ১ম হতে, sin ⁡ − 1 4 5 = tan ⁡ − 1 4 3 \\sin ^{-1} \\frac{4}{5}=\\tan ^{-1} \\frac{4}{3} sin − 1 5 4 ​ = tan − 1 3 4 ​ এবং ২য় হতে, cos ⁡ − 1 2 5 = tan ⁡ − 1 1 2 \\cos ^{-1} \\frac{2}{\\sqrt{5}}=\\tan ^{-1} \\frac{1}{2} cos − 1 5 ​ 2 ​ = tan − 1 2 1 ​"
+    },
+    {
+      "number": "7",
+      "tag": "BUP FST 18 19",
+      "question": "কোন লেখচিত্রটি মুলবিন্দুগামী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "y=sin(x+30 o )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "y=tan x",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "y=sec x",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "y=cos x",
+          "is_correct": false
+        }
+      ],
+      "option_a": "y=sin(x+30 o )",
+      "option_b": "y=tan x",
+      "option_c": "y=sec x",
+      "option_d": "y=cos x",
+      "correct": "খ",
+      "explanation": "Answer: খ"
+    },
+    {
+      "number": "8",
+      "tag": "JUST A 15-16",
+      "question": "f(x 3 -3)=x-2 হলে f-¹(0)=?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "5",
+      "option_c": "25",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": "f ( x 3 − 3 ) = x − 2 Let, t = x 3 − 3 ⇒ x = t + 3 3 f ( t ) = t + 3 3 − 2 ⇒ f ( x ) = x + 3 3 − 2 Let, y = f ( x ) ⇒ x = f − 1 ( J ) \\begin{array}{l} f\\left(x^{3}-3\\right)=x-2 \\\\ \\text { Let, }t=x^{3}-3 \\Rightarrow x=\\sqrt[3]{t+3} \\\\ f(t)=\\sqrt[3]{t+3}-2 \\\\ \\Rightarrow f(x)=\\sqrt[3]{x+3}-2 \\\\ \\text { Let, } \\\\ y=f(x) \\Rightarrow x=f^{-1}(J)\\end{array} f ( x 3 − 3 ) = x − 2 Let, t = x 3 − 3 ⇒ x = 3 t + 3 ​ f ( t ) = 3 t + 3 ​ − 2 ⇒ f ( x ) = 3 x + 3 ​ − 2 Let, y = f ( x ) ⇒ x = f − 1 ( J ) ​ y = x + 3 3 − 2 ⇒ x + 3 3 = y + 2 ⇒ ( x + 3 ) = ( y + 2 ) 3 ⇒ x = ( y + 2 ) 3 − 3 ⇒ f − 1 ( y ) = ( y + 2 ) 3 − 3 ⇒ f − 1 ( 0 ) = 2 3 − 3 = 8 − 3 = 5 \\begin{array}{l}y=\\sqrt[3]{x+3}-2 \\\\ \\Rightarrow \\sqrt[3]{x+3}=y+2 \\\\ \\Rightarrow(x+3)=(y+2)^{3} \\\\ \\Rightarrow x=(y+2)^{3}-3 \\\\ \\Rightarrow f^{-1}(y)=(y+2)^{3}-3 \\\\ \\Rightarrow f^{-1}(0)=2^{3}-3=8-3=5\\end{array} y = 3 x + 3 ​ − 2 ⇒ 3 x + 3 ​ = y + 2 ⇒ ( x + 3 ) = ( y + 2 ) 3 ⇒ x = ( y + 2 ) 3 − 3 ⇒ f − 1 ( y ) = ( y + 2 ) 3 − 3 ⇒ f − 1 ( 0 ) = 2 3 − 3 = 8 − 3 = 5 ​"
+    },
+    {
+      "number": "9",
+      "tag": "BUP FST 18 19",
+      "question": "lim ⁡ x → ∞ ( 1 + 1 x ) x + 3 \\lim_{x \\to ∞} \\left ( 1 + \\frac{1}{x} \\right )^{x + 3} lim x → ∞ ​ ( 1 + x 1 ​ ) x + 3",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1/e",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "e",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "e 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1/e",
+      "option_b": "e",
+      "option_c": "e 2",
+      "option_d": "1",
+      "correct": "খ",
+      "explanation": "আমরা জানি: lim ⁡ t → ∞ ( 1 + 1 t ) t = e \\lim_{t\\to\\infty} \\left(1+\\frac{1}{t}\\right)^t = e lim t → ∞ ​ ( 1 + t 1 ​ ) t = e প্রদত্ত লিমিটকে সাজানো ( 1 + 1 x ) x + 3 = ( 1 + 1 x ) x ⋅ ( 1 + 1 x ) 3 \\left(1+\\frac{1}{x}\\right)^{x+3} = \\left(1+\\frac{1}{x}\\right)^x \\cdot \\left(1+\\frac{1}{x}\\right)^3 ( 1 + x 1 ​ ) x + 3 = ( 1 + x 1 ​ ) x ⋅ ( 1 + x 1 ​ ) 3 লিমিট নিলে lim ⁡ x → ∞ ( 1 + 1 x ) x = e \\lim_{x\\to\\infty} \\left(1+\\frac{1}{x}\\right)^x = e lim x → ∞ ​ ( 1 + x 1 ​ ) x = e lim ⁡ x → ∞ ( 1 + 1 x ) 3 = 1 3 = 1 \\lim_{x\\to\\infty} \\left(1+\\frac{1}{x}\\right)^3 = 1^3 = 1 lim x → ∞ ​ ( 1 + x 1 ​ ) 3 = 1 3 = 1 সুতরাং: lim ⁡ x → ∞ ( 1 + 1 x ) x + 3 = e × 1 = e \\lim_{x\\to\\infty} \\left(1+\\frac{1}{x}\\right)^{x+3} = e \\times 1 = e lim x → ∞ ​ ( 1 + x 1 ​ ) x + 3 = e × 1 = e"
+    },
+    {
+      "number": "10",
+      "tag": "CVASU 18-19",
+      "question": "lim ⁡ x → 0 1 − cos ⁡ x sin ⁡ 2 2 x \\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x} lim x → 0 ​ s i n 2 2 x 1 − c o s x ​ - এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 25 \\frac{2}{25} 25 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "49 6 \\frac{49}{6} 6 49 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "tan x",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 25 \\frac{2}{25} 25 2 ​",
+      "option_b": "49 6 \\frac{49}{6} 6 49 ​",
+      "option_c": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_d": "tan x",
+      "correct": "খ",
+      "explanation": "lim ⁡ x → 0 1 − cos ⁡ x sin ⁡ 2 2 x \\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x} lim x → 0 ​ s i n 2 2 x 1 − c o s x ​ প্রথমে সূত্র: 1 − cos ⁡ x = 2 sin ⁡ 2 x 2 1 - \\cos x = 2 \\sin^2 \\frac{x}{2} 1 − cos x = 2 sin 2 2 x ​ এবং sin ⁡ 2 x = 2 sin ⁡ x cos ⁡ x → sin ⁡ 2 2 x = 4 sin ⁡ 2 x cos ⁡ 2 x \\sin 2x = 2 \\sin x \\cos x \\to \\sin^2 2x = 4 \\sin^2 x \\cos^2 x sin 2 x = 2 sin x cos x → sin 2 2 x = 4 sin 2 x cos 2 x তাহলে: 1 − cos ⁡ x sin ⁡ 2 2 x = 2 sin ⁡ 2 x 2 4 sin ⁡ 2 x cos ⁡ 2 x = sin ⁡ 2 x 2 2 sin ⁡ 2 x cos ⁡ 2 x \\frac{1 - \\cos x}{\\sin^2 2x} = \\frac{2 \\sin^2 \\frac{x}{2}}{4 \\sin^2 x \\cos^2 x} = \\frac{\\sin^2 \\frac{x}{2}}{2 \\sin^2 x \\cos^2 x} s i n 2 2 x 1 − c o s x ​ = 4 s i n 2 x c o s 2 x 2 s i n 2 2 x ​ ​ = 2 s i n 2 x c o s 2 x s i n 2 2 x ​ ​ এখন sin ⁡ x = 2 sin ⁡ x 2 cos ⁡ x 2 → sin ⁡ 2 x = 4 sin ⁡ 2 x 2 cos ⁡ 2 x 2 \\sin x = 2 \\sin \\frac{x}{2} \\cos \\frac{x}{2} \\to \\sin^2 x = 4 \\sin^2 \\frac{x}{2} \\cos^2 \\frac{x}{2} sin x = 2 sin 2 x ​ cos 2 x ​ → sin 2 x = 4 sin 2 2 x ​ cos 2 2 x ​ প্রতিস্থাপন: sin ⁡ 2 x 2 2 ⋅ 4 sin ⁡ 2 x 2 cos ⁡ 2 x 2 ⋅ cos ⁡ 2 x \\frac{\\sin^2 \\frac{x}{2}}{2 \\cdot 4 \\sin^2 \\frac{x}{2} \\cos^2 \\frac{x}{2} \\cdot \\cos^2 x} 2 ⋅ 4 s i n 2 2 x ​ c o s 2 2 x ​ ⋅ c o s 2 x s i n 2 2 x ​ ​ = 1 8 cos ⁡ 2 x 2 cos ⁡ 2 x = \\frac{1}{8 \\cos^2 \\frac{x}{2} \\cos^2 x} = 8 c o s 2 2 x ​ c o s 2 x 1 ​ সীমা x → 0 x \\to 0 x → 0 নিলে: cos ⁡ 0 = 1 , cos ⁡ 0 = 1 \\cos 0 = 1, \\cos 0 = 1 cos 0 = 1 , cos 0 = 1 lim ⁡ x → 0 1 8 cos ⁡ 2 x 2 cos ⁡ 2 x = 1 8 ⋅ 1 ⋅ 1 = 1 8 \\lim_{x \\to 0} \\frac{1}{8 \\cos^2 \\frac{x}{2} \\cos^2 x} = \\frac{1}{8 \\cdot 1 \\cdot 1} = \\frac{1}{8} lim x → 0 ​ 8 c o s 2 2 x ​ c o s 2 x 1 ​ = 8 ⋅ 1 ⋅ 1 1 ​ = 8 1 ​"
+    },
+    {
+      "number": "11",
+      "tag": "BUP FST 18 19",
+      "question": "তিনটি অনপেক্ষ মুদ্রাকে একত্রে নিক্ষেপ করা হল।প্রত্যেক মুদ্রাতেই Tail(T) হবার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1/8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1/4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1/2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1/6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1/8",
+      "option_b": "1/4",
+      "option_c": "1/2",
+      "option_d": "1/6",
+      "correct": "গ",
+      "explanation": "মুদ্রা সংখ্যা, n = 3 n=3 n = 3 ∴ T \\therefore T ∴ T আসার সম্ভাবনা, = 1 2 n = 1 2 3 = 1 8 \\begin{array}{l} =\\frac{1}{2^{n}} \\\\ =\\frac{1}{2^{3}}=\\frac{1}{8} \\end{array} = 2 n 1 ​ = 2 3 1 ​ = 8 1 ​ ​"
+    },
+    {
+      "number": "12",
+      "tag": "BUP FST 18 19",
+      "question": "2,7,10,5 সংখ্যাগুলোর মধ্যমতা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "2",
+      "option_c": "6",
+      "option_d": "4",
+      "correct": "ক",
+      "explanation": ": মধ্যমা = 2 + 7 + 10 + 5 4 = 6 =\\frac{2+7+10+5}{4}=6 \\quad = 4 2 + 7 + 10 + 5 ​ = 6"
+    },
+    {
+      "number": "",
+      "tag": "BUP FST 18 19",
+      "question": "হলে F(1/p)F(1/q) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 p + 1 . 1 q + 1 \\frac{1}{p + 1} . \\frac{1}{q + 1} p + 1 1 ​ . q + 1 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "p/q",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "p/q + 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 p + 1 . 1 q + 1 \\frac{1}{p + 1} . \\frac{1}{q + 1} p + 1 1 ​ . q + 1 1 ​",
+      "option_b": "p/q",
+      "option_c": "x",
+      "option_d": "p/q + 1",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "BUP FST 18 19",
+      "question": "6y+14=0 সরলরেখাটি 3x 2 -4y+6x-5=0 কনিকটি কিসের সমীকরণ নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "উপকেন্দ্রিক লম্বের",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "স্পর্শকের",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অভিলম্বের",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "নিয়ামকের",
+          "is_correct": false
+        }
+      ],
+      "option_a": "উপকেন্দ্রিক লম্বের",
+      "option_b": "স্পর্শকের",
+      "option_c": "অভিলম্বের",
+      "option_d": "নিয়ামকের",
+      "correct": "ক",
+      "explanation": "3y+7=0 বা, 6y+14=0"
+    },
+    {
+      "number": "15",
+      "tag": "BUP FST 18 19,অসীম স্যার",
+      "question": "x 2 -4x+4=0 দ্বারা F(x)=x 3 -7x 2 +16x-12 বিভাজ্য , F(x)=0 সমীকরণের মূলগুলি হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2,2,3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2,-2,-3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2,2,-3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2,-2,3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2,2,3",
+      "option_b": "2,-2,-3",
+      "option_c": "2,2,-3",
+      "option_d": "2,-2,3",
+      "correct": "ঘ",
+      "explanation": "দেওয়া আছে: F ( x ) = x 3 − 7 x 2 + 16 x − 12 F(x) = x^3 - 7x^2 + 16x - 12 F ( x ) = x 3 − 7 x 2 + 16 x − 12 x 2 − 4 x + 4 = 0 x^2 - 4x + 4 = 0 x 2 − 4 x + 4 = 0 দ্বারা F ( x ) F(x) F ( x ) বিভাজ্য, অর্থাৎ x 2 − 4 x + 4 x^2 - 4x + 4 x 2 − 4 x + 4 এর মূলগুলি F ( x ) F(x) F ( x ) এর মূল হবে। x 2 − 4 x + 4 = ( x − 2 ) 2 = 0 x^2 - 4x + 4 = (x-2)^2 = 0 x 2 − 4 x + 4 = ( x − 2 ) 2 = 0 , এর মূল হল x = 2 x = 2 x = 2 , যেটি গুনতিতে দুইবার আসবে। সুতরাং, F ( x ) F(x) F ( x ) এর মূল একটি হবে 2 এবং এটি দ্বিগুণ মূল। অতএব, আমরা F ( x ) F(x) F ( x ) কে ( x − 2 ) 2 ( x − a ) = 0 (x-2)^2 (x-a) = 0 ( x − 2 ) 2 ( x − a ) = 0 আকারে লিখতে পারি। a a a নির্ণয় করার জন্য, প্রয়োগ করি পলিনোমিয়াল বিভাজন: F ( x ) = ( x − 2 ) 2 ( x − a ) F(x) = (x-2)^2 (x-a) F ( x ) = ( x − 2 ) 2 ( x − a ) F ( x ) = ( x 3 − 7 x 2 + 16 x − 12 ) F(x) = (x^3 - 7x^2 + 16x - 12) F ( x ) = ( x 3 − 7 x 2 + 16 x − 12 ) আকারে দিলে, ( x − a ) (x-a) ( x − a ) এর মূলদ হবে। অতএব, ( x − 2 ) 2 = x 2 − 4 x + 4 (x-2)^2 = x^2 - 4x + 4 ( x − 2 ) 2 = x 2 − 4 x + 4 দ্বারা F ( x ) F(x) F ( x ) বিভাজিত হলে F ( x ) = ( x − 2 ) 2 ( x − a ) F(x) = (x-2)^2 (x-a) F ( x ) = ( x − 2 ) 2 ( x − a ) আকারে লেখা যায়। এবং, F ( 2 ) = 0 F(2)=0 F ( 2 ) = 0 এখানে প্রয়োগ করলে পাওয়া যাবে, ( 2 − 2 ) 2 ( 2 − a ) = 0 (2 - 2)^2 (2-a) = 0 ( 2 − 2 ) 2 ( 2 − a ) = 0 যদি 2 ≠ a 2 \\neq a 2  = a হয় তবে F ( 2 ) = 0 F(2) = 0 F ( 2 ) = 0 হতে হবে, এটিও কেবল হতে পারে যেখানে, আমরা অন্য মূল বের করব: এখন অন্যান্য মূল পেতে x = 3 x=3 x = 3 পরীক্ষা করি: F ( 3 ) = 3 3 − 7 ( 3 ) 2 + 16 ( 3 ) − 12 F(3) = 3^3 - 7(3)^2 + 16(3) - 12 F ( 3 ) = 3 3 − 7 ( 3 ) 2 + 16 ( 3 ) − 12 = 27 − 63 + 48 − 12 = 27 - 63 + 48 - 12 = 27 − 63 + 48 − 12 = 0 = 0 = 0 অতএব, মূলগুলি হবে: 2 , 2 , 3 2, 2, 3 2 , 2 , 3 সঠিক উত্তর: (A) 2,2,3"
+    },
+    {
+      "number": "16",
+      "tag": "BUP FST 18 19",
+      "question": "x 2 9 + y 2 16 = 1 \\frac{x^{2}}{9} + \\frac{y^{2}}{16} = 1 9 x 2 ​ + 16 y 2 ​ = 1 উপবৃত্তটি X ও Y অক্ষকে যথাক্রমে A, B, C ও D বিন্দুতে ছেদ করে। ABCD চতুর্ভুজের ক্ষেত্রফল কত একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9",
+      "option_b": "12",
+      "option_c": "24",
+      "option_d": "25",
+      "correct": "ক",
+      "explanation": "x 2 9 + y 2 16 = 1 \\frac{x^{2}}{9}+\\frac{y^{2}}{16}=1 9 x 2 ​ + 16 y 2 ​ = 1 এটি একটি আদর্শ উপবৃত্ত যার কেন্দ্র মূলবিন্দুতে (0,0) এবং অর্ধ-অক্ষদ্বয় যথাক্রমে a = 3 a=3 a = 3 (X-অক্ষ বরাবর) এবং b = 4 b=4 b = 4 (Y-অক্ষ বরাবর)। উপবৃহ্তটি x-অক্ষকে ছেদ করে যখন y = 0 y=0 y = 0 : x 2 9 + 0 16 = 1 ⟹ x 2 = 9 ⟹ x = ± 3 \\frac{x^{2}}{9}+\\frac{0}{16}=1 \\Longrightarrow x^{2}=9 \\Longrightarrow x= \\pm 3 9 x 2 ​ + 16 0 ​ = 1 ⟹ x 2 = 9 ⟹ x = ± 3 অতএ্রব, x-অক্ষের সাথে ছেদবিন্দুগুলি হল A ( 3 , 0 ) A(3,0) A ( 3 , 0 ) এবং C ( − 3 , 0 ) C(-3,0) C ( − 3 , 0 ) । উপবৃর্তটি Y-অক্ষকে ছেদ করে যখন x = 0 x=0 x = 0 : 0 9 + y 2 16 = 1 ⟹ y 2 = 16 ⟹ y = ± 4 \\frac{0}{9}+\\frac{y^{2}}{16}=1 \\Longrightarrow y^{2}=16 \\Longrightarrow y= \\pm 4 9 0 ​ + 16 y 2 ​ = 1 ⟹ y 2 = 16 ⟹ y = ± 4 অতএ্রব, Y-অক্ষের সাথে ছেদবিন্দুগুলি হল B ( 0 , 4 ) B(0,4) B ( 0 , 4 ) এবং D ( 0 , − 4 ) D(0,-4) D ( 0 , − 4 ) । এখন, A ( 3 , 0 ) , B ( 0 , 4 ) , C ( − 3 , 0 ) A(3,0), B(0,4), C(-3,0) A ( 3 , 0 ) , B ( 0 , 4 ) , C ( − 3 , 0 ) , এবং D ( 0 , − 4 ) D(0,-4) D ( 0 , − 4 ) বিन्দুগুলি দ্বারা গঠিত চতুর্ভুজ A B C D A B C D A BC D হল একটি রম্বস রম্বসের ক্ষেত্রফল নির্ণয়ের সূত্র হল: ক্ষেএ্রফল = d 1 × d 2 2 \\text { ক্ষেএ্রফল }=\\frac{d_{1} \\times d_{2}}{2} ক্ষেএ্রফল = 2 d 1 ​ × d 2 ​ ​ যেখানে d 1 d_{1} d 1 ​ এবং d 2 d_{2} d 2 ​ হল কর্ণদ্বয়ের দৈর্ঘ্য। এখানে, d 1 = A C = 6 ( যেহেতু A ( 3 , 0 ) থেকে C ( − 3 , 0 ) এর দূরত্ব 6 ) d 2 = B D = 8 ( যেহেতু B ( 0 , 4 ) ขেকে D ( 0 , − 4 ) এর দূরত্ব 8) \\begin{array}{l} d_{1}=A C=6 \\quad(\\text { যেহেতু } A(3,0) \\text { থেকে } C(-3,0) \\text { এর দূরত্ব } 6) \\\\ d_{2}=B D=8 \\quad(\\text { যেহেতু } B(0,4) \\text { ขেকে } D(0,-4) \\text { এর দূরত্ব 8) } \\end{array} d 1 ​ = A C = 6 ( যেহেতু A ( 3 , 0 ) থেকে C ( − 3 , 0 ) এর দূরত্ব 6 ) d 2 ​ = B D = 8 ( যেহেতু B ( 0 , 4 ) ขেকে D ( 0 , − 4 ) এর দূরত্ব 8) ​ অতএব, ক্ষেত্রফল: ক্ষেএ্রফল = 6 × 8 2 = 24 \\text { ক্ষেএ্রফল }=\\frac{6 \\times 8}{2}=24 ক্ষেএ্রফল = 2 6 × 8 ​ = 24 সুতরাং, A B C D A B C D A BC D চতুর্ভুজের ক্ষেত্রফল হল: 24"
+    },
+    {
+      "number": "17",
+      "tag": "BUP FST 18 19",
+      "question": "(1,1) বিন্দুতে y = e ( ln ⁡ ( x − 1 x ) ) y = e^{\\left ( \\ln{\\left ( x - \\frac{1}{x} \\right )} \\right)} y = e ( l n ( x − x 1 ​ ) ) বক্ররেখার ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "-1",
+      "option_c": "0",
+      "option_d": "2",
+      "correct": "গ",
+      "explanation": "আমরা জানি যে e ln ⁡ A = A e^{\\ln A} = A e l n A = A । তাই, প্রদত্ত ফাংশনটিকে আমরা এভাবে লিখতে পারি: y = e ( ln ⁡ ( x − 1 x ) ) ⟹ y = x − 1 x ⟹ y = x − x − 1 y = e^{\\left ( \\ln{\\left ( x - \\frac{1}{x} \\right )} \\right )} \\\\ \\implies y = x - \\frac{1}{x} \\\\ \\implies y = x - x^{-1} y = e ( l n ( x − x 1 ​ ) ) ⟹ y = x − x 1 ​ ⟹ y = x − x − 1 \\এখন, ঢাল (slope) বের করার জন্য আমরা x x x -এর সাপেক্ষে y y y -কে অন্তরীকরণ করব:\\ d y d x = d d x ( x − x − 1 ) ⟹ d y d x = d d x ( x ) − d d x ( x − 1 ) ⟹ d y d x = 1 − ( − 1 ) x − 1 − 1 ⟹ d y d x = 1 + x − 2 ⟹ d y d x = 1 + 1 x 2 \\frac{dy}{dx} = \\frac{d}{dx} (x - x^{-1}) \\\\ \\implies \\frac{dy}{dx} = \\frac{d}{dx}(x) - \\frac{d}{dx}(x^{-1}) \\\\ \\implies \\frac{dy}{dx} = 1 - (-1)x^{-1-1} \\\\ \\implies \\frac{dy}{dx} = 1 + x^{-2} \\\\ \\implies \\frac{dy}{dx} = 1 + \\frac{1}{x^2} d x d y ​ = d x d ​ ( x − x − 1 ) ⟹ d x d y ​ = d x d ​ ( x ) − d x d ​ ( x − 1 ) ⟹ d x d y ​ = 1 − ( − 1 ) x − 1 − 1 ⟹ d x d y ​ = 1 + x − 2 ⟹ d x d y ​ = 1 + x 2 1 ​ \\এখন, ( 1 , 1 ) (1,1) ( 1 , 1 ) বিন্দুতে ঢাল নির্ণয় করতে x = 1 x=1 x = 1 বসাবো:\\ d y d x ∣ ( 1 , 1 ) = 1 + 1 ( 1 ) 2 ⟹ d y d x ∣ ( 1 , 1 ) = 1 + 1 ⟹ d y d x ∣ ( 1 , 1 ) = 2 \\left. \\frac{dy}{dx} \\right|_{(1,1)} = 1 + \\frac{1}{(1)^2} \\\\ \\implies \\left. \\frac{dy}{dx} \\right|_{(1,1)} = 1 + 1 \\\\ \\implies \\left. \\frac{dy}{dx} \\right|_{(1,1)} = 2 d x d y ​ ​ ( 1 , 1 ) ​ = 1 + ( 1 ) 2 1 ​ ⟹ d x d y ​ ​ ( 1 , 1 ) ​ = 1 + 1 ⟹ d x d y ​ ​ ( 1 , 1 ) ​ = 2 \\সুতরাং, ( 1 , 1 ) (1,1) ( 1 , 1 ) বিন্দুতে বক্ররেখার ঢাল হলো 2 2 2 ।"
+    },
+    {
+      "number": "18",
+      "tag": "BUP FST 18 19,অসীম স্যার",
+      "question": "(1 + ai) 2 জটিল রাশিটির আর্গুমেন্ট π 4 \\frac{\\pi}{4} 4 π ​ হলে, a এর মান কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 ± 2 1 \\pm \\sqrt{2} 1 ± 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 ± 2 - 1 \\pm \\sqrt{2} − 1 ± 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 ± 2 2 \\pm \\sqrt{2} 2 ± 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 2 ± 2 - 2 \\pm \\sqrt{2} − 2 ± 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 ± 2 1 \\pm \\sqrt{2} 1 ± 2 ​",
+      "option_b": "− 1 ± 2 - 1 \\pm \\sqrt{2} − 1 ± 2 ​",
+      "option_c": "2 ± 2 2 \\pm \\sqrt{2} 2 ± 2 ​",
+      "option_d": "− 2 ± 2 - 2 \\pm \\sqrt{2} − 2 ± 2 ​",
+      "correct": "ঘ",
+      "explanation": "( 1 + a i ) 2 = 1 + 2 a i + a 2 i 2 (1+a i)^{2}=1+2 a i+a^{2} i^{2} ( 1 + ai ) 2 = 1 + 2 ai + a 2 i 2 = 1 + 2 a i − a 2 = 1 − a 2 + 2 a i =1+2 a i-a^{2}=1-a^{2}+2 a i = 1 + 2 ai − a 2 = 1 − a 2 + 2 ai প্রশ্নমতে, tan ⁡ − 1 ( 2 a 1 − a 2 ) = π 4 \\tan ^{-1}\\left(\\frac{2 \\mathrm{a}}{1-\\mathrm{a}^{2}}\\right)=\\frac{\\pi}{4} tan − 1 ( 1 − a 2 2 a ​ ) = 4 π ​ বা, 2 a 1 − a 2 = tan ⁡ π 4 \\frac{2 \\mathrm{a}}{1-\\mathrm{a}^{2}}=\\tan \\frac{\\pi}{4} 1 − a 2 2 a ​ = tan 4 π ​ যা, 2 a 1 − a 2 = 1 \\frac{2 \\mathrm{a}}{1-\\mathrm{a}^{2}}=1 1 − a 2 2 a ​ = 1 বা 2 a = 1 − a 2 2 \\mathrm{a}=1-\\mathrm{a}^{2} 2 a = 1 − a 2 বा, a 2 + 2 a − 1 = 0 \\mathrm{a}^{2}+2 \\mathrm{a}-1=0 a 2 + 2 a − 1 = 0 ∴ a = − 2 ± 4 + 4 2 = − 2 ± 2 2 2 = − 1 ± 2 \\therefore a=\\frac{-2 \\pm \\sqrt{4+4}}{2}=\\frac{-2 \\pm 2 \\sqrt{2}}{2}=-1 \\pm \\sqrt{2} ∴ a = 2 − 2 ± 4 + 4 ​ ​ = 2 − 2 ± 2 2 ​ ​ = − 1 ± 2 ​"
+    },
+    {
+      "number": "19",
+      "tag": "PSTU 17-18",
+      "question": "x 2 + y 2 + 5 x − 3 y − 8 = 0 ও 2 x 2 + 2 y 2 + x^{2}+y^{2}+5 x-3 y-8=0 \\text { ও } 2 x^{2}+2 y^{2}+ x 2 + y 2 + 5 x − 3 y − 8 = 0 ও 2 x 2 + 2 y 2 + 4x +5y - 7 = 0 7=0 7 = 0 বৃত্তদ্বয়ের সাধারণ জ্যা এর সমীকরণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x 2 + y 2 − x + 8 y + 15 = 0 x^{2}+y^{2}-x+8 y+15=0 x 2 + y 2 − x + 8 y + 15 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7 x − y − 5 = 0 7 x-y-5=0 7 x − y − 5 = 0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "6 x − 11 y − 9 = 0 6 x-11 y-9=0 6 x − 11 y − 9 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 x − 11 y + 9 = 0 3 x-11 y+9=0 3 x − 11 y + 9 = 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x 2 + y 2 − x + 8 y + 15 = 0 x^{2}+y^{2}-x+8 y+15=0 x 2 + y 2 − x + 8 y + 15 = 0",
+      "option_b": "7 x − y − 5 = 0 7 x-y-5=0 7 x − y − 5 = 0",
+      "option_c": "6 x − 11 y − 9 = 0 6 x-11 y-9=0 6 x − 11 y − 9 = 0",
+      "option_d": "3 x − 11 y + 9 = 0 3 x-11 y+9=0 3 x − 11 y + 9 = 0",
+      "correct": "খ",
+      "explanation": "দুর্টি বৃত্তের সাধারণ জ্যা-এর সমীকরণ নির্ণয়ের জন্য নিম্নলিখিত পদ্ধতি অনুসরণ করা হয়: প্রদত্ত বৃত্তদ্বয়ের সমীকরণ: 1. C 1 : x 2 + y 2 + 5 x − 3 y − 8 = 0 C_{1}: x^{2}+y^{2}+5 x-3 y-8=0 C 1 ​ : x 2 + y 2 + 5 x − 3 y − 8 = 0 2. C 2 : 2 x 2 + 2 y 2 + 4 x + 5 y − 7 = 0 C_{2}: 2 x^{2}+2 y^{2}+4 x+5 y-7=0 C 2 ​ : 2 x 2 + 2 y 2 + 4 x + 5 y − 7 = 0 C 2 C_{2} C 2 ​ কে আদর্শ বৃত্তাকারে রূপান্তর: C 2 C_{2} C 2 ​ কে 2 দ্বারা ভাগ করে পাই: C 2 ′ : x 2 + y 2 + 2 x + 5 2 y − 7 2 = 0 C_{2}^{\\prime}: x^{2}+y^{2}+2 x+\\frac{5}{2} y-\\frac{7}{2}=0 C 2 ′ ​ : x 2 + y 2 + 2 x + 2 5 ​ y − 2 7 ​ = 0 সাধারণ জ্যা-এর সমীকরণ নির্ণয়: C 1 − C 2 ′ C_{1}-C_{2}^{\\prime} C 1 ​ − C 2 ′ ​ করলে: ( x 2 + y 2 + 5 x − 3 y − 8 ) − ( x 2 + y 2 + 2 x + 5 2 y − 7 2 ) = 0 ( 5 x − 2 x ) + ( − 3 y − 5 2 y ) + ( − 8 + 7 2 ) = 0 3 x − 11 2 y − 9 2 = 0 \\begin{array}{r} \\left(x^{2}+y^{2}+5 x-3 y-8\\right)-\\left(x^{2}+y^{2}+2 x+\\frac{5}{2} y-\\frac{7}{2}\\right)=0 \\\\ (5 x-2 x)+\\left(-3 y-\\frac{5}{2} y\\right)+\\left(-8+\\frac{7}{2}\\right)=0 \\\\ 3 x-\\frac{11}{2} y-\\frac{9}{2}=0 \\end{array} ( x 2 + y 2 + 5 x − 3 y − 8 ) − ( x 2 + y 2 + 2 x + 2 5 ​ y − 2 7 ​ ) = 0 ( 5 x − 2 x ) + ( − 3 y − 2 5 ​ y ) + ( − 8 + 2 7 ​ ) = 0 3 x − 2 11 ​ y − 2 9 ​ = 0 ​ সমীকরণটিকে সরলীকরণ করে: 6 x − 11 y − 9 = 0 6 x-11 y-9=0 6 x − 11 y − 9 = 0 সুতরাং, সাধারণ জ্যা-এর সমীকরণ: 6 x − 11 y − 9 = 0 6 x-11 y-9=0 6 x − 11 y − 9 = 0"
+    },
+    {
+      "number": "1",
+      "tag": "SUST 17-18",
+      "question": "\"It's doozy\" stands for a/an-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "foolish person",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "impressive person",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "old person",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "weak person",
+          "is_correct": false
+        }
+      ],
+      "option_a": "foolish person",
+      "option_b": "impressive person",
+      "option_c": "old person",
+      "option_d": "weak person",
+      "correct": "গ",
+      "explanation": "It's a doozy\" একটি phrase যার অর্থ very impressive/an extraordinary example/big accomplishment। সুতরাং সঠিক উত্তর হবে impressive person."
+    },
+    {
+      "number": "2",
+      "tag": "SUST 17-18",
+      "question": "The professor of Environmental Science had Ahmed ____ a research on global warming and said that is was imperative that he ____ a report on solid waste management by following Tuesday. Appropriate fillers for the blanks are-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "do, write",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "done, wrote",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "do, should",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "done, should have written",
+          "is_correct": false
+        }
+      ],
+      "option_a": "do, write",
+      "option_b": "done, wrote",
+      "option_c": "do, should",
+      "option_d": "done, should have written",
+      "correct": "খ",
+      "explanation": "s + \\mathrm{s}+ s + have/has/had + person + v ( v e r b +\\mathrm{v}(\\mathrm{verb} + v ( verb এর base form) and এর পর imperative + that + v +\\mathrm{v} + v base form হবে। ফলে সঠিক উত্তর হবে Option A imperative verb বা অবশ্য পালনীয় বলতত that এর পর verb এর base form হয়।"
+    },
+    {
+      "number": "3",
+      "tag": "BUP FST 18 19,SUST A 16-17",
+      "question": "You will miss the train ___ you go to railway station in time.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Because",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "till",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Unless",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "as long",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Because",
+      "option_b": "till",
+      "option_c": "Unless",
+      "option_d": "as long",
+      "correct": "ক",
+      "explanation": "Unless যদি না। বাক্যটি অর্থ- তুমি যদি C যথাসময়ে স্টেশনে না যাও তবে ট্রেন পাবে না।"
+    },
+    {
+      "number": "4",
+      "tag": "SUST 17-18",
+      "question": "If Das ____ a better man then this tragedy ____ occurred. Appropriate fillers for the blanks are-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "were, hadn't",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "was, hadn't",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "had been, wouldn't have",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "had been, hadn't",
+          "is_correct": false
+        }
+      ],
+      "option_a": "were, hadn't",
+      "option_b": "was, hadn't",
+      "option_c": "had been, wouldn't have",
+      "option_d": "had been, hadn't",
+      "correct": "গ",
+      "explanation": "এই বাক্যটি তৃতীয় শর্তাধীন বাক্য, যা অতীতে যে কোনো কাল্পনিক অবস্থা এবং তার ফলাফল নিয়ে আলোচনা করে। \"had been\" অতীতে এক কাল্পনিক অবস্থাকে বোঝায়। \"wouldn't have\" অতীতে যে ফলাফল হতে পারতো তা প্রকাশ করে। তাহলে সঠিক বাক্য হবে: যদি দাশ একটি ভাল মানুষ হতো, তাহলে এই বিপর্যয়টি ঘটত না।"
+    },
+    {
+      "number": "5",
+      "tag": "BUP FST 18 19,SUST A 16-17",
+      "question": "Who is going to look after the children while you are traveling to the U.S.A? What is the meaning of \"Look after\" in the sentence?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "to take care of",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "to search",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "to accompany",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "to play with",
+          "is_correct": false
+        }
+      ],
+      "option_a": "to take care of",
+      "option_b": "to search",
+      "option_c": "to accompany",
+      "option_d": "to play with",
+      "correct": "গ",
+      "explanation": "Look after দেখাশোনা করা। To take care of – যত্ন করা।"
+    },
+    {
+      "number": "6",
+      "tag": "BUP FST 18 19,SUST A 16-17",
+      "question": "He has ____ an attempt to complete the work successfully.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "done",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "made",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "completed",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "exercised",
+          "is_correct": false
+        }
+      ],
+      "option_a": "done",
+      "option_b": "made",
+      "option_c": "completed",
+      "option_d": "exercised",
+      "correct": "ক",
+      "explanation": "The correct choice in this context is \"made.\" The complete sentence would be: \"He has made an attempt to complete the work successfully.\" Explanation: Done: While \"done\" is a commonly used word, it is not the best fit in this context. \"Done\" is generally used to indicate completion of an action or task rather than initiating or attempting something. Made: This is the correct choice. \"Made\" is often used with attempts, decisions, choices, etc. In this context, \"made\" indicates that he initiated or carried out an attempt to complete the work successfully. Completed: While \"completed\" is a valid word, it doesn't fit well in this sentence because it suggests a successful finish rather than the act of attempting something. It implies that the attempt was successful, which may not be the case. Exercised: This word doesn't convey the right meaning in the context of attempting to complete work successfully. \"Exercised\" is more commonly used in the context of using one's rights, authority, or power. So, \"made\" is the most suitable choice as it accurately reflects the initiation of an attempt without implying its success or failure."
+    },
+    {
+      "number": "7",
+      "tag": "BUP FST 18 19,SUST A 17-18",
+      "question": "In a narrow sense, the word alchemy is the pretended art of making gold and silver or transmuting the base metals into noble ones. The underlined words can best be replaced by-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "pseudo-science, expensive",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "science, cheap",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "production, landlord",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "manufacturing, rich",
+          "is_correct": false
+        }
+      ],
+      "option_a": "pseudo-science, expensive",
+      "option_b": "science, cheap",
+      "option_c": "production, landlord",
+      "option_d": "manufacturing, rich",
+      "correct": "খ",
+      "explanation": "The underlined words, \"the pretended art of making gold and silver or transmuting the base metals into noble ones,\" can best be replaced by: pseudo-science, expensive Explanation: Pseudo-science: This term refers to a belief or process that is presented as scientific but lacks a basis in scientific fact. Alchemy, in the context of attempting to transform base metals into gold and silver, is considered a pseudo-science because it lacks a scientific foundation. Expensive: The word \"expensive\" is used here to convey the idea that the process of alchemy, even though pretended, might involve significant costs or resources. The other options do not accurately capture the specific meaning conveyed by the original phrase."
+    },
+    {
+      "number": "8",
+      "tag": "BUP FST 18 19,SUST A 17-18",
+      "question": "It is important that he ____ home on time and ____ his roommate rinse the dishes. Appropriate fillers for the gaps are-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "come , make",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "should come , help",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "comes , makes",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "comes , helps",
+          "is_correct": false
+        }
+      ],
+      "option_a": "come , make",
+      "option_b": "should come , help",
+      "option_c": "comes , makes",
+      "option_d": "comes , helps",
+      "correct": "ক",
+      "explanation": "important একটি subjunctive mood এ ব্যবহৃত শব্দ। এরপর that আসলে, subject + verb এর base form হয়।"
+    },
+    {
+      "number": "1",
+      "tag": "BUP FST 18 19",
+      "question": "কোন গ্রহ অভিকর্ষজ ত্বরণ πms -2 হলে সেখানে একটি সেকেন্ড দোলকের দৈর্ঘ্য কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1/4π",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1/2π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1/π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π/2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1/4π",
+      "option_b": "1/2π",
+      "option_c": "1/π",
+      "option_d": "π/2",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "BUP FST 18 19",
+      "question": "Which one of the followingsentences is corect?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "I made a big mistake by let him to go home and change his mid",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "I made a big mistake by letting him to go home and change his mid",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "I made a big mistake by letting go home and change his mid",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "I made a big mistake by letting him go home and change his mid",
+          "is_correct": false
+        }
+      ],
+      "option_a": "I made a big mistake by let him to go home and change his mid",
+      "option_b": "I made a big mistake by letting him to go home and change his mid",
+      "option_c": "I made a big mistake by letting go home and change his mid",
+      "option_d": "I made a big mistake by letting him go home and change his mid",
+      "correct": "গ",
+      "explanation": "একটি সেকেন্ড দোলকের দোলনকাল \\(T=2s\\)। আমরা জানি, অভিকর্ষজ ত্বরণের অধীনে একটি সরল দোলকের দোলনকালের সূত্রটি হলো: \\(T = 2\\pi \\sqrt{\\frac{l}{g}}\\) যেখানে, \\(T\\) = দোলনকাল \\(l\\) = দোলকের দৈর্ঘ্য \\(g\\) = অভিকর্ষজ ত্বরণ প্রশ্নানুসারে দেওয়া আছে: \\(T = 2s\\) (সেকেন্ড দোলকের জন্য) \\(g = \\pi ms^{-2}\\) এখন আমরা \\(l\\) এর মান বের করব। সূত্রটিতে মান বসিয়ে পাই: \\(2 = 2\\pi \\sqrt{\\frac{l}{\\pi}}\\) উভয় পক্ষকে \\(2\\pi\\) দ্বারা ভাগ করে পাই: \\(\\frac{2}{2\\pi} = \\sqrt{\\frac{l}{\\pi}}\\) \\(\\frac{1}{\\pi} = \\sqrt{\\frac{l}{\\pi}}\\) উভয় পক্ষকে বর্গ করে পাই: \\((\\frac{1}{\\pi})^2 = (\\sqrt{\\frac{l}{\\pi}})^2\\) \\(\\frac{1}{\\pi^2} = \\frac{l}{\\pi}\\) \\(l\\) এর জন্য সমাধান করে পাই: \\(l = \\frac{\\pi}{\\pi^2}\\) \\(l = \\frac{1}{\\pi}\\) সুতরাং, যেখানে অভিকর্ষজ ত্বরণ \\(\\pi ms^{-2}\\) সেখানে একটি সেকেন্ড দোলকের দৈর্ঘ্য হবে \\(\\frac{1}{\\pi}\\) মিটার।"
+    },
+    {
+      "number": "3",
+      "tag": "BUP FST 18 19",
+      "question": "Letter is considered as ___ report and memo is regarded as ___ report. Appropriate fillers for the gaps are-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "external , internal",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "internal , external",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "personal , official",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "confidential , official",
+          "is_correct": true
+        }
+      ],
+      "option_a": "external , internal",
+      "option_b": "internal , external",
+      "option_c": "personal , official",
+      "option_d": "confidential , official",
+      "correct": "ঘ",
+      "explanation": "D অপশনটি সঠিক। এখানে 'letting him go' হলো সঠিক গঠন, যেখানে 'let' ক্রিয়ার পরে ক্রিয়াপদের বেস ফর্ম (go) ব্যবহৃত হয়েছে। অন্যান্য অপশনগুলোতে ব্যাকরণগত ভুল আছে, যেমন 'to go' ব্যবহার করা হয়েছে যা 'let' ক্রিয়ার সাথে বসে না।"
+    },
+    {
+      "number": "4",
+      "tag": "BUP FST 18 19",
+      "question": "(x-4) 2 +(y-3) 2 =r 2 বৃত্তটি মুলবিন্দুগামী হলে এর ব্যাস কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5",
+      "option_b": "14",
+      "option_c": "10",
+      "option_d": "25",
+      "correct": "ঘ",
+      "explanation": "অক্ষরকে একটি গোপনীয় প্রতিবেদন এবং মেমোকে একটি অফিসিয়াল প্রতিবেদন হিসাবে বিবেচনা করা হয়।"
+    },
+    {
+      "number": "5",
+      "tag": "BUP FST 18 19",
+      "question": "(a+x) 5 এর বিস্তৃতিতে x 3 এর সহগ 160 হলে a এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "±4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "±8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "±5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "±2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "±4",
+      "option_b": "±8",
+      "option_c": "±5",
+      "option_d": "±2",
+      "correct": "গ",
+      "explanation": "দেওয়া আছে বৃত্তের সমীকরণ: (x-4)²+(y-3)²=r² বৃত্তটি মূলবিন্দুগামী, অর্থাৎ (0,0) বিন্দুগামী। অতএব, x=0 এবং y=0 সমীকরণে বসিয়ে পাই: (0-4)²+(0-3)²=r² (-4)²+(-3)²=r² 16+9=r² 25=r² r=5 আমরা জানি, ব্যাস = 2 × ব্যাসার্ধ ব্যাস = 2 × r ব্যাস = 2 × 5 ব্যাস = 10"
+    },
+    {
+      "number": "",
+      "tag": "BUP FST 18 19",
+      "question": "X অক্ষরেখা ও Y অক্ষরেখা দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "20",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "5",
+      "option_c": "2",
+      "option_d": "20",
+      "correct": "ক",
+      "explanation": "ধরি, \\( (a+x)^5 \\) এর বিস্তৃতিতে \\( x^3 \\) এর সহগ হলো \\( T_{r+1} = \\binom{n}{r} a^{n-r} x^r \\)। এখানে, \\( n=5 \\) এবং \\( r=3 \\)। সুতরাং, \\( x^3 \\) এর সহগ হবে \\( \\binom{5}{3} a^{5-3} \\cdot 1^3 \\) যেখানে \\( x \\) এর সহগ হলো \\( 1 \\)। এখন, \\( \\binom{5}{3} a^2 = 10a^2 \\)। প্রশ্নানুসারে, \\( x^3 \\) এর সহগ \\( 160 \\)। অর্থাৎ, \\( 10a^2 = 160 \\)। \\( a^2 = \\frac{160}{10} \\)। \\( a^2 = 16 \\)। \\( a = \\pm\\sqrt{16} \\)। \\( a = \\pm 4 \\)।"
+    },
+    {
+      "number": "7",
+      "tag": "BUP FST 18 19",
+      "question": "x 2 +y 2 -1/2 x +3/2 y+1/2=0 বৃত্তটির ব্যাসার্ধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1/(2√2)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "√2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1/(2√2)",
+      "option_b": "2",
+      "option_c": "√2",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": "প্রদত্ত সমীকরণটি হলো: \\( \\frac{x}{4} + \\frac{y}{5} = 1 \\)। \\ এটি একটি সরলরেখার সমীকরণ যা \\( \\frac{x}{a} + \\frac{y}{b} = 1 \\) আকারের। \\ এখানে, \\( a = 4 \\) এবং \\( b = 5 \\)। \\ এই রেখাটি X-অক্ষকে \\( (a, 0) \\) বিন্দুতে অর্থাৎ \\( (4, 0) \\) বিন্দুতে ছেদ করে। \\ এবং Y-অক্ষকে \\( (0, b) \\) বিন্দুতে অর্থাৎ \\( (0, 5) \\) বিন্দুতে ছেদ করে। \\ X-অক্ষ, Y-অক্ষ এবং এই সরলরেখা দ্বারা আবদ্ধ ক্ষেত্রটি একটি ত্রিভুজ গঠন করে যার শীর্ষবিন্দুগুলি হলো \\( (0, 0) \\), \\( (4, 0) \\) এবং \\( (0, 5) \\)। \\ একটি ত্রিভুজের ক্ষেত্রফল নির্ণয়ের সূত্র হলো: \\( \\frac{1}{2} \\times \\text{ভূমি} \\times \\text{উচ্চতা} \\)। \\ এখানে, ভূমি হলো X-অক্ষের উপর \\( 4 \\) একক এবং উচ্চতা হলো Y-অক্ষের উপর \\( 5 \\) একক। \\ অতএব, আবদ্ধ ক্ষেত্রের ক্ষেত্রফল \\( = \\frac{1}{2} \\times 4 \\times 5 \\)। \\ \\( = \\frac{1}{2} \\times 20 \\)। \\ \\( = 10 \\) বর্গএকক।"
+    }
+  ]
+}

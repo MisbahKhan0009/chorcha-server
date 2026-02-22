@@ -1,0 +1,160 @@
+{
+  "title": "ঝিনাইদহ ক্যাডেট কলেজ ২০২৫",
+  "subtitle": "সংক্ষিপ্ত-উত্তর প্রশ্ন (7)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "P(x, y, z) = 1 x 3 + 1 y 3 + 1 z 3 − 3 x y z \\frac{1}{x^3} + \\frac{1}{y^3} + \\frac{1}{z^3} - \\frac{3}{xyz} x 3 1 ​ + y 3 1 ​ + z 3 1 ​ − x yz 3 ​ ও Q(x) = 6 x 3 − 36 x 2 + 66 x − 36 6x^3 - 36x^2 + 66x - 36 6 x 3 − 36 x 2 + 66 x − 36 দুইটি বীজগাণিতিক রাশি।",
+      "tag": "JCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "Q(x) কে উৎপাদকে বিশ্লেষণ কর।",
+          "explanation": "দেওয়া আছে, Q ( x ) = 6 x 3 − 36 x 2 + 66 x − 36 Q(x) = 6x^3 - 36x^2 + 66x - 36 Q ( x ) = 6 x 3 − 36 x 2 + 66 x − 36 = 6 ( x 3 − 6 x 2 + 11 x − 6 ) = 6(x^3 - 6x^2 + 11x - 6) = 6 ( x 3 − 6 x 2 + 11 x − 6 ) ধরি, f ( x ) = x 3 − 6 x 2 + 11 x − 6 f(x) = x^3 - 6x^2 + 11x - 6 f ( x ) = x 3 − 6 x 2 + 11 x − 6 ∴ f ( 1 ) = 1 3 − 6 × 1 2 + 11 × 1 − 6 = 1 − 6 + 11 − 6 = 0 \\therefore f(1) = 1^3 - 6 \\times 1^2 + 11 \\times 1 - 6 = 1 - 6 + 11 - 6 = 0 ∴ f ( 1 ) = 1 3 − 6 × 1 2 + 11 × 1 − 6 = 1 − 6 + 11 − 6 = 0 ∴ ( x − 1 ) \\therefore (x - 1) ∴ ( x − 1 ) , f ( x ) f(x) f ( x ) এর একটি উৎপাদক। এখন, f ( x ) = x 3 − 6 x 2 + 11 x − 6 f(x) = x^3 - 6x^2 + 11x - 6 f ( x ) = x 3 − 6 x 2 + 11 x − 6 = x 3 − x 2 − 5 x 2 + 5 x + 6 x − 6 = x^3 - x^2 - 5x^2 + 5x + 6x - 6 = x 3 − x 2 − 5 x 2 + 5 x + 6 x − 6 = x 2 ( x − 1 ) − 5 x ( x − 1 ) + 6 ( x − 1 ) = x^2(x - 1) - 5x(x - 1) + 6(x - 1) = x 2 ( x − 1 ) − 5 x ( x − 1 ) + 6 ( x − 1 ) = ( x − 1 ) ( x 2 − 5 x + 6 ) = ( x − 1 ) ( x 2 − 3 x − 2 x + 6 ) = (x - 1)(x^2 - 5x + 6) = (x - 1)(x^2 - 3x - 2x + 6) = ( x − 1 ) ( x 2 − 5 x + 6 ) = ( x − 1 ) ( x 2 − 3 x − 2 x + 6 ) = ( x − 1 ) { x ( x − 3 ) − 2 ( x − 3 ) } = (x - 1)\\{x(x - 3) - 2(x - 3)\\} = ( x − 1 ) { x ( x − 3 ) − 2 ( x − 3 )} = ( x − 1 ) ( x − 2 ) ( x − 3 ) = (x - 1)(x - 2)(x - 3) = ( x − 1 ) ( x − 2 ) ( x − 3 ) ∴ Q ( x ) = 6 ( x − 1 ) ( x − 2 ) ( x − 3 ) \\therefore Q(x) = 6(x - 1)(x - 2)(x - 3) ∴ Q ( x ) = 6 ( x − 1 ) ( x − 2 ) ( x − 3 ) (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "P(x,y, z)= 0 হলে, দেখাও যে, xy +yz + zx = 0 অথবা x=y =z",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "6 x 3 Q ( x ) \\frac{6x^3}{Q(x)} Q ( x ) 6 x 3 ​ কে আংশিক ভগ্নাংশে প্রকাশ কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "দৃশ্যকল্প-(i): ( 5 x + 2 ) − 1 + ( 5 x + 2 ) − 2 + ( 5 x + 2 ) − 3 + . . . . . (5x + 2)^{-1} + (5x + 2)^{-2} + (5x + 2)^{-3} + ..... ( 5 x + 2 ) − 1 + ( 5 x + 2 ) − 2 + ( 5 x + 2 ) − 3 + ..... একটি অসীম গুণোত্তর ধারা। দৃশ্যকল্প-(ii): ( 3 a − 2 x 3 ) 11 \\left(3a - \\frac{2x}{3}\\right)^{11} ( 3 a − 3 2 x ​ ) 11 একটি দ্বিপদী বিস্তৃতি।",
+      "tag": "JCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "x = 3 2 x = \\frac{3}{2} x = 2 3 ​ এবং n = 4 n = 4 n = 4 হলে, দৃশ্যকল্প-(ii) এর দ্বিপদী বিস্তৃতিকে প্যাসকেলের ত্রিভুজ ব্যবহার করে বিস্তৃতি কর।",
+          "explanation": "দৃশ্যকল্প-ii. হতে পাই, প্রদত্ত বিস্তৃতি = ( 3 a − 2 x 3 ) n \\left(3a - \\frac{2x}{3}\\right)^n ( 3 a − 3 2 x ​ ) n আবার, x = 3 2 x = \\frac{3}{2} x = 2 3 ​ এবং n = 4 n = 4 n = 4 ∴ \\therefore ∴ প্রাপ্ত বিস্তৃতি = ( 3 a − 2 3 × 3 2 ) 4 = ( 3 a − 1 ) 4 \\left(3a - \\frac{2}{3} \\times \\frac{3}{2}\\right)^4 = (3a - 1)^4 ( 3 a − 3 2 ​ × 2 3 ​ ) 4 = ( 3 a − 1 ) 4 = { − ( 1 − 3 a ) } 4 = ( 1 − 3 a ) 4 = \\{-(1-3a)\\}^4 = (1-3a)^4 = { − ( 1 − 3 a ) } 4 = ( 1 − 3 a ) 4 প্যাসকেলের ত্রিভুজ ব্যবহার করে ( 1 − 3 a ) 4 (1-3a)^4 ( 1 − 3 a ) 4 এর বিস্তৃতি করে পাই, ( 1 − 3 a ) 4 = 1 + 4 ( − 3 a ) + 6 ( − 3 a ) 2 + 4 ( − 3 a ) 3 + ( − 3 a ) 4 (1-3a)^4 = 1+4(-3a) +6(-3a)^2+4(-3a)^3 + (-3a)^4 ( 1 − 3 a ) 4 = 1 + 4 ( − 3 a ) + 6 ( − 3 a ) 2 + 4 ( − 3 a ) 3 + ( − 3 a ) 4 = 1 − 12 a + 54 a 2 − 108 a 3 + 81 a 4 = 1-12a +54a^2-108a^3 + 81a^4 = 1 − 12 a + 54 a 2 − 108 a 3 + 81 a 4 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "x x x -এর উপর কী শর্ত আরোপ করলে দৃশ্যকল্প-(i) এর অসীম গুণোত্তর ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "দৃশ্যকল্প-(ii) এর বিস্তৃতিতে a 3 a^3 a 3 এর সহগ 15120 হলে, (যখন n = 7 n = 7 n = 7 ) x x x এর মান নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "Q = 3 2 3 + 3 − 2 3 Q = 3^{\\frac{2}{3}} + 3^{-\\frac{2}{3}} Q = 3 3 2 ​ + 3 − 3 2 ​ এবং x 4 + y 4 = 3 x 2 y 2 x^4 + y^4 = 3x^2y^2 x 4 + y 4 = 3 x 2 y 2",
+      "tag": "JCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "m m m = ( m m ) m m^{\\sqrt[m]{m}} = (m\\sqrt{m})^m m m m ​ = ( m m ​ ) m হলে, m m m এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, x 4 + y 4 = 3 x 2 y 2 x^4 + y^4 = 3x^2y^2 x 4 + y 4 = 3 x 2 y 2 বা, x 4 − 2 x 2 y 2 + y 4 = x 2 y 2 x^4 - 2x^2y^2 + y^4 = x^2y^2 x 4 − 2 x 2 y 2 + y 4 = x 2 y 2 বা, ( x 2 − y 2 ) 2 = ( x y ) 2 (x^2 - y^2)^2 = (xy)^2 ( x 2 − y 2 ) 2 = ( x y ) 2 বা, x 2 − y 2 = x y x^2 - y^2 = xy x 2 − y 2 = x y বা, ( x + y ) ( x − y ) = x y (x + y)(x - y) = xy ( x + y ) ( x − y ) = x y বা, log ⁡ k { ( x + y ) ( x − y ) } = log ⁡ k x y \\log_k \\{(x + y)(x - y)\\} = \\log_kxy lo g k ​ {( x + y ) ( x − y )} = lo g k ​ x y ∴ log ⁡ k ( x + y ) + log ⁡ k ( x − y ) = log ⁡ k x + log ⁡ k y \\therefore \\log_k(x+y) + \\log_k(x - y) = \\log_kx + \\log_ky ∴ lo g k ​ ( x + y ) + lo g k ​ ( x − y ) = lo g k ​ x + lo g k ​ y (দেখানো হলো)"
+        },
+        {
+          "label": "খ",
+          "question": "Q = a 2 + 2 Q = a^2+2 Q = a 2 + 2 এবং a ≥ 0 a \\ge 0 a ≥ 0 হলে, দেখাও যে, a 3 + 3 a = 8 3 a^3+3a=\\frac{8}{3} a 3 + 3 a = 3 8 ​",
+          "explanation": "দেওয়া আছে, x 4 + y 4 = 3 x 2 y 2 x^4 + y^4 = 3x^2y^2 x 4 + y 4 = 3 x 2 y 2 বা, x 4 − 2 x 2 y 2 + y 4 = x 2 y 2 x^4 - 2x^2y^2 + y^4 = x^2y^2 x 4 − 2 x 2 y 2 + y 4 = x 2 y 2 বা, ( x 2 − y 2 ) 2 = ( x y ) 2 (x^2 - y^2)^2 = (xy)^2 ( x 2 − y 2 ) 2 = ( x y ) 2 বা, x 2 − y 2 = x y x^2 - y^2 = xy x 2 − y 2 = x y বা, ( x + y ) ( x − y ) = x y (x + y)(x - y) = xy ( x + y ) ( x − y ) = x y বা, log ⁡ k { ( x + y ) ( x − y ) } = log ⁡ k x y \\log_k \\{(x + y)(x - y)\\} = \\log_kxy lo g k ​ {( x + y ) ( x − y )} = lo g k ​ x y ∴ log ⁡ k ( x + y ) + log ⁡ k ( x − y ) = log ⁡ k x + log ⁡ k y \\therefore \\log_k(x+y) + \\log_k(x - y) = \\log_kx + \\log_ky ∴ lo g k ​ ( x + y ) + lo g k ​ ( x − y ) = lo g k ​ x + lo g k ​ y (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "দেখাও যে, log ⁡ k ( x + y ) + log ⁡ k ( x − y ) = log ⁡ k x + log ⁡ k y \\log_k(x + y) + \\log_k(x - y) = \\log_k x + \\log_k y lo g k ​ ( x + y ) + lo g k ​ ( x − y ) = lo g k ​ x + lo g k ​ y",
+          "explanation": "দেওয়া আছে, x 4 + y 4 = 3 x 2 y 2 x^4 + y^4 = 3x^2y^2 x 4 + y 4 = 3 x 2 y 2 বা, x 4 − 2 x 2 y 2 + y 4 = x 2 y 2 x^4 - 2x^2y^2 + y^4 = x^2y^2 x 4 − 2 x 2 y 2 + y 4 = x 2 y 2 বা, ( x 2 − y 2 ) 2 = ( x y ) 2 (x^2 - y^2)^2 = (xy)^2 ( x 2 − y 2 ) 2 = ( x y ) 2 বা, x 2 − y 2 = x y x^2 - y^2 = xy x 2 − y 2 = x y বা, ( x + y ) ( x − y ) = x y (x + y)(x - y) = xy ( x + y ) ( x − y ) = x y বা, log ⁡ k { ( x + y ) ( x − y ) } = log ⁡ k x y \\log_k \\{(x + y)(x - y)\\} = \\log_kxy lo g k ​ {( x + y ) ( x − y )} = lo g k ​ x y ∴ log ⁡ k ( x + y ) + log ⁡ k ( x − y ) = log ⁡ k x + log ⁡ k y \\therefore \\log_k(x+y) + \\log_k(x - y) = \\log_kx + \\log_ky ∴ lo g k ​ ( x + y ) + lo g k ​ ( x − y ) = lo g k ​ x + lo g k ​ y (দেখানো হলো)"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "uddipok": "একটি চতুর্ভুজের চারটি শীর্ষবিন্দু A(5, 3), B(-4, 2), C(-2, -1) ও D(3, k) ঘড়ির কাঁটার বিপরীত দিকে আবর্তিত।",
+      "tag": "JCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "AB সরলরেখার সমীকরণ নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "ABCD চতুর্ভুজের ক্ষেত্রফল △ \\triangle △ ABD এর ক্ষেত্রফলের 56 43 \\frac{56}{43} 43 56 ​ গুণ হলে, k এর মান নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "A(x, y) বিন্দুটি A ও C বিন্দু হতে সমদূরবর্তী হলে, প্রমাণ কর যে, 9 x + y − 7 = 0 9x + y - 7 = 0 9 x + y − 7 = 0",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "চিত্রে ABCD বর্গের AB, BC, CD ও DA বাহুর মধ্যবিন্দু যথাক্রমে P, Q, RS",
+      "tag": "JCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "B D ⃗ \\vec{BD} B D ভেক্টরকে P B ⃗ \\vec{PB} PB ও A D ⃗ \\vec{AD} A D ভেক্টরের মাধ্যমে প্রকাশ কর।",
+          "explanation": "AABD-এর AB ও AD বাহুর মধ্যবিন্দু যথাক্রমে P ও S। △ABD-এ ভেক্টর যোগের ত্রিভুজবিধি অনুযায়ী, B D → = B A → + A D → = 2 B P → + A D → [ : P , A B  এর মধ্যবিন্দু  ] ∘ \\overrightarrow{\\mathrm{BD}}=\\overrightarrow{\\mathrm{BA}}+\\overrightarrow{\\mathrm{AD}}=2 \\overrightarrow{\\mathrm{BP}}+\\overrightarrow{\\mathrm{AD}}[: \\mathrm{P}, \\mathrm{AB} \\text { এর মধ্যবিন্দু }]^{\\circ} BD = BA + AD = 2 BP + AD [ : P , AB   এর   মধ্যবিন্দু   ] ∘ ∴ B D → = A D → − 2 P B →  (Ans.)  \\therefore \\overrightarrow{\\mathrm{BD}}=\\overrightarrow{\\mathrm{AD}}-2 \\overrightarrow{\\mathrm{PB}} \\text { (Ans.) } ∴ BD = AD − 2 PB  (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "ABD ত্রিভুজে ভেক্টর পদ্ধতিতে প্রমাণ কর যে, P S = 1 2 B D PS = \\frac{1}{2}BD PS = 2 1 ​ B D",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "ভেক্টর পদ্ধতিতে প্রমাণ কর যে, PQRS একটি সামান্তরিক।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "uddipok": "a = 1 tan ⁡ θ a = \\frac{1}{\\tan\\theta} a = t a n θ 1 ​ এবং b = 1 sin ⁡ θ b = \\frac{1}{\\sin\\theta} b = s i n θ 1 ​",
+      "tag": "JCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "পৃথিবীর ব্যাসার্ধ 6440 কিলোমিটার। ঢাকা ও জামালপুর পৃথিবীর কেন্দ্রে 2° কোণ উৎপন্ন করলে ঢাকা ও জামালপুরের দূরত্ব নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, ঢাকা ও জামালপুর দ্বারা পৃথিবীর কেন্দ্রে উৎপন্ন কোণ, θ = 2 ∘ \\theta = 2^\\circ θ = 2 ∘ = ( 2 × 3.1416 180 )  রেডিয়ান = \\left(\\frac{2 \\times 3.1416}{180}\\right) \\text{ রেডিয়ান} = ( 180 2 × 3.1416 ​ )   রেডিয়ান ∴ θ = 0.035 \\therefore \\theta = 0.035 ∴ θ = 0.035 রেডিয়ান (প্রায়) এবং পৃথিবীর ব্যাসার্ধ, r = 6440 r = 6440 r = 6440 কি.মি. মনে করি, স্থানদ্বয়ের মধ্যবর্তী দূরত্ব = S S S ∴ \\therefore ∴ ঢাকা ও জামালপুর মধ্যবতী দূরত্ব, S = r θ = ( 6440 × 0.035 ) S = r\\theta = (6440 \\times 0.035) S = r θ = ( 6440 × 0.035 ) কি.মি. = 225.4 = 225.4 = 225.4 কি.মি. (প্রায়) (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "a + b = x a + b = x a + b = x হলে, প্রমাণ কর যে, sec ⁡ θ = x 2 + 1 x 2 − 1 \\sec\\theta = \\frac{x^2+1}{x^2-1} sec θ = x 2 − 1 x 2 + 1 ​",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "যদি 3 ( a 2 + b 2 ) = 5 3(a^2+b^2) = 5 3 ( a 2 + b 2 ) = 5 এবং 0 < θ < 2 π 0 < \\theta < 2\\pi 0 < θ < 2 π হয়, তবে θ \\theta θ এর মান নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "i. একটি নিরপেক্ষ মুদ্রা চারবার নিক্ষেপ করা হলো। ii. একটি নিরপেক্ষ ছক্কা দুইবার নিক্ষেপ করা হলো।",
+      "tag": "JCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "নিরপেক্ষ ছক্কাটি একবার নিক্ষেপ করা হলে, জোড় সংখ্যা অথবা 3 দ্বারা বিভাজ্য সংখ্যা পাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "ছক্কা নিক্ষেপে প্রাপ্ত সংখ্যা দুটির গুণফল জোড় হওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "(i) হতে Probability tree তৈরি করে বড়জোড় 3T আসার সম্ভাবনা নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

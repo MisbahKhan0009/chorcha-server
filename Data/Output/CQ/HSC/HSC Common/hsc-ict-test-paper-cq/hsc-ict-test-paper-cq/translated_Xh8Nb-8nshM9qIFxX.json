@@ -1,0 +1,222 @@
+{
+  "title": "Dhaka Board 2025",
+  "subtitle": "ICT (6)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "2 2 + 5 2 + 8 2 + ⋯ + n 2 2^{2}+5^{2}+8^{2}+\\cdots +n^{2} 2 2 + 5 2 + 8 2 + ⋯ + n 2",
+      "tag": "DB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "What is a string?",
+          "explanation": "In C language, a string is a character array that ends with 10. It is not a built-in data type in C, rather it is stored as an array of characters."
+        },
+        {
+          "label": "খ",
+          "question": "Explain Variable ++ and ++ variable.",
+          "explanation": "In the case of variable++, the compiler first uses the old value of variable in the program, and then increments the value of the variable by one. This new value becomes effective from the next statement step. But in the case of ++variable, the compiler first increments the initial value of variable by one, and then the program uses this increased value in the same statement. So variable++ and ++variable are not the same."
+        },
+        {
+          "label": "গ",
+          "question": "Create a flowchart to determine the sum of the mentioned series.",
+          "explanation": "The flowchart to determine the sum of the series of the stimulus is given below:"
+        },
+        {
+          "label": "ঘ",
+          "question": "Write a C program to find the sum of the first 40 terms of the series using if statement.",
+          "explanation": "Below is the C language program using if statement to calculate the sum of the first 40 terms of the sequence: #include < stdio.h> int main() { int n, sum =0,term_count=0; for(n=2;term_count<40; n +=3) { sum+= n * n; term_count++; if(term_count> =40) { break; } } printf( \"SUM: %d"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "",
+      "tag": "DB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "What is Element?",
+          "explanation": "Everything from the start tag to the end tag, including the content and any other elements in between, is called an element in HTML code."
+        },
+        {
+          "label": "খ",
+          "question": "Why is it called Empty Tag?",
+          "explanation": "< br> is an empty tag or empty element. It has an opening or starting tag but does not have a closing or end tag and content element, which is a characteristic of an empty tag. That's why it's called an empty tag. Generally, the <br > tag is used to insert a line break in the middle of an HTML line."
+        },
+        {
+          "label": "গ",
+          "question": "Write HTML code to get the result like Scenario-1.",
+          "explanation": "The HTML code to get the results like Scenario-1 is as follows: < !DOCTYPE html> < html> < body> < ul> < li type=\"disc\">River</li> < li type=\"circle\">Padma</li> < li type=\"circle\">Jamuna</li> < li type=\"circle\">Meghna</li> < li type=\"disc\">Flower < li type=\"square\">Adenium</li> < li type=\"square\">Rose</li> < li type=\"square\">Lily</li> < /ul> < /body> < /html>"
+        },
+        {
+          "label": "ঘ",
+          "question": "Implement Scenario-3 with the help of Scenario-2 and show.",
+          "explanation": "Scenario-2 is the table structure in HTML and Scenario-3 is a table. Below is the HTML code of Scenario-3's table using Scenario-2's table structure: < !DOCTYPE html> < html> < body> < table border=\"1\" cellspacing=\"0\" width = \"30%\"> < tr align=\"center\"> < td rowspan=\"3\">River</td> < td>Padma</td> < /tr align=\"center\"> < tr> < td>Jamuna</td> < /tr> < tr align=\"center\"> < td>Meghna</td> < /tr> < tr align=\"center\"> < td rowspan=\"3\">Flower</td> < td>Adenium</td> < /tr> < tr align=\"center\"> < td>Rose</td> < /tr> < tr align=\"center\"> < td>Lily</td> < /tr> < /table> < /body> < /html>"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "A = ( 52 ) 10 B = ( 103 ) 8 C = ( A 25 ⋅ 6 C ) 16 \\quad A=(52)_{10} \\quad B=(103)_{8} \\quad C=(A 25 \\cdot 6 C)_{16} A = ( 52 ) 10 ​ B = ( 103 ) 8 ​ C = ( A 25 ⋅ 6 C ) 16 ​",
+      "tag": "DB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "What is ASCII?",
+          "explanation": "ASCII (American Standard Code for Information Interchange) is a widely used 7- or 8-bit alphanumeric code."
+        },
+        {
+          "label": "খ",
+          "question": "Explain 6 + 5 + 3 = 14 6+5+3=14 6 + 5 + 3 = 14 - is not correct, the correct calculation is 6 + 5 + 3 = 14 6+5+3=14 6 + 5 + 3 = 14 , the given equation 6 + 5 + 3 = 14 6+5+3=14 6 + 5 + 3 = 14 is not equal to 1110, the correct equation is 6 + 5 + 3 = 14 6+5+3=14 6 + 5 + 3 = 14 .",
+          "explanation": "In the decimal system, 6 + 5 + 3 = 14 6 + 5 + 3 = 14 6 + 5 + 3 = 14 . But the binary of decimal 14 is 1110. That is, So, 6 10 + 5 10 + 3 10 = ( 14 ) 10 = ( 1110 ) 2 6_{10}+5_{10}+3_{10}=(14)_{10}=(1110)_{2} 6 10 ​ + 5 10 ​ + 3 10 ​ = ( 14 ) 10 ​ = ( 1110 ) 2 ​ or 6 + 5 + 3 = 1110 6+5+3=1110 6 + 5 + 3 = 1110"
+        },
+        {
+          "label": "গ",
+          "question": "If the value of A A A is ( 34 ) n (34)_{n} ( 34 ) n ​ , then determine the value of n n n .",
+          "explanation": "It is given, A = ( 52 ) 10 A = (52)_{10} A = ( 52 ) 10 ​ Again, if the value of A is ( 34 ) n (34)_n ( 34 ) n ​ , then ( 34 ) n = ( 52 ) 10 (34)_n = (52)_{10} ( 34 ) n ​ = ( 52 ) 10 ​ The decimal value of ( 34 ) n (34)_n ( 34 ) n ​ , ( 34 ) n (34)_n ( 34 ) n ​ = 3 × n 1 + 4 × n 0 = 3 \\times n^1 + 4 \\times n^0 = 3 × n 1 + 4 × n 0 = 3 n + 4 = 3n + 4 = 3 n + 4 That is, 3 n + 4 = 52 3n + 4 = 52 3 n + 4 = 52 Or, 3 n = 52 − 4 3n = 52 - 4 3 n = 52 − 4 Or, 3 n = 48 3n = 48 3 n = 48 Or, n = 48 / 3 n = 48/3 n = 48/3 ∴ n = 16 \\therefore n = 16 ∴ n = 16"
+        },
+        {
+          "label": "ঘ",
+          "question": "Determine the difference of A and B ( S S S ) using addition, and determine the sum of S and C in binary.",
+          "explanation": "Given, A = ( 52 ) 10 A=(52)_{10} A = ( 52 ) 10 ​ Or, A = ( 110100 ) 2 A=(110100)_2 A = ( 110100 ) 2 ​ And B = ( 103 ) 8 B=(103)_8 B = ( 103 ) 8 ​ = ( 01000011 ) 2 \\qquad \\quad=(01000011)_2 = ( 01000011 ) 2 ​ The difference between A and B, S = ( 00110100 ) 2 − ( 01000011 ) 2 S=(00110100)_2 - (01000011)_2 S = ( 00110100 ) 2 ​ − ( 01000011 ) 2 ​ S = ( 00110100 ) 2 + ( − 01000011 ) 2 S=(00110100)_2 + (-01000011)_2 S = ( 00110100 ) 2 ​ + ( − 01000011 ) 2 ​ Here 01000011 01000011 01000011 is negative. So, just find the 2's complement of 01000011 01000011 01000011 . The 1's complement of 01000011 01000011 01000011 = 10111100 = 10111100 = 10111100 + 1 ‾ \\qquad \\qquad \\qquad \\qquad \\qquad \\underline{+1} + 1 ​ _________________________________________________________ ∴ 01000011 \\therefore 01000011 ∴ 01000011 's 2's complement = 10111101 = 10111101 = 10111101 Therefore, ( − 01000011 ) 2 = ( 10111101 ) 2 (-01000011)_2 = (10111101)_2 ( − 01000011 ) 2 ​ = ( 10111101 ) 2 ​ Now, S = ( 00110100 ) 2 + ( − 01000011 ) 2 S=(00110100)_2 + (-01000011)_2 S = ( 00110100 ) 2 ​ + ( − 01000011 ) 2 ​ = ( 00110100 ) 2 + ( 10111101 ) 2 \\quad =(00110100)_2 + (10111101)_2 = ( 00110100 ) 2 ​ + ( 10111101 ) 2 ​ ∴ S = ( 11110001 ) 2 \\therefore S=(11110001)_2 ∴ S = ( 11110001 ) 2 ​ sign bit Since the sign bit. So the result is negative. Therefore, the actual result will be obtained by doing 2's complement again. Therefore, the binary sum of S and C is: 101100010110.01101100"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "Mr. Mamun uses a mobile phone that works on the LTE standard. He uses IEEE 802.11 and IEEE 802-16 standards for his two offices. He will set up a new office 60 km away from the head office.",
+      "tag": "DB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "What is Roaming?",
+          "explanation": "The mobile that is being used, receiving uninterrupted data service even when it is outside the coverage area of the network is called roaming."
+        },
+        {
+          "label": "খ",
+          "question": "The reason for using Start bit and Stop bit in Asynchronous Transmission is?",
+          "explanation": "In asynchronous transmission, Start bit and Stop bit are used. The main reason is to identify the start and end of the data. In this case, when the receiver computer gets the Start bit at the beginning, it understands that the character data bits have started coming and accordingly it starts its internal clock pulse. On the other hand, when it gets the Stop bit, the receiver computer understands that the character data bits have ended. Since the Start bit and Stop bit are essential in this data transfer process, this transmission is also called start-stop transmission."
+        },
+        {
+          "label": "গ",
+          "question": "Describe the characteristics of the generation that Mr. Mamun uses mobile phones.",
+          "explanation": "The phone that Mamun in the stimulus uses is a fourth-generation mobile phone. Basically, the first video conferencing was launched on the fourth generation mobile. Its speed is about 50 times higher than the 3rd generation. The features of the fourth generation phone are given below- This generation of mobile phones can use ultra-broadband speed internet in the system. The actual data transfer rate is a maximum of 20 Mbps The main feature of this generation of mobile system is the use of Internet Protocol (IP) based network instead of circuit switching or packet switching. In this generation, the standard of living will be improved as a result of the application of three-dimensional (3D) technology. This generation of mobile phones is the LTE (Long Term Evolution) standard. Watching high-definition mobile TV"
+        },
+        {
+          "label": "ঘ",
+          "question": "Between the head office and the new office, which one would be suitable for network connection, IEEE 802-11 or IEEE 802-16? Analyze.",
+          "explanation": "IEEE 802.11 is the Wi-Fi standard. On the other hand, IEEE 802.16 is the Wi-Max standard. Wi-Fi (Wireless Fidelity) is a high-speed, popular networking system that transmits data through wireless technology, connecting multiple devices over short distances. It is a wireless local area network (WLAN) technology, with a coverage area typically limited to 50 to 200 meters. It is relatively faster and less expensive than Ethernet and other traditional wired LAN technologies. However, one of its major drawbacks is its limited coverage area, making it difficult to access outside of a specific area. Additionally, it has higher security risks and can experience network signal jams when many users are connected at the same time. On the other hand, 'Wi-MAX (Worldwide Interoperability for Microwave Access) is a modern, high-speed broadband internet service that provides fast internet access over a wide geographic area through a wireless system. Its coverage area can range from 10 to 50 kilometers. However, under certain conditions, its coverage area can extend up to 60 kilometers. WiMAX can provide high-speed broadband internet services to many more users over long distances. Although its maintenance cost is relatively high, it is a highly effective wireless networking system for providing high-speed internet services over a wide range. Therefore, it can be said that using the IEEE 802.16 standard would be suitable for networking between Mr. Mamun's head office and new office."
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "Mr. Rafiq is a renowned researcher. He and his team discovered the purple-colored rice, called Ufshi. One day, when Mr. Rafiq's friend Shafiq tried to enter his lab, the alarm went off as soon as he reached out to open the door, and it didn't open. But as soon as Mr. Rafiq came and stood in front of the door, it opened.",
+      "tag": "DB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "What is E-Learning?",
+          "explanation": "E-learning or electronic learning is a method of teaching and learning from home using various digital technologies such as the internet, computer, mobile, television, etc. in an electronic way."
+        },
+        {
+          "label": "খ",
+          "question": "\"Using technology to provide treatment directly to the diseased cell is possible\" — explain.",
+          "explanation": "Targeted drug delivery systems, which are based on nanotechnology, are used to deliver medication directly to diseased cells, preventing the drug from spreading throughout the body and only reaching the specific diseased cells. As a result, healthy cells are protected, the efficacy of the medication increases, and side effects are reduced. This is particularly important in cases like cancer treatment, as conventional chemotherapy also damages healthy cells."
+        },
+        {
+          "label": "গ",
+          "question": "When Mr. Rafiq stood in front of the door, it opened, but when Shafiq pushed it, the door didn't open. Explain why.",
+          "explanation": "As soon as Mr. Rafiq stood in front of the door, it opened, but when Shafiq put his hand on it, the door did not open and the alarm went off, because the door is controlled by a biometric security system. The main reasons are explained here: Mr. Rafiq's biometric data is registered in the system: The door scanned Mr. Rafiq's biometric information (possibly his iris or face) and identified him. This means that the biometric data required to open the door is only registered or \"enrolled\" in the system for Mr. Rafiq. Shafiq's biometric data is not registered: Shafiq's biometric information (such as fingerprints or fingerprints) is not registered in that security system. When Shafiq puts his hand on the door, the system scans his biometric information and fails to match it with the registered data. The alarm goes off: Since Shafiq's biometric data was not registered and he tried to open the door, the system considered it an unauthorized access attempt. Therefore, the alarm went off according to the security protocol, which is a part of the protection. In simple terms, the door only allows access to the person whose biometric information is loaded into the system as authorized. Mr. Rafiq is an authorized user, but Shafiq is not."
+        },
+        {
+          "label": "ঘ",
+          "question": "Describe the working procedure of the technology of ufshi paddy invention and mention the contributions of the technology in the field of agriculture.",
+          "explanation": "The technology of discovering the ufshi rice in the cue is genetic engineering. The method of working of the technology is described below— 1. DNA selection: The DNA carrying the desired trait of the plant is selected. 2. DNA carrier selection: E. coli is selected as a carrier to carry the selected DNA. It is used to attach the DNA to the plasmid of the carrier. 3. DNA fragmentation: The selected DNA is cut into a convenient DNA part using a specific restriction enzyme. 4. Replacement of fragmented DNA: The fragmented DNA is replaced in the plasmid DNA by applying the ligase enzyme. The modified plasmid DNA is called recombinant. 5. Transfer of recombinant DNA to the host body: The recombinant DNA molecule is introduced into the host bacterium by creating a favorable environment. This DNA-accepting bacterium is called a transformed bacterium. 6. Increase and evaluation of recombinant DNA: The recombinant DNA bacterium is kept in a culture medium and the number is increased. At this time, the desired gene-carrying plasmid also increases the number of host cells. Thus, a large number of recombinant DNA are created in the host body. The contribution of genetic engineering technology in the field of agriculture - through genetic engineering technology, the seedlings of all the plants that do not spread through seeds can be created and transferred in a fresh state, easily produce disease-free, especially virus-free seedlings, produce and conserve endangered plants and reliable technology for tissue culture and free from the problem of proper seed collection and storage, and transferring a gene from a wild species to another crop species to produce more productive crops, etc."
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "",
+      "tag": "DB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "What is a decoder?",
+          "explanation": "A decoder is such a combinational circuit with which $2^n$ output lines can be obtained from $n$ input lines."
+        },
+        {
+          "label": "খ",
+          "question": "Prove that the logic gate marked P in Figure-1 is a universal gate.",
+          "explanation": "The gate marked P in Figure-1 is the NAND gate, which is a universal gate. The gates through which other gates including basic gates can be created or implemented are called universal gates. The NAND gate is called a universal gate because the output of other gates can be obtained by modifying the NAND gate. If the outputs of OR, AND, and NOT gates are provided through the NAND gate, then the NAND gate will be established as a universal gate."
+        },
+        {
+          "label": "গ",
+          "question": "Determine the simplified value of F in Figure-1.",
+          "explanation": "It can be seen from Figure-1,"
+        },
+        {
+          "label": "ঘ",
+          "question": "Analyze \"Figure-2 can be implemented with the help of the identified Q logic gate in Figure-1\".",
+          "explanation": "The Q of 1 is the NOR gate and Figure-2 is the full adder block diagram. The NOR gate is the universal gate. And any logic function can be implemented using a universal gate. So, it is possible to implement a full adder using a NOR gate. Below is the implementation of a full adder using a NOR gate. In the case of a full adder, we know, Below is the logic circuit of the above function drawn using NOR gates:"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "uddipok": "Sourav's year of birth is 1990. His current age is 34 years. He is interested in applying for a government job. According to the government's decision, the valid age for joining a government job is from 18 to 32 years.",
+      "tag": "DB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "What is an array?",
+          "explanation": "In C programming, there is a special data structure to store multiple variables of the same data type together, which is called an array."
+        },
+        {
+          "label": "খ",
+          "question": "\"There are some rules to be followed while naming a variable\"-explain.",
+          "explanation": "In the C language, there are some rules and regulations to be followed for variable naming because it is a case sensitive programming language. In a C program, uppercase and lowercase letters have different meanings. Additionally, not all types of symbols can be used in variable names. So, instead of naming variables as my Number, I Number 1 Number-10, they are used as myNumber, number1, number_10 respectively."
+        },
+        {
+          "label": "গ",
+          "question": "Create an algorithm to determine whether Sourav's year of birth is a leap year or not.",
+          "explanation": "The algorithm to determine whether the year of birth of Saurabh is a leap year or not is given below- Step-1: Start the program. Step-2: Assign y = 1990. Step-3: If (y % 4 && y % 100 != 0) || (y % 400), then go to step 4, otherwise go to step 5. Step-4: Print LEAP YEAR and go to step 6. Step-5: Print NOT LEAP YEAR. Step-6: End the program."
+        },
+        {
+          "label": "ঘ",
+          "question": "Write a C Program to determine whether Saurav is eligible for a government job application.",
+          "explanation": "To determine whether Saurabh is eligible for a job application, a program in C language is given below: #include<stdio.h> int main() { int n = 34; if ((n>=18)&&(n<=32)) printf(\"Eligible\"); else printf(\"Not Eligible\"); }"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "",
+      "tag": "DB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "What is HTML Element?",
+          "explanation": "Everything from the start tag to the end tag in HTML code is an HTML element."
+        },
+        {
+          "label": "খ",
+          "question": "\"HTML is not a case sensitive language\" explain.",
+          "explanation": "Like all other programming languages, the HTML language is not a case-sensitive language. In other words, whether capital letters or small letters are used in the HTML language, it will perform the same task or show the same value. For example, there is no difference between <img> and <IMG> in HTML language, they perform the same task."
+        },
+        {
+          "label": "গ",
+          "question": "Write the HTML code to display Figure-3 as output.",
+          "explanation": "The HTML code to get the output like Figure-3 is as follows: < html > < body > < ol type = \"a\" start = \"5\" > < li > Car < / li > < li > Plane < ol start = \"5\" > < li > Fighter Plane < / li > < li > < u > Commercial Plane < / u > < / li > < li > Private Plane < / li > < / ol > < / li > < li > Bike < ul type = \"circle \" > < li > Super Bike < / li > < li > Electric Bike < / li > < / ul > < / li > < / ol > < / body > < / html >"
+        },
+        {
+          "label": "ঘ",
+          "question": "Which website structure of Figure-1 and Figure-2 is more convenient for conducting quiz competitions? Analyze.",
+          "explanation": "The Figure-1 of the cue is the linear structure and Figure-2 is the menu structure. In the linear web structure, the pages are arranged in a specific sequence (one after the other). The user has to click on the 'Next' or 'Previous' button to move from one page to another in a sequential manner. On the other hand, in the menu structure, there is a menu or navigation bar where there are options to go directly to different sections or questions of the quiz. This is usually part of a hierarchical structure, where one can go to different sections from the home page. Since the quiz competition has more freedom for the authorities to conduct and less freedom for the competitors, the user is taken on a specific path and the user is forced to answer each question sequentially, so it can be said that the linear structure is better for quiz competitions. A detailed analysis is given below- The linear structure is better for quiz competitions for the following reasons- There is only a \"Next\" or 'Previous' option, so navigation is very easy for the user. There is no confusion. Due to the absence of any extra menu or option for the user, there is less confusion and they can focus completely on the quiz. If the quiz is an exam or assessment where each question must be answered, the linear structure is the most suitable. The menu structure is not suitable for quiz competitions for the following reasons- It can be difficult to ensure that each question is seen in the correct order during the quiz. If the menu is too complex or has many options, the user may become confused. If the quiz is time-limited or requires continuity (such as in the case of an exam), the menu structure may not be suitable."
+        }
+      ]
+    }
+  ]
+}

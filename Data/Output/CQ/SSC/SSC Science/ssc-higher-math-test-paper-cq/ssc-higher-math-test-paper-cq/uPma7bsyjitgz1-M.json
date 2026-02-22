@@ -1,0 +1,182 @@
+{
+  "title": "গভঃ ল্যাবরেটরী হাই স্কুল, রাজশাহী ২০২৪",
+  "subtitle": "উচ্চতর গণিত (8)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "M = ( 2 + x 4 ) 6 \\mathrm{M}=\\left(2+\\frac{\\mathrm{x}}{4}\\right)^{6} M = ( 2 + 4 x ​ ) 6 এবং N = ( K + y 4 ) 5 \\mathrm{N}=\\left(\\mathrm{K}+\\frac{\\mathrm{y}}{4}\\right)^{5} N = ( K + 4 y ​ ) 5 দুটি দ্বিপদী রাশি।",
+      "tag": "RGLHS 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "x x x এর ঘাতের উর্ধ্বক্রমে M M M কে x 3 x^{3} x 3 পর্যন্ত বিস্তৃত কর।",
+          "explanation": "দেওয়া আছে,  M = ( 2 + x 4 ) 6 = 2 6 + 6 C 1 ⋅ 2 5 ⋅ ( x 4 ) 1 + 6 C 2 ⋅ 2 4 ⋅ ( x 4 ) 2 + 6 C 3 ⋅ 2 3 ⋅ ( x 4 ) 3 + ⋯ ⋯ = 64 + 48 x + 15 x 2 + 5 2 x 3 + ⋯ ⋯ ⋯  (Ans.)  \\begin{array}{l}\\text { দেওয়া আছে, } M=\\left(2+\\frac{x}{4}\\right)^{6} \\\\ =2^{6}+{ }^{6} C_{1} \\cdot 2^{5} \\cdot\\left(\\frac{x}{4}\\right)^{1}+{ }^{6} C_{2} \\cdot 2^{4} \\cdot\\left(\\frac{x}{4}\\right)^{2}+{ }^{6} C_{3} \\cdot 2^{3} \\cdot\\left(\\frac{x}{4}\\right)^{3}+\\cdots \\cdots \\\\ =64+48 x+15 x^{2}+\\frac{5}{2} x^{3}+\\cdots \\cdots \\cdots \\text { (Ans.) }\\end{array}   দেওয়া   আছে ,  M = ( 2 + 4 x ​ ) 6 = 2 6 + 6 C 1 ​ ⋅ 2 5 ⋅ ( 4 x ​ ) 1 + 6 C 2 ​ ⋅ 2 4 ⋅ ( 4 x ​ ) 2 + 6 C 3 ​ ⋅ 2 3 ⋅ ( 4 x ​ ) 3 + ⋯⋯ = 64 + 48 x + 15 x 2 + 2 5 ​ x 3 + ⋯⋯⋯  (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "'ক' এ প্রাপ্ত বিস্তৃতির সাহায্যে ( 1 , 9975 ) 6 (1,9975)^{6} ( 1 , 9975 ) 6 এর মান চার দশমিক-স্থান পর্যন্ত নির্ণয় কর।",
+          "explanation": "‘ক' হতে, ( 2 + x 4 ) 6 = 64 + 48 x + 15 x 2 + 5 2 x 3 + ⋯ ⋯ … ( i ) \\left(2+\\frac{x}{4}\\right)^{6}=64+48 x+15 x^{2}+\\frac{5}{2} x^{3}+\\cdots \\cdots \\ldots(i) ( 2 + 4 x ​ ) 6 = 64 + 48 x + 15 x 2 + 2 5 ​ x 3 + ⋯⋯… ( i ) ধরি, 2 + x 4 = 1.9975 2+\\frac{x}{4}=1.9975 2 + 4 x ​ = 1.9975 বা, x 4 = − 0.0025 ∴ x = − 0.01 \\frac{x}{4}=-0.0025 \\therefore x=-0.01 4 x ​ = − 0.0025 ∴ x = − 0.01 x এর মান (i) এ বসিয়ে পাই, ( 2 − 0.01 4 ) 6 = 64 + 48 ⋅ ( − 0.01 ) + 15 ⋅ ( − 0.01 ) 2 + 5 2 ⋅ ( − 0.01 ) 3 + … … … \\left(2-\\frac{0.01}{4}\\right)^{6}=64+48 \\cdot(-0.01)+15 \\cdot(-0.01)^{2}+\\frac{5}{2} \\cdot(-0.01)^{3}+\\ldots \\ldots \\ldots ( 2 − 4 0.01 ​ ) 6 = 64 + 48 ⋅ ( − 0.01 ) + 15 ⋅ ( − 0.01 ) 2 + 2 5 ​ ⋅ ( − 0.01 ) 3 + ……… বা, ( 2 − 0.0025 ) 6 = 64 − 0.48 + 0.0015 − 0.0000025 + … … (2-0.0025)^{6}=64-0.48+0.0015-0.0000025+\\ldots \\ldots ( 2 − 0.0025 ) 6 = 64 − 0.48 + 0.0015 − 0.0000025 + …… ∴ ( 1.9975 ) 6 = 63.5215 \\therefore(1.9975)^{6}=63.5215 ∴ ( 1.9975 ) 6 = 63.5215 (চার দশমিক স্থান পর্যন্ত) (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "N এর বিস্তৃতির K 3 \\mathrm{K}^{3} K 3 এর সহগ 160 হলে, y এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, N = ( K + y 4 ) 5 = K 5 + 5 C 1 ⋅ K 4 ⋅ y 4 + 5 C 2 K 3 ⋅ ( y 4 ) 2 + ⋯ ⋯ ⋯ = K 5 + 5 4 K 4 y + 10 K 3 y 2 16 + ⋯ ⋯ ⋯ = K 5 + 5 4 K 4 y + 5 8 K 3 y 2 + … … … \\begin{array}{l} =\\left(K+\\frac{y}{4}\\right)^{5}=K^{5}+{ }^{5} C_{1} \\cdot K^{4} \\cdot \\frac{y}{4}+{ }^{5} C_{2} K^{3} \\cdot\\left(\\frac{y}{4}\\right)^{2}+\\cdots \\cdots \\cdots \\\\ =K^{5}+\\frac{5}{4} K^{4} y+10 K^{3} \\frac{y^{2}}{16}+\\cdots \\cdots \\cdots \\\\ =K^{5}+\\frac{5}{4} K^{4} y+\\frac{5}{8} K^{3} y^{2}+\\ldots \\ldots \\ldots \\end{array} = ( K + 4 y ​ ) 5 = K 5 + 5 C 1 ​ ⋅ K 4 ⋅ 4 y ​ + 5 C 2 ​ K 3 ⋅ ( 4 y ​ ) 2 + ⋯⋯⋯ = K 5 + 4 5 ​ K 4 y + 10 K 3 16 y 2 ​ + ⋯⋯⋯ = K 5 + 4 5 ​ K 4 y + 8 5 ​ K 3 y 2 + ……… ​ বিস্তৃতিতে K 3 \\mathrm{K}^{3} K 3 এর সহগ = 5 8 y 2 =\\frac{5}{8} \\mathrm{y}^{2} = 8 5 ​ y 2 বা, 160 = 5 8 y 2 160=\\frac{5}{8} y^{2} 160 = 8 5 ​ y 2 বা, y 2 = 256 y^{2}=256 y 2 = 256 বা, y 2 = 16 2 ∴ y = ± 16 \\mathrm{y}^{2}=16^{2} \\therefore \\mathrm{y}= \\pm 16 y 2 = 1 6 2 ∴ y = ± 16 (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "R : R − { 1 } → R − { 2 } \\mathbb{R}: \\mathbb{R}-\\{1\\} \\rightarrow \\mathbb{R}-\\{2\\} R : R − { 1 } → R − { 2 } এবং f ( x ) = 2 x + 2 x − 1 f(\\mathrm{x})=\\frac{2 \\mathrm{x}+2}{\\mathrm{x}-1} f ( x ) = x − 1 2 x + 2 ​ , g ( x ) = x − 2 g(x)=\\sqrt{x-2} g ( x ) = x − 2 ​",
+      "tag": "RGLHS 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "f f f এবং g এর ডোমেন বের কর।",
+          "explanation": "দেওয়া আছে, f ( x ) = 2 x + 2 x − 1 \\mathrm{f}(\\mathrm{x})=\\frac{2 \\mathrm{x}+2}{\\mathrm{x}-1} f ( x ) = x − 1 2 x + 2 ​ f ( x ) f(x) f ( x ) ফাংশনটি সংজ্ঞায়িত হবে যদি ও কেবল যদি x − 1 ≠ 0 x-1 \\neq 0 x − 1  = 0 বা, x ≠ 1 x \\neq 1 x  = 1 হয়। ∴ \\therefore ∴ ডোমেন, D f = { x : x ∈ R \\mathrm{D}_{\\mathrm{f}}=\\{\\mathrm{x}: \\mathrm{x} \\in \\mathbb{R} D f ​ = { x : x ∈ R এবং x ≠ 1 } \\mathrm{x} \\neq 1\\} x  = 1 } (Ans.) আবার, g ( x ) = x − 2 g(x)=\\sqrt{x-2} g ( x ) = x − 2 ​ g ( x ) \\mathrm{g}(\\mathrm{x}) g ( x ) ফাংশনটি সংজ্ঞায়িত হবে যদি ও কেবল যদি x − 2 ≥ 0 x-2 \\geq 0 x − 2 ≥ 0 বা, x ≥ 2 x \\geq 2 x ≥ 2 হয়। ∴ \\therefore ∴ ডোমেন, D g = { x : x ∈ R \\mathrm{D}_{\\mathrm{g}}=\\{\\mathrm{x}: \\mathrm{x} \\in \\mathbb{R} D g ​ = { x : x ∈ R এবং x ≥ 2 } \\mathrm{x} \\geq 2\\} x ≥ 2 } (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, f f f এক-এক এবং অনটু ফাংশন।",
+          "explanation": "দেওয়া আছে, f ( x ) = 2 x + 2 x − 1 \\mathrm{f}(\\mathrm{x})=\\frac{2 \\mathrm{x}+2}{\\mathrm{x}-1} f ( x ) = x − 1 2 x + 2 ​ f ( x ) f(x) f ( x ) ফাংশনটি এক-এক হবে যদি ও কেবল যদি যেকোনো a , b ∈ a, b \\in a , b ∈ ডোম f f f এর জন্য f ( a ) = f ( b ) f(a)=f(b) f ( a ) = f ( b ) হলে a = b a=b a = b হয়। শর্তমতে, f ( a ) = f ( b ) f(a)=f(b) f ( a ) = f ( b ) বা, 2 a + 2 a − 1 = 2 b + 2 b − 1 \\frac{2 a+2}{a-1}=\\frac{2 b+2}{b-1} a − 1 2 a + 2 ​ = b − 1 2 b + 2 ​ বা, 2 a b − 2 a + 2 b − 2 = 2 a b + 2 a − 2 b − 2 2 a b-2 a+2 b-2=2 a b+2 a-2 b-2 2 ab − 2 a + 2 b − 2 = 2 ab + 2 a − 2 b − 2 বা, 4 a = 4 b ∴ a = b 4 a=4 b \\quad \\therefore a=b 4 a = 4 b ∴ a = b ∴ f ( x ) \\therefore \\mathrm{f}(\\mathrm{x}) ∴ f ( x ) ফাংশনটি এক-এক ফাংশন। (দেখানো হলো) আবার, ধরি, y = 2 x + 2 x − 1 y=\\frac{2 x+2}{x-1} y = x − 1 2 x + 2 ​ বা, x y − y = 2 x + 2 x y-y=2 x+2 x y − y = 2 x + 2 বা, x y − 2 x = y + 2 x y-2 x=y+2 x y − 2 x = y + 2 বা, x ( y ′ − 2 ) = y + 2 x\\left(y^{\\prime}-2\\right)=y+2 x ( y ′ − 2 ) = y + 2 ∴ x = y + 2 y − 2 ∈ R \\therefore x=\\frac{y+2}{y-2} \\in \\mathbb{R} ∴ x = y − 2 y + 2 ​ ∈ R হবে যদি ও কেবল যদি y − 2 ≠ 0 y-2 \\neq 0 y − 2  = 0 বা, y ≠ 2 y \\neq 2 y  = 2 হয়। ∴ f ( x ) \\therefore f(x) ∴ f ( x ) এর রেঞ্জ = R − { 2 } = =\\mathbb{R}-\\{2\\}= = R − { 2 } = কোডোমেন ∴ f ( x ) \\therefore \\mathrm{f}(\\mathrm{x}) ∴ f ( x ) ফাংশনটি অনটু ফাংশন (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "5 f − 1 ( x ) = g − 1 ( 3 ) 5 f^{-1}(\\mathrm{x})=\\mathrm{g}^{-1}(3) 5 f − 1 ( x ) = g − 1 ( 3 ) হলে, x এর মান নির্ণয় কর।",
+          "explanation": "ধরি, y = g ( x ) = x − 2 y=g(x)=\\sqrt{x-2} y = g ( x ) = x − 2 ​ সুতরাং g ( x ) = y g(x)=y g ( x ) = y হলে x = g − 1 ( y ) x=g^{-1}(y) x = g − 1 ( y ) আবার, y = x − 2 \\mathrm{y}=\\sqrt{\\mathrm{x}-2} y = x − 2 ​ বা, y 2 = x − 2 y^{2}=x-2 y 2 = x − 2 বা, x = y 2 + 2 x=y^{2}+2 x = y 2 + 2 বা, g − 1 ( y ) = y 2 + 2 \\mathrm{g}^{-1}(\\mathrm{y})=\\mathrm{y}^{2}+2 g − 1 ( y ) = y 2 + 2 [(i) নং হতে] ∴ g − 1 ( 3 ) = 3 2 + 2 = 11 \\therefore \\mathrm{g}^{-1}(3)=3^{2}+2=11 ∴ g − 1 ( 3 ) = 3 2 + 2 = 11 আবার, ধরি, y = f ( x ) = 2 x + 2 x − 1 y=f(x)=\\frac{2 x+2}{x-1} y = f ( x ) = x − 1 2 x + 2 ​ ∴ x = f − 1 ( y ) \\therefore \\mathrm{x}=\\mathrm{f}^{-1}(\\mathrm{y}) ∴ x = f − 1 ( y ) 'খ' হতে পাই, x = y + 2 y − 2 x=\\frac{y+2}{y-2} x = y − 2 y + 2 ​ বা, f − 1 ( y ) = y + 2 y − 2 ∴ f − 1 ( x ) = x + 2 x − 2 \\mathrm{f}^{-1}(\\mathrm{y})=\\frac{\\mathrm{y}+2}{\\mathrm{y}-2} \\therefore \\mathrm{f}^{-1}(\\mathrm{x})=\\frac{\\mathrm{x}+2}{\\mathrm{x}-2} f − 1 ( y ) = y − 2 y + 2 ​ ∴ f − 1 ( x ) = x − 2 x + 2 ​ প্রদত্ত সমীকরণ, 5. f − 1 ( x ) = g − 1 ( 3 ) \\mathrm{f}^{-1}(\\mathrm{x})=\\mathrm{g}^{-1}(3) f − 1 ( x ) = g − 1 ( 3 ) . বা, 5 ⋅ x + 2 x − 2 = 11 5 \\cdot \\frac{x+2}{x-2}=11 5 ⋅ x − 2 x + 2 ​ = 11 বা, 5 x + 10 = 11 x − 22 5 x+10=11 x-22 5 x + 10 = 11 x − 22 বা, 6 x = 32 6 x=32 6 x = 32 বা, x = 32 6 ∴ x = 16 3 x=\\frac{32}{6} \\therefore x=\\frac{16}{3} x = 6 32 ​ ∴ x = 3 16 ​ (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "( k − 1 ) x 2 − ( k + 2 ) x + 4 = 0 (\\mathrm{k}-1) \\mathrm{x}^{2}-(\\mathrm{k}+2) \\mathrm{x}+4=0 ( k − 1 ) x 2 − ( k + 2 ) x + 4 = 0 একটি দ্বিঘাত সমীকরণ যার মূলদ্বয় বাস্তব ও সমান।",
+      "tag": "RGLHS 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "সমীকরণটির নিশ্চায়ক k এর মাধ্যমে প্রকাশ কর ।",
+          "explanation": "দেওয়া আছে,  ( k − 1 ) x 2 − ( k + 2 ) x + 4 = 0  সমীকরণটির নিশ্চায়ক  = { − ( k + 2 ) } 2 − 4 ( k − 1 ) .4 = k 2 + 4 k + 4 − 16 k + 16 = k 2 − 12 k + 20  (Ans.)  \\begin{array}{l}\\text { দেওয়া আছে, }(\\mathrm{k}-1) \\mathrm{x}^{2}-(\\mathrm{k}+2) \\mathrm{x}+4=0 \\\\ \\begin{aligned} \\text { সমীকরণটির নিশ্চায়ক } & =\\{-(\\mathrm{k}+2)\\}^{2}-4(\\mathrm{k}-1) .4 \\\\ & =\\mathrm{k}^{2}+4 \\mathrm{k}+4-16 \\mathrm{k}+16 \\\\ & =\\mathrm{k}^{2}-12 \\mathrm{k}+20 \\text { (Ans.) }\\end{aligned}\\end{array}   দেওয়া   আছে ,  ( k − 1 ) x 2 − ( k + 2 ) x + 4 = 0   সমীকরণটির   নিশ্চায়ক   ​ = { − ( k + 2 ) } 2 − 4 ( k − 1 ) .4 = k 2 + 4 k + 4 − 16 k + 16 = k 2 − 12 k + 20  (Ans.)  ​ ​"
+        },
+        {
+          "label": "খ",
+          "question": "k এর মান নির্ণয় কর।",
+          "explanation": "‘ক’ ‘হতে, সমীকরণটির নিশ্চায়ক = k 2 − 12 k + 20 =k^{2}-12 k+20 = k 2 − 12 k + 20 = k 2 − 10 k − 2 k + 20 = k ( k − 10 ) − 2 ( k − 10 ) = ( k − 2 ) ( k − 10 ) \\begin{array}{l} =k^{2}-10 \\mathrm{k}-2 \\mathrm{k}+20 \\\\ =\\mathrm{k}(\\mathrm{k}-10)-2(\\mathrm{k}-10) \\\\ =(\\mathrm{k}-2)(\\mathrm{k}-10) \\end{array} = k 2 − 10 k − 2 k + 20 = k ( k − 10 ) − 2 ( k − 10 ) = ( k − 2 ) ( k − 10 ) ​ ∴ \\therefore ∴ প্রদত্ত সমীকরণের মূলগুলো বাস্তব ও সমান হবে যদি নিশ্চায়ক শূন্য হয়। অর্থাৎ, ( k − 2 ) ( k − 10 ) = 0 ∴ k = 2 (k-2)(k-10)=0 \\quad \\therefore k=2 ( k − 2 ) ( k − 10 ) = 0 ∴ k = 2 অথবা k = 10 k=10 k = 10 ∴ \\therefore ∴ নির্ণেয় মান: k = 2 , 10 \\mathrm{k}=2,10 k = 2 , 10 (An's.)"
+        },
+        {
+          "label": "গ",
+          "question": "k এর মান ব্যবহার করে সমীকরণটির মূলগুলো নির্ণয় কর এবং মূলের প্রকৃতি ব্যাখ্যা কর ।",
+          "explanation": "‘খ’ হতে, k = 2 , 10 k=2,10 k = 2 , 10 k = 2  হলে,  ( 2 − 1 ) x 2 − ( 2 + 2 ) x + 4 = 0 \\mathrm{k}=2 \\text { হলে, }(2-1) \\mathrm{x}^{2}-(2+2) \\mathrm{x}+4=0 k = 2   হলে ,  ( 2 − 1 ) x 2 − ( 2 + 2 ) x + 4 = 0 বা, x 2 − 4 x + 4 = 0 x^{2}-4 x+4=0 x 2 − 4 x + 4 = 0 বা, ( x − 2 ) 2 = 0 (x-2)^{2}=0 ( x − 2 ) 2 = 0 বা, ( x − 2 ) ( x − 2 ) = 0 ∴ x = 2 , 2 (x-2)(x-2)=0 \\quad \\therefore x=2,2 ( x − 2 ) ( x − 2 ) = 0 ∴ x = 2 , 2 ∴ \\therefore ∴ সমীকরণটির মূলদ্বয় 2 ও 2 অর্থাৎ, মূলদ্বয় বাস্তব ও সমান। (Ans.) k = 10 \\mathrm{k}=10 k = 10 হলে, ( 10 − 1 ) x 2 − ( 10 + 2 ) x + 4 = 0 (10-1) x^{2}-(10+2) x+4=0 ( 10 − 1 ) x 2 − ( 10 + 2 ) x + 4 = 0 বা, 9 x 2 − 12 x + 4 = 0 9 \\mathrm{x}^{2}-12 \\mathrm{x}+4=0 9 x 2 − 12 x + 4 = 0 বা, ( 3 x ) 2 − 2.3 x .2 + 2 2 = 0 (3 \\mathrm{x})^{2}-2.3 \\mathrm{x} .2+2^{2}=0 ( 3 x ) 2 − 2.3 x .2 + 2 2 = 0 বা, ( 3 x − 2 ) 2 = 0 (3 x-2)^{2}=0 ( 3 x − 2 ) 2 = 0 বা, ( 3 x − 2 ) ( 3 x − 2 ) = 0 (3 x-2)(3 x-2)=0 ( 3 x − 2 ) ( 3 x − 2 ) = 0 ∴ x = 2 3 , 2 3 \\therefore \\mathrm{x}=\\frac{2}{3}, \\frac{2}{3} ∴ x = 3 2 ​ , 3 2 ​ ∴ \\therefore ∴ সমীকরণটির মূলদ্বয় 2 3 \\frac{2}{3} 3 2 ​ ও 2 3 \\frac{2}{3} 3 2 ​ অর্থাৎ, মূলদ্বয় বাস্তব ও সমান। (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "চিত্রে বৃত্তের ব্যাস AB",
+      "tag": "RGLHS 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দেখাও যে, ∠ A D B = 90 ∘ \\angle \\mathrm{ADB}=90^{\\circ} ∠ ADB = 9 0 ∘",
+          "explanation": "মনে করি, O কেন্দ্রবিশিষ্ট MADB বৃত্তের একটি ব্যাস AB। তাহলে AMB চাপের ওপর দন্ডায়মান বৃত্তস্থ কোণ ∠ A D B \\angle \\mathrm{ADB} ∠ ADB এবং কেন্দ্রস্থ কোণ ∠ A O B \\angle \\mathrm{AOB} ∠ AOB . ∴ ∠ A D B = 1 2 ∠ A O B  [একই চাপের ওপর দন্ডায়মান বৃত্তস্থ কোণ = 1 2 × 2   = 1  সমকোণ  = 90 ∘  কেন্দ্রস্থ কোণের অর্ধেক।]  \\begin{array}{ll}\\therefore \\angle \\mathrm{ADB}=\\frac{1}{2} \\angle \\mathrm{AOB} & \\text { [একই চাপের ওপর দন্ডায়মান বৃত্তস্থ কোণ} \\\\ =\\frac{1}{2} \\times 2 \\text { }=1 \\text { সমকোণ }=90^{\\circ} & \\text { কেন্দ্রস্থ কোণের অর্ধেক।] }\\end{array} ∴ ∠ ADB = 2 1 ​ ∠ AOB = 2 1 ​ × 2   = 1   সমকোণ   = 9 0 ∘ ​  [ একই   চাপের   ওপর   দন্ডায়মান   বৃত্তস্থ   কোণ   কেন্দ্রস্থ   কোণের   অর্ধেক। ]  ​ ∴ ∠ A D B = 90 ∘ \\therefore \\angle \\mathrm{ADB}=90^{\\circ} ∴ ∠ ADB = 9 0 ∘ (দেখখানো হলো)"
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, A E ⋅ B E = C E 2 \\mathrm{AE} \\cdot \\mathrm{BE}=\\mathrm{CE}^{2} AE ⋅ BE = CE 2",
+          "explanation": "AB ব্যাস হওয়ায় ∠ A C B \\angle \\mathrm{ACB} ∠ ACB অর্ধবৃত্তস্থ কোণ, সুতরাং এবং CE ⊥ A B \\perp \\mathrm{AB} ⊥ AB । প্রমাণ করতে হবে যে, A E ⋅ B E = C E 2 \\mathrm{AE} \\cdot \\mathrm{BE}=\\mathrm{CE}^{2} AE ⋅ BE = CE 2 প্রমাণ: ∠ A C B = 90 ∘ \\angle \\mathrm{ACB}=90^{\\circ} ∠ ACB = 9 0 ∘ ∴ ∠ A C E + ∠ E C B = 90 ∘ … …  (i)  \\therefore \\quad \\angle \\mathrm{ACE}+\\angle \\mathrm{ECB}=90^{\\circ} \\ldots \\ldots \\text { (i) } ∴ ∠ ACE + ∠ ECB = 9 0 ∘ ……  (i)  আবার, C E ⊥ A B \\mathrm{CE} \\perp \\mathrm{AB} CE ⊥ AB বলে ∠ A E C = ∠ C E B = 90 ∘ \\angle \\mathrm{AEC}=\\angle \\mathrm{CEB}=90^{\\circ} ∠ AEC = ∠ CEB = 9 0 ∘ △ A C E এ , ∠ A E C + ∠ A C E + ∠ C A E = 180 ∘ \\triangle \\mathrm{ACE} এ, \\angle \\mathrm{AEC}+\\angle \\mathrm{ACE}+\\angle \\mathrm{CAE}=180^{\\circ} △ ACE এ , ∠ AEC + ∠ ACE + ∠ CAE = 18 0 ∘ বা, 90 ∘ + ∠ A C E + ∠ C A E = 180 ∘ 90^{\\circ}+\\angle \\mathrm{ACE}+\\angle \\mathrm{CAE}=180^{\\circ} 9 0 ∘ + ∠ ACE + ∠ CAE = 18 0 ∘ ∴ ∠ A C E + ∠ C A E 0 = 90 ∘ … …  (ii)  \\therefore \\quad \\angle \\mathrm{ACE}+\\angle \\mathrm{CAE}_{0}=90^{\\circ} \\ldots \\ldots \\text { (ii) } ∴ ∠ ACE + ∠ CAE 0 ​ = 9 0 ∘ ……  (ii)  (i) নং এবং (ii) নং হতে পাই, ∠ A C E + ∠ E C B = ∠ A C E + ∠ C A E \\angle \\mathrm{ACE}+\\angle \\mathrm{ECB}=\\angle \\mathrm{ACE}+\\angle \\mathrm{CAE} ∠ ACE + ∠ ECB = ∠ ACE + ∠ CAE ∴ ∠ E C B = ∠ C A E \\therefore \\angle \\mathrm{ECB}=\\angle \\mathrm{CAE} ∴ ∠ ECB = ∠ CAE △ A C E \\triangle \\mathrm{ACE} △ ACE এবং △ C E B ∽ ∠ A E C = ∠ C E B , ∠ C A E = ∠ E C B \\triangle \\mathrm{CEB} \\backsim \\angle \\mathrm{AEC}=\\angle \\mathrm{CEB}, \\angle \\mathrm{CAE}=\\angle \\mathrm{ECB} △ CEB ∽ ∠ AEC = ∠ CEB , ∠ CAE = ∠ ECB অবশিষ্ট ∠ A C E = \\angle \\mathrm{ACE}= ∠ ACE = অবশিষ্ট ∠ E B C \\angle \\mathrm{EBC} ∠ EBC ∴ △ A C E \\therefore \\triangle \\mathrm{ACE} ∴ △ ACE এবং △ C E B \\triangle \\mathrm{CEB} △ CEB সদৃশ ∴ A C C B = C E B E = A E C E \\therefore \\frac{\\mathrm{AC}}{\\mathrm{CB}}=\\frac{\\mathrm{CE}}{\\mathrm{BE}}=\\frac{\\mathrm{AE}}{\\mathrm{CE}} ∴ CB AC ​ = BE CE ​ = CE AE ​ অর্থাৎ, C E B E = A E C E \\frac{\\mathrm{CE}}{\\mathrm{BE}}=\\frac{\\mathrm{AE}}{\\mathrm{CE}} BE CE ​ = CE AE ​ ∴ A E . B E = C E 2 \\therefore \\mathrm{AE} . \\mathrm{BE}=\\mathrm{CE}^{2} ∴ AE . BE = CE 2 (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "প্রমাণ কর যে, A B 2 = A C ⋅ A P + B D ⋅ B P \\mathrm{AB}^{2}=\\mathrm{AC} \\cdot \\mathrm{AP}+\\mathrm{BD} \\cdot \\mathrm{BP} AB 2 = AC ⋅ AP + BD ⋅ BP",
+          "explanation": "বিশেষ নির্বচন: দেওয়া আছে, AB ব্যাসের ওপর ABCD একটি অর্ধবৃত্ত। AC ও BD জ্যাদ্বয় পরস্পর P বিন্দুতে ছেদ করেছে। প্রমাণ করতে হবে যে, A B 2 = A C ⋅ A P + B D ⋅ B P \\mathrm{AB}^{2}=\\mathrm{AC} \\cdot \\mathrm{AP}+\\mathrm{BD} \\cdot \\mathrm{BP} AB 2 = AC ⋅ AP + BD ⋅ BP অঙ্কন: A, D; B, C ও C, D যোগ করি। প্রমাণ: △ C P D \\triangle \\mathrm{CPD} △ CPD ও △ A P B − এ \\triangle \\mathrm{APB}-এ △ APB − এ ∠ P D C = ∠ P A B \\angle \\mathrm{PDC}=\\angle \\mathrm{PAB} \\quad ∠ PDC = ∠ PAB [একই চাপ B C − এর \\mathrm{BC}-এ র BC − এর ওপর অবস্থিত ] এবং ∠ D P C = ∠ A P B \\angle \\mathrm{DPC}=\\angle \\mathrm{APB} ∠ DPC = ∠ APB [ বিপ্রতীপ কোণ বলে ] অবশিষ্ট ∠ P C D = \\angle \\mathrm{PCD}= ∠ PCD = অবশিষ্ট ∠ P B A \\angle \\mathrm{PBA} ∠ PBA ∴ △ C P D \\therefore \\triangle \\mathrm{CPD} ∴ △ CPD ও △ A P B \\triangle \\mathrm{APB} △ APB সদৃশ। ∴ A P D P = B P C P  বা, AP.CP = BP.DP   বা, AP.CP  + A P 2 = B P . D P  +  A P 2  [উভয়পক্ষে  A P 2  যোগ করে]   বা,  A P ( C P + A P ) = B P ⋅ D P + D P 2 + A D 2  [  A B  ব্যাস বলে  ∠ A D P = ∠ A D B = 90 ∘ ;  ∴ A P 2 = A D 2 + D P 2 ]  বা,  A P ⋅ A C = D P ( B P + D P ) + A D 2  বা,  A P ⋅ A C = D P ⋅ B D + A B 2 − B D 2 [ ∠ A D B = 90 ∘  বলে  △ A B D − এ A B 2 = A D 2 + B D 2  বা,  A D 2 = A B 2 − B D 2  ]   বা,  A P ⋅ A C = A B 2 − B D ( B D − D P )  বা,  A P . A C = A B 2 − B D . B P ∴ A B 2 = A C ⋅ A P + B D . B P  (প্রমাণিত).  \\begin{array}{l} \\therefore \\frac{\\mathrm{AP}}{\\mathrm{DP}}=\\frac{\\mathrm{BP}}{\\mathrm{CP}} \\\\ \\text { বা, AP.CP = BP.DP } \\\\ \\text { বা, AP.CP }+\\mathrm{AP}^{2}=\\mathrm{BP} . \\mathrm{DP} \\text { + } \\mathrm{AP}^{2} \\text { [উভয়পক্ষে } \\mathrm{AP}^{2} \\text { যোগ করে] } \\\\ \\text { বা, } \\mathrm{AP}(\\mathrm{CP}+\\mathrm{AP})=\\mathrm{BP} \\cdot \\mathrm{DP}+\\mathrm{DP}^{2}+\\mathrm{AD}^{2} \\\\ \\text { [ } \\mathrm{AB} \\text { ব্যাস বলে } \\angle \\mathrm{ADP}=\\angle \\mathrm{ADB}=90^{\\circ} \\text {; } \\\\ \\left.\\therefore \\mathrm{AP}^{2}=\\mathrm{AD}^{2}+\\mathrm{DP}^{2}\\right] \\\\ \\text { বা, } \\mathrm{AP} \\cdot \\mathrm{AC}=\\mathrm{DP}(\\mathrm{BP}+\\mathrm{DP})+\\mathrm{AD}^{2} \\\\ \\text { বা, } \\mathrm{AP} \\cdot \\mathrm{AC}=\\mathrm{DP} \\cdot \\mathrm{BD}+\\mathrm{AB}^{2}-\\mathrm{BD}^{2} \\\\ {\\left[\\angle \\mathrm{ADB}=90^{\\circ} \\text { বলে } \\triangle \\mathrm{ABD}-এ \\mathrm{AB}^{2}=\\mathrm{AD}^{2}+\\mathrm{BD}^{2}\\right.} \\\\ \\text { বা, } \\mathrm{AD}^{2}=\\mathrm{AB}^{2}-\\mathrm{BD}^{2} \\text { ] } \\\\ \\text { বা, } \\mathrm{AP} \\cdot \\mathrm{AC}=\\mathrm{AB}^{2}-\\mathrm{BD}(\\mathrm{BD}-\\mathrm{DP}) \\\\ \\text { বা, } A P . A C=A B^{2}-B D . B P \\\\ \\therefore \\mathrm{AB}^{2}=\\mathrm{AC} \\cdot \\mathrm{AP}+\\mathrm{BD} . \\mathrm{BP} \\text { (প্রমাণিত). } \\end{array} ∴ DP AP ​ = CP BP ​   বা , AP.CP = BP.DP    বা , AP.CP  + AP 2 = BP . DP  +  AP 2  [ উভয়পক্ষে   AP 2   যোগ   করে ]    বা ,  AP ( CP + AP ) = BP ⋅ DP + DP 2 + AD 2  [  AB   ব্যাস   বলে   ∠ ADP = ∠ ADB = 9 0 ∘ ;  ∴ AP 2 = AD 2 + DP 2 ]   বা ,  AP ⋅ AC = DP ( BP + DP ) + AD 2   বা ,  AP ⋅ AC = DP ⋅ BD + AB 2 − BD 2 [ ∠ ADB = 9 0 ∘   বলে   △ ABD − এ AB 2 = AD 2 + BD 2   বা ,  AD 2 = AB 2 − BD 2  ]    বা ,  AP ⋅ AC = AB 2 − BD ( BD − DP )   বা ,  A P . A C = A B 2 − B D . BP ∴ AB 2 = AC ⋅ AP + BD . BP  ( প্রমাণিত ).  ​"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "( k 2 , 2 k ) \\left(\\mathrm{k}^{2}, 2 \\mathrm{k}\\right) ( k 2 , 2 k ) বিন্দুগামী AB সরলরেখার ঢাল 1 k \\frac{1}{\\mathrm{k}} k 1 ​ ; অপর একটি সরলরেখা C ( 3 , p ) , D ( p + 2 , − 3 ) \\mathrm{C}(3, \\mathrm{p}), \\mathrm{D}(\\mathrm{p}+2,-3) C ( 3 , p ) , D ( p + 2 , − 3 ) বিন্দুগামী।",
+      "tag": "RGLHS 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "AB সরলরেখার সমীকরণ নির্ণয় কর ।",
+          "explanation": "দেওয়া আছে, ( k 2 , 2 k ) \\left(k^{2}, 2 k\\right) ( k 2 , 2 k ) বিন্দুগামী A B A B A B রেখার ঢাল 1 k \\frac{1}{k} k 1 ​ AB সরল রেখার সমীকরণ, y − 2 k = 1 k ( x − k 2 ) \\mathrm{y}-2 \\mathrm{k}=\\frac{1}{\\mathrm{k}}\\left(\\mathrm{x}-\\mathrm{k}^{2}\\right) y − 2 k = k 1 ​ ( x − k 2 ) বা,  k y − 2 k 2 = x − k 2 ∴ x − k y + k 2 = 0  (Ans.)  \\begin{array}{l} \\text {বা, } \\mathrm{ky}-2 \\mathrm{k}^{2}=\\mathrm{x}-\\mathrm{k}^{2} \\\\ \\therefore \\mathrm{x}-\\mathrm{ky}+\\mathrm{k}^{2}=0 \\text { (Ans.) } \\end{array} বা ,  ky − 2 k 2 = x − k 2 ∴ x − ky + k 2 = 0  (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "যদি AB সরলরেখাটি (-2, 1) বিন্দু দিয়ে যায় তবে k এর সম্ভাব্য মান এবং AB দ্বারা y অক্ষের ছেদাংশের মান নির্ণয় কর ।",
+          "explanation": "‘ক’ হতে, AB সুরল রেখার সমীকরণ, x − k y + k 2 = 0 \\mathrm{x}-\\mathrm{ky}+\\mathrm{k}^{2}=0 x − ky + k 2 = 0 এটি ( − 2 , 1 ) (-2,1) ( − 2 , 1 ) বিন্দুগামী হলে, − 2 − k + k 2 = 0 বা,  k 2 − 2 k + k − 2 = 0 \\begin{array}{l} -2-k+k^{2}=0 \\\\ \\text {বা, } \\mathrm{k}^{2}-2 \\mathrm{k}+\\mathrm{k}-2=0 \\end{array} − 2 − k + k 2 = 0 বা ,  k 2 − 2 k + k − 2 = 0 ​ বা, k ( k − 2 ) + 1 ( k − 2 ) = 0 k(k-2)+1(k-2)=0 k ( k − 2 ) + 1 ( k − 2 ) = 0 বা, ( k − 2 ) ( k + 1 ) = 0 (k-2)(k+1)=0 ( k − 2 ) ( k + 1 ) = 0 ∴ k = 2 , − 1 \\therefore \\mathrm{k}=2,-1 ∴ k = 2 , − 1 এখন, k = 2 \\mathrm{k}=2 k = 2 হলে, সরলরেখাটির সমীকরণ, x − 2 y + 2 2 = 0 x-2 y+2^{2}=0 x − 2 y + 2 2 = 0  বা,  2 y = x + 4 ∴ y = x 2 + 2 \\begin{array}{l} \\text { বা, } 2 y=x+4 \\\\ \\therefore y=\\frac{x}{2}+2 \\end{array}   বা ,  2 y = x + 4 ∴ y = 2 x ​ + 2 ​ একে y = m x + c y=m x+c y = m x + c এর সাথে তুলনা করে পাই, y-অক্ষের ছেদাংশের মান, c = 2 c=2 c = 2 (Ans.) আবার, k = − 1 k=-1 k = − 1 হ.লে, সরলরেখার সমীকরণ, x − ( − 1 ) y + ( − 1 ) 2 = 0 x-(-1) y+(-1)^{2}=0 x − ( − 1 ) y + ( − 1 ) 2 = 0 ∴ y = − x − 1 \\therefore y=-x-1 ∴ y = − x − 1 একে y = m x + c y=m x+c y = m x + c এর সাথে তুলনা করে পাই, y-অক্ষের ছেদাংশের মান, c=-1 (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "CD রেখার ঢাল AB এর ঢালের দ্বিগুণ হলে, ‘খ’ এ প্রাপ্ত k এর মান ব্যবহার করে p এর সম্ভাব্য মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, C C C বিন্দুর স্থানাঙ্ক C ( 3 , p ) C(3, p) C ( 3 , p ) এবং D D D বিন্দুর স্থানাঙ্ক ( p + 2 , − 3 ) (p+2,-3) ( p + 2 , − 3 ) ∴ C D \\therefore \\mathrm{CD} ∴ CD রেখার ঢল = − 3 − p p + 2 − 3 = − 3 − p p − 1 = p + 3 1 − p =\\frac{-3-\\mathrm{p}}{\\mathrm{p}+2-3}=\\frac{-3-\\mathrm{p}}{\\mathrm{p}-1}=\\frac{\\mathrm{p}+3}{1-\\mathrm{p}} = p + 2 − 3 − 3 − p ​ = p − 1 − 3 − p ​ = 1 − p p + 3 ​ এখन, AB রেখার ঢাল = 1 k =\\frac{1}{\\mathrm{k}} = k 1 ​ k এর মান 2 হলে, AB রেখার ঢাল = 1 2 =\\frac{1}{2} = 2 1 ​ ∴ C D \\therefore \\mathrm{CD} ∴ CD রেখার ঢাল = 1 2 × 2 = ′ ′ 1 =\\frac{1}{2} \\times 2={ }^{\\prime \\prime} 1 = 2 1 ​ × 2 = ′′ 1 ∴ p + 3 1 − p = 1 \\therefore \\frac{\\mathrm{p}+3}{1-\\mathrm{p}}=1 ∴ 1 − p p + 3 ​ = 1 বা, p + 3 = 1 − p \\mathrm{p}+3=1-\\mathrm{p} p + 3 = 1 − p বা, 2 p = − 2 ∴ p = − 1 2 \\mathrm{p}=-2 \\therefore \\mathrm{p}=-1 2 p = − 2 ∴ p = − 1 k এর মান -1 হলে, AB রেখার ঢাল = 1 − 1 = − 1 =\\frac{1}{-1}=-1 = − 1 1 ​ = − 1 ∴ C D \\therefore \\mathrm{CD} ∴ CD রেখার ঢাল = − 1 × 2 =-1 \\times 2 = − 1 × 2 বা, p + 3 1 − p = − 2 \\frac{p+3}{1-p}=-2 1 − p p + 3 ​ = − 2 বা, p + 3 = 2 p − 2 p+3=2 p-2 p + 3 = 2 p − 2 ∴ p = 5 \\therefore \\mathrm{p}=5 ∴ p = 5 অর্থাৎ, p এর সম্ভাব্য মান - 1 ও 5 (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "a , b ‾ \\mathfrak{a}, \\underline{b} a , b ​ ও c ‾ \\underline{c} c ​ তিনটি অশূন্য ভেক্টর রাশি এবং m, n n n স্কেলার গুণিতক।",
+      "tag": "RGLHS 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দেখাও যে , a ‾ + a ‾ = 2 a ‾ \\underline{a}+\\underline{a}=2 \\underline{a} a ​ + a ​ = 2 a ​",
+          "explanation": "দেখাতে হবে যে, a ‾ + a ‾ = 2 a ‾ \\underline{a}+\\underline{a}=2 \\underline{a} a ​ + a ​ = 2 a ​ এখন, a ‾ + a ‾ = 1 a ‾ + 1 a ‾ = ( 1 + 1 ) a ‾ [ ∵ ( m + n ) a ‾ = m a ‾ + n a ‾ ] = 2 a ‾ \\begin{aligned} \\underline{a}+\\underline{a} & =1 \\underline{a}+1 \\underline{a} \\\\ & =(1+1) \\underline{a}[\\because(m+n) \\underline{a}=m \\underline{a}+n \\underline{a}] \\\\ & =2 \\underline{a} \\end{aligned} a ​ + a ​ ​ = 1 a ​ + 1 a ​ = ( 1 + 1 ) a ​ [ ∵ ( m + n ) a ​ = m a ​ + n a ​ ] = 2 a ​ ​ ∴ a ‾ + a ‾ = 2 a ‾ \\therefore \\underline{a}+\\underline{a}=2 \\underline{a} \\quad ∴ a ​ + a ​ = 2 a ​ (দেখানো হলো)"
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে,",
+          "explanation": "প্রমাণ করতে হবে যে,  ( m − n ) a ‾ = m a ‾ − n a ‾  এখন,  ( m − n ) a ‾ = { m + ( − n ) } a ‾ = m a ‾ + ( − n ) a ‾ [ ∵ ( m + n ) a ‾ = m a ‾ + n a ‾ ] = m a ‾ − n a ‾  [স্কেলার গুণনের নিয়মানুসারে]  ∴ ( m − n ) a ‾ = m a ‾ − n a ‾  (প্রমাণিত)   প্রমাণ করতে হবে যে,  m ( a ‾ − b ‾ ) = m a ‾ + m ( − b ‾ )  এখन,  m ( a ‾ − b ‾ ) = m { a ‾ + ( − b ‾ ) } = m a ‾ + m ( − b ‾ ) [ ∵ m ( a ‾ + b ‾ ) = m a ‾ + m b ‾ ] ∴ m ( a ‾ − b ‾ ) = m a ‾ + m ( − b ‾ )  (প্রমাণিত)  \\begin{array}{l} \\text { প্রমাণ করতে হবে যে, }(\\mathrm{m}-\\mathrm{n}) \\underline{\\mathrm{a}}=\\mathrm{m} \\underline{\\mathrm{a}}-\\mathrm{n} \\underline{\\mathrm{a}} \\\\ \\text { এখন, }(m-n) \\underline{a}=\\{m+(-n)\\} \\underline{a} \\\\ =m \\underline{a}+(-n) \\underline{a}[\\because(m+n) \\underline{a}=m \\underline{a}+n \\underline{a}] \\\\ =m \\underline{a}-n \\underline{a} \\\\ \\text { [স্কেলার গুণনের নিয়মানুসারে] } \\\\ \\therefore(\\mathrm{m}-\\mathrm{n}) \\underline{\\mathrm{a}}=\\mathrm{m} \\underline{\\mathrm{a}}-\\mathrm{n} \\underline{\\mathrm{a}} \\text { (প্রমাণিত) } \\\\ \\text { প্রমাণ করতে হবে যে, } m(\\underline{a}-\\underline{b})=m \\underline{a}+m(-\\underline{b}) \\\\ \\text { এখन, } m(\\underline{a}-\\underline{b})=m\\{\\underline{a}+(-\\underline{b})\\} \\\\ =m \\underline{a}+m(-\\underline{b}) \\quad[\\because m(\\underline{a}+\\underline{b})=m \\underline{a}+m \\underline{b}] \\\\ \\therefore m(\\underline{a}-\\underline{b})=m \\underline{a}+m(-\\underline{b}) \\quad \\text { (প্রমাণিত) } \\end{array}   প্রমাণ   করতে   হবে   যে ,  ( m − n ) a ​ = m a ​ − n a ​   এখন ,  ( m − n ) a ​ = { m + ( − n )} a ​ = m a ​ + ( − n ) a ​ [ ∵ ( m + n ) a ​ = m a ​ + n a ​ ] = m a ​ − n a ​  [ স্কেলার   গুণনের   নিয়মানুসারে ]  ∴ ( m − n ) a ​ = m a ​ − n a ​  ( প্রমাণিত )    প্রমাণ   করতে   হবে   যে ,  m ( a ​ − b ​ ) = m a ​ + m ( − b ​ )   এখन ,  m ( a ​ − b ​ ) = m { a ​ + ( − b ​ )} = m a ​ + m ( − b ​ ) [ ∵ m ( a ​ + b ​ ) = m a ​ + m b ​ ] ∴ m ( a ​ − b ​ ) = m a ​ + m ( − b ​ )  ( প্রমাণিত )  ​"
+        },
+        {
+          "label": "গ",
+          "question": "দেখাও যে, a ‾ + ( b ‾ + c ‾ ) = ( a ‾ + b ‾ ) + c ‾ \\underline{a}+(\\underline{b}+\\underline{c})=(\\underline{a}+\\underline{b})+\\underline{c} a ​ + ( b ​ + c ​ ) = ( a ​ + b ​ ) + c ​",
+          "explanation": "দেখাতে হবে যে, যেকোনো a ‾ , b ‾ , c ‾ \\underline{a}, \\underline{b}, \\underline{c} a ​ , b ​ , c ​ ভেক্টরের জন্য a ‾ + ( b ‾ + c ‾ ) = ( a ‾ + b ‾ ) + c ‾ \\underline{a}+(\\underline{b}+\\underline{c})=(\\underline{a}+\\underline{b})+\\underline{c} a ​ + ( b ​ + c ​ ) = ( a ​ + b ​ ) + c ​ প্রমাণ: মনে করি, O A → = a ‾ ⋅ A B → = b ‾ ⋅ B C → = c ‾ \\overrightarrow{\\mathrm{OA}}=\\underline{\\mathrm{a}} \\cdot \\overrightarrow{\\mathrm{AB}}=\\underline{\\mathrm{b}} \\cdot \\overrightarrow{\\mathrm{BC}}=\\underline{\\mathrm{c}} OA = a ​ ⋅ AB = b ​ ⋅ BC = c ​ । অর্থাৎ, a ‾ \\underline{\\mathrm{a}} a ​ এর প্রান্তবিন্দু থেকে a ‾ \\underline{a} a ​ এবং b ‾ \\underline{b} b ​ এর প্রান্তবিন্দু থেকে c ‾ \\underline{c} c ​ অঙ্কন করা হয়েছে। O, C; O, B এবং A, C যোগ করি।  তাহলে,  ( a ‾ + b ‾ ) + c ‾ = ( O A → + A B → ) + B C → = O B → + B C → = O C → →  আবার,  a ‾ + ( b ‾ + c ‾ ) = O A → = ( A B → + B C → ) = O A → + A C → = O C → ∴ a ‾ + ( b ‾ + c ‾ ) = ( a ‾ + b ‾ ) + c ‾ (  (প্রমাণিত  ) \\begin{array}{l}\\text { তাহলে, }(\\underline{a}+\\underline{b})+\\underline{c}=\\overrightarrow{(\\overrightarrow{\\mathrm{OA}}+\\overrightarrow{\\mathrm{AB}})+\\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{OB}}+\\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{OC}}} \\\\ \\text { আবার, } \\underline{a}+(\\underline{b}+\\underline{c})=\\overrightarrow{\\mathrm{OA}}=(\\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{BC}})=\\overrightarrow{\\mathrm{OA}}+\\overrightarrow{\\mathrm{AC}}=\\overrightarrow{\\mathrm{OC}} \\\\ \\therefore \\underline{\\mathrm{a}}+(\\underline{\\mathrm{b}}+\\underline{\\mathrm{c}})=(\\underline{\\mathrm{a}}+\\underline{\\mathrm{b}})+\\underline{\\mathrm{c}}(\\text { (প্রমাণিত })\\end{array}   তাহলে ,  ( a ​ + b ​ ) + c ​ = ( OA + AB ) + BC = OB + BC = OC ​   আবার ,  a ​ + ( b ​ + c ​ ) = OA = ( AB + BC ) = OA + AC = OC ∴ a ​ + ( b ​ + c ​ ) = ( a ​ + b ​ ) + c ​ (  ( প্রমাণিত   ) ​"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "(i) cot ⁡ θ = 2 + 1 \\cot \\theta=\\sqrt{2}+1 cot θ = 2 ​ + 1 (ii) 2 ( sin ⁡ θ cos ⁡ θ + 3 ) = 3 cos ⁡ θ + 4 sin ⁡ θ 2(\\sin \\theta \\cos \\theta+\\sqrt{3})=\\sqrt{3} \\cos \\theta+4 \\sin \\theta 2 ( sin θ cos θ + 3 ​ ) = 3 ​ cos θ + 4 sin θ",
+      "tag": "RGLHS 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "(i) নং থেকে-sin θ \\theta θ এর মান বের কর।",
+          "explanation": "দেওয়া আছে, cot ⁡ θ = 2 + 1 \\cot \\theta=\\sqrt{2}+1 cot θ = 2 ​ + 1 বা, cot ⁡ 2 θ = 2 + 2 2 + 1 \\cot ^{2} \\theta=2+2 \\sqrt{2}+1 cot 2 θ = 2 + 2 2 ​ + 1 [বর্গ করে] বা, cosec ⁡ 2 θ − 1 = 3 + 2 2 \\operatorname{cosec}^{2} \\theta-1=3+2 \\sqrt{2} cosec 2 θ − 1 = 3 + 2 2 ​ বা, cosec ⁡ 2 θ = 4 + 2 2 \\operatorname{cosec}^{2} \\theta=4+2 \\sqrt{2} cosec 2 θ = 4 + 2 2 ​ বা, 1 sin ⁡ 2 θ = 4 + 2 2 \\frac{1}{\\sin ^{2} \\theta}=4+2 \\sqrt{2} s i n 2 θ 1 ​ = 4 + 2 2 ​ বা, sin ⁡ 2 θ = 1 4 + 2 2 = 4 − 2 2 ( 4 + 2 2 ) ( 4 − 2 2 ) \\sin ^{2} \\theta=\\frac{1}{4+2 \\sqrt{2}}=\\frac{4-2 \\sqrt{2}}{(4+2 \\sqrt{2})(4-2 \\sqrt{2})} sin 2 θ = 4 + 2 2 ​ 1 ​ = ( 4 + 2 2 ​ ) ( 4 − 2 2 ​ ) 4 − 2 2 ​ ​ বা, sin ⁡ 2 θ = 4 − 2 2 4 2 − ( 2 2 ) 2 \\sin ^{2} \\theta=\\frac{4-2 \\sqrt{2}}{4^{2}-(2 \\sqrt{2})^{2}} sin 2 θ = 4 2 − ( 2 2 ​ ) 2 4 − 2 2 ​ ​ বা, sin ⁡ 2 θ = 4 − 2 2 8 \\sin ^{2} \\theta=\\frac{4-2 \\sqrt{2}}{8} sin 2 θ = 8 4 − 2 2 ​ ​ বা, sin ⁡ 2 θ = 2 − 2 4 ∴ sin ⁡ θ = ± 2 − 2 2 \\sin ^{2} \\theta=\\frac{2-\\sqrt{2}}{4} \\quad \\therefore \\sin \\theta= \\pm \\frac{\\sqrt{2-\\sqrt{2}}}{2} sin 2 θ = 4 2 − 2 ​ ​ ∴ sin θ = ± 2 2 − 2 ​ ​ ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "(i) নং সমীকরণ থেকে দেখাও যে, cos ⁡ θ + sin ⁡ θ = 2 cos ⁡ θ \\cos \\theta+\\sin \\theta=\\sqrt{2} \\cos \\theta cos θ + sin θ = 2 ​ cos θ",
+          "explanation": "দেওয়া আছে, cot ⁡ θ = 2 + 1 \\cot \\theta=\\sqrt{2}+1 cot θ = 2 ​ + 1 বা, cos ⁡ θ sin ⁡ θ = 2 + 1 \\frac{\\cos \\theta}{\\sin \\theta}=\\sqrt{2}+1 s i n θ c o s θ ​ = 2 ​ + 1 বা, cos ⁡ θ = ( 2 + 1 ) sin ⁡ θ \\cos \\theta=(\\sqrt{2}+1) \\sin \\theta cos θ = ( 2 ​ + 1 ) sin θ বা, ( 2 − 1 ) cos ⁡ θ = { ( 2 ) 2 − 1 2 } sin ⁡ θ (\\sqrt{2}-1) \\cos \\theta=\\left\\{(\\sqrt{2})^{2}-1^{2}\\right\\} \\sin \\theta ( 2 ​ − 1 ) cos θ = { ( 2 ​ ) 2 − 1 2 } sin θ [উভয়পক্ষে ( 2 − 1 ) (\\sqrt{2}-1) ( 2 ​ − 1 ) দ্বারা গুণ কর্র]] বা, 2 cos ⁡ θ − cos ⁡ θ = sin ⁡ θ \\sqrt{2} \\cos \\theta-\\cos \\theta=\\sin \\theta 2 ​ cos θ − cos θ = sin θ ∴ sin ⁡ θ + cos ⁡ θ = 2 cos ⁡ θ \\therefore \\sin \\theta+\\cos \\theta=\\sqrt{2} \\cos \\theta ∴ sin θ + cos θ = 2 ​ cos θ (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "(ii) নং সমীকরণটি সমাধান কর যেখানে, π 2 < θ < 2 π \\frac{\\pi}{2}<\\theta<2 \\pi 2 π ​ < θ < 2 π",
+          "explanation": "প্রদত্ত সমীকরণ, 2 ( sin ⁡ θ cos ⁡ θ + 3 ) = 3 cos ⁡ θ + 4 sin ⁡ θ 2(\\sin \\theta \\cos \\theta+\\sqrt{3})=\\sqrt{3} \\cos \\theta+4 \\sin \\theta 2 ( sin θ cos θ + 3 ​ ) = 3 ​ cos θ + 4 sin θ বা, 2 sin ⁡ θ cos ⁡ θ + 2 3 = 3 cos ⁡ θ + 4 sin ⁡ θ 2 \\sin \\theta \\cos \\theta+2 \\sqrt{3}=\\sqrt{3} \\cos \\theta+4 \\sin \\theta 2 sin θ cos θ + 2 3 ​ = 3 ​ cos θ + 4 sin θ বা, 3 cos ⁡ θ − 2 3 + 4 sin ⁡ θ − 2 sin ⁡ θ cos ⁡ θ = 0 \\sqrt{3} \\cos \\theta-2 \\sqrt{3}+4 \\sin \\theta-2 \\sin \\theta \\cos \\theta=0 3 ​ cos θ − 2 3 ​ + 4 sin θ − 2 sin θ cos θ = 0 বা; 3 ( cos ⁡ θ − 2 ) − 2 sin ⁡ θ ( cos ⁡ θ − 2 ) = 0 \\sqrt{3}(\\cos \\theta-2)-2 \\sin \\theta(\\cos \\theta-2)=0 3 ​ ( cos θ − 2 ) − 2 sin θ ( cos θ − 2 ) = 0 ∴ ( cos ⁡ θ − 2 ) ( 3 − 2 sin ⁡ θ ) = 0 \\therefore(\\cos \\theta-2)(\\sqrt{3}-2 \\sin \\theta)=0 ∴ ( cos θ − 2 ) ( 3 ​ − 2 sin θ ) = 0 হয়, cos ⁡ θ − 2 = 0 ∴ cos ⁡ θ = 2  [যা সম্ভব নয়  \\begin{array}{l} \\cos \\theta-2=0 \\\\ \\therefore \\cos \\theta=2 \\text { [যা সম্ভব নয় } \\end{array} cos θ − 2 = 0 ∴ cos θ = 2  [ যা   সম্ভব   নয়   ​ কেননা − 1 ≤ cos ⁡ θ ≤ 1 ] -1 \\leq \\cos \\theta \\leq 1] − 1 ≤ cos θ ≤ 1 ] অথবা, 3 − 2 sin ⁡ θ = 0 \\sqrt{3}-2 \\sin \\theta=0 3 ​ − 2 sin θ = 0 বা, 3 = 2 sin ⁡ θ \\sqrt{3}=2 \\sin \\theta 3 ​ = 2 sin θ বা, sin ⁡ θ = 3 2 \\sin \\theta=\\frac{\\sqrt{3}}{2} sin θ = 2 3 ​ ​ বা, sin ⁡ θ = sin ⁡ π 3 \\sin \\theta=\\sin \\frac{\\pi}{3} sin θ = sin 3 π ​ বা, sin ⁡ θ = sin ⁡ ( π = π 3 ) \\sin \\theta=\\sin \\left(\\pi=\\frac{\\pi}{3}\\right) sin θ = sin ( π = 3 π ​ ) [ ∵ π 2 < θ < 2 π ] \\left[\\because \\frac{\\pi}{2}<\\theta<2 \\pi\\right] [ ∵ 2 π ​ < θ < 2 π ] বা, sin ⁡ θ = sin ⁡ 2 π 3 \\sin \\theta=\\sin \\frac{2 \\pi}{3} sin θ = sin 3 2 π ​ ∴ θ = 2 π 3 \\therefore \\theta=\\frac{2 \\pi}{3} ∴ θ = 3 2 π ​ ∴ θ = 2 π 3 \\therefore \\theta=\\frac{2 \\pi}{3} ∴ θ = 3 2 π ​ (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "একটি মুদ্রা তিনবার নিক্ষেপ করা হলো ।",
+      "tag": "RGLHS 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দৈব পরীক্ষা কী ?",
+          "explanation": "দৈব পরীক্ষা: যখন কোনো পরীক্ষার সম্ভাব্য সকল ফলাফল আগে থেকে জানা থাকে কিন্তু পরীক্ষাটিতে কোনো একটা নির্দিষ্ট চেষ্টায় কি ফলাফল আসবে তা নিশ্চিত করে বলা যায় না তাকে দৈব পরীক্ষা বলে ।"
+        },
+        {
+          "label": "খ",
+          "question": "Probability tree তৈরি করে নমুনা ক্ষেত্রটি দেখাও ।",
+          "explanation": "তিনবার মুদ্রা নিক্ষেপের Probability tree হবে: ∴ \\therefore ∴ নমুনাক্ষেত্র, S = { H H H , H H T , H T H , H T T , T H T , T T H \\mathrm{S}=\\{\\mathrm{HHH}, \\mathrm{HHT}, \\mathrm{HTH}, \\mathrm{HTT}, \\mathrm{THT}, \\mathrm{TTH} S = { HHH , HHT , HTH , HTT , THT , TTH , THH, TTT} নমুনাক্ষেত্র হতে দেখা যায়, মোট সম্ভাব্য ঘটনা = 8 =8 = 8 বড়জোর 2 টি T পাওয়ার ঘটনা = 7 =7 = 7 ∴ \\therefore ∴ নির্ণেয় সম্ভাবনা = 7 8 =\\frac{7}{8} = 8 7 ​ (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "কমপক্ষে 2T এবং বড়জোড় 2T আসার সম্ভাবনা নির্ণয় কর ।",
+          "explanation": "‘খ’ হতে, একটি মুদ্রা তিনবার নিক্ষেপ করলে মোট নমুনাবিন্দু = ৪টি কমপক্ষে 2T পাওয়ার ঘটনা = {HTT, THT, TTH, TTT} অর্থাৎ, কমপক্ষে 2T পাওয়ার অনুকূল ফলাফল = 4 ∴ \\therefore ∴ কমপক্ষে 2T পাওয়ার সম্ভাবনা = 4 8 = 1 2 =\\frac{4}{8}=\\frac{1}{2} = 8 4 ​ = 2 1 ​ (Ans.) আবার, বড়জোড় 2T পাওয়ার ঘটনা = { H H H , H T H , H H T =\\{\\mathrm{HHH}, \\mathrm{HTH}, \\mathrm{HHT} = { HHH , HTH , HHT , HTT, THT, TTH, THH } \\} } অনুকূল ফলাফল = 7 =7 = 7 টি ∴ \\therefore ∴ বড়জোড় 2T পাওয়ার সম্ভাবনা = 7 8 =\\frac{7}{8} = 8 7 ​ (Ans.)"
+        }
+      ]
+    }
+  ]
+}

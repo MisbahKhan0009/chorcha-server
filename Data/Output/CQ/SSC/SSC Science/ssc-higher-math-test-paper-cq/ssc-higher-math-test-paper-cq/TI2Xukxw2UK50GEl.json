@@ -1,0 +1,160 @@
+{
+  "title": "কুমিল্লা বোর্ড ২০২১",
+  "subtitle": "উচ্চতর গণিত (8)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "A = 4 + 44 + 444 + … … A=4+44+444+\\ldots \\ldots A = 4 + 44 + 444 + …… ... এবং S = 2 ( 3 x − 5 ) − 1 + 4 ( 3 x − 5 ) − 2 + 8 ( 3 x − 5 ) − 3 + … … S=2(3 x-5)^{-1}+4(3 x-5)^{-2}+8(3 x-5)^{-3}+\\ldots \\ldots S = 2 ( 3 x − 5 ) − 1 + 4 ( 3 x − 5 ) − 2 + 8 ( 3 x − 5 ) − 3 + …… ... দুইটি অসীম ধারা।",
+      "tag": "DB 24,SB 23,CB 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "2 x 2 + 7 x + 3 = 0 2 x^{2}+7 x+3=0 2 x 2 + 7 x + 3 = 0 সমীকরণটির মূলের ধরন ও প্রকৃতি নির্ণয় কর।",
+          "explanation": "প্রদত্ত সমীকরণ, 2 x 2 + 7 x + 3 = 0 2 \\mathrm{x}^{2}+7 \\mathrm{x}+3=0 2 x 2 + 7 x + 3 = 0 ∴ \\therefore ∴ নিশ্চায়ক, D = 7 2 − 4 × 2 × 3 = 49 − 24 = 25 = 5 2 D=7^{2}-4 \\times 2 \\times 3=49-24=25=5^{2} D = 7 2 − 4 × 2 × 3 = 49 − 24 = 25 = 5 2 এখানে, সমীকর়ণটির নিশ্চায়ক, D > 0 >0 > 0 এবং পূর্ণবর্গ সংখ্যা, ∴ \\therefore ∴ সমীকরণটির মূলগুলো মূলদ, অসমান এবং বাস্তব সংখ্যা। (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "A ধারাটির প্রথম n সংখ্যক পদের সমষ্টি নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, A = 4 + 44 + 444 + A=4+44+444+ A = 4 + 44 + 444 + ……. = 4 ( 1 + 11 + 111 + … … … … . . + n  তম পদ  ) = 4 9 ( 9 + 99 + 999 + … … … … … . . + n  তম পদ  ) = 4 9 { ( 10 − 1 ) + ( 100 − 1 ) + ( 1000 − 1 ) + … … + n  তম পদ  } = 4 9 { ( 10 + 100 + 1000 + … … … + n  তম পদ  ) − ( 1 + 1 + 1 + … . . + n  তম পদ  ) } = 4 9 { 10 ⋅ ( 10 n − 1 10 − 1 ) − n } = 40 81 ( 10 n − 1 ) − 4 9 n \\begin{array}{l} =4(1+11+111+\\ldots \\ldots \\ldots \\ldots . .+n \\text { তম পদ }) \\\\ =\\frac{4}{9}(9+99+999+\\ldots \\ldots \\ldots \\ldots \\ldots . .+n \\text { তম পদ }) \\\\ =\\frac{4}{9}\\{(10-1)+(100-1)+(1000-1)+\\ldots \\ldots+n \\text { তম পদ }\\} \\\\ =\\frac{4}{9}\\{(10+100+1000+\\ldots \\ldots \\ldots+n \\text { তম পদ }) \\\\ \\quad \\quad-(1+1+1+\\ldots . .+n \\text { তম পদ })\\} \\\\ =\\frac{4}{9}\\left\\{10 \\cdot\\left(\\frac{10^{n}-1}{10-1}\\right)-n\\right\\}=\\frac{40}{81}\\left(10^{n}-1\\right)-\\frac{4}{9} n \\end{array} = 4 ( 1 + 11 + 111 + ………… .. + n   তম   পদ   ) = 9 4 ​ ( 9 + 99 + 999 + …………… .. + n   তম   পদ   ) = 9 4 ​ {( 10 − 1 ) + ( 100 − 1 ) + ( 1000 − 1 ) + …… + n   তম   পদ   } = 9 4 ​ {( 10 + 100 + 1000 + ……… + n   তম   পদ   ) − ( 1 + 1 + 1 + … .. + n   তম   পদ   )} = 9 4 ​ { 10 ⋅ ( 10 − 1 1 0 n − 1 ​ ) − n } = 81 40 ​ ( 1 0 n − 1 ) − 9 4 ​ n ​ অতএব, A ধারাটির প্রথম n সংখ্যক পদের সমষ্টি, S n = 40 81 ( 10 n − 1 ) − 4 8 n (  Ans.  ) \\mathrm{S}_{\\mathrm{n}}=\\frac{40}{81}\\left(10^{\\mathrm{n}}-1\\right)-\\frac{4}{8} n(\\text { Ans. }) S n ​ = 81 40 ​ ( 1 0 n − 1 ) − 8 4 ​ n (  Ans.  )"
+        },
+        {
+          "label": "গ",
+          "question": "x এর উপর কী শর্ত আরোপ করলে S ধারাটির (অসীমতক) সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, প্রদত্ত ধারা: S = 2 ( 3 x − 5 ) − 1 + 4 ( 3 x − 5 ) − 2 + 8 ( 3 x − 5 ) − 3 + … … S=2(3 x-5)^{-1}+4(3 x-5)^{-2}+8(3 x-5)^{-3}+\\ldots \\ldots S = 2 ( 3 x − 5 ) − 1 + 4 ( 3 x − 5 ) − 2 + 8 ( 3 x − 5 ) − 3 + …… = 2 3 x − 5 + ( 2 3 x − 5 ) 2 + ( 2 3 x − 5 ) 3 + … . . =\\frac{2}{3 \\mathrm{x}-5}+\\left(\\frac{2}{3 \\mathrm{x}-5}\\right)^{2}+\\left(\\frac{2}{3 \\mathrm{x}-5}\\right)^{3}+\\ldots . . = 3 x − 5 2 ​ + ( 3 x − 5 2 ​ ) 2 + ( 3 x − 5 2 ​ ) 3 + … .. . যা একটি গুণোত্তর ধারা ধারাটির প্রথম পদ, a = 2 3 x − 5 a=\\frac{2}{3 x-5} a = 3 x − 5 2 ​ সাধারণ অনুপাত, r = ( 2 3 x − 5 ) 2 ÷ ( 2 3 x − 5 ) = 2 3 x − 5 r=\\left(\\frac{2}{3 x-5}\\right)^{2} \\div\\left(\\frac{2}{3 x-5}\\right)=\\frac{2}{3 x-5} r = ( 3 x − 5 2 ​ ) 2 ÷ ( 3 x − 5 2 ​ ) = 3 x − 5 2 ​ প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে যদি ∣ r ∣ < 1 |r|<1 ∣ r ∣ < 1 হয়। অর্থাৎ, ∣ 2 3 x − 5 ∣ < 1 \\left|\\frac{2}{3 \\mathrm{x}-5}\\right|<1 ​ 3 x − 5 2 ​ ​ < 1 বা, − 1 < 2 3 x − 5 < 1 -1<\\frac{2}{3 \\mathrm{x}-5}<1 − 1 < 3 x − 5 2 ​ < 1 এবং 2 3 x − 5 > − 1 \\frac{2}{3 \\mathrm{x}-5}>-1 3 x − 5 2 ​ > − 1 বা, 1 3 x − 5 > − 1 2 \\frac{1}{3 x-5}>-\\frac{1}{2} 3 x − 5 1 ​ > − 2 1 ​ বা, 3 x − 5 < − 2 3 x-5<-2 3 x − 5 < − 2 3 x < − 2 + 5 3 x<-2+5 3 x < − 2 + 5 বা, 3 x < 3 3 x<3 3 x < 3 বা, 2 3 x − 5 < 1 \\frac{2}{3 x-5}<1 3 x − 5 2 ​ < 1 বা, 1 3 x − 5 < 1 2 \\frac{1}{3 x-5}<\\frac{1}{2} 3 x − 5 1 ​ < 2 1 ​ বা, 3 x − 5 > 2 3 x-5>2 3 x − 5 > 2 বা, 3 x > 7 3 x>7 3 x > 7 ∴ x > 7 3 \\therefore \\mathrm{x}>\\frac{7}{3} ∴ x > 3 7 ​ ∴ x < 1 \\therefore \\mathrm{x}<1 ∴ x < 1 নির্ণেয় শর্ত: x > 7 3 x>\\frac{7}{3} x > 3 7 ​ অথবা x < 1 \\mathrm{x}<1 x < 1 (Ans.) অসীমতক সমষ্টি, S ∞ = a 1 − r = 2 3 x − 5 1 − 2 3 x − 5 = 2 3 x − 5 ÷ 3 x − 5 − 2 3 x − 5 \\mathrm{S}_{\\infty}=\\frac{a}{1-r}=\\frac{\\frac{2}{3 x-5}}{1-\\frac{2}{3 x-5}}=\\frac{2}{3 x-5} \\div \\frac{3 x-5-2}{3 x-5} S ∞ ​ = 1 − r a ​ = 1 − 3 x − 5 2 ​ 3 x − 5 2 ​ ​ = 3 x − 5 2 ​ ÷ 3 x − 5 3 x − 5 − 2 ​ = 2 3 x − 5 × 3 x − 5 3 x − 7 = 2 3 x − 7  (Ans.)  =\\frac{2}{3 x-5} \\times \\frac{3 x-5}{3 x-7}=\\frac{2}{3 x-7} \\text { (Ans.) } = 3 x − 5 2 ​ × 3 x − 7 3 x − 5 ​ = 3 x − 7 2 ​  (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "m 2 = 4 3 + 1 4 3 − 2 ; m ≥ 0 \\mathrm{m}^{2}=\\sqrt[3]{4}+\\frac{1}{\\sqrt[3]{4}}-2 ; \\mathrm{m} \\geq 0 m 2 = 3 4 ​ + 3 4 ​ 1 ​ − 2 ; m ≥ 0 এবং f ( x ) = ln ⁡ 7 + x 7 − x f(\\mathrm{x})=\\ln \\frac{7+\\mathrm{x}}{7-\\mathrm{x}} f ( x ) = ln 7 − x 7 + x ​ ।",
+      "tag": "CB 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "a b + b c + c a = 0 a b+b c+c a=0 ab + b c + c a = 0 হলে, x 1 a + 1 b + 1 c \\mathrm{x}^{\\frac{1}{a}+\\frac{1}{b}+\\frac{1}{c}} x a 1 ​ + b 1 ​ + c 1 ​ এর মান নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, 2   m 3 + 6   m − 3 = 0 2 \\mathrm{~m}^{3}+6 \\mathrm{~m}-3=0 2   m 3 + 6   m − 3 = 0",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "f ( x ) f(x) f ( x ) ফাংশনটির ডোমেন এবং রেঞ্জ নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "(i) P ( m 2 + 2 , 3   m ) , Q ( 4 , 8 ) , R ( 7 , 5 ) \\mathrm{P}\\left(\\mathrm{m}^{2}+2,3 \\mathrm{~m}\\right), \\mathrm{Q}(4,8), \\mathrm{R}(7,5) P ( m 2 + 2 , 3   m ) , Q ( 4 , 8 ) , R ( 7 , 5 ) তিনটি ভিন্ন বিন্দু। (ii) A ( 5 , 10 ) , B ( 3 , − 4 ) , C ( 7 , − 4 ) \\mathrm{A}(5,10), \\mathrm{B}(3,-4), \\mathrm{C}(7,-4) A ( 5 , 10 ) , B ( 3 , − 4 ) , C ( 7 , − 4 ) এবং D ( 11 , 12 ) \\mathrm{D}(11,12) D ( 11 , 12 ) একটি চতুর্ভুজের চারটি শীর্ষবিন্দু।",
+      "tag": "CB 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "(i) 3 x + q y + 1 = 0 3 \\mathrm{x}+\\mathrm{qy}+1=0 3 x + qy + 1 = 0 এবং p x + 6 y + 2 = 0 \\mathrm{px}+6 \\mathrm{y}+2=0 px + 6 y + 2 = 0 সরলরেখাদ্বয় ( 2 , 1 ) (2,1) ( 2 , 1 ) বিন্দুগামী। (ii) y = x + 7 , y = − x + 7 \\mathrm{y}=\\mathrm{x}+7, \\mathrm{y}=-\\mathrm{x}+7 y = x + 7 , y = − x + 7 এবং y = 4 \\mathrm{y}=4 y = 4 সমীকরণ তিনটি একটি ত্রিভুজের বাহু নির্দেশ করে।",
+      "tag": "CB 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "M(-5, 6) এবং N(-6, 4) বিন্দুগামী সরলরেখার সমীকরণ নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "(i) 4x + 3y - 24 = 0 একটি সরলরেখার সমীকরণ। (ii) M(6, 4), N(-6, 4), S(-8, -2) এবং P(4, -2) একটি চতুর্ভুজের চারটি বিন্দু।",
+      "tag": "CB 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "P = cot ⁡ θ , Q = cosec ⁡ θ \\mathrm{P}=\\cot \\theta, \\mathrm{Q}=\\operatorname{cosec} \\theta P = cot θ , Q = cosec θ এবং R = cos ⁡ θ \\mathrm{R}=\\cos \\theta R = cos θ .",
+      "tag": "CB 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "চিত্রসহ − 510 ∘ -510^{\\circ} − 51 0 ∘ কোণের অবস্থান কোন চতুর্ভাগে নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, 1 − P − Q Q − P − 1 = 1 + R 1 − R \\frac{1-\\mathrm{P}-\\mathrm{Q}}{\\mathrm{Q}-\\mathrm{P}-1}=\\sqrt{\\frac{1+\\mathrm{R}}{1-\\mathrm{R}}} Q − P − 1 1 − P − Q ​ = 1 − R 1 + R ​ ​ .",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "R 2 ⋅ Q − 1 Q = 1 \\mathrm{R}^{2} \\cdot \\mathrm{Q}-\\frac{1}{\\mathrm{Q}}=1 R 2 ⋅ Q − Q 1 ​ = 1 হলে θ \\theta θ এর মান নির্ণয় কর। যেখানে, 0 ≤ θ ≤ π 0 \\leq \\theta \\leq \\pi 0 ≤ θ ≤ π ।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "(i) cosec ⁡ θ = 13 5 \\operatorname{cosec} \\theta=\\frac{13}{5} cosec θ = 5 13 ​ এবং π 2 < θ < π \\frac{\\pi}{2}<\\theta<\\pi 2 π ​ < θ < π .",
+      "tag": "CB 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "45 ∘ 30 ′ 45^{\\circ} 30^{\\prime} 4 5 ∘ 3 0 ′ কে রেডিয়ানে প্রকাশ কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "(i) নং হতে প্রমাণ কর যে, tan ⁡ θ + sec ⁡ ( − θ ) cot ⁡ θ + cosec ⁡ ( − θ ) = 3 10 \\frac{\\tan \\theta+\\sec (-\\theta)}{\\cot \\theta+\\operatorname{cosec}(-\\theta)}=\\frac{3}{10} c o t θ + cosec ( − θ ) t a n θ + s e c ( − θ ) ​ = 10 3 ​ ।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "(ii) নং হতে m + n 2 − m 2 = 2 n \\mathrm{m}+\\sqrt{\\mathrm{n}^{2}-\\mathrm{m}^{2}}=\\sqrt{2} \\mathrm{n} m + n 2 − m 2 ​ = 2 ​ n হলে α \\alpha α এর মান নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

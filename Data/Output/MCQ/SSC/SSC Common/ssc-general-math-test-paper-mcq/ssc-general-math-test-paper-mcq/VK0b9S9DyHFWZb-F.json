@@ -1,0 +1,766 @@
+{
+  "read_id": "VK0b9S9DyHFWZb-F",
+  "title": "বরিশাল বোর্ড ২০২৩",
+  "count": 23,
+  "questions": [
+    {
+      "number": "3",
+      "tag": "SB 25,RB 24,BB 23",
+      "question": "চিত্রে sin ⁡ B = \\sin B= sin B = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 13 \\frac{2}{\\sqrt{13}} 13 ​ 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 13 \\frac{3}{\\sqrt{13}} 13 ​ 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "13 3 \\frac{\\sqrt{13}}{3} 3 13 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "13 2 \\frac{\\sqrt{13}}{2} 2 13 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 13 \\frac{2}{\\sqrt{13}} 13 ​ 2 ​",
+      "option_b": "3 13 \\frac{3}{\\sqrt{13}} 13 ​ 3 ​",
+      "option_c": "13 3 \\frac{\\sqrt{13}}{3} 3 13 ​ ​",
+      "option_d": "13 2 \\frac{\\sqrt{13}}{2} 2 13 ​ ​",
+      "correct": "ক",
+      "explanation": "আমরা প্রদত্ত চিত্রে △ A B C \\triangle A B C △ A BC ত্রিভুজটি দেখতে পাচ্ছি, যা একটি সমকোণী ত্রিভুজ ( ∠ A = 90 ∘ ) \\left.\\angle A=90^{\\circ}\\right) ∠ A = 9 0 ∘ ) । ট্রিগোনোমেট্রির সূত্র অনুযায়ী, sin ⁡ θ =  লম্ব  অবস্থিত \\sin \\theta=\\frac{\\text { লম্ব}}{\\text { অবস্থিত}} sin θ =   অবস্থিত   লম্ব ​ এখানে, ∠ B \\angle B ∠ B এর জন্য: লম্ব (উচ্চতা) = A C = 2 =A C=2 = A C = 2 অবস্থিত (কর্ণ) = B C =B C = BC ভূমি = A B = 3 =A B=3 = A B = 3 ধাপ ১: কর্ণ BC নির্ণয় পাইথাগোরাস সূত্র প্রয়োগ করি: B C 2 = A B 2 + A C 2 B C 2 = 3 2 + 2 2 B C 2 = 9 + 4 = 13 B C = 13 \\begin{array}{c} B C^{2}=A B^{2}+A C^{2} \\\\ B C^{2}=3^{2}+2^{2} \\\\ B C^{2}=9+4=13 \\\\ B C=\\sqrt{13} \\end{array} B C 2 = A B 2 + A C 2 B C 2 = 3 2 + 2 2 B C 2 = 9 + 4 = 13 BC = 13 ​ ​ ধাপ ২: sin ⁡ B \\sin B sin B এর মান sin ⁡ B =  লম্ব   কণ  = A C B C sin ⁡ B = 2 13 \\begin{array}{c} \\sin B=\\frac{\\text { লম্ব }}{\\text { কণ }}=\\frac{A C}{B C} \\\\ \\sin B=\\frac{2}{\\sqrt{13}} \\end{array} sin B =   কণ     লম্ব   ​ = BC A C ​ sin B = 13 ​ 2 ​ ​"
+    },
+    {
+      "number": "5",
+      "tag": "BB 23",
+      "question": "1 + 2 + 4 + 8 + … . . . 1+2+4+8+\\ldots . . . 1 + 2 + 4 + 8 + … ... . ধারাটির ১ম আটটি পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "64",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "128",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "255",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "257",
+          "is_correct": false
+        }
+      ],
+      "option_a": "64",
+      "option_b": "128",
+      "option_c": "255",
+      "option_d": "257",
+      "correct": "ক",
+      "explanation": "a = 1 , r = 2 1 = 2 ; r > 1 ∴   S 8 = a ( r 8 − 1 ) r − 1 = 1 ⋅ ( 2 8 − 1 ) 2 − 1 = 255 \\mathrm{a}=1, \\mathrm{r}=\\frac{2}{1}=2 ; \\mathrm{r}>1 \\therefore \\mathrm{~S}_{8}=\\frac{\\mathrm{a}\\left(\\mathrm{r}^{8}-1\\right)}{\\mathrm{r}-1}=\\frac{1 \\cdot\\left(2^{8}-1\\right)}{2-1}=255 a = 1 , r = 1 2 ​ = 2 ; r > 1 ∴   S 8 ​ = r − 1 a ( r 8 − 1 ) ​ = 2 − 1 1 ⋅ ( 2 8 − 1 ) ​ = 255"
+    },
+    {
+      "number": "6",
+      "tag": "BB 23,RCC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: − 2 + 1 + 4 + 7 + . . . . . . . . . - 2 + 1 + 4 + 7 +......... − 2 + 1 + 4 + 7 + ......... একটি ধারা। ধারাটির সাধারণ পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3n-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3n + 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3n-5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3n + 5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3n-1",
+      "option_b": "3n + 1",
+      "option_c": "3n-5",
+      "option_d": "3n + 5",
+      "correct": "গ",
+      "explanation": "১ম পদ  = − 2 = 3 × 1 − 5  ২য় পদ  = 1 = 3 × 2 − 5  ৩য় পদ  = 4 = 3 × 3 − 5 ∴ n  তম পদ  = 3 n − 5 ∴  সাধারণ পদ  = 3 n − 5 \\begin{array}{l}\\text { ১ম পদ }=-2=3 \\times 1-5 \\\\ \\text { ২য় পদ }=1=3 \\times 2-5 \\\\ \\text { ৩য় পদ }=4=3 \\times 3-5 \\\\ \\therefore n \\text { তম পদ }=3 n-5 \\\\ \\therefore \\text { সাধারণ পদ }=3 n-5\\end{array}   ১ম   পদ   = − 2 = 3 × 1 − 5   ২য়   পদ   = 1 = 3 × 2 − 5   ৩য়   পদ   = 4 = 3 × 3 − 5 ∴ n   তম   পদ   = 3 n − 5 ∴   সাধারণ   পদ   = 3 n − 5 ​"
+    },
+    {
+      "number": "7",
+      "tag": "BB 23,RCC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: − 2 + 1 + 4 + 7 + . . . . . . . . . - 2 + 1 + 4 + 7 +......... − 2 + 1 + 4 + 7 + ......... একটি ধারা। ধারাটির ১ম দশটি পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "115",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "125",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "145",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "155",
+          "is_correct": false
+        }
+      ],
+      "option_a": "115",
+      "option_b": "125",
+      "option_c": "145",
+      "option_d": "155",
+      "correct": "গ",
+      "explanation": "ধারাটির ১ম পদ, a = − 2 \\mathrm{a}=-2 a = − 2 এবং সাধারণ অন্তর = 1 − ( − 2 ) = 3 =1-(-2)=3 = 1 − ( − 2 ) = 3 ∴ \\therefore ∴ ১ম n n n পদের সমষ্টি = n 2 { 2 a + ( n − 1 ) × d } =\\frac{n}{2}\\{2 a+(n-1) \\times d\\} = 2 n ​ { 2 a + ( n − 1 ) × d } ∴ \\therefore ∴ ১ম 10 পদের সমষ্টি = 10 2 { 2 ( − 2 ) + ( 10 − 1 ) × ( 3 ) } = 115 =\\frac{10}{2}\\{2(-2)+(10-1) \\times(3)\\}=115 = 2 10 ​ { 2 ( − 2 ) + ( 10 − 1 ) × ( 3 )} = 115"
+    },
+    {
+      "number": "8",
+      "tag": "CTG.B 23,JB 23,BB 23,BB 22,RB 20,RB 19,SB 17,MC 24",
+      "question": "0.0332 সংখ্যাটির বৈজ্ঞানিক রূপ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "332 × 10 − 2 332 \\times 10^{-2} 332 × 1 0 − 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3.32 × 10 − 2 3.32 \\times 10^{-2} 3.32 × 1 0 − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "33.2 × 10 − 3 33.2 \\times 10^{-3} 33.2 × 1 0 − 3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0.332 × 10 − 1 0.332 \\times 10^{-1} 0.332 × 1 0 − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "332 × 10 − 2 332 \\times 10^{-2} 332 × 1 0 − 2",
+      "option_b": "3.32 × 10 − 2 3.32 \\times 10^{-2} 3.32 × 1 0 − 2",
+      "option_c": "33.2 × 10 − 3 33.2 \\times 10^{-3} 33.2 × 1 0 − 3",
+      "option_d": "0.332 × 10 − 1 0.332 \\times 10^{-1} 0.332 × 1 0 − 1",
+      "correct": "গ",
+      "explanation": "সংখ্যাটির বৈজ্ঞানিক রূপ নির্ণয় করতে হলে, আমাদের সেই সংখ্যা এমন একটি রূপে লিখতে হবে যেখানে একটি সহগ এবং ১০ এর কোনো ঘাত থাকবে। 0.0332 সংখ্যা 3.32 কে ১০ এর ঘাতের সঙ্গে লিখলে এটি হবে: 0.0332 = 3.32 × 10 − 2 0.0332 = 3.32 × 10 ^{-2} 0.0332 = 3.32 × 1 0 − 2 এখানে সহগটি 3.32 এবং ঘাতটি -2, কারণ দশমিক বিন্দু দুই ঘর ডান দিকে সরাতে হবে। তাহলে সঠিক উত্তর হচ্ছে: 3.32 × 10 − 2 3.32 \\times 10^{-2} 3.32 × 1 0 − 2"
+    },
+    {
+      "number": "9",
+      "tag": "JB 23,BB 23,CB 20,RCC 24,RCPC 24",
+      "question": "log ⁡ x a = 3 \\log _{x} a=3 lo g x ​ a = 3 এবং log ⁡ a y = 2 \\log _{a} y=2 lo g a ​ y = 2 হলে log ⁡ x y \\log _{x} y lo g x ​ y এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "5",
+      "option_c": "6",
+      "option_d": "9",
+      "correct": "ক",
+      "explanation": "log ⁡ x a = 3 \\log_x a = 3 lo g x ​ a = 3 log ⁡ a y = 2 \\log_a y = 2 lo g a ​ y = 2 এখন log ⁡ x y \\log_x y lo g x ​ y বের করতে চাই। লগের সূত্র অনুযায়ী: log ⁡ x y = log ⁡ a y log ⁡ a x \\log_x y = \\frac{\\log_a y}{\\log_a x} lo g x ​ y = l o g a ​ x l o g a ​ y ​ প্রথম থেকে: log ⁡ x a = 3 ⇒ log ⁡ a a log ⁡ a x = 3 ⇒ 1 log ⁡ a x = 3 ⇒ log ⁡ a x = 1 3 \\log_x a = 3 \\Rightarrow \\frac{\\log_a a}{\\log_a x} = 3 \\Rightarrow \\frac{1}{\\log_a x} = 3 \\Rightarrow \\log_a x = \\frac{1}{3} lo g x ​ a = 3 ⇒ l o g a ​ x l o g a ​ a ​ = 3 ⇒ l o g a ​ x 1 ​ = 3 ⇒ lo g a ​ x = 3 1 ​ দ্বিতীয় থেকে: log ⁡ a y = 2 \\log_a y = 2 lo g a ​ y = 2 তাহলে: log ⁡ x y = log ⁡ a y log ⁡ a x = 2 1 3 = 2 × 3 = 6 \\log_x y = \\frac{\\log_a y}{\\log_a x} = \\frac{2}{\\frac{1}{3}} = 2 \\times 3 = 6 lo g x ​ y = l o g a ​ x l o g a ​ y ​ = 3 1 ​ 2 ​ = 2 × 3 = 6"
+    },
+    {
+      "number": "11",
+      "tag": "DIN.B 24,JB 23,BB 23,DB 22,BB 20,MCC 24,JGCC 24,CSC 24,BCPC 24",
+      "question": "দুইটি বৃত্তে সর্বোচ্চ কয়টি সাধারণ স্পর্শক অঙ্কন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৪",
+      "option_b": "২",
+      "option_c": "৩",
+      "option_d": "১",
+      "correct": "খ",
+      "explanation": "দুইটি বৃত্তের সাধারণ স্পর্শকের সংথ্যা বৃত্ত দুইটির আপেক্ষিক অবস্থানের উপর নির্ভর করে। নিচে বিভিন্ন ক্ষেত্রে সাধারণ স্পর্শকের সংখ্যা উল্লেখ করা হলো: 1. বৃত্ত দুইটি পরস্পরকে ছেদ করলে: সর্বোচ্চ 2টি সাধারণ স্পর্শক অঙ্কন করা যায়। 2. বৃত্ত দুইটি পরস্পরকে স্পর্শ করলে: 3টি সাধারণ স্পর্শক অঙ্কন করা যায়। 3. বৃত্ত দুইটি পরস্পর থেকে বিচ্ছিন্ন থাকলে: সর্বোচ্চ 4টি সাধারণ স্পর্শক অঙ্কন করা যায়। 4. বৃত্ত দুইটি একে অপরের অভ্যন্তরে থাকলে: কোনো সাধারণ স্পর্শক থাকবে না। সুতরাং, দুইটি বৃত্তে সর্বোচ্চ 4টি সাধারণ স্পর্শক অঙ্কন করা যায়।"
+    },
+    {
+      "number": "12",
+      "tag": "BB 23",
+      "question": "চিত্রে ∠ \\angle ∠ PST এর সমান কোণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "∠ Q P S \\angle \\mathrm{QPS} ∠ QPS",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "∠ Q R S \\angle Q R S ∠ QRS",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "∠ P S R \\angle \\mathrm{PSR} ∠ PSR",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "∠ P Q R \\angle \\mathrm{PQR} ∠ PQR",
+          "is_correct": false
+        }
+      ],
+      "option_a": "∠ Q P S \\angle \\mathrm{QPS} ∠ QPS",
+      "option_b": "∠ Q R S \\angle Q R S ∠ QRS",
+      "option_c": "∠ P S R \\angle \\mathrm{PSR} ∠ PSR",
+      "option_d": "∠ P Q R \\angle \\mathrm{PQR} ∠ PQR",
+      "correct": "গ",
+      "explanation": "এখানে, ∠ P S T + ∠ P S R = 180 ∘ ⇒ ∠ P S T = 180 ∘ − ∠ P S R ⇒ ∠ P S R = 180 ∘ − ∠ P S T \\begin{array}{l} \\angle P S T+\\angle P S R=180^{\\circ} \\\\ \\Rightarrow \\angle P S T=180^{\\circ}-\\angle P S R \\\\ \\Rightarrow \\angle P S R=180^{\\circ}-\\angle P S T \\end{array} ∠ PST + ∠ PSR = 18 0 ∘ ⇒ ∠ PST = 18 0 ∘ − ∠ PSR ⇒ ∠ PSR = 18 0 ∘ − ∠ PST ​ আবার, ∠ P S R + ∠ P Q R = 180 ∘ ⇒ 180 ∘ − ∠ P S T + ∠ P Q R = 180 ∘ ⇒ ∠ P Q R = ∠ P S T \\begin{array}{l} \\angle P S R+\\angle P Q R=180^{\\circ} \\\\ \\Rightarrow 180^{\\circ}-\\angle P S T+\\angle P Q R=180^{\\circ} \\\\ \\Rightarrow \\angle P Q R=\\angle P S T \\end{array} ∠ PSR + ∠ PQR = 18 0 ∘ ⇒ 18 0 ∘ − ∠ PST + ∠ PQR = 18 0 ∘ ⇒ ∠ PQR = ∠ PST ​"
+    },
+    {
+      "number": "13",
+      "tag": "BB 23",
+      "question": "চিত্রে O কেন্দ্রবিশিষ্ট বৃত্তে PA ও PC দুইটি স্মর্শক। ∠ A D C = 130 ∘  হলে  1 2 ∠ x =  কত?  \\angle \\mathrm{ADC}=130^{\\circ} \\text { হলে } \\frac{1}{2} \\angle \\mathrm{x}=\\text { কত? } ∠ ADC = 13 0 ∘   হলে   2 1 ​ ∠ x =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "50 ∘ 50^{\\circ} 5 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "65 ∘ 65^{\\circ} 6 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "100 ∘ 100^{\\circ} 10 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "50 ∘ 50^{\\circ} 5 0 ∘",
+      "option_b": "65 ∘ 65^{\\circ} 6 5 ∘",
+      "option_c": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_d": "100 ∘ 100^{\\circ} 10 0 ∘",
+      "correct": "ক",
+      "explanation": "এখানে, ∠ A D C + ∠ A B C = 180 ∘ ∴ ∠ A B C = 180 ∘ − 130 ∘ = 50 ∘ \\begin{array}{l} \\angle A D C+\\angle A B C=180^{\\circ} \\\\ \\therefore \\angle A B C=180^{\\circ}-130^{\\circ} \\\\ =50^{\\circ} \\end{array} ∠ A D C + ∠ A BC = 18 0 ∘ ∴ ∠ A BC = 18 0 ∘ − 13 0 ∘ = 5 0 ∘ ​ ADC চাপে দণ্ডায়মান, ∠ A O C = 2 ∠ A B C ⇒ ∠ X = 2 × 50 ∘ = 100 ∘ ∴ 1 2 ∠ X = 100 ∘ 2 = 50 ∘ \\begin{array}{l} \\angle A O C=2 \\angle A B C \\\\ \\Rightarrow \\angle X=2 \\times 50^{\\circ}=100^{\\circ} \\\\ \\therefore \\frac{1}{2} \\angle X=\\frac{100^{\\circ}}{2}=50^{\\circ} \\end{array} ∠ A OC = 2∠ A BC ⇒ ∠ X = 2 × 5 0 ∘ = 10 0 ∘ ∴ 2 1 ​ ∠ X = 2 10 0 ∘ ​ = 5 0 ∘ ​"
+    },
+    {
+      "number": "15",
+      "tag": "CB 25",
+      "question": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সমকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রবৃদ্ধ কোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সূক্ষ্মকোণ",
+      "option_b": "সমকোণ",
+      "option_c": "স্থূলকোণ",
+      "option_d": "প্রবৃদ্ধ কোণ",
+      "correct": "ক",
+      "explanation": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-স্থূলকোণ। স্থূলকোণ হলো সেই কোণ যা 90° এর চেয়ে বড় কিন্তু 180° এর চেয়ে ছোট। অন্যভাবে বলতে গেলে, এটি একটি সমকোণ (90°) এবং একটি সরলকোণ (180°) এর মধ্যেকার কোণ।   উদাহরণস্বরূপ, ৯৫°, ১১০°, বা ১৭৫° এর মত কোণগুলো স্থূলকোণ।"
+    },
+    {
+      "number": "16",
+      "tag": "JB 23,BB 23",
+      "question": "একটি রম্বসের দুইটি কর্ণের দৈর্ঘ্য 8 একক ও 12 একক হলে এর ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40 বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "48 বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "96 বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "192 বর্গ একক",
+          "is_correct": true
+        }
+      ],
+      "option_a": "40 বর্গ একক",
+      "option_b": "48 বর্গ একক",
+      "option_c": "96 বর্গ একক",
+      "option_d": "192 বর্গ একক",
+      "correct": "ঘ",
+      "explanation": "আমরা জানি, রম্বসের ক্ষেত্রফল =কর্ণদ্বয়ের গুনফলের অর্ধেক = 8 × 12 2 = 48  বর্গ একক \\begin{array}{l} =\\frac{8 \\times 12}{2}=48 \\text { বর্গ একক} \\end{array} = 2 8 × 12 ​ = 48   বর্গ   একক ​"
+    },
+    {
+      "number": "17",
+      "tag": "BB 23",
+      "question": "AFD অর্ধবৃত্তের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "21.99   m 2 21.99 \\mathrm{~m}^{2} 21.99   m 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "76.97   m 2 76.97 \\mathrm{~m}^{2} 76.97   m 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "153.94   m 2 153.94 \\mathrm{~m}^{2} 153.94   m 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "307.88   m 2 307.88 \\mathrm{~m}^{2} 307.88   m 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "21.99   m 2 21.99 \\mathrm{~m}^{2} 21.99   m 2",
+      "option_b": "76.97   m 2 76.97 \\mathrm{~m}^{2} 76.97   m 2",
+      "option_c": "153.94   m 2 153.94 \\mathrm{~m}^{2} 153.94   m 2",
+      "option_d": "307.88   m 2 307.88 \\mathrm{~m}^{2} 307.88   m 2",
+      "correct": "ক",
+      "explanation": "অর্ধবৃত্তের ক্ষেত্রফল = 1 2 \\frac{1}{2} 2 1 ​ πr² = 1 2 \\frac{1}{2} 2 1 ​ π×7²= 76.97   m 2 76.97 \\mathrm{~m}^{2} 76.97   m 2 ( ∵ \\because ∵ r= A D 2 \\frac{AD}{2} 2 A D ​ = 14 2 \\frac{14}{2} 2 14 ​ =7)"
+    },
+    {
+      "number": "18",
+      "tag": "BB 23",
+      "question": "ABED ক্ষেত্রের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "112   m 2 112 \\mathrm{~m}^{2} 112   m 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "136   m 2 136 \\mathrm{~m}^{2} 136   m 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "160   m 2 160 \\mathrm{~m}^{2} 160   m 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "172   m 2 172 \\mathrm{~m}^{2} 172   m 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "112   m 2 112 \\mathrm{~m}^{2} 112   m 2",
+      "option_b": "136   m 2 136 \\mathrm{~m}^{2} 136   m 2",
+      "option_c": "160   m 2 160 \\mathrm{~m}^{2} 160   m 2",
+      "option_d": "172   m 2 172 \\mathrm{~m}^{2} 172   m 2",
+      "correct": "গ",
+      "explanation": "এখানে, C D = 10 2 − 6 2 = 8   m C D^{}=\\sqrt{10^{2}-6^{2}}=8 \\mathrm{~m} C D = 1 0 2 − 6 2 ​ = 8   m ∴ A B E D  এর ক্ষেত্রফল  = 1 2 ( A D + B E ) × C D = 1 2 { 14 + ( 14 + 6 ) } × 8 = 136   m 2 \\begin{aligned} \\therefore \\quad A B E D \\text { এর ক্ষেত্রফল } & =\\frac{1}{2}(A D+B E) \\times C D \\\\ & =\\frac{1}{2}\\{14+(14+6)\\} \\times 8 \\\\ & =136 \\mathrm{~m}^{2} \\end{aligned} ∴ A BE D   এর   ক্ষেত্রফল   ​ = 2 1 ​ ( A D + BE ) × C D = 2 1 ​ { 14 + ( 14 + 6 )} × 8 = 136   m 2 ​"
+    },
+    {
+      "number": "19",
+      "tag": "RB 25",
+      "question": "একটি সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ 5 সে.মি. এবং উচ্চতা 6 সে.মি. হলে বেলনটির i ভূমির ক্ষেত্রফল = 25 π \\pi π বর্গ সে.মি. ii. আয়তন = 150 π \\pi π ঘন সে.মি iii. বক্রতলের ক্ষেত্রফল = 60 π \\pi π বর্গ সে.মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "দেওয়া আছে, সমবৃত্তভূমিক বেলনের ব্যাসার্ধ = 5   c m =5 \\mathrm{~cm} = 5   cm উচ্চতা, h = 6   c m h=6 \\mathrm{~cm} h = 6   cm (i) ভূমির ক্ষেত্রফল = π r 2 = ( 5 ) 2 × π = 25 π =\\pi r^{2}=(5)^{2} \\times \\pi=25 \\pi = π r 2 = ( 5 ) 2 × π = 25 π ব. সে.মি. (ii) আয়তন = π r 2 h = π × 5 2 × 6 = 150 π =\\pi r^{2} h=\\pi \\times 5^{2} \\times 6=150 \\pi = π r 2 h = π × 5 2 × 6 = 150 π ঘন সে.মি. (iii) বক্রতলের ক্ষেত্রফল = 2 π r h = 2 × π × 5 × 6 = 60 π =2 \\pi r h=2 \\times \\pi \\times 5 \\times 6=60 \\pi = 2 π r h = 2 × π × 5 × 6 = 60 π ব. সে.মি. ∴ \\therefore ∴ সঠিক উত্তর: i, ii ও iii."
+    },
+    {
+      "number": "21",
+      "tag": "BB 23",
+      "question": "অজিভ রেখা অঙ্কনের ক্ষেত্রে x-অক্ষ বরাবর স্থাপন করা হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "শ্রেণির উচ্চমান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শ্রেণির নিম্নমান",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "শ্রেণির মধ্যমান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অবিচ্ছিন্ন শ্রেণি ব্যাপ্তি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "শ্রেণির উচ্চমান",
+      "option_b": "শ্রেণির নিম্নমান",
+      "option_c": "শ্রেণির মধ্যমান",
+      "option_d": "অবিচ্ছিন্ন শ্রেণি ব্যাপ্তি",
+      "correct": "খ",
+      "explanation": "অজিভরেখা অংকন এর ক্ষেত্রে xঅক্ষ বরাবর অবিচ্ছিন্ন শ্রেণিসীমা বা শ্রেণীর উচ্চমান স্থাপন করা হয়।"
+    },
+    {
+      "number": "22",
+      "tag": "RB 25,CB 25,JB 25,DB 24,CB 24,MB 24,CTG.B 24,DB 24,DB 23,DIN.B 23,JB 23,BB 23,CB 22,DIN.B 22,SB 22,BB 22,SB 20,DIN.B 20,DB 19,RCC 24,RCC 24,PCC 24,BCC 24,RUMC 24,HC 24,MC 24,MCPSC 24,RGLHS 24,BCPC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: শ্রেণিব্যাপ্তি 21-30 31-40 41-50 51-60 গণসংখ্যা 4 12 8 10 প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28.67",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27.67",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "47.67",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "37.17",
+          "is_correct": false
+        }
+      ],
+      "option_a": "28.67",
+      "option_b": "27.67",
+      "option_c": "47.67",
+      "option_d": "37.17",
+      "correct": "খ",
+      "explanation": "প্রদত্ত শ্রেণি ও গণসংখ্যা: শ্রেণিসীমা গণসংখ্যা 21 - 30 4 31 - 40 12 41 - 50 8 51 - 60 10 প্রদত্ত সারণি থেকে দেখা যায় যে, সর্বাধিক গণসংখ্যা হলো 12, যা 31 – 40 শ্রেণিতে অবস্থিত। সুতরাং, প্রচুরক শ্রেণী হলো 31 – 40। প্রচুরক শ্রেণির নিম্নসীমা, L = 30.5 L = 30.5 L = 30.5 (প্রকৃত নিম্নসীমা) প্রচুরক শ্রেণির গণসংখ্যা, f 1 = 12 f_1 = 12 f 1 ​ = 12 প্রচুরক শ্রেণির পূর্ববর্তী শ্রেণির গণসংখ্যা, f 0 = 4 f_0 = 4 f 0 ​ = 4 প্রচুরক শ্রেণির পরবর্তী শ্রেণির গণসংখ্যা, f 2 = 8 f_2 = 8 f 2 ​ = 8 শ্রেণিব্যাপ্তি, h = 10 h = 10 h = 10 প্রচুরক নির্ণয়ের সূত্রটি হলো: = L + f 1 − f 0 ( f 1 − f 0 ) + ( f 1 − f 2 ) × h = L + \\frac{f_1 - f_0}{(f_1 - f_0) + (f_1 - f_2)} \\times h = L + ( f 1 ​ − f 0 ​ ) + ( f 1 ​ − f 2 ​ ) f 1 ​ − f 0 ​ ​ × h = 30.5 + 12 − 4 ( 12 − 4 ) + ( 12 − 8 ) × 10 = 30.5 + \\frac{12 - 4}{(12 - 4) + (12 - 8)} \\times 10 = 30.5 + ( 12 − 4 ) + ( 12 − 8 ) 12 − 4 ​ × 10 = 30.5 + 8 8 + 4 × 10 = 30.5 + \\frac{8}{8 + 4} \\times 10 = 30.5 + 8 + 4 8 ​ × 10 = 30.5 + 8 12 × 10 = 30.5 + \\frac{8}{12} \\times 10 = 30.5 + 12 8 ​ × 10 = 30.5 + 80 12 = 30.5 + \\frac{80}{12} = 30.5 + 12 80 ​ = 30.5 + 6.67 = 30.5 + 6.67 = 30.5 + 6.67 = 37.17 = 37.17 = 37.17"
+    },
+    {
+      "number": "23",
+      "tag": "JB 23,BB 23",
+      "question": "শ্রেণিব্যাপ্তি 21-25 26-30 31-35 36-40 41-45 গণসংখ্যা 2 6 9 7 4 মধ্যক নির্ণয়ের জন্য Fc এর মান নিচের কোনটি",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6",
+      "option_b": "7",
+      "option_c": "8",
+      "option_d": "15",
+      "correct": "ঘ",
+      "explanation": "Fc=সর্বোচ্চ গণসংখ্যার পূর্ববর্তী সকল গণসংখ্যার সমষ্টি এখানে সর্বোচ্চ গণসংখ্যা 8,এর পূর্ববর্তী গণসংখ্যা সমূহ 2,6 Fc=(2+6)=8"
+    },
+    {
+      "number": "24",
+      "tag": "BB 23",
+      "question": "যদি f ( x ) = x 3 − 5 x + 2 f(x)=x^{3}-5 x+2 f ( x ) = x 3 − 5 x + 2 হলে f ( − 2 ) = f(-2)= f ( − 2 ) = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-16",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-14",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-16",
+      "option_b": "-14",
+      "option_c": "6",
+      "option_d": "4",
+      "correct": "ক",
+      "explanation": "f ( x ) = x 3 − 5 x + 2 ∴ f ( − 2 ) = ( − 2 ) 3 − 5 ( − 2 ) + 2 = − 8 + 10 + 2 = 4 \\begin{aligned} f(x) & =x^{3}-5 x+2 \\\\ \\therefore f(-2) & =(-2)^{3}-5(-2)+2 \\\\ & =-8+10+2 \\\\ & =4\\end{aligned} f ( x ) ∴ f ( − 2 ) ​ = x 3 − 5 x + 2 = ( − 2 ) 3 − 5 ( − 2 ) + 2 = − 8 + 10 + 2 = 4 ​"
+    },
+    {
+      "number": "25",
+      "tag": "BB 23",
+      "question": "P = {a, b, c}, Q = {b, d} হলে (P\\Q) এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "7",
+      "correct": "ঘ",
+      "explanation": "P \\ Q = { a , b , c } − { b , d } = { a , c } P \\backslash Q=\\{a, b, c\\}-\\{b, d\\}=\\{a, c\\} P \\ Q = { a , b , c } − { b , d } = { a , c } ∴ P \\Q \\therefore \\mathrm{P\\Q} ∴ P \\Q এর উপাদান সংখ্যা, n = 2 \\mathrm{n}=2 n = 2 ∴ P \\ Q \\therefore \\mathrm{P} \\backslash \\mathrm{Q} ∴ P \\ Q এর প্রকৃত উপসেট = 2 n − 1 = 2 2 − 1 = 3 =2^{n}-1=2^{2}-1=3 = 2 n − 1 = 2 2 − 1 = 3 টি"
+    },
+    {
+      "number": "26",
+      "tag": "RB 25,CTG.B 25,CB 25,CB 24,DB 23,BB 23,DIN.B 22,SB 22,BB 22,BB 17,RUMC 24",
+      "question": "10 সে.মি. এবং 14 সে.মি. ব্যাসবিশিষ্ট দুইটি বৃত্ত পরস্পর অন্তঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের দূরত্ব কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12 সে.মি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "24 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 সে.মি.",
+      "option_b": "4 সে.মি",
+      "option_c": "12 সে.মি",
+      "option_d": "24 সে.মি.",
+      "correct": "গ",
+      "explanation": "বৃত্ত দুইটি অন্তঃস্পর্শ করলে, ক্ষুদ্রতর বৃত্তটি বৃহত্তর বৃত্তের ভিতরে স্পর্শ করবে। ব্যাস: বৃত্ত ১: d 1 = 10 d_1 = 10 d 1 ​ = 10 cm → \\rightarrow → ব্যাসার্ধ r 1 = 5 r_1 = 5 r 1 ​ = 5 cm বৃত্ত ২: d 2 = 14 d_2 = 14 d 2 ​ = 14 cm → \\rightarrow → ব্যাসার্ধ r 2 = 7 r_2 = 7 r 2 ​ = 7 cm অন্তঃস্পর্শের শর্ত: কেন্দ্রদ্বয়ের দূরত্ব = ∣ r 2 − r 1 ∣ |r_2 - r_1| ∣ r 2 ​ − r 1 ​ ∣ = ∣ 7 − 5 ∣ = 2 |7 - 5| = 2 ∣7 − 5∣ = 2 cm"
+    },
+    {
+      "number": "27",
+      "tag": "BB 23,FCC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: y + 2 y = 3 y+\\frac{2}{y}=3 y + y 2 ​ = 3 y 3 + ( 2 y ) 3 = ? y^{3}+\\left(\\frac{2}{y}\\right)^{3}=? y 3 + ( y 2 ​ ) 3 = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9",
+          "is_correct": true
+        }
+      ],
+      "option_a": "45",
+      "option_b": "18",
+      "option_c": "15",
+      "option_d": "9",
+      "correct": "ঘ",
+      "explanation": "দেয়া আছে, y + 2 y = 3 ∴ y 3 + ( 2 y ) 3 = ( y + 2 y ) 3 − 3 ⋅ y ⋅ 2 y ⋅ ( y + 2 y ) = 3 3 − 3 × 2 × 3 = 27 − 18 = 9 \\begin{aligned} y+\\frac{2}{y} & =3 \\\\ \\therefore y^{3}+\\left(\\frac{2}{y}\\right)^{3} & =\\left(y+\\frac{2}{y}\\right)^{3}-3 \\cdot y \\cdot \\frac{2}{y} \\cdot\\left(y+\\frac{2}{y}\\right) \\\\ & =3^{3}-3 \\times 2 \\times 3 \\\\ & =27-18 \\\\ & =9\\end{aligned} y + y 2 ​ ∴ y 3 + ( y 2 ​ ) 3 ​ = 3 = ( y + y 2 ​ ) 3 − 3 ⋅ y ⋅ y 2 ​ ⋅ ( y + y 2 ​ ) = 3 3 − 3 × 2 × 3 = 27 − 18 = 9 ​"
+    },
+    {
+      "number": "28",
+      "tag": "BB 23,FCC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: y + 2 y = 3 y+\\frac{2}{y}=3 y + y 2 ​ = 3 y 3 + ( 2 y ) 3 = ? y^{3}+\\left(\\frac{2}{y}\\right)^{3}=? y 3 + ( y 2 ​ ) 3 = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "45",
+      "option_b": "18",
+      "option_c": "15",
+      "option_d": "9",
+      "correct": "খ",
+      "explanation": "দেয়া আছে, y + 2 y = 3 ∴ y 3 + ( 2 y ) 3 = ( y + 2 y ) 3 − 3 ⋅ y ⋅ 2 y ⋅ ( y + 2 y ) = 3 3 − 3 × 2 × 3 = 27 − 18 = 9 \\begin{aligned} y+\\frac{2}{y} & =3 \\\\ \\therefore y^{3}+\\left(\\frac{2}{y}\\right)^{3} & =\\left(y+\\frac{2}{y}\\right)^{3}-3 \\cdot y \\cdot \\frac{2}{y} \\cdot\\left(y+\\frac{2}{y}\\right) \\\\ & =3^{3}-3 \\times 2 \\times 3 \\\\ & =27-18 \\\\ & =9\\end{aligned} y + y 2 ​ ∴ y 3 + ( y 2 ​ ) 3 ​ = 3 = ( y + y 2 ​ ) 3 − 3 ⋅ y ⋅ y 2 ​ ⋅ ( y + y 2 ​ ) = 3 3 − 3 × 2 × 3 = 27 − 18 = 9 ​"
+    },
+    {
+      "number": "30",
+      "tag": "BB 23",
+      "question": "y + 1 y = 5  হলে  y y 2 − 3 y + 1 =  কত?  y+\\frac{1}{y}=5 \\text { হলে } \\frac{y}{y^{2}-3 y+1}=\\text { কত? } y + y 1 ​ = 5   হলে   y 2 − 3 y + 1 y ​ =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "2",
+      "option_d": "8",
+      "correct": "ক",
+      "explanation": "y + 1 y = 5  বা,  y 2 + 1 = 5 y  বা,  y 2 − 3 y + 1 = 2 y ∴ y y 2 − 3 y + 1 = y 2 y = 1 2 \\begin{array}{l}y+\\frac{1}{y}=5 \\text { বা, } y^{2}+1=5 y \\text { বা, } y^{2}-3 y+1=2 y \\\\ \\therefore \\frac{y}{y^{2}-3 y+1}=\\frac{y}{2 y}=\\frac{1}{2}\\end{array} y + y 1 ​ = 5   বা ,  y 2 + 1 = 5 y   বা ,  y 2 − 3 y + 1 = 2 y ∴ y 2 − 3 y + 1 y ​ = 2 y y ​ = 2 1 ​ ​"
+    }
+  ]
+}

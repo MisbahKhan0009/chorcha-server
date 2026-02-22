@@ -1,0 +1,832 @@
+{
+  "read_id": "uptI97_HJ7_p1hn0",
+  "title": "বরিশাল বোর্ড ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "BB 24",
+      "question": "ডেটাবেজ প্রোগ্রামে Salary ঘরে কোন Data Type হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Text",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Memo",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Number",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Currency",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Text",
+      "option_b": "Memo",
+      "option_c": "Number",
+      "option_d": "Currency",
+      "correct": "ঘ",
+      "explanation": "ডেটাবেজ প্রোগ্রামে Salary ঘরের জন্য সঠিক ডেটা টাইপ হবে Currency । কারণ Salary সাধারণত একটি আর্থিক পরিমাণ যা অর্থমূল্যের সাথে সম্পর্কিত। Currency ডেটা টাইপটি বিশেষভাবে আর্থিক ডেটা অথবা টাকা সম্পর্কিত তথ্য সংরক্ষণের জন্য ব্যবহৃত হয়। সুতরাং, ডেটাবেজের Salary ঘরের জন্য Currency ডেটা টাইপটি সবচেয়ে উপযুক্ত।"
+    },
+    {
+      "number": "2",
+      "tag": "BB 24",
+      "question": "ডেটাবেজ প্রোগ্রামে একই সারির কয়েকটি ফিল্ড মিলে হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "DBMS",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Record",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Sheet",
+          "is_correct": false
+        }
+      ],
+      "option_a": "DBMS",
+      "option_b": "Record",
+      "option_c": "Table",
+      "option_d": "Sheet",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "BB 24",
+      "question": "ডেটাবেজ ফাইল বা ডকুমেন্টকে নানাভাবে। উপস্থাপন করাকে বলা হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "টেবিল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "রেকর্ড",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কুয়েরি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "রিপোর্ট",
+          "is_correct": true
+        }
+      ],
+      "option_a": "টেবিল",
+      "option_b": "রেকর্ড",
+      "option_c": "কুয়েরি",
+      "option_d": "রিপোর্ট",
+      "correct": "ঘ",
+      "explanation": "ডেটাবেজ প্রোগ্রামে একই সারির কয়েকটি ফিল্ডের সমন্বয়ে তৈরি হয়→ Record. কয়েকটি রেকর্ডের সমন্বয়ে তৈরি হয় → Table. অনেকগুলো কলাম ও সারির সমন্বয়ে তৈরি হয় → Sheet. ডেটা ম্যানেজমেন্টের জন্য ব্যবহৃত হয় → DBMS."
+    },
+    {
+      "number": "",
+      "tag": "BB 24",
+      "question": "A B C D E F 1 নাম বেসিক বাড়ি ভাড়া চিকিৎসা ভাতা কল্যাণ তহবিল নিট প্রাপ্য 2 আব্দুর রহমান ২২০০০ ৪০% ১৫০০ ১০০ ? 3 4 \"?\" স্থানের জন্য প্রযোজ্য সূত্র- i. =B2 + C2 + D2 + E2 ii. =Sum (B2: E2) iii. =Product (B2 * E2) নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটি নয়",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও iii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "কোনটি নয়",
+      "correct": "ঘ",
+      "explanation": "প্রশ্নানুসারে অপশনে সঠিক উত্তর নেই। সঠিক উত্তর হবে- = (B2 + C2+ D2) - E2 ও = sum (B2: D2)-E21"
+    },
+    {
+      "number": "",
+      "tag": "BB 24",
+      "question": "A B C D E F 1 নাম বেসিক বাড়ি ভাড়া চিকিৎসা ভাতা কল্যাণ তহবিল নিট প্রাপ্য 2 আব্দুর রহমান ২২০০০ ৪০% ১৫০০ ১০০ ? 3 4 \"?\" স্থানের জন্য প্রযোজ্য সূত্র- i. =B2 + C2 + D2 + E2 ii. =Sum (B2: E2) iii. =Product (B2 * E2) নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটি নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও iii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "কোনটি নয়",
+      "correct": "খ",
+      "explanation": "প্রশ্নানুসারে অপশনে সঠিক উত্তর নেই। সঠিক উত্তর হবে- = (B2 + C2+ D2) - E2 ও = sum (B2: D2)-E21"
+    },
+    {
+      "number": "6",
+      "tag": "BB 25,BB 24",
+      "question": "WWW এর জনক কে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Bill Gates",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Sir Timothy John Berners-Lee",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Mark Zuckerberg",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Raymond Samuel Tomlinson",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Bill Gates",
+      "option_b": "Sir Timothy John Berners-Lee",
+      "option_c": "Mark Zuckerberg",
+      "option_d": "Raymond Samuel Tomlinson",
+      "correct": "গ",
+      "explanation": "WWW বা World Wide Web এর জনক হলেন Sir Timothy John Berners-Lee। তিনি ওয়ার্ল্ড ওয়াইড ওয়েবের উদ্ভাবন করেন ১৯৮৯ সালে। সঠিক উত্তর: Sir Timothy John Berners-Lee"
+    },
+    {
+      "number": "7",
+      "tag": "CTG.B 25,BB 24,ACPS 24",
+      "question": "একুশ শতকের সম্পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কৃষি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কম্পিউটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "জ্ঞান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইন্টারনেট",
+          "is_correct": true
+        }
+      ],
+      "option_a": "কৃষি",
+      "option_b": "কম্পিউটার",
+      "option_c": "জ্ঞান",
+      "option_d": "ইন্টারনেট",
+      "correct": "ঘ",
+      "explanation": "একুশ শতকের সম্পদ হিসেবে জ্ঞানকে বিশেষ গুরুত্ব দেওয়া হয়, কারণ এটি আধুনিক সমাজে প্রযুক্তি এবং তথ্যের উন্নয়নের ভিত্তি গঠন করে। তথ্য ও প্রযুক্তির এই যুগে, জ্ঞানই সবচেয়ে বড় সম্পদ। একুশ শতকের সম্পদ হল জ্ঞান।"
+    },
+    {
+      "number": "8",
+      "tag": "BB 24,RCC 24",
+      "question": "কোন সেবাটি বাংলাদেশের সকল ডাকঘরে পাওয়া যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "এটিএম সেবা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মোবাইল ব্যাংকিং",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ই-কমার্স",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ই-এমটিএস",
+          "is_correct": false
+        }
+      ],
+      "option_a": "এটিএম সেবা",
+      "option_b": "মোবাইল ব্যাংকিং",
+      "option_c": "ই-কমার্স",
+      "option_d": "ই-এমটিএস",
+      "correct": "খ",
+      "explanation": "সঠিক উত্তর: ই-এমটিএস ই-এমটিএস (Electronic Money Transfer Service) হল একটি অর্থ স্থানান্তর সেবা যা বাংলাদেশের সকল ডাকঘরে পাওয়া যায়। এটি ডাক বিভাগের একটি গুরুত্বপূর্ণ সেবা যা দেশজুড়ে অর্থ লেনদেন সহজতর করেছে।"
+    },
+    {
+      "number": "9",
+      "tag": "BB 24",
+      "question": "হার্টের রোগী সনি সাহেব পরিসেবাসমূহের বিল পরিশোধ করতে পারছেন না। তার জন্য কোন সেবাটি প্রযোজ্য?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ই-স্বাস্থ্য সেবা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ই-গভর্ন্যান্স",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ই-সার্ভিস",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ই-কমার্স",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ই-স্বাস্থ্য সেবা",
+      "option_b": "ই-গভর্ন্যান্স",
+      "option_c": "ই-সার্ভিস",
+      "option_d": "ই-কমার্স",
+      "correct": "ঘ",
+      "explanation": "অনলাইনে বিল পরিশোধ করার জন্য প্রযোজ্য সেবাটি হলো → ই-গভর্ন্যান্স। ইলেকট্রনিক মাধ্যমে স্বাস্থ্য সেবা প্রদান করা হলো → ই-স্বাস্থ্য সেবা। ইলেকট্রনিক মাধ্যমে কোনো সেবা প্রদান করা হলো → ই-সার্ভিস বা ই-সেবা। ইলেকট্রনিক মাধ্যমে ব্যবসা-বাণিজ্য হলো → ই-কমার্স।"
+    },
+    {
+      "number": "10",
+      "tag": "CTG.B 24,DIN.B 24,BB 24,BB 23",
+      "question": "ই-বুককে সাধারণত কয়টি ভাগে ভাগ করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "ক",
+      "explanation": "বর্তমানে ই-বুকের বিভিন্ন প্রকারভেদ দেখা যায়। বিভিন্ন ধরনের প্রকাশনার জন্য বিভিন্ন ধরনের ই-বুক রয়েছে। তবে সাধারণভাবে ই-বুককে নিম্নোক্ত পাঁচটি ভাগে ভাগ করা যায়। ১) মুদ্রিত বইয়ের হুবহু প্রতিলিপি। এই ধরনের ই-বুক গুলো মূলত মুদ্রিত বইয়ের মতোই হয়ে থাকে। সচরাচর এগুলো পিডিএফ ফরম্যাটে প্রকাশিত হয়ে থাকে। সম্পূর্ণ বই একসঙ্গে অথবা অধ্যায় হিসেবে পাওয়া যায়। ২) যে ই-বুক গুলো কেবল অনলাইনে তথা ইন্টারনেট এ পড়া যায়, এগুলো সচরাচর এইচ টি এম এল এ প্রকাশিত হয়। এগুলোকে বইয়ের ওয়েবসাইট বলা যায়। ৩) মুদ্রিত বই এর মত কিন্তু কিছুটা বাড়তি সুবিধা সহ ই-বুক। এগুলো বই এর কনটেন্ট ছাড়াও পাঠকের নিজের নোট লেখা, শব্দের অর্থ জানা ইত্যাদি সুবিধা থাকে। এগুলোর বেশিরভাগই ই-পাব ফরম্যাটে প্রকাশিত হয়। এসব ই-বুকের কোন কোনটির কেবল বিশেষ ডিভাইসে পড়া যায়। যেমন ফিলস বা ইবুক রিডারে পড়ার উপযোগী ই-বুক। তবে, ফিল্ড বা আইবকের ক্ষেত্রে নিজস্ব ফরম্যাট রয়েছে। ৪) চৌকস ই-বুক। এই বইগুলোতে লিখিত অংশ ছাড়াও অডিও/ভিডিও/এনিমেশন ইত্যাদি সংযুক্ত থাকে। এই বইগুলো কে স্মার্ট ই-বুক বলা হয়। এগুলোর কনটেন্ট মাল্টিমিডিয়া সম্বৃদ্ধ। যেমন এতে কুইজ থাকে।কুইজের উত্তর করার ব্যবস্থাও থাকে এবং উত্তর সঠিক হয়েছে কিনা তাও ইবুক থেকেই জানা যায়। এমনকি এসব ইবুকে ট্রিমাত্রিক ছবিও যুক্ত থাকে। তবে, অনেক ক্ষেত্রে এর উৎপাদনকারী বা নির্মাতারা এ সকল ই-বুক এমন ফরমেটে তৈরি করেন যা কেবল নির্দিষ্ট হার্ডওয়্যারে চলে। যেমন ওপেন কম্পিউটার সেল তৈরি আইবুক কেবল আইপ্যাড বা ম্যাক কম্পিউটারে ভালোভাবে পড়া যায়। ৫) ই-বুক এর অ্যাপস। এক্ষেত্রে ই-বুকটি নিজেই একটি অ্যাপস আকারে প্রকাশিত হয়। অ্যাপস ডাউনলোড করে কম্পিউটার বা মোবাইল ফোনে পড়া যায়। মুদ্রিত বই এর মত ই-বুক ও কপিরাইটের আওতায় প্রকাশিত হয়ে থাকে।"
+    },
+    {
+      "number": "11",
+      "tag": "BB 24",
+      "question": "ইন্টারনেট ব্যবহারের ফলে কুকিজ কোথায় জমা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ক্যাশ মেমরিতে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "র‍্যামে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "রমে",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "হার্ডডিস্কে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ক্যাশ মেমরিতে",
+      "option_b": "র‍্যামে",
+      "option_c": "রমে",
+      "option_d": "হার্ডডিস্কে",
+      "correct": "গ",
+      "explanation": "ইন্টারনেট ব্যবহার করলে ইন্টারনেট ব্রাউজারের ক্যাশ মেমরিতে অনেক টেম্পোরারি ফাইল ও কুকিজ জমতে থাকে।"
+    },
+    {
+      "number": "12",
+      "tag": "BB 24",
+      "question": "নিচের কোনটি ভাইরাস?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "CMH",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "SIN",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "CIH",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "AVG",
+          "is_correct": false
+        }
+      ],
+      "option_a": "CMH",
+      "option_b": "SIN",
+      "option_c": "CIH",
+      "option_d": "AVG",
+      "correct": "ক",
+      "explanation": "Here's a more detailed breakdown:   Name: CIH (stands for Chen Ing-hau's initials). Other Names: Chernobyl, Spacefiller. Type: A Windows 9x computer virus. Creator: Chen Ing-hau, a student at Tatung University in Taiwan. Payload: Highly destructive, overwriting critical information on infected system drives and, in some cases, destroying the system BIOS. First appeared: 1998"
+    },
+    {
+      "number": "13",
+      "tag": "BB 24",
+      "question": "একাউন্ট শক্তিশালী, করার জন্য কয়টি ধাপে ভেরিফিকেশনের ব্যবস্থা রয়েছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "দুই",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "তিন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "চার",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "পাঁচ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "দুই",
+      "option_b": "তিন",
+      "option_c": "চার",
+      "option_d": "পাঁচ",
+      "correct": "গ",
+      "explanation": "একাউন্ট শক্তিশালী বা সুরক্ষিত করার জন্য সাধারণত দ্বি-ধাপ যাচাইকরণ (Two-Factor Authentication) ব্যবস্থা রয়েছে। সুতরাং, সঠিক উত্তর হলো: দুই"
+    },
+    {
+      "number": "14",
+      "tag": "BB 24",
+      "question": "ছবি সম্পাদনার জন্য কোন প্রোগ্রাম ব্যবহার করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Word Processor",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Power Point",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Adobe Photoshop",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Adobe Illustrator",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Word Processor",
+      "option_b": "Power Point",
+      "option_c": "Adobe Photoshop",
+      "option_d": "Adobe Illustrator",
+      "correct": "খ",
+      "explanation": "ছবি সম্পাদনার জন্য এডোবি ফটোশপ ব্যবহার করা হয়। এডোবি ইলাস্ট্রেটরের প্রধান কাজ হলো অঙ্কন শিল্পের কাজ। ওয়ার্ড প্রসেসর দ্বারা যেকোনো শব্দকে প্রক্রিয়াকরণের কাজ করা হয়ে থাকে। প্রেজেন্টেশন স্লাইড উপস্থাপনার জন্য পাওয়ার পয়েন্ট ব্যবহার করা হয়ে থাকে।"
+    },
+    {
+      "number": "15",
+      "tag": "RB 25,BB 24",
+      "question": "ফটোশপে ফেদার ঘরে ২০ টাইপ করলে প্রান্তের নমনীয়তা কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১০",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "২০",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৩০",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৪০",
+          "is_correct": true
+        }
+      ],
+      "option_a": "১০",
+      "option_b": "২০",
+      "option_c": "৩০",
+      "option_d": "৪০",
+      "correct": "ঘ",
+      "explanation": "ফটোশপে ফেদার (Feather) হল একটি ফিচার যা নির্বাচনের প্রান্তগুলোকে মসৃণ বা নমনীয় করতে ব্যবহৃত হয়। যখন ফেদার ঘরে ২০ টাইপ করা হয়, তখন ওই নির্বাচনের প্রান্তের নমনীয়তা হয় ২০ পিক্সেল। উত্তর হবে:২০"
+    },
+    {
+      "number": "16",
+      "tag": "CTG.B 25,BB 24,BCPC 24",
+      "question": "ই-পাব (EPUB) ফরম্যাটে প্রকাশিত ই-বুকের সুবিধা হলো- i. কুইজে অংশগ্রহণ ii. নিজের নোট লেখা iii. শব্দের অর্থ জানা নিচের কোনটি সঠিক?'",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "ই-পাব (EPUB) বা ইলেকট্রনিক পাবলিকেশন হলো ই-বুকের একটি অত্যন্ত আধুনিক এবং ইন্টারেক্টিভ ফরম্যাট। সাধারণ পিডিএফ (PDF) ফাইলের তুলনায় ই-পাব ফরম্যাটে অনেক বেশি সুবিধা পাওয়া যায়। এর বৈশিষ্ট্যগুলো হলো: i. কুইজে অংশগ্রহণ: ই-পাব ফরম্যাটের বইগুলো কেবল পড়ার জন্য নয়, এতে মাল্টিমিডিয়া যুক্ত করা যায়। অনেক শিক্ষামূলক ই-বুকে অধ্যায় শেষে কুইজ থাকে, যেখানে পাঠক সরাসরি অংশগ্রহণ করতে পারে এবং সঠিক উত্তর যাচাই করতে পারে। ii. নিজের নোট লেখা: এই ফরম্যাটে পড়ার সময় কোনো নির্দিষ্ট লাইন বা অনুচ্ছেদে নিজস্ব মতামত বা Note লিখে রাখা যায় এবং প্রয়োজনীয় অংশ Highlight করা যায়। iii. শব্দের অর্থ জানা: ই-পাব রিডারগুলোতে বিল্ট-ইন ডিকশনারি বা শব্দকোষ থাকে। কোনো কঠিন শব্দের ওপর ক্লিক করলে বা সিলেক্ট করলে সাথে সাথেই তার অর্থ বা ব্যাখ্যা দেখে নেওয়া যায়।"
+    },
+    {
+      "number": "17",
+      "tag": "BB 24",
+      "question": "রেজিস্ট্রি ক্লিনআপ ব্যবহার না করার ফলে- i. যন্ত্রটি ঠিকভাবে কাজ করে না ii. যন্ত্রটি ধীরগতি হয়ে যায় iii. প্রসেসর নষ্ট হয়ে যায় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "রেজিস্ট্রি ক্লিনআপ সফটওয়্যারটি কম্পিউটারের অপারেটিং সিস্টেমের রেজিস্ট্রি ডেটাবেস পরিষ্কার করতে ব্যবহৃত হয়। এটি অপ্রয়োজনীয় এন্ট্রি এবং রেজিস্ট্রির অন্যান্য সমস্যা সমাধান করে, যা কম্পিউটার পারফরম্যান্সকে বাড়াতে সহায়ক হয়। রেজিস্ট্রি ক্লিনআপ না করার ফলে, i. যন্ত্রটি ঠিকভাবে কাজ করতে পারে না - কারণ রেজিস্ট্রি ত্রুটি বা অপ্রয়োজনীয় তথ্যের কারণে সিস্টেমের পারফরম্যান্স কমে যেতে পারে। ii. যন্ত্রটি ধীরগতি হয়ে যায় - যখন রেজিস্ট্রিতে ত্রুটি বা অপ্রয়োজনীয় তথ্য জমে থাকে, তখন সিস্টেমের পারফরম্যান্স কমে এবং এটি ধীর হয়ে যায়। সুতরাং, সঠিক উত্তর হবে: i ও ii"
+    },
+    {
+      "number": "18",
+      "tag": "BB 24",
+      "question": "Bullets and Number কোন মেনুতে থাকে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "HOME",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "INSERT",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "VIEW",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "FILE",
+          "is_correct": false
+        }
+      ],
+      "option_a": "HOME",
+      "option_b": "INSERT",
+      "option_c": "VIEW",
+      "option_d": "FILE",
+      "correct": "গ",
+      "explanation": "বুলেট এবং নম্বর দেয়ার জন্য Microsoft Word এ নিয়মিতভাবে HOME মেনু ব্যবহার করা হয়। এই মেনু থেকে আপনি আপনার ডকুমেন্টে বুলেট লিস্ট বা নম্বর লিস্ট যোগ করতে পারেন। সঠিক উত্তর: HOME"
+    },
+    {
+      "number": "19",
+      "tag": "BB 24",
+      "question": "ওয়ার্ড ২০০৭ চালু করার পর উইন্ডোর উপরের বাম কোণের আইকনটি হলো-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডকুমেন্ট আইকন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সেইভ আইকন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অফিস বাটন",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "হোম বাটন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ডকুমেন্ট আইকন",
+      "option_b": "সেইভ আইকন",
+      "option_c": "অফিস বাটন",
+      "option_d": "হোম বাটন",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "BB 24",
+      "question": "আফরিন ১০ম শ্রেণির শিক্ষার্থী। বিদ্যালয়ের বার্ষিক পুরস্কার বিতরণী অনুষ্ঠানে প্রধান শিক্ষক মনোদয় তাকে বিদ্যালয়ের সাংস্কৃতিক অনুষ্ঠানের একটি প্রেজেন্টেশন তৈরি করতে বললেন। আফরিন তার স্লাইডে অনেকগুলি ছবি যুক্ত করে ভিন্ন ভিন্ন প্রক্রিয়ায় স্লাইড প্রদর্শন করল। আফরিনের শেষ কাজটি করার সঠিক পদ্ধতি কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Animations → Background style → Entrance",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Animations → Background style → Add Effect",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Animations → Custom Animation →Add Effect",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Custom Animation→ Animations →Add Effect",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Animations → Background style → Entrance",
+      "option_b": "Animations → Background style → Add Effect",
+      "option_c": "Animations → Custom Animation →Add Effect",
+      "option_d": "Custom Animation→ Animations →Add Effect",
+      "correct": "ঘ",
+      "explanation": "আফরিন যদি তার স্লাইডের ছবিগুলোকে ভিন্ন ভিন্ন প্রক্রিয়ায় প্রদর্শন করতে চায়, তবে তাকে সঠিক পদ্ধতি অনুসরণ করতে হবে। স্লাইডের ছবিগুলোর উপর ভিন্ন ভিন্ন প্রক্রিয়ায় এনিমেশন প্রয়োগ করতে সাধারণত মাইক্রোসফট পাওয়ারপয়েন্ট বা স্লাইড তৈরির সফটওয়্যারে 'Custom Animation' এর ব্যবহার করা হয়। সঠিক পদ্ধতি হচ্ছে: Animation → Custom Animation → Add Effect অর্থাৎ, উত্তরটি হবে: option_c: Animations → Custom Animation → Add Effect"
+    },
+    {
+      "number": "21",
+      "tag": "BB 24",
+      "question": "আফরিন ১০ম শ্রেণির শিক্ষার্থী। বিদ্যালয়ের বার্ষিক পুরস্কার বিতরণী অনুষ্ঠানে প্রধান শিক্ষক মনোদয় তাকে বিদ্যালয়ের সাংস্কৃতিক অনুষ্ঠানের একটি প্রেজেন্টেশন তৈরি করতে বললেন। আফরিন তার স্লাইডে অনেকগুলি ছবি যুক্ত করে ভিন্ন ভিন্ন প্রক্রিয়ায় স্লাইড প্রদর্শন করল। আফনির তার কাজটি আকর্ষণীয় করার জন্য- i. ছবিগুলো সিলেক্ট করল ii. blinds, fly in, diamond ইত্যাদি পছন্দমত ইফেক্ট ব্যবহার করল iii. 'Apply to all' অপশন ব্যবহার করল নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "সঠিক উত্তর: ঘ ব্যাখ্যা:আফরিন তার প্রেজেন্টেশনকে আকর্ষণীয় করার জন্য স্লাইডে ছবি যুক্ত করেছে এবং ভিন্ন ভিন্ন প্রক্রিয়ায় স্লাইড প্রদর্শন করেছে। i. ছবিগুলো সিলেক্ট করল: প্রেজেন্টেশনে ছবি যুক্ত করার জন্য প্রথমে ছবিগুলো নির্বাচন করতে হয়। ii. blinds, fly in, diamond ইত্যাদি পছন্দমত ইফেক্ট ব্যবহার করল: এই ইফেক্টগুলো স্লাইড ট্রানজিশন বা অ্যানিমেশন ইফেক্ট, যা স্লাইড প্রদর্শনের সময় স্লাইড বা স্লাইডের উপাদানগুলোকে আকর্ষণীয়ভাবে উপস্থাপন করতে সাহায্য করে। iii. 'Apply to all' অপশন ব্যবহার করল: এই অপশনটি ব্যবহার করে একটি নির্দিষ্ট ইফেক্ট বা সেটিং সব স্লাইডে প্রয়োগ করা যায়, যা কাজকে দ্রুত ও সহজ করে তোলে। সুতরাং, আফরিন তার কাজটি আকর্ষণীয় করার জন্য উল্লিখিত তিনটি পদক্ষেপই গ্রহণ করেছে।"
+    },
+    {
+      "number": "22",
+      "tag": "BB 24",
+      "question": "এডাবি ইলাস্ট্রেটরে \"লিডিং” বলতে বোঝায়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অবজেক্টের প্রান্ত রেখা বা লাইনকে",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "লাইনগুলোর মাঝখানে ফাঁকা জায়গাকে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "লাইনগুলোর উপর-নিচের রেখা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "একটি মাত্র রেখাংশ বা সেগমেন্টকে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অবজেক্টের প্রান্ত রেখা বা লাইনকে",
+      "option_b": "লাইনগুলোর মাঝখানে ফাঁকা জায়গাকে",
+      "option_c": "লাইনগুলোর উপর-নিচের রেখা",
+      "option_d": "একটি মাত্র রেখাংশ বা সেগমেন্টকে",
+      "correct": "ক",
+      "explanation": "এডাবি ইলাস্ট্রেটরে \"লিডিং\" বলতে বোঝায় সাধারণত টেক্সট লাইনগুলোর মাঝখানে ফাঁকা জায়গাকে। এটি লাইন স্পেসিং এর জন্য ব্যবহৃত একটি টার্ম। অতএব, সঠিক উত্তরটি হবে: লাইনগুলোর মাঝখানে ফাঁকা জায়গাকে (অপশন B)"
+    },
+    {
+      "number": "23",
+      "tag": "BB 24",
+      "question": "কার্টুন কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ছবি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "এনিমেশন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ব্লগ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ভিডিও",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ছবি",
+      "option_b": "এনিমেশন",
+      "option_c": "ব্লগ",
+      "option_d": "ভিডিও",
+      "correct": "ঘ",
+      "explanation": "কার্টুন হলো এক ধরনের চিত্রকর্ম, যা সাধারণত ব্যঙ্গাত্মক বা হাস্যরসাত্মক উদ্দেশ্যে তৈরি করা হয়। এটি একটি ছবি বা ছবির ক্রম , যা কোনো ঘটনা, চরিত্র বা ধারণাকে উপস্থাপন করে। কার্টুন প্রায়শই সংবাদপত্র, ম্যাগাজিন, বা অ্যানিমেশন ফিল্মে দেখা যায়।"
+    },
+    {
+      "number": "24",
+      "tag": "BB 24",
+      "question": "অনেক জনবল বিশিষ্ট ব্যবসায় প্রতিষ্ঠানের DBMS কাজ করে- i. আয়কর হিসাব ও বিশ্লেষণে ii. ডেটার অনুলিপি রোধ করে iii. ব্যক্তিগত নথি তৈরিতে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "প্রায় সকল ব্যবসা প্রতিষ্ঠানেই ডেটাবেজ ম্যানেজমেন্ট সিস্টেম (DBMS) ব্যবহার করা হয়ে থাকে। এটি দ্বারা আয়কর হিসাব ও বিশ্লেষণ, নতুন রেকর্ড সংযোজন, ডেটা সংরক্ষণ, ব্যক্তিগত নথি তৈরি, রিপোর্ট তৈরি, ডেটার নিরাপত্তা নিশ্চিতকরণ, ডেটার অনুলিপি রোধ প্রভৃতি কাজ করা যায়।"
+    },
+    {
+      "number": "25",
+      "tag": "BB 24",
+      "question": "ওপাসিটি অর্থ কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রঙের পরিবর্তন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "রঙের গাঢ়ত্ব",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "হালকা রং",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "রং মেশানো",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রঙের পরিবর্তন",
+      "option_b": "রঙের গাঢ়ত্ব",
+      "option_c": "হালকা রং",
+      "option_d": "রং মেশানো",
+      "correct": "খ",
+      "explanation": "ওপাসিটি বলতে কোন কিছুর দৃশ্যমানতার উপর কতোটা অস্বচ্ছ বা সুস্পষ্ট তা বোঝানো হয়। এটি রঙের স্বচ্ছতা বা অস্বচ্ছতার মাত্রা নির্দেশ করে যা রঙের গাঢ়ত্ব বোঝাতে ব্যবহৃত হয়। তাই, ওপাসিটি রঙের গাঢ়ত্ব বোঝায়। সঠিক উত্তর: রঙের গাঢ়ত্ব"
+    }
+  ]
+}

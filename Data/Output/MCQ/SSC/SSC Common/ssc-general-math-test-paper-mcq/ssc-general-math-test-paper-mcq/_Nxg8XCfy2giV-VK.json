@@ -1,0 +1,1063 @@
+{
+  "read_id": "_Nxg8XCfy2giV-VK",
+  "title": "ময়মনসিংহ বোর্ড ২০২৫",
+  "count": 32,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "MB 25",
+      "question": "log ⁡ 2 1 4 \\log _{2} \\frac{1}{4} lo g 2 ​ 4 1 ​ এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 2 -2 − 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 2 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 2 -2 − 2",
+      "option_b": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "2 2 2",
+      "correct": "ক",
+      "explanation": "গণিতশাস্ত্রের নিয়ম অনুযায়ী, loga(b/c) = logab - logac এবং loga(a) = 1. এছাড়াও, loga(1/b) = -logab. সুতরাং, log2(1/4) = log2(1) - log2(4) = 0 - log2(22) = 0 - 2log2(2) = 0 - 21 = -2. অতএব, log2(1/4) = -2."
+    },
+    {
+      "number": "2",
+      "tag": "MB 25",
+      "question": "একটি রম্বসের- i. প্রতিসাম্য রেখা 2 টি ii. ঘূর্ণনকেন্দ্র কর্ণদ্বয়ের ছেদবিন্দু iii. ঘূর্ণন প্রতিসমতার কোণ 90° নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "রম্বসের জন্য সঠিক বিবৃতিগুলো হলো: i. প্রতিসাম্য রেখা 2টি এবং ii. ঘূর্ণনকেন্দ্র কর্ণদ্বয়ের ছেদবিন্দু। ঘূর্ণন প্রতিসমতার কোণ 90° সঠিক নয়, এটি 180° হবে। সুতরাং, সঠিক উত্তর হবে \"i ও ii\"। রম্বসের প্রতিসাম্য রেখা হলো দুটি কর্ণ। রম্বসের ঘূর্ণনকেন্দ্র হলো কর্ণদ্বয়ের ছেদবিন্দু। যখন একটি রম্বস 180° ঘোরানো হয়, তখন এটি তার মূল অবস্থানে ফিরে আসে, তাই এর ঘূর্ণন প্রতিসমতার কোণ 180°। অতএব, সঠিক উত্তর: i ও ii"
+    },
+    {
+      "number": "3",
+      "tag": "MB 25",
+      "question": "sin ⁡ A = 1 x \\sin A=\\frac{1}{x} sin A = x 1 ​ এবং cos ⁡ B = 1 y \\cos B=\\frac{1}{y} cos B = y 1 ​ . y = 2 y=\\sqrt{2} y = 2 ​ হলে cosec ⁡ 2 B − cos ⁡ 2 B \\operatorname{cosec}^{2} B-\\cos ^{2} B cosec 2 B − cos 2 B এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 3 2 \\frac{-3}{2} 2 − 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 2 \\frac{-1}{2} 2 − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 3 2 \\frac{-3}{2} 2 − 3 ​",
+      "option_b": "− 1 2 \\frac{-1}{2} 2 − 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "3 2 \\frac{3}{2} 2 3 ​",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত: sin ⁡ A = 1 x \\sin A = \\frac{1}{x} sin A = x 1 ​ , cos ⁡ B = 1 y \\cos B = \\frac{1}{y} cos B = y 1 ​ , y = 2 y = \\sqrt{2} y = 2 ​ তাহলে: cos ⁡ B = 1 2 ⇒ B = 45 ∘ ( বা π 4 ) \\cos B = \\frac{1}{\\sqrt{2}} \\Rightarrow B = 45^\\circ (\\text{বা} \\frac{\\pi}{4}) cos B = 2 ​ 1 ​ ⇒ B = 4 5 ∘ ( বা 4 π ​ ) এখন, cosec 2 B − cos ⁡ 2 B \\text{cosec}^2 B - \\cos^2 B cosec 2 B − cos 2 B = 1 sin ⁡ 2 B − cos ⁡ 2 B = \\frac{1}{\\sin^2 B} - \\cos^2 B = s i n 2 B 1 ​ − cos 2 B sin ⁡ B = 1 − cos ⁡ 2 B = 1 − 1 2 = 1 2 = 1 2 \\sin B = \\sqrt{1 - \\cos^2 B} = \\sqrt{1 - \\frac{1}{2}} = \\sqrt{\\frac{1}{2}} = \\frac{1}{\\sqrt{2}} sin B = 1 − cos 2 B ​ = 1 − 2 1 ​ ​ = 2 1 ​ ​ = 2 ​ 1 ​ তাহলে: cosec 2 B = 1 sin ⁡ 2 B = 1 1 2 = 2 \\text{cosec}^2 B = \\frac{1}{\\sin^2 B} = \\frac{1}{\\frac{1}{2}} = 2 cosec 2 B = s i n 2 B 1 ​ = 2 1 ​ 1 ​ = 2 cos ⁡ 2 B = 1 2 \\cos^2 B = \\frac{1}{2} cos 2 B = 2 1 ​ cosec ⁡ 2 B − cos ⁡ 2 B = 2 − 1 2 = 4 − 1 2 = 3 2 \\operatorname{cosec}^{2} B-\\cos ^{2} B=2-\\frac{1}{2}=\\frac{4-1}{2}=\\frac{3}{2} cosec 2 B − cos 2 B = 2 − 2 1 ​ = 2 4 − 1 ​ = 2 3 ​"
+    },
+    {
+      "number": "4",
+      "tag": "MB 25",
+      "question": "sin ⁡ A = 1 x \\sin A=\\frac{1}{x} sin A = x 1 ​ এবং cos ⁡ B = 1 y \\cos B=\\frac{1}{y} cos B = y 1 ​ . y = 2 y=\\sqrt{2} y = 2 ​ হলে cosec ⁡ 2 B − cos ⁡ 2 B \\operatorname{cosec}^{2} B-\\cos ^{2} B cosec 2 B − cos 2 B এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 3 2 \\frac{-3}{2} 2 − 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 2 \\frac{-1}{2} 2 − 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 3 2 \\frac{-3}{2} 2 − 3 ​",
+      "option_b": "− 1 2 \\frac{-1}{2} 2 − 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "3 2 \\frac{3}{2} 2 3 ​",
+      "correct": "খ",
+      "explanation": "প্রদত্ত: sin ⁡ A = 1 x \\sin A = \\frac{1}{x} sin A = x 1 ​ , cos ⁡ B = 1 y \\cos B = \\frac{1}{y} cos B = y 1 ​ , y = 2 y = \\sqrt{2} y = 2 ​ তাহলে: cos ⁡ B = 1 2 ⇒ B = 45 ∘ ( বা π 4 ) \\cos B = \\frac{1}{\\sqrt{2}} \\Rightarrow B = 45^\\circ (\\text{বা} \\frac{\\pi}{4}) cos B = 2 ​ 1 ​ ⇒ B = 4 5 ∘ ( বা 4 π ​ ) এখন, cosec 2 B − cos ⁡ 2 B \\text{cosec}^2 B - \\cos^2 B cosec 2 B − cos 2 B = 1 sin ⁡ 2 B − cos ⁡ 2 B = \\frac{1}{\\sin^2 B} - \\cos^2 B = s i n 2 B 1 ​ − cos 2 B sin ⁡ B = 1 − cos ⁡ 2 B = 1 − 1 2 = 1 2 = 1 2 \\sin B = \\sqrt{1 - \\cos^2 B} = \\sqrt{1 - \\frac{1}{2}} = \\sqrt{\\frac{1}{2}} = \\frac{1}{\\sqrt{2}} sin B = 1 − cos 2 B ​ = 1 − 2 1 ​ ​ = 2 1 ​ ​ = 2 ​ 1 ​ তাহলে: cosec 2 B = 1 sin ⁡ 2 B = 1 1 2 = 2 \\text{cosec}^2 B = \\frac{1}{\\sin^2 B} = \\frac{1}{\\frac{1}{2}} = 2 cosec 2 B = s i n 2 B 1 ​ = 2 1 ​ 1 ​ = 2 cos ⁡ 2 B = 1 2 \\cos^2 B = \\frac{1}{2} cos 2 B = 2 1 ​ cosec ⁡ 2 B − cos ⁡ 2 B = 2 − 1 2 = 4 − 1 2 = 3 2 \\operatorname{cosec}^{2} B-\\cos ^{2} B=2-\\frac{1}{2}=\\frac{4-1}{2}=\\frac{3}{2} cosec 2 B − cos 2 B = 2 − 2 1 ​ = 2 4 − 1 ​ = 2 3 ​"
+    },
+    {
+      "number": "5",
+      "tag": "MB 25",
+      "question": "একটি বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে বৃত্তে দুইটি স্পর্শক আঁকা হলে বৃত্তের কেন্দ্রস্থ কোণ 110 বহিঃস্থ বিন্দুতে উৎপন্ন কোণের মান কত ডিগ্রি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "70 ∘ 70^{\\circ} 7 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_b": "70 ∘ 70^{\\circ} 7 0 ∘",
+      "option_c": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_d": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "correct": "ক",
+      "explanation": "এখানে, ∠ O A C = ∠ O B C = 90 ∘ [উপপাদ্য-২৫] ∴ ∠ A O B = 360 ∘ − 110 ∘ − 2 × 90 ∘ = 70 ∘ \\begin{array}{l} \\angle O A C=\\angle O B C=90^{\\circ} \\text { [উপপাদ্য-২৫] } \\\\ \\therefore \\angle A O B=360^{\\circ}-110^{\\circ}-2 \\times 90^{\\circ} \\\\ =70^{\\circ} \\end{array} ∠ O A C = ∠ OBC = 9 0 ∘ [ উপপাদ্য - ২৫ ] ∴ ∠ A OB = 36 0 ∘ − 11 0 ∘ − 2 × 9 0 ∘ = 7 0 ∘ ​"
+    },
+    {
+      "number": "6",
+      "tag": "DIN.B 25",
+      "question": "2 a y = m 2 + n 2 m n \\frac{2 a}{y}=\\frac{m^{2}+n^{2}}{m n} y 2 a ​ = mn m 2 + n 2 ​ হলে a − y a + y = \\frac{\\sqrt{a-y}}{\\sqrt{a+y}}= a + y ​ a − y ​ ​ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "m − n m + n \\frac{m-n}{m+n} m + n m − n ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "m + n m − n \\frac{m+n}{m-n} m − n m + n ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "m − n m + n \\sqrt{\\frac{m-n}{m+n}} m + n m − n ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "m + n m − n \\sqrt{\\frac{m+n}{m-n}} m − n m + n ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "m − n m + n \\frac{m-n}{m+n} m + n m − n ​",
+      "option_b": "m + n m − n \\frac{m+n}{m-n} m − n m + n ​",
+      "option_c": "m − n m + n \\sqrt{\\frac{m-n}{m+n}} m + n m − n ​ ​",
+      "option_d": "m + n m − n \\sqrt{\\frac{m+n}{m-n}} m − n m + n ​ ​",
+      "correct": "খ",
+      "explanation": "2 a y = m 2 + n 2 m n ⇒ a y = m 2 + n 2 2 m n ⇒ a + y a − y = m 2 + 2 m n + n 2 m 2 − 2 m n + n 2 ⇒ a + y a − y = ( m + n ) 2 ( m − n ) 2 ⇒ a + y a − y = ( m + n ) 2 ( m − n ) 2 ⇒ a + y a − y = m + n m − n ⇒ a − y a + y = m − n m + n \\begin{aligned} & \\frac{2 a}{y}=\\frac{m^{2}+n^{2}}{m n} \\\\ \\Rightarrow & \\frac{a}{y}=\\frac{m^{2}+n^{2}}{2 m n} \\\\ \\Rightarrow & \\frac{a+y}{a-y}=\\frac{m^{2}+2 m n+n^{2}}{m^{2}-2 m n+n^{2}} \\\\ \\Rightarrow & \\frac{a+y}{a-y}=\\frac{(m+n)^{2}}{(m-n)^{2}} \\\\ \\Rightarrow & \\frac{\\sqrt{a+y}}{\\sqrt{a-y}}=\\sqrt{\\frac{(m+n)^{2}}{(m-n)^{2}}} \\\\ \\Rightarrow & \\frac{\\sqrt{a+y}}{\\sqrt{a-y}}=\\frac{m+n}{m-n} \\\\ \\Rightarrow & \\frac{\\sqrt{a-y}}{\\sqrt{a+y}}=\\frac{m-n}{m+n}\\end{aligned} ⇒ ⇒ ⇒ ⇒ ⇒ ⇒ ​ y 2 a ​ = mn m 2 + n 2 ​ y a ​ = 2 mn m 2 + n 2 ​ a − y a + y ​ = m 2 − 2 mn + n 2 m 2 + 2 mn + n 2 ​ a − y a + y ​ = ( m − n ) 2 ( m + n ) 2 ​ a − y ​ a + y ​ ​ = ( m − n ) 2 ( m + n ) 2 ​ ​ a − y ​ a + y ​ ​ = m − n m + n ​ a + y ​ a − y ​ ​ = m + n m − n ​ ​"
+    },
+    {
+      "number": "7",
+      "tag": "MB 25",
+      "question": "একটি দালান হতে 9 3 9\\sqrt{3} 9 3 ​ মিটার দূরে দালানের শীর্ষের অবনতি কোণ 30 ° \\degree ° হলে দালানের উচ্চতা কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 3 3 \\sqrt{3} 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9 3 9 \\sqrt{3} 9 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "36",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3 3 3 \\sqrt{3} 3 3 ​",
+      "option_b": "9",
+      "option_c": "9 3 9 \\sqrt{3} 9 3 ​",
+      "option_d": "36",
+      "correct": "ঘ",
+      "explanation": "tan ⁡ θ = h 9 3 tan ⁡ 30 ∘ = h 9 3 1 3 = h 9 3 h = 9 \\begin{array}{l}\\tan \\theta=\\frac{h}{9 \\sqrt{3}} \\\\ \\tan 30^{\\circ}=\\frac{h}{9 \\sqrt{3}} \\\\ \\frac{1}{\\sqrt{3}}=\\frac{h}{9 \\sqrt{3}} \\\\ h=9\\end{array} tan θ = 9 3 ​ h ​ tan 3 0 ∘ = 9 3 ​ h ​ 3 ​ 1 ​ = 9 3 ​ h ​ h = 9 ​"
+    },
+    {
+      "number": "8",
+      "tag": "MB 25",
+      "question": "11 2 11\\sqrt{2} 11 2 ​ সে.মি. ব্যাসের একটি বৃত্তে একটি চতুর্ভুজ অন্তর্লিখিত আছে। বৃত্তটির অর্ধপরিধি কত সে.মি. (প্রায়)?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "190.07",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "97.74",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "48.87",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24.44",
+          "is_correct": false
+        }
+      ],
+      "option_a": "190.07",
+      "option_b": "97.74",
+      "option_c": "48.87",
+      "option_d": "24.44",
+      "correct": "খ",
+      "explanation": "দেওয়া আছে বৃত্তের ব্যাস, d = 11 2 d=11 \\sqrt{2} d = 11 2 ​ সে.মি. ∴ \\therefore ∴ ব্যাসার্ধ, r = 11 2 2 r=\\frac{11 \\sqrt{2}}{2} r = 2 11 2 ​ ​ সে.মি. ∴ \\therefore ∴ অর্ধপরিধি = 2 π r 2 = π r = π × 11 2 2 =\\frac{2 \\pi r}{2}=\\pi r=\\pi \\times \\frac{11 \\sqrt{2}}{2} = 2 2 π r ​ = π r = π × 2 11 2 ​ ​ সে.মি. = 24.435 =24.435 = 24.435 সে.মি."
+    },
+    {
+      "number": "9",
+      "tag": "MB 25",
+      "question": "11 2 11\\sqrt{2} 11 2 ​ সে.মি. ব্যাসের একটি বৃত্তে একটি চতুর্ভুজ অন্তর্লিখিত আছে। অন্তর্লিখিত চতুর্ভুজটি একটি বর্গ হলে- i. কর্ণের দৈর্ঘ্য ​ সে.মি. ii. বাহুর দৈর্ঘ্য ​ সে.মি. iii. ক্ষেত্রফল বর্গসে.মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "বৃত্তে অন্তর্লিখিত বর্গের কর্নের দৈর্ঘ্য= বৃত্তের ব্যাস (i) কর্ণের দৈর্ঘ্য = 11 2 =11 \\sqrt{2} = 11 2 ​ সে.মি (ii) বাহুর দৈর্ঘ্য = কর্নের দৈর্ঘ্য 2 = 11 2 2 = 11 =\\frac{\\text { কর্নের দৈর্ঘ্য }}{\\sqrt{2}}=\\frac{11 \\sqrt{2}}{\\sqrt{2}}=11 = 2 ​ কর্নের দৈর্ঘ্য ​ = 2 ​ 11 2 ​ ​ = 11 সে.মি. (iii) ক্ষেত্রফল = (বাহুর দৈর্ঘ্য) 2 = (11) 2 = 121 বর্গ. সে.মি."
+    },
+    {
+      "number": "10",
+      "tag": "MB 25",
+      "question": "ইংরেজি বর্ণ O এর ঘূর্ণন কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0°",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "90°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "180°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "360°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0°",
+      "option_b": "90°",
+      "option_c": "180°",
+      "option_d": "360°",
+      "correct": "ক",
+      "explanation": "ইংরেজি বর্ণ O প্রতিসম (symmetric) — এটি ঘুরালেও একই থাকে। ঘূর্ণন প্রতিসমতা (rotational symmetry) অনুযায়ী, O কে যে কোনো কোণে ঘুরালেও এটি একই দেখায়। তবে সাধারণত ঘূর্ণন কোণ বলতে বোঝায় সর্বনিম্ন কোণ যত ডিগ্রি ঘুরালে আকৃতি একই থাকে। O-এর জন্য সর্বনিম্ন ঘূর্ণন কোণ = 1 ∘ 1^\\circ 1 ∘ থেকেই কাজ করলেও হয়, কিন্তু গণিতের দৃষ্টিকোণ থেকে: O-এর ঘূর্ণন প্রতিসমতার ক্রম (order of rotational symmetry) = অসীম (কোনো নির্দিষ্ট কোণে সীমিত নয়)। তবে বাস্তব প্রশ্নের প্রেক্ষিতে, O-এর ঘূর্ণন কোণ যেকোনো কোণ হতে পারে। সংক্ষিপ্ত উত্তর: 360"
+    },
+    {
+      "number": "11",
+      "tag": "MB 25",
+      "question": "প্রথম n সংখ্যক স্বাভাবিক সংখ্যার ঘনের সমষ্টি 441। নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 1 + 2 + 3 + (1+2 + 3+ ( 1 + 2 + 3 + … … … + n ) 2 = 441 +n)^{2}=441 + n ) 2 = 441",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 1 + 2 + 3 + (1+2+3+ ( 1 + 2 + 3 + … … … + n 2 ) = 441 \\left.+n^{2}\\right)=441 + n 2 ) = 441",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 2 + 2 2 + 3 2 + 1^{2}+2^{2}+3^{2}+ 1 2 + 2 2 + 3 2 + … … … + n 2 = 441 +n^{2}=441 + n 2 = 441",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 + 2 + 3 + 1+2+3+ 1 + 2 + 3 + … … … + n = 441 + n=441 + n = 441",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 1 + 2 + 3 + (1+2 + 3+ ( 1 + 2 + 3 + … … … + n ) 2 = 441 +n)^{2}=441 + n ) 2 = 441",
+      "option_b": "( 1 + 2 + 3 + (1+2+3+ ( 1 + 2 + 3 + … … … + n 2 ) = 441 \\left.+n^{2}\\right)=441 + n 2 ) = 441",
+      "option_c": "1 2 + 2 2 + 3 2 + 1^{2}+2^{2}+3^{2}+ 1 2 + 2 2 + 3 2 + … … … + n 2 = 441 +n^{2}=441 + n 2 = 441",
+      "option_d": "1 + 2 + 3 + 1+2+3+ 1 + 2 + 3 + … … … + n = 441 + n=441 + n = 441",
+      "correct": "খ",
+      "explanation": "n সংখ্যক স্বাভাবিক সংখ্যার ঘনের সমষ্টি =1 3 +2 3 +3 3 +…….n 3 = { n ( n + 1 ) 2 } n \\begin{array}{l} =\\left\\{\\frac{n(n+1)}{2}\\right\\}^{n} \\end{array} = { 2 n ( n + 1 ) ​ } n ​ আবার n সংখ্যক স্বাভাবিক সংখ্যার সমষ্টি =1+2+3+…………. n = n ( n + 1 ) 2 \\begin{array}{l} =\\frac{n(n+1)}{2} \\end{array} = 2 n ( n + 1 ) ​ ​ ( 1 + 2 + 3 + ⋯ n ) 2 = { n ( n + 1 ) 2 } 2 ( 1 + 2 + 3 + ⋯ n ) 2 = ( 1 3 + 2 3 + 3 3 + ⋯ n 3 ) \\begin{array}{l} (1+2+3+\\cdots n)^{2}=\\left\\{\\frac{ n(n+1)}{2}\\right\\}^{2} \\\\ (1+2+3+\\cdots n)^{2}=\\left(1^{3}+2^{3}+3^{3}+\\cdots n^{3}\\right) \\end{array} ( 1 + 2 + 3 + ⋯ n ) 2 = { 2 n ( n + 1 ) ​ } 2 ( 1 + 2 + 3 + ⋯ n ) 2 = ( 1 3 + 2 3 + 3 3 + ⋯ n 3 ) ​ প্রশ্নমতে, ( 1 + 2 + 3 + ⋯ n ) 2 = 441 (1+2+3+\\cdots n)^{2}=441 ( 1 + 2 + 3 + ⋯ n ) 2 = 441"
+    },
+    {
+      "number": "12",
+      "tag": "MB 25",
+      "question": "প্রথম n সংখ্যক স্বাভাবিক সংখ্যার ঘনের সমষ্টি 441। n এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "6",
+      "option_c": "7",
+      "option_d": "8",
+      "correct": "গ",
+      "explanation": "আমরা জানি, n n n সংখ্যক স্বাভাবিক সংখ্যার ঘনের সমষ্টি = { n ( n + 1 ) 2 } 2 =\\left\\{\\frac{n(n+1)}{2}\\right\\}^{2} = { 2 n ( n + 1 ) ​ } 2 শর্তমতে, { n ( n + 1 ) 2 } 2 = 441 \\left\\{\\frac{n(n+1)}{2}\\right\\}^{2}=441 { 2 n ( n + 1 ) ​ } 2 = 441 ⇒ n ( n + 1 ) 2 = 21 ⇒ n ( n + 1 ) = 42 ⇒ n 2 + n − 42 = 0 ⇒ n 2 + 7 n − 6 n − 42 = 0 ⇒ n ( n + 7 ) − 6 ( n + 7 ) = 0 ⇒ ( n + 7 ) ( n − 6 ) = 0 \\begin{array}{l} \\Rightarrow \\frac{n(n+1)}{2}=21 \\\\ \\Rightarrow n(n+1)=42 \\\\ \\Rightarrow n^{2}+n-42=0 \\\\ \\Rightarrow n^{2}+7 n-6 n-42=0 \\\\ \\Rightarrow n(n+7)-6(n+7)=0 \\\\ \\Rightarrow(n+7)(n-6)=0 \\end{array} ⇒ 2 n ( n + 1 ) ​ = 21 ⇒ n ( n + 1 ) = 42 ⇒ n 2 + n − 42 = 0 ⇒ n 2 + 7 n − 6 n − 42 = 0 ⇒ n ( n + 7 ) − 6 ( n + 7 ) = 0 ⇒ ( n + 7 ) ( n − 6 ) = 0 ​ η ≠ − 7 n = 6 \\eta \\neq-7 \\quad n=6 η  = − 7 n = 6"
+    },
+    {
+      "number": "13",
+      "tag": "CB 25",
+      "question": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সমকোণ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রবৃদ্ধ কোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সূক্ষ্মকোণ",
+      "option_b": "সমকোণ",
+      "option_c": "স্থূলকোণ",
+      "option_d": "প্রবৃদ্ধ কোণ",
+      "correct": "খ",
+      "explanation": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-স্থূলকোণ। স্থূলকোণ হলো সেই কোণ যা 90° এর চেয়ে বড় কিন্তু 180° এর চেয়ে ছোট। অন্যভাবে বলতে গেলে, এটি একটি সমকোণ (90°) এবং একটি সরলকোণ (180°) এর মধ্যেকার কোণ। উদাহরণস্বরূপ, ৯৫°, ১১০°, বা ১৭৫° এর মত কোণগুলো স্থূলকোণ।"
+    },
+    {
+      "number": "14",
+      "tag": "MB 25",
+      "question": "4, 8, 15, 0, 6, 4, 9, 12 উপাত্তগুলোর মধ্যক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "7",
+      "option_c": "8",
+      "option_d": "9",
+      "correct": "খ",
+      "explanation": "উপাজগুলোকে মানের ঊর্ধর্ব ক্রমানুসারে সাজিয়ে পাই, 0 , 4 , 4 , 6 , 8 , 9 , 12 , 15 ∴ মধ্যক = 6 + 8 2 = 14 2 = 7 \\begin{aligned} & 0,4,4,6,8,9,12,15 \\\\ \\therefore \\text { }^{} &মধ্যক =\\frac{6+8}{2}=\\frac{14}{2}=7\\end{aligned} ∴ ​ 0 , 4 , 4 , 6 , 8 , 9 , 12 , 15 মধ্যক = 2 6 + 8 ​ = 2 14 ​ = 7 ​"
+    },
+    {
+      "number": "15",
+      "tag": "MB 25",
+      "question": "4, 8, 15, 0, 6, 4, 9, 12 উপাত্তগুলোর মধ্যক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "7",
+      "option_c": "8",
+      "option_d": "9",
+      "correct": "ক",
+      "explanation": "উপাজগুলোকে মানের ঊর্ধর্ব ক্রমানুসারে সাজিয়ে পাই, 0 , 4 , 4 , 6 , 8 , 9 , 12 , 15 ∴ মধ্যক = 6 + 8 2 = 14 2 = 7 \\begin{aligned} & 0,4,4,6,8,9,12,15 \\\\ \\therefore \\text { }^{} &মধ্যক =\\frac{6+8}{2}=\\frac{14}{2}=7\\end{aligned} ∴ ​ 0 , 4 , 4 , 6 , 8 , 9 , 12 , 15 মধ্যক = 2 6 + 8 ​ = 2 14 ​ = 7 ​"
+    },
+    {
+      "number": "16",
+      "tag": "MB 25",
+      "question": "A = { 5 , a , b , c } A=\\{5, a, b, c\\} A = { 5 , a , b , c } এবং হয় তবে এর প্রকৃত উপসেট কতটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3",
+      "option_b": "7",
+      "option_c": "8",
+      "option_d": "15",
+      "correct": "ঘ",
+      "explanation": "A = { 5 , a , b , c } B = { 3 , c , d } A \\ B = { 5 , a , b , c } \\ { 3 , c , d } = { 5 , a , b } \\begin{aligned} A & =\\{5, a, b, c\\} \\\\ B & =\\{3, c, d\\} \\\\ A \\backslash B & =\\{5, a, b, c\\} \\backslash\\{3, c, d\\} \\\\ & =\\{5, a, b\\} \\end{aligned} A B A \\ B ​ = { 5 , a , b , c } = { 3 , c , d } = { 5 , a , b , c } \\ { 3 , c , d } = { 5 , a , b } ​ আমরা জানি কোন সেটের উপাদান সংখ্যা n হলে প্রকৃত উপসেট = 2 n − 1 = 2 3 − 1 = 7. \\begin{aligned} \\text { } \\text { } & =2^{n}-1 \\\\ & =2^{3}-1 \\\\ & =7 . \\end{aligned} ​ = 2 n − 1 = 2 3 − 1 = 7. ​ A \\ B A \\backslash B A \\ B এর প্রকৃত উপসেট = 7 টি"
+    },
+    {
+      "number": "17",
+      "tag": "MB 25",
+      "question": "0. 1 ˙ + 0.0 1 ˙ = কত? 0 . \\dot{1}+0.0 \\dot{1}=\\text { কত? } 0. 1 ˙ + 0.0 1 ˙ = কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "11 90 \\frac{11}{90} 90 11 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "11 99 \\frac{11}{99} 99 11 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 100 \\frac{1}{100} 100 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "11 100 \\frac{11}{100} 100 11 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "11 90 \\frac{11}{90} 90 11 ​",
+      "option_b": "11 99 \\frac{11}{99} 99 11 ​",
+      "option_c": "1 100 \\frac{1}{100} 100 1 ​",
+      "option_d": "11 100 \\frac{11}{100} 100 11 ​",
+      "correct": "গ",
+      "explanation": "0. 1 ˉ = 1 − 0 9 = 1 / 9 0.0 1 ˉ = 1 − 0 90 = 1 90 0. 1 ˉ + 0.0 1 ˉ = 1 / 9 + 1 / 90 = 10 + 1 90 = 11 90 \\begin{array}{l}0.\\bar{1}=\\frac{1-0}{9}=1 / 9 \\\\ 0.0\\bar{1}=\\frac{1-0}{90}=\\frac{1}{90} \\\\ \\begin{aligned} 0.\\bar{1}+0.0\\bar{1} & =1 / 9+1 / 90 \\\\ & =\\frac{10+1}{90}=\\frac{11}{90}\\end{aligned}\\end{array} 0. 1 ˉ = 9 1 − 0 ​ = 1/9 0.0 1 ˉ = 90 1 − 0 ​ = 90 1 ​ 0. 1 ˉ + 0.0 1 ˉ ​ = 1/9 + 1/90 = 90 10 + 1 ​ = 90 11 ​ ​ ​"
+    },
+    {
+      "number": "18",
+      "tag": "RB 25",
+      "question": "নিচের কোনটি অমূলদ সংখ্যা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0. 4 ˙ 0 . \\dot{4} 0. 4 ˙",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "25 64 \\sqrt{\\frac{25}{64}} 64 25 ​ ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8 64 3 \\sqrt[3]{\\frac{8}{64}} 3 64 8 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 3 \\sqrt{\\frac{25}{3}} 3 25 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0. 4 ˙ 0 . \\dot{4} 0. 4 ˙",
+      "option_b": "25 64 \\sqrt{\\frac{25}{64}} 64 25 ​ ​",
+      "option_c": "8 64 3 \\sqrt[3]{\\frac{8}{64}} 3 64 8 ​ ​",
+      "option_d": "25 3 \\sqrt{\\frac{25}{3}} 3 25 ​ ​",
+      "correct": "খ",
+      "explanation": "0. 4 ˙ 0 . \\dot{4} 0. 4 ˙ = 4 − 0 9 \\frac{4-0}{9} 9 4 − 0 ​ = 4 9 \\frac{4}{9} 9 4 ​ ; 25 64 \\sqrt{\\frac{25}{64}} 64 25 ​ ​ = 5 9 \\frac{5}{9} 9 5 ​ ; 8 64 3 \\sqrt[3]{\\frac{8}{64}} 3 64 8 ​ ​ = 2 4 = 1 2 \\frac{2}{4}=\\ \\frac{1}{2} 4 2 ​ = 2 1 ​ ∴ \\therefore ∴ 4 9 \\frac{4}{9} 9 4 ​ , 5 9 \\frac{5}{9} 9 5 ​ , 1 2 \\frac{1}{2} 2 1 ​ ভগ্নাংশ সংখ্যা। সকল পূর্ণসংখ্যা ও ভগ্নাংশই মূলদ সংখ্যা। কিন্তু 25 3 \\sqrt{\\frac{25}{3}} 3 25 ​ ​ = 5 3 \\frac{5}{\\sqrt{3}} 3 ​ 5 ​ একটি অমূলদ সংখ্যা। ( ∵ \\because ∵ পূর্ণবর্গ নয় এরূপ যে কোনো স্বাভাবিক সংখ্যার বর্গমূল কিংবা তার ভগ্নাংশ একটি অমূলদ সংখ্যা )"
+    },
+    {
+      "number": "19",
+      "tag": "MB 25",
+      "question": "m : n = 4 : 5 , n : l = 5 : 4 m: n=4: 5, n: l=5: 4 m : n = 4 : 5 , n : l = 5 : 4 হলে m : l m: l m : l কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20 : 25 20: 25 20 : 25",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "25 : 20 25: 20 25 : 20",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "20 : 20 20: 20 20 : 20",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16 : 25 16: 25 16 : 25",
+          "is_correct": true
+        }
+      ],
+      "option_a": "20 : 25 20: 25 20 : 25",
+      "option_b": "25 : 20 25: 20 25 : 20",
+      "option_c": "20 : 20 20: 20 20 : 20",
+      "option_d": "16 : 25 16: 25 16 : 25",
+      "correct": "ঘ",
+      "explanation": "m : n = 4 : 5 m n = 4 5 m n = 4 × 5 5 × 5 = 20 25 n : l = 5 : 4 n l = 5 × 5 4 × 5 n l = 25 20 m : n : l = 20 : 25 : 20 m : l = 20 : 20 \\begin{array}{l}m: n=4: 5 \\\\ \\frac{m}{n}=\\frac{4}{5} \\\\ \\frac{m}{n}=\\frac{4 \\times 5}{5 \\times 5}=\\frac{20}{25} \\\\ n: l=5: 4 \\\\ \\frac{n}{l}=\\frac{5 \\times 5}{4 \\times 5} \\\\ \\frac{n}{l}=\\frac{25}{20} \\\\ m: n: l=20: 25: 20 \\\\ m: l=20: 20\\end{array} m : n = 4 : 5 n m ​ = 5 4 ​ n m ​ = 5 × 5 4 × 5 ​ = 25 20 ​ n : l = 5 : 4 l n ​ = 4 × 5 5 × 5 ​ l n ​ = 20 25 ​ m : n : l = 20 : 25 : 20 m : l = 20 : 20 ​"
+    },
+    {
+      "number": "20",
+      "tag": "MB 25",
+      "question": "x + y = 13 x+y=\\sqrt{13} x + y = 13 ​ এবং x − y = 5 x-y=\\sqrt{5} x − y = 5 ​ হলে 2 x y = 2 x y= 2 x y = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "8",
+      "option_d": "18",
+      "correct": "ঘ",
+      "explanation": "x + y = 13 ; x − y = 5 2 x y = ( x + y ) 2 2 − ( x − y ) 2 2 = ( 13 ) 2 2 − ( 5 ) 2 2 = 13 2 − 5 2 = 8 2 = 4 \\begin{array}{l} x+y=\\sqrt{13} ; x-y=\\sqrt{5} \\\\ 2 x y= \\frac{(x+y)^{2}}{2}-\\frac{(x-y)^{2}}{2} \\\\ =\\frac{(\\sqrt{13})^{2}}{2}-\\frac{(\\sqrt{5})^{2}}{2} \\\\ =\\frac{13}{2}-\\frac{5}{2} \\\\ =\\frac{8}{2}=4\\end{array} x + y = 13 ​ ; x − y = 5 ​ 2 x y = 2 ( x + y ) 2 ​ − 2 ( x − y ) 2 ​ = 2 ( 13 ​ ) 2 ​ − 2 ( 5 ​ ) 2 ​ = 2 13 ​ − 2 5 ​ = 2 8 ​ = 4 ​"
+    },
+    {
+      "number": "21",
+      "tag": "MB 25",
+      "question": "f(x) এর একটি উৎপাদক (2x+5) হলে, নিচের কোনটির জন্য f(x) শূন্য হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "f ( − 5 ) f(-5) f ( − 5 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "f ( − 2 ) f(-2) f ( − 2 )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "f ( − 2 5 ) f\\left(\\frac{-2}{5}\\right) f ( 5 − 2 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "f ( − 5 2 ) f\\left(\\frac{-5}{2}\\right) f ( 2 − 5 ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "f ( − 5 ) f(-5) f ( − 5 )",
+      "option_b": "f ( − 2 ) f(-2) f ( − 2 )",
+      "option_c": "f ( − 2 5 ) f\\left(\\frac{-2}{5}\\right) f ( 5 − 2 ​ )",
+      "option_d": "f ( − 5 2 ) f\\left(\\frac{-5}{2}\\right) f ( 2 − 5 ​ )",
+      "correct": "খ",
+      "explanation": "f(x) এর একটি উৎপাদক (2x+5) হলে, f(-5/2) এর জন্য f(x) = 0 হবে।"
+    },
+    {
+      "number": "22",
+      "tag": "MB 25",
+      "question": "25 p 2 + 49 q 2 25 p^{2}+49 q^{2} 25 p 2 + 49 q 2 এর সাথে কত যোগ করলে যোগফল পূর্ণবর্গ রাশি হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 140 p q -140 p q − 140 pq",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 35 p q -35 p q − 35 pq",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "35 p q 35 pq 35 pq",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "70 p q 70 p q 70 pq",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 140 p q -140 p q − 140 pq",
+      "option_b": "− 35 p q -35 p q − 35 pq",
+      "option_c": "35 p q 35 pq 35 pq",
+      "option_d": "70 p q 70 p q 70 pq",
+      "correct": "ঘ",
+      "explanation": "25 p 2 + 49 q 2 = 25 p 2 + 70 p q + 49 q 2 = ( 5 p ) 2 + 2 ⋅ 5 p ⋅ 7 q + ( 7 q ) 2 = ( 5 p + 7 q ) 2 ; যা একটি পূর্ণবর্গ রাশি। উত্তর: 70 p q \\begin{array}{l}25 p^{2}+49 q^{2} \\\\ =25 p^{2}+70 p q+49 q^{2} \\\\ =(5 p)^{2}+2 \\cdot 5 p \\cdot 7 q+(7 q)^{2} \\\\ =(5 p+7 q)^{2} \\text {; যা একটি পূর্ণবর্গ রাশি। } \\\\ \\text { উত্তর: } 70 p q\\end{array} 25 p 2 + 49 q 2 = 25 p 2 + 70 pq + 49 q 2 = ( 5 p ) 2 + 2 ⋅ 5 p ⋅ 7 q + ( 7 q ) 2 = ( 5 p + 7 q ) 2 ; যা একটি পূর্ণবর্গ রাশি। উত্তর : 70 pq ​"
+    },
+    {
+      "number": "23",
+      "tag": "MB 25",
+      "question": "2 x = y + 2 2x=y+2 2 x = y + 2 সরলরেখাটির উপরস্থ বিন্দু কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(0, 2)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "(0, -2)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(1, -4)",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "(-4, -1)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(0, 2)",
+      "option_b": "(0, -2)",
+      "option_c": "(1, -4)",
+      "option_d": "(-4, -1)",
+      "correct": "গ",
+      "explanation": "যে বিন্দু দ্বারা 2 x = y + 2 2 x=y+2 2 x = y + 2 - রেখাটি সিদ্ধ হবে, সেই বিন্দুটি সরলরেখার উপরস্থ হবে। বিন্দুটি ( 0 , − 2 ) (0,-2) ( 0 , − 2 ) হলে , L S = 2 × 0 = 0 R S = − 2 + 2 = 0 L S = R S \\begin{array}{l} L S=2 \\times 0=0 \\\\ R S=-2+2=0 \\\\ L S=R S \\end{array} L S = 2 × 0 = 0 RS = − 2 + 2 = 0 L S = RS ​"
+    },
+    {
+      "number": "1",
+      "tag": "MB 25",
+      "question": "3 x − 3 + 1 = 0 \\sqrt{3x-3} + 1 = 0 3 x − 3 ​ + 1 = 0 সমীকরণের সমাধান সেট নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 3 4 } \\{ \\frac{3}{4} \\} { 4 3 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ 1 } \\{ 1 \\} { 1 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 4 3 } \\{ \\frac{4}{3} \\} { 3 4 ​ }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 3 } \\{ 3 \\} { 3 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ 3 4 } \\{ \\frac{3}{4} \\} { 4 3 ​ }",
+      "option_b": "{ 1 } \\{ 1 \\} { 1 }",
+      "option_c": "{ 4 3 } \\{ \\frac{4}{3} \\} { 3 4 ​ }",
+      "option_d": "{ 3 } \\{ 3 \\} { 3 }",
+      "correct": "গ",
+      "explanation": "অপশনে সঠিক উত্তর নেই। সঠিক উত্তর হবে { } \\{ \\} { } । কিন্তু প্রশ্নে '+1' এর স্থলে '-1' হলে সঠিক উত্তর হবে অপশন গ।"
+    },
+    {
+      "number": "2",
+      "tag": "MB 25",
+      "question": "sin ⁡ 3 A = csc ⁡ 3 A \\sin 3A = \\csc 3A sin 3 A = csc 3 A হলে, A A A -এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 ∘ 10^\\circ 1 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "15 ∘ 15^\\circ 1 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30 ∘ 30^\\circ 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60 ∘ 60^\\circ 6 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 ∘ 10^\\circ 1 0 ∘",
+      "option_b": "15 ∘ 15^\\circ 1 5 ∘",
+      "option_c": "30 ∘ 30^\\circ 3 0 ∘",
+      "option_d": "60 ∘ 60^\\circ 6 0 ∘",
+      "correct": "ক",
+      "explanation": "sin ⁡ 3 A = cosec ⁡ 3 A \\sin 3A = \\operatorname{cosec} 3A sin 3 A = cosec 3 A বা, sin ⁡ 3 A = 1 sin ⁡ 3 A \\text{বা, } \\sin 3A = \\frac{1}{\\sin 3A} বা , sin 3 A = s i n 3 A 1 ​ বা, sin ⁡ 2 3 A = 1 বা, sin ⁡ 3 A = 1 = sin ⁡ 90 ∘ \\text{বা, } \\sin^2 3A = 1 \\quad \\text{বা, } \\sin 3A = 1 = \\sin 90^\\circ বা , sin 2 3 A = 1 বা , sin 3 A = 1 = sin 9 0 ∘ বা, 3 A = 90 ∘ ∴ A = 30 ∘ \\text{বা, } 3A = 90^\\circ \\therefore A = 30^\\circ বা , 3 A = 9 0 ∘ ∴ A = 3 0 ∘"
+    },
+    {
+      "number": "3",
+      "tag": "MB 25",
+      "question": "△ A B C \\triangle ABC △ A BC -এ A C = B C AC = BC A C = BC এবং ∠ A = 25 ∘ \\angle A = 25^\\circ ∠ A = 2 5 ∘ হলে, ∠ A C B \\angle ACB ∠ A CB কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25 ∘ 25^\\circ 2 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "50 ∘ 50^\\circ 5 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "130 ∘ 130^\\circ 13 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "155 ∘ 155^\\circ 15 5 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "25 ∘ 25^\\circ 2 5 ∘",
+      "option_b": "50 ∘ 50^\\circ 5 0 ∘",
+      "option_c": "130 ∘ 130^\\circ 13 0 ∘",
+      "option_d": "155 ∘ 155^\\circ 15 5 ∘",
+      "correct": "গ",
+      "explanation": "ABC সমদ্বিবাহু ত্রিভুজে, ∠ C A B = ∠ C B A = 25 ∘ \\angle CAB= \\angle CBA = 25^\\circ ∠ C A B = ∠ CB A = 2 5 ∘ ∴ ∠ A C B = 180 ∘ − ( 25 ∘ + 25 ∘ ) = 130 ∘ \\therefore \\angle ACB = 180^\\circ -(25^\\circ +25^\\circ) = 130^\\circ ∴ ∠ A CB = 18 0 ∘ − ( 2 5 ∘ + 2 5 ∘ ) = 13 0 ∘"
+    },
+    {
+      "number": "4",
+      "tag": "MB 25",
+      "question": "a x = b y a^x = b^y a x = b y এর ক্ষেত্রে— i. log ⁡ a b x = 1 \\log_a b^x = 1 lo g a ​ b x = 1 ii. log ⁡ b a = x y \\log_b a = \\frac{x}{y} lo g b ​ a = y x ​ iii. log ⁡ a b = y x \\log_a b = \\frac{y}{x} lo g a ​ b = x y ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "MB 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: sin ⁡ A = 1 x \\sin A = \\frac{1}{x} sin A = x 1 ​ এবং cos ⁡ B = 1 y \\cos B = \\frac{1}{y} cos B = y 1 ​ 5.1. cot ⁡ A \\cot A cot A এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x − 1 \\sqrt{x-1} x − 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x 2 + 1 \\sqrt{x^2+1} x 2 + 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 − 1 \\sqrt{x^2-1} x 2 − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x + 1 \\sqrt{x+1} x + 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x − 1 \\sqrt{x-1} x − 1 ​",
+      "option_b": "x 2 + 1 \\sqrt{x^2+1} x 2 + 1 ​",
+      "option_c": "x 2 − 1 \\sqrt{x^2-1} x 2 − 1 ​",
+      "option_d": "x + 1 \\sqrt{x+1} x + 1 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "MB 25",
+      "question": "একটি সমদ্বিবাহু সমকোণী ত্রিভুজের সমান সমান বাহুদ্বয়ের প্রতিটির দৈর্ঘ্য 2 a 2a 2 a সে.মি. হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a 2 2 \\frac{a^2}{2} 2 a 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a 2 a^2 a 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 a 2 2a^2 2 a 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 a 2 4a^2 4 a 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "a 2 2 \\frac{a^2}{2} 2 a 2 ​",
+      "option_b": "a 2 a^2 a 2",
+      "option_c": "2 a 2 2a^2 2 a 2",
+      "option_d": "4 a 2 4a^2 4 a 2",
+      "correct": "ঘ",
+      "explanation": "নির্ণেয় ত্রিভুজের ক্ষেত্রফল = 1 2 × 2 a × 2 a = 2 a 2 =\\frac{1}{2} \\times 2a \\times 2a = 2a^2 = 2 1 ​ × 2 a × 2 a = 2 a 2"
+    },
+    {
+      "number": "7",
+      "tag": "MB 25",
+      "question": "4 সে.মি. বাহুবিশিষ্ট সমবাহু ত্রিভুজের উচ্চতা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 2\\sqrt{3} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 5 2\\sqrt{5} 2 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 3 4\\sqrt{3} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 2 5\\sqrt{2} 5 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 2\\sqrt{3} 2 3 ​",
+      "option_b": "2 5 2\\sqrt{5} 2 5 ​",
+      "option_c": "4 3 4\\sqrt{3} 4 3 ​",
+      "option_d": "5 2 5\\sqrt{2} 5 2 ​",
+      "correct": "ক",
+      "explanation": "সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য a একক হলে, উচ্চতা = 3 2 a = \\frac{\\sqrt{3}}{2} a = 2 3 ​ ​ a একক ∴ \\therefore ∴ নির্ণেয় সমবাহু ত্রিভুজটির উচ্চতা = 3 2 × 4 = 2 3 = \\frac{\\sqrt{3}}{2} \\times 4 = 2\\sqrt{3} = 2 3 ​ ​ × 4 = 2 3 ​ সে.মি."
+    },
+    {
+      "number": "8",
+      "tag": "MB 25",
+      "question": "( x + y , 6 ) = ( 6 , x − y ) (x + y, 6) = (6, x - y) ( x + y , 6 ) = ( 6 , x − y ) হলে, ( x , y ) (x, y) ( x , y ) নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(3, 3)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "(0, 6)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(12, 0)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(6, 0)",
+          "is_correct": true
+        }
+      ],
+      "option_a": "(3, 3)",
+      "option_b": "(0, 6)",
+      "option_c": "(12, 0)",
+      "option_d": "(6, 0)",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "MB 25",
+      "question": "8, 15, 4, 6, 0, 4, 10, 9 উপাত্তগুলোর গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5.6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7",
+      "option_b": "8",
+      "option_c": "9",
+      "option_d": "5.6",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

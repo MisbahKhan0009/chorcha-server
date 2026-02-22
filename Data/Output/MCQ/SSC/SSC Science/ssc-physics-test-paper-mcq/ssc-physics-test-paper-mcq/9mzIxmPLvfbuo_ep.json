@@ -1,0 +1,832 @@
+{
+  "read_id": "9mzIxmPLvfbuo_ep",
+  "title": "ঢাকা বোর্ড ২০২১",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CTG.B 23,MB 22,SB 22,DB 21",
+      "question": "কোনটি স্কেলার রাশি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বেগ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্রুতি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "সরণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ত্বরণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বেগ",
+      "option_b": "দ্রুতি",
+      "option_c": "সরণ",
+      "option_d": "ত্বরণ",
+      "correct": "খ",
+      "explanation": "সঠিক উত্তর: দ্রুতি স্কেলার রাশি হলো সেই ধরনের রাশি যা শুধুমাত্র নিট পরিমাণের মধ্যে সীমাবদ্ধ থাকে এবং কোন দিক নির্দেশ করে না। বেগ একটি ভেক্টর রাশি, যা একটি নির্দিষ্ট দিক নির্দেশ করে। সরণ একটি ভেক্টর রাশি, যা দিক নির্দেশ করে। ত্বরণ ভেক্টর রাশি, যারও দিক আছে। অতএব, দ্রুতি একটি স্কেলার রাশি, যা শুধুমাত্র পরিমাণের মধ্যেই সীমাবদ্ধ থাকে এবং কোন দিক নির্দেশ করে না। এরপরে স্কেলার রাশির উদাহরণ দেওয়া হলে তা হলো বুলি, যেমনঃ তাপমাত্রা, সময়, ভর।"
+    },
+    {
+      "number": "2",
+      "tag": "DIN.B 22,CTG.B 22 ,SB 22,DB 21,CTG.B 21",
+      "question": "নিচের কোনটির পরিবাহকত্ব বেশি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বাতাস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "হীরা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "গ্রাফাইট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সোনা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বাতাস",
+      "option_b": "হীরা",
+      "option_c": "গ্রাফাইট",
+      "option_d": "সোনা",
+      "correct": "ঘ",
+      "explanation": "নির্দিষ্ট পদার্থের পরিবাহকত্ব নির্ণয়ের ক্ষেত্রে তার অ্যাটম স্ট্রাকচার এবং ইলেকট্রন বিন্যাসের ভূমিকা থাকে। সাধারণত ধাতব পদার্থের পরিবাহকত্ব অধিকতর হয় কারণ তাদের ইলেকট্রনের চলাচল সহজতর। গ্রাফাইট একটি অ-ধাতব পদার্থ হলেও এর ভিন্নরকম ক্রিস্টাল স্ট্রাকচার (যেখানে কার্বনগুলি লেয়ারের মত বিন্যস্ত থাকে এবং ইলেকট্রনগুলোর সহজে চলাচল করতে পারে) থাকার কারণে পরিবাহকত্ব বেশি। সোনা একটি ধাতব পদার্থ এবং এর পরিবাহকত্ব অনেক বেশি। তাছাড়া যাদের আপেক্ষিক রোধ কম তাদের পরিবাহকত্ব বেশি কেননা পরিবাহকত্ব আপেক্ষিক রোধের ব্যাস্তনুপাতিক তাই, এই বিকল্পগুলোর মধ্যে সোনা (Gold) সবচেয়ে বেশি পরিবাহী। সঠিক উত্তর: সোনা।"
+    },
+    {
+      "number": "3",
+      "tag": "NIS 24,DB 21",
+      "question": "কত বর্গ কিলোমিটার এলাকায় সূর্যের আলো থেকে তাপ হিসেবে প্রায় 5000 MW শক্তি পাওয়া যাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5000",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1000",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "500",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "5000",
+      "option_c": "1000",
+      "option_d": "500",
+      "correct": "ক",
+      "explanation": "আমরা জানি, এক বর্গ কি.মি. এলাকায় সূর্যের আলো থেকে তাপ হিসেবে প্রায় 1000 MW শক্তি পাওয়া যায়। 1000 MW শক্তি পাওয়া যায় 1 বর্গ কি.মি. এলাকায় ∴ 1 M W \\therefore 1 \\mathrm{MW} ∴ 1 MW শক্তি পাওয়া যায় 1 1000 \\frac{1}{1000} 1000 1 ​ বর্গ কি.মি. এলাকায় ∴ 5000 M W \\therefore 5000 \\mathrm{MW} ∴ 5000 MW শক্তি পাওয়া যায় 1 × 5000 1000 \\frac{1 \\times 5000}{1000} 1000 1 × 5000 ​ বর্গ কি.মি. এলাকায় = 5 =5 = 5 বর্গ কি.মি. এলাকায়"
+    },
+    {
+      "number": "4",
+      "tag": "DB 21",
+      "question": "নিচের কোনটি শক্তির একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "k g m s − 1 \\mathrm{kgms}^{-1} kgms − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "k g m − 2   s \\mathrm{kgm}^{-2} \\mathrm{~s} kgm − 2   s",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "k g m 2   s − 2 \\mathrm{kgm}^{2} \\mathrm{~s}^{-2} kgm 2   s − 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "J k g − 1   K − 1 \\mathrm{Jkg}^{-1} \\mathrm{~K}^{-1} Jkg − 1   K − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "k g m s − 1 \\mathrm{kgms}^{-1} kgms − 1",
+      "option_b": "k g m − 2   s \\mathrm{kgm}^{-2} \\mathrm{~s} kgm − 2   s",
+      "option_c": "k g m 2   s − 2 \\mathrm{kgm}^{2} \\mathrm{~s}^{-2} kgm 2   s − 2",
+      "option_d": "J k g − 1   K − 1 \\mathrm{Jkg}^{-1} \\mathrm{~K}^{-1} Jkg − 1   K − 1",
+      "correct": "গ",
+      "explanation": "কাজ করার সামর্থ্যকে শক্তি বলে। কাজের এককই শক্তির একক। আমরা জানি,  কাজ  =  বল  ×  সরণ  =  ভর  ×  ত্বরণ  ×  সরণ  [ ∴  বল  =  ভর  ×  ত্বরণ  ] =  ভর  ×  বেগ   সময়  ×  সরণ  [ ∴  ত্বরণ  =  বেগ   সময়  ] =  ভর  ×  সরণ  /  সময়   সময়  ×  সরণ  [ ∴  বেগ  =  সরণ   সময়  ] =  ভর  ×  সরণ   সময়  ×  সরণ  \\begin{aligned} \\text { কাজ } & =\\text { বল } \\times \\text { সরণ } \\\\ & =\\text { ভর } \\times \\text { ত্বরণ } \\times \\text { সরণ }[\\therefore \\text { বল }=\\text { ভর } \\times \\text { ত্বরণ }] \\\\ & =\\text { ভর } \\times \\frac{\\text { বেগ }}{\\text { সময় }} \\times \\text { সরণ }\\left[\\therefore \\text { ত্বরণ }=\\frac{\\text { বেগ }}{\\text { সময় }}\\right] \\\\ & =\\text { ভর } \\times \\frac{\\text { সরণ } / \\text { সময় }}{\\text { সময় }} \\times \\text { সরণ }\\left[\\therefore \\text { বেগ }=\\frac{\\text { সরণ }}{\\text { সময় }}\\right] \\\\ & =\\text { ভর } \\times \\frac{\\text { সরণ }}{\\text { সময় }} \\times \\text { সরণ } \\end{aligned}   কাজ   ​ =   বল   ×   সরণ   =   ভর   ×   ত্বরণ   ×   সরণ   [ ∴   বল   =   ভর   ×   ত্বরণ   ] =   ভর   ×   সময়     বেগ   ​ ×   সরণ   [ ∴   ত্বরণ   =   সময়     বেগ   ​ ] =   ভর   ×   সময়     সরণ   /   সময়   ​ ×   সরণ   [ ∴   বেগ   =   সময়     সরণ   ​ ] =   ভর   ×   সময়     সরণ   ​ ×   সরণ   ​ ∴ \\therefore ∴ শক্তির একক = = = কাজের একক = k g × m s 2 × m =\\mathrm{kg} \\times \\frac{m}{s^{2}} \\times \\mathrm{m} = kg × s 2 m ​ × m [প্রত্যেকের একক বসিয়ে] = k g m 2   s − 2 \\mathrm{kgm}^{2} \\mathrm{~s}^{-2} kgm 2   s − 2"
+    },
+    {
+      "number": "5",
+      "tag": "DB 21",
+      "question": "থার্মোকাপলে দুটি ভিন্ন ধাতব পদার্থের সংযোগস্থলে তাপ প্রদান করে সরাসরি কোন শক্তি উৎপাদন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "যান্ত্রিক শক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আলোক শক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বিদ্যুৎ শক্তি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ভূতাপীয় শক্তি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "যান্ত্রিক শক্তি",
+      "option_b": "আলোক শক্তি",
+      "option_c": "বিদ্যুৎ শক্তি",
+      "option_d": "ভূতাপীয় শক্তি",
+      "correct": "গ",
+      "explanation": "পরিমাণের দিক থেকে বিবেচনা করলে নিঃসন্দেহে পৃথিবীতে সবচেয়ে বেশি শক্তির রূপান্তর হয় তাপশক্তি থেকে। যাবতীয় যন্ত্রের যাবতীয় ইঞ্জিনে তাপশক্তিকে যান্ত্রিক শক্তিতে রূপান্তর করা হয়। থার্মোকাপলে (Thermocouple) দুটি ভিন্ন ধাতব পদার্থের সংযোগস্থলে তাপ প্রদান করে সরাসরি তাপ থেকে বিদ্যুৎ উৎপাদনের উদাহরণ থাকলেও প্রকৃত পক্ষে প্রায় সবক্ষেত্রেই তাপশক্তি থেকে যান্ত্রিক শক্তি এবং যান্ত্রিক শক্তি দিয়ে বিদ্যুৎ শক্তি তৈরি করা হয়। (পরিবেশ রক্ষা করার জন্য আমরা আজকাল শক্তির অপচয় করতে চাই না। তাই তাপ দিয়ে আলো তৈরি হয় সে রকম লাইট বাল্ব ব্যবহার না করে আজকাল বেশি বিদ্যুৎসাশ্রয়ী বাল্ব ব্যবহার করা হয়।) আমরা মোমবাতির শিখায় রাসায়নিক শক্তিতে সৃষ্ট তাপের কারণে উত্তপ্ত গ্যাসের কণা বা বাল্বের ফিলামেন্টে তাপকে আলোক শক্তিতে রূপান্তরিত হতে দেখি।"
+    },
+    {
+      "number": "6",
+      "tag": "DB 21,DIN.B 21",
+      "question": "সাধারণ আয়নায় প্রতিবিম্ব ডান-বাম অবিকৃত রাখতে হলে দুটি আয়নাকে কত কোণে রাখতে হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90°",
+          "is_correct": true
+        }
+      ],
+      "option_a": "30°",
+      "option_b": "45°",
+      "option_c": "60°",
+      "option_d": "90°",
+      "correct": "ঘ",
+      "explanation": "দুইটি আয়নাকে 90° ডিগ্রী কোণে যুক্ত করে একটি আয়না হিসেবে গঠন করলে তাতে প্রতিবিম্বের পার্শ্ব পরিবর্তন বুঝা যাবে না। কারন পরস্পর লম্বভাবে থাকা আয়নায় আলো পর পর দুইবার প্রতিফলিত হয়। ১ম আয়নায় প্রতিফলনের ফলে আলোর দিক উল্টে যায়। অর্থাৎ বাম দিক ডান এ পরিনত হয়। আবার এই দিক পরিবর্তিত আলো ২য় আয়নার প্রতিফলিত হয়ে আরেকবার একইভাবে দিক উল্টে যেয়ে আগের মতো সোজা অবস্থায় ফিরে আসে। অর্থাৎ যে বাম দিক ডান এ পরিণত হয়েছিল সে আবার বাম এ পরিণত হয়।"
+    },
+    {
+      "number": "7",
+      "tag": "DB 21",
+      "question": "কোন আলোতে চোখের সংবেদনশীলতা সবচেয়ে বেশি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নীল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বেগুনি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সবুজ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "লাল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নীল",
+      "option_b": "বেগুনি",
+      "option_c": "সবুজ",
+      "option_d": "লাল",
+      "correct": "গ",
+      "explanation": "550 nm তরঙ্গ দৈর্ঘ্য বিশিষ্ট আলোর সংবেদনশীলতা সবচেয়ে বেশী। সবুজ রঙের তরঙ্গ দৈর্ঘ্য = (500-575)nm"
+    },
+    {
+      "number": "8",
+      "tag": "DB 21",
+      "question": "ভার্নিয়ার স্কেলের ও 3 নং দাগটি মূল স্কেলের 13 নং দাগের সাথে মিলে যায়, ভার্নিয়ার সমপাতন কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "10",
+      "option_c": "13",
+      "option_d": "16",
+      "correct": "ক",
+      "explanation": "ভার্নিয়ার স্কেলে, ভার্নিয়ারের যে দাগটি মূল স্কেলের সাথে মিলে যায় সেটি ভার্নিয়ার সমপাতন নির্দেশ করে। এখানে বলা হয়েছে ভার্নিয়ার স্কেলের 3 নম্বর দাগটি মূল স্কেলের 13 নম্বর দাগের সাথে মিলে যায়। সুতরাং, ভার্নিয়ার সমপাতন হবে 3। উত্তর: (a) 3"
+    },
+    {
+      "number": "9",
+      "tag": "DB 21",
+      "question": "চিহ্নটি নিচের কোনটি নির্দেশ করে",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ব্যাটারি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কোষ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ধারক",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সংযোগহীন তার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ব্যাটারি",
+      "option_b": "কোষ",
+      "option_c": "ধারক",
+      "option_d": "সংযোগহীন তার",
+      "correct": "গ",
+      "explanation": "—| |— ইলেকট্রনিক সার্কিটে —| |— চিহ্নটি একটি অ-পোলারাইজড (Non-Polarized) ধারক নির্দেশ করে। এটি দুটি সমান্তরাল রেখা দ্বারা গঠিত, যা ধারকের দুটি প্লেট এবং মধ্যবর্তী ডাইইলেকট্রিক (অস্তরক) উপাদানকে প্রতীকীভাবে দেখায়।"
+    },
+    {
+      "number": "10",
+      "tag": "HC 24,RCS 24,DB 21",
+      "question": "কোনো গোলীয় দর্পণে রৈখিক বিবর্ধন 0.5 এবং বস্তুর দৈর্ঘ্য 2 m হলে বিম্বের দৈর্ঘ্য কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.5 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 m",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 m",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.5 m",
+      "option_b": "1 m",
+      "option_c": "2 m",
+      "option_d": "4 m",
+      "correct": "খ",
+      "explanation": "রৈখিক বিবর্ধনের সৃত্র: M = l i l o M=\\frac{l_{i}}{l_{o}} M = l o ​ l i ​ ​ এখানে, M = 0.5 M=0.5 M = 0.5 (রৈখিক বিবর্ধন) l o = 2   m l_{o}=2 \\mathrm{~m} l o ​ = 2   m (বস্তুর দৈর্ঘ্য) বিম্বের দৈর্ঘ্য ( l i ) \\left(l_{i}\\right) ( l i ​ ) হবে: l i = M × l o = 0.5 × 2 = 1   m l_{i}=M \\times l_{o}=0.5 \\times 2=1 \\mathrm{~m} l i ​ = M × l o ​ = 0.5 × 2 = 1   m"
+    },
+    {
+      "number": "11",
+      "tag": "CB 22,DB 21",
+      "question": "1 kW মোটর ব্যবহার করে 15 s এ 100 kg ভরের বস্তুকে 10 m উপরে তোলা হলে শক্তির অপচয় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9800 J",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5200 J",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1500 J",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1000 J",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9800 J",
+      "option_b": "5200 J",
+      "option_c": "1500 J",
+      "option_d": "1000 J",
+      "correct": "খ",
+      "explanation": "মোটরের প্রদত্ত শক্তি (Input Energy) নির্ণয় মোটরের ক্ষমতা, P = 1  kW = 1000  W P = 1 \\text{ kW} = 1000 \\text{ W} P = 1  kW = 1000  W সময়, t = 15  s t = 15 \\text{ s} t = 15  s প্রদত্ত মোট শক্তি, E i n = P × t = 1000 × 15 = 15000  J E_{in} = P \\times t = 1000 \\times 15 = 15000 \\text{ J} E in ​ = P × t = 1000 × 15 = 15000  J কার্যকর শক্তি বা কৃতকাজ (Output Energy) নির্ণয় বস্তুর ভর, m = 100  kg m = 100 \\text{ kg} m = 100  kg উচ্চতা, h = 10  m h = 10 \\text{ m} h = 10  m অভিকর্ষজ ত্বরণ, g = 9.8  ms − 2 g = 9.8 \\text{ ms}^{-2} g = 9.8  ms − 2 কার্যকর বিভব শক্তি, E o u t = m g h = 100 × 9.8 × 10 = 9800  J E_{out} = mgh = 100 \\times 9.8 \\times 10 = 9800 \\text{ J} E o u t ​ = m g h = 100 × 9.8 × 10 = 9800  J শক্তির অপচয় নির্ণয় শক্তির অপচয় = প্রদত্ত মোট শক্তি – কার্যকর শক্তি Energy Loss = E i n − E o u t \\text{Energy Loss} = E_{in} - E_{out} Energy Loss = E in ​ − E o u t ​ Energy Loss = 15000  J − 9800  J \\text{Energy Loss} = 15000 \\text{ J} - 9800 \\text{ J} Energy Loss = 15000  J − 9800  J Energy Loss = 5200  J \\text{Energy Loss} = 5200 \\text{ J} Energy Loss = 5200  J"
+    },
+    {
+      "number": "12",
+      "tag": "DB 21",
+      "question": "1 2 m v 2 \\frac{1}{2} \\mathbf{m v}^{2} 2 1 ​ mv 2 কে নিচের কোন রূপে লেখা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "m u 2 + W \\mathrm{mu}^{2}+\\mathrm{W} mu 2 + W",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 m u 2 + 2   W \\frac{1}{2} m u^{2}+2 \\mathrm{~W} 2 1 ​ m u 2 + 2   W",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 m u 2 + W \\frac{1}{2} m u^{2}+\\mathrm{W} 2 1 ​ m u 2 + W",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 m u 2 + 1 2   W \\frac{1}{2} m u^{2}+\\frac{1}{2} \\mathrm{~W} 2 1 ​ m u 2 + 2 1 ​   W D",
+          "is_correct": false
+        }
+      ],
+      "option_a": "m u 2 + W \\mathrm{mu}^{2}+\\mathrm{W} mu 2 + W",
+      "option_b": "1 2 m u 2 + 2   W \\frac{1}{2} m u^{2}+2 \\mathrm{~W} 2 1 ​ m u 2 + 2   W",
+      "option_c": "1 2 m u 2 + W \\frac{1}{2} m u^{2}+\\mathrm{W} 2 1 ​ m u 2 + W",
+      "option_d": "1 2 m u 2 + 1 2   W \\frac{1}{2} m u^{2}+\\frac{1}{2} \\mathrm{~W} 2 1 ​ m u 2 + 2 1 ​   W D",
+      "correct": "গ",
+      "explanation": "1 2 m v 2 = 1 2 m ( u 2 + 2 g h ) = 1 2 m u 2 + 1 2 m ⋅ 2 g h = 1 2 m u 2 + m g h = 1 2 m u 2 + W \\begin{array}{l}\\frac{1}{2} m v^{2} \\\\ =\\frac{1}{2} m\\left(u^{2}+2 g h\\right) \\\\ =\\frac{1}{2} m u^{2}+\\frac{1}{2} m \\cdot 2 g h \\\\ =\\frac{1}{2} m u^{2}+m g h \\\\ =\\frac{1}{2} m u^{2}+W \\end{array} 2 1 ​ m v 2 = 2 1 ​ m ( u 2 + 2 g h ) = 2 1 ​ m u 2 + 2 1 ​ m ⋅ 2 g h = 2 1 ​ m u 2 + m g h = 2 1 ​ m u 2 + W ​"
+    },
+    {
+      "number": "13",
+      "tag": "DB 21",
+      "question": "প্রধান স্কেলের পাঠ 12 mm, ভার্নিয়ার সমপাতন 7 এবং ভার্নিয়ার ধ্রুবক 0.10 mm হলে পাঠ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.27 mm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12.7 cm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1.27 cm",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1.29 mm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.27 mm",
+      "option_b": "12.7 cm",
+      "option_c": "1.27 cm",
+      "option_d": "1.29 mm",
+      "correct": "গ",
+      "explanation": "প্রধান স্কেলের পাঠ 12 mm 12 \\, \\text{mm} 12 mm . ভর্ণিয়ারের সমাপতন 7 7 7 . ভর্ণিয়ার ধ্রুবক 0.10 mm 0.10 \\, \\text{mm} 0.10 mm . পাঠ নির্ণয় করতে: পাঠ = ( প্রধান স্কেল + ভর্ণিয়ার সমাপতন × ভর্ণিয়ার ধ্রুবক ) \\text{পাঠ} = (\\text{প্রধান স্কেল} + \\text{ভর্ণিয়ার সমাপতন} \\times \\text{ভর্ণিয়ার ধ্রুবক}) পাঠ = ( প্রধান   স্কেল + ভর্ণিয়ার   সমাপতন × ভর্ণিয়ার   ধ্রুবক ) = 12 mm + ( 7 × 0.10 mm ) = 12 \\, \\text{mm} + (7 \\times 0.10 \\, \\text{mm}) = 12 mm + ( 7 × 0.10 mm ) = 12 mm + 0.70 mm = 12 \\, \\text{mm} + 0.70 \\, \\text{mm} = 12 mm + 0.70 mm = 12.70 mm = 12.70 \\, \\text{mm} = 12.70 mm = 1.27 cm = 1.27 \\, \\text{cm} = 1.27 cm সঠিক উত্তর হলো: 1.27 cm \\text{1.27 cm} 1.27 cm (অপশন C) ( mm ও cm দেখে উত্তরে যাচাই করতে হবে)"
+    },
+    {
+      "number": "14",
+      "tag": "RCC 24,CPSCR 24,DB 21",
+      "question": "একটি স্ক্রুগজের বৃত্তাকার স্কেলের ভাগসংখ্যা a, ন্যূনাঙ্ক b এবং স্ক্রুর পিচ c হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "abc = 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "c = ab",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "a = bc",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "b = ac",
+          "is_correct": false
+        }
+      ],
+      "option_a": "abc = 1",
+      "option_b": "c = ab",
+      "option_c": "a = bc",
+      "option_d": "b = ac",
+      "correct": "খ",
+      "explanation": "এখানে, একটি স্ক্রুগজের পিচকে c c c দ্বারা, বৃত্তাকার স্কেলের ভাগসংখ্যা a a a দ্বারা এবং ন্যূনাঙ্ককে b b b দ্বারা প্রকাশ করা হয়েছে। স্ক্রুগজের সূত্র অনুসারে: ন্যূনাঙ্ক=পিচ/ বৃত্তাকার স্কেলের ভাগ সংখ্যা পিচ=ন্যূনাঙ্ক× বৃত্তাকারী স্কুলের ভাগ সংখ্যা c=b×a c=ab অতএব, সঠিক উত্তরে হবে: c = a b c = ab c = ab সুতরাং, সঠিক উত্তরটি হল বিকল্প B ."
+    },
+    {
+      "number": "15",
+      "tag": "DB 21",
+      "question": "চিত্র: কোনো একটি বস্তুর সময়ের সাথে বেগের পরিবর্তন। প্রথম 5 সেকেন্ডে বেগ বৃদ্ধির হার কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.5 m/s²",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 m/s²",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 m/s²",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10 m/s²",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.5 m/s²",
+      "option_b": "2 m/s²",
+      "option_c": "5 m/s²",
+      "option_d": "10 m/s²",
+      "correct": "খ",
+      "explanation": "প্রথম 5 সেকেন্তে বেগ বৃদ্ধির হার- a = V t = 10 − 0 5 − 0 = 2 m s − 2 a=\\frac{V}{t}=\\frac{10-0}{5-0}=2 m s^{-2} a = t V ​ = 5 − 0 10 − 0 ​ = 2 m s − 2"
+    },
+    {
+      "number": "16",
+      "tag": "DB 21",
+      "question": "চিত্র: কোনো একটি বস্তুর সময়ের সাথে বেগের পরিবর্তন। চিত্রে - i. A এবং C তে ত্বরণের মান অসমান ii. প্রথম 15 সে. এ অতিক্রান্ত দূরত্ব 125 m iii. বস্তুটির শেষ বেগ 10 m/s নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i i i . সঠিক, কারণ A \\mathrm{A} A তে ত্বরণ = v − u t = r u − u 5   m s − 2 = 2   m s − 2 =\\frac{\\mathrm{v}-\\mathrm{u}}{\\mathrm{t}}=\\frac{\\mathrm{r} \\mathrm{u}-\\mathrm{u}}{5} \\mathrm{~ms}^{-2}=2 \\mathrm{~ms}^{-2} = t v − u ​ = 5 ru − u ​   ms − 2 = 2   ms − 2 কিন্তু C তে ত্বরণ = 20 − 10 25 − 15   m s − 2 = 1   m s − 2 =\\frac{20-10}{25-15} \\mathrm{~ms}^{-2}=1 \\mathrm{~ms}^{-2} = 25 − 15 20 − 10 ​   ms − 2 = 1   ms − 2 ii. সঠিক, কারণ ১ম 15s এ অতিক্রান্ত দূরত্ব, s = s 1 + s 2 = 1 2 ×  ভূমি  ×  উচ্চতা  +  দৈর্ঘ্য  ×  প্রস্থ = { 1 2 × 5 × 10 + ( 15 − 5 ) × 10 } m = 125   m \\begin{aligned} s & =s_{1}+s_{2} \\\\ & =\\frac{1}{2} \\times \\text { ভূমি } \\times \\text { উচ্চতা }+ \\text { দৈর্ঘ্য } \\times \\text { প্রস্থ} \\\\ & =\\left\\{\\frac{1}{2} \\times 5 \\times 10+(15-5) \\times 10\\right\\} \\mathrm{m} \\\\ & =125 \\mathrm{~m}\\end{aligned} s ​ = s 1 ​ + s 2 ​ = 2 1 ​ ×   ভূমি   ×   উচ্চতা   +   দৈর্ঘ্য   ×   প্রস্থ = { 2 1 ​ × 5 × 10 + ( 15 − 5 ) × 10 } m = 125   m ​ iii. সঠিক, কারণ লেখের শেষ বিন্দু সংশ্লিষ্ট বেগ 10 m s − 1 10ms^{-1} 10 m s − 1 এবং সময় 30s।"
+    },
+    {
+      "number": "17",
+      "tag": "DB 21",
+      "question": "একটি বস্তু সরল পথে 10 m অগ্রসর হয়ে সেখান থেকে একই পথে 4 m ফিরে এলো। দূরত্ব ও সরণের পার্থক্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 m",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "14 m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 m",
+      "option_b": "6m",
+      "option_c": "8 m",
+      "option_d": "14 m",
+      "correct": "গ",
+      "explanation": "দূরত্ব, d = A B + B C = 10 + 4 = 14 \\begin{aligned} d & =A B+B C \\\\ & =10+4 \\\\ & =14\\end{aligned} d ​ = A B + BC = 10 + 4 = 14 ​ সরণ, S = A C = A B − B C = 10 − 4 = 6 \\begin{aligned} S & =A C=A B-B C \\\\ & =10-4 \\\\ & =6\\end{aligned} S ​ = A C = A B − BC = 10 − 4 = 6 ​ পার্থক্য, = 14 − 6 = 8   m =14-6=8 \\mathrm{~m} = 14 − 6 = 8   m"
+    },
+    {
+      "number": "18",
+      "tag": "DB 21",
+      "question": "সুষম ত্বরণে চলমান কোনো বস্তুর বেগ 2 s এ 4   m s − 1 4 \\mathrm{~ms}^{-1} 4   ms − 1 হতে বৃদ্ধি পেয়ে 8   m s − 1 8 \\mathrm{~ms}^{-1} 8   ms − 1 হলে 4 s পর বস্তুটির বেগ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12   m s − 1 12 \\mathrm{~ms}^{-1} 12   ms − 1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "16   m s − 1 16 \\mathrm{~ms}^{-1} 16   ms − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "20   m s − 1 20 \\mathrm{~ms}^{-1} 20   ms − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24   m s − 1 24 \\mathrm{~ms}^{-1} 24   ms − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12   m s − 1 12 \\mathrm{~ms}^{-1} 12   ms − 1",
+      "option_b": "16   m s − 1 16 \\mathrm{~ms}^{-1} 16   ms − 1",
+      "option_c": "20   m s − 1 20 \\mathrm{~ms}^{-1} 20   ms − 1",
+      "option_d": "24   m s − 1 24 \\mathrm{~ms}^{-1} 24   ms − 1",
+      "correct": "ক",
+      "explanation": "a = v − u t = 8 − 4 2 = 2   m s − 2 \\begin{aligned} a & =\\frac{v-u}{t} \\\\ & =\\frac{8-4}{2}=2 \\mathrm{~ms}^{-2}\\end{aligned} a ​ = t v − u ​ = 2 8 − 4 ​ = 2   ms − 2 ​ 4 s পর বস্তুটির বেগ, v ′ = u + a t = 4 + 2 ×   4 = 4 + 8 = 12   m s − 1 \\begin{aligned} v^{\\prime} & =u+a t \\\\ & =4+2\\times\\ 4 \\\\ & =4+8=12 \\mathrm{~ms}^{-1}\\end{aligned} v ′ ​ = u + a t = 4 + 2 ×   4 = 4 + 8 = 12   ms − 1 ​"
+    },
+    {
+      "number": "19",
+      "tag": "DB 21",
+      "question": "যদি বেগের পরিবর্তন না হয় ( u = v ) (u=v) ( u = v ) তাহলে অতিক্রান্ত দূরত্বের সমীকরণ — i. S = u t + 1 2 a t 2 \\mathrm{S}=\\mathrm{ut}+\\frac{1}{2} \\mathrm{at}^{2} S = ut + 2 1 ​ at 2 ii. S = t ( u + v 2 ) S=t\\left(\\frac{u+v}{2}\\right) S = t ( 2 u + v ​ ) iii. S = v t \\mathrm{S}=\\mathrm{vt} S = vt নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i , ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i , ii ও iii",
+      "correct": "ঘ",
+      "explanation": "যখন বেগের পরিবর্তন হয় না অর্থাৎ u = v u = v u = v তখন দেহটি সমবেগে গমন করে। সুতরাং অতিক্রান্ত দূরত্বের জন্য সমীকরণ হবে: S = vt \\text{S} = \\text{vt} S = vt S = t ( u + v 2 ) \\text{S} = t\\left(\\frac{u+v}{2}\\right) S = t ( 2 u + v ​ ) উভয় ক্ষেত্রেই u = v u = v u = v হওয়ায় S = vt \\text{S} = \\text{vt} S = vt এবং S = ut \\text{S} = \\text{ut} S = ut আরো একটি সমীকরণ S = ut + 1 2 at 2 \\text{S} = \\text{ut} + \\frac{1}{2} \\text{at}^{2} S = ut + 2 1 ​ at 2 এই সমীকরণটি ক্ষেত্রেও উপযুক্ত, কারণ বেগের পরিবর্তন না হলে a = 0 a = 0 a = 0 হয়। তাই উভয় ক্ষেত্রেই এই সমীকরণটি ব্যবহার করা যেতে পারে। এ ক্ষেত্রে S = ut + 0 = ut \\text{S} = \\text{ut} + 0 = \\text{ut} S = ut + 0 = ut যা S=vt এর মতোই তাই, সঠিক উত্তর হবে: ঘ"
+    },
+    {
+      "number": "20",
+      "tag": "DB 21",
+      "question": "এক সেকেন্ডে এক অ্যাম্পিয়ার বিদ্যুৎ প্রবাহ করতে যে পরিমাণ চার্জ প্রবাহিত হয় তাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "এক অ্যাম্পিয়ার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "এক ভোল্ট",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "এক ও'ম",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "এক কুলম্ব",
+          "is_correct": true
+        }
+      ],
+      "option_a": "এক অ্যাম্পিয়ার",
+      "option_b": "এক ভোল্ট",
+      "option_c": "এক ও'ম",
+      "option_d": "এক কুলম্ব",
+      "correct": "ঘ",
+      "explanation": "**প্রশ্ন:** এক সেকেন্ডে এক অ্যাম্পিয়ার বিদ্যুৎ প্রবাহ করতে যে পরিমাণ চার্জ প্রবাহিত হয় তাকে কী বলে? **সমাধান:** বিদ্যুৎ প্রবাহের পরিমাণ (current) সংজ্ঞায়িত হয় ধ্রুবপদ হিসাবে চার্জের প্রবাহ । এক সেকেন্ডে চার্জের এই পরিমাণ বলা হয় এক কুলম্ব । এক অ্যাম্পেয়ার বিদ্যুৎ প্রবাহ হলে, এক সেকেন্ডে যে চার্জ প্রবাহিত হয় তার পরিমাণ এক কুলম্ব । **সঠিক উত্তর:** D: এক কুলম্ব"
+    },
+    {
+      "number": "21",
+      "tag": "DB 21",
+      "question": "5 সেকেন্ড সময়ে 10 C চার্জ প্রবাহিত হলে বিদ্যুৎ প্রবাহ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.5 A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 A",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 A",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10 A",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.5 A",
+      "option_b": "2 A",
+      "option_c": "5 A",
+      "option_d": "10 A",
+      "correct": "খ",
+      "explanation": "বিদ্যুৎ প্রবাহের (current) সূত্রটি হল: I = Q t I = \\frac{Q}{t} I = t Q ​ যেখানে, I I I = বিদ্যুৎ প্রবাহ (Ampere), Q Q Q = চার্জ (Coulombs), t t t = সময় (seconds) উক্ত সমস্যাতে, Q = 10 C Q = 10 \\, C Q = 10 C এবং t = 5 s t = 5 \\, s t = 5 s এখন, সূত্রে মান বসিয়ে সমাধান করি: I = 10 5 = 2 A I = \\frac{10}{5} = 2 \\, A I = 5 10 ​ = 2 A অতএব, বিদ্যুৎ প্রবাহ হবে 2 A সঠিক উত্তর: B. 2 A"
+    },
+    {
+      "number": "22",
+      "tag": "DB 21",
+      "question": "40 সে.মি. ব্যাসের একটি ফাঁপা কাচের গোলককে কেটে বাহিরের পৃষ্ঠে রূপার প্রলেপ লাগিয়ে গোলীয় আয়না তৈরি করে এর প্রতিফলক পৃষ্ঠের কেন্দ্রবিন্দু থেকে 15 সে.মি. দূরে বস্তু রাখা হলো। গোলীয় আয়নার ফোকাস দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10 সে.মি.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "40 সে.মি.",
+      "option_b": "20 সে.মি.",
+      "option_c": "15 সে.মি.",
+      "option_d": "10 সে.মি.",
+      "correct": "ঘ",
+      "explanation": "দেওয়া আছে, গোলকের ব্যাস = 40 cm ∴ \\therefore ∴ গোলকের ব্যাসার্ধ বা বক্রতার ব্যাসার্ধ = 40 2 = 20 c m \\frac{40}{2}=20 cm 2 40 ​ = 20 c m আমরা জানি, গোলীয় দর্পণের ফোকাস দূরত্ব = বক্রতার ব্যাসার্ধ  2 \\frac{বক্রতার\\ ব্যাসার্ধ\\ }{2} 2 বক্রতার   ব্যাসার্ধ   ​ = 20 2 = 10   c m \\frac{20}{2}=10\\ cm 2 20 ​ = 10   c m"
+    },
+    {
+      "number": "23",
+      "tag": "DB 21",
+      "question": "40 সে.মি. ব্যাসের একটি ফাঁপা কাচের গোলককে কেটে বাহিরের পৃষ্ঠে রূপার প্রলেপ লাগিয়ে গোলীয় আয়না তৈরি করে এর প্রতিফলক পৃষ্ঠের কেন্দ্রবিন্দু থেকে 15 সে.মি. দূরে বস্তু রাখা হলো। আয়নায় গঠিত প্রতিবিম্বটি হবে- i. বাস্তব ii. উল্টো iii. 30 সে.মি. দূরে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "ব্যাস,d=40cm ব্যাসার্ধ,r =20cm f=10cm কেন্দ্রবিন্দু থেকে 15 সে.মি. দূরে বস্তু রাখা হলে বস্তুর অবস্থান ফোকাস ও বক্রতার কেন্দ্রের মাঝে। অবতল দর্পণ হওয়ায় প্রতিবিম্ব হবেঃ -বাস্তব -উল্টা -বিবর্ধিত"
+    },
+    {
+      "number": "24",
+      "tag": "DB 21",
+      "question": "প্রত্যেকটি ধাপে 10% শক্তি অপচয় হলে দুই ধাপে কর্মদক্ষতা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "90%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "81%",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "80%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "20%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "90%",
+      "option_b": "81%",
+      "option_c": "80%",
+      "option_d": "20%",
+      "correct": "খ",
+      "explanation": "এক ধাপে, 10%, শক্তি অপচয় হলে কর্মদক্ষতা = (100%-10%) = 90% = 0.9 ∴ দুই ধাপে কর্মদক্ষতা, = 0.9 × 0.9 = 0.81 = 0.81 × 100 % = 81 % \\begin{array}{l}=0.9 \\times 0.9 \\\\ =0.81 \\\\ =0.81 \\times 100 \\% \\\\ =81 \\%\\end{array} = 0.9 × 0.9 = 0.81 = 0.81 × 100% = 81% ​"
+    },
+    {
+      "number": "25",
+      "tag": "DB 21",
+      "question": "শুকনো অবস্থায় মানুষের চামড়ার রোধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 ΚΩ - 20 ΚΩ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 ΚΩ - 30 ΚΩ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 ΚΩ - 40 ΚΩ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 ΚΩ - 50 ΚΩ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3 ΚΩ - 20 ΚΩ",
+      "option_b": "3 ΚΩ - 30 ΚΩ",
+      "option_c": "3 ΚΩ - 40 ΚΩ",
+      "option_d": "3 ΚΩ - 50 ΚΩ",
+      "correct": "ঘ",
+      "explanation": "যে সকল পদার্থের মধ্য দিয়ে বিদ্যুৎ সহজে চলাচল করতে পারে, তাদেরকে পরিবাহী বলা হয়। বিভিন্ন প্রকার ধাতব পদার্থ এর উদাহরণ। মানবদেহ ধাতব পদার্থ না হলেও , ভেজা অবস্থায় এটি পরিবাহীর মতো কাজ করে এবং বিদ্যুৎ পরিবহন করতে পারে। এমনকি শুকনো অবস্থায়ও মানবদেহ সামান্য পরিমাণে বিদ্যুৎ পরিবহন করতে পারে। শুকনো অবস্থায় মানুষের চামড়ার রোধ প্রায় 3,000Ω (3kΩ) থেকে 50,000Ω (50kΩ) পর্যন্ত হতে পারে, তবে ভেজা অবস্থায় এটি হাজার গুণ কমে যায়।"
+    }
+  ]
+}

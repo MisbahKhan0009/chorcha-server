@@ -1,0 +1,832 @@
+{
+  "read_id": "BXmJyamF1zrnxyQx",
+  "title": "বরিশাল বোর্ড ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JB 24,BB 24,HC 24,DB 20",
+      "question": "একটি ট্রান্সফরমারের প্রাইমারী কয়েলের প্যাঁচসংখ্যা 50, সেকেন্ডারী কয়েলের প্যাঁচসংখ্যা 500, প্রাইমারী কয়েল দিয়ে 12 V AC দেয়া হলে সেকেন্ডারী কয়েলে ভোল্টেজ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6000 V",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "600 V",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 V",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1.2 V",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6000 V",
+      "option_b": "600 V",
+      "option_c": "120 V",
+      "option_d": "1.2 V",
+      "correct": "গ",
+      "explanation": "আমরা জানি, E p E s = N p N s ⇒ E s = E p × N s N p \\frac{E_{p}}{E_{s}}=\\frac{N_{p}}{N_{s}} \\Rightarrow E_{s}=E_{p} \\times \\frac{N_{s}}{N_{p}} E s ​ E p ​ ​ = N s ​ N p ​ ​ ⇒ E s ​ = E p ​ × N p ​ N s ​ ​ যেখানে, - E p = 12   V E_{p}=12 \\mathrm{~V} E p ​ = 12   V (প্রাইমারী ভোল্টেজ) - N p = 50 N_{p}=50 N p ​ = 50 - N s = 500 N_{s}=500 N s ​ = 500 এখন মান বসাই: E s = 12 × 500 50 = 12 × 10 = 120   V E_{s}=12 \\times \\frac{500}{50}=12 \\times 10=120 \\mathrm{~V} E s ​ = 12 × 50 500 ​ = 12 × 10 = 120   V"
+    },
+    {
+      "number": "2",
+      "tag": "BB 24",
+      "question": "খেলার মাঠে একটি ক্রিকেট বল গড়িয়ে গড়িয়ে সীমানা পার হয়ে গেল। এর উপর ক্রিয়াশীল ঘর্ষণ বল কীরূপ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্থিতি ঘর্ষণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "গতি ঘর্ষণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আবর্ত ঘর্ষণ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রবাহী ঘর্ষণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "স্থিতি ঘর্ষণ",
+      "option_b": "গতি ঘর্ষণ",
+      "option_c": "আবর্ত ঘর্ষণ",
+      "option_d": "প্রবাহী ঘর্ষণ",
+      "correct": "গ",
+      "explanation": "আবর্ত ঘর্ষণ হলো একটি বস্তু আরেকটি বস্তুর ওপর দিয়ে গড়িয়ে চলার সময় সৃষ্ট ঘর্ষণ। যেহেতু খেলার মাঠে ক্রিকেট বল গড়িয়ে চলে সুতরাং এর উপর আবর্ত ঘর্ষণ বল কাজ করবে।"
+    },
+    {
+      "number": "3",
+      "tag": "BB 24",
+      "question": "এক টুকরো সাধারণ কাচে প্রতিফলন হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2%- 3%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3%- 4%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4%- 5%",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5%- 6%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2%- 3%",
+      "option_b": "3%- 4%",
+      "option_c": "4%- 5%",
+      "option_d": "5%- 6%",
+      "correct": "গ",
+      "explanation": "একটি সাধারণ কাঁচের টুকরোতে সাধারণত প্রায় 4% থেকে 5% আলো প্রতিফলিত হয়। আলোর বাকি অংশ কাঁচের মধ্য দিয়ে প্রতিসরিত হয়।"
+    },
+    {
+      "number": "4",
+      "tag": "BB 24",
+      "question": "একটি গাড়ি চিত্রানুসারে চলছে। 30তম সেকেন্ডে গাড়িটির অতিক্রান্ত দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "145 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "147.5 m",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "148.75 m",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "150 m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "145 m",
+      "option_b": "147.5 m",
+      "option_c": "148.75 m",
+      "option_d": "150 m",
+      "correct": "খ",
+      "explanation": "ত্বরণ,  a = 150 − 0 30 − 0 = 5   m s − 2   S 30 − S 29 = ( u t 30 + 1 2 a t 30 2 ) − ( u t 29 + 1 2 a t 29 2 ) = ( 0 × 30 + 1 2 × 5 × 30 2 ) − ( 0 × 29 + 1 2 × 5 × 29 2 ) = 147.5   m \\begin{array}{l}\\text { ত্বরণ, } \\mathrm{a}=\\frac{150-0}{30-0}=5 \\mathrm{~ms}^{-2} \\\\ \\mathrm{~S}_{30}-\\mathrm{S}_{29}=\\left(\\mathrm{ut}_{30}+\\frac{1}{2} \\mathrm{at}_{30}^{2}\\right)-\\left(\\mathrm{ut}_{29}+\\frac{1}{2} \\mathrm{at}_{29}^{2}\\right) \\\\ =\\left(0 \\times 30+\\frac{1}{2} \\times 5 \\times 30^{2}\\right)-\\left(0 \\times 29+\\frac{1}{2} \\times 5 \\times 29^{2}\\right)=147.5 \\mathrm{~m}\\end{array}   ত্বরণ ,  a = 30 − 0 150 − 0 ​ = 5   ms − 2   S 30 ​ − S 29 ​ = ( ut 30 ​ + 2 1 ​ at 30 2 ​ ) − ( ut 29 ​ + 2 1 ​ at 29 2 ​ ) = ( 0 × 30 + 2 1 ​ × 5 × 3 0 2 ) − ( 0 × 29 + 2 1 ​ × 5 × 2 9 2 ) = 147.5   m ​"
+    },
+    {
+      "number": "5",
+      "tag": "BB 24",
+      "question": "একটি গাড়ি চিত্রানুসারে চলছে। উদ্দীপকের গাড়িটি- i. অসমবেগে চলছে ii. সুষম ত্বরণে চলছে iii. এর বেগ দূরত্বের বর্গমূলের সমানুপাতিক নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i. গাড়িটির বেগ সময়ের সাথে সর্বদা পরিবর্তিত হচ্ছে, তাই গাড়িটির বেগ অসম। ii. যেহেতু গাড়িটির বেগ বৃদ্ধির হার একই, তাই গাড়িটির ত্বরণ সুষম। iii. যেহেতু গাড়িটি স্থির অবস্থা হতে যাত্রা শুরু করেছে, তাই গাড়িটির জন্য গতির সূত্রানুসারে, v 2 = 0 2 + 2 a s v^2=0^2+2as v 2 = 0 2 + 2 a s । এখন বস্তুর ত্বরণ ধ্রুব হওয়ায় v 2 ∝ s v^{2} \\propto s v 2 ∝ s বা, v ∝ s v \\propto \\sqrt{s} v ∝ s ​ ।"
+    },
+    {
+      "number": "6",
+      "tag": "BB 24",
+      "question": "বাতাসে শব্দের বেগ নিচের কোনটির বর্গমূলের ব্যাস্তানুপাতিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তাপমাত্রা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "স্থিতিস্থাপকতা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আয়তন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ঘণত্ব",
+          "is_correct": true
+        }
+      ],
+      "option_a": "তাপমাত্রা",
+      "option_b": "স্থিতিস্থাপকতা",
+      "option_c": "আয়তন",
+      "option_d": "ঘণত্ব",
+      "correct": "ঘ",
+      "explanation": "শব্দের বেগ এবং মাধ্যমের ঘনত্বের মধ্যে সম্পর্ক, v ∝ 1 ρ v \\propto \\sqrt{\\frac{1}{\\rho}} v ∝ ρ 1 ​ ​ অর্থাৎ বাতাসে শব্দের বেগ মাধ্যমের ঘনত্বের বর্গমূলের ব্যাস্তানুপাতিক।"
+    },
+    {
+      "number": "7",
+      "tag": "BB 24,CTG.B 22 ,SB 22,BB 22,CTG.B 20",
+      "question": "কোনটি অনবায়নযোগ্য শক্তি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জিওথার্মাল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "জলবিদ্যুৎ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সৌরশক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "নিউক্লিয়ার শক্তি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "জিওথার্মাল",
+      "option_b": "জলবিদ্যুৎ",
+      "option_c": "সৌরশক্তি",
+      "option_d": "নিউক্লিয়ার শক্তি",
+      "correct": "ঘ",
+      "explanation": "অনবায়নযোগ্য শক্তি (Non-Renewable Energy) পৃথিবীর সভ্যতার ইতিহাসটা যেহেতু শক্তি ব্যবহারের ইতিহাস, তাই আমরা দেখতে পাই সারা পৃথিবীতেই সব দেশ সব জাতির ভেতরেই শক্তির জন্য এক ধরনের ক্ষুধা কাজ করছে। যে যেভাবে পারছে, সেভাবে শক্তির অনুসন্ধান করছে, শক্তিকে ব্যবহার করছে।"
+    },
+    {
+      "number": "8",
+      "tag": "BB 24",
+      "question": "তিমি মাছ 2000 m গভীরতায় গেলে, তাকে কত atm চাপ সহ্য করতে হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "200",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2,000",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "20",
+      "option_c": "200",
+      "option_d": "2,000",
+      "correct": "গ",
+      "explanation": "আমরা জানি, পানির নিচে প্রতি 10 m গভীরতায় 1 atm চাপ বেড়ে যায়। সুতরাং 2000 m গভীরতায় তিমি মাছকে P = 2000   m 10   m   a t m = 200   a t m P=\\frac{2000 \\mathrm{~m}}{10 \\frac{\\mathrm{~m}}{\\mathrm{~atm}}}=200 \\mathrm{~atm} P = 10   atm   m ​ 2000   m ​ = 200   atm চাপ সহ্য করতে হবে।"
+    },
+    {
+      "number": "9",
+      "tag": "BB 24,BB 23",
+      "question": "কোন দুইটি রাশির মাত্রা অভিন্ন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "চাপ এবং পীড়ন",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "কাজ ও ক্ষমতা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তড়িৎ প্রবাহ ও দীপন তীব্রতা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ত্বরণ ও দ্রুতি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "চাপ এবং পীড়ন",
+      "option_b": "কাজ ও ক্ষমতা",
+      "option_c": "তড়িৎ প্রবাহ ও দীপন তীব্রতা",
+      "option_d": "ত্বরণ ও দ্রুতি",
+      "correct": "ক",
+      "explanation": "প্রথমে আমরা প্রতিটি রাশির মাত্রা বিশ্লেষণ করি: ১. চাপ এবং পীড়ন (Pressure and Stress): চাপ এবং পীড়ন উভয়ের মাত্রা [ML -1 T -2 ]। ২. কাজ (Work) ও ক্ষমতা (Power): কাজের মাত্রা হল [ML 2 T -2 ] এবং ক্ষমতার মাত্রা হল [ML 2 T -3 ]। তাই এগুলো অভিন্ন নয়। ৩. তড়িৎ প্রবাহ (Electric Current) ও দীপন তীব্রতা (Luminous Intensity): তড়িৎ প্রবাহের মাত্রা হল [I] এবং দীপন তীব্রতার মাত্রা হল [J]। এগুলোও অভিন্ন নয়। ৪. ত্বরণ (Acceleration) ও দ্রুতি (Velocity): ত্বরণের মাত্রা হল [LT -2 ] এবং দ্রুতির মাত্রা হল [LT -1 ]। সুতরাং, এগুলো অভিন্ন নয়। তাহলে, চাপ এবং পীড়ন একই মাত্রার রাশি। সঠিক উত্তর হল: চাপ এবং পীড়ন (A)"
+    },
+    {
+      "number": "10",
+      "tag": "CB 23,BB 23,DIN.B 22,JB 22,CB 21,CTG.B 21,BB 21,SB 21,DIN.B 21,DB 20,RB 20,CTG.B 20,DIN.B 20,SB 20,RB 19,CTG.B 19,SB 19",
+      "question": "ত্বরণের মাত্রা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "L T − 1 \\mathrm{LT}^{-1} LT − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "L T − 2 \\mathrm{LT}^{-2} LT − 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "L 2   T − 1 \\mathrm{L}^{2} \\mathrm{~T}^{-1} L 2   T − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "L 2   T − 2 \\mathrm{L}^{2} \\mathrm{~T}^{-2} L 2   T − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "L T − 1 \\mathrm{LT}^{-1} LT − 1",
+      "option_b": "L T − 2 \\mathrm{LT}^{-2} LT − 2",
+      "option_c": "L 2   T − 1 \\mathrm{L}^{2} \\mathrm{~T}^{-1} L 2   T − 1",
+      "option_d": "L 2   T − 2 \\mathrm{L}^{2} \\mathrm{~T}^{-2} L 2   T − 2",
+      "correct": "খ",
+      "explanation": "ত্বরণের মাত্রা নির্ণয়ের জন্য, প্রথমে এর সংজ্ঞা এবং সংশ্লিষ্ট রাশিগুলোর মাত্রা জানতে হবে। **ধাপ ১: ত্বরণের সংজ্ঞা** ত্বরণ (acceleration) হলো বেগ পরিবর্তনের হার। অর্থাৎ, ত্বরণ = বেগ / সময় **ধাপ ২: বেগের মাত্রা নির্ণয়** বেগ (velocity) হলো সরণ পরিবর্তনের হার। অর্থাৎ, বেগ = সরণ / সময় সরণের মাত্রা [L] (দৈর্ঘ্য) এবং সময়ের মাত্রা [T]। সুতরাং, বেগের মাত্রা = L T \\frac{\\text{L}}{\\text{T}} T L ​ = L T − 1 \\mathrm{LT}^{-1} LT − 1 **ধাপ ৩: ত্বরণের মাত্রা নির্ণয়** এবার ধাপ ২ থেকে প্রাপ্ত বেগের মাত্রা ব্যবহার করে ত্বরণের মাত্রা নির্ণয় করব: ত্বরণের মাত্রা = বেগের মাত্রা সময়ের মাত্রা \\frac{\\text{বেগের মাত্রা}}{\\text{সময়ের মাত্রা}} সময়ের   মাত্রা বেগের   মাত্রা ​ ত্বরণের মাত্রা = L T − 1 T \\frac{\\mathrm{LT}^{-1}}{\\text{T}} T LT − 1 ​ ত্বরণের মাত্রা = L T − 1 × T − 1 \\mathrm{LT}^{-1} \\times \\mathrm{T}^{-1} LT − 1 × T − 1 ত্বরণের মাত্রা = L T − 2 \\mathrm{LT}^{-2} LT − 2 অতএব, ত্বরণের মাত্রা হলো L T − 2 \\mathrm{LT}^{-2} LT − 2 । প্রদত্ত বিকল্পগুলোর মধ্যে, ক: L T − 1 \\mathrm{LT}^{-1} LT − 1 (এটি বেগের মাত্রা) খ: L T − 2 \\mathrm{LT}^{-2} LT − 2 (এটি ত্বরণের মাত্রা) গ: L 2   T − 1 \\mathrm{L}^{2} \\mathrm{~T}^{-1} L 2   T − 1 ঘ: L 2   T − 2 \\mathrm{L}^{2} \\mathrm{~T}^{-2} L 2   T − 2 সঠিক উত্তরটি হলো **খ: L T − 2 \\mathrm{LT}^{-2} LT − 2 **। প্রশ্নকর্তা কর্তৃক নির্বাচিত উত্তর B সঠিক। The final answer is খ \\boxed{\\text{খ}} খ ​"
+    },
+    {
+      "number": "11",
+      "tag": "BB 24",
+      "question": "Q = 20 ° 20\\degree 20° C (বায়ু) উৎস থেকে প্রতিফলক পৃষ্ঠের দূরত্ব 30 m 0 ° 0\\degree 0° C তাপমাত্রায় শব্দের বেগ = 330 m s − 1 ms^{-1} m s − 1 উৎস হতে প্রতিফলক পৃষ্ঠে যেতে শব্দের কত সময় লাগবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0:181 s",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.175 s",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.088 s",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0.09 s",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0:181 s",
+      "option_b": "0.175 s",
+      "option_c": "0.088 s",
+      "option_d": "0.09 s",
+      "correct": "গ",
+      "explanation": "20 ∘ C 20^{\\circ} \\mathrm{C} 2 0 ∘ C তাপমাত্রায় শব্দের বেগ, v 2 = T 2   T 1 × v 1 = 20 + 273 0 + 273 × 330 v_{2}=\\sqrt{\\frac{\\mathrm{T}_{2}}{\\mathrm{~T}_{1}}} \\times \\mathrm{v}_{1}=\\sqrt{\\frac{20+273}{0+273}} \\times 330 v 2 ​ =   T 1 ​ T 2 ​ ​ ​ × v 1 ​ = 0 + 273 20 + 273 ​ ​ × 330 = 342   m s − 1 =342 \\mathrm{~ms}^{-1} = 342   ms − 1 ∴ \\therefore ∴ প্রতিফলক পৃষ্ঠে যেতে সময়, t = d v 2 = 30 342 = 0.088   s \\mathrm{t}=\\frac{\\mathrm{d}}{\\mathrm{v}_{2}}=\\frac{30}{342}=0.088 \\mathrm{~s} t = v 2 ​ d ​ = 342 30 ​ = 0.088   s"
+    },
+    {
+      "number": "12",
+      "tag": "BB 24",
+      "question": "Q = 20 ° 20\\degree 20° C (বায়ু) উৎস থেকে প্রতিফলক পৃষ্ঠের দূরত্ব 30 m 0 ° 0\\degree 0° C তাপমাত্রায় শব্দের বেগ = 330 m s − 1 ms^{-1} m s − 1 চিত্রের আলোকে শব্দের প্রতিধ্বনি- i. C বিন্দু থেকে শোনা যাবে না ii. B বিন্দু থেকে শোনা যাবে iii. A বিন্দুতে শুনতে 0.117 s সময় লাগে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. C C C বিন্দুতে প্রতিধ্বনি শোনার সময়, t C = 2 d v = 2 × 16.5 342 t_{C}=\\frac{2 d}{v}=\\frac{2 \\times 16.5}{342} t C ​ = v 2 d ​ = 342 2 × 16.5 ​ = 0.0965   s < 0.1   s ∴ C =0.0965 \\mathrm{~s}<0.1 \\mathrm{~s} \\therefore \\mathrm{C} = 0.0965   s < 0.1   s ∴ C বিন্দু থেকে শোনা যাবে না। ii. B বিন্দুতে প্রতিধ্বনি শোনার সময়, t B = 2 d v = 2 × ( 16.5 + 0.5 ) 342 t_{B}=\\frac{2 d}{v}=\\frac{2 \\times(16.5+0.5)}{342} t B ​ = v 2 d ​ = 342 2 × ( 16.5 + 0.5 ) ​ = 0.0994   s < 0.1   s ∴ =0.0994 \\mathrm{~s}<0.1 \\mathrm{~s} \\therefore = 0.0994   s < 0.1   s ∴ B বিন্দু থেকেও শোনা যাবে না। iii. A বিন্দুতে প্রতিধ্বনি শোনার সময়, t A = 2   d v = 2 × ( 16.5 + 0.5 + 3 ) 342 \\mathrm{t}_{\\mathrm{A}}=\\frac{2 \\mathrm{~d}}{\\mathrm{v}}=\\frac{2 \\times(16.5+0.5+3)}{342} t A ​ = v 2   d ​ = 342 2 × ( 16.5 + 0.5 + 3 ) ​ = 0.117   s > 0.1   s ∴   A =0.117 \\mathrm{~s}>0.1 \\mathrm{~s} \\therefore \\mathrm{~A} = 0.117   s > 0.1   s ∴   A বিন্দু থেকে শোনা যাবে।"
+    },
+    {
+      "number": "13",
+      "tag": "BB 24",
+      "question": "পরিবাহী তারের রোধ নির্ভর করে কোনটির উপর?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বিভব",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "তড়িৎ প্রবাহ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তড়িৎ প্রাবল্য",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রস্থচ্ছেদের ক্ষেত্রফল",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বিভব",
+      "option_b": "তড়িৎ প্রবাহ",
+      "option_c": "তড়িৎ প্রাবল্য",
+      "option_d": "প্রস্থচ্ছেদের ক্ষেত্রফল",
+      "correct": "ঘ",
+      "explanation": "কোনো পরিবাহী তারের রোধ নির্ভর করে পরিবাহী তারের দৈর্ঘ্য, প্রস্থচ্ছেদের ক্ষেত্রফল এবং এর উপাদানের আপেক্ষিক রোধের ওপর। রোধের সাথে এদের সম্পর্ক সূচক সমীকরণটি হলো = R = ρ L A R=\\frac{\\rho L}{A} R = A ρ L ​ । যেখানে, R = পরিবাহীর রোধ, L = \\mathrm{L}= L = পরিবাহী তারের দৈর্ঘ্য, A = \\mathrm{A}= A = প্রস্থচ্ছেদের ক্ষেত্রফল এবং ρ \\rho ρ = উপাদানেরে আপেক্ষিক রোধ।"
+    },
+    {
+      "number": "14",
+      "tag": "BB 24",
+      "question": "প্রতি পদার্থের অস্তিত্ব ঘোষণা করেন বিজ্ঞানী-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডিরাক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "হেনরি বেকেরেল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আল খোয়ারিজমি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোপার্নিকাস",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ডিরাক",
+      "option_b": "হেনরি বেকেরেল",
+      "option_c": "আল খোয়ারিজমি",
+      "option_d": "কোপার্নিকাস",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "BB 24,MB 20",
+      "question": "সুপ্ততাপ কোনটির পরিবর্তন ঘটায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তাপমাত্রার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অবস্থার",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "গলনাঙ্কের",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "স্ফুটনাঙ্কের",
+          "is_correct": false
+        }
+      ],
+      "option_a": "তাপমাত্রার",
+      "option_b": "অবস্থার",
+      "option_c": "গলনাঙ্কের",
+      "option_d": "স্ফুটনাঙ্কের",
+      "correct": "খ",
+      "explanation": "সুপ্ততাপ হলো সেই তাপ, যা কোনো পদার্থের অবস্থা পরিবর্তনে (যেমন: কঠিন থেকে তরল বা তরল থেকে বাষ্প) খরচ হয় কিন্তু তাপমাত্রা পরিবর্তন করে না।"
+    },
+    {
+      "number": "16",
+      "tag": "BB 24,RCC 24,BB 20",
+      "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে যখন-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আপতন কোণ > প্রতিফলন কোণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আপতন কোণ > প্রতিসরণ কোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আপতন কোণ > সংকট কোণ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সংকট কোণ > প্রতিসরণ কোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "আপতন কোণ > প্রতিফলন কোণ",
+      "option_b": "আপতন কোণ > প্রতিসরণ কোণ",
+      "option_c": "আপতন কোণ > সংকট কোণ",
+      "option_d": "সংকট কোণ > প্রতিসরণ কোণ",
+      "correct": "গ",
+      "explanation": "পূর্ণ অভ্যন্তরীণ প্রতিফলনের শর্ত: ১. আলোক রশ্মিকে অবশ্যই ঘন মাধ্যম থেকে হালকা মাধ্যমের অভিমুখে যেতে হবে এবং দুই মাধ্যমের বিভেদ-তলে আপতিত হবে। ২. ঘন মাধ্যমে আপাতন কোণ, ক্রান্তি কোণের চেয়ে বড় হতে হবে।"
+    },
+    {
+      "number": "17",
+      "tag": "BB 24",
+      "question": "মিলি সেকেন্ড ১ ন্যানো সেকেন্ড অপেক্ষা কত গুণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 6 10^6 1 0 6",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "10 9 10^9 1 0 9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10 12 10^{12} 1 0 12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10 15 10^{15} 1 0 15",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 6 10^6 1 0 6",
+      "option_b": "10 9 10^9 1 0 9",
+      "option_c": "10 12 10^{12} 1 0 12",
+      "option_d": "10 15 10^{15} 1 0 15",
+      "correct": "ক",
+      "explanation": "1 মিলিসেকেন্ড = 10 − 3 =10^{-3} = 1 0 − 3 সেকেন্ড, আবার 1 ন্যানো সেকেন্ড = 10 − 9 =10^{-9} = 1 0 − 9 সেকেন্ড। ∴ 1  মিলি সেকেন্ড  1  ন্যানো সেকেন্ড  = 10 − 3 10 − 9 = 10 6 \\therefore \\frac{1 \\text { মিলি সেকেন্ড }}{1 \\text { ন্যানো সেকেন্ড }}=\\frac{10^{-3}}{10^{-9}}=10^{6} ∴ 1   ন্যানো   সেকেন্ড   1   মিলি   সেকেন্ড   ​ = 1 0 − 9 1 0 − 3 ​ = 1 0 6 ⇨ 1 মিলি সেকেন্ড = 10^6 × 1 ন্যানো সেকেন্ড"
+    },
+    {
+      "number": "18",
+      "tag": "BB 24,RPLSC 24",
+      "question": "1 m লম্বা একটি সুতায় 30 gm ভরের একটি ইটের টুকরো ঝুলিয়ে দিলে দোলনকাল কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 s",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 s",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2.5 s",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 s",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 s",
+      "option_b": "2 s",
+      "option_c": "2.5 s",
+      "option_d": "3 s",
+      "correct": "খ",
+      "explanation": "দোলনকাল, T = 2 π l   g = 2 × 3.1416 × 1 9.8 = 2   s \\mathrm{T}=2 \\pi \\sqrt{\\frac{l}{\\mathrm{~g}}}=2 \\times 3.1416 \\times \\sqrt{\\frac{1}{9.8}}=2 \\mathrm{~s} T = 2 π   g l ​ ​ = 2 × 3.1416 × 9.8 1 ​ ​ = 2   s এখানে দোলনকে সরল লম্ব দোলক (Simple Pendulum) ধরে গণনা করা হয়েছে, এবং বস্তুটির ভর (30 gm) দোলনকালের ওপর কোনো প্রভাব ফেলে না।"
+    },
+    {
+      "number": "19",
+      "tag": "BB 24",
+      "question": "টেলিফোনে উপাংশ থাকে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3টি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4টি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5টি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6টি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3টি",
+      "option_b": "4টি",
+      "option_c": "5টি",
+      "option_d": "6টি",
+      "correct": "গ",
+      "explanation": "টেলিফোনের পাঁচটি উপাংশ থাকে। এগুলো হলো- (১) সুইচ; (২) রিংগার; (৩) কি প্যাড; (৪) মাইক্রোফোন; (৫) স্পিকার।"
+    },
+    {
+      "number": "20",
+      "tag": "BB 24,DB 20",
+      "question": "কোনো পরিবাহীর দুই প্রান্তের বিভব পার্থক্য 120 V এবং তড়িৎ প্রবাহমাত্রা 10 A হলে এর রোধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1200 Ω",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12 Ω",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.12 Ω",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.1 Ω",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1200 Ω",
+      "option_b": "12 Ω",
+      "option_c": "0.12 Ω",
+      "option_d": "0.1 Ω",
+      "correct": "খ",
+      "explanation": "প্রশ্নটি সমাধান করতে আমরা ওহমের সূত্র ব্যবহার করবো। ওহমের সূত্র অনুযায়ী, একটি বৈদ্যুতিক পরিবাহীর রোধ R হল বিভব পার্থক্য V এবং তড়িৎ প্রবাহমাত্রা I এর অনুপাত। অর্থাৎ, R = V I R = \\frac{V}{I} R = I V ​ এখানে, বিভব পার্থক্য V = 120 V V = 120 \\, \\text{V} V = 120 V এবং তড়িৎ প্রবাহমাত্রা I = 10 A I = 10 \\, \\text{A} I = 10 A । তাহলে রোধ হবে, R = 120 10 = 12 Ω R = \\frac{120}{10} = 12 \\, \\Omega R = 10 120 ​ = 12 Ω সুতরাং, পরিবাহীর রোধ হবে 12 Ω ।"
+    },
+    {
+      "number": "21",
+      "tag": "BB 24",
+      "question": "ক্রিয়া প্রতিক্রিয়া বল-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পরস্পর অসমান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "একই সময় ধরে ক্রিয়া করে",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "একই বস্তুর উপর প্রযুক্ত হয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "একই অভিমুখী হয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "পরস্পর অসমান",
+      "option_b": "একই সময় ধরে ক্রিয়া করে",
+      "option_c": "একই বস্তুর উপর প্রযুক্ত হয়",
+      "option_d": "একই অভিমুখী হয়",
+      "correct": "খ",
+      "explanation": "ক্রিয়া ও প্রতিক্রিয়া দুটি ভিন্ন বস্তুর ওপর একই সময় ধরে ক্রিয়া করে। এই ক্রিয়া-প্রতিক্রিয়া বলের মান পরস্পর সমান এবং বিপরীতমুখী হয়।"
+    },
+    {
+      "number": "22",
+      "tag": "BB 24,RPLSC 24,RB 20",
+      "question": "a মাধ্যমের সাপেক্ষে b মাধ্যমের প্রতিসরণাঙ্ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.83",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1.2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3.95",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.3",
+      "option_b": "0.83",
+      "option_c": "1.2",
+      "option_d": "3.95",
+      "correct": "খ",
+      "explanation": "এখানে,  n a = 1.8 n b = 1.5  প্রতিসরণাঙ্ক,  a n b = ? \\begin{array}{|l} \\text { এখানে, } \\\\ n_{\\mathrm{a}}=1.8 \\\\ n_{\\mathrm{b}}=1.5 \\\\ \\text { প্রতিসরণাঙ্ক, }{ }_{\\mathrm{a}} n_{\\mathrm{b}}=? \\end{array}   এখানে ,  n a ​ = 1.8 n b ​ = 1.5   প্রতিসরণাঙ্ক ,  a ​ n b ​ = ? ​ আমরা জানি, n b = n b n a n_{b}=\\frac{n_{b}}{n_{a}} n b ​ = n a ​ n b ​ ​ বা, 8 n 6 = 1.5 1.8 { }_{8} n_{6}=\\frac{1.5}{1.8} 8 ​ n 6 ​ = 1.8 1.5 ​ ∴ n b = 0.83 \\therefore n_{b}=0.83 ∴ n b ​ = 0.83 অতএব a মাধ্যমের সাপেক্ষে b মাধ্যমের প্রতিসরণাঙ্ক 0.83"
+    },
+    {
+      "number": "23",
+      "tag": "BB 24,RPLSC 24",
+      "question": "উদ্দীপকের ঘটনায়- i. শূন্য মাধ্যমের সাপেক্ষে b মাধ্যমের তুলনায় a মাধ্যমের প্রতিসরণাঙ্ক বেশি ii. আলো হালকা মাধ্যম হতে ঘন মাধ্যমে প্রবেশ করে iii. আলোক রশ্মি b মাধ্যম থেকে a মাধ্যমে প্রবেশের ক্ষেত্রে পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটবে না নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. n b n a = 1 2 \\quad \\frac{\\mathrm{n}_{\\mathrm{b}}}{\\mathrm{n}_{\\mathrm{a}}}=\\frac{1}{\\sqrt{2}} n a ​ n b ​ ​ = 2 ​ 1 ​ বা, n b = n a 2 ∴ n a > n b \\mathrm{n}_{\\mathrm{b}}=\\frac{\\mathrm{n}_{\\mathrm{a}}}{\\sqrt{2}} \\therefore \\mathrm{n}_{\\mathrm{a}}>\\mathrm{n}_{\\mathrm{b}} n b ​ = 2 ​ n a ​ ​ ∴ n a ​ > n b ​ সুতরাং, শূন্য মাধ্যমের সাপেক্ষে ৮ মাধ্যমের তুলনায় এ মাধ্যমের প্রতিসরাঙ্ক বেশি হবে। ii. আলো প্রতিসরিত হওয়ার পরে অভিলম্ব হতে বেশি দূরে সরে গিয়েছে। এখান থেকে বুঝা যায়, আলো ঘন মাধ্যম হতে হালকা মাধ্যমে প্রতিসরিত হয়েছে। iii. আলো হালকা মাধ্যম হতে ঘন মাধ্যমে প্রতিসরিত হওয়ায় এখানে পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটবে না।"
+    },
+    {
+      "number": "24",
+      "tag": "BB 24",
+      "question": "10°C তাপমাত্রায় একটি দণ্ডের দৈর্ঘ্য 5 m. 110°C তাপমাত্রায় দণ্ডটির দৈর্ঘ্য 5.0167 m. এর দৈর্ঘ্য প্রসারণ সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "29940   K − 1 29940 \\mathrm{~K}^{-1} 29940   K − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.33   K − 1 0.33 \\mathrm{~K}^{-1} 0.33   K − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.000835   K − 1 0.000835 \\mathrm{~K}^{-1} 0.000835   K − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.0000334   K − 1 0.0000334 \\mathrm{~K}^{-1} 0.0000334   K − 1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "29940   K − 1 29940 \\mathrm{~K}^{-1} 29940   K − 1",
+      "option_b": "0.33   K − 1 0.33 \\mathrm{~K}^{-1} 0.33   K − 1",
+      "option_c": "0.000835   K − 1 0.000835 \\mathrm{~K}^{-1} 0.000835   K − 1",
+      "option_d": "0.0000334   K − 1 0.0000334 \\mathrm{~K}^{-1} 0.0000334   K − 1",
+      "correct": "ঘ",
+      "explanation": "L − L o = L 0 α (   T 2 − T 1 )  বা,  α = L − L 0   L o ( T 2 − T 1 )  বা,  α = 5.0167 − 5 5 × ( 110 − 10 ) = 0.0000334   K − 1 \\begin{array}{l} \\mathrm{L}-\\mathrm{L}_{\\mathrm{o}}=\\mathrm{L}_{0} \\alpha\\left(\\mathrm{~T}_{2}-\\mathrm{T}_{1}\\right) \\\\ \\text { বা, } \\alpha=\\frac{\\mathrm{L}-\\mathrm{L}_{0}}{\\mathrm{~L}_{\\mathrm{o}}\\left(\\mathrm{T}_{2}-\\mathrm{T}_{1}\\right)} \\\\ \\begin{aligned} \\text { বা, } \\alpha & =\\frac{5.0167-5}{5 \\times(110-10)} \\\\ & =0.0000334 \\mathrm{~K}^{-1}\\end{aligned}\\end{array} L − L o ​ = L 0 ​ α (   T 2 ​ − T 1 ​ )   বা ,  α =   L o ​ ( T 2 ​ − T 1 ​ ) L − L 0 ​ ​   বা ,  α ​ = 5 × ( 110 − 10 ) 5.0167 − 5 ​ = 0.0000334   K − 1 ​ ​"
+    },
+    {
+      "number": "1",
+      "tag": "BB 24",
+      "question": "বজ্রপাতের সময় চার্জ- i. বিশাল পরিমাণে পৃথিবীতে নেমে আসে ii. বাতাসের ভিতর দিয়ে যাওয়ার সময় তাকে আয়নিত করে iii, বাতাসের তাপমাত্রা বৃদ্ধি করে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i. বৈদ্যুতিক চার্জের বিচ্ছিন্নতা, বৈদ্যুতিক ক্ষেত্রের সৃষ্টি এবং ঋণাত্মক চার্জের প্রবাহ তিনটি ঘটনা একত্রে ঘটে বজ্রপাত সৃষ্টি করে ফলে চার্জ বিশাল পরিমাণে পৃথিবীতে নেমে আসে। ii. বজ্রপাতের সময় ঋণাত্মক চার্জ প্রবাহিত হয়ে বাতাসকে আয়নিত করে। iii. প্রচুর পরিমাণে বিদ্যুৎ উৎপন্ন হওয়ায় বজ্রপাতের সময় বাতাসের তাপমাত্রা বৃদ্ধি পায়।"
+    }
+  ]
+}

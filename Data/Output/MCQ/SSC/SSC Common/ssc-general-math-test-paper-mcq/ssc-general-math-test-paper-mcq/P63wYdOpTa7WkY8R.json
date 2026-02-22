@@ -1,0 +1,898 @@
+{
+  "read_id": "P63wYdOpTa7WkY8R",
+  "title": "মাইলস্টোন কলেজ, ঢাকা ২০২৪",
+  "count": 27,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RB 25",
+      "question": "নিচের কোনটি অমূলদ সংখ্যা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0. 4 ˙ 0 . \\dot{4} 0. 4 ˙",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "25 64 \\sqrt{\\frac{25}{64}} 64 25 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 64 3 \\sqrt[3]{\\frac{8}{64}} 3 64 8 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 3 \\sqrt{\\frac{25}{3}} 3 25 ​ ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0. 4 ˙ 0 . \\dot{4} 0. 4 ˙",
+      "option_b": "25 64 \\sqrt{\\frac{25}{64}} 64 25 ​ ​",
+      "option_c": "8 64 3 \\sqrt[3]{\\frac{8}{64}} 3 64 8 ​ ​",
+      "option_d": "25 3 \\sqrt{\\frac{25}{3}} 3 25 ​ ​",
+      "correct": "ঘ",
+      "explanation": "0. 4 ˙ 0 . \\dot{4} 0. 4 ˙ = 4 − 0 9 \\frac{4-0}{9} 9 4 − 0 ​ = 4 9 \\frac{4}{9} 9 4 ​ ; 25 64 \\sqrt{\\frac{25}{64}} 64 25 ​ ​ = 5 9 \\frac{5}{9} 9 5 ​ ; 8 64 3 \\sqrt[3]{\\frac{8}{64}} 3 64 8 ​ ​ = 2 4 =   1 2 \\frac{2}{4}=\\ \\frac{1}{2} 4 2 ​ =   2 1 ​ ∴ \\therefore ∴ 4 9 \\frac{4}{9} 9 4 ​ , 5 9 \\frac{5}{9} 9 5 ​ , 1 2 \\frac{1}{2} 2 1 ​ ভগ্নাংশ সংখ্যা। সকল পূর্ণসংখ্যা ও ভগ্নাংশই মূলদ সংখ্যা। কিন্তু 25 3 \\sqrt{\\frac{25}{3}} 3 25 ​ ​ = 5 3 \\frac{5}{\\sqrt{3}} 3 ​ 5 ​ একটি অমূলদ সংখ্যা।   ( ∵ \\because ∵ পূর্ণবর্গ নয় এরূপ যে কোনো স্বাভাবিক সংখ্যার বর্গমূল কিংবা তার ভগ্নাংশ একটি অমূলদ সংখ্যা  )"
+    },
+    {
+      "number": "2",
+      "tag": "DB 24,DB 23,DIN.B 23,BB 22,RB 20,DB 19,DB 17,MCC 24,SCC 24,BNMPC 24,MC 24,CSC 24",
+      "question": "A = { a , b , c , d , e } \\mathrm{A}=\\{\\mathrm{a}, \\mathrm{b}, \\mathrm{c}, \\mathrm{d}, \\mathrm{e}\\} A = { a , b , c , d , e } হলে, A এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "31",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "32",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "33",
+          "is_correct": false
+        }
+      ],
+      "option_a": "25",
+      "option_b": "31",
+      "option_c": "32",
+      "option_d": "33",
+      "correct": "খ",
+      "explanation": "প্রকৃত উপসেট বলতে কোন সেটের উপসেটের মধ্যে থেকে সেট নিজে বাদ দেওয়া বোঝায়। একটি সেটের উপসেটের সংখ্যা নির্ণয় করতে আমরা 2 n 2^n 2 n ফর্মুলা ব্যবহার করি, যেখানে n n n হল সেটের উপাদানের সংখ্যা। এখানে, A = { a , b , c , d , e } \\mathrm{A} = \\{\\mathrm{a}, \\mathrm{b}, \\mathrm{c}, \\mathrm{d}, \\mathrm{e}\\} A = { a , b , c , d , e } সেটের উপাদান সংখ্যা n = 5 n = 5 n = 5 । তাহলে, মোট উপসেটের সংখ্যা হবে 2 5 = 32 2^5 = 32 2 5 = 32 । কিন্তু এই ৩২ টি উপসেটের মধ্যে সেট নিজেও অন্তর্ভুক্ত থাকে যা প্রকৃত উপসেট নয়। তাহলে, প্রকৃত উপসেটের সংখ্যা হবে 32 − 1 = 31 32 - 1 = 31 32 − 1 = 31 ।"
+    },
+    {
+      "number": "3",
+      "tag": "RB 25",
+      "question": "সমকোণী ত্রিভুজের 30 ° \\degree ° কোণ অঙ্কনের ক্ষেত্রে- i. ভূমি > লম্ব ii. ভূমি = লম্ব iii. অতিভুজ > লম্ব নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "iও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "iও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "সমকোণী ত্রিভুজের 30 ∘ 30^{\\circ} 3 0 ∘ কো ন অঙ্কনের জন্য ভূমি > লম্ব এবং অতিভুজ > লম্ব ভূমি = লম্ব হলে কোন হবে 45 ∘ 45^{\\circ} 4 5 ∘ ."
+    },
+    {
+      "number": "4",
+      "tag": "CB 23,DIN.B 23,SB 22,RCC 24,FGCC 24,RUMC 24,BCC 24,VNSC 24,MC 24,SJHSS 24",
+      "question": "f ( x ) = x 3 − k x 2 − 4 x − 8 f(x)=x^{3}-k x^{2}-4 x-8 f ( x ) = x 3 − k x 2 − 4 x − 8 হলে, k k k এর কোন মানের জন্য f ( − 2 ) = 0 f(-2)=0 f ( − 2 ) = 0 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-4",
+      "option_b": "-2",
+      "option_c": "2",
+      "option_d": "4",
+      "correct": "খ",
+      "explanation": "প্রদত্ত ফাংশন: f ( x ) = x 3 − k x 2 − 4 x − 8 f(x)=x^{3}-k x^{2}-4 x-8 f ( x ) = x 3 − k x 2 − 4 x − 8 শর্ত অনুযায়ী, f ( − 2 ) = 0 f(-2)=0 f ( − 2 ) = 0 । সুতরাং, x = − 2 x=-2 x = − 2 বসিয়ে সমীকরণরি সমাধান করা যাক: f ( − 2 ) = ( − 2 ) 3 − k ( − 2 ) 2 − 4 ( − 2 ) − 8 = 0 − 8 − k × 4 + 8 − 8 = 0 − 8 − 4 k + 8 − 8 = 0 − 4 k − 8 = 0 − 4 k = 8 k = − 2 \\begin{array}{c} f(-2)=(-2)^{3}-k(-2)^{2}-4(-2)-8=0 \\\\ -8-k \\times 4+8-8=0 \\\\ -8-4 k+8-8=0 \\\\ -4 k-8=0 \\\\ -4 k=8 \\\\ k=-2 \\end{array} f ( − 2 ) = ( − 2 ) 3 − k ( − 2 ) 2 − 4 ( − 2 ) − 8 = 0 − 8 − k × 4 + 8 − 8 = 0 − 8 − 4 k + 8 − 8 = 0 − 4 k − 8 = 0 − 4 k = 8 k = − 2 ​"
+    },
+    {
+      "number": "6",
+      "tag": "MC 24",
+      "question": "3 x − 3 x = 12  হলে,  x 3 − 1 x 3 =  ?  3 x-\\frac{3}{x}=12 \\text { হলে, } x^{3}-\\frac{1}{x^{3}}=\\text { ? } 3 x − x 3 ​ = 12   হলে ,  x 3 − x 3 1 ​ =  ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "46",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "67",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "76",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "86",
+          "is_correct": false
+        }
+      ],
+      "option_a": "46",
+      "option_b": "67",
+      "option_c": "76",
+      "option_d": "86",
+      "correct": "গ",
+      "explanation": "দেওয়া আছে, 3 x − 3 x = 12 \\quad 3 x-\\frac{3}{x}=12 3 x − x 3 ​ = 12 ∴ 3 ( x − 1 x ) = 12 ∴ ( x − 1 x ) = 12 3 = 4 ∴ x 3 − 1 x 3 = ( x − 1 x ) 3 + 3 ⋅ x ⋅ 1 x ( x − 1 x ) = 43 + 3 ⋅ 4 = 64 + 12 = 76  Ans  \\begin{array}{c} \\therefore 3\\left(x-\\frac{1}{x}\\right)=12 \\\\ \\therefore\\left(x-\\frac{1}{x}\\right)=\\frac{12}{3}=4 \\\\ \\therefore x^{3}-\\frac{1}{x^{3}}=\\left(x-\\frac{1}{x}\\right)^{3}+3 \\cdot x \\cdot \\frac{1}{x}\\left(x-\\frac{1}{x}\\right) \\\\ =43+3 \\cdot 4 \\\\ =64+12=76 \\quad \\text { Ans } \\end{array} ∴ 3 ( x − x 1 ​ ) = 12 ∴ ( x − x 1 ​ ) = 3 12 ​ = 4 ∴ x 3 − x 3 1 ​ = ( x − x 1 ​ ) 3 + 3 ⋅ x ⋅ x 1 ​ ( x − x 1 ​ ) = 43 + 3 ⋅ 4 = 64 + 12 = 76  Ans  ​"
+    },
+    {
+      "number": "7",
+      "tag": "MC 24",
+      "question": "0. 2 ˙ 3 ˙ 0.\\dot{2}\\dot{3} 0. 2 ˙ 3 ˙ সংখ্যাটি কোন ধরণের?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মূলদ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অমূলদ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "জটিল",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "স্বাভাবিক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মূলদ",
+      "option_b": "অমূলদ",
+      "option_c": "জটিল",
+      "option_d": "স্বাভাবিক",
+      "correct": "গ",
+      "explanation": "0. 2 ˙ 3 ˙ 0.\\dot{2}\\dot{3} 0. 2 ˙ 3 ˙ = 23 99 \\frac{23}{99} 99 23 ​ p q \\frac{p}{q} q p ​  আকারের কোনো সংখ্যাকে মূলদ সংখ্যা বলা হয়, যেখানে p, q পূর্ণসংখ্যা ও পরস্পর সহমৌলিক এবং q ≠0। সকল পূর্ণসংখ্যা ও ভগ্নাংশই মূলদ সংখ্যা।"
+    },
+    {
+      "number": "8",
+      "tag": "MC 24",
+      "question": "0.000329 এর সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 ‾ \\overline{4} 4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 ‾ \\overline{3} 3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 ‾ \\overline{2} 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 ‾ \\overline{1} 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 ‾ \\overline{4} 4",
+      "option_b": "3 ‾ \\overline{3} 3",
+      "option_c": "2 ‾ \\overline{2} 2",
+      "option_d": "1 ‾ \\overline{1} 1",
+      "correct": "ক",
+      "explanation": "এখানে, 0.000329 = 3.29 × 10 − 4 0.000329=3.29 \\times 10^{-4} 0.000329 = 3.29 × 1 0 − 4 ∴ \\therefore ∴ সাধারন লগের পূর্ণক = − 4 =-4 = − 4"
+    },
+    {
+      "number": "9",
+      "tag": "CTG.B 23,JB 23,BB 23,BB 22,RB 20,RB 19,SB 17,MC 24",
+      "question": "0.0332 সংখ্যাটির বৈজ্ঞানিক রূপ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "332 × 10 − 2 332 \\times 10^{-2} 332 × 1 0 − 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3.32 × 10 − 2 3.32 \\times 10^{-2} 3.32 × 1 0 − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "33.2 × 10 − 3 33.2 \\times 10^{-3} 33.2 × 1 0 − 3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.332 × 10 − 1 0.332 \\times 10^{-1} 0.332 × 1 0 − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "332 × 10 − 2 332 \\times 10^{-2} 332 × 1 0 − 2",
+      "option_b": "3.32 × 10 − 2 3.32 \\times 10^{-2} 3.32 × 1 0 − 2",
+      "option_c": "33.2 × 10 − 3 33.2 \\times 10^{-3} 33.2 × 1 0 − 3",
+      "option_d": "0.332 × 10 − 1 0.332 \\times 10^{-1} 0.332 × 1 0 − 1",
+      "correct": "ক",
+      "explanation": "সংখ্যাটির বৈজ্ঞানিক রূপ নির্ণয় করতে হলে, আমাদের সেই সংখ্যা এমন একটি রূপে লিখতে হবে যেখানে একটি সহগ এবং ১০ এর কোনো ঘাত থাকবে। 0.0332 সংখ্যা 3.32 কে ১০ এর ঘাতের সঙ্গে লিখলে এটি হবে: 0.0332 = 3.32 × 10 − 2 0.0332 = 3.32 × 10 ^{-2} 0.0332 = 3.32 × 1 0 − 2 এখানে সহগটি 3.32 এবং ঘাতটি -2, কারণ দশমিক বিন্দু দুই ঘর ডান দিকে সরাতে হবে। তাহলে সঠিক উত্তর হচ্ছে: 3.32 × 10 − 2 3.32 \\times 10^{-2} 3.32 × 1 0 − 2"
+    },
+    {
+      "number": "10",
+      "tag": "CB 25",
+      "question": "( x 2 − 3 ) 2 = 0 \\left(x^{2}-3\\right)^{2}=0 ( x 2 − 3 ) 2 = 0 সমীকরণের মূল কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "3",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "খ",
+      "explanation": "দেওয়া সমীকরণটি: ( x 2 − 3 ) 2 = 0 \\left(x^{2}-3\\right)^{2}=0 ( x 2 − 3 ) 2 = 0 এই সমীকরণের মূল বের করতে হলে, প্রথমে স্কয়ার রুট নিতে হবে: x 2 − 3 = 0 x 2 = 3 x = ± 3 \\begin{array}{c} x^{2}-3=0 \\\\ x^{2}=3 \\\\ x= \\pm \\sqrt{3} \\end{array} x 2 − 3 = 0 x 2 = 3 x = ± 3 ​ ​ অর্থাৎ, সমীকরণের দুটি মূল আছে: x = 3 , x = − 3 x=\\sqrt{3}, \\quad x=-\\sqrt{3} x = 3 ​ , x = − 3 ​ সুতরাং, সমীকরণের মোট ২টি মূল রয়েছে।"
+    },
+    {
+      "number": "11",
+      "tag": "SB 25,JB 24,BB 19,MC 24",
+      "question": "কোনো ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য 3 সে.মি. ও 6 সে.মি. হলে, তৃতীয় বাহুর দৈর্ঘ্য কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "আমরা জানি, একটি ত্রিভুজের তিন বাহুর দৈর্ঘ্য দেয়া থাকলে অংকন করা সম্ভব যদি এবং কেবল যদি যেকোনো দুই বাহু সমষ্টি তৃতীয় বাহু অপেক্ষা বৃহত্তর হয়। এক্ষেত্রে,ত্রিভুজটির তৃতীয় বাহু 4 হলে ত্রিভুজটি অঙ্কন করা সম্ভব"
+    },
+    {
+      "number": "12",
+      "tag": "MCC 24,SCC 24,MC 24",
+      "question": "নিচের কোন দুইটি কোণ দ্বারা একটি সমকোণী ত্রিভুজ গঠন করা সম্ভব?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "60°, 36°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40°, 50°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30°, 70°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "80°, 20°",
+          "is_correct": true
+        }
+      ],
+      "option_a": "60°, 36°",
+      "option_b": "40°, 50°",
+      "option_c": "30°, 70°",
+      "option_d": "80°, 20°",
+      "correct": "ঘ",
+      "explanation": "আমরা জানি, যে ত্রিভুজের একটি কোণ সমকোণ তাকে সমকোণী ত্রিভুজ বলে এবং অপর সূক্ষ্মকোন দয় পরস্পর পূরক কোণ। অর্থাৎ তাদের সমষ্টি 90° এখানে, (40°+50°)=90° সঠিক উত্তর (খ)"
+    },
+    {
+      "number": "13",
+      "tag": "MC 24",
+      "question": "চিত্রে ∠ M O N = 110 ∘ \\angle \\mathrm{MON}=110^{\\circ} ∠ MON = 11 0 ∘ হলে ∠ M P N = \\angle \\mathrm{MPN}= ∠ MPN = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "55 ∘ 55^{\\circ} 5 5 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "220 ∘ 220^{\\circ} 22 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_b": "55 ∘ 55^{\\circ} 5 5 ∘",
+      "option_c": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_d": "220 ∘ 220^{\\circ} 22 0 ∘",
+      "correct": "খ",
+      "explanation": "আমরা জানি, একই চাপের উপর দন্ডায়মান কেন্দ্রস্থ কোণ বৃত্তস্থকোণের দ্বিগুণ। MN চাপের উপর দন্ডায়মান কেন্দ্রস্থ কোণ <MON=2<MPN <MPN=110°/2=55°"
+    },
+    {
+      "number": "14",
+      "tag": "MC 24",
+      "question": "স্পর্শ বিন্দুতে, স্পর্শক ও ব্যাসার্ধ কত ডিগ্রি কোণ উৎপন্ন করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "100 ∘ 100^{\\circ} 10 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_b": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_c": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_d": "100 ∘ 100^{\\circ} 10 0 ∘",
+      "correct": "খ",
+      "explanation": "স্পর্শবিন্দুতে, স্পশর্ক ও ব্যাসার্ধ 90° কোন উৎপন্ন করে।"
+    },
+    {
+      "number": "17",
+      "tag": "BB 25,DB 24,SB 20,CTG.B 19,BB 19,MCC 24,RCC 24,CCC 24,MC 24",
+      "question": "অবনতি কোণের মান কত ডিগ্রী হলে খুঁটির দৈর্ঘ্য ছায়ার দৈর্ঘ্যের 3 \\sqrt{3} 3 ​ গুণ হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_c": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_d": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "correct": "গ",
+      "explanation": "⇒ 1 sin ⁡ x = 2 ∴ sin ⁡ x = 1 2 \\begin{array}{l} \\Rightarrow \\frac{1}{\\sin x}=2 \\\\ \\therefore \\sin x=\\frac{1}{2} \\end{array} ⇒ s i n x 1 ​ = 2 ∴ sin x = 2 1 ​ ​ ধরি, ছায়ার দৈর্ঘ্য , B C = x B C=x BC = x খুঁটির দৈর্ঘ্য , A B = 3 x A B=\\sqrt{3} x A B = 3 ​ x অবনতি কোন , ∠ D A C = θ \\angle D A C=\\theta ∠ D A C = θ △ A B C ∼ এ \\triangle A B C \\sim এ △ A BC ∼ এ tan ⁡ θ = A B B C ⇒ tan ⁡ θ = 3 x x ⇒ tan ⁡ θ = 3 ⇒ tan ⁡ θ = tan ⁡ 60 ∘ ⇒ θ = 60 ∘ \\begin{aligned} \\tan \\theta & =\\frac{A B}{B C} \\\\ \\Rightarrow \\tan \\theta & =\\frac{\\sqrt{3} x}{x} \\\\ \\Rightarrow \\tan \\theta & =\\sqrt{3} \\\\ \\Rightarrow \\tan \\theta & =\\tan 60^{\\circ} \\Rightarrow \\theta=60^{\\circ} \\end{aligned} tan θ ⇒ tan θ ⇒ tan θ ⇒ tan θ ​ = BC A B ​ = x 3 ​ x ​ = 3 ​ = tan 6 0 ∘ ⇒ θ = 6 0 ∘ ​"
+    },
+    {
+      "number": "18",
+      "tag": "MC 24",
+      "question": "নিচের কোন সংখ্যাগুলো ক্রমিক সমানুপাতী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 , 2 , 5 1,2,5 1 , 2 , 5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 , 6 , 7 5,6,7 5 , 6 , 7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 , 6 , 9 4,6,9 4 , 6 , 9",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 , 5 , 7 3,5,7 3 , 5 , 7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 , 2 , 5 1,2,5 1 , 2 , 5",
+      "option_b": "5 , 6 , 7 5,6,7 5 , 6 , 7",
+      "option_c": "4 , 6 , 9 4,6,9 4 , 6 , 9",
+      "option_d": "3 , 5 , 7 3,5,7 3 , 5 , 7",
+      "correct": "গ",
+      "explanation": "ক্রমিক সমানুপাতী হবে যদি, b 2 = a c b^{2}=a c b 2 = a c হয় option test: 1. 2 2 ≠ 1 × 5 2^{2} \\neq 1 \\times 5 2 2  = 1 × 5 2. 6 2 ≠ 5 × 7 6^{2} \\neq 5 \\times 7 6 2  = 5 × 7 3. 6 2 = 4 × 9 ⇒ 36 = 36 6^{2}=4 \\times 9 \\Rightarrow 36=36 6 2 = 4 × 9 ⇒ 36 = 36 [correct ans] 4. 5 2 ≠ 3 × 7 5^{2} \\neq 3 \\times 7 5 2  = 3 × 7"
+    },
+    {
+      "number": "19",
+      "tag": "MC 24",
+      "question": "2x + y = 8 এবং 3x - 2y = 5 সমীকরণ জোটটি পরস্পর-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নির্ভরশীল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অসমঞ্জস",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অনির্ভরশীল",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "অসংখ্যা সমাধান আছে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নির্ভরশীল",
+      "option_b": "অসমঞ্জস",
+      "option_c": "অনির্ভরশীল",
+      "option_d": "অসংখ্যা সমাধান আছে",
+      "correct": "গ",
+      "explanation": "2 x + y = 8 3 x − 2 y = 5 \\begin{array}{l} 2 x+y=8 \\\\ 3 x-2 y=5 \\end{array} 2 x + y = 8 3 x − 2 y = 5 ​ 2 3 ≠ 1 − 2 ≠ 8 5 \\frac{2}{3} \\neq \\frac{1}{-2} \\neq \\frac{8}{5} 3 2 ​  = − 2 1 ​  = 5 8 ​ সমীকরণ জোট সামঞ্জস্য, অনির্ভরশীল এবং একটি মাত্র সমাধান আছে।"
+    },
+    {
+      "number": "20",
+      "tag": "MC 24",
+      "question": "6 + 9 + 12 + . . . . . . . . . . 6 + 9 + 12 +.......... 6 + 9 + 12 + .......... ধারাটির কোন পদ 93?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28 তম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "29 তম",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30 তম",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "31 তম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "28 তম",
+      "option_b": "29 তম",
+      "option_c": "30 তম",
+      "option_d": "31 তম",
+      "correct": "গ",
+      "explanation": "6 + ( n − 1 ) 3 = 93 6+(n-1) 3=93 6 + ( n − 1 ) 3 = 93 বা, n − 1 = 87 3 ∴ n = 30 \\mathrm{n}-1=\\frac{87}{3} \\therefore \\mathrm{n}=30 n − 1 = 3 87 ​ ∴ n = 30 প্রথম পদ = 6 =6 = 6 সাধারণ অস্তর = 9 − 6 = 3 =9-6=3 = 9 − 6 = 3"
+    },
+    {
+      "number": "21",
+      "tag": "RB 23,CB 19,RUMC 24,MC 24",
+      "question": "1 3 − 1 + 3 − … . . . \\frac{1}{\\sqrt{3}}-1+\\sqrt{3}-\\ldots . . . 3 ​ 1 ​ − 1 + 3 ​ − … ... . ধারাটির ৮ম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 27 3 -27 \\sqrt{3} − 27 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-27",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "27",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "27 3 27 \\sqrt{3} 27 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 27 3 -27 \\sqrt{3} − 27 3 ​",
+      "option_b": "-27",
+      "option_c": "27",
+      "option_d": "27 3 27 \\sqrt{3} 27 3 ​",
+      "correct": "গ",
+      "explanation": "1 3 − 1 + 3 − …  ধারাটির প্রথম পদ,  a = 1 3 ∴  সাধারণ অনুপাত  = 1 1 3 = − 3 ∴ n  তম পদ  = a r n − 1 ∴ 8  ম পদ  = 1 3 × ( − 3 ) 8 − 1 = 1 3 × ( − 3 ) 7 = − 1 3 × 27 3 = − 27 \\begin{array}{l}\\frac{1}{\\sqrt{3}}-1+\\sqrt{3}-\\ldots \\\\ \\text { ধারাটির প্রথম পদ, } a=\\frac{1}{\\sqrt{3}} \\\\ \\therefore \\text { সাধারণ অনুপাত }=\\frac{1}{\\frac{1}{\\sqrt{3}}} \\\\ =-\\sqrt{3} \\\\ \\therefore n \\text { তম পদ }=a r^{n-1} \\\\ \\therefore 8 \\text { ম পদ }=\\frac{1}{\\sqrt{3}} \\times(-\\sqrt{3})^{8-1} \\\\ =\\frac{1}{\\sqrt{3}} \\times(-\\sqrt{3})^{7} \\\\ =-\\frac{1}{\\sqrt{3}} \\times 27 \\sqrt{3} \\\\ =-27\\end{array} 3 ​ 1 ​ − 1 + 3 ​ − …   ধারাটির   প্রথম   পদ ,  a = 3 ​ 1 ​ ∴   সাধারণ   অনুপাত   = 3 ​ 1 ​ 1 ​ = − 3 ​ ∴ n   তম   পদ   = a r n − 1 ∴ 8   ম   পদ   = 3 ​ 1 ​ × ( − 3 ​ ) 8 − 1 = 3 ​ 1 ​ × ( − 3 ​ ) 7 = − 3 ​ 1 ​ × 27 3 ​ = − 27 ​"
+    },
+    {
+      "number": "22",
+      "tag": "DB 23,CTG.B 19,MC 24",
+      "question": "একটি সমবাহু ত্রিভুজের ক্ষেত্রফল 6 3 6 \\sqrt{3} 6 3 ​ বর্গমিটার হলে এর পরিসীমা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.89 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "14.69 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "19.59 মিটার",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "72.00 মিটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4.89 মিটার",
+      "option_b": "14.69 মিটার",
+      "option_c": "19.59 মিটার",
+      "option_d": "72.00 মিটার",
+      "correct": "গ",
+      "explanation": "সমবাহু ত্রিভুজের ক্ষেত্রফল= 3 4 a 2 \\frac{\\sqrt{3}}{4}a^2 4 3 ​ ​ a 2 = 6 3 \\sqrt{3} 3 ​ ⇒ \\Rightarrow ⇒ a²= 24 ⇒ \\Rightarrow ⇒ a= 2 6 \\sqrt{6} 6 ​ মিটার সমবাহু ত্রিভুজের পরিসীমা 3a=3×2 6 \\sqrt{6} 6 ​ =6 6 \\sqrt{6} 6 ​ = 14.69 মিটার"
+    },
+    {
+      "number": "23",
+      "tag": "MC 24",
+      "question": "বর্গক্ষেত্রের প্রতি বাহুর দৈর্ঘ্য a এবং কর্ণ d হলে- i. ক্ষেত্রফল a 2 a^{2} a 2 বর্গ একক ii. পরিসীমা 2ad একক iii. কর্ণ d = 2 d=\\sqrt{2} d = 2 ​ a নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i , ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i , ii ও iii",
+      "correct": "খ",
+      "explanation": "বর্গক্ষেত্রের বাহুর দৈর্ঘ্য a এবং কর্ণ d হলে, (i) ক্ষেত্রফল = a 2 a^{2} a 2 বর্গ একক (ii) পরিসীমা = 4a একক (iii) কর্ণ, d=2​a একক Ans: (i) ও (iii)"
+    },
+    {
+      "number": "24",
+      "tag": "CCC 24,MC 24",
+      "question": "কোনো একটি প্রকৃত ভগ্নাংশের লব ও হরের সমষ্টি এবং অন্তর যথাক্রমে 5 এবং 1 হলে ভগ্নাংশটি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 2 \\frac{5}{2} 2 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_b": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_c": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_d": "5 2 \\frac{5}{2} 2 5 ​",
+      "correct": "খ",
+      "explanation": "এখানে, ধরি, ভগ্নাংশটি   = x y [ y > x ] \\text { }=\\frac{x}{y} \\quad[y>x]   = y x ​ [ y > x ] প্রশ্নমতে , x + y = 5.. ( i ) y − x = 9 … . . ( i i ) \\begin{array}{l} x+y=5..(i) \\\\ y-x=9…..(ii) \\end{array} x + y = 5.. ( i ) y − x = 9 … .. ( ii ) ​ (i)+(ii) করে, 2 y = 6 ⇒ y = 3 \\begin{aligned} 2 y & =6 \\\\ \\Rightarrow y & =3 \\end{aligned} 2 y ⇒ y ​ = 6 = 3 ​ ∴ x = y − 1 = 3 − 1 = 2 \\begin{aligned} \\therefore \\quad x & =y-1 \\\\ & =3-1 \\\\ & =2 \\end{aligned} ∴ x ​ = y − 1 = 3 − 1 = 2 ​ ∴  ভগ্নাংশটি  = 2 / 3 \\therefore \\text { ভগ্নাংশটি }=2 / 3 ∴   ভগ্নাংশটি   = 2/3"
+    },
+    {
+      "number": "25",
+      "tag": "RB 25,CB 25,JB 25,DB 24,CB 24,MB 24,CTG.B 24,DB 24,DB 23,DIN.B 23,JB 23,BB 23,CB 22,DIN.B 22,SB 22,BB 22,SB 20,DIN.B 20,DB 19,RCC 24,RCC 24,PCC 24,BCC 24,RUMC 24,HC 24,MC 24,MCPSC 24,RGLHS 24,BCPC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: শ্রেণিব্যাপ্তি 21-30 31-40 41-50 51-60 গণসংখ্যা 4 12 8 10 প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28.67",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27.67",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "47.67",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "37.17",
+          "is_correct": false
+        }
+      ],
+      "option_a": "28.67",
+      "option_b": "27.67",
+      "option_c": "47.67",
+      "option_d": "37.17",
+      "correct": "খ",
+      "explanation": "প্রদত্ত শ্রেণি ও গণসংখ্যা: শ্রেণিসীমা গণসংখ্যা 21 - 30 4 31 - 40 12 41 - 50 8 51 - 60 10 প্রদত্ত সারণি থেকে দেখা যায় যে, সর্বাধিক গণসংখ্যা হলো 12, যা 31 – 40 শ্রেণিতে অবস্থিত। সুতরাং, প্রচুরক শ্রেণী হলো 31 – 40। প্রচুরক শ্রেণির নিম্নসীমা, L = 30.5 L = 30.5 L = 30.5 (প্রকৃত নিম্নসীমা) প্রচুরক শ্রেণির গণসংখ্যা, f 1 = 12 f_1 = 12 f 1 ​ = 12 প্রচুরক শ্রেণির পূর্ববর্তী শ্রেণির গণসংখ্যা, f 0 = 4 f_0 = 4 f 0 ​ = 4 প্রচুরক শ্রেণির পরবর্তী শ্রেণির গণসংখ্যা, f 2 = 8 f_2 = 8 f 2 ​ = 8 শ্রেণিব্যাপ্তি, h = 10 h = 10 h = 10 প্রচুরক নির্ণয়ের সূত্রটি হলো: = L + f 1 − f 0 ( f 1 − f 0 ) + ( f 1 − f 2 ) × h = L + \\frac{f_1 - f_0}{(f_1 - f_0) + (f_1 - f_2)} \\times h = L + ( f 1 ​ − f 0 ​ ) + ( f 1 ​ − f 2 ​ ) f 1 ​ − f 0 ​ ​ × h = 30.5 + 12 − 4 ( 12 − 4 ) + ( 12 − 8 ) × 10 = 30.5 + \\frac{12 - 4}{(12 - 4) + (12 - 8)} \\times 10 = 30.5 + ( 12 − 4 ) + ( 12 − 8 ) 12 − 4 ​ × 10 = 30.5 + 8 8 + 4 × 10 = 30.5 + \\frac{8}{8 + 4} \\times 10 = 30.5 + 8 + 4 8 ​ × 10 = 30.5 + 8 12 × 10 = 30.5 + \\frac{8}{12} \\times 10 = 30.5 + 12 8 ​ × 10 = 30.5 + 80 12 = 30.5 + \\frac{80}{12} = 30.5 + 12 80 ​ = 30.5 + 6.67 = 30.5 + 6.67 = 30.5 + 6.67 = 37.17 = 37.17 = 37.17"
+    },
+    {
+      "number": "26",
+      "tag": "MC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: শ্রেণি 30-40 40-50 50-60 60-70 70-80 গণসংখ্যা 6 8 12 13 5 প্রচুরক নির্ণয়ের ক্ষেত্রে f 2 = f_{2} = f 2 ​ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "4",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "ক",
+      "explanation": "f2=প্রচুরক শ্রেণীর গণসংখ্যা - পরবর্তী শ্রেণীর গণসংখ্যা =13-5 =8"
+    },
+    {
+      "number": "27",
+      "tag": "JB 19,ISCM 24,BAFSC 24,MC 24",
+      "question": "এটি সমবাহু ত্রিভুজের প্রতিসম মাত্রা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "ঘ",
+      "explanation": "সমবাহু ত্রিভুজের প্রতিসম মাত্রা থাকে ৩টি। কারণ: সমবাহু ত্রিভুজের তিনটি বাহুই সমান, তিনটি কোণও সমান (৬০°), তাই প্রতিটি শীর্ষবিন্দু থেকে বিপরীত বাহুর মধ্যবিন্দু পর্যন্ত একটি করে প্রতিসম রেখা আঁকা যায়।"
+    },
+    {
+      "number": "28",
+      "tag": "MC 24",
+      "question": "△ A B C \\triangle \\mathrm{ABC} △ ABC এ DF || BC হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A B : B C = A C : C F \\mathrm{AB}: \\mathrm{BC}=\\mathrm{AC}: \\mathrm{CF} AB : BC = AC : CF",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A B : A D = A C : A F \\mathrm{AB}: \\mathrm{AD}=\\mathrm{AC}: \\mathrm{AF} AB : AD = AC : AF",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A B : A D = A C : D F \\mathrm{AB}: \\mathrm{AD}=\\mathrm{AC}: \\mathrm{DF} AB : AD = AC : DF",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A B : D F = A C : C F \\mathrm{AB}: \\mathrm{DF}=\\mathrm{AC}: \\mathrm{CF} AB : DF = AC : CF",
+          "is_correct": true
+        }
+      ],
+      "option_a": "A B : B C = A C : C F \\mathrm{AB}: \\mathrm{BC}=\\mathrm{AC}: \\mathrm{CF} AB : BC = AC : CF",
+      "option_b": "A B : A D = A C : A F \\mathrm{AB}: \\mathrm{AD}=\\mathrm{AC}: \\mathrm{AF} AB : AD = AC : AF",
+      "option_c": "A B : A D = A C : D F \\mathrm{AB}: \\mathrm{AD}=\\mathrm{AC}: \\mathrm{DF} AB : AD = AC : DF",
+      "option_d": "A B : D F = A C : C F \\mathrm{AB}: \\mathrm{DF}=\\mathrm{AC}: \\mathrm{CF} AB : DF = AC : CF",
+      "correct": "ঘ",
+      "explanation": "সদৃশ ত্রিভুজের শর্তানুসারে, A B : A D = A C : A F A B: A D=A C: A F A B : A D = A C : A F"
+    },
+    {
+      "number": "29",
+      "tag": "MC 24",
+      "question": "একটি ত্রিভুজের বাহু তিনটির অনুপাত 3 : 4 : 5 3:4:5 3 : 4 : 5 এবং ত্রিভুজটির পরিসীমা 24 মিটার হলে- i. ত্রিভুজটি সমকোণী ii. বৃহত্তর বাহুর দৈর্ঘ্য 10 মিটার iii. ত্রিভুজটির ক্ষেত্রফল 12 বর্গ মিটার নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "(iii) সঠিক নয়, কারণ, 3 x + 4 x + 5 x = 24 3 \\mathrm{x}+4 \\mathrm{x}+5 \\mathrm{x}=24 3 x + 4 x + 5 x = 24 বা, 12 x = 24 12 x=24 12 x = 24 ∴ x = 2 ∴ 3 x = 3 × 2 = 6 \\therefore x=2 \\therefore 3 x=3 \\times 2=6 ∴ x = 2 ∴ 3 x = 3 × 2 = 6 এবং 4 x = 4 × 2 = 8 4 x=4 \\times 2=8 4 x = 4 × 2 = 8 ∴ \\therefore ∴ ত্রিভুজটির ক্ষেত্রফল = 1 2 × 6 × 8 = 24 =\\frac{1}{2} \\times 6 \\times 8=24 = 2 1 ​ × 6 × 8 = 24 বর্গ সে.মি."
+    },
+    {
+      "number": "30",
+      "tag": "RB 17,RCC 24,MC 24,NISD 24",
+      "question": "60 ∘ 60^{\\circ} 6 0 ∘ কোণের সম্পূরক কোণের অর্ধেক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_c": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_d": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "correct": "খ",
+      "explanation": "আমরা জানি দুটি কোণের সমষ্টি 180° হলে তারা পরস্পর সম্পূরক কোণ। 60° কোনের সম্পূরক কোণ =(180-60)°=120° অতএব 60° কোনের সম্পূরক কোণের অর্ধেক =(120/2)° =60°"
+    }
+  ]
+}

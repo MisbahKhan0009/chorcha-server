@@ -1,0 +1,799 @@
+{
+  "read_id": "NuwpJxLRLqmowTqD",
+  "title": "সিলেট ক্যাডেট কলেজ ২০২৫",
+  "count": 24,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "SCC 25",
+      "question": "1 3 + 1 12 + 1 48 + … \\frac{1}{3} + \\frac{1}{12} + \\frac{1}{48} + \\dots 3 1 ​ + 12 1 ​ + 48 1 ​ + … অসীম গুণোত্তর ধারার- 1.1. নিচের কোনটি সঠিক? i. সমষ্টি = 4 9 \\frac{4}{9} 9 4 ​ ii. n-তম পদ = 4 1 − n 3 \\frac{4^{1-n}}{3} 3 4 1 − n ​ iii. 10-তম পদ = 4 − 9 3 \\frac{4^{-9}}{3} 3 4 − 9 ​",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "1 3 + 1 12 + 1 48 + … \\frac{1}{3} + \\frac{1}{12} + \\frac{1}{48} + \\dots 3 1 ​ + 12 1 ​ + 48 1 ​ + … অসীম গুণোত্তর ধারার ১ম পদ, a = 1 3 a = \\frac{1}{3} a = 3 1 ​ সাধারণ অনুপাত r = 1 12 ÷ 1 3 = 1 4 r = \\frac{1}{12} \\div \\frac{1}{3} = \\frac{1}{4} r = 12 1 ​ ÷ 3 1 ​ = 4 1 ​ ; (i) S ∞ = a 1 − r = 1 3 1 − 1 4 = 1 3 3 4 = 4 9 S_{\\infty} = \\frac{a}{1-r} = \\frac{\\frac{1}{3}}{1-\\frac{1}{4}} = \\frac{\\frac{1}{3}}{\\frac{3}{4}} = \\frac{4}{9} S ∞ ​ = 1 − r a ​ = 1 − 4 1 ​ 3 1 ​ ​ = 4 3 ​ 3 1 ​ ​ = 9 4 ​ (ii) n-তম পদ = a r n − 1 = 1 3 ( 1 4 ) n − 1 = 4 1 − n 3 = ar^{n-1} = \\frac{1}{3} \\left(\\frac{1}{4}\\right)^{n-1} = \\frac{4^{1-n}}{3} = a r n − 1 = 3 1 ​ ( 4 1 ​ ) n − 1 = 3 4 1 − n ​ (iii) 10-তম পদ = 4 1 − 10 3 = 4 − 9 3 = \\frac{4^{1-10}}{3} = \\frac{4^{-9}}{3} = 3 4 1 − 10 ​ = 3 4 − 9 ​ ∴ \\therefore ∴ তিনটি তথ্যই সঠিক।"
+    },
+    {
+      "number": "2",
+      "tag": "SCC 25",
+      "question": "যদি 2 cos ⁡ 2 θ − 2 + 3 cos ⁡ θ = 0 2\\cos^2\\theta - 2 + 3\\cos\\theta = 0 2 cos 2 θ − 2 + 3 cos θ = 0 এবং 0 < θ < π 2 0 < \\theta < \\frac{\\pi}{2} 0 < θ < 2 π ​ হলে, θ \\theta θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^\\circ 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^\\circ 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^\\circ 6 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "90 ∘ 90^\\circ 9 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^\\circ 3 0 ∘",
+      "option_b": "45 ∘ 45^\\circ 4 5 ∘",
+      "option_c": "60 ∘ 60^\\circ 6 0 ∘",
+      "option_d": "90 ∘ 90^\\circ 9 0 ∘",
+      "correct": "গ",
+      "explanation": "2 cos ⁡ 2 θ − 2 + 3 cos ⁡ θ = 0 2\\cos^2\\theta - 2 + 3\\cos\\theta = 0 2 cos 2 θ − 2 + 3 cos θ = 0 বা, 2 cos ⁡ 2 θ + 4 cos ⁡ θ − cos ⁡ θ − 2 = 0 2\\cos^2\\theta + 4\\cos\\theta - \\cos\\theta - 2 = 0 2 cos 2 θ + 4 cos θ − cos θ − 2 = 0 বা, 2 cos ⁡ θ ( cos ⁡ θ + 2 ) − 1 ( cos ⁡ θ + 2 ) = 0 2\\cos\\theta (\\cos\\theta + 2) - 1(\\cos\\theta + 2) = 0 2 cos θ ( cos θ + 2 ) − 1 ( cos θ + 2 ) = 0 বা, ( cos ⁡ θ + 2 ) ( 2 cos ⁡ θ − 1 ) = 0 (\\cos\\theta + 2)(2\\cos\\theta - 1) = 0 ( cos θ + 2 ) ( 2 cos θ − 1 ) = 0 ∴ 2 cos ⁡ θ − 1 = 0 \\therefore 2\\cos\\theta - 1 = 0 ∴ 2 cos θ − 1 = 0 [ ∵ cos ⁡ θ ≠ − 2 \\because \\cos\\theta \\ne -2 ∵ cos θ  = − 2 ] বা, cos ⁡ θ = 1 2 = cos ⁡ 60 ∘ ∴ θ = 60 ∘ \\cos\\theta = \\frac{1}{2} = \\cos60^\\circ \\therefore \\theta = 60^\\circ cos θ = 2 1 ​ = cos 6 0 ∘ ∴ θ = 6 0 ∘"
+    },
+    {
+      "number": "3",
+      "tag": "SCC 25",
+      "question": "যদি 1 − log ⁡ c . a b = 0 1 - \\log_{c}.ab = 0 1 − lo g c ​ . ab = 0 হলে, নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a b c − 1 = 0 abc - 1 = 0 ab c − 1 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a b c + 1 = 0 abc + 1 = 0 ab c + 1 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "c = a b c = ab c = ab",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a b c = 0 abc = 0 ab c = 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a b c − 1 = 0 abc - 1 = 0 ab c − 1 = 0",
+      "option_b": "a b c + 1 = 0 abc + 1 = 0 ab c + 1 = 0",
+      "option_c": "c = a b c = ab c = ab",
+      "option_d": "a b c = 0 abc = 0 ab c = 0",
+      "correct": "গ",
+      "explanation": "1 − log ⁡ a b = 0 1 - \\log_{ab} = 0 1 − lo g ab ​ = 0 বা, log ⁡ c a b = 1 = log ⁡ c c ∴ a b = c \\log_{c}ab = 1 = \\log_{c}c \\therefore ab = c lo g c ​ ab = 1 = lo g c ​ c ∴ ab = c"
+    },
+    {
+      "number": "4",
+      "tag": "SCC 25",
+      "question": "f ( x ) = x ∣ x − 1 ∣ f(x) = \\frac{x}{|x-1 |} f ( x ) = ∣ x − 1∣ x ​ ফাংশনের ডোমেন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "R",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "R − { 1 } R - \\{1\\} R − { 1 }",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "R − { 0 } R - \\{0\\} R − { 0 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "∅ \\emptyset ∅",
+          "is_correct": false
+        }
+      ],
+      "option_a": "R",
+      "option_b": "R − { 1 } R - \\{1\\} R − { 1 }",
+      "option_c": "R − { 0 } R - \\{0\\} R − { 0 }",
+      "option_d": "∅ \\emptyset ∅",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "SCC 25",
+      "question": "( y 4 + 1 y 4 ) 8 (y^4 + \\frac{1}{y^4})^8 ( y 4 + y 4 1 ​ ) 8 এর বিস্তৃতিতে y y y মুক্ত পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "70",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "90",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "100",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "110",
+          "is_correct": false
+        }
+      ],
+      "option_a": "70",
+      "option_b": "90",
+      "option_c": "100",
+      "option_d": "110",
+      "correct": "ক",
+      "explanation": "ধরি, ( y 4 + 1 y ) 8 \\left(y^4 + \\frac{1}{y}\\right)^8 ( y 4 + y 1 ​ ) 8 এর বিস্তৃতিতে ( r + 1 ) (r+1) ( r + 1 ) তম পদ y y y মুক্ত। ∴ ( r + 1 ) \\therefore (r+1) ∴ ( r + 1 ) তম পদ = 8 C r ( y 4 ) 8 − r ( 1 y ) r = 8 C r . y 32 − 4 r . y − r = {}^8C_r (y^4)^{8-r} \\left(\\frac{1}{y}\\right)^r = {}^8C_r . y^{32-4r} . y^{-r} = 8 C r ​ ( y 4 ) 8 − r ( y 1 ​ ) r = 8 C r ​ . y 32 − 4 r . y − r = 8 C r y 32 − 8 r = {}^8C_r y^{32-8r} = 8 C r ​ y 32 − 8 r শর্তমতে, 32 − 8 r = 0 32 - 8r = 0 32 − 8 r = 0 বা, 8 r = 32 ∴ r = 4 8r = 32 \\therefore r = 4 8 r = 32 ∴ r = 4 ∴ y \\therefore y ∴ y -মুক্ত পদ = 8 C 4 = 70 = {}^8C_4 = 70 = 8 C 4 ​ = 70"
+    },
+    {
+      "number": "6",
+      "tag": "SCC 25",
+      "question": "( 2 + 3 x k ) 6 (2 + \\frac{3x}{k})^6 ( 2 + k 3 x ​ ) 6 এর বিস্তৃতিতে x 3 x^3 x 3 এর সহগ 30 21 \\frac{30}{21} 21 30 ​ হলে, k k k এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 14 3 6\\sqrt[3]{14} 6 3 14 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5 12 3 \\sqrt[3]{12} 3 12 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 12 4\\sqrt{12} 4 12 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 16 3 7\\sqrt[3]{16} 7 3 16 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 14 3 6\\sqrt[3]{14} 6 3 14 ​",
+      "option_b": "5 12 3 \\sqrt[3]{12} 3 12 ​",
+      "option_c": "4 12 4\\sqrt{12} 4 12 ​",
+      "option_d": "7 16 3 7\\sqrt[3]{16} 7 3 16 ​",
+      "correct": "ক",
+      "explanation": "ধরি, ( 2 + 3 x k ) 6 \\left(2 + \\frac{3x}{k}\\right)^6 ( 2 + k 3 x ​ ) 6 এর বিস্তৃতিতে ( r + 1 ) (r+1) ( r + 1 ) তম পদে x 3 x^3 x 3 এর সহগ আছে। ∴ ( r + 1 ) \\therefore (r+1) ∴ ( r + 1 ) তম পদ = 6 C r .2 6 − r . ( 3 x k ) r = 6 C r .2 6 − r .3 r . x r . k − r = {}^6C_r . 2^{6-r} . \\left(\\frac{3x}{k}\\right)^r = {}^6C_r . 2^{6-r} . 3^r . x^r . k^{-r} = 6 C r ​ . 2 6 − r . ( k 3 x ​ ) r = 6 C r ​ . 2 6 − r . 3 r . x r . k − r শর্তমতে, x 3 x^3 x 3 এর জন্য r = 3 r = 3 r = 3 x 3 x^3 x 3 এর সহগ = 30 21 ∴ 6 C 3 × 2 6 − 3 .3 3 . k − 3 = 30 21 = \\frac{30}{21} \\therefore {}^6C_3 \\times 2^{6-3} . 3^3 . k^{-3} = \\frac{30}{21} = 21 30 ​ ∴ 6 C 3 ​ × 2 6 − 3 . 3 3 . k − 3 = 21 30 ​ বা, 20 × 8 × 27 × k = 30 21 20 \\times 8 \\times 27 \\times k = \\frac{30}{21} 20 × 8 × 27 × k = 21 30 ​ বা, 4320 × k = 30 21 4320 \\times k = \\frac{30}{21} 4320 × k = 21 30 ​ বা, 1 k = 1 3024 \\frac{1}{k} = \\frac{1}{3024} k 1 ​ = 3024 1 ​ বা, k 3 = 3024 ∴ k = 3024 3 = 216 × 14 3 ∴ k = 6 14 3 k^3 = 3024 \\therefore k = \\sqrt[3]{3024} = \\sqrt[3]{216 \\times 14} \\therefore k = 6\\sqrt[3]{14} k 3 = 3024 ∴ k = 3 3024 ​ = 3 216 × 14 ​ ∴ k = 6 3 14 ​"
+    },
+    {
+      "number": "7",
+      "tag": "SCC 25",
+      "question": "( 4 x + 1 2 x ) 6 (4x + \\frac{1}{2x})^6 ( 4 x + 2 x 1 ​ ) 6 এর বিস্তৃতিতে মধ্যপদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "150",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "160",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "180",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "190",
+          "is_correct": false
+        }
+      ],
+      "option_a": "150",
+      "option_b": "160",
+      "option_c": "180",
+      "option_d": "190",
+      "correct": "খ",
+      "explanation": "যেহেতু দ্বিপদীর ঘাত 6, যা জোড় সংখ্যা, সেহেতু মধ্যপদ হবে ( 6 2 + 1 ) \\left(\\frac{6}{2} + 1\\right) ( 2 6 ​ + 1 ) বা, ( 3 + 1 ) (3+1) ( 3 + 1 ) তম পদ ( 4 x + 1 2 x ) 6 \\left(4x+\\frac{1}{2x}\\right)^6 ( 4 x + 2 x 1 ​ ) 6 এর বিস্তৃতিতে মধ্যপদ, T 3 + 1 = 6 C 3 ( 4 x ) 3 ( 1 2 x ) 3 T_{3+1} = ^6C_3(4x)^3\\left(\\frac{1}{2x}\\right)^3 T 3 + 1 ​ = 6 C 3 ​ ( 4 x ) 3 ( 2 x 1 ​ ) 3 = 20 × 64 × 1 8 = 160 = 20 \\times 64 \\times \\frac{1}{8} = 160 = 20 × 64 × 8 1 ​ = 160"
+    },
+    {
+      "number": "8",
+      "tag": "SCC 25",
+      "question": "যদি A ( 0 , 0 ) , B ( − 3 , 3 ) A(0, 0), B(-3, 3) A ( 0 , 0 ) , B ( − 3 , 3 ) ও C ( − 1 , 1 ) C(-1, 1) C ( − 1 , 1 ) তিনটি বিন্দু হয়, তবে- 8.1. নিচের কোনটি সঠিক? i. AC সরলরেখা x-অক্ষকে ( − 3 , 0 ) (-3, 0) ( − 3 , 0 ) বিন্দুতে ছেদ করে ii. AB এর ঢাল − 1 -1 − 1 iii. △ A B C \\triangle ABC △ A BC এর ক্ষেত্রফল 0 বর্গএকক",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "SCC 25",
+      "question": "যদি 3 cot ⁡ 2 θ = 1 3\\cot^2\\theta = 1 3 cot 2 θ = 1 এবং π 2 < θ < π \\frac{\\pi}{2} < \\theta < \\pi 2 π ​ < θ < π হয়, তবে θ \\theta θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 π 3 \\frac{2\\pi}{3} 3 2 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "π 2 \\frac{\\pi}{2} 2 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π 4 \\frac{\\pi}{4} 4 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π 6 \\frac{\\pi}{6} 6 π ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 π 3 \\frac{2\\pi}{3} 3 2 π ​",
+      "option_b": "π 2 \\frac{\\pi}{2} 2 π ​",
+      "option_c": "π 4 \\frac{\\pi}{4} 4 π ​",
+      "option_d": "π 6 \\frac{\\pi}{6} 6 π ​",
+      "correct": "ক",
+      "explanation": "3 cot ⁡ 2 θ = 1 3\\cot^2\\theta = 1 3 cot 2 θ = 1 বা, cot ⁡ 2 θ = 1 3 \\cot^2\\theta = \\frac{1}{3} cot 2 θ = 3 1 ​ বা, cot ⁡ θ = − 1 3 [ ∴ π 2 < θ < π ব্যবধিতে cot ⁡ θ ঋণাত্মক ] \\cot\\theta = -\\frac{1}{\\sqrt{3}} \\left[\\therefore \\frac{\\pi}{2} < \\theta < \\pi \\text{ ব্যবধিতে } \\cot\\theta \\text{ ঋণাত্মক}\\right] cot θ = − 3 ​ 1 ​ [ ∴ 2 π ​ < θ < π ব্যবধিতে cot θ ঋণাত্মক ] বা, cot ⁡ θ = − cot ⁡ ( π 3 ) \\cot\\theta = -\\cot\\left(\\frac{\\pi}{3}\\right) cot θ = − cot ( 3 π ​ ) বা, cot ⁡ θ = cot ⁡ ( π − π 3 ) ∴ θ = 2 π 3 \\cot\\theta = \\cot\\left(\\pi - \\frac{\\pi}{3}\\right) \\therefore \\theta = \\frac{2\\pi}{3} cot θ = cot ( π − 3 π ​ ) ∴ θ = 3 2 π ​"
+    },
+    {
+      "number": "10",
+      "tag": "SCC 25",
+      "question": "x 12 x 11 x 9 3 19 এর মান কত? \\sqrt[19]{x^{12}\\sqrt{x^{11}\\sqrt[3]{x^9}}} \\text{এর মান কত?} 19 x 12 x 11 3 x 9 ​ ​ ​ এর মান কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x x x",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x 2 x^2 x 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 3 x^3 x 3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 4 x^4 x 4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x x x",
+      "option_b": "x 2 x^2 x 2",
+      "option_c": "x 3 x^3 x 3",
+      "option_d": "x 4 x^4 x 4",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "SCC 25",
+      "question": "ভেক্টরের ক্ষেত্রে- 11.1. নিচের কোনটি সঠিক? i. A A ⃗ \\vec{AA} AA একটি বিন্দু ভেক্টর ii. শূন্য ভেক্টরের দিক নির্ণয় করা যায় iii. সমান ভেক্টরের ধারক রেখা সমান্তরাল",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "SCC 25",
+      "question": "যদি A , B , C A, B, C A , B , C এর অবস্থান ভেক্টর যথাক্রমে a ⃗ , b ⃗ \\vec{a}, \\vec{b} a , b , c ⃗ \\vec{c} c এবং C, A B AB A B রেখাকে 6 : 13 6 : 13 6 : 13 অনুপাতে অন্তর্বিভক্ত করলে, c ⃗ = \\vec{c} = c = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 b ⃗ + 13 a ⃗ 19 \\frac{6\\vec{b} + 13\\vec{a}}{19} 19 6 b + 13 a ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "13 a ⃗ − 6 b ⃗ 19 \\frac{13\\vec{a} - 6\\vec{b}}{19} 19 13 a − 6 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6 b ⃗ − 13 a ⃗ 19 \\frac{6\\vec{b} - 13\\vec{a}}{19} 19 6 b − 13 a ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "13 b ⃗ − 6 a ⃗ 19 \\frac{13\\vec{b} - 6\\vec{a}}{19} 19 13 b − 6 a ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 b ⃗ + 13 a ⃗ 19 \\frac{6\\vec{b} + 13\\vec{a}}{19} 19 6 b + 13 a ​",
+      "option_b": "13 a ⃗ − 6 b ⃗ 19 \\frac{13\\vec{a} - 6\\vec{b}}{19} 19 13 a − 6 b ​",
+      "option_c": "6 b ⃗ − 13 a ⃗ 19 \\frac{6\\vec{b} - 13\\vec{a}}{19} 19 6 b − 13 a ​",
+      "option_d": "13 b ⃗ − 6 a ⃗ 19 \\frac{13\\vec{b} - 6\\vec{a}}{19} 19 13 b − 6 a ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "SCC 25",
+      "question": "দুইটি মুদ্রা নিক্ষেপ করা হলো । সর্বাধিক সংখ্যক 'T' পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 8 \\frac{3}{8} 8 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 8 \\frac{5}{8} 8 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_b": "3 8 \\frac{3}{8} 8 3 ​",
+      "option_c": "5 8 \\frac{5}{8} 8 5 ​",
+      "option_d": "3 4 \\frac{3}{4} 4 3 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "SCC 25",
+      "question": "দুইটি মুদ্রা নিক্ষেপ করা হলো । কমপক্ষে একটি 'H' পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 8 \\frac{3}{8} 8 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 8 \\frac{5}{8} 8 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_b": "3 8 \\frac{3}{8} 8 3 ​",
+      "option_c": "5 8 \\frac{5}{8} 8 5 ​",
+      "option_d": "3 4 \\frac{3}{4} 4 3 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "SCC 25",
+      "question": "যদি tan ⁡ θ = 1 2 , π < θ < 3 π 2 \\tan\\theta = \\frac{1}{2}, \\pi < \\theta < \\frac{3\\pi}{2} tan θ = 2 1 ​ , π < θ < 2 3 π ​ হয়, তবে sec ⁡ θ \\sec\\theta sec θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 2 5 -\\frac{2}{\\sqrt{5}} − 5 ​ 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 5 \\frac{2}{\\sqrt{5}} 5 ​ 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 5 2 -\\frac{\\sqrt{5}}{2} − 2 5 ​ ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 2 \\frac{\\sqrt{5}}{2} 2 5 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 2 5 -\\frac{2}{\\sqrt{5}} − 5 ​ 2 ​",
+      "option_b": "2 5 \\frac{2}{\\sqrt{5}} 5 ​ 2 ​",
+      "option_c": "− 5 2 -\\frac{\\sqrt{5}}{2} − 2 5 ​ ​",
+      "option_d": "5 2 \\frac{\\sqrt{5}}{2} 2 5 ​ ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "SCC 25",
+      "question": "5 x 6 − 7 x 9 + 3 x 2 y 8 − 9 5x^6 - 7x^9 + 3x^2y^8 - 9 5 x 6 − 7 x 9 + 3 x 2 y 8 − 9 বহুপদীর মুখ্যসহগ ও ধ্রুব পদের যোগফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-16",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-16",
+      "option_b": "-9",
+      "option_c": "-7",
+      "option_d": "-6",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "SCC 25",
+      "question": "x − 2 x 2 − 5 x + 6 = A x − 3 + B x − 2 \\frac{x-2}{x^2-5x+6} = \\frac{A}{x-3} + \\frac{B}{x-2} x 2 − 5 x + 6 x − 2 ​ = x − 3 A ​ + x − 2 B ​ হলে, B এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "6",
+      "correct": "ক",
+      "explanation": "x − 2 x 2 − 5 x + 6 = A x − 3 + B x − 2 \\frac{x-2}{x^2-5x+6} = \\frac{A}{x-3} + \\frac{B}{x-2} x 2 − 5 x + 6 x − 2 ​ = x − 3 A ​ + x − 2 B ​ বা, x − 2 = A ( x − 2 ) + B ( x − 3 ) ∴ x = 2 x-2 = A(x-2)+B(x-3) \\therefore x = 2 x − 2 = A ( x − 2 ) + B ( x − 3 ) ∴ x = 2 হলে, B = 0 B = 0 B = 0"
+    },
+    {
+      "number": "18",
+      "tag": "SCC 25",
+      "question": "নিচের কোনটি চক্রক্রমিক রাশি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 x 3 + x y z − 7 y 3 + 3 z 2 5x^3 + xyz - 7y^3 + 3z^2 5 x 3 + x yz − 7 y 3 + 3 z 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 x 2 + x y z + y 2 + 2 z 2 2x^2 + xyz + y^2 + 2z^2 2 x 2 + x yz + y 2 + 2 z 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x − x y z − y − z x - xyz - y - z x − x yz − y − z",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 3 + x y z + y 3 + z 3 − 3 x^3 + xyz + y^3 + z^3 - 3 x 3 + x yz + y 3 + z 3 − 3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5 x 3 + x y z − 7 y 3 + 3 z 2 5x^3 + xyz - 7y^3 + 3z^2 5 x 3 + x yz − 7 y 3 + 3 z 2",
+      "option_b": "2 x 2 + x y z + y 2 + 2 z 2 2x^2 + xyz + y^2 + 2z^2 2 x 2 + x yz + y 2 + 2 z 2",
+      "option_c": "x − x y z − y − z x - xyz - y - z x − x yz − y − z",
+      "option_d": "x 3 + x y z + y 3 + z 3 − 3 x^3 + xyz + y^3 + z^3 - 3 x 3 + x yz + y 3 + z 3 − 3",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "SCC 25",
+      "question": "3 x 6 y + 5 x y 3 + 2 x 3 y 5 − 6 3x^6y + 5xy^3 + 2x^3y^5 - 6 3 x 6 y + 5 x y 3 + 2 x 3 y 5 − 6 বহুপদীর – i. ধ্রুবপদ = − 6 = -6 = − 6 ii. মুখ্যসহগ = 2 = 2 = 2 iii. মাত্রা = 6 = 6 = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "SCC 25",
+      "question": "0.21 ’ 0.21’ 0.21’ এর মূলদ ভগ্নাংশ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20 90 \\frac{20}{90} 90 20 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "19 90 \\frac{19}{90} 90 19 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "20 99 \\frac{20}{99} 99 20 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "21 99 \\frac{21}{99} 99 21 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20 90 \\frac{20}{90} 90 20 ​",
+      "option_b": "19 90 \\frac{19}{90} 90 19 ​",
+      "option_c": "20 99 \\frac{20}{99} 99 20 ​",
+      "option_d": "21 99 \\frac{21}{99} 99 21 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "SCC 25",
+      "question": "1 3 , 1 6 , 1 11 , 1 18 , … \\frac{1}{3}, \\frac{1}{6}, \\frac{1}{11}, \\frac{1}{18}, \\ldots 3 1 ​ , 6 1 ​ , 11 1 ​ , 18 1 ​ , … অনুক্রমের 7-তম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 49 \\frac{1}{49} 49 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 51 \\frac{1}{51} 51 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 61 \\frac{1}{61} 61 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 81 \\frac{1}{81} 81 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 49 \\frac{1}{49} 49 1 ​",
+      "option_b": "1 51 \\frac{1}{51} 51 1 ​",
+      "option_c": "1 61 \\frac{1}{61} 61 1 ​",
+      "option_d": "1 81 \\frac{1}{81} 81 1 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "SCC 25",
+      "question": "নিচের তথ্যের আলোকে (২২ ও ২৩) নং প্রশ্নের উত্তর দাও: 5 − 5 7 + 5 7 2 − 5 7 3 + … 5 - \\frac{5}{7} + \\frac{5}{7^2} - \\frac{5}{7^3} + \\ldots 5 − 7 5 ​ + 7 2 5 ​ − 7 3 5 ​ + … একটি অসীম গুণোত্তর ধারা। 22.1. ধারাটির 10 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 7 9 \\frac{5}{7^9} 7 9 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 7 10 \\frac{5}{7^{10}} 7 10 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 5 7 11 -\\frac{5}{7^{11}} − 7 11 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 5 7 9 -\\frac{5}{7^9} − 7 9 5 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5 7 9 \\frac{5}{7^9} 7 9 5 ​",
+      "option_b": "5 7 10 \\frac{5}{7^{10}} 7 10 5 ​",
+      "option_c": "− 5 7 11 -\\frac{5}{7^{11}} − 7 11 5 ​",
+      "option_d": "− 5 7 9 -\\frac{5}{7^9} − 7 9 5 ​",
+      "correct": "ঘ",
+      "explanation": "ধারাটির ১ম পদ, a = 5 a = 5 a = 5 এবং সাধারণ অনুপাত, r = − 5 7 r = -\\frac{5}{7} r = − 7 5 ​ S ∞ = a 1 − r = 5 1 − ( − 1 7 ) = 5 1 + 1 7 = 5 8 7 = 5 × 7 8 = 35 8 S_\\infty = \\frac{a}{1-r} = \\frac{5}{1-\\left(-\\frac{1}{7}\\right)} = \\frac{5}{1+\\frac{1}{7}} = \\frac{5}{\\frac{8}{7}} = 5 \\times \\frac{7}{8} = \\frac{35}{8} S ∞ ​ = 1 − r a ​ = 1 − ( − 7 1 ​ ) 5 ​ = 1 + 7 1 ​ 5 ​ = 7 8 ​ 5 ​ = 5 × 8 7 ​ = 8 35 ​"
+    },
+    {
+      "number": "23",
+      "tag": "SCC 25",
+      "question": "( 0 , 4 ) (0, 4) ( 0 , 4 ) ও ( a , 12 ) (a, 12) ( a , 12 ) বিন্দুগামী সরলরেখার ঢাল 4 হলে, a এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "ক",
+      "explanation": "( 0 , 4 ) (0,4) ( 0 , 4 ) ও ( a , 12 ) (a, 12) ( a , 12 ) বিন্দুগামী রেখার ঢাল = 4 = 4 = 4 বা. 12 − 4 a − 0 = 4 \\frac{12-4}{a-0} = 4 a − 0 12 − 4 ​ = 4 বা, 4 a = 8 ∴ a = 2 4a = 8 \\therefore a = 2 4 a = 8 ∴ a = 2"
+    },
+    {
+      "number": "24",
+      "tag": "SCC 25",
+      "question": "4 x − 5 y − 3 = 0 4x - 5y - 3 = 0 4 x − 5 y − 3 = 0 সরলরেখার ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 5 \\frac{4}{5} 5 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 4 \\frac{5}{4} 4 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+      "option_b": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+      "option_c": "4 5 \\frac{4}{5} 5 4 ​",
+      "option_d": "5 4 \\frac{5}{4} 4 5 ​",
+      "correct": "গ",
+      "explanation": ""
+    }
+  ]
+}

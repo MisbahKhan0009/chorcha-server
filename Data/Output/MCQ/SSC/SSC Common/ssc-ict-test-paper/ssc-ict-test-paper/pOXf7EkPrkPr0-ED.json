@@ -1,0 +1,832 @@
+{
+  "read_id": "pOXf7EkPrkPr0-ED",
+  "title": "বগুড়া ক্যান্ট. পাবলিক স্কুল ও কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "BCPC 24",
+      "question": "ডেটাবেজ ফিল্ডে শর্ত দিয়ে ডেটা এন্টির সীমা নির্ধারণ করাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ইনপুট ভেলিডেশন",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ইনপুট ডাটা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Single Action",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Data Field",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ইনপুট ভেলিডেশন",
+      "option_b": "ইনপুট ডাটা",
+      "option_c": "Single Action",
+      "option_d": "Data Field",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "DB 25,BCPC 24",
+      "question": "শর্তযুক্ত তথ্য সংরক্ষণ এবং মুদ্রণ নেওয়ার জন্য প্রদর্শিত তথ্য কী আকারে সংরক্ষণ করতে হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Field",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Filter",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Query",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Form",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Field",
+      "option_b": "Filter",
+      "option_c": "Query",
+      "option_d": "Form",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "DIN.B 25,DB 24,CTG.B 24,DIN.B 24,JB 19,All.B 18,MAD.B 18,NMPC 24,BCPC 24",
+      "question": "ফটোশপে কতটি টুল রয়েছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৬৯",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৭৯",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৮০",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৯৪",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৬৯",
+      "option_b": "৭৯",
+      "option_c": "৮০",
+      "option_d": "৯৪",
+      "correct": "ক",
+      "explanation": "ফটোশপ প্রোগ্রামে মোট ৬৯ ধরনের টুল রয়েছে। এগুলি বিভিন্ন কাজের জন্য ব্যবহৃত হয়, যেমন সিলেকশন, পেইন্টিং, ড্রয়িং, এবং এডিটিং।"
+    },
+    {
+      "number": "4",
+      "tag": "BCPC 24",
+      "question": "RGB-এর পূর্ণরূপ কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Red Green Black",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Red Green Blue",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Red Gray Blue",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Red Green Brown",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Red Green Black",
+      "option_b": "Red Green Blue",
+      "option_c": "Red Gray Blue",
+      "option_d": "Red Green Brown",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "BCPC 24",
+      "question": "— আকারে তথ্য সরবরাহ বা বিতরণ করা হয়।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Field",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "File",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Query",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Report",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Field",
+      "option_b": "File",
+      "option_c": "Query",
+      "option_d": "Report",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "MAD.B 24,MCPC 24,BCPC 24",
+      "question": "কোন লেয়ারে ছবি সম্পাদনার কাজ করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Text layer",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Layer-2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Target layer",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Layer-0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Text layer",
+      "option_b": "Layer-2",
+      "option_c": "Target layer",
+      "option_d": "Layer-0",
+      "correct": "গ",
+      "explanation": "ছবি সম্পাদনার কাজ সাধারণত ছবি রাখে এমন লেয়ারে করা হয়, যেমন Layer-0 বা Background layer । এই লেয়ার ছবির মূল স্তর হিসাবে কাজ করে এবং এখানে ছবি তৈরি বা সম্পাদনা করা হয়। সুতরাং, সঠিক উত্তর হবে Layer-0 । ে"
+    },
+    {
+      "number": "7",
+      "tag": "BCPC 24",
+      "question": "১৪০ অক্ষরের বার্তাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "tweeter",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "follow",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "tweet",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "follower",
+          "is_correct": false
+        }
+      ],
+      "option_a": "tweeter",
+      "option_b": "follow",
+      "option_c": "tweet",
+      "option_d": "follower",
+      "correct": "গ",
+      "explanation": "১৪০ অক্ষরের বার্তাকে tweet বলে। এই বার্তাগুলি টুইটারে পাঠানো হয়, যেখানে প্রতিটি বার্তা সাধারণত ১৪০ অক্ষরের মধ্যে সীমাবদ্ধ থাকে। সুতরাং সঠিক উত্তরটি হল: tweet"
+    },
+    {
+      "number": "8",
+      "tag": "BCPC 24",
+      "question": "যেকোনো দেশের ভৌগোলিক সীমানা কোনটির কারণে নিজের দেশের গণ্ডি ছাড়িয়ে সারা পৃথিবীতে ছড়িয়ে পড়েছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জ্ঞানের",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বিশ্বায়নের",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "অর্থনীতির",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইন্টারনেট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "জ্ঞানের",
+      "option_b": "বিশ্বায়নের",
+      "option_c": "অর্থনীতির",
+      "option_d": "ইন্টারনেট",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "BCPC 24",
+      "question": "অপারেটিং সিস্টেমের সাথে যুক্ত থাকে- i. স্পাইওয়‍্যার ii. ডিস্ক ক্লিনআপ iii. ডিস্ক ডিফ্র্যাগমেন্টার নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "i ও ii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "BCPC 24",
+      "question": "— করে এখন অনেকেই বাংলাদেশের জন্য মূল্যবান বৈদেশিক মুদ্রা অর্জন করছে।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ই-কমার্স",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ই-সেবা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সৃজনশীল কাজ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আউটসোর্সিং",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ই-কমার্স",
+      "option_b": "ই-সেবা",
+      "option_c": "সৃজনশীল কাজ",
+      "option_d": "আউটসোর্সিং",
+      "correct": "ঘ",
+      "explanation": "আউটসোর্সিং করে এখন অনেকেই বাংলাদেশের জন্য মূল্যবান বৈদেশিক মুদ্রা অর্জন করছে। আউটসোর্সিংয়ের মাধ্যমে বিদেশী প্রতিষ্ঠানের কাজ করে উপার্জন করা হয়, যা মূলত বৈদেশিক মুদ্রা হিসেবে দেশে আসে। সঠিক উত্তর: আউটসোর্সিং"
+    },
+    {
+      "number": "11",
+      "tag": "BCPC 24",
+      "question": "স্যার টিমোথি জন বার্নাস লি- i. http এর প্রস্তাব ও বাস্তবায়ন করেন ii. www এর জনক iii. একজন ইতালির বিজ্ঞানী নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "স্যার টিমোথি জন বার্নাস লি হচ্ছেন বিশ্বব্যাপী ওয়েবের (WWW) জনক এবং তিনি http (হাইপারটেক্সট ট্রান্সফার প্রোটোকল)-এর প্রস্তাব ও বাস্তবায়ন করেন। তিনি একটি ইংলিশ বিজ্ঞানী ছিলেন, ইতালির নয়। সুতরাং সঠিক উত্তর হবে: i ও ii অপশন (A) সঠিক।"
+    },
+    {
+      "number": "12",
+      "tag": "JB 24,DIN.B 23,ACPS 24,HC 24,BCPC 24,RCPC 24",
+      "question": "Run কমান্ড সক্রিয় করার জন্য প্রক্রিয়া কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Windows + r",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Windows + p",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Ctrl + r",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "shift + r",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Windows + r",
+      "option_b": "Windows + p",
+      "option_c": "Ctrl + r",
+      "option_d": "shift + r",
+      "correct": "ক",
+      "explanation": "Run কমান্ড সক্রিয় করার জন্য সঠিক প্রক্রিয়া হল Windows + r। এই কী সংমিশ্রণটি ব্যবহার করে 'Run' ডায়লগ বক্স খোলা যায় যা ব্যবহারকারীকে কমান্ড চালাতে বা প্রোগ্রাম দ্রুত খোলার সুযোগ দেয়। সুতরাং, সঠিক উত্তর: Windows + r"
+    },
+    {
+      "number": "13",
+      "tag": "BCPC 24",
+      "question": "কোন সাইটগুলোতে মানুষের সুপ্ত বাসনাকে জাগ্রত করে দেয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সামাজিক যোগাযোগের",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ভিডিও শেয়ারিং",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "শিক্ষামূলক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বিজ্ঞানভিত্তিক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সামাজিক যোগাযোগের",
+      "option_b": "ভিডিও শেয়ারিং",
+      "option_c": "শিক্ষামূলক",
+      "option_d": "বিজ্ঞানভিত্তিক",
+      "correct": "ক",
+      "explanation": "সঠিক উত্তর: সামাজিক যোগাযোগের সামাজিক যোগাযোগ মাধ্যমগুলোতে (যেমনঃ ফেসবুক, ইনস্টাগ্রাম) মানুষের সুপ্ত বাসনা যেমন জনপ্রিয়তা, স্বীকৃতি, গ্রহণযোগ্যতার আকাঙ্ক্ষা ইত্যাদি জাগ্রত হয়। এখানে মানুষ অন্যের জীবনের খুঁটিনাটি দেখে অনুপ্রাণিত বা প্রভাবিত হতে পারে।"
+    },
+    {
+      "number": "14",
+      "tag": "JB 23,BCPC 24",
+      "question": "কিন্ডল কোন প্রতিষ্ঠান তৈরি করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যামাজন",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "মাইক্রোসফট",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আইবিএম",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অ্যাপল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অ্যামাজন",
+      "option_b": "মাইক্রোসফট",
+      "option_c": "আইবিএম",
+      "option_d": "অ্যাপল",
+      "correct": "ক",
+      "explanation": "কিন্ডল ই-বুক রিডারটি অ্যামাজন দ্বারা তৈরি করা হয়েছে। এটি একটি জনপ্রিয় ই-বুক রিডার যা ব্যবহারকারীদের ডিজিটাল বই পড়তে সহায়তা করে। অ্যামাজন ই এই পণ্যটি বাজারজাত করে এবং ক্রেতাদের নিকট সহজেই পৌঁছাতে সক্ষম হয়েছে। সুতরাং, সঠিক উত্তর: অ্যামাজন"
+    },
+    {
+      "number": "15",
+      "tag": "CTG.B 25,BB 24,BCPC 24",
+      "question": "ই-পাব (EPUB) ফরম্যাটে প্রকাশিত ই-বুকের সুবিধা হলো- i. কুইজে অংশগ্রহণ ii. নিজের নোট লেখা iii. শব্দের অর্থ জানা নিচের কোনটি সঠিক?'",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "ই-পাব (EPUB) বা ইলেকট্রনিক পাবলিকেশন হলো ই-বুকের একটি অত্যন্ত আধুনিক এবং ইন্টারেক্টিভ ফরম্যাট। সাধারণ পিডিএফ (PDF) ফাইলের তুলনায় ই-পাব ফরম্যাটে অনেক বেশি সুবিধা পাওয়া যায়। এর বৈশিষ্ট্যগুলো হলো: i. কুইজে অংশগ্রহণ: ই-পাব ফরম্যাটের বইগুলো কেবল পড়ার জন্য নয়, এতে মাল্টিমিডিয়া যুক্ত করা যায়। অনেক শিক্ষামূলক ই-বুকে অধ্যায় শেষে কুইজ থাকে, যেখানে পাঠক সরাসরি অংশগ্রহণ করতে পারে এবং সঠিক উত্তর যাচাই করতে পারে। ii. নিজের নোট লেখা: এই ফরম্যাটে পড়ার সময় কোনো নির্দিষ্ট লাইন বা অনুচ্ছেদে নিজস্ব মতামত বা Note লিখে রাখা যায় এবং প্রয়োজনীয় অংশ Highlight করা যায়। iii. শব্দের অর্থ জানা: ই-পাব রিডারগুলোতে বিল্ট-ইন ডিকশনারি বা শব্দকোষ থাকে। কোনো কঠিন শব্দের ওপর ক্লিক করলে বা সিলেক্ট করলে সাথে সাথেই তার অর্থ বা ব্যাখ্যা দেখে নেওয়া যায়।"
+    },
+    {
+      "number": "16",
+      "tag": "CB 24,GLSC 24,BCPC 24",
+      "question": "লিখিত অংশ ছাড়াও কোনো বইয়ে অডিও/ভিডিও/এনিমেশন ইত্যাদি সংক্ত থাকলে তাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ই-বুক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ই-বুকের অ্যাপস",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পোর্টেবল ডকুমেন্ট ফরম্যাট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চৌকস ই-বুক",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ই-বুক",
+      "option_b": "ই-বুকের অ্যাপস",
+      "option_c": "পোর্টেবল ডকুমেন্ট ফরম্যাট",
+      "option_d": "চৌকস ই-বুক",
+      "correct": "ঘ",
+      "explanation": "যে বইয়ে লিখিত অংশ ছাড়াও অডিও, ভিডিও, এনিমেশন সমৃদ্ধ ফিচার অন্তর্ভুক্ত থাকে, তাকে \"চৌকস ই-বুক\" বা ইন্টেলিজেন্ট বুক বলা হয়। সঠিক উত্তর: চৌকস ই-বুক"
+    },
+    {
+      "number": "17",
+      "tag": "BCPC 24",
+      "question": "বুট সেক্টরকে আক্রমণ করে __ ভাইরাস।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ভিয়েনা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফোন্ডার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বুট",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সি আই এইচ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ভিয়েনা",
+      "option_b": "ফোন্ডার",
+      "option_c": "বুট",
+      "option_d": "সি আই এইচ",
+      "correct": "গ",
+      "explanation": "বুট সেক্টরকে আক্রমণ করে 'বুট' ভাইরাস। বুট ভাইরাসগুলো কম্পিউটারের বুট রেকর্ডে আক্রমণ করে এবং সেখান থেকে নিজেকে প্রতিলিপি করে থাকে। তাই সঠিক উত্তর হবে: বুট"
+    },
+    {
+      "number": "18",
+      "tag": "DCC 24,BCPC 24",
+      "question": "কোনো ডকুমেন্টে শব্দ খোঁজা ও প্রতিস্থাপনের জন্য কোন কমান্ড ব্যবহার হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Find Next",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Find-Replace",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Replace",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "F5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Find Next",
+      "option_b": "Find-Replace",
+      "option_c": "Replace",
+      "option_d": "F5",
+      "correct": "খ",
+      "explanation": "কোনো ডকুমেন্টে শব্দ খোঁজা এবং প্রতিস্থাপনের জন্য সাধারণত \"Find-Replace\" কমান্ডটি ব্যবহার করা হয়। এই কমান্ডটি ব্যবহার করে আপনি একটি নির্দিষ্ট শব্দ বা বাক্যাংশ খুঁজে বের করে সেটি অন্য একটি শব্দ বা বাক্যাংশ দিয়ে প্রতিস্থাপন করতে পারেন। সঠিক উত্তর: Find-Replace"
+    },
+    {
+      "number": "19",
+      "tag": "BCPC 24",
+      "question": "রিনা একজন নবীন উদ্যোক্তা। সে কাপড়ে সুন্দর সুন্দর নতুন ডিজাইন বানাতে পারে। রিনার কাজটি কম্পিউটারে করতে কোন সফটওয়‍্যার ব্যবহার করবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ফ্লাশ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফটোশপ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ইলাস্ট্রেটর",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "পাওয়ার পয়েন্ট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ফ্লাশ",
+      "option_b": "ফটোশপ",
+      "option_c": "ইলাস্ট্রেটর",
+      "option_d": "পাওয়ার পয়েন্ট",
+      "correct": "গ",
+      "explanation": "রিনা একজন নবীন উদ্যোক্তা এবং সে কাপড়ে নতুন ডিজাইন বানাতে চাচ্ছে। কাপড়ের ডিজাইন তৈরি করার ক্ষেত্রে Adobe Illustrator প্রোগ্রামটি ব্যবহৃত হয় কারণ এটি ভেক্টর গ্রাফিক্স ডিজাইনের জন্য খুবই উপযুক্ত। সঠিক উত্তর হলো: ইলাস্ট্রেটর"
+    },
+    {
+      "number": "20",
+      "tag": "BCPC 24",
+      "question": "রিনা একজন নবীন উদ্যোক্তা। সে কাপড়ে সুন্দর সুন্দর নতুন ডিজাইন বানাতে পারে। উদ্দীপকের কাজটি কম্পিউটারে করে মুদ্রণ নিতে কোন কালার মোড ব্যবহার সঠিক হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "RGB",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "CMYB",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "CMYK",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Grayscale",
+          "is_correct": false
+        }
+      ],
+      "option_a": "RGB",
+      "option_b": "CMYB",
+      "option_c": "CMYK",
+      "option_d": "Grayscale",
+      "correct": "গ",
+      "explanation": "রিনার কাজটি কম্পিউটারে করে মুদ্রণ নিতে যে কালার মোড ব্যবহার সঠিক হবে তা হলো CMYK। CMYK (Cyan, Magenta, Yellow, Key/Black) কালার মোড সাধারণত প্রিন্টিং এর জন্য ব্যবহার করা হয় কারণ এটি প্রিন্টারে ব্যবহৃত কালার স্কিম। সঠিক উত্তর: CMYK"
+    },
+    {
+      "number": "21",
+      "tag": "BCPC 24",
+      "question": "শক্তিশালী অথরিং সফটওয়্যার হলো- i. ফ্লাশ ii. ডিরেক্টর iii. ফটোশপ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "ii",
+      "option_c": "i ও ii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "অথরিং সফটওয়্যার হলো একটি প্রোগ্রাম যা বিভিন্ন মাল্টিমিডিয়া উপাদান তৈরি এবং পরিচালনা করতে ব্যবহৃত হয়। ফ্লাশ এবং ডিরেক্টর উভয়ই মাল্টিমিডিয়া অথরিং সফটওয়্যার হিসেবে ব্যবহৃত হয়, যেহেতু তারা ইন্টারেক্টিভ বিষয়বস্তু তৈরি করতে সহায়তা করে। ফটোশপ একটি ইমেজ এডিটিং সফটওয়্যার, যা সাধারণত মাল্টিমিডিয়া অথরিং এর জন্য ব্যবহৃত হয় না। তাই সঠিক উত্তর হচ্ছে i ও ii। সঠিক উত্তর: i ও ii"
+    },
+    {
+      "number": "",
+      "tag": "BCPC 24",
+      "question": "নাম বেসিক বাড়িভাড়া চিকিৎসা পিএফ নিট বেতন কালাম ১২০০০ ২৫% ১০০০ ১০% ? উদ্দীপকে নিট বেতন (?) এর সেল ঠিকানা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "F2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "F6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "B6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "C4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "F2",
+      "option_b": "F6",
+      "option_c": "B6",
+      "option_d": "C4",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "",
+      "tag": "BCPC 24",
+      "question": "নাম বেসিক বাড়িভাড়া চিকিৎসা পিএফ নিট বেতন কালাম ১২০০০ ২৫% ১০০০ ১০% ? উদ্দীপকের পি-এফ এর টাকা নির্ণয়ের ফর্মুলা হলো-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "= B2/10%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "B2* 10%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "= B2*E2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "=B2* 10%",
+          "is_correct": true
+        }
+      ],
+      "option_a": "= B2/10%",
+      "option_b": "B2* 10%",
+      "option_c": "= B2*E2",
+      "option_d": "=B2* 10%",
+      "correct": "ঘ",
+      "explanation": "উদ্দীপকের তথ্য অনুযায়ী, পি-এফ (Provident Fund) সাধারণত বেসিক (Basic) বেতনের ওপর ভিত্তি করে হিসাব করা হয়। এখানে কালামের বেসিক বেতন দেওয়া আছে B2 সেলে (১২০০০ টাকা) এবং পি-এফ এর হার দেওয়া আছে ১০%। সঠিক উত্তরটি হবে: ঘ) =B2 * 10%"
+    },
+    {
+      "number": "24",
+      "tag": "BCPC 24",
+      "question": "কোন ট্যাবের ফন্ট গ্রুপে ফন্ট বিষয়ক অনেক সুবিধা আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Home",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "View",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Font",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Edit",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Home",
+      "option_b": "View",
+      "option_c": "Font",
+      "option_d": "Edit",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "SB 25,SB 24,MAD.B 24,SB 23,MAD.B 20,MAD.B 19,All.B 17,BCPC 24",
+      "question": "একাধিক স্লাইড বিশিষ্ট একটি পৃষ্ঠাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Slide show",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Handouts",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Slide",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Slide layout",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Slide show",
+      "option_b": "Handouts",
+      "option_c": "Slide",
+      "option_d": "Slide layout",
+      "correct": "খ",
+      "explanation": "Handouts: পাওয়ার পয়েন্ট প্রেজেন্টেশনে একাধিক পৃষ্ঠাবিশিষ্ট একটি পৃষ্ঠাকে বলে হ্যান্ড আউটস (Handouts)। Slide layout: পাওয়ার পয়েন্ট প্রেজেন্টেশন তৈরি করার জন্য যে খসড়া করা হয়, সেটিই স্লাইড লেআউট (Slide layout)। Slide: প্রেজেন্টেশনের এক একটি অংশকে বলা হয় স্লাইড। Slide show: এটির মাধ্যমে প্রেজেন্টেশনের প্রথম স্লাইড উপস্থাপন করা যায়।"
+    }
+  ]
+}

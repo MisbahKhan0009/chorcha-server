@@ -1,0 +1,865 @@
+{
+  "read_id": "z2UyapsvrYpf7cLQ",
+  "title": "আদমজী ক্যান্ট. পাবলিক স্কুল, ঢাকা ২০২৪",
+  "count": 26,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "ACPS 24",
+      "question": "{ x ∈ Z : x 2 < 13 } \\left\\{x \\in \\mathbb{Z}: x^{2}<13\\right\\} { x ∈ Z : x 2 < 13 } এর তালিকা পদ্ধতির সেট কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 1 , 2 , 3 } \\{1,2,3\\} { 1 , 2 , 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ 0 , 1 , 2 , 3 } \\{0,1,2,3\\} { 0 , 1 , 2 , 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ − 2 , − 1 , 0 , 1 , 2 } \\{-2,-1,0,1,2\\} { − 2 , − 1 , 0 , 1 , 2 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ − 3 , − 2 , − 1 , 0 , 1 , 2 , 3 } \\{-3,-2,-1,0,1,2,3\\} { − 3 , − 2 , − 1 , 0 , 1 , 2 , 3 }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ 1 , 2 , 3 } \\{1,2,3\\} { 1 , 2 , 3 }",
+      "option_b": "{ 0 , 1 , 2 , 3 } \\{0,1,2,3\\} { 0 , 1 , 2 , 3 }",
+      "option_c": "{ − 2 , − 1 , 0 , 1 , 2 } \\{-2,-1,0,1,2\\} { − 2 , − 1 , 0 , 1 , 2 }",
+      "option_d": "{ − 3 , − 2 , − 1 , 0 , 1 , 2 , 3 } \\{-3,-2,-1,0,1,2,3\\} { − 3 , − 2 , − 1 , 0 , 1 , 2 , 3 }",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "DIN.B 24,JB 22,ACPS 24",
+      "question": "যদি f ( x ) = x 3 + a x 2 − 6 x − 9 f(x)=x^{3}+a x^{2}-6 x-9 f ( x ) = x 3 + a x 2 − 6 x − 9 হয়, তবে a এর কোন মানের জন্য f ( − 3 ) = 0 f(-3)=0 f ( − 3 ) = 0 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "2",
+      "option_c": "-2",
+      "option_d": "-4",
+      "correct": "খ",
+      "explanation": "f ( x ) = x 3 + a x 2 − 6 x − 9 ∴ f ( − 3 ) = ( − 3 ) 3 + a ( − 3 ) 2 − 6 ( − 3 ) − 9 = − 27 + 9 a + 18 − 9 = − 18 + 9 a ∴ f ( − 3 ) = 0 ⇒ 9 a − 18 = 0 ⇒ 9 a = 18 ∴ a = 2 \\begin{aligned} f(x) & =x^{3}+a x^{2}-6 x-9 \\\\ \\therefore f(-3) & =(-3)^{3}+a(-3)^{2}-6(-3)-9 \\\\ & =-27+9 a+18-9 \\\\ & =-18+9 a \\\\ \\therefore f(-3) & =0 \\\\ \\Rightarrow 9 a-18 & =0 \\\\ \\Rightarrow 9 a & =18 \\\\ \\therefore a & =2\\end{aligned} f ( x ) ∴ f ( − 3 ) ∴ f ( − 3 ) ⇒ 9 a − 18 ⇒ 9 a ∴ a ​ = x 3 + a x 2 − 6 x − 9 = ( − 3 ) 3 + a ( − 3 ) 2 − 6 ( − 3 ) − 9 = − 27 + 9 a + 18 − 9 = − 18 + 9 a = 0 = 0 = 18 = 2 ​"
+    },
+    {
+      "number": "6",
+      "tag": "MB 25,MAD 25,SB 23,CB 22,RB 22,DIN.B 20,JB 20,All.B 18,DIN.B 17,PCC 24,SCC 24,BCC 24,RUMC 24,ACPS 24,RGLHS 24,RCPC 24",
+      "question": "i. log ⁡ 9 3 = 1 2 \\log _{9} 3=\\frac{1}{2} lo g 9 ​ 3 = 2 1 ​ ii: 4 2 x + 1 = 2 4^{2 x+1}=2 4 2 x + 1 = 2 হলে, x = − 1 4 x=-\\frac{1}{4} x = − 4 1 ​ iii. ( 3 − 1 + 6 − 1 ) \\left(3^{-1}+6^{-1}\\right) ( 3 − 1 + 6 − 1 ) এর মান 1 2 \\frac{1}{2} 2 1 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত বিবৃতিগুলি পরীক্ষা করে দেখা যাক: i. log ⁡ 9 3 = 1 2 \\log _{9} 3=\\frac{1}{2} lo g 9 ​ 3 = 2 1 ​ log ⁡ 9 3 = 1 2 ⟹ 9 1 2 = 3 9 1 2 = 9 = 3 \\begin{array}{c} \\log _{9} 3=\\frac{1}{2} \\Longrightarrow 9^{\\frac{1}{2}}=3 \\\\ 9^{\\frac{1}{2}}=\\sqrt{9}=3 \\end{array} lo g 9 ​ 3 = 2 1 ​ ⟹ 9 2 1 ​ = 3 9 2 1 ​ = 9 ​ = 3 ​ অতএব, বিবৃতিতি সঠিক। ii. 4 2 x + 1 = 2 4^{2 x+1}=2 4 2 x + 1 = 2 इलে, x = − 1 4 x=-\\frac{1}{4} x = − 4 1 ​ 4 2 x + 1 = 2 ⟹ ( 2 2 ) 2 x + 1 = 2 1 2 2 ( 2 x + 1 ) = 2 1 ⟹ 2 4 x + 2 = 2 1 4 x + 2 = 1 ⟹ 4 x = − 1 ⟹ x = − 1 4 \\begin{array}{c} 4^{2 x+1}=2 \\Longrightarrow\\left(2^{2}\\right)^{2 x+1}=2^{1} \\\\ 2^{2(2 x+1)}=2^{1} \\Longrightarrow 2^{4 x+2}=2^{1} \\\\ 4 x+2=1 \\Longrightarrow 4 x=-1 \\Longrightarrow x=-\\frac{1}{4} \\end{array} 4 2 x + 1 = 2 ⟹ ( 2 2 ) 2 x + 1 = 2 1 2 2 ( 2 x + 1 ) = 2 1 ⟹ 2 4 x + 2 = 2 1 4 x + 2 = 1 ⟹ 4 x = − 1 ⟹ x = − 4 1 ​ ​ অতএব, বিবৃতিটি সঠিক। iii. ( 3 − 1 + 6 − 1 ) \\left(3^{-1}+6^{-1}\\right) ( 3 − 1 + 6 − 1 ) এর মান 1 2 \\frac{1}{2} 2 1 ​ 3 − 1 = 1 3 , 6 − 1 = 1 6 1 3 + 1 6 = 2 6 + 1 6 = 3 6 = 1 2 \\begin{aligned} 3^{-1} & =\\frac{1}{3}, \\quad 6^{-1}=\\frac{1}{6} \\\\ \\frac{1}{3}+\\frac{1}{6} & =\\frac{2}{6}+\\frac{1}{6}=\\frac{3}{6}=\\frac{1}{2} \\end{aligned} 3 − 1 3 1 ​ + 6 1 ​ ​ = 3 1 ​ , 6 − 1 = 6 1 ​ = 6 2 ​ + 6 1 ​ = 6 3 ​ = 2 1 ​ ​ অতএব, বিবৃতিটি সঠিক। সরলীকরণ: i, ii এবং iii সঠিক"
+    },
+    {
+      "number": "7",
+      "tag": "MB 23,ACPS 24",
+      "question": "sec ⁡ θ + tan ⁡ θ = 7 2 \\sec \\theta+\\tan \\theta=\\frac{7}{2} sec θ + tan θ = 2 7 ​ হলে, cos ⁡ θ = \\cos \\theta= cos θ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45 28 \\frac{45}{28} 28 45 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "28 53 \\frac{28}{53} 53 28 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45 14 \\frac{45}{14} 14 45 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "53 14 \\frac{53}{14} 14 53 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "45 28 \\frac{45}{28} 28 45 ​",
+      "option_b": "28 53 \\frac{28}{53} 53 28 ​",
+      "option_c": "45 14 \\frac{45}{14} 14 45 ​",
+      "option_d": "53 14 \\frac{53}{14} 14 53 ​",
+      "correct": "ঘ",
+      "explanation": "এখানে, sec ⁡ θ + tan ⁡ θ = 7 2 − ( i ) \\sec \\theta+\\tan \\theta=\\frac{7}{2}-(\\mathrm{i}) sec θ + tan θ = 2 7 ​ − ( i ) আমরা জানি, sec ⁡ 2 θ − tan ⁡ 2 θ = 1 ⇒ ( sec ⁡ θ + tan ⁡ θ ) ( sec ⁡ θ − tan ⁡ θ ) = 1 ⇒ 7 2 ( sec ⁡ θ − tan ⁡ θ ) = 1 ⇒ sec ⁡ θ − tan ⁡ θ = 2 7 −  (ii)  \\begin{array}{l} \\sec ^{2} \\theta-\\tan ^{2} \\theta=1 \\\\ \\Rightarrow(\\sec \\theta+\\tan \\theta)(\\sec \\theta-\\tan \\theta)=1 \\\\ \\Rightarrow \\frac{7}{2}(\\sec \\theta-\\tan \\theta)=1 \\\\ \\Rightarrow \\sec \\theta-\\tan \\theta=\\frac{2}{7}-\\text { (ii) } \\end{array} sec 2 θ − tan 2 θ = 1 ⇒ ( sec θ + tan θ ) ( sec θ − tan θ ) = 1 ⇒ 2 7 ​ ( sec θ − tan θ ) = 1 ⇒ sec θ − tan θ = 7 2 ​ −  (ii)  ​ (i) + (ii) করে পাই, 2 sec ⁡ θ = 7 2 + 2 7 ⇒ 2 cos ⁡ θ = 49 + 4 14 ∴ cos ⁡ θ = 28 53 \\begin{array}{l} 2 \\sec \\theta=\\frac{7}{2}+\\frac{2}{7} \\\\ \\Rightarrow \\frac{2}{\\cos \\theta}=\\frac{49+4}{14} \\\\ \\therefore \\cos \\theta=\\frac{28}{53} \\end{array} 2 sec θ = 2 7 ​ + 7 2 ​ ⇒ c o s θ 2 ​ = 14 49 + 4 ​ ∴ cos θ = 53 28 ​ ​"
+    },
+    {
+      "number": "8",
+      "tag": "ACPS 24",
+      "question": "ভূ-রেখার অপর নাম কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বৃত্তাকার রেখা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সমান্তরাল রেখা",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "শয়ন রেখা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বক্র রেখা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বৃত্তাকার রেখা",
+      "option_b": "সমান্তরাল রেখা",
+      "option_c": "শয়ন রেখা",
+      "option_d": "বক্র রেখা",
+      "correct": "খ",
+      "explanation": "ভূরেখার অপর নাম শয়ন রেখা।"
+    },
+    {
+      "number": "9",
+      "tag": "SB 23,ACPS 24",
+      "question": "চিত্রের বৃত্তটির OA = 5 সে. মি. হলে- i. পরিধি = 10 π =10 \\pi = 10 π সে. মি. ii.ক্ষেত্রফল = 25 π =25 \\pi = 25 π সে. মি. iii. AB চাপের দৈর্ঘ্য = 5 π 6 =\\frac{5 \\pi}{6} = 6 5 π ​ সে. মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "এখানে, বৃত্তের ব্যাসাধ, O A = 5   c m O A=5 \\mathrm{~cm} O A = 5   cm ∴  পরিধি = 2 π r = 2 × π × 5 = 10 π   c m ∴  ক্ষেত্রফল  = π r 2 = π × 5 2 = 25 π   c m 2 ∴  চাপের দৈর্ঘ্য  = r θ = 5 × 30 π 180 = 5 π 6   c m \\begin{array}{l} \\therefore \\text { পরিধি}=2 \\pi r=2 \\times \\pi \\times 5=10 \\pi \\mathrm{~cm} \\\\ \\therefore \\begin{aligned} \\text { ক্ষেত্রফল }=\\pi r^{2} & =\\pi \\times 5^{2}=25 \\pi \\mathrm{~cm}^{2} \\\\ \\therefore \\text { চাপের দৈর্ঘ্য } & =r \\theta \\\\ & =5 \\times \\frac{30 \\pi}{180} \\\\ & =\\frac{5 \\pi}{6} \\mathrm{~cm} \\end{aligned} \\end{array} ∴   পরিধি = 2 π r = 2 × π × 5 = 10 π   cm ∴   ক্ষেত্রফল   = π r 2 ∴   চাপের   দৈর্ঘ্য   ​ = π × 5 2 = 25 π   cm 2 = r θ = 5 × 180 30 π ​ = 6 5 π ​   cm ​ ​"
+    },
+    {
+      "number": "",
+      "tag": "RB 25,BB 25,RB 23,SB 22,DIN.B 20,ACPS 24,MCPSC 24,RCPC 24",
+      "question": "শ্রেণিব্যাপ্তি 11-20 21-30 31-40 41-50 51-60 গণসংখ্যা 4 15 20 10 7 মধ্যক নির্ণয়ের ক্ষেত্রে F c এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "19",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "28",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "39",
+          "is_correct": true
+        }
+      ],
+      "option_a": "19",
+      "option_b": "20",
+      "option_c": "28",
+      "option_d": "39",
+      "correct": "ঘ",
+      "explanation": "এখানে, η = 56 ; n 2 = 56 2 = 28 , যা  ( 31 − 40 )  শ্রেনিতে  বিদ্যামান।  \\begin{array}{l} \\eta=56 ; \\frac{n}{2}=\\frac{56}{2}=28 \\text {, যা }(31-40) \\text { শ্রেনিতে} \\\\ \\text { বিদ্যামান। } \\end{array} η = 56 ; 2 n ​ = 2 56 ​ = 28 ,  যা   ( 31 − 40 )   শ্রেনিতে   বিদ্যামান।   ​ মধ্যক শ্রেণী = (31-40) t c = মধ্যবকশ্রেণীর পূর্বের শ্রেণীর যোজীত গনসংখ্যা =(4+15)=19."
+    },
+    {
+      "number": "11",
+      "tag": "BB 25,RB 23,DB 20,ACPS 24,RCPC 24",
+      "question": "শ্রেণিব্যাপ্তি 11-20 21-30 31-40 41-50 51-60 গণসংখ্যা 4 15 20 10 7 প্রচুরক নির্ণয়ের ক্ষেত্রে f 1 f 1 + f 2 \\frac{f_{1}}{f_{1}+f_{2}} f 1 ​ + f 2 ​ f 1 ​ ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.08",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0.16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.25",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.33",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.08",
+      "option_b": "0.16",
+      "option_c": "0.25",
+      "option_d": "0.33",
+      "correct": "ক",
+      "explanation": "f 1 = প্রচুরক শ্রেণীর গণসংখ্যা  −  পূর্ববর্তী শ্রেণীর গণসংখ্যা  f_{1}=প ্ র চ ু র ক ~ শ ্ র ে ণ ী র ~ গ ণ স ং খ ্ য া ~-~ প ূ র ্ ব ব র ্ ত ী ~ শ ্ র ে ণ ী র ~ গ ণ স ং খ ্ য া ~ f 1 ​ = প্রচুরক   শ্রেণীর   গণসংখ্যা   −   পূর্ববর্তী   শ্রেণীর   গণসংখ্যা   f 2 = প্রচুরক শ্রেণীর গণসংখ্যা  −  পরবর্তী শ্রেণীর গণসংখ্যা  f_{2}=প ্ র চ ু র ক ~ শ ্ র ে ণ ী র ~ গ ণ স ং খ ্ য া ~-~ পরবর্তী ~ শ ্ র ে ণ ী র ~ গ ণ স ং খ ্ য া ~ f 2 ​ = প্রচুরক   শ্রেণীর   গণসংখ্যা   −   পরবর্তী   শ্রেণীর   গণসংখ্যা   f 1 f 1 + f 2 = ( 20 − 15 ) ( 20 − 15 ) + ( 20 − 10 ) = 5 5 + 10 = 0.33 \\frac{f_{1}}{f_{1}+f_{2}}=\\frac{(20-15)}{(20-15)+(20-10)}=\\frac{5}{5+10}=0.33 f 1 ​ + f 2 ​ f 1 ​ ​ = ( 20 − 15 ) + ( 20 − 10 ) ( 20 − 15 ) ​ = 5 + 10 5 ​ = 0.33"
+    },
+    {
+      "number": "12",
+      "tag": "ACPS 24",
+      "question": "1. 6 ˙ 3 ˙ × 7. 3 ˙ =  কত?  1.\\dot{6}\\dot{3} \\times 7.\\dot{3}=\\text { কত? } 1. 6 ˙ 3 ˙ × 7. 3 ˙ =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "6",
+      "option_d": "12",
+      "correct": "ঘ",
+      "explanation": "1. 6 ˙ 3 ˙ 1.\\dot{6}\\dot{3} 1. 6 ˙ 3 ˙ = 163 − 1 99 \\frac{163-1}{99} 99 163 − 1 ​ = 162 99 \\frac{162}{99} 99 162 ​ = 18 11 \\frac{18}{11} 11 18 ​  ; 7. 3 ˙ 7.\\dot{3} 7. 3 ˙ = 73 − 7 9 \\frac{73-7}{9} 9 73 − 7 ​ = 66 9 \\frac{66}{9} 9 66 ​ = 22 3 \\frac{22}{3} 3 22 ​   1. 6 ˙ 3 ˙ × 7. 3 ˙ 1.\\dot{6}\\dot{3} \\times 7.\\dot{3} 1. 6 ˙ 3 ˙ × 7. 3 ˙ = 18 11 \\frac{18}{11} 11 18 ​ × 22 3 \\frac{22}{3} 3 22 ​  = 12"
+    },
+    {
+      "number": "13",
+      "tag": "ACPS 24",
+      "question": "দুইটি স্বাভাবিক সংখ্যার পার্থক্য 4 এবং তাদের গুণফল 96 হলে, বৃহত্তম সংখ্যাটি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3",
+      "option_b": "5",
+      "option_c": "7",
+      "option_d": "12",
+      "correct": "ঘ",
+      "explanation": "ধরি, বৃহত্তম সংখ্যা x x x ক্ষুদ্রতর সংখ্যা y y y প্রশ্নমতে, x − y = 4  এবং  x y = 96 ⇒ y = 96 x ⇒ x − 96 x = 4 ⇒ x 2 − 96 = 4 x ⇒ x 2 − 4 x − 96 = 0 ⇒ x 2 − 12 x + 8 x − 96 = 0 ⇒ x ( x − 12 ) + 8 ( x − 12 ) = 0 ⇒ ( x + 8 ) ( x − 12 ) = 0 ∴ x = 12  (Ans)  \\begin{array}{l} x-y=4 \\text { এবং } x y=96 \\Rightarrow y=\\frac{96}{x} \\\\ \\Rightarrow x-\\frac{96}{x}=4 \\\\ \\Rightarrow x^{2}-96=4 x \\\\ \\Rightarrow x^{2}-4 x-96=0 \\\\ \\Rightarrow x^{2}-12 x+8 x-96=0 \\\\ \\Rightarrow x(x-12)+8(x-12)=0 \\\\ \\Rightarrow(x+8)(x-12)=0 \\\\ \\therefore x=12 \\text { (Ans) } \\end{array} x − y = 4   এবং   x y = 96 ⇒ y = x 96 ​ ⇒ x − x 96 ​ = 4 ⇒ x 2 − 96 = 4 x ⇒ x 2 − 4 x − 96 = 0 ⇒ x 2 − 12 x + 8 x − 96 = 0 ⇒ x ( x − 12 ) + 8 ( x − 12 ) = 0 ⇒ ( x + 8 ) ( x − 12 ) = 0 ∴ x = 12  (Ans)  ​"
+    },
+    {
+      "number": "14",
+      "tag": "DC 25,MB 25,RB 25,DIN.B 25,JB 25,BB 25,MAD 25,DB 24,RB 24,CB 24,DIN.B 24,MB 24,DB 24,JB 24,BB 24,DB 20,MB 20,DIN.B 20,BB 20,DB 19,RB 19,CB 19,DIN.B 19,JB 19,SB 19,DB 17,JB 17,FCC 24,JGCC 24,BCC 24,VNSC 24,GLHSD 24,ACPS 24,NISD 24,MCPSC 24,RCPC 24,CCS 24,RCPC 24,BCPC 24",
+      "question": "2 x − 3 + 5 = 2 \\sqrt{2 x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণ- i. একটি এক চলকবিশিষ্ট সমীকরণ ii. এর সমাধান সেট S = { } \\mathrm{S}=\\{ \\} S = { } iii. এর সমাধান x = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "ঘ",
+      "explanation": "2 x − 3 + 5 = 2 \\sqrt{2x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণটি সমাধান করা যাক। প্রথমত, সমীকরণটি সরল করার জন্য আমরা উভয় পাশে 5 5 5 বিয়োগ করব: 2 x − 3 = 2 − 5 \\sqrt{2x-3} = 2 - 5 2 x − 3 ​ = 2 − 5 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 পুরুত্ব বর্গমূলের মান কখনোই ঋণাত্মক হতে পারে না, তাই 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 সমাধায় কোন সমর্থন বা সঠিক সমাধান নেই। অতএব, এর সমাধান সেট হল S = { } S = \\{\\} S = { } , যা একটি খালি সেট নির্দেশ করে। তাহলে, নিচের বস্তুগুলি সঠিক: i. একটি এক চলকবিশিষ্ট সমীকরণ কারণ এটি শুধু x x x -এর উপর নির্ভর করে। ii. এর সমাধান সেট S = { } \\mathrm{S} = \\{ \\} S = { } হল খালি সেট। iii. এর সমাধান x = 6 x = 6 x = 6 ভুল কারণ উক্ত সমীকরণ থেকে এমন কোন সমাধান পাওয়া যায় না। সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "15",
+      "tag": "SB 23,BB 17,MCC 24,ACPS 24",
+      "question": "কোনো ত্রিভুজের কোণগুলোর অনুপাত 1 : 1 : 2 1:1:2 1 : 1 : 2 হলে, ত্রিভুজটি হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমদ্বিবাহু",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সূক্ষ্মকোণী",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমকোণী সমদ্বিবাহু",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "স্থূলকোণী",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমদ্বিবাহু",
+      "option_b": "সূক্ষ্মকোণী",
+      "option_c": "সমকোণী সমদ্বিবাহু",
+      "option_d": "স্থূলকোণী",
+      "correct": "ক",
+      "explanation": "মনে করি, ত্রিভুজটির তিনটি কোন =1x,1x,2এক্স প্রশ্ন মতে, 1x+1x+2x=180° x=45° অতএব,ত্রিভুজ দুই কোণের প্রত্যেকটির মান 45° এবং একটি কোণের মান 90° যেহেতু একটি কোণ 90°, সেহেতু এটি একটি সমকোণী ত্রিভুজ। আবার, যেহেতু দুইটি কোণ পরস্পর সমান এদের বিপরীত বাহুগুলো পরস্পর সমান হবে। সেহেতু এটি একটি সমদ্বিবাহু ত্রিভুজ হবে। অতএব ত্রিভুজটি হবে সমকোণী সমদ্বিবাহু ত্রিভুজ।"
+    },
+    {
+      "number": "16",
+      "tag": "ACPS 24",
+      "question": "দুইটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করে। তাদের একটি ব্যাস 8 সে. মি. এবং অপরটির ব্যাসার্ধ 4 সে. মি. হলে, তাদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "4",
+      "option_c": "8",
+      "option_d": "12",
+      "correct": "গ",
+      "explanation": "এখানে, ১ম বৃত্তের ব্যাসার্ধ = 8 2 = 4   c m =\\frac{8}{2}=4 \\mathrm{~cm} = 2 8 ​ = 4   cm ২য় বৃত্তের ব্যাসার্ধ = 4   c m =4 \\mathrm{~cm} = 4   cm বৃত্তদ্বয় পরস্পরকে বহিঃস্পর্শ করায়, কেন্দ্রদ্বয়ের দূরত্ব = ব্যাসার্ধদ্বয়ের যোগফল = ( 4 + 4 ) c m = 8   c m \\begin{array}{l} =(4+4) \\mathrm{cm} \\\\ =8 \\mathrm{~cm} \\end{array} = ( 4 + 4 ) cm = 8   cm ​"
+    },
+    {
+      "number": "17",
+      "tag": "CTG.B 23,ACPS 24",
+      "question": "সমবাহু ত্রিভুজের- i. পরিবৃত্তের কেন্দ্র হতে শীর্ষত্রয়ের দূরত্ব সমান ii. অন্তবৃত্তের কেন্দ্র হতে বাহুত্রয়ের দূরত্ব সমান iii. কোণগুলোর সমদ্বিখণ্ডকত্রয় অন্তর্বৃত্তের কেন্দ্র দিয়ে যায় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "iও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "iও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "iও ii",
+      "option_b": "iও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "সমবাহু ত্রিভুজের – (i) পরিবৃত্তের কেন্দ্র হতে শীর্ষবিন্দুর দূরত্ব সমান (ii) অন্তর্বৃত্তের কেন্দ্র হতে বাহুদ্বয়ের দূরত্ব সমান (iii) কোণগুলোর সমদ্বিখণ্ডকগণ অন্তর্বৃত্তের কেন্দ্র দিয়ে যায়। Ans: (i), (ii), (iii)."
+    },
+    {
+      "number": "18",
+      "tag": "CTG.B 24,JGCC 24,ACPS 24",
+      "question": "সূর্যের উন্নতি কোণ 90 ° 90° 90° হলে, কোনো গাছের ছায়ার দৈর্ঘ্য কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "30 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90 মিটার",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0 মিটার",
+      "option_b": "30 মিটার",
+      "option_c": "45 মিটার",
+      "option_d": "90 মিটার",
+      "correct": "ঘ",
+      "explanation": "যদি সূর্যের উন্নতি কোন ৯০ ০ হয় তাহলে সূর্য ঠিক মাথার উপরে অবস্থান করছে। এই অবস্থায় ছায়া সরাসরি নিচে পড়ে এবং ছায়ার দৈর্ঘ্য শূন্য হয়।"
+    },
+    {
+      "number": "19",
+      "tag": "DC 25,MB 25,RB 25,CB 25,DIN.B 25,MAD 25,DB 24,CB 24,DIN.B 24,MB 24,CTG.B 24,DB 24,BB 24,DB 23,SB 23,CB 23,RB 23,DB 22,CB 22,DIN.B 22,RB 22,DB 20,CB 20,SB 20,JB 20,BB 20,RB 19,CB 19,DIN.B 19,BB 19,All.B 18,DB 17,DIN.B 17,CB 17,CTG.B 17,JB 17,SB 17,BB 17,MCC 24,FCC 24,FGCC 24,RCC 24,PCC 24,CCC 24,RUMC 24,BCC 24,RUMC 24,GLHSD 24,BAFSC 24,ACPS 24,CSC 24,MCPSC 24,RCPC 24",
+      "question": "x + 1 x = 5  হলে  − x+\\frac{1}{x}=5 \\text { হলে }- x + x 1 ​ = 5   হলে   − i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ ii. x 3 + 1 x 3 = 110 \\mathrm{x}^{3}+\\frac{1}{\\mathrm{x}^{3}}=110 x 3 + x 3 1 ​ = 110 iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "প্রদত্ত সমীকরণ: x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 ধাপ 1: x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ এর মান নির্ণয় প্রথমে x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ গর মান বের করব। আমরা জানি: ( x + 1 x ) 2 = x 2 + 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 + 2 + 1 x 2 \\left(x+\\frac{1}{x}\\right)^{2}=x^{2}+2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}+2+\\frac{1}{x^{2}} ( x + x 1 ​ ) 2 = x 2 + 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 + 2 + x 2 1 ​ অতএব: x 2 + 1 x 2 = ( x + 1 x ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 x^{2}+\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)^{2}-2=5^{2}-2=25-2=23 x 2 + x 2 1 ​ = ( x + x 1 ​ ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 ধাপ 2: x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান नির্ণয় x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান নির্ণয় করতে হলে: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right) x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) এখানে x − 1 x x-\\frac{1}{x} x − x 1 ​ এর মান নির্ণয় করতে হবে। আমরা জানি: ( x − 1 x ) 2 = x 2 − 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 − 2 + 1 x 2 \\left(x-\\frac{1}{x}\\right)^{2}=x^{2}-2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}-2+\\frac{1}{x^{2}} ( x − x 1 ​ ) 2 = x 2 − 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 − 2 + x 2 1 ​ অতএব: ( x − 1 x ) 2 = x 2 + 1 x 2 − 2 = 23 − 2 = 21 x − 1 x = 21 \\begin{aligned} \\left(x-\\frac{1}{x}\\right)^{2}= & x^{2}+\\frac{1}{x^{2}}-2=23-2=21 \\\\ & x-\\frac{1}{x}=\\sqrt{21} \\end{aligned} ( x − x 1 ​ ) 2 = ​ x 2 + x 2 1 ​ − 2 = 23 − 2 = 21 x − x 1 ​ = 21 ​ ​ অতএব: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) = 5 × 21 = 5 21 x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right)=5 \\times \\sqrt{21}=5 \\sqrt{21} x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) = 5 × 21 ​ = 5 21 ​ x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় করতে হলে: x 3 + 1 x 3 = ( x + 1 x ) 3 − 3 ⋅ x ⋅ 1 x ( x + 1 x ) x^{3}+\\frac{1}{x^{3}}=\\left(x+\\frac{1}{x}\\right)^{3}-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right) x 3 + x 3 1 ​ = ( x + x 1 ​ ) 3 − 3 ⋅ x ⋅ x 1 ​ ( x + x 1 ​ ) অতএব: x 3 + 1 x 3 = 5 3 − 3 × 5 = 125 − 15 = 110 x^{3}+\\frac{1}{x^{3}}=5^{3}-3 \\times 5=125-15=110 x 3 + x 3 1 ​ = 5 3 − 3 × 5 = 125 − 15 = 110 x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 এর সত্যতা যাচাই প্রদত্ত সমীকরণ x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 কে x x x দ্বারা গুণ করে পাই: x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 \\begin{array}{c} x^{2}+1=5 x \\\\ x^{2}-5 x+1=0 \\end{array} x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 ​ অত,এব, x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক। উত্তর: i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ সঠিক ii. x 3 + 1 x 3 = 110 x^{3}+\\frac{1}{x^{3}}=110 x 3 + x 3 1 ​ = 110 সঠিক iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক অত,এব, i, ii, এবং iii সবগুলি সঠিক।"
+    },
+    {
+      "number": "20",
+      "tag": "ACPS 24",
+      "question": "জনসংখ্যা নির্দেশক উপাত্তের চলক কোন ধরনের?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অবিচ্ছিন্ন চলক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বিচ্ছিন্ন চলক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অধীন চলক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "স্বাধীন চলক",
+          "is_correct": true
+        }
+      ],
+      "option_a": "অবিচ্ছিন্ন চলক",
+      "option_b": "বিচ্ছিন্ন চলক",
+      "option_c": "অধীন চলক",
+      "option_d": "স্বাধীন চলক",
+      "correct": "ঘ",
+      "explanation": "পরিসংখ্যানে যে সকল চলকের মান পূর্ণসংখ্যা তাদেরকে বিচ্ছিন্ন চলক বলে। জনসংখ্যা সর্বদাই পূর্ণ সংখ্যা তাই এটি একটি বিচ্ছিন্ন চলক।"
+    },
+    {
+      "number": "21",
+      "tag": "RB 24,ACPS 24",
+      "question": "125 এর ________ i. সাধারণ লগের পূর্ণক 2 ii. সাধারণ লগের অংশক .09691 iii. 5 ভিত্তিক লগ 3.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "log ⁡ 125 = 2.09691 \\log 125=2.09691 lo g 125 = 2.09691 (প্রায়) [ক্যালকুলেটরের সাহায্যে ] ∴ log ⁡ 125 \\therefore \\log 125 ∴ lo g 125 এর পূর্ণক 2 এবং অংশক . 09691 125 এর 5 ভিত্তিক লগ = log ⁡ 5 125 = log ⁡ 5 5 3 = 3 =\\log _{5} 125=\\log _{5} 5^{3}=3 = lo g 5 ​ 125 = lo g 5 ​ 5 3 = 3 সুতরাং তিনটি তথ্যই সঠিক।"
+    },
+    {
+      "number": "22",
+      "tag": "JB 24,SB 20,ACPS 24",
+      "question": "1 2 + 2 2 + 3 2 + … … . . + 50 2 = 1^{2}+2^{2}+3^{2}+\\ldots \\ldots . .+50^{2}= 1 2 + 2 2 + 3 2 + …… .. + 5 0 2 = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1275",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "42925",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1625625",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "54587",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1275",
+      "option_b": "42925",
+      "option_c": "1625625",
+      "option_d": "54587",
+      "correct": "ঘ",
+      "explanation": "1 2 + 2 2 + 3 2 + … + 50 2 1^{2}+2^{2}+3^{2}+\\ldots+50^{2} 1 2 + 2 2 + 3 2 + … + 5 0 2 ∴ \\therefore ∴ ১ম n n n সংখ্যক স্বাভাবিক সংখ্যার বর্গের সমষ্টি S n = n ( n + 1 ) ( 2 n + 1 ) 6 ∴ S 50 = 50 × 51 × 101 6 = 42925 \\begin{array}{l} S_{n}=\\frac{n(n+1)(2 n+1)}{6} \\\\ \\therefore S_{50}=\\frac{50 \\times 51 \\times 101}{6} \\\\ =42925 \\end{array} S n ​ = 6 n ( n + 1 ) ( 2 n + 1 ) ​ ∴ S 50 ​ = 6 50 × 51 × 101 ​ = 42925 ​"
+    },
+    {
+      "number": "23",
+      "tag": "RB 24,ACPS 24",
+      "question": "একটি দ্রব্যের ক্রয়মূল্য: বিক্রয়মূল্য = 5 : 6 = 5:6 = 5 : 6 হলে, শতকরা লাভ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "25%",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "30%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20%",
+      "option_b": "25%",
+      "option_c": "30%",
+      "option_d": "40%",
+      "correct": "খ",
+      "explanation": "ধরি, ক্রয়মূল্য 5 x 5 x 5 x টাকা ∴ \\therefore ∴ বিক্রয়মূল্য 6 x 6 x 6 x টাকা ∴ \\therefore ∴ লাভ = 6 x − 5 x = x =6 x-5 x=x = 6 x − 5 x = x টাকা ∴  শতকরা লাভ  = x 5 x × 100 % = 20 % \\begin{aligned} \\therefore \\text { শতকরা লাভ } & =\\frac{x}{5 x} \\times 100 \\% \\\\ & =20 \\% \\end{aligned} ∴   শতকরা   লাভ   ​ = 5 x x ​ × 100% = 20% ​ Ans"
+    },
+    {
+      "number": "24",
+      "tag": "JB 24,ACPS 24,CCS 24",
+      "question": "261টি আম তিন ভাইয়ের মধ্যে 1 3 : 1 5 : 1 9 \\frac{1}{3}: \\frac{1}{5}: \\frac{1}{9} 3 1 ​ : 5 1 ​ : 9 1 ​ অনুপাতে ভাগ করে দিলে দ্বিতীয় ভাই কয়টি আম পাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "81",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "90",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "135",
+          "is_correct": false
+        }
+      ],
+      "option_a": "45",
+      "option_b": "81",
+      "option_c": "90",
+      "option_d": "135",
+      "correct": "ক",
+      "explanation": "দেওয়া আছে, তিন ভাইয়ের আমের অনুপাত = 1 3 : 1 5 : 1 9 = 1 3 × 45 : 1 5 × 45 : 1 9 × 45  [  হর এর ল.সা.গু  = 45  ]  = 15 : 9 : 5 ∴  ২য় ভাই আম পাবে  = 261 × 9 29 = 81  টি  \\begin{array}{l} =\\frac{1}{3}: \\frac{1}{5}: \\frac{1}{9} \\\\ =\\frac{1}{3} \\times 45: \\frac{1}{5} \\times 45: \\frac{1}{9} \\times 45 \\text { [ } \\text { হর এর ল.সা.গু }=45 \\text { ] } \\\\ =15: 9: 5 \\\\ \\therefore \\text { ২য় ভাই আম পাবে }=261 \\times \\frac{9}{29}=81 \\text { টি } \\end{array} = 3 1 ​ : 5 1 ​ : 9 1 ​ = 3 1 ​ × 45 : 5 1 ​ × 45 : 9 1 ​ × 45  [    হর   এর   ল . সা . গু   = 45  ]  = 15 : 9 : 5 ∴   ২য়   ভাই   আম   পাবে   = 261 × 29 9 ​ = 81   টি   ​"
+    },
+    {
+      "number": "25",
+      "tag": "JB 24,ACPS 24",
+      "question": "চিত্রে ∠ x = 70 ∘ , x y = x z \\angle x=70^{\\circ}, x y=x z ∠ x = 7 0 ∘ , x y = x z এবং oy এবং o z o z oz চিত্রে ∠ y \\angle \\mathrm{y} ∠ y ও ∠ z \\angle \\mathrm{z} ∠ z এর সমদ্বিখন্ডক। তাহলে ∠ x y z \\angle x y z ∠ x yz এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "70 ∘ 70^{\\circ} 7 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "65 ∘ 65^{\\circ} 6 5 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "55 ∘ 55^{\\circ} 5 5 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "70 ∘ 70^{\\circ} 7 0 ∘",
+      "option_b": "65 ∘ 65^{\\circ} 6 5 ∘",
+      "option_c": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_d": "55 ∘ 55^{\\circ} 5 5 ∘",
+      "correct": "খ",
+      "explanation": "x y = x z  বলে,  ∠ y = ∠ z  হবে।  ∴ ∠ x + ∠ y + ∠ z = ∠ x + 2 ∠ y [ ∵ ∠ y = ∠ z ] \\begin{array}{l} \\mathrm{xy}=\\mathrm{xz} \\text { বলে, } \\angle \\mathrm{y}=\\angle \\mathrm{z} \\text { হবে। } \\\\ \\therefore \\angle \\mathrm{x}+\\angle \\mathrm{y}+\\angle \\mathrm{z}=\\angle \\mathrm{x}+2 \\angle \\mathrm{y} \\quad[\\because \\angle \\mathrm{y}=\\angle \\mathrm{z}] \\end{array} xy = xz   বলে ,  ∠ y = ∠ z   হবে।   ∴ ∠ x + ∠ y + ∠ z = ∠ x + 2∠ y [ ∵ ∠ y = ∠ z ] ​ বা, 180 ∘ = ∠ x + 2 ∠ y 180^{\\circ}=\\angle x+2 \\angle y 18 0 ∘ = ∠ x + 2∠ y বা, ∠ y = 1 2 ( 180 ∘ − ∠ x ) = 1 2 ( 180 ∘ − 70 ∘ ) \\angle y=\\frac{1}{2}\\left(180^{\\circ}-\\angle \\mathrm{x}\\right)=\\frac{1}{2}\\left(180^{\\circ}-70^{\\circ}\\right) ∠ y = 2 1 ​ ( 18 0 ∘ − ∠ x ) = 2 1 ​ ( 18 0 ∘ − 7 0 ∘ ) ∴ ∠ x y z = ∠ y = 55 ∘ \\therefore \\angle x y z=\\angle y=55^{\\circ} ∴ ∠ x yz = ∠ y = 5 5 ∘"
+    },
+    {
+      "number": "27",
+      "tag": "JB 24,ACPS 24",
+      "question": "গণিতে সর্বনিম্ন নম্বর 35 ও পরিসর 56 হলে, সর্বোচ্চ নম্বর কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "85",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "96",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90",
+          "is_correct": true
+        }
+      ],
+      "option_a": "40",
+      "option_b": "85",
+      "option_c": "96",
+      "option_d": "90",
+      "correct": "ঘ",
+      "explanation": "সর্বনিম্ন নম্বর = 35 =35 = 35  পরিসর = 56 \\text { পরিসর}=56   পরিসর = 56 আমরা জানি, পরিসর = (সর্বোচ্চ মান -সর্বনিম্ন মান) + 1 : পরিসর = (সর্বোচ্চ নম্বর- সর্বনিম্ন নম্বর 11 → 56 =(সর্বোচ্চ নম্বর - 35)+1 → 55 =সর্বোচ্চ নম্বর -35 ∴ \\therefore ∴ সর্বোচ্চ নম্বর = 90 =90 = 90"
+    },
+    {
+      "number": "28",
+      "tag": "JB 24,ACPS 24",
+      "question": "20 মিটার লম্বা একটি মই ভূমির সঙ্গে 30° কোণ উৎপন্ন করে একটি দেওয়ালের ছাদ স্পর্শ করে। দেওয়ালটির উচ্চতা কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "12",
+      "option_c": "20",
+      "option_d": "40",
+      "correct": "ক",
+      "explanation": "△ A C B  এ  sin ⁡ ∠ A C B = A B A C \\triangle A C B~ এ ~\\sin \\angle A C B=\\frac{A B}{A C} △ A CB   এ   sin ∠ A CB = A C A B ​ বা, sin ⁡ 30 ∘ = h 20 \\sin 30^{\\circ}=\\frac{h}{20} sin 3 0 ∘ = 20 h ​ বা, 1 2 = h 20 \\frac{1}{2}=\\frac{h}{20} 2 1 ​ = 20 h ​ ∴ h = 10 \\therefore \\mathrm{h}=10 ∴ h = 10 মিটার"
+    },
+    {
+      "number": "29",
+      "tag": "CB 24,ACPS 24",
+      "question": "O কেন্দ্রবিশিষ্ট বৃত্তে OA একটি ব্যাসার্ধ। A বিন্দুতে কয়টি স্পর্শক অঙ্কন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "3",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "ঘ",
+      "explanation": "বৃত্তের উপরস্থ একটি বিন্দুতে কেবলমাত্র একটি স্পর্শক আঁকা যায়।"
+    },
+    {
+      "number": "30",
+      "tag": "CB 24,ACPS 24",
+      "question": "একটি সামান্তরিক আঁকতে কতটি নিরপেক্ষ উপাত্তের প্রয়োজন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": "একটি সামান্তরিক আঁকতে তিনটি নিরপেক্ষ উপাত্তের প্রয়োজন। যেমন: দুটি সন্নিহিত বাহু এবং তাদের অর্ন্তভূক্ত কোন।"
+    }
+  ]
+}

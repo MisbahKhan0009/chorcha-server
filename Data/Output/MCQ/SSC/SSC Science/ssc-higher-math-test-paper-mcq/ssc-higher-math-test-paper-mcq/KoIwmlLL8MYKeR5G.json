@@ -1,0 +1,832 @@
+{
+  "read_id": "KoIwmlLL8MYKeR5G",
+  "title": "ঢাকা বোর্ড ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DB 25",
+      "question": "কিছু সংখ্যক লোকের মধ্যে 60 জন বাংলা, 35 জন ইংরেজি এবং 15 জন বাংলা ও ইংরেজি বলতে পারে। দুইটি ভাষার অন্তত একটি ভাষা কতজন বলতে পারে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "80",
+          "is_correct": true
+        }
+      ],
+      "option_a": "10",
+      "option_b": "40",
+      "option_c": "60",
+      "option_d": "80",
+      "correct": "ঘ",
+      "explanation": "মনে করি: বাংলা বলতে পারে B = 60 B = 60 B = 60 ইংরেজি বলতে পারে E = 35 E = 35 E = 35 উভয় ভাষা বলতে পারে B ∩ E = 15 B \\cap E = 15 B ∩ E = 15 দুইটি ভাষার অন্তত একটি বলতে পারে অর্থাৎ B ∪ E B \\cup E B ∪ E : n ( B ∪ E ) = n ( B ) + n ( E ) − n ( B ∩ E ) n(B \\cup E) = n(B) + n(E) - n(B \\cap E) n ( B ∪ E ) = n ( B ) + n ( E ) − n ( B ∩ E ) = 60 + 35 − 15 = 60 + 35 - 15 = 60 + 35 − 15 = 80 = 80 = 80"
+    },
+    {
+      "number": "2",
+      "tag": "DB 25",
+      "question": "০ কেন্দ্র বিশিষ্ট অর্ধবৃত্তে OB = 2.5 সে.মি.। ABC ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.25 সে.মি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2.50 সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10 সে.মি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.25 সে.মি",
+      "option_b": "2.50 সে.মি",
+      "option_c": "5 সে.মি.",
+      "option_d": "10 সে.মি",
+      "correct": "ক",
+      "explanation": "এখানে, OB হলো অর্ধবৃত্তটির ব্যাসার্ধ। নববিন্দু বৃত্ত (Euler circle) ত্রিভুজের মধ্যমা, উচ্চতা এবং বাহুর মধ্যবিন্দু দিয়ে যায়। নববিন্দু বৃত্তের ব্যাসার্ধ, মূল ত্রিভুজের পরিবৃত্তের ব্যাসার্ধের অর্ধেক হয়। প্রদত্ত অর্ধবৃত্তের ব্যাসার্ধ 2.5 সেমি হলে, এর পরিবৃত্তের ব্যাসার্ধও 2.5 সেমি হবে। সুতরাং, নববিন্দু বৃত্তের ব্যাসার্ধ হবে 2.5 / 2 = 1.25 সেমি।"
+    },
+    {
+      "number": "3",
+      "tag": "DB 25,CB 24,CPSCR 24",
+      "question": "x 2 − 3 x − 2 = 0 x^{2}-3 x-2=0 x 2 − 3 x − 2 = 0 সমীকরণটির একটি মূল কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 − 17 2 \\frac{3-\\sqrt{17}}{2} 2 3 − 17 ​ ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 3 − 17 2 \\frac{-3-\\sqrt{17}}{2} 2 − 3 − 17 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 − 17 2 \\frac{3-\\sqrt{17}}{2} 2 3 − 17 ​ ​",
+      "option_b": "− 3 − 17 2 \\frac{-3-\\sqrt{17}}{2} 2 − 3 − 17 ​ ​",
+      "option_c": "1",
+      "option_d": "2",
+      "correct": "ক",
+      "explanation": "কোয়াড্রাটিক সমীকরণের মূল বের করার জন্য সূত্র x = − b ± b 2 − 4 a c 2 a x=\\frac{-b \\pm \\sqrt{b^{2}-4 a c}}{2 a} x = 2 a − b ± b 2 − 4 a c ​ ​ এখানে a = 1 , b = − 3 , c = − 2 a=1, b=-3, c=-2 a = 1 , b = − 3 , c = − 2 । নিধায়কের সূত্র হলো: D = b 2 − 4 a c D=b^{2}-4 a c D = b 2 − 4 a c D = ( − 3 ) 2 − 4 ( 1 ) ( − 2 ) = 9 + 8 = 17 D=(-3)^{2}-4(1)(-2)=9+8=17 D = ( − 3 ) 2 − 4 ( 1 ) ( − 2 ) = 9 + 8 = 17 এখন x = − b ± D 2 a x=\\frac{-b \\pm \\sqrt{D}}{2 a} x = 2 a − b ± D ​ ​ -এর মাধ্যমে মূল বের করা যাক: x = − ( − 3 ) ± 17 2 ( 1 ) x = 3 ± 17 2 \\begin{array}{c} x=\\frac{-(-3) \\pm \\sqrt{17}}{2(1)} \\\\ x=\\frac{3 \\pm \\sqrt{17}}{2} \\end{array} x = 2 ( 1 ) − ( − 3 ) ± 17 ​ ​ x = 2 3 ± 17 ​ ​ ​ তাই সমীকরণের দুইটি মূল হলো: x = 3 + 17 2  এবং  x = 3 − 17 2 x=\\frac{3+\\sqrt{17}}{2} \\text { এবং } x=\\frac{3-\\sqrt{17}}{2} x = 2 3 + 17 ​ ​   এবং   x = 2 3 − 17 ​ ​"
+    },
+    {
+      "number": "4",
+      "tag": "DB 25",
+      "question": "7 2 x − 3 = 6 2 x − 3 7^{2 x-3}=6^{2 x-3} 7 2 x − 3 = 6 2 x − 3 সমীকরণের সমাধান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 7 \\frac{6}{7} 7 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7 6 \\frac{7}{6} 6 7 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_b": "6 7 \\frac{6}{7} 7 6 ​",
+      "option_c": "7 6 \\frac{7}{6} 6 7 ​",
+      "option_d": "3 2 \\frac{3}{2} 2 3 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "DB 25",
+      "question": "3x + 7 ≤ \\leq ≤ 5x + 3 অসমতাটির সমাধান সেট কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "S = { x ∈ R : x ≥ 2 } S=\\{x \\in R: x \\geq 2\\} S = { x ∈ R : x ≥ 2 } .",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "S = { x ∈ R : x > 2 } S=\\{x \\in R: x>2\\} S = { x ∈ R : x > 2 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "S = { x ∈ R : x ≤ 2 } S=\\{x \\in R: x \\leq 2\\} S = { x ∈ R : x ≤ 2 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "S = { x ∈ R : x ≥ − 2 } S=\\{x \\in R: x \\geq-2\\} S = { x ∈ R : x ≥ − 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "S = { x ∈ R : x ≥ 2 } S=\\{x \\in R: x \\geq 2\\} S = { x ∈ R : x ≥ 2 } .",
+      "option_b": "S = { x ∈ R : x > 2 } S=\\{x \\in R: x>2\\} S = { x ∈ R : x > 2 }",
+      "option_c": "S = { x ∈ R : x ≤ 2 } S=\\{x \\in R: x \\leq 2\\} S = { x ∈ R : x ≤ 2 }",
+      "option_d": "S = { x ∈ R : x ≥ − 2 } S=\\{x \\in R: x \\geq-2\\} S = { x ∈ R : x ≥ − 2 }",
+      "correct": "ক",
+      "explanation": "3 x + 7 ≤ 5 x + 3 3x+7 \\leq 5x+3 3 x + 7 ≤ 5 x + 3 ⇒ 5 x + 3 ≥ 3 x + 7 \\Rightarrow 5x+3 \\geq 3x+7 ⇒ 5 x + 3 ≥ 3 x + 7 ⇒ 2 x + 3 ≥ 7 \\Rightarrow 2x+3 \\geq 7 ⇒ 2 x + 3 ≥ 7 ⇒ 2 x ≥ 4 \\Rightarrow 2x \\geq 4 ⇒ 2 x ≥ 4 ⇒ x ≥ 2 \\Rightarrow x \\geq 2 ⇒ x ≥ 2 S = { x ∈ R : x ≥ 2 } S=\\{x \\in R: x \\geq 2\\} S = { x ∈ R : x ≥ 2 } ."
+    },
+    {
+      "number": "6",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "গ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "7",
+      "tag": "DB 25",
+      "question": "∠ x = 80 ∘ \\angle x=80^{\\circ} ∠ x = 8 0 ∘ হলে ∠ x \\angle x ∠ x এর সম্পূরক কোণের এক পঞ্চমাংশ কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "100 ∘ 100^{\\circ} 10 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "50 ∘ 50^{\\circ} 5 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "22 ∘ 22^{\\circ} 2 2 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "20 ∘ 20^{\\circ} 2 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "100 ∘ 100^{\\circ} 10 0 ∘",
+      "option_b": "50 ∘ 50^{\\circ} 5 0 ∘",
+      "option_c": "22 ∘ 22^{\\circ} 2 2 ∘",
+      "option_d": "20 ∘ 20^{\\circ} 2 0 ∘",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "DB 25",
+      "question": "sin ⁡ θ = − 3 2 \\sin \\theta=-\\frac{\\sqrt{3}}{2} sin θ = − 2 3 ​ ​ এবং − π 2 < θ < π 2 -\\frac{\\pi}{2}<\\theta<\\frac{\\pi}{2} − 2 π ​ < θ < 2 π ​ হলে θ \\theta θ এর মান কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π 3 \\frac{\\pi}{3} 3 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 π 3 \\frac{4 \\pi}{3} 3 4 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 π 3 \\frac{5 \\pi}{3} 3 5 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "11 π 6 \\frac{11 \\pi}{6} 6 11 π ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π 3 \\frac{\\pi}{3} 3 π ​",
+      "option_b": "4 π 3 \\frac{4 \\pi}{3} 3 4 π ​",
+      "option_c": "5 π 3 \\frac{5 \\pi}{3} 3 5 π ​",
+      "option_d": "11 π 6 \\frac{11 \\pi}{6} 6 11 π ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "DB 25",
+      "question": "-1560° কোণটি কোন চতুর্ভাগে থাকবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রথম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তৃতীয়",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রথম",
+      "option_b": "দ্বিতীয়",
+      "option_c": "তৃতীয়",
+      "option_d": "চতুর্থ",
+      "correct": "গ",
+      "explanation": "কোন কোণকে চতুর্ভাগে নির্ধারণ করতে, আমরা কোণটির মানকে ০° থেকে ৩৬০° এর মধ্যে নিয়ে আসার জন্য ৩৬০° যোগ অথবা বিয়োগ করি। এখানে, -1560° কোণটি যথাক্রমে ৩৬০° যোগ করে অগ্রসর হয়: প্রথম ৩৬০° যোগ করলে: -1560° + 360° = -1200° দ্বিতীয় ৩৬০° যোগ করলে: -1200° + 360° = -840° তৃতীয় ৩৬০° যোগ করলে: -840° + 360° = -480° চতুর্থ ৩৬০° যোগ করলে: -480° + 360° = -120° পঞ্চম ৩৬০° যোগ করলে: -120° + 360° = 240° এখন 240° কোণটি তৃতীয় চতুর্ভাগে পড়ে, যেহেতু তৃতীয় চতুর্ভাগ 180° থেকে 270° এর মধ্যে থাকে। এজন্য, এই উত্তরটি সঠিক যে -1560° কোণটি তৃতীয় চতুর্ভাগে থাকবে।"
+    },
+    {
+      "number": "10",
+      "tag": "DB 25",
+      "question": "12:30 টায় ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটার অন্তর্গত কোণ কত ডিগ্রি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "150°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "160°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "180°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "195°",
+          "is_correct": true
+        }
+      ],
+      "option_a": "150°",
+      "option_b": "160°",
+      "option_c": "180°",
+      "option_d": "195°",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "DB 25,BMARPC 24,BCPC ,JB 22,RB 21,RB 20",
+      "question": "i. A B \\mathrm{AB} AB রেখার ঢাল 3 4 \\frac{3}{4} 4 3 ​ ii. AB রেখার দৈর্ঘ্য 5 একক iii. AB সরলরেখার সমীকরণ, 4 y = 3 x − 12 4 y=3 x-12 4 y = 3 x − 12 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "(i) ঢাল = − 3 − 0 0 − 4 = 3 4 =\\frac{-3-0}{0-4}=\\frac{3}{4} = 0 − 4 − 3 − 0 ​ = 4 3 ​ (ii) A B = ( 4 − 0 ) 2 + ( 0 + 3 ) 2 A B=\\sqrt{(4-0)^{2}+(0+3)^{2}} A B = ( 4 − 0 ) 2 + ( 0 + 3 ) 2 ​ = 4 2 + 3 2 = 25 = 5 =\\sqrt{4^{2}+3^{2}}=\\sqrt{25}=5 = 4 2 + 3 2 ​ = 25 ​ = 5 (iii) সমীকরণ : y + 3 = 3 4 ( x − 0 ) ⇒ 4 y + 12 = 3 x ∴ 4 y = 3 x − 12 \\begin{array}{l} y+3=\\frac{3}{4}(x-0) \\\\ \\Rightarrow 4 y+12=3 x \\\\ \\therefore 4 y=3 x-12 \\end{array} y + 3 = 4 3 ​ ( x − 0 ) ⇒ 4 y + 12 = 3 x ∴ 4 y = 3 x − 12 ​"
+    },
+    {
+      "number": "12",
+      "tag": "DB 25",
+      "question": "চিত্রে, D ও E মধ্যবিন্দু হলে i. P E → = P D → + D E → \\overrightarrow{P E}=\\overrightarrow{P D}+\\overrightarrow{D E} PE = P D + D E ii. P Q → + Q R → + R P → = 0 ‾ \\overrightarrow{P Q}+\\overrightarrow{Q R}+\\overrightarrow{R P}=\\underline{0} PQ ​ + QR ​ + RP = 0 ​ iii. Q R → = 2 E D → \\overrightarrow{Q R}=2 \\overrightarrow{E D} QR ​ = 2 E D নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "DB 25",
+      "question": "22 সে.মি. ধারবিশিষ্ট ঘনক আকৃতির বাক্সে একটি গোলক ঠিকভাবে এঁটে যায়। গোলকটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "484 π \\pi π বর্গ সে.মি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1936 π \\pi π বর্গ সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2904 বর্গ সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7744 π \\pi π বর্গ সে.মি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "484 π \\pi π বর্গ সে.মি",
+      "option_b": "1936 π \\pi π বর্গ সে.মি",
+      "option_c": "2904 বর্গ সে.মি",
+      "option_d": "7744 π \\pi π বর্গ সে.মি",
+      "correct": "ক",
+      "explanation": "ব্যাস, D = 22 D = 22 D = 22 সেমি অতএব, r = D 2 = 22 2 = 11  সেমি r = \\frac{D}{2} = \\frac{22}{2} = 11 \\text{ সেমি} r = 2 D ​ = 2 22 ​ = 11   সেমি গোলকের পৃষ্ঠতল ক্ষেত্রফল সূত্র: A = 4 π r 2 A = 4\\pi r^2 A = 4 π r 2 A = 4 π ( 11 ) 2 = 4 π × 121 = 484 π A = 4\\pi(11)^2 = 4\\pi \\times 121 = 484\\pi A = 4 π ( 11 ) 2 = 4 π × 121 = 484 π"
+    },
+    {
+      "number": "14",
+      "tag": "DB 25",
+      "question": "22 সে.মি. ধারবিশিষ্ট ঘনক আকৃতির বাক্সে একটি গোলক ঠিকভাবে এঁটে যায়। বাক্সটির অনধিকৃত অংশের আয়তন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "506.84 ঘন সে.মি. (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5072.71 ঘন সে.মি. (প্রায়)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "9127.47 ঘন সে.মি. (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "33954.34 ঘন সে.মি. (প্রায়)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "506.84 ঘন সে.মি. (প্রায়)",
+      "option_b": "5072.71 ঘন সে.মি. (প্রায়)",
+      "option_c": "9127.47 ঘন সে.মি. (প্রায়)",
+      "option_d": "33954.34 ঘন সে.মি. (প্রায়)",
+      "correct": "খ",
+      "explanation": "একটি 22 সে.মি. ধার বিশিষ্ট ঘনক আকৃতির বাক্সে একটি গোলক এঁটে গেলে, গোলকের ব্যাস হবে  22 সে.মি. এবং ব্যাসার্ধ হবে 11 সে.মি।  অতএব, গোলকের আয়তন = (4/3) × π × ( 11 )³ ঘন সে.মি। অন্যদিকে, ঘনকটির আয়তন = ( 22 )³ ঘন সে.মি। সুতরাং, অনধিকৃত অংশের আয়তন = ঘনকের আয়তন – গোলকের আয়তন। গণনা: গোলকের ব্যাসার্ধ (r) = 22/2 = 11 সে.মি। গোলকের আয়তন = (4/3)πr³ = (4/3) × (22/7) × ( 11 )³ =5575.29ঘন সে.মি। ঘনকের আয়তন = ( 22 )³ = 10648 ঘন সে.মি। অনধিকৃত অংশের আয়তন = 10648 – 5575.29 = 5072.71 ঘন সে.মি। সুতরাং, বাক্সটির অনধিকৃত অংশের আয়তন প্রায় 5072.71 ঘন সে.মি।"
+    },
+    {
+      "number": "15",
+      "tag": "DB 25",
+      "question": "একটি ছককা নিক্ষেপে 4 উঠার সম্ভাবনা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "5 6 \\frac{5}{6} 6 5 ​",
+      "correct": "ক",
+      "explanation": "একটি আদর্শ ছক্কার ৬টি তল থাকে, যার প্রতিটিতে ১ থেকে ৬ পর্যন্ত সংখ্যা লেখা থাকে। তাই, একটি ছক্কা নিক্ষেপ করলে যে কোনো একটি সংখ্যা উঠার সম্ভাবনা সমান, যা 1/6। যেহেতু 4 উঠার জন্য অনুকূল ফলাফল 1 এবং মোট ফলাফল 6, তাই 4 উঠার সম্ভাবনা 1/6।"
+    },
+    {
+      "number": "1",
+      "tag": "DB 25",
+      "question": "S = { ( x , y ) : x 2 + y 2 = 36 S=\\left\\{(x, y): x^{2}+y^{2}=36\\right. S = { ( x , y ) : x 2 + y 2 = 36 এবং y ≥ 0 } \\left.y \\geq 0\\right\\} y ≥ 0 } হলে- i. অন্বয়টি ফাংশন ii. অন্বয়টির লেখচিত্র একটি অর্ধবৃত্ত iii. অন্বয়টির লেখচিত্র অক্ষের উপরি অর্থতলে থাকবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "অন্বয়টি ফাংশন নয়: যদি একটি x মানের জন্য y এর দুটি মান পাওয়া যায়, তবে সেই অন্বয়টি ফাংশন নয়। এখানে, x^2 + y^2 = 36 সমীকরণে, y = √(36 - x^2) এবং y = -√(36 - x^2) দুটি মান পাওয়া যায়। y এর দুটি মান পাওয়ায় এটি ফাংশন নয়। লেখচিত্র একটি অর্ধবৃত্ত: x^2 + y^2 = 36 একটি বৃত্তের সমীকরণ, যার কেন্দ্র (0,0) এবং ব্যাসার্ধ 6। যেহেতু y ≥ 0, তাই লেখচিত্রটি শুধুমাত্র বৃত্তের উপরের অংশ (অর্ধবৃত্ত) নির্দেশ করবে। লেখচিত্র অক্ষের উপরি অর্থতলে থাকবে: y ≥ 0 শর্তের কারণে লেখচিত্রটি x অক্ষের উপরে বা উপরে অবস্থিত হবে, যা অক্ষের উপরি অর্থতলে থাকবে।  সঠিক উত্তর :ii,iii"
+    },
+    {
+      "number": "2",
+      "tag": "DB 25",
+      "question": "F ( x ) = 2 x − 3 F(x)=\\sqrt{2 x-3} F ( x ) = 2 x − 3 ​ ফাংশনটির ডোমেন নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডোম F = { x ∈ R : x ≠ 3 2 } F=\\left\\{x \\in R: x \\neq \\frac{3}{2}\\right\\} F = { x ∈ R : x  = 2 3 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ডোম F = { x ∈ R : x > 3 2 } F=\\left\\{x \\in R: x>\\frac{3}{2}\\right\\} F = { x ∈ R : x > 2 3 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ডোম F = { x ∈ R : x ≥ 3 2 } F=\\left\\{x \\in R: x \\geq \\frac{3}{2}\\right\\} F = { x ∈ R : x ≥ 2 3 ​ }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ডোম F = { x ∈ R : x ≤ 3 2 } F=\\left\\{x \\in R: x \\leq \\frac{3}{2}\\right\\} F = { x ∈ R : x ≤ 2 3 ​ }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ডোম F = { x ∈ R : x ≠ 3 2 } F=\\left\\{x \\in R: x \\neq \\frac{3}{2}\\right\\} F = { x ∈ R : x  = 2 3 ​ }",
+      "option_b": "ডোম F = { x ∈ R : x > 3 2 } F=\\left\\{x \\in R: x>\\frac{3}{2}\\right\\} F = { x ∈ R : x > 2 3 ​ }",
+      "option_c": "ডোম F = { x ∈ R : x ≥ 3 2 } F=\\left\\{x \\in R: x \\geq \\frac{3}{2}\\right\\} F = { x ∈ R : x ≥ 2 3 ​ }",
+      "option_d": "ডোম F = { x ∈ R : x ≤ 3 2 } F=\\left\\{x \\in R: x \\leq \\frac{3}{2}\\right\\} F = { x ∈ R : x ≤ 2 3 ​ }",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "DB 25",
+      "question": "P ( x , y , z ) = x 2 y + y 2 z + z 2 x P(x, y, z)=x^{2} y+y^{2} z+z^{2} x P ( x , y , z ) = x 2 y + y 2 z + z 2 x হলে - i. P ( x , y , z ) P(x, y, z) P ( x , y , z ) সমমাত্রিক বহুপদী ii. P ( x , y , z ) P(x, y, z) P ( x , y , z ) প্রতিসম রাশি iii. P ( x , y , z ) P(x, y, z) P ( x , y , z ) চক্র-ক্রমিক রাশি নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. P(x, y, z) = x²y + y²z + z²x একটি সমমাত্রিক বহুপদী, কারণ এখানে প্রত্যেকটি পদের মাত্রা (x, y, z এর সূচকগুলোর যোগফল) ৩। ii. P(x, y, z) প্রতিসম রাশি নয়, কারণ x এর জায়গায় y, y এর জায়গায় z এবং z এর জায়গায় x বসালে রাশিটি পরিবর্তিত হয়ে যায়। iii. P(x, y, z) চক্র-ক্রমিক রাশি, কারণ x, y, z এর সাপেক্ষে রাশিটি একই রকম থাকে, যদি x এর জায়গায় y, y এর জায়গায় z এবং z এর জায়গায় x বসানো হয়।   সঠিক উত্তর i,iii"
+    },
+    {
+      "number": "4",
+      "tag": "DB 25",
+      "question": "০ কেন্দ্র বিশিষ্ট অর্ধবৃত্তে OB = 2.5 সে.মি.। AB= 4 সে.মি. হলে AC এর উপর BC এর লম্ব অভিক্ষেপ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "০ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 সে.মি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 সে.মি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "০ সে.মি.",
+      "option_b": "3 সে.মি",
+      "option_c": "4 সে.মি.",
+      "option_d": "5 সে.মি",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "DB 25",
+      "question": "25 3 x = 125 5 y 25^{3 x}=125^{5 y} 2 5 3 x = 12 5 5 y হলে তবে x y \\frac{x}{y} y x ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 5 \\frac{2}{5} 5 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 2 \\frac{5}{2} 2 5 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 5 \\frac{2}{5} 5 2 ​",
+      "option_b": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_c": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_d": "5 2 \\frac{5}{2} 2 5 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "DB 25",
+      "question": "f ( x ) = 1 − 3 x f(x)=1-3^{x} f ( x ) = 1 − 3 x হলে f এর রেঞ্জ কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( − ∞ , 1 ) (-\\infty, 1) ( − ∞ , 1 )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "( − ∞ , 1 ] (-\\infty, 1] ( − ∞ , 1 ]",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 1 , ∞ ) (1, \\infty) ( 1 , ∞ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( − ∞ , ∞ ) (-\\infty, \\infty) ( − ∞ , ∞ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( − ∞ , 1 ) (-\\infty, 1) ( − ∞ , 1 )",
+      "option_b": "( − ∞ , 1 ] (-\\infty, 1] ( − ∞ , 1 ]",
+      "option_c": "( 1 , ∞ ) (1, \\infty) ( 1 , ∞ )",
+      "option_d": "( − ∞ , ∞ ) (-\\infty, \\infty) ( − ∞ , ∞ )",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "DB 25",
+      "question": "( x 2 − 4 x + 4 ) 2 \\left(x^{2}-4 x+4\\right)^{2} ( x 2 − 4 x + 4 ) 2 এর বিস্তৃতিতে পদসংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত রাশিটিকে (x² - 4x + 4) = (x - 2)² আকারে লেখা যায়। সুতরাং, (x² - 4x + 4)² = ((x - 2)²)² = (x - 2)⁴। (x - 2)⁴ এর বিস্তৃতিতে পদসংখ্যা হবে ৪ + ১ = ৫। [যেহেতু (a+b)ⁿ এর বিস্তৃতিতে (n+1) টি পদ থাকে]  সুতরাং, (x² - 4x + 4)² এর বিস্তৃতিতে পদসংখ্যা ৫।"
+    },
+    {
+      "number": "8",
+      "tag": "DB 25",
+      "question": "( x − k 3 ) 4 \\left(x-\\frac{k}{3}\\right)^{4} ( x − 3 k ​ ) 4 এর বিস্তৃতিতে x 3 x^{3} x 3 এর সহগ-12 হলে K এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-36",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-36",
+      "option_b": "-9",
+      "option_c": "9",
+      "option_d": "36",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "DB 25",
+      "question": "3x = 5y+15 রেখাটির ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 3 5 -\\frac{3}{5} − 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 3 -\\frac{1}{3} − 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 3 5 -\\frac{3}{5} − 5 3 ​",
+      "option_b": "− 1 3 -\\frac{1}{3} − 3 1 ​",
+      "option_c": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_d": "5 3 \\frac{5}{3} 3 5 ​",
+      "correct": "গ",
+      "explanation": "এখানে প্রদত্ত সমীকরণটি হল: 3x = 5y + 15  এই সমীকরণটিকে y = mx + c আকারে প্রকাশ করার জন্য, প্রথমে 5y কে বাম দিকে নিয়ে যাই এবং 3x - 15 কে ডান দিকে নিয়ে যাই। 5y = 3x - 15  এখন, উভয় পক্ষকে 5 দিয়ে ভাগ করি: y = (3/5)x - 15/5 y = (3/5)x - 3 সুতরাং, এই সরলরেখার ঢাল (m) হল 3"
+    },
+    {
+      "number": "10",
+      "tag": "DB 25",
+      "question": "3x = 5y+15 রেখাটির Y ছেদক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-15",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-15",
+      "option_b": "-3",
+      "option_c": "3",
+      "option_d": "15",
+      "correct": "খ",
+      "explanation": "প্রথমে, সমীকরণটিকে y y y এর জন্য সমাধান করি: 3 x = 5 y + 15 5 y = 3 x − 15 y = 3 5 x − 3 \\begin{aligned} 3 x & =5 y+15 \\\\ 5 y & =3 x-15 \\\\ y & =\\frac{3}{5} x-3 \\end{aligned} 3 x 5 y y ​ = 5 y + 15 = 3 x − 15 = 5 3 ​ x − 3 ​ এখানে: ঢাল ( m ) = 3 5 (m)=\\frac{3}{5} ( m ) = 5 3 ​ y y y -ছেদক ( c ) = − 3 (c)=-3 ( c ) = − 3 y y y -ছেদক নির্ণয় y y y -ছেদক হলো রেখাটি y y y -অক্ষকে যেখানে ছেদ করে। y y y -অক্ষের উপর যেকোনো বিন্দুর x x x -স্থানাঙ্ক 0 হয়। সুতরাং, x = 0 x=0 x = 0 বসিয়ে পাই: y = 3 5 ( 0 ) − 3 = − 3 y=\\frac{3}{5}(0)-3=-3 y = 5 3 ​ ( 0 ) − 3 = − 3"
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "read_id": "3QCGDbUXxpySdRIa",
+  "title": "বরিশাল ক্যাডেট কলেজ ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "BCC 25",
+      "question": "x+ y, - 1)=(3, x-y) হলে, (x, y)= কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(1,2)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "(2,1)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(-1,2)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(-2,1)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(1,2)",
+      "option_b": "(2,1)",
+      "option_c": "(-1,2)",
+      "option_d": "(-2,1)",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "BCC 25",
+      "question": "A = {0, 2}, B = {- 1,0, 1} হলে- i. B\\A এর প্রকৃত উপসেটের সংখ্যা 3 ii. A ∩ B = { 0 } A \\cap B = \\{0\\} A ∩ B = { 0 } iii. A − B = { 2 } A - B = \\{2\\} A − B = { 2 } নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i, ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i, iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii, iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii, iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i, ii",
+      "option_b": "i, iii",
+      "option_c": "ii, iii",
+      "option_d": "i, ii, iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "BCC 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: x 4 -x²+1=0 3.1. x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "2",
+      "option_c": "1",
+      "option_d": "0",
+      "correct": "গ",
+      "explanation": "x 4 − x 2 + 1 = 0 x^4 - x^2 + 1 = 0 x 4 − x 2 + 1 = 0 বা, x 4 + 1 = x 2 x^4 + 1 = x^2 x 4 + 1 = x 2 বা, x 2 + 1 x 2 = 1 x^2 + \\frac{1}{x^2} = 1 x 2 + x 2 1 ​ = 1 বা, ( x + 1 x ) 2 − 2 ⋅ x ⋅ 1 x = 1 \\left(x + \\frac{1}{x}\\right)^2 - 2 \\cdot x \\cdot \\frac{1}{x} = 1 ( x + x 1 ​ ) 2 − 2 ⋅ x ⋅ x 1 ​ = 1 বা, x + 1 x = 3 x + \\frac{1}{x} = \\sqrt{3} x + x 1 ​ = 3 ​ এখন, x 3 + 1 x 3 = ( x + 1 x ) 3 − 3 ⋅ x ⋅ 1 x ( x + 1 x ) x^3 + \\frac{1}{x^3} = \\left(x + \\frac{1}{x}\\right)^3 - 3 \\cdot x \\cdot \\frac{1}{x} \\left(x + \\frac{1}{x}\\right) x 3 + x 3 1 ​ = ( x + x 1 ​ ) 3 − 3 ⋅ x ⋅ x 1 ​ ( x + x 1 ​ ) = ( 3 ) 3 − 3 3 = 3 3 − 3 3 = 0 = (\\sqrt{3})^3 - 3\\sqrt{3} = 3\\sqrt{3} - 3\\sqrt{3} = 0 = ( 3 ​ ) 3 − 3 3 ​ = 3 3 ​ − 3 3 ​ = 0"
+    },
+    {
+      "number": "4",
+      "tag": "BCC 25",
+      "question": "f ( y ) = 1 + y 2 + y 3 y 2 f(y) = \\frac{1+y^2+y^3}{y^2} f ( y ) = y 2 1 + y 2 + y 3 ​ হলে, f ( − 1 2 ) f\\left(-\\frac{1}{2}\\right) f ( − 2 1 ​ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 9 2 -\\frac{9}{2} − 2 9 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9 2 \\frac{9}{2} 2 9 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "9 32 \\frac{9}{32} 32 9 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 9 \\frac{2}{9} 9 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 9 2 -\\frac{9}{2} − 2 9 ​",
+      "option_b": "9 2 \\frac{9}{2} 2 9 ​",
+      "option_c": "9 32 \\frac{9}{32} 32 9 ​",
+      "option_d": "2 9 \\frac{2}{9} 9 2 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "BCC 25",
+      "question": "S = { ( x , y ) : x ∈ A , y ∈ A  এবং  y 2 = x } S = \\{(x, y): x \\in A, y \\in A \\text{ এবং } y^2 = x\\} S = {( x , y ) : x ∈ A , y ∈ A   এবং   y 2 = x } যেখানে, A = { 2 , 4 , 9 } A = \\{2, 4, 9\\} A = { 2 , 4 , 9 } হলে নিচের কোনটি S S S এর উপাদান?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( − 4 , − 2 ) (-4,-2) ( − 4 , − 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 4 , 2 ) (4,2) ( 4 , 2 )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( − 4 , 2 ) (-4,2) ( − 4 , 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 4 , − 2 ) (4,-2) ( 4 , − 2 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( − 4 , − 2 ) (-4,-2) ( − 4 , − 2 )",
+      "option_b": "( 4 , 2 ) (4,2) ( 4 , 2 )",
+      "option_c": "( − 4 , 2 ) (-4,2) ( − 4 , 2 )",
+      "option_d": "( 4 , − 2 ) (4,-2) ( 4 , − 2 )",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "BCC 25",
+      "question": "বার্ষিক 7% হার মুনাফায় কত বছরে 650 টাকার সরল মুনাফা 273 টাকা হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "5",
+      "option_c": "6",
+      "option_d": "7",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "BCC 25",
+      "question": "একটি ত্রিভুজের দুইটি বাহু যথাক্রমে 7 সে.মি. ও 4 সে.মি. হলে এর তৃতীয় বাহু হবেনিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "3",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "BCC 25",
+      "question": "দুইটি ত্রিভুজের উচ্চতা সমান হলে,ত্রিভুজদ্বয়ের ভূমি এবং ক্ষেত্রফল হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অসমান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমানুপাতিক",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "অমূলদ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমান",
+      "option_b": "অসমান",
+      "option_c": "সমানুপাতিক",
+      "option_d": "অমূলদ",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "BCC 25",
+      "question": "একটি ত্রিভুজের মধ্যমাগুলো পরস্পর সমান হলে, ত্রিভুজটি হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমকোণী",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সমদ্বিবাহু",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমবাহু",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "বিষমবাহু",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমকোণী",
+      "option_b": "সমদ্বিবাহু",
+      "option_c": "সমবাহু",
+      "option_d": "বিষমবাহু",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "BCC 25",
+      "question": "অর্ধবৃত্তে অন্তলিখিত কোণের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "90°",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "73°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "180°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "90°",
+      "option_b": "73°",
+      "option_c": "45°",
+      "option_d": "180°",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "BCC 25",
+      "question": "একই চাপের উপর দণ্ডায়মান বৃত্তস্থ কোণ 2y + 10° এবং কেন্দ্রস্থ কোণ y + 110° হলে, y এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "90°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30°",
+          "is_correct": true
+        }
+      ],
+      "option_a": "90°",
+      "option_b": "60°",
+      "option_c": "45°",
+      "option_d": "30°",
+      "correct": "ঘ",
+      "explanation": "শর্তমতে, 2 × ( 2 y + 10 ∘ ) = y + 110 ∘ 2 \\times (2y + 10^{\\circ}) = y + 110^{\\circ} 2 × ( 2 y + 1 0 ∘ ) = y + 11 0 ∘ [: কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের দ্বিগুণ], বা, 4 y + 20 ∘ = y + 110 ∘ 4y + 20^{\\circ} = y + 110^{\\circ} 4 y + 2 0 ∘ = y + 11 0 ∘ বা, 3 y = 90 ∘ ∴ y = 30 ∘ 3y = 90^{\\circ} \\therefore y = 30^{\\circ} 3 y = 9 0 ∘ ∴ y = 3 0 ∘"
+    },
+    {
+      "number": "12",
+      "tag": "BCC 25",
+      "question": "বৃত্তে অন্তলিখিত সামান্তরিক একটি-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রম্বস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আয়তক্ষেত্র",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বর্গ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ট্রাপিজিয়াম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রম্বস",
+      "option_b": "আয়তক্ষেত্র",
+      "option_c": "বর্গ",
+      "option_d": "ট্রাপিজিয়াম",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "BCC 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: cotA + cosecA= 3 2 \\frac{3}{2} 2 3 ​ 13.1. cotA – cosecA এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "- 3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "- 2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "- 3 2 \\frac{3}{2} 2 3 ​",
+      "option_b": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "- 2 3 \\frac{2}{3} 3 2 ​",
+      "correct": "ঘ",
+      "explanation": "আমরা জানি, cosec 2 A − cot 2 A = 1 \\text{cosec}^2\\text{A} - \\text{cot}^2\\text{A} = 1 cosec 2 A − cot 2 A = 1 বা, ( cosecA + cotA ) ( cosecA − cotA ) = 1 (\\text{cosecA} + \\text{cotA})(\\text{cosecA} - \\text{cotA}) = 1 ( cosecA + cotA ) ( cosecA − cotA ) = 1 বা, 3 2 × ( cosec A − cot ⁡ A ) = 1 \\frac{3}{2} \\times (\\text{cosec}A - \\cot A) = 1 2 3 ​ × ( cosec A − cot A ) = 1 বা, cosec A − cot ⁡ A = 2 3 \\text{cosec}A - \\cot A = \\frac{2}{3} cosec A − cot A = 3 2 ​ ∴ cot ⁡ A − cosec A = − 2 3 \\therefore \\cot A - \\text{cosec}A = -\\frac{2}{3} ∴ cot A − cosec A = − 3 2 ​"
+    },
+    {
+      "number": "14",
+      "tag": "BCC 25",
+      "question": "tan²60° - sin²45° এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 2 \\frac{5}{2} 2 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 4 \\frac{5}{4} 4 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 2 \\frac{5}{2} 2 5 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "5 4 \\frac{5}{4} 4 5 ​",
+      "option_d": "1 2 \\frac{1}{2} 2 1 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "BCC 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: মা ও কৃন্যার বর্তমান বয়স যথাক্রমে x ও y এবং এদের অনুপাত 7: 2। 5 বছর পর তাদের বয়সের অনুপাত হবে 8:3 15.1. প্রথম শর্ত নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x y = 7 2 \\frac{x}{y} = \\frac{7}{2} y x ​ = 2 7 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x + 5 y + 5 = 7 2 \\frac{x+5}{y+5} = \\frac{7}{2} y + 5 x + 5 ​ = 2 7 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x y = 2 7 \\frac{x}{y} = \\frac{2}{7} y x ​ = 7 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x + 5 y + 5 = 2 7 \\frac{x+5}{y+5} = \\frac{2}{7} y + 5 x + 5 ​ = 7 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x y = 7 2 \\frac{x}{y} = \\frac{7}{2} y x ​ = 2 7 ​",
+      "option_b": "x + 5 y + 5 = 7 2 \\frac{x+5}{y+5} = \\frac{7}{2} y + 5 x + 5 ​ = 2 7 ​",
+      "option_c": "x y = 2 7 \\frac{x}{y} = \\frac{2}{7} y x ​ = 7 2 ​",
+      "option_d": "x + 5 y + 5 = 2 7 \\frac{x+5}{y+5} = \\frac{2}{7} y + 5 x + 5 ​ = 7 2 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "BCC 25",
+      "question": "দুইটি সংখ্যার অনুপাত 7:5 এবং গ.সা.গু 4 হলে সংখ্যা দুইটির পার্থক্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "14",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "8",
+      "option_c": "10",
+      "option_d": "14",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "BCC 25",
+      "question": "p, q এবং r ক্রমিক সমানুপাতী হলে— i. p q = q r \\frac{p}{q} = \\frac{q}{r} q p ​ = r q ​ ii. pq = qr iii. q 2 = p r q^2 = pr q 2 = p r নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i, ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i, iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii, iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii, iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i, ii",
+      "option_b": "i, iii",
+      "option_c": "ii, iii",
+      "option_d": "i, ii, iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "BCC 25",
+      "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে 10 সে.মি. ও 12সে.মি. এবং বাহুদ্বয়ের অন্তর্ভুক্ত কোণ 30° হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "60 3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "30 3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30",
+          "is_correct": true
+        }
+      ],
+      "option_a": "60 3 \\sqrt{3} 3 ​",
+      "option_b": "30 3 \\sqrt{3} 3 ​",
+      "option_c": "60",
+      "option_d": "30",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "BCC 25",
+      "question": "একটি সুষম পঞ্চভুজের শীর্ষকোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "110°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "108°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "100°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "95°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "110°",
+      "option_b": "108°",
+      "option_c": "100°",
+      "option_d": "95°",
+      "correct": "খ",
+      "explanation": "n বাহুবিশিষ্ট একটি সুষম বহুভুজের শীর্ষকোণের মান ( n − 2 ) × 180 ∘ n \\frac{(n-2) \\times 180^{\\circ}}{n} n ( n − 2 ) × 18 0 ∘ ​ ∴ \\therefore ∴ সুষম পঞ্চভুজের শীর্ষকোণ = ( 5 − 2 ) × 180 ∘ 5 = 108 ∘ =\\frac{(5-2) \\times 180^{\\circ}}{5}=108^{\\circ} = 5 ( 5 − 2 ) × 18 0 ∘ ​ = 10 8 ∘"
+    },
+    {
+      "number": "20",
+      "tag": "BCC 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: একটি সিলিন্ডারের উচ্চতা 10 সে.মি. এবং ভূমির ব্যাসার্ধ 7 সে.মি. 20.1. সিলিন্ডারটির সমগ্রতলের ক্ষেত্রফল কত বর্গসে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "747.7",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "847.8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "947.8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "967.8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "747.7",
+      "option_b": "847.8",
+      "option_c": "947.8",
+      "option_d": "967.8",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "BCC 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: শ্রেণি ব্যাপ্তি 31-40 41-50 51-60 61-70 71-80 গণসংখ্যা 4 8 20 12 6 21.1. মধ্যক শ্রেণির যোজিত গণসংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "32",
+          "is_correct": true
+        }
+      ],
+      "option_a": "12",
+      "option_b": "20",
+      "option_c": "25",
+      "option_d": "32",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "BCC 25",
+      "question": "উপাত্ত উপস্থাপনের জন্য ব্যবহার করা হয়- i. -পাইচিত্র ii. অজিভ রেখা iii. আয়তলেখ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i, ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i, iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii, iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii, iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i, ii",
+      "option_b": "i, iii",
+      "option_c": "ii, iii",
+      "option_d": "i, ii, iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "BCC 25",
+      "question": "একটি ঘনকের পৃষ্ঠতলের কর্ণের দৈর্ঘ্য 8 2 8\\sqrt{2} 8 2 ​ সে.মি. হলে, ঘনকটির কর্ণের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "27.62",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "13.86",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "39.56",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "56.34",
+          "is_correct": false
+        }
+      ],
+      "option_a": "27.62",
+      "option_b": "13.86",
+      "option_c": "39.56",
+      "option_d": "56.34",
+      "correct": "খ",
+      "explanation": "ঘনকের বাহুর দৈর্ঘ্য a হলে পৃষ্ঠতলের কর্ণের দৈর্ঘ্য = a 2 = 8 2 =\\mathrm{a}\\sqrt{2}=8\\sqrt{2} = a 2 ​ = 8 2 ​ ∴ a = 8 \\therefore a=8 ∴ a = 8 সে.মি. ∴ \\therefore ∴ ঘনকের কর্ণের দৈর্ঘ্য = a 3 = 8 3 = 13.86 =\\mathrm{a}\\sqrt{3}=8\\sqrt{3}=13.86 = a 3 ​ = 8 3 ​ = 13.86 সেমি (প্রায়)"
+    },
+    {
+      "number": "24",
+      "tag": "BCC 25",
+      "question": "4 sin ⁡ 2 A − 1 = 0 4\\sin^2A - 1 = 0 4 sin 2 A − 1 = 0 হলে, cos ⁡ 3 A \\cos3A cos 3 A = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "1 4 \\frac{1}{4} 4 1 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "BCC 25",
+      "question": "অধিচাপে অন্তলিখিত কোণ কীরূপ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রবৃদ্ধ কোণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সমকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "প্রবৃদ্ধ কোণ",
+      "option_b": "সমকোণ",
+      "option_c": "স্থূলকোণ",
+      "option_d": "সূক্ষ্মকোণ",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,1987 @@
+{
+  "read_id": "6ueB3VEY_9LhE9Qn",
+  "title": "KhU A Unit 2024-25",
+  "count": 60,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "KhU A 24-25",
+      "question": "যদি C → = A → × B ⃗ \\overrightarrow{\\mathrm{C}}=\\overrightarrow{\\mathrm{A}} \\times \\vec{B} C = A × B এবং D → = B ⃗ × A → \\overrightarrow{\\mathrm{D}}=\\vec{B} \\times \\overrightarrow{\\mathrm{A}} D = B × A হয়, তবে C → . D → \\overrightarrow{\\mathrm{C}} . \\overrightarrow{\\mathrm{D}} C . D কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "CD",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− ∣ c ‾ ∣ 2 -|\\overline{c}|^2 − ∣ c ∣ 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "CD",
+      "option_b": "− ∣ c ‾ ∣ 2 -|\\overline{c}|^2 − ∣ c ∣ 2",
+      "option_c": "0",
+      "option_d": "কোনটিই নয়",
+      "correct": "খ",
+      "explanation": "যদি C ⃗ = A ⃗ × B ⃗ \\vec{C} = \\vec{A} \\times \\vec{B} C = A × B এবং D ⃗ = B ⃗ × A ⃗ \\vec{D} = \\vec{B} \\times \\vec{A} D = B × A হয়, তবে C ⃗ ⋅ D ⃗ \\vec{C} \\cdot \\vec{D} C ⋅ D কত? আমরা জানি যে ভেক্টর গুণফলের একটি গুরুত্বপূর্ণ ধর্ম হল B ⃗ × A ⃗ = − ( A ⃗ × B ⃗ ) \\vec{B} \\times \\vec{A} = -(\\vec{A} \\times \\vec{B}) B × A = − ( A × B ) । প্রশ্নে দেওয়া আছে C ⃗ = A ⃗ × B ⃗ \\vec{C} = \\vec{A} \\times \\vec{B} C = A × B এবং D ⃗ = B ⃗ × A ⃗ \\vec{D} = \\vec{B} \\times \\vec{A} D = B × A সুতরাং, আমরা লিখতে পারি: D ⃗ = − C ⃗ \\vec{D} = -\\vec{C} D = − C এখন, আমরা C ⃗ ⋅ D ⃗ \\vec{C} \\cdot \\vec{D} C ⋅ D এর মান নির্ণয় করব। আমরা জানি যে কোনো ভেক্টরের নিজের সাথে ডট গুণফল তার মানের বর্গের সমান, অর্থাৎ C ⃗ ⋅ C ⃗ = ∣ C ⃗ ∣ 2 \\vec{C} \\cdot \\vec{C} = |\\vec{C}|^2 C ⋅ C = ∣ C ∣ 2 সুতরাং, C ⃗ ⋅ D ⃗ = − ∣ C ⃗ ∣ 2 \\vec{C} \\cdot \\vec{D} = -|\\vec{C}|^2 C ⋅ D = − ∣ C ∣ 2 যেখানে ∣ C ⃗ ∣ |\\vec{C}| ∣ C ∣ হল C ⃗ \\vec{C} C ভেক্টরের মান। C ⃗ ⋅ D ⃗ = − ∣ C ⃗ ∣ 2 \\vec{C} \\cdot \\vec{D} = -|\\vec{C}|^2 C ⋅ D = − ∣ C ∣ 2"
+    },
+    {
+      "number": "2",
+      "tag": "KhU A 24-25",
+      "question": "গ্যাস প্রসঙ্গে 'PV' কি নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ক্ষমতা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ভরবেগ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "শক্তি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "জড়তা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ক্ষমতা",
+      "option_b": "ভরবেগ",
+      "option_c": "শক্তি",
+      "option_d": "জড়তা",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "KhU A 24-25",
+      "question": "পয়েন্টিং ভেক্টর কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "E ⃗ ⋅ H ⃗ \\vec{E} \\cdot \\vec{H} E ⋅ H",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "H → ⋅ E → \\overrightarrow{\\mathrm{H}} \\cdot \\overrightarrow{\\mathrm{E}} H ⋅ E",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "E ⃗ × H ⃗ \\vec{E} \\times \\vec{H} E × H",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "H → × E → \\overrightarrow{\\mathrm{H}} \\times \\overrightarrow{\\mathrm{E}} H × E",
+          "is_correct": false
+        }
+      ],
+      "option_a": "E ⃗ ⋅ H ⃗ \\vec{E} \\cdot \\vec{H} E ⋅ H",
+      "option_b": "H → ⋅ E → \\overrightarrow{\\mathrm{H}} \\cdot \\overrightarrow{\\mathrm{E}} H ⋅ E",
+      "option_c": "E ⃗ × H ⃗ \\vec{E} \\times \\vec{H} E × H",
+      "option_d": "H → × E → \\overrightarrow{\\mathrm{H}} \\times \\overrightarrow{\\mathrm{E}} H × E",
+      "correct": "গ",
+      "explanation": "পয়েন্টিং ভেক্টর হলো তড়িৎচুম্বকীয় তরঙ্গে শক্তির প্রবাহের দিক ও মান নির্দেশকারী ভেক্টর। এর সূত্র: S ⃗ = E ⃗ × H ⃗ \\vec{S} = \\vec{E} \\times \\vec{H} S = E × H"
+    },
+    {
+      "number": "4",
+      "tag": "KhU A 24-25",
+      "question": "যদি রেডনের অর্ধজীবন 4 দিন হয়, তবে গড় জীবন কত দিন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.77",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5.77",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "6.77",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7.77",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4.77",
+      "option_b": "5.77",
+      "option_c": "6.77",
+      "option_d": "7.77",
+      "correct": "খ",
+      "explanation": "তেজস্ক্রিয় পদার্থের অর্ধ-জীবন ( T 1 / 2 T_{1/2} T 1/2 ​ ) এবং গড় জীবন ( τ \\tau τ ) এর মধ্যে সম্পর্কটি নিম্নরূপ: τ = T 1 / 2 ln ⁡ ( 2 ) \\tau = \\frac{T_{1/2}}{\\ln(2)} τ = l n ( 2 ) T 1/2 ​ ​ যেখানে ln ⁡ ( 2 ) ≈ 0.693 \\ln(2) \\approx 0.693 ln ( 2 ) ≈ 0.693 প্রশ্ন অনুযায়ী, রেডনের অর্ধ-জীবন T 1 / 2 = 4 T_{1/2} = 4 T 1/2 ​ = 4 দিন। এই মানটি সূত্রে বসালে গড় জীবন পাওয়া যায়: τ = 4 0.693 \\tau = \\frac{4}{0.693} τ = 0.693 4 ​ τ ≈ 5.77 \\tau \\approx 5.77 τ ≈ 5.77 Answer: রেডনের গড় জীবন প্রায় 5.77 দিন।"
+    },
+    {
+      "number": "5",
+      "tag": "KhU A 24-25",
+      "question": "900 kg ভরের একটি লিফট 350 kg ভরের বোঝা সহ 100 s এ নিচতলা থেকে 18 তলায় 75 m ওঠে। লিফটির ক্ষমতা কত kW?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9.187",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "8.219",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9.257",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8.257",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9.187",
+      "option_b": "8.219",
+      "option_c": "9.257",
+      "option_d": "8.257",
+      "correct": "ক",
+      "explanation": "মোট ভর, m = ( 900 + 350 ) kg = 1250  kg \\mathbf{m}=(900+350)\\text{kg} = 1250 \\text{ kg} m = ( 900 + 350 ) kg = 1250  kg h = 75  m,  t = 100  s,  P = ? \\mathbf{h}=75 \\text{ m, } \\mathbf{t}=100 \\text{ s, } \\mathbf{P}=? h = 75  m,  t = 100  s,  P = ? আমরা জানি, P = W t = m g h t P = \\frac{W}{t} = \\frac{mgh}{t} P = t W ​ = t m g h ​ = 1250 × 9.8 × 75 100 = \\frac{1250 \\times 9.8 \\times 75}{100} = 100 1250 × 9.8 × 75 ​ = 9187.5 W = 9.185 k W = 9187.5 W = 9.185 kW = 9187.5 W = 9.185 kW"
+    },
+    {
+      "number": "6",
+      "tag": "KhU A 24-25",
+      "question": "একটি তারের উপাদানের ইয়াং এর গুনাংক 2 × 10 11 N/m²। তারটির দৈর্ঘ্য 15% বৃদ্ধি করতে কত N/m² পীড়ন প্রয়োগ করতে হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 × 10 10 2 \\times 10^{10} 2 × 1 0 10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 × 10 10 3 \\times 10^{10} 3 × 1 0 10",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2.5 × 10 10 2.5 \\times 10^{10} 2.5 × 1 0 10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3.5 × 10 10 3.5 \\times 10^{10} 3.5 × 1 0 10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 × 10 10 2 \\times 10^{10} 2 × 1 0 10",
+      "option_b": "3 × 10 10 3 \\times 10^{10} 3 × 1 0 10",
+      "option_c": "2.5 × 10 10 2.5 \\times 10^{10} 2.5 × 1 0 10",
+      "option_d": "3.5 × 10 10 3.5 \\times 10^{10} 3.5 × 1 0 10",
+      "correct": "খ",
+      "explanation": "প্রদত্ত তথ্য: ইয়ং-এর গুণাঙ্ক, Y = 2 × 10 11 Y = 2 \\times 10^{11} Y = 2 × 1 0 11 N/m 2 ^2 2 দৈর্ঘ্য বৃদ্ধি বা বিকৃতি, ϵ = 15 % = 0.15 \\epsilon = 15\\% = 0.15 ϵ = 15% = 0.15 আমরা জানি, ইয়ং-এর গুণাঙ্ক হলো পীড়ন ও বিকৃতির অনুপাত: Y = σ ϵ Y = \\frac{\\sigma}{\\epsilon} Y = ϵ σ ​ উপরের সূত্র থেকে পীড়ন ( σ \\sigma σ ) নির্ণয় করা যায়: σ = Y × ϵ \\sigma = Y \\times \\epsilon σ = Y × ϵ মানগুলো বসিয়ে পাই: σ = ( 2 × 10 11  N/m 2 ) × 0.15 \\sigma = (2 \\times 10^{11} \\text{ N/m}^2) \\times 0.15 σ = ( 2 × 1 0 11  N/m 2 ) × 0.15 σ = 0.3 × 10 11  N/m 2 \\sigma = 0.3 \\times 10^{11} \\text{ N/m}^2 σ = 0.3 × 1 0 11  N/m 2 σ = 3 × 10 10  N/m 2 \\sigma = 3 \\times 10^{10} \\text{ N/m}^2 σ = 3 × 1 0 10  N/m 2"
+    },
+    {
+      "number": "7",
+      "tag": "KhU A 24-25",
+      "question": "29°C তাপমাত্রায় 3g নাইট্রোজেন গ্যাসের মোট গতিশক্তি কত J? (নাইট্রোজেনের গ্রাম আনবিক ভর 28 g)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "430",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "413",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "403",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "407",
+          "is_correct": false
+        }
+      ],
+      "option_a": "430",
+      "option_b": "413",
+      "option_c": "403",
+      "option_d": "407",
+      "correct": "গ",
+      "explanation": "প্রদত্ত তাপমাত্রা T = 29 ∘ C = 29 + 273 = 302  K T = 29^\\circ\\text{C} = 29 + 273 = 302\\text{ K} T = 2 9 ∘ C = 29 + 273 = 302  K নাইট্রোজেনের ভর m = 3  g m = 3\\text{ g} m = 3  g নাইট্রোজেনের গ্রাম আণবিক ভর M = 28  g/mol M = 28\\text{ g/mol} M = 28  g/mol সর্বজনীন গ্যাস ধ্রুবক R = 8.314  J ⋅ mol − 1 ⋅ K − 1 R = 8.314\\text{ J} \\cdot \\text{mol}^{-1} \\cdot \\text{K}^{-1} R = 8.314  J ⋅ mol − 1 ⋅ K − 1 গ্যাসের মোল সংখ্যা n n n হলো: n = m M = 3  g 28  g/mol = 3 28  mol n = \\frac{m}{M} = \\frac{3\\text{ g}}{28\\text{ g/mol}} = \\frac{3}{28}\\text{ mol} n = M m ​ = 28  g/mol 3  g ​ = 28 3 ​  mol আদর্শ গ্যাসের মোট গতিশক্তি (Total Kinetic Energy) E k E_k E k ​ নির্ণয়ের সূত্র হলো: E k = 3 2 n R T E_k = \\frac{3}{2}nRT E k ​ = 2 3 ​ n RT মান বসিয়ে পাই: E k = 3 2 × 3 28  mol × 8.314  J ⋅ mol − 1 ⋅ K − 1 × 302  K E_k = \\frac{3}{2} \\times \\frac{3}{28}\\text{ mol} \\times 8.314\\text{ J} \\cdot \\text{mol}^{-1} \\cdot \\text{K}^{-1} \\times 302\\text{ K} E k ​ = 2 3 ​ × 28 3 ​  mol × 8.314  J ⋅ mol − 1 ⋅ K − 1 × 302  K E k = 9 × 8.314 × 302 56  J E_k = \\frac{9 \\times 8.314 \\times 302}{56}\\text{ J} E k ​ = 56 9 × 8.314 × 302 ​  J E k ≈ 403.0  J E_k \\approx 403.0\\text{ J} E k ​ ≈ 403.0  J এই মানটি প্রদত্ত বিকল্পগুলির মধ্যে 403 জুলের খুব কাছাকাছি।"
+    },
+    {
+      "number": "8",
+      "tag": "KhU A 24-25",
+      "question": "15 cm ব্যাসার্ধের একটি চার্জিত গোলকের কেন্দ্র থেকে 20 cm দূরে অবস্থিত একটি বিন্দুতে বৈদ্যুতিক ক্ষেত্র 6.0 x 10 3 N/C গোলকটিতে চার্জের পরিমান কত nC?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "27.6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "26.7",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "37.6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "36.7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "27.6",
+      "option_b": "26.7",
+      "option_c": "37.6",
+      "option_d": "36.7",
+      "correct": "খ",
+      "explanation": "* গোলকের ব্যাসার্ধ, R = 15 R = 15 R = 15 cm * কেন্দ্র থেকে দূরত্ব, r = 20 r = 20 r = 20 cm * বৈদ্যুতিক ক্ষেত্র, E = 6.0 × 10 3 E = 6.0 \\times 10^3 E = 6.0 × 1 0 3 N/C * কুলম্ব ধ্রুবক, k = 9 × 10 9 k = 9 \\times 10^9 k = 9 × 1 0 9 N ⋅ \\cdot ⋅ m 2 ^2 2 /C 2 ^2 2 একটি চার্জিত গোলকের কেন্দ্র থেকে r r r দূরত্বে বৈদ্যুতিক ক্ষেত্রের মান নির্ণয়ের সূত্রটি হলো: E = k q r 2 E = k \\frac{q}{r^2} E = k r 2 q ​ যেখানে q q q হলো গোলকের চার্জের পরিমাণ। উপরের সূত্র থেকে q q q এর জন্য সমাধান করে পাই: q = E ⋅ r 2 k q = \\frac{E \\cdot r^2}{k} q = k E ⋅ r 2 ​ প্রদত্ত মানগুলো SI এককে রূপান্তর করে বসিয়ে পাই: * r = 20 r = 20 r = 20 cm = 0.20 = 0.20 = 0.20 m q = ( 6.0 × 10 3 ) ⋅ ( 0.20 ) 2 9 × 10 9 q = \\frac{(6.0 \\times 10^3) \\cdot (0.20)^2}{9 \\times 10^9} q = 9 × 1 0 9 ( 6.0 × 1 0 3 ) ⋅ ( 0.20 ) 2 ​ q = 6.0 × 10 3 × 0.04 9 × 10 9 q = \\frac{6.0 \\times 10^3 \\times 0.04}{9 \\times 10^9} q = 9 × 1 0 9 6.0 × 1 0 3 × 0.04 ​ q = 0.24 × 10 3 9 × 10 9 q = \\frac{0.24 \\times 10^3}{9 \\times 10^9} q = 9 × 1 0 9 0.24 × 1 0 3 ​ q = 0.02667 × 10 − 6 q = 0.02667 \\times 10^{-6} q = 0.02667 × 1 0 − 6 q ≈ 2.67 × 10 − 8  C q \\approx 2.67 \\times 10^{-8} \\text{ C} q ≈ 2.67 × 1 0 − 8  C"
+    },
+    {
+      "number": "9",
+      "tag": "KhU A 24-25",
+      "question": "একটি ট্রানজিস্টর কমন বেস সংযোগে দেয়া আছে। ইমিটার কারেন্ট ও বেস কারেন্টের মান যথাক্রমে 0.85 mA এবং 0.05 mA । কারেন্ট বিবর্ধন গুনাংক α \\alpha α এর মান কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.94",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0.49",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.90",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.98",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.94",
+      "option_b": "0.49",
+      "option_c": "0.90",
+      "option_d": "0.98",
+      "correct": "ক",
+      "explanation": "ইমিটার কারেন্ট, I E = 0.85 I_E = 0.85 I E ​ = 0.85 mA বেস কারেন্ট, I B = 0.05 I_B = 0.05 I B ​ = 0.05 mA ট্রানজিস্টারের মূল নীতি অনুসারে, ইমিটার কারেন্ট হলো বেস কারেন্ট এবং কালেক্টর কারেন্টের যোগফল: I E = I B + I C I_E = I_B + I_C I E ​ = I B ​ + I C ​ অতএব, কালেক্টর কারেন্ট: I C = I E − I B I_C = I_E - I_B I C ​ = I E ​ − I B ​ I C = 0.85  mA − 0.05  mA I_C = 0.85 \\text{ mA} - 0.05 \\text{ mA} I C ​ = 0.85  mA − 0.05  mA I C = 0.80  mA I_C = 0.80 \\text{ mA} I C ​ = 0.80  mA কমন বেস সংযোগের জন্য কারেন্ট বিবর্ধন গুণাঙ্ক α \\alpha α হলো কালেক্টর কারেন্ট এবং ইমিটার কারেন্টের অনুপাত: α = I C I E \\alpha = \\frac{I_C}{I_E} α = I E ​ I C ​ ​ α = 0.80  mA 0.85  mA \\alpha = \\frac{0.80 \\text{ mA}}{0.85 \\text{ mA}} α = 0.85  mA 0.80  mA ​ α ≈ 0.941 \\alpha \\approx 0.941 α ≈ 0.941"
+    },
+    {
+      "number": "10",
+      "tag": "KhU A 24-25",
+      "question": "নিচের কোনটির মধ্যে ডাইপোল-ডাইপোল আকর্ষণ বিদ্যমান?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "NH 3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "CH 4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "O 2 \\mathrm{O}_{2} O 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Ar",
+          "is_correct": false
+        }
+      ],
+      "option_a": "NH 3",
+      "option_b": "CH 4",
+      "option_c": "O 2 \\mathrm{O}_{2} O 2 ​",
+      "option_d": "Ar",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "KhU A 24-25",
+      "question": "একটি গাড়ির টায়ারে 30℃ তাপমাত্রায় বায়ু ভর্তি করা হলো। টায়ারের ভিতরের চাপ যদি 6.6% বৃদ্ধি পায়, তাহলে টায়ারটি বিস্ফোরিত হওয়ার সম্ভাবনা রয়েছে। এই অবস্থায় কত °C তাপমাত্রা পর্যন্ত গাড়িটি নিরাপদে চালানো যাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "50",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40",
+          "is_correct": false
+        }
+      ],
+      "option_a": "50",
+      "option_b": "45",
+      "option_c": "60",
+      "option_d": "40",
+      "correct": "ক",
+      "explanation": "প্রদত্ত তথ্য অনুযায়ী, প্রাথমিক তাপমাত্রা, T 1 = 30 ∘ C = ( 30 + 273 ) K = 303 K T_{1} = 30^{\\circ}\\text{C} = (30 + 273)\\text{K} = 303\\text{K} T 1 ​ = 3 0 ∘ C = ( 30 + 273 ) K = 303 K ধরা যাক, প্রাথমিক চাপ, P 1 = P P_{1} = P P 1 ​ = P চাপের বৃদ্ধি, Δ P = 6.6 % \\Delta P = 6.6\\% Δ P = 6.6% বিস্ফোরণের সময় চাপ, P 2 = P 1 + Δ P = P + 0.066 P = 1.066 P P_{2} = P_{1} + \\Delta P = P + 0.066P = 1.066P P 2 ​ = P 1 ​ + Δ P = P + 0.066 P = 1.066 P গ্যাসের চাপ ও তাপমাত্রার সম্পর্ক অনুযায়ী, P 1 T 1 = P 2 T 2 \\frac{P_{1}}{T_{1}} = \\frac{P_{2}}{T_{2}} T 1 ​ P 1 ​ ​ = T 2 ​ P 2 ​ ​ P 303 = 1.066 P T 2 \\frac{P}{303} = \\frac{1.066P}{T_{2}} 303 P ​ = T 2 ​ 1.066 P ​ T 2 = 1.066 P × 303 P T_{2} = \\frac{1.066P \\times 303}{P} T 2 ​ = P 1.066 P × 303 ​ T 2 = 1.066 × 303 T_{2} = 1.066 \\times 303 T 2 ​ = 1.066 × 303 T 2 = 323.0 K T_{2} = 323.0\\text{K} T 2 ​ = 323.0 K T 2 = 323.0 K = ( 323.0 − 273 ) ∘ C = 50 ∘ C T_{2} = 323.0\\text{K} = (323.0 - 273)^{\\circ}\\text{C} = 50^{\\circ}\\text{C} T 2 ​ = 323.0 K = ( 323.0 − 273 ) ∘ C = 5 0 ∘ C সুতরাং, টায়ারটি নিরাপদে 50 ∘ C 50^{\\circ}\\text{C} 5 0 ∘ C তাপমাত্রা পর্যন্ত চালানো যাবে।"
+    },
+    {
+      "number": "12",
+      "tag": "KhU A 24-25",
+      "question": "ধারকের ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ω = 1 2 V C 2 \\omega=\\frac{1}{2} V C^{2} ω = 2 1 ​ V C 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ω = 1 2 C l 2 \\omega=\\frac{1}{2} C l^{2} ω = 2 1 ​ C l 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "U = 1 2 V 2 C U=\\frac{1}{2} V^{2} C U = 2 1 ​ V 2 C",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ω = 1 2 ⋅ Q c \\omega=\\frac{1}{2} \\cdot \\frac{Q}{c} ω = 2 1 ​ ⋅ c Q ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ω = 1 2 V C 2 \\omega=\\frac{1}{2} V C^{2} ω = 2 1 ​ V C 2",
+      "option_b": "ω = 1 2 C l 2 \\omega=\\frac{1}{2} C l^{2} ω = 2 1 ​ C l 2",
+      "option_c": "U = 1 2 V 2 C U=\\frac{1}{2} V^{2} C U = 2 1 ​ V 2 C",
+      "option_d": "ω = 1 2 ⋅ Q c \\omega=\\frac{1}{2} \\cdot \\frac{Q}{c} ω = 2 1 ​ ⋅ c Q ​",
+      "correct": "গ",
+      "explanation": "ধারকের ক্ষেত্রে U = 1 2 V 2 C U=\\frac{1}{2} V^{2} C U = 2 1 ​ V 2 C"
+    },
+    {
+      "number": "13",
+      "tag": "KhU A 24-25",
+      "question": "প্রদর্শিত লজিক সার্কিটের ক্ষেত্রে আউটপুট Y(1) এর জন্য ইনপুট A, B, ও C এর কোন মানটি সঠিকঃ",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A = 1 ,B = 0 , C = 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A = 0, B = 1, C=1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A = 1, B = 1 , C = 0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "A = 0, B = 0, C = 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A = 1 ,B = 0 , C = 1",
+      "option_b": "A = 0, B = 1, C=1",
+      "option_c": "A = 1, B = 1 , C = 0",
+      "option_d": "A = 0, B = 0, C = 0",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "KhU A 24-25",
+      "question": "8.6N বাতাসের অতিক্রম করে 2 kg ভরের একটি কাঁঠাল, গাছ থেকে সোজা নিচের দিকে পড়ছে। তাহলে কাঁঠালের ত্বরণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5.5 m/s",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5.5 ms -2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "6.65 m/s -2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5.6 m/s",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5.5 m/s",
+      "option_b": "5.5 ms -2",
+      "option_c": "6.65 m/s -2",
+      "option_d": "5.6 m/s",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "KhU A 24-25",
+      "question": "কাজের মাত্রা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "[ M L 1 T − 2 ] \\left[M L^{1} \\mathrm{T}^{- 2}\\right] [ M L 1 T − 2 ]",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "[ M L 1 T − 1 ] \\left[\\mathrm{ML}^{1} \\mathrm{T}^{-1}\\right] [ ML 1 T − 1 ]",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "[ M L 2 T − 2 ] \\left[M L^{2} T^{-2}\\right] [ M L 2 T − 2 ]",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "[ M L − 2 T − 2 ] \\left[M L{ }^{-2} T^{-2}\\right] [ M L − 2 T − 2 ]",
+          "is_correct": false
+        }
+      ],
+      "option_a": "[ M L 1 T − 2 ] \\left[M L^{1} \\mathrm{T}^{- 2}\\right] [ M L 1 T − 2 ]",
+      "option_b": "[ M L 1 T − 1 ] \\left[\\mathrm{ML}^{1} \\mathrm{T}^{-1}\\right] [ ML 1 T − 1 ]",
+      "option_c": "[ M L 2 T − 2 ] \\left[M L^{2} T^{-2}\\right] [ M L 2 T − 2 ]",
+      "option_d": "[ M L − 2 T − 2 ] \\left[M L{ }^{-2} T^{-2}\\right] [ M L − 2 T − 2 ]",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "KhU A 24-25",
+      "question": "যেখানে অভিকর্ষজ ত্বরণ g=9.8 ms 2 সেখানে একটি সেকেন্ড দোলকের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "99.29 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "99.3 cm",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "99.29 m²",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "99.29 cm²",
+          "is_correct": false
+        }
+      ],
+      "option_a": "99.29 m",
+      "option_b": "99.3 cm",
+      "option_c": "99.29 m²",
+      "option_d": "99.29 cm²",
+      "correct": "খ",
+      "explanation": "সরল দোলকের দোলনকালের সূত্র হলো: T = 2 π L g T = 2\\pi\\sqrt{\\frac{L}{g}} T = 2 π g L ​ ​ যেখানে T T T হলো দোলনকাল, L L L হলো দোলকের দৈর্ঘ্য এবং g g g হলো অভিকর্ষজ ত্বরণ। উপরের সূত্র থেকে দোলকের দৈর্ঘ্য L L L বের করার জন্য সূত্রটিকে এভাবে লেখা যায়: L g = T 2 π \\sqrt{\\frac{L}{g}} = \\frac{T}{2\\pi} g L ​ ​ = 2 π T ​ L g = ( T 2 π ) 2 \\frac{L}{g} = \\left(\\frac{T}{2\\pi}\\right)^2 g L ​ = ( 2 π T ​ ) 2 L = g T 2 4 π 2 L = \\frac{gT^2}{4\\pi^2} L = 4 π 2 g T 2 ​ \"সেকেন্ড দোলক\" হওয়ায় এর দোলনকাল T = 2 T = 2 T = 2 সেকেন্ড। প্রদত্ত অভিকর্ষজ ত্বরণ g = 9.8  ms − 2 g = 9.8 \\text{ ms}^{-2} g = 9.8  ms − 2 ও π ≈ 3.14159 \\pi \\approx 3.14159 π ≈ 3.14159 মানগুলো সূত্রে বসিয়ে পাই: L = 9.8 × ( 2 ) 2 4 π 2 L = \\frac{9.8 \\times (2)^2}{4\\pi^2} L = 4 π 2 9.8 × ( 2 ) 2 ​ L = 9.8 × 4 4 π 2 L = \\frac{9.8 \\times 4}{4\\pi^2} L = 4 π 2 9.8 × 4 ​ L = 9.8 π 2 L = \\frac{9.8}{\\pi^2} L = π 2 9.8 ​ L ≈ 9.8 ( 3.14159 ) 2 L \\approx \\frac{9.8}{(3.14159)^2} L ≈ ( 3.14159 ) 2 9.8 ​ L ≈ 9.8 9.8696 L \\approx \\frac{9.8}{9.8696} L ≈ 9.8696 9.8 ​ L ≈ 0.993  m L \\approx 0.993 \\text{ m} L ≈ 0.993  m সেকেন্ড দোলকের দৈর্ঘ্য প্রায় 0.993 0.993 0.993 m (মিটার) বা 99.3 99.3 99.3 cm (সেন্টিমিটার)।"
+    },
+    {
+      "number": "17",
+      "tag": "KhU A 24-25",
+      "question": "তাপ গতিবিদ্যার কোন সূত্রকে ভিত্তি করে থার্মোমিটার তৈরী করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "শূন্যতম",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "প্রথম",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "দ্বিতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "তৃতীয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "শূন্যতম",
+      "option_b": "প্রথম",
+      "option_c": "দ্বিতীয়",
+      "option_d": "তৃতীয়",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "KhU A 24-25",
+      "question": "একটি ত্রুটিপূর্ণ থার্মোমিটার সাধারণ বায়ু চাপে গলিত বরফে 4°C এবং শুষ্ক বাষ্পে 98℃ পাঠ দেয়। থার্মোমিটারটি 51℃ পাঠ দিলে এর প্রকৃত পাঠ কত °C ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "50",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "55",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5.0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "50",
+      "option_b": "55",
+      "option_c": "5.0",
+      "option_d": "0.5",
+      "correct": "ক",
+      "explanation": "জটিলপূর্ণ থার্মোমিটারের অঙ্ক সমাধানে আমরা নিচের সূত্রটি ব্যবহার করতে পারি: C − 0 100 − 0 = X − L F P U F P − L F P \\frac{C-0}{100-0} = \\frac{X-LFP}{UFP-LFP} 100 − 0 C − 0 ​ = U FP − L FP X − L FP ​ এখানে: C - সেলসিয়াস স্কেলে প্রকৃত পাঠ (যা আমাদের বের করতে হবে) X - জটিলপূর্ণ থার্মোমিটারের পাঠ - 51°C LFP (Lower Fixed Point) - বরফ বিন্দু - 4°C UFP (Upper Fixed Point) - বাষ্প বিন্দু - 98°C মানগুলো সূত্রে বসিয়ে পাই: C 100 = 51 − 4 98 − 4 \\frac{C}{100} = \\frac{51-4}{98-4} 100 C ​ = 98 − 4 51 − 4 ​ C 100 = 47 94 \\frac{C}{100} = \\frac{47}{94} 100 C ​ = 94 47 ​ আমরা জানি, 47 × 2 = 94 47 \\times 2 = 94 47 × 2 = 94 , তাই: C 100 = 1 2 \\frac{C}{100} = \\frac{1}{2} 100 C ​ = 2 1 ​ ৪. চূড়ান্ত মান: C = 100 2 C = \\frac{100}{2} C = 2 100 ​ C = 50 C = 50 C = 50"
+    },
+    {
+      "number": "19",
+      "tag": "KhU A 24-25",
+      "question": "কার্শফের দ্বিতীয় সূত্র নিচের কোনটির সংরক্ষণ নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ভর",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আধান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ভরবেগ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "শক্তি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ভর",
+      "option_b": "আধান",
+      "option_c": "ভরবেগ",
+      "option_d": "শক্তি",
+      "correct": "ঘ",
+      "explanation": "কার্শফের দুটি সূত্র মূলত পদার্থবিজ্ঞানের দুটি মৌলিক সংরক্ষণশীল নীতির উপর ভিত্তি করে তৈরি: প্রথম সূত্র (KCL): এটি আধানের (Charge) সংরক্ষণশীলতা নীতি মেনে চলে। একটি জাংশনে যে পরিমাণ আধান প্রবেশ করে, ঠিক সেই পরিমাণ আধানই বের হয়ে যায়। দ্বিতীয় সূত্র (KVL): এটি শক্তির (Energy) সংরক্ষণশীলতা নীতি মেনে চলে। একটি বদ্ধ লুপের মধ্যে ব্যাটারির দ্বারা সরবরাহকৃত মোট শক্তি (তড়িৎ চালক শক্তি) এবং রোধকগুলোতে ব্যয়িত মোট শক্তির পরিমাণ সমান হয়। গাণিতিকভাবে, একটি বদ্ধ লুপের বিভব পার্থক্যের বীজগাণিতিক সমষ্টি শূন্য ( ∑ V = 0 \\sum V = 0 ∑ V = 0 )।"
+    },
+    {
+      "number": "20",
+      "tag": "KhU A 24-25",
+      "question": "আদর্শ তাপমাত্রা ও চাপে একটি গ্যাসের চাপ রুদ্ধতাপীয় প্রক্রিয়ায় বেড়ে 2.5 গুণ হলো। চূড়ান্ত চাপ কত N/m²? ( γ − 1.4 ) (\\gamma - 1.4) ( γ − 1.4 )",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.809 x 10 4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2.908 x 10 4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2.098 × 10 4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2.980 x 10 4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2.809 x 10 4",
+      "option_b": "2.908 x 10 4",
+      "option_c": "2.098 × 10 4",
+      "option_d": "2.980 x 10 4",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "KhU A 24-25",
+      "question": "হাকেল নীতি অনুসারে অ্যানথ্রাসিনে সঞ্চারশীল পাই ( π \\pi π ) ইলেকট্রন সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "14",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "10",
+      "option_c": "14",
+      "option_d": "18",
+      "correct": "গ",
+      "explanation": "পাই ( π \\pi π ) ইলেকট্রন গণনা অ্যানথ্রাসিনের গাঠনিক সংকেত পর্যবেক্ষণ করলে দেখা যায় যে, এতে মোট ৭টি দ্বিবন্ধন বিদ্যমান। আমরা জানি, প্রতিটি দ্বিবন্ধনে ২ টি করে পাই ইলেকট্রন থাকে। সঞ্চারশীল পাই ইলেকট্রন সংখ্যা নির্ণয়: মোট পাই ইলেকট্রন = দ্বিবন্ধন সংখ্যা × \\times × 2 = 7 × 2 7 \\times 2 7 × 2 = 14 14 14 হাকেল সংখ্যার সাথে তুলনা হাকেল সমীকরণ ( 4 n + 2 ) (4n + 2) ( 4 n + 2 ) এর সাথে এই মানটি তুলনা করলে আমরা পাই: 4 n + 2 = 14 4n + 2 = 14 4 n + 2 = 14 4 n = 14 − 2 4n = 14 - 2 4 n = 14 − 2 4 n = 12 4n = 12 4 n = 12 n = 12 4 n = \\frac{12}{4} n = 4 12 ​ n = 3 n = 3 n = 3"
+    },
+    {
+      "number": "2",
+      "tag": "KhU A 24-25",
+      "question": "H₂ ফুয়েল সেলের emf কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.76",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1.10 V",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1.23 V",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2.03 V",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.76",
+      "option_b": "1.10 V",
+      "option_c": "1.23 V",
+      "option_d": "2.03 V",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "KhU A 24-25",
+      "question": "কোনটি সবচেয়ে শক্তিশালী ক্ষার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "NaOH",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "KOH",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "LiOH",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "RbOH",
+          "is_correct": true
+        }
+      ],
+      "option_a": "NaOH",
+      "option_b": "KOH",
+      "option_c": "LiOH",
+      "option_d": "RbOH",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "KhU A 24-25",
+      "question": "লেড স্টোরেজ ব্যাটারির অভ্যন্তরীণ রোধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.80 ohm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.50 ohm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.02 ohm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.001 ohm",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0.80 ohm",
+      "option_b": "0.50 ohm",
+      "option_c": "0.02 ohm",
+      "option_d": "0.001 ohm",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "KhU A 24-25",
+      "question": "ঘূর্ণিঝড় উৎপত্তির সাথে বায়ুর কোন অবস্থাটি যুক্ত-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "উচ্চতাপ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নিম্নচাপ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "স্থিরচাপ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "স্থির সুষম তাপমাত্রা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "উচ্চতাপ",
+      "option_b": "নিম্নচাপ",
+      "option_c": "স্থিরচাপ",
+      "option_d": "স্থির সুষম তাপমাত্রা",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "KhU A 24-25",
+      "question": "[Ag(NH 3 ) 2 ] CI যৌগটিতে কি ধরনের বন্ধন আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আয়নিক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সমযোজী",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সন্নিবেশ ও আয়নিক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আয়নিক, সমযোজী ও সন্নিবেশ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "আয়নিক",
+      "option_b": "সমযোজী",
+      "option_c": "সন্নিবেশ ও আয়নিক",
+      "option_d": "আয়নিক, সমযোজী ও সন্নিবেশ",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "KhU A 24-25",
+      "question": "কোনটি পলি নিউক্লিয়ার যৌগ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যানথ্রাসিন",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "বেনজাইল ক্লোরাইড",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পাইরল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পিকরিক অ্যাসিড",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অ্যানথ্রাসিন",
+      "option_b": "বেনজাইল ক্লোরাইড",
+      "option_c": "পাইরল",
+      "option_d": "পিকরিক অ্যাসিড",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "KhU A 24-25",
+      "question": "নিচের কোনটিকে কৃত্রিম পলিমার হিসেবে গণ্য করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্টার্চ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "টেরিলিন",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "সেলুলোজ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "নিউক্লিক অ্যাসিড",
+          "is_correct": false
+        }
+      ],
+      "option_a": "স্টার্চ",
+      "option_b": "টেরিলিন",
+      "option_c": "সেলুলোজ",
+      "option_d": "নিউক্লিক অ্যাসিড",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "KhU A 24-25",
+      "question": "1 মোল ইলেকট্রন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 ফ্যারাডে",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 কুলম্ব",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1.62 কুলম্ব",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1.602 × 10 − 19 1.602 \\times 10^{-19} 1.602 × 1 0 − 19 কুলম্ব",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 ফ্যারাডে",
+      "option_b": "1 কুলম্ব",
+      "option_c": "1.62 কুলম্ব",
+      "option_d": "1.602 × 10 − 19 1.602 \\times 10^{-19} 1.602 × 1 0 − 19 কুলম্ব",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "KhU A 24-25",
+      "question": "2 C H 3 − C H 2 O H ( g ) + O 2 (   g ) → A g , 250 ∘ C 2 \\mathrm{CH}_{3}-\\mathrm{CH}_{2} \\mathrm{OH}(\\mathrm{g})+\\mathrm{O}_{2}(\\mathrm{~g}) \\xrightarrow{\\mathrm{Ag}, 250^{\\circ} \\mathrm{C}} 2 CH 3 ​ − CH 2 ​ OH ( g ) + O 2 ​ (   g ) Ag , 25 0 ∘ C ​ ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বেনজাইল অ্যালকোহল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ইথান্যাল",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "মিথান্যাল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রোপানোন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বেনজাইল অ্যালকোহল",
+      "option_b": "ইথান্যাল",
+      "option_c": "মিথান্যাল",
+      "option_d": "প্রোপানোন",
+      "correct": "খ",
+      "explanation": "2 C H 3 — C H 2 O H ( g ) + O 2 ( g ) → A g , 250 ∘ C 2CH_3—CH_2OH(g) + O_2(g) \\xrightarrow{Ag,250^\\circ C} 2 C H 3 ​ — C H 2 ​ O H ( g ) + O 2 ​ ( g ) A g , 25 0 ∘ C ​ বিক্রিয়াটির ফলাফল হলো খ) ইথান্যাল এখানে ইথানল ( C H 3 — C H 2 O H CH_3—CH_2OH C H 3 ​ — C H 2 ​ O H ) অক্সিজেনের সাথে রৌপ্য (Ag) অনুঘটকের উপস্থিতিতে 250 ∘ C 250^\\circ C 25 0 ∘ C তাপমাত্রায় জারিত হয়ে ইথানাল ( C H 3 C H O CH_3CHO C H 3 ​ C H O ) উৎপন্ন করে। এটি একটি জারণ বিক্রিয়া। বিক্রিয়াটি নিম্নরূপ: 2 C H 3 — C H 2 O H ( g ) + O 2 ( g ) → A g , 250 ∘ C 2 C H 3 C H O ( g ) + 2 H 2 O ( g ) 2CH_3—CH_2OH(g) + O_2(g) \\xrightarrow{Ag,250^\\circ C} 2CH_3CHO(g) + 2H_2O(g) 2 C H 3 ​ — C H 2 ​ O H ( g ) + O 2 ​ ( g ) A g , 25 0 ∘ C ​ 2 C H 3 ​ C H O ( g ) + 2 H 2 ​ O ( g )"
+    },
+    {
+      "number": "11",
+      "tag": "KhU A 24-25",
+      "question": "কোনো একটি নমুনা পানির BOD (Biochemical Oxygen Demand) 3 mg/L হলে নমুনা পানি সম্পর্কে কোনটা সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "খুবই ভালো",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মোটামুটি ভালো",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "দূষণমাত্রা খারাপ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "দূষণমাত্রা খুবই খারাপ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "খুবই ভালো",
+      "option_b": "মোটামুটি ভালো",
+      "option_c": "দূষণমাত্রা খারাপ",
+      "option_d": "দূষণমাত্রা খুবই খারাপ",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "KhU A 24-25",
+      "question": "উর্টজ বিক্রিয়ার মাধ্যমে কোন ধরনের অ্যালকেন উৎপন্ন হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নিম্নতর",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "উচ্চতর",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "সমমানের",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নিম্নতর",
+      "option_b": "উচ্চতর",
+      "option_c": "সমমানের",
+      "option_d": "কোনোটিই নয়",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "KhU A 24-25",
+      "question": "10 ml 0.1 M HCI দ্রবণকে পূর্ণ প্রশমিত করতে 0.1 M Na₂CO₃ এর কত ml প্রয়োজন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 ml",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "10 ml",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15 ml",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "20 ml",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 ml",
+      "option_b": "10 ml",
+      "option_c": "15 ml",
+      "option_d": "20 ml",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "KhU A 24-25",
+      "question": "বিক্রিয়া হারের একক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "m o l L s − 1 \\mathrm{molLs}^{-1} molLs − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "m o l L − 1   s \\mathrm{molL}^{-1} \\mathrm{~s} molL − 1   s",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "m o l − 1   L − 1   s \\mathrm{mol}^{-1} \\mathrm{~L}^{-1} \\mathrm{~s}^{} mol − 1   L − 1   s",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "m o l 1   L − 1   s − 1 \\mathrm{mol}^{1} \\mathrm{~L}^{-1} \\mathrm{~s}^{-1} mol 1   L − 1   s − 1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "m o l L s − 1 \\mathrm{molLs}^{-1} molLs − 1",
+      "option_b": "m o l L − 1   s \\mathrm{molL}^{-1} \\mathrm{~s} molL − 1   s",
+      "option_c": "m o l − 1   L − 1   s \\mathrm{mol}^{-1} \\mathrm{~L}^{-1} \\mathrm{~s}^{} mol − 1   L − 1   s",
+      "option_d": "m o l 1   L − 1   s − 1 \\mathrm{mol}^{1} \\mathrm{~L}^{-1} \\mathrm{~s}^{-1} mol 1   L − 1   s − 1",
+      "correct": "ঘ",
+      "explanation": "বিক্রিয়া হারের একক হলো m o l L − 1 s − 1 mol L^{-1} s^{-1} m o l L − 1 s − 1 (মোল প্রতি লিটার প্রতি সেকেন্ড) অথবা M s − 1 M s^{-1} M s − 1 (মোলালিটি প্রতি সেকেন্ড)। এটি বিক্রিয়কের ঘনমাত্রা পরিবর্তনের হার নির্দেশ করে।"
+    },
+    {
+      "number": "15",
+      "tag": "KhU A 24-25",
+      "question": "একটি তরল জৈব যৌগ 78.3°C তাপমাত্রায় ফুটে। এর সাথে অল্প ইথানল যোগ করলেও মিশ্র তরলটির স্ফুটনাঙ্ক 78.3°C হয়। মূল তরলটি কি ছিলো?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ইথার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বিশুদ্ধ ইথানল",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "অবিশুদ্ধ ইথানল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মিথানল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ইথার",
+      "option_b": "বিশুদ্ধ ইথানল",
+      "option_c": "অবিশুদ্ধ ইথানল",
+      "option_d": "মিথানল",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "KhU A 24-25",
+      "question": "জিপসাম এর সংকেতের ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "C a ( H 2 P O 4 ) 2 \\mathrm{Ca}\\left(\\mathrm{H}_{2} \\mathrm{PO}_{4}\\right)_{2} Ca ( H 2 ​ PO 4 ​ ) 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "C a ( H 2 P O 4 ) 2 ⋅ H 2 O \\mathrm{Ca}\\left(\\mathrm{H}_{2} \\mathrm{PO}_{4}\\right)_{2} \\cdot \\mathrm{H}_{2} \\mathrm{O} Ca ( H 2 ​ PO 4 ​ ) 2 ​ ⋅ H 2 ​ O",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( N H 4 ) 2 H P O 4 \\left(\\mathrm{NH}_{4}\\right)_{2} \\mathrm{HPO}_{4} ( NH 4 ​ ) 2 ​ HPO 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "[ 2 ( C a S O 4 2 H 2 O ) ] \\left[2\\left(\\mathrm{CaSO}_{4} 2 \\mathrm{H}_{2} \\mathrm{O}\\right)\\right] [ 2 ( CaSO 4 ​ 2 H 2 ​ O ) ]",
+          "is_correct": true
+        }
+      ],
+      "option_a": "C a ( H 2 P O 4 ) 2 \\mathrm{Ca}\\left(\\mathrm{H}_{2} \\mathrm{PO}_{4}\\right)_{2} Ca ( H 2 ​ PO 4 ​ ) 2 ​",
+      "option_b": "C a ( H 2 P O 4 ) 2 ⋅ H 2 O \\mathrm{Ca}\\left(\\mathrm{H}_{2} \\mathrm{PO}_{4}\\right)_{2} \\cdot \\mathrm{H}_{2} \\mathrm{O} Ca ( H 2 ​ PO 4 ​ ) 2 ​ ⋅ H 2 ​ O",
+      "option_c": "( N H 4 ) 2 H P O 4 \\left(\\mathrm{NH}_{4}\\right)_{2} \\mathrm{HPO}_{4} ( NH 4 ​ ) 2 ​ HPO 4 ​",
+      "option_d": "[ 2 ( C a S O 4 2 H 2 O ) ] \\left[2\\left(\\mathrm{CaSO}_{4} 2 \\mathrm{H}_{2} \\mathrm{O}\\right)\\right] [ 2 ( CaSO 4 ​ 2 H 2 ​ O ) ]",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "KhU A 24-25",
+      "question": "1.032 g অক্সিজেন ও 0.573 g CO₂ এর মিশ্রণের CO₂ এর মোল ভগ্নাংশ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.713",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.8323",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.287",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0.1677",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.713",
+      "option_b": "0.8323",
+      "option_c": "0.287",
+      "option_d": "0.1677",
+      "correct": "গ",
+      "explanation": "CO₂ এর মোল সংখ্যা ( n C O 2 n_{CO_2} n C O 2 ​ ​ ): n C O 2 = প্রদত্ত ভর আণবিক ভর = 0.573  g 44  g/mol ≈ 0.01302  mol n_{CO_2} = \\frac{\\text{প্রদত্ত ভর}}{\\text{আণবিক ভর}} = \\frac{0.573 \\text{ g}}{44 \\text{ g/mol}} \\approx 0.01302 \\text{ mol} n C O 2 ​ ​ = আণবিক   ভর প্রদত্ত   ভর ​ = 44  g/mol 0.573  g ​ ≈ 0.01302  mol * অক্সিজেনের মোল সংখ্যা ( n O 2 n_{O_2} n O 2 ​ ​ ): n O 2 = প্রদত্ত ভর আণবিক ভর = 1.032  g 32  g/mol ≈ 0.03225  mol n_{O_2} = \\frac{\\text{প্রদত্ত ভর}}{\\text{আণবিক ভর}} = \\frac{1.032 \\text{ g}}{32 \\text{ g/mol}} \\approx 0.03225 \\text{ mol} n O 2 ​ ​ = আণবিক   ভর প্রদত্ত   ভর ​ = 32  g/mol 1.032  g ​ ≈ 0.03225  mol মোট মোল সংখ্যা ( n মোট n_{\\text{মোট}} n মোট ​ ): n মোট = n C O 2 + n O 2 = 0.01302  mol + 0.03225  mol = 0.04527  mol n_{\\text{মোট}} = n_{CO_2} + n_{O_2} = 0.01302 \\text{ mol} + 0.03225 \\text{ mol} = 0.04527 \\text{ mol} n মোট ​ = n C O 2 ​ ​ + n O 2 ​ ​ = 0.01302  mol + 0.03225  mol = 0.04527  mol সবশেষে, CO₂ এর মোল ভগ্নাংশ ( X C O 2 X_{CO_2} X C O 2 ​ ​ ) নির্ণয় করব: CO₂ এর মোল ভগ্নাংশ ( X C O 2 X_{CO_2} X C O 2 ​ ​ ): X C O 2 = n C O 2 n মোট = 0.01302  mol 0.04527  mol ≈ 0.2876 X_{CO_2} = \\frac{n_{CO_2}}{n_{\\text{মোট}}} = \\frac{0.01302 \\text{ mol}}{0.04527 \\text{ mol}} \\approx 0.2876 X C O 2 ​ ​ = n মোট ​ n C O 2 ​ ​ ​ = 0.04527  mol 0.01302  mol ​ ≈ 0.2876"
+    },
+    {
+      "number": "18",
+      "tag": "KhU A 24-25",
+      "question": "0.2 molar (M) NaOH দ্রবণের ঘনমাত্রা % (w/v) এ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.60",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.80",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.20",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.40",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.60",
+      "option_b": "0.80",
+      "option_c": "0.20",
+      "option_d": "0.40",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "KhU A 24-25",
+      "question": "WHO এর নির্দেশনা মতে পানিতে আর্সেনিকের নিরাপদ মাত্রা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.01 ppm",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0.0001 ppm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.1 ppm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1.0 ppm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.01 ppm",
+      "option_b": "0.0001 ppm",
+      "option_c": "0.1 ppm",
+      "option_d": "1.0 ppm",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "KhU A 24-25",
+      "question": "N 2 O 4 (   g ) ⇌ 2 N O 2 (   g ) ; 25 ∘ C − \\mathrm{N}_{2} \\mathrm{O}_{4}(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{NO}_{2}(\\mathrm{~g}) ; 25^{\\circ} \\mathrm{C}- N 2 ​ O 4 ​ (   g ) ⇌ 2 NO 2 ​ (   g ) ; 2 5 ∘ C − বিক্রিয়ায় N 2 O 4 (   g ) \\mathrm{N}_{2} \\mathrm{O}_{4}(\\mathrm{~g}) N 2 ​ O 4 ​ (   g ) ও N O 2 (   g ) \\mathrm{NO}_{2}(\\mathrm{~g}) NO 2 ​ (   g ) এর আংশিক চাপ যথাক্রমে 0.69 atm ও 0.31 atm হলে, K p \\mathrm{K}_{\\mathrm{p}} K p ​ এব্র মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.156",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.139",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.145",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.126",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.156",
+      "option_b": "0.139",
+      "option_c": "0.145",
+      "option_d": "0.126",
+      "correct": "খ",
+      "explanation": "N₂O₄(g) ⇌ \\rightleftharpoons ⇌ 2NO₂(g) বিক্রিয়ায় Kp এর মান হলো 0.139 atm। K p = ( P N O 2 ) 2 P N 2 O 4 K_p = \\frac{\\left(P_{NO_2}\\right)^2}{P_{N_2O_4}} K p ​ = P N 2 ​ O 4 ​ ​ ( P N O 2 ​ ​ ) 2 ​ এখানে, P N O 2 = N O 2 P_{NO_2} = NO_2 P N O 2 ​ ​ = N O 2 ​ এর আংশিক চাপ = 0.31 atm P N 2 O 4 = N 2 O 4 P_{N_2O_4} = N_2O_4 P N 2 ​ O 4 ​ ​ = N 2 ​ O 4 ​ এর আংশিক চাপ = 0.69 atm সুতরাং, K p = ( 0.31 ) 2 0.69 = 0.0961 0.69 = 0.139275 ≈ 0.139  atm K_p = \\frac{(0.31)^2}{0.69} = \\frac{0.0961}{0.69} = 0.139275 \\approx 0.139 \\text{ atm} K p ​ = 0.69 ( 0.31 ) 2 ​ = 0.69 0.0961 ​ = 0.139275 ≈ 0.139  atm"
+    },
+    {
+      "number": "1",
+      "tag": "KhU A 24-25",
+      "question": "y = ( x 2 + 1 ) tan ⁡ − 1 x − x y=\\left(x^{2}+1\\right) \\tan ^{-1} x-x y = ( x 2 + 1 ) tan − 1 x − x হলে y 1 = y_{1}= y 1 ​ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "tan ⁡ − 1 x \\tan ^{-1} x tan − 1 x",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 x tan ⁡ 1 x 2 x \\tan ^{1} x 2 x tan 1 x",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 + tan ⁡ − 1 x 1+\\tan ^{-1} x 1 + tan − 1 x",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 x tan ⁡ − 1 x − 1 2 x \\tan ^{-1} x-1 2 x tan − 1 x − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "tan ⁡ − 1 x \\tan ^{-1} x tan − 1 x",
+      "option_b": "2 x tan ⁡ 1 x 2 x \\tan ^{1} x 2 x tan 1 x",
+      "option_c": "1 + tan ⁡ − 1 x 1+\\tan ^{-1} x 1 + tan − 1 x",
+      "option_d": "2 x tan ⁡ − 1 x − 1 2 x \\tan ^{-1} x-1 2 x tan − 1 x − 1",
+      "correct": "খ",
+      "explanation": "y = ( x 2 + 1 ) tan ⁡ − 1 x − x y=(x^2+1) \\tan^{-1} x - x y = ( x 2 + 1 ) tan − 1 x − x প্রথম পদটির অন্তরজের জন্য গুণফল নিয়ম: d d x [ ( x 2 + 1 ) tan ⁡ − 1 x ] = ( x 2 + 1 ) ⋅ 1 1 + x 2 + ( tan ⁡ − 1 x ) ( 2 x ) \\frac{d}{dx} [(x^2 + 1) \\tan^{-1} x] = (x^2 + 1) \\cdot \\frac{1}{1 + x^2} + (\\tan^{-1} x)(2x) d x d ​ [( x 2 + 1 ) tan − 1 x ] = ( x 2 + 1 ) ⋅ 1 + x 2 1 ​ + ( tan − 1 x ) ( 2 x ) যেহেতু d d x tan ⁡ − 1 x = 1 1 + x 2 \\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1+x^2} d x d ​ tan − 1 x = 1 + x 2 1 ​ এখন সরলীকরণ: x 2 + 1 1 + x 2 = 1 \\frac{x^2 + 1}{1 + x^2} = 1 1 + x 2 x 2 + 1 ​ = 1 তাহলে প্রথম পদের অন্তরজ: 1 + 2 x tan ⁡ − 1 x 1+ 2x \\tan^{-1}x 1 + 2 x tan − 1 x − x -x − x এর অন্তরজ যোগ করি y ′ = ( 1 + 2 x tan ⁡ − 1 x ) − 1 y'= (1+2x \\tan^{-1}x) - 1 y ′ = ( 1 + 2 x tan − 1 x ) − 1 y ′ = 2 x tan ⁡ − 1 x y' = 2x \\tan^{-1}x y ′ = 2 x tan − 1 x"
+    },
+    {
+      "number": "2",
+      "tag": "KhU A 24-25",
+      "question": "tan 2x tan x = 1 হলে x এর কোন মানটি সঠিক নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7 π 6 \\frac{7 \\pi}{6} 6 7 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8 π 6 \\frac{8 \\pi}{6} 6 8 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "19 π 6 \\frac{19 \\pi}{6} 6 19 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "13 π 6 \\frac{13 \\pi}{6} 6 13 π ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7 π 6 \\frac{7 \\pi}{6} 6 7 π ​",
+      "option_b": "8 π 6 \\frac{8 \\pi}{6} 6 8 π ​",
+      "option_c": "19 π 6 \\frac{19 \\pi}{6} 6 19 π ​",
+      "option_d": "13 π 6 \\frac{13 \\pi}{6} 6 13 π ​",
+      "correct": "খ",
+      "explanation": "প্রদত্ত সমীকরণ: tan ⁡ 2 x ⋅ tan ⁡ x = 1 \\tan 2x \\cdot \\tan x = 1 tan 2 x ⋅ tan x = 1 ১. tan ⁡ 2 x = 2 tan ⁡ x 1 − tan ⁡ 2 x \\tan 2x = \\frac{2 \\tan x}{1-\\tan^2 x} tan 2 x = 1 − t a n 2 x 2 t a n x ​ বসানো 2 tan ⁡ x 1 − tan ⁡ 2 x ⋅ tan ⁡ x = 1 \\frac{2 \\tan x}{1 - \\tan^2 x} \\cdot \\tan x = 1 1 − t a n 2 x 2 t a n x ​ ⋅ tan x = 1 2 tan ⁡ 2 x 1 − tan ⁡ 2 x = 1 \\frac{2 \\tan^2 x}{1 - \\tan^2 x} = 1 1 − t a n 2 x 2 t a n 2 x ​ = 1 2 tan ⁡ 2 x = 1 − tan ⁡ 2 x 2 \\tan^2 x = 1 - \\tan^2 x 2 tan 2 x = 1 − tan 2 x 3 tan ⁡ 2 x = 1 3 \\tan^2 x = 1 3 tan 2 x = 1 tan ⁡ 2 x = 1 3 \\tan^2 x = \\frac{1}{3} tan 2 x = 3 1 ​ tan ⁡ x = ± 1 3 \\tan x = \\pm \\frac{1}{\\sqrt{3}} tan x = ± 3 ​ 1 ​ সাধারণ সমাধান x = n π ± π 6 , n ∈ Z x = n\\pi \\pm \\frac{\\pi}{6}, \\quad n \\in \\mathbb{Z} x = nπ ± 6 π ​ , n ∈ Z"
+    },
+    {
+      "number": "3",
+      "tag": "KhU A 24-25",
+      "question": "P মানের দুইটি বলের লব্ধি P 2 + 2 \\mathbf{P} \\sqrt{2+\\sqrt{2}} P 2 + 2 ​ ​ এদের যেকোন একটির সাথে লব্ধির নতি কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "22.5°",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "22.5°",
+      "option_b": "45°",
+      "option_c": "120°",
+      "option_d": "90°",
+      "correct": "ক",
+      "explanation": "ধরি, সমমানের বলদ্বয় P P P এবং P P P এর মধ্যবর্তী কোণ α \\alpha α এবং লব্ধি R = P 2 + 2 R = P\\sqrt{2 + \\sqrt{2}} R = P 2 + 2 ​ ​ । আমরা জানি, লব্ধির সূত্র: R 2 = P 2 + Q 2 + 2 P Q cos ⁡ α R^2 = P^2 + Q^2 + 2PQ \\cos \\alpha R 2 = P 2 + Q 2 + 2 PQ cos α এখানে P = Q P = Q P = Q এবং R = P 2 + 2 R = P\\sqrt{2 + \\sqrt{2}} R = P 2 + 2 ​ ​ বসিয়ে পাই, ( P 2 + 2 ) 2 = P 2 + P 2 + 2 ⋅ P ⋅ P cos ⁡ α (P\\sqrt{2 + \\sqrt{2}})^2 = P^2 + P^2 + 2 \\cdot P \\cdot P \\cos \\alpha ( P 2 + 2 ​ ​ ) 2 = P 2 + P 2 + 2 ⋅ P ⋅ P cos α P 2 ( 2 + 2 ) = 2 P 2 + 2 P 2 cos ⁡ α P^2(2 + \\sqrt{2}) = 2P^2 + 2P^2 \\cos \\alpha P 2 ( 2 + 2 ​ ) = 2 P 2 + 2 P 2 cos α 2 + 2 = 2 + 2 cos ⁡ α 2 + \\sqrt{2} = 2 + 2 \\cos \\alpha 2 + 2 ​ = 2 + 2 cos α 2 = 2 cos ⁡ α \\sqrt{2} = 2 \\cos \\alpha 2 ​ = 2 cos α cos ⁡ α = 2 2 = 1 2 \\cos \\alpha = \\frac{\\sqrt{2}}{2} = \\frac{1}{\\sqrt{2}} cos α = 2 2 ​ ​ = 2 ​ 1 ​ α = cos ⁡ − 1 ( 1 2 ) = 45 ∘ \\alpha = \\cos^{-1}\\left(\\frac{1}{\\sqrt{2}}\\right) = 45^{\\circ} α = cos − 1 ( 2 ​ 1 ​ ) = 4 5 ∘ ধাপ ২: লব্ধির নতি (কোণ) নির্ণয় যখন দুইটি বলের মান সমান হয় ( P = Q ) (P = Q) ( P = Q ) , তখন লব্ধি বলদ্বয়ের মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করে। অর্থাৎ, লব্ধি R R R যেকোনো একটি বলের সাথে যে কোণ θ \\theta θ উৎপন্ন করে, তা হলো: θ = α 2 \\theta = \\frac{\\alpha}{2} θ = 2 α ​ মান বসিয়ে পাই, θ = 45 ∘ 2 \\theta = \\frac{45^{\\circ}}{2} θ = 2 4 5 ∘ ​ θ = 22.5 ∘ \\theta = 22.5^\\circ θ = 22. 5 ∘ যাকে রেডিয়ানে প্রকাশ করলে হয় 22 1 2 ∘ 22\\frac{1}{2}^\\circ 22 2 1 ​ ∘ বা π 8 \\frac{\\pi}{8} 8 π ​ ।"
+    },
+    {
+      "number": "4",
+      "tag": "KhU A 24-25",
+      "question": "যদি |z - 3| = 4 সমীকরনটি আর্গন্ড চিত্রে একটি বৃত্ত নির্দেশ করে তবে বৃত্তের কেন্দ্র কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(3.0)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "(0,-3)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(-3,0)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(3,4)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(3.0)",
+      "option_b": "(0,-3)",
+      "option_c": "(-3,0)",
+      "option_d": "(3,4)",
+      "correct": "ক",
+      "explanation": "যদি জটিল সংখ্যা z হয় এবং একটি বৃত্তের সমীকরণ |z - z₀| = r আকারে দেওয়া থাকে, যেখানে z₀ হলো বৃত্তের কেন্দ্র এবং r হলো ব্যাসার্ধ। প্রদত্ত সমীকরণটি হলো |z - 3| = 4 । এই সমীকরণটিকে আদর্শ রূপ |z - z₀| = r এর সাথে তুলনা করলে আমরা পাই: z₀ = 3 r = 4 যেহেতু z₀ = 3 একটি বাস্তব সংখ্যা, তাই এটিকে জটিল সংখ্যা রূপে 3 + 0i লেখা যায়। সুতরাং, বৃত্তের কেন্দ্র হবে (3, 0) ।"
+    },
+    {
+      "number": "5",
+      "tag": "KhU A 24-25",
+      "question": "চিত্রে, O হলো বৃত্তের কেন্দ্র। ∠BAC = 60° , ∠OCB = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "30°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "50°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "35°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "40°",
+      "option_b": "30°",
+      "option_c": "50°",
+      "option_d": "35°",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "KhU A 24-25",
+      "question": "y² = 4x এবং y = x দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 3 \\frac{4}{3} 3 4 ​ বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8 3 \\frac{8}{3} 3 8 ​ বর্গ একক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​ বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 9 \\frac{4}{9} 9 4 ​ বর্গ একক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 3 \\frac{4}{3} 3 4 ​ বর্গ একক",
+      "option_b": "8 3 \\frac{8}{3} 3 8 ​ বর্গ একক",
+      "option_c": "5 6 \\frac{5}{6} 6 5 ​ বর্গ একক",
+      "option_d": "4 9 \\frac{4}{9} 9 4 ​ বর্গ একক",
+      "correct": "খ",
+      "explanation": "প্রদত্ত বক্ররেখা: y 2 = 4 x y^2 = 4x y 2 = 4 x (একটি ডানদিকে খোলা পরাবৃত্ত) এবং y = x y = x y = x (সরলরেখা) ১. ছেদবিন্দু বের করি: তাহলে: y 2 = 4 x y^2 = 4x y 2 = 4 x এবং y = x y = x y = x x 2 = 4 x x^2 = 4x x 2 = 4 x x 2 − 4 x = 0 x^2 - 4x = 0 x 2 − 4 x = 0 x ( x − 4 ) = 0 ⟹ x = 0 , x = 4 x(x - 4) = 0 \\implies x = 0, x = 4 x ( x − 4 ) = 0 ⟹ x = 0 , x = 4 x = 0 ⟹ y = 0 , x = 4 ⟹ y = 4 x = 0 \\implies y = 0, x = 4 \\implies y = 4 x = 0 ⟹ y = 0 , x = 4 ⟹ y = 4 ছেদবিন্দু: (0,0) ও (4,4) আবদ্ধ ক্ষেত্রের জন্য x x x এর সীমা 0 থেকে 4। একটি নির্দিষ্ট x x x এর জন্য: নিচের সীমানা: y = x y = x y = x উপরের সীমানা: y = 4 x = 2 x y = \\sqrt{4x} = 2\\sqrt{x} y = 4 x ​ = 2 x ​ (উপরের শাখা, y ≥ 0 y \\geq 0 y ≥ 0 ) তাই ক্ষেত্রফল: A = ∫ x = 0 4 [ 2 x − x ] d x A = \\int_{x=0}^{4} [2\\sqrt{x} - x] \\,dx A = ∫ x = 0 4 ​ [ 2 x ​ − x ] d x সমাকলন: ∫ 2 x d x = 2 ⋅ x 3 / 2 3 / 2 = 4 3 x 3 / 2 \\int 2\\sqrt{x} \\,dx = 2 \\cdot \\frac{x^{3/2}}{3/2} = \\frac{4}{3} x^{3/2} ∫ 2 x ​ d x = 2 ⋅ 3/2 x 3/2 ​ = 3 4 ​ x 3/2 ∫ x d x = x 2 2 \\int x \\,dx = \\frac{x^2}{2} ∫ x d x = 2 x 2 ​ তাহলে: A = [ 4 3 x 3 / 2 − x 2 2 ] 0 4 A = \\left[ \\frac{4}{3} x^{3/2} - \\frac{x^2}{2} \\right]_0^4 A = [ 3 4 ​ x 3/2 − 2 x 2 ​ ] 0 4 ​ = 4 3 ⋅ ( 4 3 / 2 ) − 4 2 2 = \\frac{4}{3} \\cdot (4^{3/2}) - \\frac{4^2}{2} = 3 4 ​ ⋅ ( 4 3/2 ) − 2 4 2 ​ 4 3 / 2 = ( 2 2 ) 3 / 2 = 2 3 = 8 4^{3/2} = (2^2)^{3/2} = 2^3 = 8 4 3/2 = ( 2 2 ) 3/2 = 2 3 = 8 A = 4 3 ⋅ 8 − 16 2 A = \\frac{4}{3} \\cdot 8 - \\frac{16}{2} A = 3 4 ​ ⋅ 8 − 2 16 ​ = 32 3 − 8 = \\frac{32}{3} - 8 = 3 32 ​ − 8 = 32 3 − 24 3 = 8 3 = \\frac{32}{3} - \\frac{24}{3} = \\frac{8}{3} = 3 32 ​ − 3 24 ​ = 3 8 ​"
+    },
+    {
+      "number": "7",
+      "tag": "KhU A 24-25",
+      "question": "যদি pv = 5 হয়, তবে ∫ 1 2 p d v \\int_{1}^{2} p d v ∫ 1 2 ​ p d v এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5(In 2-1)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5ln(2-1)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5ln 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "-5ln 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5(In 2-1)",
+      "option_b": "5ln(2-1)",
+      "option_c": "5ln 2",
+      "option_d": "-5ln 2",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "KhU A 24-25",
+      "question": "আয়তের পরসীমা 200m হলে, এর সর্বোচ্চ ক্ষেত্রফল কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2000m²",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2100m²",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2500m²",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2400m²",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2000m²",
+      "option_b": "2100m²",
+      "option_c": "2500m²",
+      "option_d": "2400m²",
+      "correct": "গ",
+      "explanation": "ধরি আয়তের দৈর্ঘ্য x x x মিটার এবং প্রস্থ y y y মিটার। পরিসীমা: 2 ( x + y ) = 200 ⟹ x + y = 100 ⟹ y = 100 − x 2(x + y) = 200 \\implies x + y = 100 \\implies y = 100 - x 2 ( x + y ) = 200 ⟹ x + y = 100 ⟹ y = 100 − x ক্ষেত্রফল: A = x y = x ( 100 − x ) = 100 x − x 2 A = xy = x(100 - x) = 100x - x^2 A = x y = x ( 100 − x ) = 100 x − x 2 এটি একটি দ্বিঘাত ফাংশন ( x 2 x^2 x 2 এর সহগ ঋণাত্মক), সর্বোচ্চ মান শীর্ষবিন্দুতে হবে। x = − b 2 a = − 100 2 ( − 1 ) = 50 x = -\\frac{b}{2a} = -\\frac{100}{2(-1)} = 50 x = − 2 a b ​ = − 2 ( − 1 ) 100 ​ = 50 তখন: y = 100 − 50 = 50 y = 100 - 50 = 50 y = 100 − 50 = 50 সর্বোচ্চ ক্ষেত্রফল: A max = 50 × 50 = 2500  m 2 A_{\\text{max}} = 50 \\times 50 = 2500 \\text{ m}^2 A max ​ = 50 × 50 = 2500  m 2"
+    },
+    {
+      "number": "9",
+      "tag": "KhU A 24-25",
+      "question": "a এর কোন মানের জন্য x - 3y + 2 = 0, x - 6y + 3 = 0, x + ay = 0 রেখা তিনটি সমবিন্দু হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "3",
+      "option_c": "6",
+      "option_d": "12",
+      "correct": "খ",
+      "explanation": "প্রদত্ত রেখা তিনটি: x − 3 y + 2 = 0 x - 3y + 2 = 0 x − 3 y + 2 = 0 x − 6 y + 3 = 0 x - 6y + 3 = 0 x − 6 y + 3 = 0 x + a y = 0 x + ay = 0 x + a y = 0 সরলরেখা হওয়ার অর্থ—তিনটি রেখার একটি সাধারণ বিন্দু আছে। প্রথম দুটি রেখার ছেদবিন্দু বের করি। x − 3 y + 2 = 0 ( 1 ) x - 3y + 2 = 0 \\quad (1) x − 3 y + 2 = 0 ( 1 ) x − 6 y + 3 = 0 ( 2 ) x - 6y + 3 = 0 \\quad (2) x − 6 y + 3 = 0 ( 2 ) (1) থেকে (2) বিয়োগ করি: ( x − 3 y + 2 ) − ( x − 6 y + 3 ) = 0 (x - 3y + 2) - (x - 6y + 3) = 0 ( x − 3 y + 2 ) − ( x − 6 y + 3 ) = 0 − 3 y + 2 + 6 y − 3 = 0 -3y + 2 + 6y - 3 = 0 − 3 y + 2 + 6 y − 3 = 0 3 y − 1 = 0 3y - 1 = 0 3 y − 1 = 0 y = 1 3 y = \\frac{1}{3} y = 3 1 ​ (1) এ y = 1 3 y = \\frac{1}{3} y = 3 1 ​ বসাই: x − 3 ⋅ 1 3 + 2 = 0 x - 3 \\cdot \\frac{1}{3} + 2 = 0 x − 3 ⋅ 3 1 ​ + 2 = 0 x − 1 + 2 = 0 x - 1 + 2 = 0 x − 1 + 2 = 0 x + 1 = 0 x + 1 = 0 x + 1 = 0 x = − 1 x = -1 x = − 1 ছেদবিন্দু P = ( − 1 , 1 3 ) P = (-1, \\frac{1}{3}) P = ( − 1 , 3 1 ​ ) এই বিন্দুটি তৃতীয় রেখায় বসালে: x + a y = 0 x + ay = 0 x + a y = 0 − 1 + a ⋅ 1 3 = 0 -1 + a \\cdot \\frac{1}{3} = 0 − 1 + a ⋅ 3 1 ​ = 0 a 3 = 1 \\frac{a}{3} = 1 3 a ​ = 1 a = 3 a = 3 a = 3"
+    },
+    {
+      "number": "10",
+      "tag": "KhU A 24-25",
+      "question": "যদি ( 1 9 0 4 ) = ( x y 2 0 z 2 ) \\left(\\begin{array}{ll}1 & 9 \\\\ 0 & 4\\end{array}\\right)=\\left(\\begin{array}{ll}x & y^{2} \\\\ 0 & z^{2}\\end{array}\\right) ( 1 0 ​ 9 4 ​ ) = ( x 0 ​ y 2 z 2 ​ ) এবং y , z < 0 \\mathrm{y}, \\mathrm{z}<0 y , z < 0 হয়, , তাহলে x − y + z = \\mathrm{x}-\\mathrm{y}+\\mathrm{z}= x − y + z = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "2",
+      "option_c": "0",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": "প্রদত্ত: ( 1 9 0 4 ) = ( x y 2 0 z 2 ) \\begin{pmatrix} 1 & 9 \\\\ 0 & 4 \\end{pmatrix} = \\begin{pmatrix} x & y^2 \\\\ 0 & z^2 \\end{pmatrix} ( 1 0 ​ 9 4 ​ ) = ( x 0 ​ y 2 z 2 ​ ) এবং y , z < 0 y, z < 0 y , z < 0 ম্যাট্রিক্স সমতা থেকে: x = 1 x = 1 x = 1 y 2 = 9 ⇒ y = ± 3 y^2 = 9 \\Rightarrow y = \\pm3 y 2 = 9 ⇒ y = ± 3 z 2 = 4 ⇒ z = ± 2 z^2 = 4 \\Rightarrow z = \\pm2 z 2 = 4 ⇒ z = ± 2 শর্ত y , z < 0 y, z < 0 y , z < 0 হলে: y = − 3 , z = − 2 y = -3, z = -2 y = − 3 , z = − 2 তাহলে: x − y + z = 1 − ( − 3 ) + ( − 2 ) = 1 + 3 − 2 = 2 x - y + z = 1 - (-3) + (-2) = 1 + 3 - 2 = 2 x − y + z = 1 − ( − 3 ) + ( − 2 ) = 1 + 3 − 2 = 2"
+    },
+    {
+      "number": "11",
+      "tag": "KhU A 24-25",
+      "question": "cos ⁡ A = 5 13  এবং  cos ⁡ B = 12 13  হলে,  sin ⁡ ( A + B ) =  ?  \\cos A=\\frac{5}{13} \\text { এবং } \\cos B=\\frac{12}{13} \\text { হলে, } \\sin (A+B)=\\text { ? } cos A = 13 5 ​   এবং   cos B = 13 12 ​   হলে ,  sin ( A + B ) =  ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "17 13 \\frac{17}{13} 13 17 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "17 13 \\frac{17}{13} 13 17 ​",
+      "option_c": "1",
+      "option_d": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "KhU A 24-25",
+      "question": "যদি x = 1 রেখাটি প্যারাবোলা y 2 - kx + 8 = 0 এর নিয়ামক রেখা হয় তবে k এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_b": "8",
+      "option_c": "4",
+      "option_d": "1 4 \\frac{1}{4} 4 1 ​",
+      "correct": "গ",
+      "explanation": "প্রদত্ত প্যারাবোালার সমীকরণ: y 2 − k x + 8 = 0 y^{2} - kx + 8 = 0 y 2 − k x + 8 = 0 y 2 = k x − 8 y^{2} = kx - 8 y 2 = k x − 8 y 2 = k ( x − 8 k ) y^{2} = k \\left(x - \\frac{8}{k}\\right) y 2 = k ( x − k 8 ​ ) এটি একটি আনুভূমিক প্যারাবোলা (অক্ষ x x x -অক্ষের সমান্তরাল নয়, বরং x x x -অক্ষই অক্ষ)। প্রমাণ সমীকরণ: y 2 = 4 a ( x − h ) y^{2} = 4a(x - h) y 2 = 4 a ( x − h ) এখানে 4 a = k 4a = k 4 a = k , শীর্ষবিন্দু ( 8 k , 0 ) \\left(\\frac{8}{k}, 0\\right) ( k 8 ​ , 0 ) । নিয়ামক রেখার সমীকরণ প্যারাবোলা y 2 = 4 a ( x − h ) y^{2} = 4a(x - h) y 2 = 4 a ( x − h ) এর নিয়ামক রেখা: x = h − a x = h - a x = h − a এখানে h = 8 k h = \\frac{8}{k} h = k 8 ​ , a = k 4 a = \\frac{k}{4} a = 4 k ​ । নিয়ামক রেখা: x = 8 k − k 4 x = \\frac{8}{k} - \\frac{k}{4} x = k 8 ​ − 4 k ​ x = 1 x = 1 x = 1 নিয়ামক রেখা হলে 8 k − k 4 = 1 \\frac{8}{k} - \\frac{k}{4} = 1 k 8 ​ − 4 k ​ = 1 32 − k 2 4 k = 1 \\frac{32 - k^2}{4k} = 1 4 k 32 − k 2 ​ = 1 32 − k 2 = 4 k 32 - k^2 = 4k 32 − k 2 = 4 k k 2 + 4 k − 32 = 0 k^2 + 4k - 32 = 0 k 2 + 4 k − 32 = 0 k = − 4 ± 16 + 128 2 = − 4 ± 12 2 k = \\frac{-4 \\pm \\sqrt{16 + 128}}{2} = \\frac{-4 \\pm 12}{2} k = 2 − 4 ± 16 + 128 ​ ​ = 2 − 4 ± 12 ​ k = 4 বা k = − 8 k = 4 \\quad \\text{বা} \\quad k = -8 k = 4 বা k = − 8"
+    },
+    {
+      "number": "13",
+      "tag": "KhU A 24-25",
+      "question": "sin ⁡ A − sin ⁡ B = − cos ⁡ A + cos ⁡ B  হলে,  A + B =  ?  \\sin A-\\sin B=-\\cos A+\\cos B \\text { হলে, } A+B=\\text { ? } sin A − sin B = − cos A + cos B   হলে ,  A + B =  ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "π 6 \\frac{\\pi}{6} 6 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π 4 \\frac{\\pi}{4} 4 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π 2 \\frac{\\pi}{2} 2 π ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "π 6 \\frac{\\pi}{6} 6 π ​",
+      "option_c": "π 4 \\frac{\\pi}{4} 4 π ​",
+      "option_d": "π 2 \\frac{\\pi}{2} 2 π ​",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত: sin ⁡ A − sin ⁡ B = − cos ⁡ A + cos ⁡ B \\sin A - \\sin B = - \\cos A + \\cos B sin A − sin B = − cos A + cos B উভয় পক্ষ পুনর্বিন্যাস: sin ⁡ A − sin ⁡ B + cos ⁡ A − cos ⁡ B = 0 \\sin A - \\sin B + \\cos A - \\cos B = 0 sin A − sin B + cos A − cos B = 0 ( sin ⁡ A + cos ⁡ A ) − ( sin ⁡ B + cos ⁡ B ) = 0 (\\sin A + \\cos A) - (\\sin B + \\cos B) = 0 ( sin A + cos A ) − ( sin B + cos B ) = 0 sin ⁡ A + cos ⁡ A = sin ⁡ B + cos ⁡ B \\sin A + \\cos A = \\sin B + \\cos B sin A + cos A = sin B + cos B সূত্র ব্যবহার: sin ⁡ x + cos ⁡ x = 2 sin ⁡ ( x + π 4 ) \\sin x + \\cos x = \\sqrt{2} \\sin \\left(x + \\frac{\\pi}{4}\\right) sin x + cos x = 2 ​ sin ( x + 4 π ​ ) তাহলে: 2 sin ⁡ ( A + π 4 ) = 2 sin ⁡ ( B + π 4 ) \\sqrt{2} \\sin \\left(A + \\frac{\\pi}{4}\\right) = \\sqrt{2} \\sin \\left(B + \\frac{\\pi}{4}\\right) 2 ​ sin ( A + 4 π ​ ) = 2 ​ sin ( B + 4 π ​ ) sin ⁡ ( A + π 4 ) = sin ⁡ ( B + π 4 ) \\sin \\left(A + \\frac{\\pi}{4}\\right) = \\sin \\left(B + \\frac{\\pi}{4}\\right) sin ( A + 4 π ​ ) = sin ( B + 4 π ​ ) সাধারণ সমাধান: A + π 4 = B + π 4 + 2 n π  বা  A + π 4 = π − ( B + π 4 ) + 2 n π A + \\frac{\\pi}{4} = B + \\frac{\\pi}{4} + 2n\\pi \\text{ বা } A + \\frac{\\pi}{4} = \\pi - (B + \\frac{\\pi}{4}) + 2n\\pi A + 4 π ​ = B + 4 π ​ + 2 nπ   বা   A + 4 π ​ = π − ( B + 4 π ​ ) + 2 nπ * প্রথম ক্ষেত্রে: A = B + 2 n π → A − B = 2 n π A = B + 2n\\pi \\to A - B = 2n\\pi A = B + 2 nπ → A − B = 2 nπ * দ্বিতীয় ক্ষেত্রে: A + π 4 = π − B − π 4 + 2 n π A + \\frac{\\pi}{4} = \\pi - B - \\frac{\\pi}{4} + 2n\\pi A + 4 π ​ = π − B − 4 π ​ + 2 nπ A + B = π − π 2 + 2 n π A + B = \\pi - \\frac{\\pi}{2} + 2n\\pi A + B = π − 2 π ​ + 2 nπ A + B = π 2 + 2 n π A + B = \\frac{\\pi}{2} + 2n\\pi A + B = 2 π ​ + 2 nπ সাধারণ মান: সুতরাং A + B = π 2 + 2 n π A + B = \\frac{\\pi}{2} + 2n\\pi A + B = 2 π ​ + 2 nπ যেখানে n ∈ Z n \\in \\mathbb{Z} n ∈ Z সবচেয়ে সাধারণ মান n = 0 n = 0 n = 0 নিলে: A + B = π 2 A + B = \\frac{\\pi}{2} A + B = 2 π ​"
+    },
+    {
+      "number": "14",
+      "tag": "KhU A 24-25",
+      "question": "y = sin ⁡ π 18 y=\\sin \\frac{\\pi}{18} y = sin 18 π ​ হলে 8 y 4 + 4 y 3 − 6 y 2 − 2 y + 1 2 8 y^{4}+4 y^{3}-6 y^{2}-2 y+\\frac{1}{2} 8 y 4 + 4 y 3 − 6 y 2 − 2 y + 2 1 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "½",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "½",
+      "option_d": "2",
+      "correct": "ক",
+      "explanation": "প্রথমে y = sin ⁡ π 18 = sin ⁡ 10 ∘ y = \\sin \\frac{\\pi}{18} = \\sin 10^\\circ y = sin 18 π ​ = sin 1 0 ∘ cos ⁡ 3 θ \\cos 3\\theta cos 3 θ সূত্র ব্যবহার 3 × 10 ∘ = 30 ∘ 3 \\times 10^\\circ = 30^\\circ 3 × 1 0 ∘ = 3 0 ∘ sin ⁡ 3 θ = 3 sin ⁡ θ − 4 sin ⁡ 3 θ \\sin 3\\theta = 3 \\sin \\theta - 4 \\sin^3 \\theta sin 3 θ = 3 sin θ − 4 sin 3 θ sin ⁡ 30 ∘ = 1 2 = 3 y − 4 y 3 \\sin 30^\\circ = \\frac{1}{2} = 3y - 4y^3 sin 3 0 ∘ = 2 1 ​ = 3 y − 4 y 3 4 y 3 − 3 y + 1 2 = 0 4y^3 - 3y + \\frac{1}{2} = 0 4 y 3 − 3 y + 2 1 ​ = 0 8 y 3 − 6 y + 1 = 0 ( 1 ) 8y^3 - 6y + 1 = 0 \\quad (1) 8 y 3 − 6 y + 1 = 0 ( 1 ) প্রদত্ত রাশি P = 8 y 4 + 4 y 3 − 6 y 2 − 2 y + 1 2 P = 8y^4 + 4y^3 - 6y^2 - 2y + \\frac{1}{2} P = 8 y 4 + 4 y 3 − 6 y 2 − 2 y + 2 1 ​ (1) থেকে 8 y 3 = 6 y − 1 8y^3 = 6y - 1 8 y 3 = 6 y − 1 8 y 4 8y^4 8 y 4 নির্ণয় 8 y 4 = y ⋅ 8 y 3 = y ( 6 y − 1 ) = 6 y 2 − y 8y^4 = y \\cdot 8y^3 = y(6y - 1) = 6y^2 - y 8 y 4 = y ⋅ 8 y 3 = y ( 6 y − 1 ) = 6 y 2 − y 4 y 3 4y^3 4 y 3 নির্ণয় (1) থেকে 8 y 3 = 6 y − 1 8y^3 = 6y - 1 8 y 3 = 6 y − 1 তাহলে 4 y 3 = 3 y − 1 2 4y^3 = 3y - \\frac{1}{2} 4 y 3 = 3 y − 2 1 ​ রাশিতে বসানো P = ( 6 y 2 − y ) + ( 3 y − 1 2 ) − 6 y 2 − 2 y + 1 2 P = (6y^2 - y) + \\left(3y - \\frac{1}{2}\\right) - 6y^2 - 2y + \\frac{1}{2} P = ( 6 y 2 − y ) + ( 3 y − 2 1 ​ ) − 6 y 2 − 2 y + 2 1 ​ = 6 y 2 − y + 3 y − 1 2 − 6 y 2 − 2 y + 1 2 = 6y^2 - y + 3y - \\frac{1}{2} - 6y^2 - 2y + \\frac{1}{2} = 6 y 2 − y + 3 y − 2 1 ​ − 6 y 2 − 2 y + 2 1 ​ = ( 6 y 2 − 6 y 2 ) + ( − y + 3 y − 2 y ) + ( − 1 2 + 1 2 ) = (6y^2 - 6y^2) + (-y + 3y - 2y) + \\left(-\\frac{1}{2} + \\frac{1}{2}\\right) = ( 6 y 2 − 6 y 2 ) + ( − y + 3 y − 2 y ) + ( − 2 1 ​ + 2 1 ​ ) = 0 + 0 + 0 = 0 = 0 + 0 + 0 = 0 = 0 + 0 + 0 = 0"
+    },
+    {
+      "number": "15",
+      "tag": "KhU A 24-25",
+      "question": "x 2 + y 2 = 100 x^{2}+y^{2}=100 x 2 + y 2 = 100 বৃত্ত দ্বারা x + 7 y − 50 = 0 x+7 y-50=0 x + 7 y − 50 = 0 রেখার ছেদাংশের পরিমান-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10 \\sqrt{10} 10 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10 2 10 \\sqrt{2} 10 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "10 7 10 \\sqrt{7} 10 7 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 \\sqrt{2} 2 ​",
+      "option_b": "10 \\sqrt{10} 10 ​",
+      "option_c": "10 2 10 \\sqrt{2} 10 2 ​",
+      "option_d": "10 7 10 \\sqrt{7} 10 7 ​",
+      "correct": "গ",
+      "explanation": "প্রদত্ত বৃত্ত: x 2 + y 2 = 100 x^2 + y^2 = 100 x 2 + y 2 = 100 কেন্দ্র O ( 0 , 0 ) O(0,0) O ( 0 , 0 ) , ব্যাসার্ধ r = 101 r = 101 r = 101 রেখা: x + 7 y − 50 = 0 x + 7y - 50 = 0 x + 7 y − 50 = 0 কেন্দ্র থেকে রেখার দূরত্ব p p p p = ∣ 0 + 0 − 50 ∣ 1 2 + 7 2 = 50 50 = 50 5 2 = 10 2 = 5 2 p = \\frac{|0 + 0 - 50|}{\\sqrt{1^2 + 7^2}} = \\frac{50}{\\sqrt{50}} = \\frac{50}{5\\sqrt{2}} = \\frac{10}{\\sqrt{2}} = 5\\sqrt{2} p = 1 2 + 7 2 ​ ∣0 + 0 − 50∣ ​ = 50 ​ 50 ​ = 5 2 ​ 50 ​ = 2 ​ 10 ​ = 5 2 ​ জ্যা-এর দৈর্ঘ্য ব্যাসার্ধ R = 10 R = 10 R = 10 , লম্ব দূরত্ব p = 5 2 p = 5\\sqrt{2} p = 5 2 ​ হলে, অর্ধজ্যা দৈর্ঘ্য: a = R 2 − p 2 = 100 − 50 = 50 = 5 2 a = \\sqrt{R^2 - p^2} = \\sqrt{100 - 50} = \\sqrt{50} = 5\\sqrt{2} a = R 2 − p 2 ​ = 100 − 50 ​ = 50 ​ = 5 2 ​ জ্যা-এর দৈর্ঘ্য: L = 2 a = 2 × 5 2 = 10 2 L = 2a = 2 \\times 5\\sqrt{2} = 10\\sqrt{2} L = 2 a = 2 × 5 2 ​ = 10 2 ​"
+    },
+    {
+      "number": "16",
+      "tag": "KhU A 24-25",
+      "question": "যদি z = x + i y z=x+i y z = x + i y যদি z 1 = − 1 + 3 i z_{1}=-1+\\sqrt{3} i z 1 ​ = − 1 + 3 ​ i হয়, তাহলে ∣ 2 z − z 1 ∣ = 1 \\left|2 z-z_{1}\\right|=1 ∣ 2 z − z 1 ​ ∣ = 1 দ্বারা প্রকাশ করে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বৃত্ত",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "পরাবৃত্ত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উপবৃত্ত",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অধিবৃত্ত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বৃত্ত",
+      "option_b": "পরাবৃত্ত",
+      "option_c": "উপবৃত্ত",
+      "option_d": "অধিবৃত্ত",
+      "correct": "ক",
+      "explanation": "প্রদত্ত: z = x + i y z = x + iy z = x + i y , z 1 = − 1 + 3 i z_1 = -1 + \\sqrt{3}i z 1 ​ = − 1 + 3 ​ i শর্ত: ∣ 2 z − z 1 ∣ = 1 |2z - z_1| = 1 ∣2 z − z 1 ​ ∣ = 1 2 z − z 1 2z - z_1 2 z − z 1 ​ বের করি 2 z = 2 x + 2 i y 2z = 2x + 2iy 2 z = 2 x + 2 i y 2 z − z 1 = ( 2 x + 2 i y ) − ( − 1 + 3 i ) 2z - z_1 = (2x + 2iy) - (-1 + \\sqrt{3}i) 2 z − z 1 ​ = ( 2 x + 2 i y ) − ( − 1 + 3 ​ i ) = 2 x + 1 + i ( 2 y − 3 ) = 2x + 1 + i(2y - \\sqrt{3}) = 2 x + 1 + i ( 2 y − 3 ​ ) পরম মানের বর্গ নিই ∣ 2 z − z 1 ∣ 2 = ( 2 x + 1 ) 2 + ( 2 y − 3 ) 2 = 1 |2z - z_1|^2 = (2x + 1)^2 + (2y - \\sqrt{3})^2 = 1 ∣2 z − z 1 ​ ∣ 2 = ( 2 x + 1 ) 2 + ( 2 y − 3 ​ ) 2 = 1 সমীকরণ সরলীকরণ ( 2 x + 1 ) 2 + ( 2 y − 3 ) 2 = 1 (2x + 1)^2 + (2y - \\sqrt{3})^2 = 1 ( 2 x + 1 ) 2 + ( 2 y − 3 ​ ) 2 = 1 ( 2 x + 1 ) 2 1 + ( 2 y − 3 ) 2 1 = 1 \\frac{(2x + 1)^2}{1} + \\frac{(2y - \\sqrt{3})^2}{1} = 1 1 ( 2 x + 1 ) 2 ​ + 1 ( 2 y − 3 ​ ) 2 ​ = 1 ( x + 1 2 ) 2 ⋅ 4 + ( y − 3 2 ) 2 ⋅ 4 = 1 \\left(x + \\frac{1}{2}\\right)^2 \\cdot 4 + \\left(y - \\frac{\\sqrt{3}}{2}\\right)^2 \\cdot 4 = 1 ( x + 2 1 ​ ) 2 ⋅ 4 + ( y − 2 3 ​ ​ ) 2 ⋅ 4 = 1 4 [ ( x + 1 2 ) 2 + ( y − 3 2 ) 2 ] = 1 4 \\left[ \\left(x + \\frac{1}{2}\\right)^2 + \\left(y - \\frac{\\sqrt{3}}{2}\\right)^2 \\right] = 1 4 [ ( x + 2 1 ​ ) 2 + ( y − 2 3 ​ ​ ) 2 ] = 1 ( x + 1 2 ) 2 + ( y − 3 2 ) 2 = 1 4 \\left(x + \\frac{1}{2}\\right)^2 + \\left(y - \\frac{\\sqrt{3}}{2}\\right)^2 = \\frac{1}{4} ( x + 2 1 ​ ) 2 + ( y − 2 3 ​ ​ ) 2 = 4 1 ​ এটি একটি বৃত্ত যার কেন্দ্র: ( − 1 2 , 3 2 ) \\left(-\\frac{1}{2}, \\frac{\\sqrt{3}}{2}\\right) ( − 2 1 ​ , 2 3 ​ ​ ) এবং ব্যাসার্ধ: r = 1 2 r=\\frac{1}{2} r = 2 1 ​"
+    },
+    {
+      "number": "17",
+      "tag": "KhU A 24-25",
+      "question": "যদি a = 1 + i 2 a=\\frac{1+i}{\\sqrt{2}} a = 2 ​ 1 + i ​ হয়, তবে a 6 a^{6} a 6 এর মান হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 6 i -6 i − 6 i",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 3 i -3 i − 3 i",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 2 i -2 i − 2 i",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− i - i − i",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 6 i -6 i − 6 i",
+      "option_b": "− 3 i -3 i − 3 i",
+      "option_c": "− 2 i -2 i − 2 i",
+      "option_d": "− i - i − i",
+      "correct": "ঘ",
+      "explanation": "দেয়া আছে a = 1 + i 2 a = \\frac{1+i}{\\sqrt{2}} a = 2 ​ 1 + i ​ ( 1 + i ) 2 = 1 + 2 i + i 2 = 1 + 2 i − 1 = 2 i (1 + i)^2 = 1 + 2i + i^2 = 1 + 2i - 1 = 2i ( 1 + i ) 2 = 1 + 2 i + i 2 = 1 + 2 i − 1 = 2 i তাই, a 2 = ( 1 + i 2 ) 2 = ( 1 + i ) 2 ( 2 ) 2 = 2 i 2 = i a^2 = \\left(\\frac{1+i}{\\sqrt{2}}\\right)^2 = \\frac{(1+i)^2}{(\\sqrt{2})^2} = \\frac{2i}{2} = i a 2 = ( 2 ​ 1 + i ​ ) 2 = ( 2 ​ ) 2 ( 1 + i ) 2 ​ = 2 2 i ​ = i এখন a 6 a^6 a 6 a 6 = ( a 2 ) 3 = i 3 a^6 = (a^2)^3 = i^3 a 6 = ( a 2 ) 3 = i 3 আর, i 3 = i 2 ⋅ i = ( − 1 ) ⋅ i = − i i^3 = i^2 \\cdot i = (-1) \\cdot i = -i i 3 = i 2 ⋅ i = ( − 1 ) ⋅ i = − i"
+    },
+    {
+      "number": "18",
+      "tag": "KhU A 24-25",
+      "question": "y 2 − 10 y − 2 x + 11 = 0 y^{2}-10 y-2 x+11=0 y 2 − 10 y − 2 x + 11 = 0 পরাবৃত্তের শীর্ষবিন্দু কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 5 , − 2 ) (5,-2) ( 5 , − 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 2 , − 5 ) (2,-5) ( 2 , − 5 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 7 , − 5 ) (7,-5) ( 7 , − 5 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( − 7 , 5 ) (-7,5) ( − 7 , 5 )",
+          "is_correct": true
+        }
+      ],
+      "option_a": "( 5 , − 2 ) (5,-2) ( 5 , − 2 )",
+      "option_b": "( 2 , − 5 ) (2,-5) ( 2 , − 5 )",
+      "option_c": "( 7 , − 5 ) (7,-5) ( 7 , − 5 )",
+      "option_d": "( − 7 , 5 ) (-7,5) ( − 7 , 5 )",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত সমীকরণ: y 2 − 10 y − 2 x + 11 = 0 y^2 - 10y - 2x + 11 = 0 y 2 − 10 y − 2 x + 11 = 0 x x x কে y y y এর মাধ্যমে প্রকাশ y 2 − 10 y + 11 = 2 x y^2 - 10y + 11 = 2x y 2 − 10 y + 11 = 2 x x = y 2 − 10 y + 11 2 x = \\frac{y^2 - 10y + 11}{2} x = 2 y 2 − 10 y + 11 ​ শীর্ষবিন্দুতে, y y y এর মান হবে যেখানে y 2 − 10 y + 11 y^2 - 10y + 11 y 2 − 10 y + 11 এর ন্যূনতম/সর্বোচ্চ মান (যেহেতু y 2 y^2 y 2 এর সহগ ধনাত্মক, এটি একটি উর্ধ্বমুখী পরাবৃত্ত x = a ( y − k ) 2 + h x = a(y - k)^2 + h x = a ( y − k ) 2 + h আকারে) y 2 − 10 y + 11 = ( y − 5 ) 2 − 25 + 11 = ( y − 5 ) 2 − 14 y^2 - 10y + 11 = (y - 5)^2 - 25 + 11 = (y - 5)^2 - 14 y 2 − 10 y + 11 = ( y − 5 ) 2 − 25 + 11 = ( y − 5 ) 2 − 14 সুতরাং: x = ( y − 5 ) 2 − 14 2 x = \\frac{(y - 5)^2 - 14}{2} x = 2 ( y − 5 ) 2 − 14 ​ শীর্ষবিন্দুতে y − 5 = 0 ⟹ y = 5 y - 5 = 0 \\implies y = 5 y − 5 = 0 ⟹ y = 5 x = − 14 2 = − 7 x = \\frac{-14}{2} = -7 x = 2 − 14 ​ = − 7 শীর্ষবিন্দু: ( − 7 , 5 ) (-7,5) ( − 7 , 5 )"
+    },
+    {
+      "number": "19",
+      "tag": "KhU A 24-25",
+      "question": "[ α + 3 6 5 α − 4 ] \\left[\\begin{array}{cc}\\alpha+3 & 6 \\\\ 5 & \\alpha-4\\end{array}\\right] [ α + 3 5 ​ 6 α − 4 ​ ] ম্যাট্রিক্সটি ব্যতিক্রমী হবে যদি α \\alpha α এর মান-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4,5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7,6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7,-6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6,5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4,5",
+      "option_b": "7,6",
+      "option_c": "7,-6",
+      "option_d": "6,5",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "KhU A 24-25",
+      "question": "△ A B C  এ  A = tan ⁡ − 1 2 ; B = tan ⁡ − 1 3 \\triangle \\mathrm{ABC}~এ~ \\mathrm{A}=\\tan ^{-1} 2 ; \\mathrm{B}=\\tan ^{-1} 3 △ ABC   এ   A = tan − 1 2 ; B = tan − 1 3 হলে C = \\mathrm{C}= C = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π 4 \\frac{\\pi}{4} 4 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "π 2 \\frac{\\pi}{2} 2 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 π 2 \\frac{3 \\pi}{2} 2 3 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π \\pi π",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π 4 \\frac{\\pi}{4} 4 π ​",
+      "option_b": "π 2 \\frac{\\pi}{2} 2 π ​",
+      "option_c": "3 π 2 \\frac{3 \\pi}{2} 2 3 π ​",
+      "option_d": "π \\pi π",
+      "correct": "ক",
+      "explanation": "প্রদত্ত: A = tan ⁡ − 1 2 , B = tan ⁡ − 1 3 A = \\tan^{-1} 2, B = \\tan^{-1} 3 A = tan − 1 2 , B = tan − 1 3 ত্রিভুজের তিন কোণের সমষ্টি π \\pi π : A + B + C = π A + B + C = \\pi A + B + C = π C = π − ( A + B ) C = \\pi - (A + B) C = π − ( A + B ) A + B A + B A + B নির্ণয় আমরা জানি: tan ⁡ ( A + B ) = tan ⁡ A + tan ⁡ B 1 − tan ⁡ A ⋅ tan ⁡ B \\tan(A + B) = \\frac{\\tan A + \\tan B}{1 - \\tan A \\cdot \\tan B} tan ( A + B ) = 1 − t a n A ⋅ t a n B t a n A + t a n B ​ এখানে tan ⁡ A = 2 \\tan A = 2 tan A = 2 , tan ⁡ B = 3 \\tan B = 3 tan B = 3 : tan ⁡ ( A + B ) = 2 + 3 1 − 2 ⋅ 3 = 5 1 − 6 = 5 − 5 = − 1 \\tan(A + B) = \\frac{2 + 3}{1 - 2 \\cdot 3} = \\frac{5}{1 - 6} = \\frac{5}{-5} = -1 tan ( A + B ) = 1 − 2 ⋅ 3 2 + 3 ​ = 1 − 6 5 ​ = − 5 5 ​ = − 1 A + B এর মান tan ⁡ ( A + B ) = − 1 ⟹ A + B = 3 π 4 অথবা − π 4 \\tan(A+B) = -1 \\implies A + B = \\frac{3\\pi}{4} \\quad \\text{অথবা} \\quad -\\frac{\\pi}{4} tan ( A + B ) = − 1 ⟹ A + B = 4 3 π ​ অথবা − 4 π ​ কিন্তু A = tan ⁡ − 1 2 > 0 A = \\tan^{-1}2 > 0 A = tan − 1 2 > 0 , B = tan ⁡ − 1 3 > 0 B = \\tan^{-1}3 > 0 B = tan − 1 3 > 0 , তাই A + B > 0 A + B > 0 A + B > 0 এবং A < π 2 , B < π 2 A < \\frac{\\pi}{2}, B < \\frac{\\pi}{2} A < 2 π ​ , B < 2 π ​ , তাই A + B < π A + B < \\pi A + B < π tan ⁡ θ = − 1 \\tan \\theta = -1 tan θ = − 1 এবং 0 < θ < π 0 < \\theta < \\pi 0 < θ < π হলে θ = 3 π 4 \\theta = \\frac{3\\pi}{4} θ = 4 3 π ​ সুতরাং: A + B = 3 π 4 A + B = \\frac{3\\pi}{4} A + B = 4 3 π ​ C নির্ণয় C = π − ( A + B ) = π − 3 π 4 = π 4 C = \\pi - (A + B) = \\pi - \\frac{3\\pi}{4} = \\frac{\\pi}{4} C = π − ( A + B ) = π − 4 3 π ​ = 4 π ​"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "title": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ ২০২৫",
+  "subtitle": "সংক্ষিপ্ত-উত্তর প্রশ্ন (7)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "R = a − 3 + b − 3 + c − 3 − 3 a − 1 b − 1 c − 1 R = a^{-3} + b^{-3} + c^{-3} - 3a^{-1}b^{-1}c^{-1} R = a − 3 + b − 3 + c − 3 − 3 a − 1 b − 1 c − 1 এবং g ( x ) = 2 x ( x + 1 ) ( x 2 + 1 ) g(x) = \\frac{2x}{(x+1)(x^2+1)} g ( x ) = ( x + 1 ) ( x 2 + 1 ) 2 x ​",
+      "tag": "VNSC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "উৎপাদকে বিশ্লেষণ কর: a 3 − a 2 − 10 a − 8 a^3 - a^2 - 10a - 8 a 3 − a 2 − 10 a − 8",
+          "explanation": "ধরি, f ( a ) = a 3 − a 2 − 10 a − 8 f(a) = a^3 - a^2 - 10a - 8 f ( a ) = a 3 − a 2 − 10 a − 8 এখানে, f ( − 1 ) = ( − 1 ) 3 − ( − 1 ) 2 − 10 ( − 1 ) − 8 = − 1 − 1 + 10 − 8 = 0 f(-1) = (-1)^3 - (-1)^2 - 10(-1) - 8 = -1 - 1 + 10 - 8 = 0 f ( − 1 ) = ( − 1 ) 3 − ( − 1 ) 2 − 10 ( − 1 ) − 8 = − 1 − 1 + 10 − 8 = 0 ∴ ( a + 1 ) \\therefore (a + 1) ∴ ( a + 1 ) , f ( a ) f(a) f ( a ) এর একটি উৎপাদক। এখন, a 3 − a 2 − 10 a − 8 a^3 - a^2 - 10a - 8 a 3 − a 2 − 10 a − 8 = a 3 + a 2 − 2 a 2 − 2 a − 8 a − 8 = a^3 + a^2 - 2a^2 - 2a - 8a - 8 = a 3 + a 2 − 2 a 2 − 2 a − 8 a − 8 = a 2 ( a + 1 ) − 2 a ( a + 1 ) − 8 ( a + 1 ) = a^2(a + 1) - 2a(a + 1) - 8(a + 1) = a 2 ( a + 1 ) − 2 a ( a + 1 ) − 8 ( a + 1 ) = ( a + 1 ) ( a 2 − 2 a − 8 ) = (a + 1)(a^2 - 2a - 8) = ( a + 1 ) ( a 2 − 2 a − 8 ) = ( a + 1 ) ( a 2 − 4 a + 2 a − 8 ) = (a + 1)(a^2 - 4a + 2a - 8) = ( a + 1 ) ( a 2 − 4 a + 2 a − 8 ) = ( a + 1 ) { a ( a − 4 ) + 2 ( a − 4 ) } = (a + 1)\\{a(a - 4) + 2(a - 4)\\} = ( a + 1 ) { a ( a − 4 ) + 2 ( a − 4 )} = ( a + 1 ) ( a − 4 ) ( a + 2 ) = (a + 1)(a - 4)(a + 2) = ( a + 1 ) ( a − 4 ) ( a + 2 ) (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "R = 0 R=0 R = 0 হলে প্রমাণ কর যে, a = b = c a=b=c a = b = c অথবা a b + b c + c a = 0 ab+bc+ca=0 ab + b c + c a = 0",
+          "explanation": "দেওয়া আছে, g ( x ) = 2 x ( x + 1 ) ( x 2 + 1 ) g(x) = \\frac{2x}{(x + 1)(x^2 + 1)} g ( x ) = ( x + 1 ) ( x 2 + 1 ) 2 x ​ ধরি, 2 x ( x + 1 ) ( x 2 + 1 ) = A x + 1 + B x + C x 2 + 1 \\frac{2x}{(x+1)(x^2+1)} = \\frac{A}{x+1} + \\frac{Bx + C}{x^2+1} ( x + 1 ) ( x 2 + 1 ) 2 x ​ = x + 1 A ​ + x 2 + 1 B x + C ​ ... ... ... (i) (i) নং এর উভয়পক্ষকে ( x + 1 ) ( x 2 + 1 ) (x + 1) (x^2+1) ( x + 1 ) ( x 2 + 1 ) দ্বারা গুণ করে পাই, 2 x = A ( x 2 + 1 ) + ( B x + C ) ( x + 1 ) 2x = A(x^2 + 1) + (Bx + C)(x + 1) 2 x = A ( x 2 + 1 ) + ( B x + C ) ( x + 1 ) ... ... ... (ii) বা, 2 x = A x 2 + A + B x 2 + B x + C x + C 2x = Ax^2 + A + Bx^2 + Bx + Cx + C 2 x = A x 2 + A + B x 2 + B x + C x + C ∴ 2 x = ( A + B ) x 2 + ( B + C ) x + A + C \\therefore 2x = (A + B)x^2 + (B + C)x + A + C ∴ 2 x = ( A + B ) x 2 + ( B + C ) x + A + C ... ... ... (iii) (ii) নং এ x = − 1 x = -1 x = − 1 বসিয়ে, 2. ( − 1 ) = A { ( − 1 ) 2 + 1 } + 0 2.(-1) = A\\{(-1)^2 + 1\\}+0 2. ( − 1 ) = A {( − 1 ) 2 + 1 } + 0 বা, − 2 = 2 A ∴ A = − 1 -2 = 2A \\therefore A=-1 − 2 = 2 A ∴ A = − 1 এখন, (iii) নং হতে x 2 x^2 x 2 ও x x x এর সহগ সমীকৃত করে পাই, A + B = 0 A + B = 0 A + B = 0 বা, B = − A ∴ B = − ( − 1 ) = 1 B = -A \\therefore B = -(-1) = 1 B = − A ∴ B = − ( − 1 ) = 1 এবং B + C = 2 B + C = 2 B + C = 2 বা, C = 2 − B ∴ C = 2 − 1 = 1 C=2-B \\therefore C=2-1=1 C = 2 − B ∴ C = 2 − 1 = 1 A, B ও C এর মান (i) নং এ বসিয়ে, 2 x ( x + 1 ) ( x 2 + 1 ) = − 1 x + 1 + 1 × x + 1 x 2 + 1 \\frac{2x}{(x+1)(x^2+1)} = \\frac{-1}{x+1} + \\frac{1 \\times x+1}{x^2+1} ( x + 1 ) ( x 2 + 1 ) 2 x ​ = x + 1 − 1 ​ + x 2 + 1 1 × x + 1 ​ = x + 1 x 2 + 1 − 1 x + 1 = \\frac{x+1}{x^2+1} - \\frac{1}{x+1} = x 2 + 1 x + 1 ​ − x + 1 1 ​ , যা নির্ণেয় আংশিক ভগ্নাংশ।"
+        },
+        {
+          "label": "গ",
+          "question": "g ( x ) g(x) g ( x ) কে আংশিক ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "দেওয়া আছে, g ( x ) = 2 x ( x + 1 ) ( x 2 + 1 ) g(x) = \\frac{2x}{(x + 1)(x^2 + 1)} g ( x ) = ( x + 1 ) ( x 2 + 1 ) 2 x ​ ধরি, 2 x ( x + 1 ) ( x 2 + 1 ) = A x + 1 + B x + C x 2 + 1 \\frac{2x}{(x+1)(x^2+1)} = \\frac{A}{x+1} + \\frac{Bx + C}{x^2+1} ( x + 1 ) ( x 2 + 1 ) 2 x ​ = x + 1 A ​ + x 2 + 1 B x + C ​ ... ... ... (i) (i) নং এর উভয়পক্ষকে ( x + 1 ) ( x 2 + 1 ) (x + 1) (x^2+1) ( x + 1 ) ( x 2 + 1 ) দ্বারা গুণ করে পাই, 2 x = A ( x 2 + 1 ) + ( B x + C ) ( x + 1 ) 2x = A(x^2 + 1) + (Bx + C)(x + 1) 2 x = A ( x 2 + 1 ) + ( B x + C ) ( x + 1 ) ... ... ... (ii) বা, 2 x = A x 2 + A + B x 2 + B x + C x + C 2x = Ax^2 + A + Bx^2 + Bx + Cx + C 2 x = A x 2 + A + B x 2 + B x + C x + C ∴ 2 x = ( A + B ) x 2 + ( B + C ) x + A + C \\therefore 2x = (A + B)x^2 + (B + C)x + A + C ∴ 2 x = ( A + B ) x 2 + ( B + C ) x + A + C ... ... ... (iii) (ii) নং এ x = − 1 x = -1 x = − 1 বসিয়ে, 2. ( − 1 ) = A { ( − 1 ) 2 + 1 } + 0 2.(-1) = A\\{(-1)^2 + 1\\}+0 2. ( − 1 ) = A {( − 1 ) 2 + 1 } + 0 বা, − 2 = 2 A ∴ A = − 1 -2 = 2A \\therefore A=-1 − 2 = 2 A ∴ A = − 1 এখন, (iii) নং হতে x 2 x^2 x 2 ও x x x এর সহগ সমীকৃত করে পাই, A + B = 0 A + B = 0 A + B = 0 বা, B = − A ∴ B = − ( − 1 ) = 1 B = -A \\therefore B = -(-1) = 1 B = − A ∴ B = − ( − 1 ) = 1 এবং B + C = 2 B + C = 2 B + C = 2 বা, C = 2 − B ∴ C = 2 − 1 = 1 C=2-B \\therefore C=2-1=1 C = 2 − B ∴ C = 2 − 1 = 1 A, B ও C এর মান (i) নং এ বসিয়ে, 2 x ( x + 1 ) ( x 2 + 1 ) = − 1 x + 1 + 1 × x + 1 x 2 + 1 \\frac{2x}{(x+1)(x^2+1)} = \\frac{-1}{x+1} + \\frac{1 \\times x+1}{x^2+1} ( x + 1 ) ( x 2 + 1 ) 2 x ​ = x + 1 − 1 ​ + x 2 + 1 1 × x + 1 ​ = x + 1 x 2 + 1 − 1 x + 1 = \\frac{x+1}{x^2+1} - \\frac{1}{x+1} = x 2 + 1 x + 1 ​ − x + 1 1 ​ , যা নির্ণেয় আংশিক ভগ্নাংশ।"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "A = ( 4 x + 1 ) − 1 + ( 4 x + 1 ) − 2 + ( 4 x + 1 ) − 3 + . . . . . A = (4x + 1)^{-1} + (4x+1)^{-2}+(4x+1)^{-3}+..... A = ( 4 x + 1 ) − 1 + ( 4 x + 1 ) − 2 + ( 4 x + 1 ) − 3 + ..... B = ( k − x 4 ) 7 B=\\left(k-\\frac{x}{4}\\right)^7 B = ( k − 4 x ​ ) 7",
+      "tag": "VNSC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "k = 1 হলে প্যাসকেলের ত্রিভুজ ব্যবহার করে B-কে প্রথম ৪টি পদ পর্যন্ত বিস্তৃত কর।",
+          "explanation": "k = 1 হলে, B = ( 1 − x 4 ) 7 B = \\left(1-\\frac{x}{4}\\right)^7 B = ( 1 − 4 x ​ ) 7 প্যাসকেলের ত্রিভুজ: ∴ ( 1 − x 4 ) 7 = 1 + 7 ( − x 4 ) + 21 ( − x 4 ) 2 + 35 ( − x 4 ) 3 + \\therefore \\left(1-\\frac{x}{4}\\right)^{7}=1+7\\left(-\\frac{x}{4}\\right)+21\\left(-\\frac{x}{4}\\right)^{2}+35\\left(-\\frac{x}{4}\\right)^{3}+ ∴ ( 1 − 4 x ​ ) 7 = 1 + 7 ( − 4 x ​ ) + 21 ( − 4 x ​ ) 2 + 35 ( − 4 x ​ ) 3 + 35 ( − x 4 ) 4 + … 35\\left(-\\frac{x}{4}\\right)^{4}+\\ldots 35 ( − 4 x ​ ) 4 + … = 1 − 7 4 x + 21 16 x 2 − 35 64 x 3 + 35 256 x 4 − …  (Ans.)  =1-\\frac{7}{4} x+\\frac{21}{16} x^{2}-\\frac{35}{64} x^{3}+\\frac{35}{256} x^{4}-\\ldots \\text { (Ans.) } = 1 − 4 7 ​ x + 16 21 ​ x 2 − 64 35 ​ x 3 + 256 35 ​ x 4 − …  (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "B = p − 112 x + q x 2 − r x 3 + . . . . . B = p-112x + qx^2 - rx^3 + ..... B = p − 112 x + q x 2 − r x 3 + ..... হলে k, p, q এবং r-এর মান নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "x-এর উপর কী শর্ত আরোপ করলে A-এর অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "f ( x ) = ln ⁡ 8 + x 8 − x f(x) = \\ln \\frac{8+x}{8-x} f ( x ) = ln 8 − x 8 + x ​ এবং a 2 + 2 = 3 2 3 + 3 − 2 3 a^2 + 2 = 3^{\\frac{2}{3}} + 3^{-\\frac{2}{3}} a 2 + 2 = 3 3 2 ​ + 3 − 3 2 ​",
+      "tag": "VNSC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "log ⁡ 10 [ 98 + x 2 − 12 x + 36 ] = 2 \\log_{10} [98+\\sqrt{x^2 - 12x + 36}] = 2 lo g 10 ​ [ 98 + x 2 − 12 x + 36 ​ ] = 2 হলে x x x এর মান নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "যদি a ≥ 0 a \\geq 0 a ≥ 0 হয় তবে প্রমাণ কর যে, 3 a 3 + 9 a = 8 3a^3 + 9a = 8 3 a 3 + 9 a = 8",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "f ( x ) f(x) f ( x ) এর ডোমেন ও রেঞ্জ নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "P(0, - 1), Q(8, 3), R(6, 7) এবং S(- 2, 3) একই সমতলে কয়েকটি বিন্দু।",
+      "tag": "VNSC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "x − 3 y + 5 = 0 x-\\sqrt{3}y+5=0 x − 3 ​ y + 5 = 0 রেখাটি x-অক্ষের ধনাত্মক দিকে যে কোণ উৎপন্ন করে তা নির্ণয় কর।",
+          "explanation": "প্রদত্ত সরলরেখা: x − 3 y + 5 = 0 x - \\sqrt{3}y + 5 = 0 x − 3 ​ y + 5 = 0 বা, − 3 y = − x − 5 -\\sqrt{3}y = -x - 5 − 3 ​ y = − x − 5 y = x 3 + 5 3 … ( i ) y = \\frac{x}{\\sqrt{3}} + \\frac{5}{\\sqrt{3}} \\quad \\dots \\quad (i) y = 3 ​ x ​ + 3 ​ 5 ​ … ( i ) (i) নং সমীকরণকে y = m x + c y = mx + c y = m x + c এর সাথে তুলনা করে পাই, m = 1 3 m = \\frac{1}{\\sqrt{3}} m = 3 ​ 1 ​ বা, tan ⁡ θ = 1 3 \\tan\\theta = \\frac{1}{\\sqrt{3}} tan θ = 3 ​ 1 ​ বা, tan ⁡ θ = tan ⁡ 30 ∘ ∴ θ = 30 ∘ \\tan\\theta = \\tan30^\\circ \\quad \\therefore \\theta = 30^\\circ tan θ = tan 3 0 ∘ ∴ θ = 3 0 ∘ ∴ \\therefore ∴ সরলরেখাটি x x x -অক্ষের ধনাত্মক দিকের সাথে 30 ∘ 30^\\circ 3 0 ∘ কোণ উৎপন্ন করে। (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "PR এবং QS-এর ছেদবিন্দুর স্থানাঙ্ক নির্ণয় কর।",
+          "explanation": "P(0, -1) ও R(6, 7) বিন্দুগামী PR রেখার সমীকরণ, x − 0 0 − 6 = y − ( − 1 ) − 1 − 7 \\frac{x-0}{0-6} = \\frac{y-(-1)}{-1-7} 0 − 6 x − 0 ​ = − 1 − 7 y − ( − 1 ) ​ বা, x − 6 = y + 1 − 8 \\frac{x}{-6} = \\frac{y+1}{-8} − 6 x ​ = − 8 y + 1 ​ বা, 4 x = 3 y + 3 4x = 3y+3 4 x = 3 y + 3 ∴ 4 x − 3 y = 3  ...... (i) \\therefore 4x - 3y = 3 \\text{ ...... (i)} ∴ 4 x − 3 y = 3  ...... (i) Q(8, 3) ও S(-2, 3) বিন্দুগামী QS রেখার সমীকরণ, x − 8 8 − ( − 2 ) = y − 3 3 − 3 \\frac{x-8}{8-(-2)} = \\frac{y-3}{3-3} 8 − ( − 2 ) x − 8 ​ = 3 − 3 y − 3 ​ বা, 10 ( y − 3 ) = 0 10(y-3) = 0 10 ( y − 3 ) = 0 বা, y − 3 = 0 ∴ y = 3 y-3 = 0 \\therefore y=3 y − 3 = 0 ∴ y = 3 y এর মান (i) নং এ বসিয়ে, 4 x − 3 ⋅ 3 = 3 4x - 3 \\cdot 3 = 3 4 x − 3 ⋅ 3 = 3 বা, 4 x = 9 + 3 4x = 9 + 3 4 x = 9 + 3 বা, 4 x = 12 ∴ x = 3 4x = 12 \\therefore x = 3 4 x = 12 ∴ x = 3 ∴ \\therefore ∴ PR ও QS এর ছেদবিন্দুর স্থানাঙ্ক (3, 3) (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "PQRS চতুর্ভুজের যে অংশ ১ম চতুর্ভাগে অবস্থান করে তার ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "△ A B C \\triangle ABC △ A BC -এর AB ও AC বাহুর মধ্যবিন্দু যথাক্রমে D ও E",
+      "tag": "VNSC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "( 2 , − 1 ) (2, -1) ( 2 , − 1 ) বিন্দুগামী এবং 1 3 \\frac{1}{3} 3 1 ​ ঢালবিশিষ্ট সরলরেখার সমীকরণ নির্ণয় কর।",
+          "explanation": "(2, -1) বিন্দুগামী 1 3 \\frac{1}{3} 3 1 ​ ঢালবিশিষ্ট সরলরেখার সমীকরণ, y − ( − 1 ) = 1 3 ( x − 2 ) y - (-1) = \\frac{1}{3}(x - 2) y − ( − 1 ) = 3 1 ​ ( x − 2 ) বা, y + 1 = 1 3 ( x − 2 ) y + 1 = \\frac{1}{3}(x - 2) y + 1 = 3 1 ​ ( x − 2 ) বা, 3 y + 3 = x − 2 ∴ x − 3 y − 5 = 0 3y + 3 = x - 2 \\therefore x - 3y - 5 = 0 3 y + 3 = x − 2 ∴ x − 3 y − 5 = 0 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "ভেক্টরের সাহায্যে প্রমাণ কর যে, B C ∥ D E BC \\parallel DE BC ∥ D E এবং D E = 1 2 B C DE = \\frac{1}{2} BC D E = 2 1 ​ BC .",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "BE ও CD-এর মধ্যবিন্দু M ও N হলে ভেক্টর পদ্ধতিতে প্রমাণ কর যে, M N ∥ D E ∥ B C MN \\parallel DE \\parallel BC MN ∥ D E ∥ BC এবং M N = 1 2 ( B C − D E ) MN = \\frac{1}{2} (BC - DE) MN = 2 1 ​ ( BC − D E )",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "A = sin ⁡ 13 π 3 cos ⁡ 13 π 6 − sin ⁡ 11 π 6 cos ⁡ ( − 5 π 3 ) A = \\sin \\frac{13\\pi}{3} \\cos \\frac{13\\pi}{6} - \\sin \\frac{11\\pi}{6} \\cos \\left(-\\frac{5\\pi}{3}\\right) A = sin 3 13 π ​ cos 6 13 π ​ − sin 6 11 π ​ cos ( − 3 5 π ​ ) B = 5 cosec ⁡ 2 θ − 7 cot ⁡ θ cosec ⁡ θ − 2 B = 5\\operatorname{cosec}^2\\theta - 7\\cot\\theta \\operatorname{cosec}\\theta - 2 B = 5 cosec 2 θ − 7 cot θ cosec θ − 2",
+      "tag": "VNSC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "θ = π 3 \\theta = \\frac{\\pi}{3} θ = 3 π ​ হলে sin ⁡ 3 θ − 3 sin ⁡ θ + 4 sin ⁡ 3 θ \\sin3\\theta - 3\\sin\\theta + 4\\sin^3\\theta sin 3 θ − 3 sin θ + 4 sin 3 θ এর মান নির্ণয় কর।",
+          "explanation": "প্রদত্ত রাশি = sin ⁡ 3 θ − 3 sin ⁡ θ + 4 sin ⁡ 3 θ = \\sin3\\theta - 3\\sin\\theta + 4\\sin^3\\theta = sin 3 θ − 3 sin θ + 4 sin 3 θ = sin ⁡ ( 3 ⋅ π 3 ) − 3 sin ⁡ π 3 + 4 ( sin ⁡ π 3 ) 3 [ : θ = π 3 ] = \\sin\\left(3 \\cdot \\frac{\\pi}{3}\\right) - 3\\sin\\frac{\\pi}{3} + 4\\left(\\sin\\frac{\\pi}{3}\\right)^3 \\left[: \\theta = \\frac{\\pi}{3}\\right] = sin ( 3 ⋅ 3 π ​ ) − 3 sin 3 π ​ + 4 ( sin 3 π ​ ) 3 [ : θ = 3 π ​ ] = sin ⁡ π − 3 sin ⁡ π 3 + 4 ( sin ⁡ π 3 ) 3 = \\sin\\pi - 3\\sin\\frac{\\pi}{3} + 4\\left(\\sin\\frac{\\pi}{3}\\right)^3 = sin π − 3 sin 3 π ​ + 4 ( sin 3 π ​ ) 3 = 0 − 3 ⋅ 3 2 + 4 ⋅ ( 3 2 ) 3 = 0 - 3 \\cdot \\frac{\\sqrt{3}}{2} + 4 \\cdot \\left(\\frac{\\sqrt{3}}{2}\\right)^3 = 0 − 3 ⋅ 2 3 ​ ​ + 4 ⋅ ( 2 3 ​ ​ ) 3 = − 3 3 2 + 4 ⋅ 3 3 8 = - \\frac{3\\sqrt{3}}{2} + 4 \\cdot \\frac{3\\sqrt{3}}{8} = − 2 3 3 ​ ​ + 4 ⋅ 8 3 3 ​ ​ = − 3 3 2 + 3 3 2 = 0 = - \\frac{3\\sqrt{3}}{2} + \\frac{3\\sqrt{3}}{2} = 0 = − 2 3 3 ​ ​ + 2 3 3 ​ ​ = 0 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, A = 1 A = 1 A = 1",
+          "explanation": "দেওয়া আছে, A = sin ⁡ 13 π 3 cos ⁡ 13 π 6 − sin ⁡ 11 π 6 cos ⁡ ( − 5 π 3 ) A = \\sin \\frac{13\\pi}{3} \\cos \\frac{13\\pi}{6} - \\sin \\frac{11\\pi}{6} \\cos \\left( -\\frac{5\\pi}{3} \\right) A = sin 3 13 π ​ cos 6 13 π ​ − sin 6 11 π ​ cos ( − 3 5 π ​ ) = sin ⁡ ( 4 π + π 3 ) cos ⁡ ( 2 π + π 6 ) − sin ⁡ ( 2 π − π 6 ) cos ⁡ ( 2 π − π 3 ) = \\sin \\left( 4\\pi + \\frac{\\pi}{3} \\right) \\cos \\left( 2\\pi + \\frac{\\pi}{6} \\right) - \\sin \\left( 2\\pi - \\frac{\\pi}{6} \\right) \\cos \\left( 2\\pi - \\frac{\\pi}{3} \\right) = sin ( 4 π + 3 π ​ ) cos ( 2 π + 6 π ​ ) − sin ( 2 π − 6 π ​ ) cos ( 2 π − 3 π ​ ) [ ∴ cos ⁡ ( − θ ) = cos ⁡ θ ] [\\therefore \\cos(-\\theta) = \\cos\\theta] [ ∴ cos ( − θ ) = cos θ ] = sin ⁡ π 3 ⋅ cos ⁡ π 6 − ( − sin ⁡ π 6 ) cos ⁡ π 3 = \\sin \\frac{\\pi}{3} \\cdot \\cos \\frac{\\pi}{6} - \\left( -\\sin \\frac{\\pi}{6} \\right) \\cos \\frac{\\pi}{3} = sin 3 π ​ ⋅ cos 6 π ​ − ( − sin 6 π ​ ) cos 3 π ​ = 3 2 ⋅ 3 2 + 1 2 ⋅ 1 2 = 3 4 + 1 4 = 3 + 1 4 = 4 4 = 1 = \\frac{\\sqrt{3}}{2} \\cdot \\frac{\\sqrt{3}}{2} + \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{3}{4} + \\frac{1}{4} = \\frac{3+1}{4} = \\frac{4}{4} = 1 = 2 3 ​ ​ ⋅ 2 3 ​ ​ + 2 1 ​ ⋅ 2 1 ​ = 4 3 ​ + 4 1 ​ = 4 3 + 1 ​ = 4 4 ​ = 1 ∴ A = 1 \\therefore A = 1 ∴ A = 1 (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "যদি B = 0 B = 0 B = 0 হয় এবং 0 < θ < 2 π 0 < \\theta < 2\\pi 0 < θ < 2 π হয় তবে θ \\theta θ এর সম্ভাব্য মানগুলো বের কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "একটি নিরপেক্ষ মুদ্রা চারবার নিক্ষেপ করা হলো। একজন লোকের রাজশাহী হতে ঢাকায় ট্রেনে যাওয়ার সম্ভাবনা 5 8 \\frac{5}{8} 8 5 ​ এবং ঢাকা হতে সিলেট বাসে যাওয়ার সম্ভাবনা 2 5 \\frac{2}{5} 5 2 ​",
+      "tag": "VNSC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি নিরপেক্ষ ছক্কা নিক্ষেপে 2 অথবা 3 দ্বারা বিভাজ্য সংখ্যা পাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, মুদ্রাটি n সংখ্যক বার নিক্ষেপ করলে সংঘটিত ঘটনা 2 n কে সমর্থন করে।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "Probability tree ব্যবহার করে লোকটির রাজশাহী হতে ঢাকায় ট্রেনে কিন্তু সিলেটে বাসে না যাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

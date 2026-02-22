@@ -1,0 +1,766 @@
+{
+  "read_id": "pfVJ3FgbAFjkKI9O",
+  "title": "আইডিয়াল স্কুল এন্ড কলেজ ২০২৫",
+  "count": 23,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "IC 25",
+      "question": "যেকোনো a ‾ , b ‾ \\underline{a}, \\underline{b} a ​ , b ​ ও c ‾ \\underline{c} c ​ ভেক্টরের জন্য- i. a ‾ + b ‾ = b ‾ + a ‾ \\underline{a} + \\underline{b} = \\underline{b} + \\underline{a} a ​ + b ​ = b ​ + a ​ ভেক্টর যোগের বিনিময় বিধি ii. m ( b ‾ + c ‾ ) = m b ‾ + m c ‾ m(\\underline{b} + \\underline{c}) = m\\underline{b} + m\\underline{c} m ( b ​ + c ​ ) = m b ​ + m c ​ ভেক্টর বন্টন বিধি iii. ( a ‾ + b ‾ ) + c ‾ = a ‾ + ( b ‾ + c ‾ ) (\\underline{a} + \\underline{b}) + \\underline{c} = \\underline{a} + (\\underline{b} + \\underline{c}) ( a ​ + b ​ ) + c ​ = a ​ + ( b ​ + c ​ ) ভেক্টর যোগের ত্রিভুজ বিধি নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i i i ও i i ii ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i i i ও i i i iii iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i i ii ii ও i i i iii iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i , i i i, ii i , ii ও i i i iii iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i i i ও i i ii ii",
+      "option_b": "i i i ও i i i iii iii",
+      "option_c": "i i ii ii ও i i i iii iii",
+      "option_d": "i , i i i, ii i , ii ও i i i iii iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "IC 25",
+      "question": "10 থেকে 21 পর্যন্ত স্বাভাবিক সংখ্যাগুলোর একটি সংখ্যা দৈবভাবে নির্বাচন করা হলো। নির্বাচিত সংখ্যাটি মৌলিক হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 20 \\frac{1}{20} 20 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 31 \\frac{4}{31} 31 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 10 \\frac{3}{10} 10 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 20 \\frac{1}{20} 20 1 ​",
+      "option_b": "4 31 \\frac{4}{31} 31 4 ​",
+      "option_c": "3 10 \\frac{3}{10} 10 3 ​",
+      "option_d": "1 3 \\frac{1}{3} 3 1 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "IC 25",
+      "question": "10 থেকে 21 পর্যন্ত স্বাভাবিক সংখ্যাগুলোর একটি সংখ্যা দৈবভাবে নির্বাচন করা হলো। নির্বাচিত সংখ্যাটি 2 2 2 এবং 3 3 3 দ্বারা বিভাজ্য হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 5 \\frac{4}{5} 5 4 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_c": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_d": "4 5 \\frac{4}{5} 5 4 ​",
+      "correct": "ক",
+      "explanation": "10 থেকে 21 পর্যন্ত মোট স্বাভাবিক সংখ্যা = 12টি 2 এবং 3 দ্বারা বিভাজ্য সংখ্যা = {12, 18} = 2টি ∴ P \\therefore P ∴ P [2 এবং 3 দ্বারা বিভাজ্য সংখ্যা] = 2 12 = 1 6 = \\frac{2}{12} = \\frac{1}{6} = 12 2 ​ = 6 1 ​"
+    },
+    {
+      "number": "4",
+      "tag": "IC 25",
+      "question": "y = x − 3 y = x - 3 y = x − 3 এবং y = − x + 3 y = -x + 3 y = − x + 3 এর ছেদ বিন্দু নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 0 , 0 ) (0, 0) ( 0 , 0 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 0 , 3 ) (0, 3) ( 0 , 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 3 , 0 ) (3, 0) ( 3 , 0 )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "( − 3 , 3 ) (-3, 3) ( − 3 , 3 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 0 , 0 ) (0, 0) ( 0 , 0 )",
+      "option_b": "( 0 , 3 ) (0, 3) ( 0 , 3 )",
+      "option_c": "( 3 , 0 ) (3, 0) ( 3 , 0 )",
+      "option_d": "( − 3 , 3 ) (-3, 3) ( − 3 , 3 )",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "IC 25",
+      "question": "কোনটি মূল বিন্দুগামী সরলরেখা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "y = m x + c y = mx + c y = m x + c",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "y = m x y = mx y = m x",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "y = 5 y = 5 y = 5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x + y = 10 x + y = 10 x + y = 10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "y = m x + c y = mx + c y = m x + c",
+      "option_b": "y = m x y = mx y = m x",
+      "option_c": "y = 5 y = 5 y = 5",
+      "option_d": "x + y = 10 x + y = 10 x + y = 10",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "IC 25",
+      "question": "y = 10 y = 10 y = 10 রেখাটির ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 10 10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0 0 0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "− 1 -1 − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনির্ণেয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 10 10",
+      "option_b": "0 0 0",
+      "option_c": "− 1 -1 − 1",
+      "option_d": "অনির্ণেয়",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "IC 25",
+      "question": "A A → \\overrightarrow{AA} AA ভেক্টর হচ্ছে– i. বিন্দু ভেক্টর ii. একক ভেক্টর iii. শূন্য ভেক্টর নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i i i ও i i ii ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i i i ও i i i iii iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "i i ii ii ও i i i iii iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i , i i i, ii i , ii ও i i i iii iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i i i ও i i ii ii",
+      "option_b": "i i i ও i i i iii iii",
+      "option_c": "i i ii ii ও i i i iii iii",
+      "option_d": "i , i i i, ii i , ii ও i i i iii iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "IC 25",
+      "question": "△ A B C \\triangle ABC △ A BC এর ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A B → + B C → = C A → \\overrightarrow{AB} + \\overrightarrow{BC} = \\overrightarrow{CA} A B + BC = C A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A B → + A C → = B C → \\overrightarrow{AB} + \\overrightarrow{AC} = \\overrightarrow{BC} A B + A C = BC",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "C B → + B A → + C A → = 0 \\overrightarrow{CB} + \\overrightarrow{BA} + \\overrightarrow{CA} = 0 CB + B A + C A = 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A B → + B C → + C A → = 0 → \\overrightarrow{AB} + \\overrightarrow{BC} + \\overrightarrow{CA} = \\overrightarrow{0} A B + BC + C A = 0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "A B → + B C → = C A → \\overrightarrow{AB} + \\overrightarrow{BC} = \\overrightarrow{CA} A B + BC = C A",
+      "option_b": "A B → + A C → = B C → \\overrightarrow{AB} + \\overrightarrow{AC} = \\overrightarrow{BC} A B + A C = BC",
+      "option_c": "C B → + B A → + C A → = 0 \\overrightarrow{CB} + \\overrightarrow{BA} + \\overrightarrow{CA} = 0 CB + B A + C A = 0",
+      "option_d": "A B → + B C → + C A → = 0 → \\overrightarrow{AB} + \\overrightarrow{BC} + \\overrightarrow{CA} = \\overrightarrow{0} A B + BC + C A = 0",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "IC 25",
+      "question": "শূন্য বহুপদীর মাত্রা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অসঙ্গায়িত",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "0",
+      "option_c": "1",
+      "option_d": "অসঙ্গায়িত",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "IC 25",
+      "question": "কোন শর্তে log ⁡ a x < 0 \\log_{a}x < 0 lo g a ​ x < 0 হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a > 1 a > 1 a > 1 এবং x > 1 x > 1 x > 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0 < a < 1 0 < a < 1 0 < a < 1 এবং 0 < x < 1 0 < x < 1 0 < x < 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a > 1 a > 1 a > 1 এবং 0 < x < 1 0 < x < 1 0 < x < 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a = 1 a = 1 a = 1 এবং x = 1 x = 1 x = 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a > 1 a > 1 a > 1 এবং x > 1 x > 1 x > 1",
+      "option_b": "0 < a < 1 0 < a < 1 0 < a < 1 এবং 0 < x < 1 0 < x < 1 0 < x < 1",
+      "option_c": "a > 1 a > 1 a > 1 এবং 0 < x < 1 0 < x < 1 0 < x < 1",
+      "option_d": "a = 1 a = 1 a = 1 এবং x = 1 x = 1 x = 1",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "IC 25",
+      "question": "4 x − 3 ( x − 2 ) ( x + 3 ) = A x − 2 + B x + 3 \\frac{4x-3}{(x-2)(x+3)} = \\frac{A}{x-2} + \\frac{B}{x+3} ( x − 2 ) ( x + 3 ) 4 x − 3 ​ = x − 2 A ​ + x + 3 B ​ হলে (A, B) কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(1, 3)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "(3, 1)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(1, -3)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(-1, 3)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(1, 3)",
+      "option_b": "(3, 1)",
+      "option_c": "(1, -3)",
+      "option_d": "(-1, 3)",
+      "correct": "ক",
+      "explanation": "4 x − 3 ( x − 2 ) ( x + 3 ) = A ( x − 2 ) + B ( x + 3 ) \\frac{4x - 3}{(x - 2)(x + 3)} = \\frac{A}{(x - 2)} + \\frac{B}{(x + 3)} ( x − 2 ) ( x + 3 ) 4 x − 3 ​ = ( x − 2 ) A ​ + ( x + 3 ) B ​ বা, 4 x − 3 = A ( x + 3 ) + B ( x − 2 ) 4x - 3 = A(x + 3) + B(x - 2) 4 x − 3 = A ( x + 3 ) + B ( x − 2 ) ... ... ... (i) x = 2 x = 2 x = 2 হলে, 4 × 2 − 3 = A ( 2 + 3 ) ∴ A = 1 4 \\times 2 - 3 = A(2 + 3) \\therefore A = 1 4 × 2 − 3 = A ( 2 + 3 ) ∴ A = 1 x = − 3 x = -3 x = − 3 হলে, 4 × ( − 3 ) − 3 = B ( − 3 − 2 ) ∴ B = 3 4 \\times (-3) - 3 = B(-3 - 2) \\therefore B = 3 4 × ( − 3 ) − 3 = B ( − 3 − 2 ) ∴ B = 3 ∴ ( A , B ) = ( 1 , 3 ) \\therefore (A, B) = (1, 3) ∴ ( A , B ) = ( 1 , 3 )"
+    },
+    {
+      "number": "12",
+      "tag": "IC 25",
+      "question": "P ( x ) = 6 x 5 + x 2 2 + 12 x 3 P(x) = \\frac{6x^5 + x^2}{2 + 12x^3} P ( x ) = 2 + 12 x 3 6 x 5 + x 2 ​ হলে- i. বহুপদীটির মাত্রা 5 ii. বহুপদীটির মুখ্যসহগ 1 2 \\frac{1}{2} 2 1 ​ iii. P ( − 2 ) = 2 P(-2)=2 P ( − 2 ) = 2 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "IC 25",
+      "question": "1 2 , 2 3 , 9 11 , \\frac{1}{2}, \\frac{2}{3}, \\frac{9}{11}, 2 1 ​ , 3 2 ​ , 11 9 ​ , .......... অনুক্রমটির সাধারণ পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "n 2 2 n 2 + 1 \\frac{n^2}{2n^2 + 1} 2 n 2 + 1 n 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 n 2 n 2 + 8 \\frac{3n^2}{n^2 + 8} n 2 + 8 3 n 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "n 3 2 n 2 + 1 \\frac{n^3}{2n^2 + 1} 2 n 2 + 1 n 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "n 2 n 2 + 2 \\frac{n^2}{n^2 + 2} n 2 + 2 n 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "n 2 2 n 2 + 1 \\frac{n^2}{2n^2 + 1} 2 n 2 + 1 n 2 ​",
+      "option_b": "3 n 2 n 2 + 8 \\frac{3n^2}{n^2 + 8} n 2 + 8 3 n 2 ​",
+      "option_c": "n 3 2 n 2 + 1 \\frac{n^3}{2n^2 + 1} 2 n 2 + 1 n 3 ​",
+      "option_d": "n 2 n 2 + 2 \\frac{n^2}{n^2 + 2} n 2 + 2 n 2 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "IC 25",
+      "question": "U n = 3 − ( − 1 ) n 4 U_n = \\frac{3-(-1)^n}{4} U n ​ = 4 3 − ( − 1 ) n ​ একটি অনুক্রমের n তম পদ হলে- i. প্রথম পদ 2 ii. 16 তম পদ 1 2 \\frac{1}{2} 2 1 ​ iii. প্রথম 20টি পদের সমষ্টি 15 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "IC 25",
+      "question": "f ( x ) = 5 + sin ⁡ 2 θ + 4 f(x) = 5 + \\sqrt{\\sin^2\\theta + 4} f ( x ) = 5 + sin 2 θ + 4 ​ এর সর্বোচ্চ মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 5 2\\sqrt{5} 2 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 + 5 5 + \\sqrt{5} 5 + 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7",
+      "option_b": "2 5 2\\sqrt{5} 2 5 ​",
+      "option_c": "5 + 5 5 + \\sqrt{5} 5 + 5 ​",
+      "option_d": "10",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "IC 25",
+      "question": "sin ⁡ θ = A \\sin\\theta = A sin θ = A যদি A = 4 5 A = \\frac{4}{5} A = 5 4 ​ হলে এবং π 2 < θ < 2 π \\frac{\\pi}{2} < \\theta < 2\\pi 2 π ​ < θ < 2 π হলে cos ⁡ θ \\cos\\theta cos θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 3 5 -\\frac{3}{5} − 5 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_b": "− 3 5 -\\frac{3}{5} − 5 3 ​",
+      "option_c": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_d": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+      "correct": "খ",
+      "explanation": "sin ⁡ θ = A = 4 5 , π 2 < θ < 2 π \\sin\\theta = A = \\frac{4}{5}, \\frac{\\pi}{2} < \\theta < 2\\pi sin θ = A = 5 4 ​ , 2 π ​ < θ < 2 π ব্যবধিতে ২য় চতুর্ভাগে sin ⁡ θ \\sin\\theta sin θ ধনাত্মক এবং cos ⁡ θ \\cos\\theta cos θ ঋণাত্মক। ∴ cos ⁡ θ = − 3 5 \\therefore \\cos\\theta = \\frac{-3}{5} ∴ cos θ = 5 − 3 ​"
+    },
+    {
+      "number": "17",
+      "tag": "IC 25",
+      "question": "sin ⁡ θ = A \\sin\\theta = A sin θ = A যদি A = − 3 2 A = -\\frac{\\sqrt{3}}{2} A = − 2 3 ​ ​ এবং 3 π 2 < θ < 2 π \\frac{3\\pi}{2} < \\theta < 2\\pi 2 3 π ​ < θ < 2 π হলে θ \\theta θ এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 π c 3 \\frac{2\\pi^c}{3} 3 2 π c ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 π c 6 \\frac{5\\pi^c}{6} 6 5 π c ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 π c 3 \\frac{5\\pi^c}{3} 3 5 π c ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4 π c 3 \\frac{4\\pi^c}{3} 3 4 π c ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 π c 3 \\frac{2\\pi^c}{3} 3 2 π c ​",
+      "option_b": "5 π c 6 \\frac{5\\pi^c}{6} 6 5 π c ​",
+      "option_c": "5 π c 3 \\frac{5\\pi^c}{3} 3 5 π c ​",
+      "option_d": "4 π c 3 \\frac{4\\pi^c}{3} 3 4 π c ​",
+      "correct": "গ",
+      "explanation": "sin ⁡ θ = Λ = − 3 2 = − sin ⁡ π 3 \\sin \\theta = \\Lambda = -\\frac{\\sqrt{3}}{2} = -\\sin \\frac{\\pi}{3} sin θ = Λ = − 2 3 ​ ​ = − sin 3 π ​ = sin ⁡ ( 2 π − π 3 ) = sin ⁡ 5 π 3 = \\sin \\left(2\\pi - \\frac{\\pi}{3}\\right) = \\sin \\frac{5\\pi}{3} = sin ( 2 π − 3 π ​ ) = sin 3 5 π ​ ∴ θ = 5 π 3 \\therefore \\theta = \\frac{5\\pi}{3} ∴ θ = 3 5 π ​"
+    },
+    {
+      "number": "18",
+      "tag": "IC 25",
+      "question": "যদি a x = b , b y = c a^x = b, b^y = c a x = b , b y = c এবং c z = a c^z = a c z = a হলে x y z xyz x yz কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "1",
+      "option_c": "0",
+      "option_d": "-1",
+      "correct": "খ",
+      "explanation": "a x = b , b y = c , c z = a a^x = b, b^y = c, c^z = a a x = b , b y = c , c z = a বা, c x = b c^x = b c x = b বা, b x y z = b ∴ x y z = 1 b^{xyz} = b \\therefore xyz = 1 b x yz = b ∴ x yz = 1"
+    },
+    {
+      "number": "19",
+      "tag": "IC 25",
+      "question": "f ( x ) = ∣ x ∣ f(x) = |x| f ( x ) = ∣ x ∣ যখন − 5 ≤ x ≤ 5 -5 \\le x \\le 5 − 5 ≤ x ≤ 5 , f ( x ) f(x) f ( x ) এর রেঞ্জ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(0, 5)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "[0, 5]",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "(-5, 5)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "[-5, 5]",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(0, 5)",
+      "option_b": "[0, 5]",
+      "option_c": "(-5, 5)",
+      "option_d": "[-5, 5]",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "IC 25",
+      "question": "n C 3 = n C 4 ^nC_3 = ^nC_4 n C 3 ​ = n C 4 ​ হলে, n n n এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7",
+      "option_b": "5",
+      "option_c": "4",
+      "option_d": "3",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "IC 25",
+      "question": "( x 3 − 3 x 2 y + 3 x y 2 − y 3 ) 2 (x^3 - 3x^2y + 3xy^2 - y^3)^2 ( x 3 − 3 x 2 y + 3 x y 2 − y 3 ) 2 একটি দ্বিপদী রাশি। 21.1. উক্ত রাশিটির বিস্তৃতিতে পদ সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "5",
+      "option_c": "6",
+      "option_d": "7",
+      "correct": "ঘ",
+      "explanation": "( x 3 − 3 x 2 y + 3 x y 2 − y 3 ) 2 = { ( x − y ) 3 } 2 = ( x − y ) 6 (x^3-3x^2y + 3xy^2 - y^3)^2 = \\{(x - y)^3\\}^2 = (x - y)^6 ( x 3 − 3 x 2 y + 3 x y 2 − y 3 ) 2 = {( x − y ) 3 } 2 = ( x − y ) 6 ∴ \\therefore ∴ পদসংখ্যা = 6 + 1 = 7 = 6+1=7 = 6 + 1 = 7"
+    },
+    {
+      "number": "22",
+      "tag": "IC 25",
+      "question": "A ( 2 , 0 ) A(2, 0) A ( 2 , 0 ) এবং B ( 0 , 1 ) B(0, 1) B ( 0 , 1 ) দুইটি বিন্দু। 22.1. AB রেখার ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "2",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "IC 25",
+      "question": "2 3 x + 2 y − 5 = 0 2\\sqrt{3}x + 2y - 5 = 0 2 3 ​ x + 2 y − 5 = 0 রেখাটি x x x -অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "150 ∘ 150^{\\circ} 15 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_c": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_d": "150 ∘ 150^{\\circ} 15 0 ∘",
+      "correct": "গ",
+      "explanation": "2 3 x + 2 y − 5 = 0 2\\sqrt{3}x+2y-5=0 2 3 ​ x + 2 y − 5 = 0 বা, 2 y = − 2 3 x + 5 2y = - 2\\sqrt{3}x + 5 2 y = − 2 3 ​ x + 5 বা, y = − 3 x + 5 2 y = -\\sqrt{3}x + \\frac{5}{2} y = − 3 ​ x + 2 5 ​ ∴ \\therefore ∴ রেখাটির ঢাল, tan ⁡ θ = − 3 = − tan ⁡ 60 ∘ \\tan\\theta = -\\sqrt{3} = -\\tan60^\\circ tan θ = − 3 ​ = − tan 6 0 ∘ = tan ⁡ ( 180 ∘ − 60 ∘ ) = tan ⁡ 120 ∘ = \\tan(180^\\circ - 60^\\circ) = \\tan120^\\circ = tan ( 18 0 ∘ − 6 0 ∘ ) = tan 12 0 ∘ ∴ θ = 120 ∘ \\therefore \\theta = 120^\\circ ∴ θ = 12 0 ∘"
+    }
+  ]
+}

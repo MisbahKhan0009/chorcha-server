@@ -1,0 +1,997 @@
+{
+  "read_id": "nEs4qCWyUnvja1ZT",
+  "title": "ঢাকা বোর্ড ২০২২",
+  "count": 30,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CB 23,DB 22,DIN.B 22,BB 22,ISCD 23",
+      "question": "কোনো সহানুমানে ৩টির বেশি পদ থাকলে সেখানে কোন ধরনের অনুপপত্তি ঘটে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অব্যাপ্য মধ্যপনজনিত",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অবৈধ প্রধান পদজনিত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "চতুষ্পদী",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "অবৈধ অপ্রধান পদজনিত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অব্যাপ্য মধ্যপনজনিত",
+      "option_b": "অবৈধ প্রধান পদজনিত",
+      "option_c": "চতুষ্পদী",
+      "option_d": "অবৈধ অপ্রধান পদজনিত",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "DB 24,MB 24,CB 24,CTG.B 24,JB 24,BB 24,SB 24,MB 23,DIN.B 23,BB 23,CTG.B 23,CB 23,JB 23,SB 23,DB 22,MB 22,RB 22,DIN.B 22,CTG.B 22,CB 22,SB 22,MB 21,JB 21,BB 21,DIN.B 21,CB 21,SB 21,DB 19,RB 19,CTG.B 19,JB 19,BB 19,CB 19,DB 24,DRMC 24,ISCD 24,BAFSC 24,BMARPC 24,NDCD 23,DC 23,DRMC 23,VNSC 23,BMARPC 23,DIC 23,BAFSC 23,AKMCCN 23,ISCD 23,ISCM 23,GCPC 23,NDCM 23,CGC 23,BCPC 23,PLSCR 23,BGC 23",
+      "question": "E বাক্যকে আবর্তন করলে কোনটি পাওয়া যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "E",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "I",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "O",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A",
+      "option_b": "E",
+      "option_c": "I",
+      "option_d": "O",
+      "correct": "খ",
+      "explanation": "E-বাক্যকে আবর্তন (Conversion) করলে E-বাক্যই পাওয়া যায়। 1. E-বাক্যের গঠন : - E-বাক্য হলো সর্বব্যাপী নঞর্থক (Universal Negative), যার সাধারণ রূপ: - \"কোন S নয় P\" (উদাহরণ: \"কোন পাখি স্তন্যপায়ী নয়\")। 2. E-বাক্যের আবর্তন : - আবর্তনের সময় বাক্যের Subject (S) ও Predicate (P)-এর স্থান বিনিময় করা হয়। - E-বাক্য আবর্তনের নিয়ম: - মূল বাক্য: কোন S নয় P → আবর্তিত বাক্য: কোন P নয় S । - উদাহরণ: - মূল: \"কোন পাখি (S) স্তন্যপায়ী (P) নয়\" - আবর্তিত: \"কোন স্তন্যপায়ী (P) পাখি (S) নয়\"। 3. যুক্তিগত বৈধতা : - E-বাক্য আবর্তনের পরও E-বাক্য থাকে (সর্বব্যাপী নঞর্থক), অর্থাৎ E → E । - এটি সিদ্ধ (Valid) আবর্তন, কারণ উভয় বাক্যের অর্থ ও যৌক্তিকতা অপরিবর্তিত থাকে।"
+    },
+    {
+      "number": "3",
+      "tag": "DB 24,RB 24,CB 24,BB 24,SB 24,BB 23,JB 23,DB 22,RB 22,JB 22,DIN.B 22,BB 22,CB 22,DB 22,JB 21,BB 21,CTG.B 21,DIN.B 21,SB 21,RB 19,ISCM 24,ISCD 24,BAFSC 24,DC 23,BMARPC 23,BAFSC 23,ISCD 23,ISCM 23,NDCM 23,CGC 23,BCPC 23,CGCC 23,TGWC 23,BGC 23",
+      "question": "সহানুমানে প্রধান পদের অবস্থান কোথায়? i. প্রধান আশ্রয়বাক্যে ii. অপ্রধান আশ্রয়বাক্যে iii. সিদ্ধান্তের বিধেয়ে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "iও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "iও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "DB 22",
+      "question": "মেঘ ছাড়া বৃষ্টি হয় না\"- এখানে মেঘ হলো বৃষ্টির-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সদর্থক শর্ত",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নঞর্থক শর্ত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আবশ্যিক শর্ত",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "পর্যাপ্ত শর্ত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সদর্থক শর্ত",
+      "option_b": "নঞর্থক শর্ত",
+      "option_c": "আবশ্যিক শর্ত",
+      "option_d": "পর্যাপ্ত শর্ত",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "DB 24,RB 24,CB 24,JB 24,DB 23,BB 23,JB 23,DB 22,RB 22,CB 22,MB 21,BB 21,CB 21,SB 21,BMARPC 24,DC 23,CGC 23,CGCC 23,BGC 23,NDCD 24,LGC 23,JB 19",
+      "question": "কারণ হলো কার্যের— ii. অপরিবর্তনী পূর্ববর্তী ঘট ii. পরিবর্তনীয় পূর্ববর্তী ঘটনা iii. শর্তহীন পূর্ববর্তী ঘটনা নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "যুক্তিবিদ্যা ও দর্শনে কারণ (Cause) এবং কার্য (Effect) -এর সম্পর্ক বিশ্লেষণ করতে গেলে নিম্নোক্ত বৈশিষ্ট্যগুলি প্রযোজ্য: 1. অপরিবর্তনী পূর্ববর্তী ঘটনা (i): - কারণ হলো এমন একটি ঘটনা যা অপরিহার্যভাবে কার্যের জন্ম দেয় এবং পরিবর্তন হয় না । - উদাহরণ: আগুনের সংস্পর্শে কাগজ পোড়া (আগুন ছাড়া কাগজ পোড়ে না)। 2. শর্তহীন পূর্ববর্তী ঘটনা (iii): - কারণ কার্যের জন্য শর্তহীন (Unconditional) পূর্বপ্রস্তুতিকারী। - উদাহরণ: মৃত্যুর কারণ হিসেবে বিষক্রিয়া (এটি কোনো অতিরিক্ত শর্ত ছাড়াই কার্য সৃষ্টি করে)। 3. পরিবর্তনীয় পূর্ববর্তী ঘটনা (ii) বাতিলের কারণ: - কারণ যদি পরিবর্তনশীল হয়, তবে তা কার্যের নিশ্চিত উৎপাদক হতে পারে না। যুক্তিবিদ্যায় কারণকে সাধারণত স্থির ও অপরিবর্তনীয় হিসেবেই বিবেচনা করা হয়।"
+    },
+    {
+      "number": "6",
+      "tag": "DB 22",
+      "question": "“কারণ হলো সদর্থক ও নঞর্থক শর্তসমূহের সমষ্টি।”— এটি কার সংজ্ঞা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "এরিস্টটল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কার্ডের রীড",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বেইন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মিল",
+          "is_correct": true
+        }
+      ],
+      "option_a": "এরিস্টটল",
+      "option_b": "কার্ডের রীড",
+      "option_c": "বেইন",
+      "option_d": "মিল",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "DB 22,JB 22,MB 21,JB 21,DCC 24,BMARPC 24,AKMCCN 23,PLSCR 23",
+      "question": "কার্য সংমিশ্রণ কয় প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "ক",
+      "explanation": "কার্য সংমিশ্রণ দুই প্রকারের হয়। এই প্রকারগুলি সরাসরি সাপোর্টিং ডিটেইলসে উল্লেখ করা না হলেও, কাজের প্রকৃতি এবং সমন্বয়ের ধারণার ওপর ভিত্তি করে এটি অনুমেয়। সাপোর্টিং ডিটেইলসে \"কার্য বিভাজন\" এবং \"কার্যভিত্তিক সংগঠন\"-এর কথা বলা হয়েছে, যা দুটি ভিন্ন ধরণের কার্য সংমিশ্রণের ইঙ্গিত দেয়।"
+    },
+    {
+      "number": "8",
+      "tag": "DB 22",
+      "question": "A, E. 1. O, - সূত্রের প্রবক্তা কে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "এল.এস. স্টেবিং",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "জন মিল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "জর্জ বুল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সুইনবান",
+          "is_correct": true
+        }
+      ],
+      "option_a": "এল.এস. স্টেবিং",
+      "option_b": "জন মিল",
+      "option_c": "জর্জ বুল",
+      "option_d": "সুইনবান",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "DB 22,ISCD 23",
+      "question": "সব কয়লা হয় জড় পদার্থ সব পাথর হয় জড় পদার্থ সব কয়লা হয় পাথর । উদ্দীপকে কোন ধরনের অনুপপত্তি ঘটেছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অব্যাপ্য মধ্যপদজনিত",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "অবৈধ অপ্রধান পদজনিত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অবৈধ প্রধান পদজনিত",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুষ্পদী অনুপপত্তি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অব্যাপ্য মধ্যপদজনিত",
+      "option_b": "অবৈধ অপ্রধান পদজনিত",
+      "option_c": "অবৈধ প্রধান পদজনিত",
+      "option_d": "চতুষ্পদী অনুপপত্তি",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "DB 22,DCC 24",
+      "question": "কোনটি আরোহের স্তর নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সংজ্ঞা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "পর্যবেক্ষণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্রকল্প প্রণয়ন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আরোহ সমন্বয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সংজ্ঞা",
+      "option_b": "পর্যবেক্ষণ",
+      "option_c": "প্রকল্প প্রণয়ন",
+      "option_d": "আরোহ সমন্বয়",
+      "correct": "ক",
+      "explanation": "আরোহ পদ্ধতি (Inductive method)-এর স্তরগুলো সাধারণত নিচের মতোঃ 1. পর্যবেক্ষণ 2. তথ্য সংগ্রহ 3. পরিসমীক্ষণ / তুলনা 4. আরোহ সমন্বয় 5. প্রকল্প প্রণয়ন / সিদ্ধান্তে উপনীত হওয়া “সংজ্ঞা” হলো কোনো ধারণা বা বস্তু সম্পর্কে পূর্বনির্ধারিত স্পষ্ট ব্যাখ্যা, যা সাধারণত সিদ্ধান্ত বা তত্ত্ব প্রতিষ্ঠার পর তৈরি হয়। এটি আরোহ পদ্ধতির স্তর নয়, বরং সিদ্ধান্তের পরে ব্যবহৃত একটি উপাদান। তাই সঠিক উত্তর: ক — সংজ্ঞা।"
+    },
+    {
+      "number": "11",
+      "tag": "DB 22",
+      "question": "বৈধ যুক্তি হতে অবৈধ যুক্তিকে পৃথক করার নীতি ও পদ্ধতিকে যুক্তিবিদ্যা বলে — উক্তিটি কার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "এরিস্টটল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "জে.এস.মিল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আই.এম.কপি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "যোসেফ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "এরিস্টটল",
+      "option_b": "জে.এস.মিল",
+      "option_c": "আই.এম.কপি",
+      "option_d": "যোসেফ",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "DB 22",
+      "question": "অর্গানন' (Organon) গ্রন্থের লেখক কে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্টেবিং",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "যোসেফ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্লেটো",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "এরিস্টটল",
+          "is_correct": true
+        }
+      ],
+      "option_a": "স্টেবিং",
+      "option_b": "যোসেফ",
+      "option_c": "প্লেটো",
+      "option_d": "এরিস্টটল",
+      "correct": "ঘ",
+      "explanation": "অর্গানন (Organon) গ্রন্থের লেখক এরিস্টটল। এটি যুক্তিবিদ্যার ওপর তার মৌলিক কাজ এবং যুক্তির তত্ত্বের ভিত্তি হিসেবে পরিচিত।"
+    },
+    {
+      "number": "13",
+      "tag": "DB 22",
+      "question": "নিচের কোনটিকে সকল কলার সেরা কলা বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নীতিবিজ্ঞান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "যুক্তিবিদ্যা",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "মনোবিজ্ঞান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "জ্যোতির্বিজ্ঞান",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নীতিবিজ্ঞান",
+      "option_b": "যুক্তিবিদ্যা",
+      "option_c": "মনোবিজ্ঞান",
+      "option_d": "জ্যোতির্বিজ্ঞান",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "RB 24,JB 24,MB 23,BB 23,JB 23,DB 22,CTG.B 22,CB 22,SB 21,DIN.B 19,NDCD 24,HC 24,ISCD 24,HC 23,DIC 23,MGMC 23,MGMC 23,BGC 23",
+      "question": "Logic শব্দটি কোন শব্দ থেকে এসেছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Logis",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Logic",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Logos",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Logike",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Logis",
+      "option_b": "Logic",
+      "option_c": "Logos",
+      "option_d": "Logike",
+      "correct": "গ",
+      "explanation": "Logic শব্দটি গ্রিক শব্দ Logosথেকে এসেছে। ​এই শব্দটি ইংরেজি ভাষায় প্রবেশ করার আগে গ্রিক ভাষার (Logike) শব্দের মাধ্যমে এর প্রচলন শুরু হয়, যার অর্থ মূলত 'বুদ্ধিবৃত্তিক বা যুক্তিসঙ্গত' বিষয় সংক্রান্ত। logos শব্দটির মূল অর্থ হলো 'শব্দ', 'বক্তৃতা', 'কারণ', 'নীতি' বা 'যুক্তি'।"
+    },
+    {
+      "number": "15",
+      "tag": "DB 22",
+      "question": "রাহাত সকালে ঘুম থেকে উঠে মাঠে গিয়ে দেখে মাঠ ভেজা এবং সবগুলো ফসল দুমড়ে-মুচড়ে পড়ে আছে। এ অবস্থা দেখে সে ধারণা করলো রাতে বৃষ্টির পাশাপাশি ঝড় বয়ে গেছে। উদ্দীপকে যে বিষয়ের প্রতিফলন ঘটেছে তা নিচেরন কোন বিষয়ের সাথে সম্পর্কিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সৌন্দর্যবিদ্যা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নীতিবিদ্যা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মনোবিদ্যা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "যুক্তিবিদ্যা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সৌন্দর্যবিদ্যা",
+      "option_b": "নীতিবিদ্যা",
+      "option_c": "মনোবিদ্যা",
+      "option_d": "যুক্তিবিদ্যা",
+      "correct": "ঘ",
+      "explanation": "উদ্দীপকে রাহাত মাঠে গিয়ে পর্যবেক্ষণ করে এবং তারপর সে রাতে বৃষ্টি ও ঝড় হয়েছে বলে ধারণা করে । এখানে সে কিছু প্রমাণ (মাঠ ভেজা, ফসল দুমড়ানো) দেখে একটি যুক্তিসঙ্গত সিদ্ধান্তে পৌঁছায় । এটি যুক্তি প্রয়োগ বা যুক্তিনির্ভর বিশ্লেষণ – অর্থাৎ, যুক্তিবিদ্যার (logic) প্রতিফলন। সঠিক উত্তর: ঘ. যুক্তিবিদ্যা ব্যাখ্যা: যুক্তিবিদ্যা এমন এক শাস্ত্র যেখানে কোনো কিছুর পর্যবেক্ষণ বা প্রমাণের ভিত্তিতে সিদ্ধান্ত গ্রহণ করা হয়। রাহাতের সিদ্ধান্ত একটি যুক্তিসঙ্গত অনুমান — এটি আনুমানিক সিদ্ধান্ত (inference), যা যুক্তিবিদ্যার আওতাধীন।"
+    },
+    {
+      "number": "16",
+      "tag": "DB 22",
+      "question": "রাহাত সকালে ঘুম থেকে উঠে মাঠে গিয়ে দেখে মাঠ ভেজা এবং সবগুলো ফসল দুমড়ে-মুচড়ে পড়ে আছে। এ অবস্থা দেখে সে ধারণা করলো রাতে বৃষ্টির পাশাপাশি ঝড় বয়ে গেছে। রাহাতের সিদ্ধান্ত নেয়ার প্রক্রিয়াটি কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "চিন্তন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অবধারণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অনুমান",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "কল্পনা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "চিন্তন",
+      "option_b": "অবধারণ",
+      "option_c": "অনুমান",
+      "option_d": "কল্পনা",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "DB 24,MB 24,RB 24,DIN.B 24,JB 24,BB 24,SB 24,DB 23,RB 23,CTG.B 23,JB 23,SB 23,DB 22,RB 22,JB 22,DIN.B 22,BB 22,CB 22,SB 22,DB 22,MB 21,BB 21,DIN.B 21,RB 19,CTG.B 19,JB 19,BB 19,DIN.B 19,CB 19,SB 19,DB 24,DCC 24,NDCD 24,HC 24,ISCM 24,BAFSC 24,BMARPC 24,BNMPC 24,VNSC 23,BAFSC 23,AKMCCN 23,ISCD 23,ISCM 23,MGMC 23,NDCM 23,CGC 23,BCPC 23,MGMC 23,CCJ 23,CGCC 23,PLSCR 23,TGWC 23,BGC 23",
+      "question": "গুণ অনুসা। যুক্তিবাক্য কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "ক",
+      "explanation": "গুণ অনুসারে যুক্তিবাক্য ২ প্রকার।"
+    },
+    {
+      "number": "18",
+      "tag": "DB 22",
+      "question": "Term' শব্দটি কোন ভাষা হতে উদ্ভূত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "গ্রিক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ল্যাটিন",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "রোমান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "স্প্যানিশ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "গ্রিক",
+      "option_b": "ল্যাটিন",
+      "option_c": "রোমান",
+      "option_d": "স্প্যানিশ",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "DB 22",
+      "question": "রীতা বললো, “সকল কাক হয় কালো।” এ কথা শুনে সোহা বললো, “কিছু কিছু বক হয় সাদা।” উদ্দীপকে রীতার বক্তব্য দ্বারা কোন ধরনের যুক্তিবাক্যের প্রতিফলন ঘটেছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "E",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "I",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "O",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A",
+      "option_b": "E",
+      "option_c": "I",
+      "option_d": "O",
+      "correct": "ক",
+      "explanation": "উদ্দীপকটি রীতার বক্তব্যে একটি সাধারণ অনুমান বা যুক্তিবাক্য প্রকাশ করছে, যা সাধারণত A ধরনের যুক্তিবাক্যের অন্তর্ভুক্ত। এটি একটি সর্বজনীন বিধান যা বলে \"সকল কাক কালো হয়,\" যা একটি সাধারণ সত্যকে প্রকাশ করে, এবং এ ধরনের বাক্যকে সাধারণত A (Universal Affirmative) বলা হয়। অতএ"
+    },
+    {
+      "number": "20",
+      "tag": "DB 22",
+      "question": "রীতা বললো, “সকল কাক হয় কালো।” এ কথা শুনে সোহা বললো, “কিছু কিছু বক হয় সাদা।” ব্যাপ্যতার দিক হতে রীতা ও সোহার বক্তব্যের উদ্দেশ্য পদের অবস্থান কীরূপ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ব্যাপ্য > ব্যাপ্য",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অব্যাপ্য > ব্যাপ্য",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ব্যাপ্য > অব্যাপ্য",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "অব্যাপ্য > অব্যাপ্য",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ব্যাপ্য > ব্যাপ্য",
+      "option_b": "অব্যাপ্য > ব্যাপ্য",
+      "option_c": "ব্যাপ্য > অব্যাপ্য",
+      "option_d": "অব্যাপ্য > অব্যাপ্য",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "DB 22",
+      "question": "যে পদ অর্থ প্রকাশের জন্য অন্য পদের উপর নির্ভরশীল তাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নিরপেক্ষ পদ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সাপেক্ষ পদ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বস্তুবাচক পদ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "গুণবাচক পদ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নিরপেক্ষ পদ",
+      "option_b": "সাপেক্ষ পদ",
+      "option_c": "বস্তুবাচক পদ",
+      "option_d": "গুণবাচক পদ",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "DB 24,MB 24,CB 24,CTG.B 24,JB 24,BB 24,SB 24,MB 23,DIN.B 23,BB 23,CTG.B 23,CB 23,JB 23,SB 23,DB 22,MB 22,RB 22,DIN.B 22,CTG.B 22,CB 22,SB 22,MB 21,JB 21,BB 21,DIN.B 21,CB 21,SB 21,DB 19,RB 19,CTG.B 19,JB 19,BB 19,CB 19,DB 24,DRMC 24,ISCD 24,BAFSC 24,BMARPC 24,NDCD 23,DC 23,DRMC 23,VNSC 23,BMARPC 23,DIC 23,BAFSC 23,AKMCCN 23,ISCD 23,ISCM 23,GCPC 23,NDCM 23,CGC 23,BCPC 23,PLSCR 23,BGC 23",
+      "question": "E বাক্যকে আবর্তন করলে কোনটি পাওয়া যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "E",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "I",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "O",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A",
+      "option_b": "E",
+      "option_c": "I",
+      "option_d": "O",
+      "correct": "গ",
+      "explanation": "E-বাক্যকে আবর্তন (Conversion) করলে E-বাক্যই পাওয়া যায়। 1. E-বাক্যের গঠন : - E-বাক্য হলো সর্বব্যাপী নঞর্থক (Universal Negative), যার সাধারণ রূপ: - \"কোন S নয় P\" (উদাহরণ: \"কোন পাখি স্তন্যপায়ী নয়\")। 2. E-বাক্যের আবর্তন : - আবর্তনের সময় বাক্যের Subject (S) ও Predicate (P)-এর স্থান বিনিময় করা হয়। - E-বাক্য আবর্তনের নিয়ম: - মূল বাক্য: কোন S নয় P → আবর্তিত বাক্য: কোন P নয় S । - উদাহরণ: - মূল: \"কোন পাখি (S) স্তন্যপায়ী (P) নয়\" - আবর্তিত: \"কোন স্তন্যপায়ী (P) পাখি (S) নয়\"। 3. যুক্তিগত বৈধতা : - E-বাক্য আবর্তনের পরও E-বাক্য থাকে (সর্বব্যাপী নঞর্থক), অর্থাৎ E → E । - এটি সিদ্ধ (Valid) আবর্তন, কারণ উভয় বাক্যের অর্থ ও যৌক্তিকতা অপরিবর্তিত থাকে।"
+    },
+    {
+      "number": "23",
+      "tag": "DB 22",
+      "question": "উদ্দীপকের স্তম্ভ-২ দ্বারা কী নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জাতি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "অবর উপজাতি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমজাতীয় উপজাতি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অপরতম উপজাতি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "জাতি",
+      "option_b": "অবর উপজাতি",
+      "option_c": "সমজাতীয় উপজাতি",
+      "option_d": "অপরতম উপজাতি",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "DB 22",
+      "question": "উদ্দীপকে স্তম্ভ-১ ও স্তম্ভ-২ এর সম্পর্ক কীরূপ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জাতি – উপজাতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "উপলক্ষণ – বিভেদক লক্ষণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অবান্তর লক্ষণ – বিভেদক লক্ষণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "উপলক্ষণ অবান্তর লক্ষণ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "জাতি – উপজাতি",
+      "option_b": "উপলক্ষণ – বিভেদক লক্ষণ",
+      "option_c": "অবান্তর লক্ষণ – বিভেদক লক্ষণ",
+      "option_d": "উপলক্ষণ অবান্তর লক্ষণ",
+      "correct": "ঘ",
+      "explanation": "পরফিরির মতে, বিধেয়ক পাঁচ প্রকার। এই পাঁচটি বিধেয়ক হলো: জাতি (Genus), উপজাতি (Species), বিভেদক লক্ষণ (Differentia), উপলক্ষণ (Proprium) এবং অবান্তর লক্ষণ (Accidens)।"
+    },
+    {
+      "number": "25",
+      "tag": "DB 24,RB 24,DIN.B 24,SB 24,MB 23,CB 23,DB 22,RB 22,All.B 18,DRMC 24,NDCD 23,DRMC 23,ISCD 23,AHC 23",
+      "question": "পরফিরির মতে বিধেয়ক কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "26",
+      "tag": "DB 22,ISCD 24,ISCD 23",
+      "question": "বিচারক্ষমতা' কোন ধরনের বিধেয়ককে নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জাতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "উপজাতি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "উপলক্ষণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অবান্তর লক্ষণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "জাতি",
+      "option_b": "উপজাতি",
+      "option_c": "উপলক্ষণ",
+      "option_d": "অবান্তর লক্ষণ",
+      "correct": "খ",
+      "explanation": "প্রথম বাক্যটি, \"রহিমের জন্ম ১৯৯৫ সালের জুন মাসে,\" একটি সময়কালকে নির্দেশ করে যা তাকে একটি নির্দিষ্ট বয়স বা প্রজন্মের শ্রেণিতে ফেলতে সাহায্য করে। অর্থাৎ, এটি একটি জনসংখ্যাতাত্ত্বিক শ্রেণিকরণ (শ্রেণিগত)। অন্যদিকে, দ্বিতীয় বাক্যটি, \"সে অত্যন্ত বিনয়ী, পোশাক-পরিচ্ছদে অনেক মার্জিত,\" রহিমের ব্যক্তিগত গুণাবলী, আচরণ এবং রুচিকে তুলে ধরে। এগুলো তার নিজস্ব বৈশিষ্ট্য, যা ব্যক্তিগত পর্যায়ের সাথে সম্পর্কিত।"
+    },
+    {
+      "number": "27",
+      "tag": "DB 22",
+      "question": "রহিমের জন্ম ১৯৯৫ সালের জুন মাসে। সে অত্যন্ত বিনয়ী, পোশাক-পরিচ্ছদে অনেক মার্জিত। উদ্দীপকে ১ম ও ২য় বাক্যে উল্লেখিত অবান্তর লক্ষণের মধ্যে পার্থক্য কীসে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১ম টি ব্যক্তিগত-২য় টি শ্রেণিগত",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "১ম টি শ্রেণিগত ২য় টি ব্যক্তিগত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১ম টি বিচ্ছেদ্য ২য় টি অবিচ্ছেদ্য",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১ম টি অবিচ্ছেদ্য ২য় টি বিচ্ছেদ্য",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১ম টি ব্যক্তিগত-২য় টি শ্রেণিগত",
+      "option_b": "১ম টি শ্রেণিগত ২য় টি ব্যক্তিগত",
+      "option_c": "১ম টি বিচ্ছেদ্য ২য় টি অবিচ্ছেদ্য",
+      "option_d": "১ম টি অবিচ্ছেদ্য ২য় টি বিচ্ছেদ্য",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "28",
+      "tag": "DB 22",
+      "question": "রহিমের জন্ম ১৯৯৫ সালের জুন মাসে। সে অত্যন্ত বিনয়ী, পোশাক-পরিচ্ছদে অনেক মার্জিত। উদ্দীপকে ১ম ও ২য় বাক্যে উল্লেখিত অবান্তর লক্ষণের মধ্যে পার্থক্য কীসে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১ম টি ব্যক্তিগত-২য় টি শ্রেণিগত",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "১ম টি শ্রেণিগত ২য় টি ব্যক্তিগত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১ম টি বিচ্ছেদ্য ২য় টি অবিচ্ছেদ্য",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১ম টি অবিচ্ছেদ্য ২য় টি বিচ্ছেদ্য",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১ম টি ব্যক্তিগত-২য় টি শ্রেণিগত",
+      "option_b": "১ম টি শ্রেণিগত ২য় টি ব্যক্তিগত",
+      "option_c": "১ম টি বিচ্ছেদ্য ২য় টি অবিচ্ছেদ্য",
+      "option_d": "১ম টি অবিচ্ছেদ্য ২য় টি বিচ্ছেদ্য",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "29",
+      "tag": "DB 22,ISCD 24",
+      "question": "নিচের কোনটি অনুমানমূলক চিন্তা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কারো মুখ গম্ভীর দেখে মনে মনে ভাবা তার মন খারাপ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "পাখি দেখে ভাবা পাখিটি সুন্দর",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ক্লাসে বসে অসুস্থ মা সম্পর্কে চিন্তা করা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ক্লাসে বসে ভবিষ্যতে আইনজীবী হওয়ার স্বপ্ন দেখা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কারো মুখ গম্ভীর দেখে মনে মনে ভাবা তার মন খারাপ",
+      "option_b": "পাখি দেখে ভাবা পাখিটি সুন্দর",
+      "option_c": "ক্লাসে বসে অসুস্থ মা সম্পর্কে চিন্তা করা",
+      "option_d": "ক্লাসে বসে ভবিষ্যতে আইনজীবী হওয়ার স্বপ্ন দেখা",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "30",
+      "tag": "DB 22,SB 22,DB 22,DCC 24,ISCD 24,VNSC 23,ISCD 23,PLSCR 23,TGWC 23,CPSCR 23",
+      "question": "অনুমান প্রধানত কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "দুই",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "তিন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "চার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পাঁচ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "দুই",
+      "option_b": "তিন",
+      "option_c": "চার",
+      "option_d": "পাঁচ",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

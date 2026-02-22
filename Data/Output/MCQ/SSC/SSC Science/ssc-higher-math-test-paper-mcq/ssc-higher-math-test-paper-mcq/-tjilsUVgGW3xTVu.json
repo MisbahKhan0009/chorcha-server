@@ -1,0 +1,832 @@
+{
+  "read_id": "-tjilsUVgGW3xTVu",
+  "title": "চটগ্রাম বোর্ড ২০২৩",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CTG.B 23,DB 22",
+      "question": "( x − 1 x ) 6 \\left(x-\\frac{1}{x}\\right)^{6} ( x − x 1 ​ ) 6 এর বিস্তৃতিতে- i. পদসংখ্যা 7 ii. ৩য় পদ 15 x 2 15 \\mathrm{x}^{2} 15 x 2 iii. x x x মুক্ত পদ 20 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "( r + 1 ) (r+1) ( r + 1 ) তম পদ x x x মুক্ত হলে, ( r + 1 ) (r+1) ( r + 1 ) তম পদ = 6 C r x 6 − r ( − 1 x ) r = 6 C r x 6 − r − r ( − 1 ) r ={ }^{6} C_{r} x^{6-r}\\left(-\\frac{1}{x}\\right)^{r}={ }^{6} C_{r} x^{6-r-r}(-1)^{r} = 6 C r ​ x 6 − r ( − x 1 ​ ) r = 6 C r ​ x 6 − r − r ( − 1 ) r শর্তমতে, 6 − 2 r = 0 ∴ r = 3 6-2 \\mathrm{r}=0 \\therefore \\mathrm{r}=3 6 − 2 r = 0 ∴ r = 3 ∴ ( 3 + 1 ) \\therefore(3+1) ∴ ( 3 + 1 ) তম পদ = 6 C 3 ( − 1 ) 3 = − 20 ={ }^{6} \\mathrm{C}_{3}(-1)^{3}=-20 = 6 C 3 ​ ( − 1 ) 3 = − 20 ∴ \\therefore ∴ (iii) নং তথ্যটি সঠিক নয়।"
+    },
+    {
+      "number": "2",
+      "tag": "CTG.B 23",
+      "question": "(2, 3) এবং (t, 5) বিন্দুগামী রেখাদ্বয়ের ঢাল - 2 হলে, t এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "-1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "2",
+      "option_c": "1",
+      "option_d": "-1",
+      "correct": "গ",
+      "explanation": "ঢাল  = − 2 ⇒ 5 − 3 t − 2 = − 2 ⇒ 2 = − 2 ( t − 2 ) ⇒ t − 2 = 2 − 2 = − 1 ⇒ t = − 1 + 2 = 1 ∴ t = 1 \\begin{array}{l}\\text { ঢাল }=-2 \\\\ \\Rightarrow \\frac{5-3}{t-2}=-2 \\\\ \\Rightarrow \\quad 2=-2(t-2) \\\\ \\Rightarrow \\quad t-2=\\frac{2}{-2}=-1 \\\\ \\Rightarrow \\quad t=-1+2=1 \\\\ \\quad \\therefore t=1\\end{array}   ঢাল   = − 2 ⇒ t − 2 5 − 3 ​ = − 2 ⇒ 2 = − 2 ( t − 2 ) ⇒ t − 2 = − 2 2 ​ = − 1 ⇒ t = − 1 + 2 = 1 ∴ t = 1 ​"
+    },
+    {
+      "number": "3",
+      "tag": "CTG.B 23",
+      "question": "(3, 3) এবং (4, 4) বিন্দুগামী রেখা অক্ষের ধনাত্মক দিকে কত ডিগ্রি কোণ উৎপন্ন করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45 0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "48 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "135 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "45 0",
+      "option_b": "48 0",
+      "option_c": "60 0",
+      "option_d": "135 0",
+      "correct": "ক",
+      "explanation": "ঢাল = tan ⁡ θ ∴ tan ⁡ θ = 4 − 3 4 − 3 ⇒ tan ⁡ θ = 1 ⇒ tan ⁡ θ = tan ⁡ 45 ∘ θ = 45 ∘ \\begin{aligned} \\text { ঢাল} & =\\tan \\theta \\\\ \\therefore \\tan \\theta & =\\frac{4-3}{4-3} \\\\ \\Rightarrow \\tan \\theta & =1 \\\\ \\Rightarrow \\tan \\theta & =\\tan 45^{\\circ} \\\\ \\theta & =45^{\\circ} \\end{aligned}   ঢাল ∴ tan θ ⇒ tan θ ⇒ tan θ θ ​ = tan θ = 4 − 3 4 − 3 ​ = 1 = tan 4 5 ∘ = 4 5 ∘ ​ ∴ \\therefore ∴ উৎপন্ন কোন 45 ∘ 45^{\\circ} 4 5 ∘"
+    },
+    {
+      "number": "4",
+      "tag": "CTG.B 23",
+      "question": "(7, -6) এবং (-9, -4) বিন্দুগামী রেখার ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "- 1/8",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-8",
+      "option_b": "- 1/8",
+      "option_c": "5",
+      "option_d": "8",
+      "correct": "খ",
+      "explanation": "দুটি বিন্দু ( x 1 , y 1 ) = ( 7 , − 6 ) (x_1, y_1) = (7, -6) ( x 1 ​ , y 1 ​ ) = ( 7 , − 6 ) এবং ( x 2 , y 2 ) = ( − 9 , − 4 ) (x_2, y_2) = (-9, -4) ( x 2 ​ , y 2 ​ ) = ( − 9 , − 4 ) দিয়ে গঠিত রেখার ঢাল: m = y 2 − y 1 x 2 − x 1 m = \\frac{y_2 - y_1}{x_2 - x_1} m = x 2 ​ − x 1 ​ y 2 ​ − y 1 ​ ​ m = − 4 − ( − 6 ) − 9 − 7 m = \\frac{-4 - (-6)}{-9 - 7} m = − 9 − 7 − 4 − ( − 6 ) ​ m = − 4 + 6 − 16 m = \\frac{-4 + 6}{-16} m = − 16 − 4 + 6 ​ m = 2 − 16 m = \\frac{2}{-16} m = − 16 2 ​ m = − 1 8 m = -\\frac{1}{8} m = − 8 1 ​"
+    },
+    {
+      "number": "5",
+      "tag": "CTG.B 25,MB 24,SB 24,JGCC 24,CPSCR 24,BMARPC 24,RCS 24,DB 23,MB 23,CTG.B 23,DB 22,CB 22,SB 22,JB 22,MB 20,RB 20,RB 19,CB 19,All.B 18",
+      "question": "একটি নিরপেক্ষ ছক্কা একবার নিক্ষেপ করা হলে প্রাপ্ত সংখ্যাটি জোড় কিন্তু 6 দ্বারা বিভাজ্য না হওয়ার সম্ভাবনা কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "5 6 \\frac{5}{6} 6 5 ​",
+      "correct": "খ",
+      "explanation": "প্রথমে, ছক্কার সম্ভাব্য ফলাফল: S = { 1 , 2 , 3 , 4 , 5 , 6 } S = \\{1, 2, 3, 4, 5, 6\\} S = { 1 , 2 , 3 , 4 , 5 , 6 } মোট সম্ভাব্য ফলাফলের সংখ্যা n ( S ) = 6 n(S) = 6 n ( S ) = 6 জোড় সংখ্যাগুলো হলো: { 2 , 4 , 6 } \\{2, 4, 6\\} { 2 , 4 , 6 } । এদের মধ্যে 6 হলো 6 দ্বারা বিভাজ্য। তাই জোড় কিন্তু 6 দ্বারা বিভাজ্য নয় এমন সংখ্যাগুলো হলো: { 2 , 4 } \\{2, 4\\} { 2 , 4 } । অনুকূল ফলাফলের সংখ্যা n ( A ) = 2 n(A) = 2 n ( A ) = 2 সুতরাং সম্ভাবনা: P ( A ) = n ( A ) n ( S ) = 2 6 = 1 3 P(A) = \\frac{n(A)}{n(S)} = \\frac{2}{6} = \\frac{1}{3} P ( A ) = n ( S ) n ( A ) ​ = 6 2 ​ = 3 1 ​"
+    },
+    {
+      "number": "6",
+      "tag": "CB 23,DIN.B 19,SB 19,JB 19",
+      "question": "একটি নিরপেক্ষ মুদ্রা তিনবার নিক্ষেপ করা হল। দুইটি টেল পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 8 \\frac{3}{8} 8 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "7 8 \\frac{7}{8} 8 7 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "3 8 \\frac{3}{8} 8 3 ​",
+      "option_d": "7 8 \\frac{7}{8} 8 7 ​",
+      "correct": "গ",
+      "explanation": "মোট নমুনা বিন্দু = 8টি 2টি টেল পাওয়া বিন্দু = 3টি সম্ভাবনা = 3 8 \\frac{3}{8} 8 3 ​"
+    },
+    {
+      "number": "7",
+      "tag": "CB 20,DIN.B 19",
+      "question": "একটি মুদ্রা তিন বার নিক্ষেপ করা হল। দুটি T ও একটি H পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 8 \\frac{3}{8} 8 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 8 \\frac{5}{8} 8 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_c": "3 8 \\frac{3}{8} 8 3 ​",
+      "option_d": "5 8 \\frac{5}{8} 8 5 ​",
+      "correct": "গ",
+      "explanation": "একটি মুদ্রা তিনবার নিক্ষেপ করলে মোট সম্ভাব্য ফলাফল ৮টি: HHH, HHT, HTH, HTT, THH, THT, TTH, TTT।  এর মধ্যে দুটি টেল ও একটি হেড আছে এমন ফলাফল হলো: HTT, THT, TTH।  সুতরাং, দুটি টেল ও একটি হেড পাওয়ার সম্ভাবনা = (দুটি টেল ও একটি হেড আছে এমন ফলাফলের সংখ্যা) / (মোট সম্ভাব্য ফলাফল) = 3/8"
+    },
+    {
+      "number": "8",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "9",
+      "tag": "CTG.B 23",
+      "question": "2 2 x + 3 − 2 x + 2 = 112 2^{2 x+3}-2^{x+2}=112 2 2 x + 3 − 2 x + 2 = 112 হলে, x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7 2 \\frac{7}{2} 2 7 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "− 7 2 -\\frac{7}{2} − 2 7 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "7 2 \\frac{7}{2} 2 7 ​",
+      "option_c": "2",
+      "option_d": "− 7 2 -\\frac{7}{2} − 2 7 ​",
+      "correct": "গ",
+      "explanation": "2 2 x + 3 − 2 x + 2 = 112 2^{2 x+3}-2^{x+2}=112 2 2 x + 3 − 2 x + 2 = 112 বা, 2 2 x ⋅ 2 3 − 2 x ⋅ 2 2 = 112 2^{2 x} \\cdot 2^{3}-2^{x} \\cdot 2^{2}=112 2 2 x ⋅ 2 3 − 2 x ⋅ 2 2 = 112 বা, 8 a 2 − 4 a − 112 = 0 8 a^{2}-4 a-112=0 \\quad 8 a 2 − 4 a − 112 = 0 [ 2 x = a 2^{x}=a 2 x = a ধরে] বা, 2 a 2 − a − 28 = 0 2 \\mathrm{a}^{2}-\\mathrm{a}-28=0 2 a 2 − a − 28 = 0 বা, 2 a 2 − 8 a + 7 a − 28 = 0 2 \\mathrm{a}^{2}-8 \\mathrm{a}+7 \\mathrm{a}-28=0 2 a 2 − 8 a + 7 a − 28 = 0 বা, ( a − 4 ) ( 2 a + 7 ) = 0 ∴ a = 4 (a-4)(2 a+7)=0 \\therefore a=4 ( a − 4 ) ( 2 a + 7 ) = 0 ∴ a = 4 অথবা, a = − 7 2 a=-\\frac{7}{2} a = − 2 7 ​ a = 4 a=4 a = 4 হনে, 2 x = 4 = 2 2 ∴ x = 2 2^{x}=4=2^{2} \\therefore x=2 2 x = 4 = 2 2 ∴ x = 2"
+    },
+    {
+      "number": "10",
+      "tag": "CTG.B 23",
+      "question": "a 4 = b 3 = c 2 = 64  হলে-  a^{4}=b^{3}=c^{2}=64 \\text { হলে- } a 4 = b 3 = c 2 = 64   হলে -  i. a = ± 2 2 a= \\pm 2 \\sqrt{2} a = ± 2 2 ​ ii. b = ± 4 b= \\pm 4 b = ± 4 iii. c = ± 8 c= \\pm 8 c = ± 8 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "১. a a a এর মান নির্ণয়: a 4 = 64 ⟹ a = 64 1 4 64 = 2 6 ⟹ 64 1 4 = 2 6 4 = 2 3 2 = 2 2 \\begin{array}{c} a^{4}=64 \\Longrightarrow a=64^{\\frac{1}{4}} \\\\ 64=2^{6} \\Longrightarrow 64^{\\frac{1}{4}}=2^{\\frac{6}{4}}=2^{\\frac{3}{2}}=2 \\sqrt{2} \\end{array} a 4 = 64 ⟹ a = 6 4 4 1 ​ 64 = 2 6 ⟹ 6 4 4 1 ​ = 2 4 6 ​ = 2 2 3 ​ = 2 2 ​ ​ এছাড়াও, a 4 = 64 a^{4}=64 a 4 = 64 হলে a = ± 2 3 2 = ± 2 2 a= \\pm 2^{\\frac{3}{2}}= \\pm 2 \\sqrt{2} a = ± 2 2 3 ​ = ± 2 2 ​ তাই, a = ± 2 2 a= \\pm 2 \\sqrt{2} a = ± 2 2 ​ ২. b b b এর মান নির্ণয়: b 3 = 64 ⟹ b = 64 1 3 = 4 b^{3}=64 \\Longrightarrow b=64^{\\frac{1}{3}}=4 b 3 = 64 ⟹ b = 6 4 3 1 ​ = 4 এখানে b b b এর একমাত্র বাস্তব মান 4 (যেহেতু ( − 4 ) 3 = − 64 ≠ 64 (-4)^{3}=-64 \\neq 64 ( − 4 ) 3 = − 64  = 64 ) তাই, b = 4 b=4 b = 4 (অর্থাৎ b = ± 4 b= \\pm 4 b = ± 4 সঠিক নয়) ৩. c c c এর মান নির্ণয়: c 2 = 64 ⟹ c = ± 64 = ± 8 c^{2}=64 \\Longrightarrow c= \\pm \\sqrt{64}= \\pm 8 c 2 = 64 ⟹ c = ± 64 ​ = ± 8 তাই, c = ± 8 c= \\pm 8 c = ± 8 প্রদত্ত বিবৃতিগুলির মূল্যায়ন: i. a = ± 2 2 → a= \\pm 2 \\sqrt{2} \\rightarrow a = ± 2 2 ​ → সঠিক ii. b = ± 4 → b= \\pm 4 \\rightarrow b = ± 4 → ভুল (কারণ b = 4 b=4 b = 4 , কিন্তু -4 সমাধান নয়) iii. c = ± 8 → c= \\pm 8 \\rightarrow c = ± 8 → সঠিক সঠিক উত্তর: i এবং iii সঠিক।"
+    },
+    {
+      "number": "11",
+      "tag": "CTG.B 23",
+      "question": "log ⁡ 2 5 400 \\log _{2 \\sqrt{5}} 400 lo g 2 5 ​ ​ 400 এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "খ",
+      "explanation": "log ⁡ 2 5 400 = log ⁡ 2 5 ( 2 5 ) 4 = 4 log ⁡ 2 5 2 5 = 4 × 1 = 4 \\begin{aligned} \\log _{2 \\sqrt{5}} 400 & =\\log _{2 \\sqrt{5}}(2 \\sqrt{5})^{4} \\\\ & =4 \\log _{2 \\sqrt{5}} 2 \\sqrt{5} \\\\ & =4 \\times 1=4\\end{aligned} lo g 2 5 ​ ​ 400 ​ = lo g 2 5 ​ ​ ( 2 5 ​ ) 4 = 4 lo g 2 5 ​ ​ 2 5 ​ = 4 × 1 = 4 ​"
+    },
+    {
+      "number": "12",
+      "tag": "CTG.B 23",
+      "question": "( x 2 − 2 x 3 ) 5 \\left(x^{2}-\\frac{2}{x^{3}}\\right)^{5} ( x 2 − x 3 2 ​ ) 5 এর বিস্তৃতিতে x বর্জিত পদের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-40",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-10",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-40",
+      "option_b": "-10",
+      "option_c": "10",
+      "option_d": "40",
+      "correct": "ঘ",
+      "explanation": "( x 2 − 2 x 3 ) 5 \\left(\\mathrm{x}^{2}-\\frac{2}{\\mathrm{x}^{3}}\\right)^{5} ( x 2 − x 3 2 ​ ) 5 এর বিস্তৃতিতে ( r + 1 ) (\\mathrm{r}+1) ( r + 1 ) তম পদ = 5 C r ( x 2 ) 5 − r ( − 2 x 3 ) r = 5 C r x 10 − 2 r − 3 r ( − 2 ) r \\begin{array}{l} ={ }^{5} C_{r}\\left(x^{2}\\right)^{5-r}\\left(-\\frac{2}{x^{3}}\\right)^{r} \\\\ ={ }^{5} C_{r} x^{10-2 r-3 r}(-2)^{r} \\end{array} = 5 C r ​ ( x 2 ) 5 − r ( − x 3 2 ​ ) r = 5 C r ​ x 10 − 2 r − 3 r ( − 2 ) r ​ প্রশ্নমতে, 10 − 5 r = 0 ∴ r = 2 10-5 \\mathrm{r}=0 \\quad \\therefore \\mathrm{r}=2 10 − 5 r = 0 ∴ r = 2 ∴ x \\therefore x ∴ x বর্জিত পদ = 5 C 2 ( − 2 ) 2 = 40 ={ }^{5} \\mathrm{C}_{2}(-2)^{2}=40 = 5 C 2 ​ ( − 2 ) 2 = 40"
+    },
+    {
+      "number": "13",
+      "tag": "CTG.B 23",
+      "question": "9 C 2 = { }^{9} \\mathbf{C}_{2}= 9 C 2 ​ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "36",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "27",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "36",
+      "option_b": "27",
+      "option_c": "18",
+      "option_d": "12",
+      "correct": "ক",
+      "explanation": "C 2 9 = 9 × 8 2 × 1 = 9 × 4 = 36 \\begin{aligned}{ }^9_{C_{2}} & =\\frac{9 \\times 8}{2 \\times 1} \\\\ & =9 \\times 4 \\\\ & =36\\end{aligned} C 2 ​ 9 ​ ​ = 2 × 1 9 × 8 ​ = 9 × 4 = 36 ​"
+    },
+    {
+      "number": "14",
+      "tag": "CTG.B 23",
+      "question": "△ P Q R \\triangle P Q R △ PQR এর মধ্যমাত্রয় পরস্পরকে বিন্দুতে ছেদ করলে, O বিন্দুকে বলা হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "লম্ববিন্দু",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "পরিকেন্দ্র",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ভরকেন্দ্র",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "শীর্ষবিন্দু",
+          "is_correct": false
+        }
+      ],
+      "option_a": "লম্ববিন্দু",
+      "option_b": "পরিকেন্দ্র",
+      "option_c": "ভরকেন্দ্র",
+      "option_d": "শীর্ষবিন্দু",
+      "correct": "গ",
+      "explanation": "ত্রিভুজের মধ্যমাত্রয় যে বিন্দুতে ছেদ করে,ওই বিন্দুকে ভরকেন্দ্র বলা হয়।"
+    },
+    {
+      "number": "15",
+      "tag": "CTG.B 23",
+      "question": "1. 85 ˙ 1. \\dot{85} 1. 85 ˙ এর মূলদীয় ভগ্নাংশ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "37 20 \\frac{37}{20} 20 37 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "167 90 \\frac{167}{90} 90 167 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "184 99 \\frac{184}{99} 99 184 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "167 900 \\frac{167}{900} 900 167 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "37 20 \\frac{37}{20} 20 37 ​",
+      "option_b": "167 90 \\frac{167}{90} 90 167 ​",
+      "option_c": "184 99 \\frac{184}{99} 99 184 ​",
+      "option_d": "167 900 \\frac{167}{900} 900 167 ​",
+      "correct": "গ",
+      "explanation": "দেওয়া আছে 1. 8 ˙ 5 ˙ = 1.858585... 1.\\dot{8}\\dot{5} = 1.858585... 1. 8 ˙ 5 ˙ = 1.858585... ধরি, x = 1.858585... x = 1.858585... x = 1.858585... তাহলে, 100 x = 185.858585... 100x = 185.858585... 100 x = 185.858585... বিয়োগ করি: 100 x − x = 99 x = 184 100x - x = 99x = 184 100 x − x = 99 x = 184 অতএব, x = 184 99 x = \\frac{184}{99} x = 99 184 ​"
+    },
+    {
+      "number": "16",
+      "tag": "CTG.B 23",
+      "question": "কোনো অসীম গুণোত্তর ধারার সাধারণ অনুপাত 1 2 \\frac{1}{2} 2 1 ​ এবং অসীমতক সমষ্টি 2 3 \\frac{2}{3} 3 2 ​ হলে প্রথম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 2 3 -\\frac{2}{3} − 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 3 -\\frac{1}{3} − 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 2 3 -\\frac{2}{3} − 3 2 ​",
+      "option_b": "− 1 3 -\\frac{1}{3} − 3 1 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "1 3 \\frac{1}{3} 3 1 ​",
+      "correct": "ঘ",
+      "explanation": "অসীম ধারাটির সমষ্টি S ∞ = a 1 − r S_{\\infty}=\\frac{a}{1-r} S ∞ ​ = 1 − r a ​ a = S ∞ − S ∞ r = 2 3 − 2 3 ⋅ 1 2 = 2 3 − 1 3 = 1 3 \\begin{aligned} a & =S_{\\infty}-S_{\\infty} r \\\\ & =\\frac{2}{3}-\\frac{2}{3} \\cdot \\frac{1}{2} \\\\ & =\\frac{2}{3}-\\frac{1}{3} \\\\ & =\\frac{1}{3}\\end{aligned} a ​ = S ∞ ​ − S ∞ ​ r = 3 2 ​ − 3 2 ​ ⋅ 2 1 ​ = 3 2 ​ − 3 1 ​ = 3 1 ​ ​"
+    },
+    {
+      "number": "17",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "গ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "18",
+      "tag": "BMARPC 24,CTG.B 23,DIN.B 23",
+      "question": "কোনো ত্রিভুজের কোণ তিনটির অনুপাত 3 : 4 : 5 3:4:5 3 : 4 : 5 হলে বৃহত্তম কোণটির বৃত্তীয় মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π c 12 \\frac{\\pi^{c}}{12} 12 π c ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "π c 4 \\frac{\\pi^{c}}{4} 4 π c ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π c 3 \\frac{\\pi^{\\mathrm{c}}}{3} 3 π c ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 π c 12 \\frac{5 \\pi^{\\mathrm{c}}}{12} 12 5 π c ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "π c 12 \\frac{\\pi^{c}}{12} 12 π c ​",
+      "option_b": "π c 4 \\frac{\\pi^{c}}{4} 4 π c ​",
+      "option_c": "π c 3 \\frac{\\pi^{\\mathrm{c}}}{3} 3 π c ​",
+      "option_d": "5 π c 12 \\frac{5 \\pi^{\\mathrm{c}}}{12} 12 5 π c ​",
+      "correct": "ঘ",
+      "explanation": "ত্রিভূজের তিন কোনের সমষ্টি = x c =x^{c} = x c ধরি, কোন তিনটি , 3 x , 4 x , 5 x 3 x, 4 x, 5 x 3 x , 4 x , 5 x তাহলে, 3 x + 4 x + 5 x = π ′ ⇒ 12 x = π ′ x = π ′ 12 \\begin{array}{c} 3 x+4 x+5 x=\\pi^{\\prime} \\\\ \\Rightarrow 12 x=\\pi^{\\prime} \\\\ x=\\frac{\\pi^{\\prime}}{12} \\end{array} 3 x + 4 x + 5 x = π ′ ⇒ 12 x = π ′ x = 12 π ′ ​ ​ ∴ \\therefore ∴ বৃহত্তম কোনটি 5 x = 5 × π 12 = 5 π ∘ 12 5 x=5 \\times \\frac{\\pi}{12}=\\frac{5 \\pi^{\\circ}}{12} 5 x = 5 × 12 π ​ = 12 5 π ∘ ​"
+    },
+    {
+      "number": "19",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 19,All.B 18",
+      "question": "− 840 ∘ -840^{\\circ} − 84 0 ∘ কোণটির অবস্থান কোন চতুর্ভাগে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রথম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তৃতীয়",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রথম",
+      "option_b": "দ্বিতীয়",
+      "option_c": "তৃতীয়",
+      "option_d": "চতুর্থ",
+      "correct": "গ",
+      "explanation": "− 840 ∘ -840^{\\circ} − 84 0 ∘ কোণটির অবস্থান নির্ণয় করতে, আমরা নিম্নলিখিত ধাপগুলি অনুসরণ করব: কোণটিকে 0 ∘ 0^{\\circ} 0 ∘ থেকে 360 ∘ 360^{\\circ} 36 0 ∘ এর মধ্যে আনয়ন যেহেতু কোণের মান − 840 ∘ -840^{\\circ} − 84 0 ∘ যা ঋণাত্মক, আমরা এটিকে ধনাত্মক কোণে রূপান্তর করতে পারি। একটি পূর্ণ বৃত্ত 360 ∘ 360^{\\circ} 36 0 ∘ এর সমান, তাই আমরা − 840 ∘ -840^{\\circ} − 84 0 ∘ কে 360 ∘ 360^{\\circ} 36 0 ∘ দ্বারা ভাগ করে ভাগশেষ নির্ণয় করব। − 840 ∘ = − 2 × 360 ∘ − 120 ∘ -840^{\\circ}=-2 \\times 360^{\\circ}-120^{\\circ} − 84 0 ∘ = − 2 × 36 0 ∘ − 12 0 ∘ এখানে, − 2 × 360 ∘ = − 720 ∘ -2 \\times 360^{\\circ}=-720^{\\circ} − 2 × 36 0 ∘ = − 72 0 ∘ , তাই: − 840 ∘ = − 720 ∘ − 120 ∘ = − 840 ∘ -840^{\\circ}=-720^{\\circ}-120^{\\circ}=-840^{\\circ} − 84 0 ∘ = − 72 0 ∘ − 12 0 ∘ = − 84 0 ∘ এখন, − 120 ∘ -120^{\\circ} − 12 0 ∘ কে ধনাত্মক কোণে রূপান্তর করতে: − 120 ∘ + 360 ∘ = 240 ∘ -120^{\\circ}+360^{\\circ}=240^{\\circ} − 12 0 ∘ + 36 0 ∘ = 24 0 ∘ অত,এব, − 840 ∘ -840^{\\circ} − 84 0 ∘ কোণটি 240 ∘ 240^{\\circ} 24 0 ∘ কোণের সমতুল্য। কোণের অবস্থান নির্ণয় 240 ∘ 240^{\\circ} 24 0 ∘ কোণটি তৃতীয় চতুর্ভাগে অবস্থিত। কারণ: - প্রথম চতুর্ভাগ: 0 ∘ 0^{\\circ} 0 ∘ থেকে 90 ∘ 90^{\\circ} 9 0 ∘ - দ্বিতীয় চতুর্ভাগ: 90 ∘ 90^{\\circ} 9 0 ∘ থেকে 180 ∘ 180^{\\circ} 18 0 ∘ - তৃতীয় চতুর্ভাগ: 180 ∘ 180^{\\circ} 18 0 ∘ থেকে 270 ∘ 270^{\\circ} 27 0 ∘ - চতুর্থ চতুর্ভাগ: 270 ∘ 270^{\\circ} 27 0 ∘ থেকে 360 ∘ 360^{\\circ} 36 0 ∘ যেহেতু 240 ∘ 240^{\\circ} 24 0 ∘ কোণটি 180 ∘ 180^{\\circ} 18 0 ∘ থেকে 270 ∘ 270^{\\circ} 27 0 ∘ এর মধ্যে অবস্থিত, এটি তৃতীয় চতুর্ভাগে রয়েছে।"
+    },
+    {
+      "number": "20",
+      "tag": "CTG.B 23",
+      "question": "x 4 − 2 x 2 + 3 x x^{4}-2 x^{2}+3 x x 4 − 2 x 2 + 3 x কে ( x + 2 ) (x+2) ( x + 2 ) দ্বারা ভাগ করলে ভাগশেষ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "-14",
+          "is_correct": false
+        }
+      ],
+      "option_a": "18",
+      "option_b": "14",
+      "option_c": "2",
+      "option_d": "-14",
+      "correct": "গ",
+      "explanation": "( x 4 − 2 x 2 + 3 x ) \\left(x^{4}-2 x^{2}+3 x\\right) ( x 4 − 2 x 2 + 3 x ) কে ( x + 2 ) (x+2) ( x + 2 ) দ্বারা ভাগ করলে ভাগশেষ হবে = ( − 2 ) 4 − 2 ( − 2 ) 2 + 3 ( − 2 ) = 2 =(-2)^{4}-2(-2)^{2}+3(-2)=2 = ( − 2 ) 4 − 2 ( − 2 ) 2 + 3 ( − 2 ) = 2"
+    },
+    {
+      "number": "21",
+      "tag": "CTG.B 23",
+      "question": "3x²-7x- 6 এর উৎপাদক হচ্ছে- i. x − 3 x-3 x − 3 ii. 3 x − 2 3 x-2 3 x − 2 iii. 3 x + 2 3 x+2 3 x + 2 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "3 x 2 − 7 x − 6 = 3 x 2 − 9 x + 2 x − 6 = 3 x ( x − 3 ) + 2 ( x − 3 ) = ( 3 x + 2 ) ( x − 3 ) \\begin{aligned} & 3 x^{2}-7 x-6 \\\\ \\\\ = & 3 x^{2}-9 x+2 x-6 \\\\ = & 3 x(x-3)+2(x-3) \\\\ = & (3 x+2)(x-3)\\end{aligned} = = = ​ 3 x 2 − 7 x − 6 3 x 2 − 9 x + 2 x − 6 3 x ( x − 3 ) + 2 ( x − 3 ) ( 3 x + 2 ) ( x − 3 ) ​"
+    },
+    {
+      "number": "22",
+      "tag": "DRMC 24,CTG.B 23",
+      "question": "p ( x , y , z ) = x 3 + y 3 + z 3 + 3 x y z p(x, y, z)=x^{3}+y^{3}+z^{3}+3 x y z p ( x , y , z ) = x 3 + y 3 + z 3 + 3 x yz হলে p ( 1 , − 1 , 2 ) p(1,-1,2) p ( 1 , − 1 , 2 ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "12",
+      "option_b": "6",
+      "option_c": "4",
+      "option_d": "2",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত বহুপদী রাশিটি হলো: p ( x , y , z ) = x 3 + y 3 + z 3 + 3 x y z p(x, y, z)=x^{3}+y^{3}+z^{3}+3 x y z p ( x , y , z ) = x 3 + y 3 + z 3 + 3 x yz আমাদের p ( 1 , − 1 , 2 ) p(1,-1,2) p ( 1 , − 1 , 2 ) এর মান নির্ণয় করতে হবে। ধাপে ধাপে সমাধান: প্রদত্ত মানগুলি বসানো: x = 1 , y = − 1 , z = 2 x=1, \\quad y=-1, \\quad z=2 x = 1 , y = − 1 , z = 2 প্রতিটি পদ আলাদাভাবে গণনা করা: x 3 = ( 1 ) 3 = 1 y 3 = ( − 1 ) 3 = − 1 z 3 = ( 2 ) 3 = 8 3 x y z = 3 × 1 × ( − 1 ) × 2 = − 6 \\begin{array}{c} x^{3}=(1)^{3}=1 \\\\ y^{3}=(-1)^{3}=-1 \\\\ z^{3}=(2)^{3}=8 \\\\ 3 x y z=3 \\times 1 \\times(-1) \\times 2=-6 \\end{array} x 3 = ( 1 ) 3 = 1 y 3 = ( − 1 ) 3 = − 1 z 3 = ( 2 ) 3 = 8 3 x yz = 3 × 1 × ( − 1 ) × 2 = − 6 ​ সকল পদ যোগ করা: p ( 1 , − 1 , 2 ) = x 3 + y 3 + z 3 + 3 x y z = 1 + ( − 1 ) + 8 + ( − 6 ) p ( 1 , − 1 , 2 ) = ( 1 − 1 ) + ( 8 − 6 ) = 0 + 2 = 2 \\begin{array}{c} p(1,-1,2)=x^{3}+y^{3}+z^{3}+3 x y z=1+(-1)+8+(-6) \\\\ p(1,-1,2)=(1-1)+(8-6)=0+2=2 \\end{array} p ( 1 , − 1 , 2 ) = x 3 + y 3 + z 3 + 3 x yz = 1 + ( − 1 ) + 8 + ( − 6 ) p ( 1 , − 1 , 2 ) = ( 1 − 1 ) + ( 8 − 6 ) = 0 + 2 = 2 ​"
+    },
+    {
+      "number": "23",
+      "tag": "CTG.B 23",
+      "question": "চিত্রে LN = 4 সে.মি., PN = 2 সে.মি. এবং MN = 6. সে.মি. NL এর উপর MN এর লম্ব অভিক্ষেপ নিচে কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "MQ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "PL",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "QL",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "QN",
+          "is_correct": true
+        }
+      ],
+      "option_a": "MQ",
+      "option_b": "PL",
+      "option_c": "QL",
+      "option_d": "QN",
+      "correct": "ঘ",
+      "explanation": "NL এর উপর MN এর ছায়া QN ∴ MN এর লম্ব অভিক্ষেপ- QN"
+    },
+    {
+      "number": "24",
+      "tag": "CTG.B 23",
+      "question": "চিত্রে LN = 4 সে.মি., PN = 2 সে.মি. এবং MN = 6. সে.মি. ML এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2√7 সে.মি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4√7 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "28 সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "76 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2√7 সে.মি",
+      "option_b": "4√7 সে.মি.",
+      "option_c": "28 সে.মি",
+      "option_d": "76 সে.মি.",
+      "correct": "ক",
+      "explanation": "∠LNM সূক্ষ্মকোণ হওয়ায়, M L 2 = L N 2 + M N 2 − 2 M N ⋅ P N = 4 2 + 6 2 − 2.6.2 = 28 ∴ M L = 2 7 \\begin{array}{l} \\mathrm{ML}^{2}=\\mathrm{LN}^{2}+\\mathrm{MN}^{2}-2 \\mathrm{MN} \\cdot \\mathrm{PN}=4^{2}+6^{2}-2.6 .2=28 \\\\ \\therefore \\mathrm{ML}=2 \\sqrt{7} \\end{array} ML 2 = LN 2 + MN 2 − 2 MN ⋅ PN = 4 2 + 6 2 − 2.6.2 = 28 ∴ ML = 2 7 ​ ​"
+    },
+    {
+      "number": "25",
+      "tag": "CTG.B 23",
+      "question": "কোনো ত্রিভুজের নববিন্দুবৃত্তের ব্যাসার্ধ 6 সে.মি. হলে, ত্রিভুজের পরিবৃত্তের ব্যাস কত সে.মি. হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6.সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12.সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24 সে.মি.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3 সে.মি.",
+      "option_b": "6.সে.মি.",
+      "option_c": "12.সে.মি.",
+      "option_d": "24 সে.মি.",
+      "correct": "ঘ",
+      "explanation": "পরিবৃত্তের ব্যাসার্ব= ২ x নববিন্দুবৃত্তের ব্যাসার্ধ = 2 × 6 = 12 \\begin{array}{l} =2 \\times 6 \\\\ =12 \\end{array} = 2 × 6 = 12 ​ ∴ পরিবৃত্তের ব্যাস  = 2 × 12 = 24   c m . \\begin{aligned} \\therefore \\text {পরিবৃত্তের ব্যাস } & =2 \\times 12 \\\\ & =24 \\mathrm{~cm} . \\end{aligned} ∴ পরিবৃত্তের   ব্যাস   ​ = 2 × 12 = 24   cm . ​"
+    }
+  ]
+}

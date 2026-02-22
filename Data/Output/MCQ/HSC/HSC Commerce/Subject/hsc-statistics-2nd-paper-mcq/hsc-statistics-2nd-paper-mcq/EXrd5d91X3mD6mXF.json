@@ -1,0 +1,766 @@
+{
+  "read_id": "EXrd5d91X3mD6mXF",
+  "title": "সম্মিলিত সকল বোর্ড ২০২৫",
+  "count": 23,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "All.B 25",
+      "question": "নিচের কোন ক্ষেত্রে জনসংখ্যার কোনো পরিবর্তন হবে না?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "GRR = NRR",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "GRR = 1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "NRR > 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "NRR < 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "GRR = NRR",
+      "option_b": "GRR = 1",
+      "option_c": "NRR > 1",
+      "option_d": "NRR < 1",
+      "correct": "খ",
+      "explanation": "জনসংখ্যার কোনো পরিবর্তন হবে না যখন GRR = NRR হয়। এখানে GRR মানে Gross Reproduction Rate (মোট প্রজনন হার) এবং NRR মানে Net Reproduction Rate (নীট প্রজনন হার)। যখন মোট প্রজনন হার এবং নীট প্রজনন হার উভয়ই সমান হয়, তখন জনসংখ্যার আকার স্থির থাকে, অর্থাৎ জনসংখ্যার কোনো পরিবর্তন হয় না।"
+    },
+    {
+      "number": "2",
+      "tag": "All.B 25",
+      "question": "একটি কারখানার উৎপাদিত দ্রব্যের 0.2% খারাপ। দ্রব্যগুলো 60টি করে প্রতি প্যাকেটে। সরবরাহ করা হয়। প্রতি প্যাকেটে খারাপ দ্রব্য সংখ্যা (x) পৈঁসু বিন্যাস মেনে চলে। 2.1. পৈঁসু",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.02",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.12",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.14",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2.00",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.02",
+      "option_b": "0.12",
+      "option_c": "0.14",
+      "option_d": "2.00",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "All.B 25",
+      "question": "∫ 1 2 d x \\int_1^2 dx ∫ 1 2 ​ d x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": "আমরা প্রদত্ত সমাকলনটি গণনা করব: \\(\\int_1^2 dx\\) আমরা জানি যে \\(\\int dx = x + C\\)। সুতরাং, নির্দিষ্ট সমাকলনের জন্য আমরা সীমাগুলি ব্যবহার করব: \\(\\int_1^2 dx = [x]_1^2\\) এখন, আমরা উপরের সীমা এবং নীচের সীমা প্রয়োগ করব: \\([x]_1^2 = 2 - 1\\) \\(2 - 1 = 1\\) সুতরাং, \\(\\int_1^2 dx\\) এর মান হলো \\(1\\)।"
+    },
+    {
+      "number": "4",
+      "tag": "All.B 25",
+      "question": "কোন বিন্যাসের গড় = 3 এবং ভেদাঙ্ক = 3 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বার্ণোলী বিন্যাস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিপদী বিন্যাস",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পৈঁসু বিন্যাস",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "পরিমিতি বিন্যাস",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বার্ণোলী বিন্যাস",
+      "option_b": "দ্বিপদী বিন্যাস",
+      "option_c": "পৈঁসু বিন্যাস",
+      "option_d": "পরিমিতি বিন্যাস",
+      "correct": "গ",
+      "explanation": "পৈঁসু বিন্যাস। পৈঁসু বিন্যাসের ক্ষেত্রে গড় এবং ভেদাঙ্ক সমান হয়। এখানে যেহেতু গড় \\(3\\) এবং ভেদাঙ্ক \\(3\\) দেওয়া আছে, তাই এটি পৈঁসু বিন্যাস হবে।"
+    },
+    {
+      "number": "5",
+      "tag": "All.B 25",
+      "question": "নিশ্চিত ঘটনা ঘটার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-0.5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "-0.5",
+      "option_c": "0",
+      "option_d": "1",
+      "correct": "ঘ",
+      "explanation": "নিশ্চিত ঘটনা ঘটার সম্ভাবনা হলো \\(1\\)। সম্ভাবনা সব সময় \\(0\\) থেকে \\(1\\) এর মধ্যে থাকে, যেখানে \\(0\\) হলো অসম্ভব ঘটনা এবং \\(1\\) হলো নিশ্চিত ঘটনা।"
+    },
+    {
+      "number": "6",
+      "tag": "All.B 25",
+      "question": "যদি P ( A ) = 0.4 P(A) = 0.4 P ( A ) = 0.4 , P ( B ) = 0.3 P(B) = 0.3 P ( B ) = 0.3 এবং P ( A ∪ B ) = 0.7 P(A \\cup B) = 0.7 P ( A ∪ B ) = 0.7 হয়, তবে A ও B ঘটনাদ্বয় কীরূপ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বর্জনশীল ঘটনা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "অবর্জনশীল ঘটনা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পরিপূরক ঘটনা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সম্পূর্ণ ঘটনা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বর্জনশীল ঘটনা",
+      "option_b": "অবর্জনশীল ঘটনা",
+      "option_c": "পরিপূরক ঘটনা",
+      "option_d": "সম্পূর্ণ ঘটনা",
+      "correct": "ক",
+      "explanation": "A"
+    },
+    {
+      "number": "7",
+      "tag": "All.B 25",
+      "question": "সম্ভাবনার সর্বনিম্ন মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− ∞ -\\infty − ∞",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− ∞ -\\infty − ∞",
+      "option_b": "0",
+      "option_c": "0.5",
+      "option_d": "1",
+      "correct": "খ",
+      "explanation": "সম্ভাবনার সর্বনিম্ন মান \\(0\\)। সম্ভাবনা কখনো ঋণাত্মক হতে পারে না এবং এর মান \\(0\\) থেকে \\(1\\) এর মধ্যে থাকে।"
+    },
+    {
+      "number": "8",
+      "tag": "All.B 25",
+      "question": "A ও B ঘটনাদ্বয় পরিপূরক এবং P ( A ) = 0.2 P(A) = 0.2 P ( A ) = 0.2 হলে, P ( B ) P(B) P ( B ) -এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0.8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.4",
+      "option_b": "0.5",
+      "option_c": "0.6",
+      "option_d": "0.8",
+      "correct": "গ",
+      "explanation": "যেহেতু A ও B ঘটনাদ্বয় পরিপূরক, তাই তাদের সম্ভাবনার যোগফল 1 হবে। অর্থাৎ, \\(P(A) + P(B) = 1\\)।\\এখানে, \\(P(A) = 0.2\\) দেওয়া আছে।\\সুতরাং, \\(0.2 + P(B) = 1\\)।\\\\(P(B) = 1 - 0.2\\)।\\\\(P(B) = 0.8\\)।"
+    },
+    {
+      "number": "9",
+      "tag": "All.B 25",
+      "question": "দুটি নিরপেক্ষ ছক্কা একত্রে নিক্ষেপ করলে প্রাপ্ত নমুনাবিন্দুর সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "36",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6",
+      "option_b": "12",
+      "option_c": "24",
+      "option_d": "36",
+      "correct": "ঘ",
+      "explanation": "যখন দুটি নিরপেক্ষ ছক্কা একত্রে নিক্ষেপ করা হয়, তখন প্রতিটি ছক্কার 6টি সম্ভাব্য ফলাফল থাকে (1, 2, 3, 4, 5, 6)। প্রথম ছক্কাটির জন্য সম্ভাব্য ফলাফল = 6 দ্বিতীয় ছক্কাটির জন্য সম্ভাব্য ফলাফল = 6 সুতরাং, দুটি ছক্কা একত্রে নিক্ষেপ করলে মোট নমুনাবিন্দুর সংখ্যা হবে \\(6 \\times 6 = 36\\)।"
+    },
+    {
+      "number": "10",
+      "tag": "All.B 25",
+      "question": "A ও B ঘটনাদ্বয় অবর্জনশীল হলে- i. P ( A ∪ B ) = P ( A ) + P ( B ) − P ( A ∩ B ) P(A \\cup B) = P(A) + P(B) - P(A \\cap B) P ( A ∪ B ) = P ( A ) + P ( B ) − P ( A ∩ B ) ii. P ( A ∪ B ) = P ( A ) + P ( B ) P(A \\cup B) = P(A) + P(B) P ( A ∪ B ) = P ( A ) + P ( B ) iii. P ( A ∩ B ) ≠ 0 P(A \\cap B) \\neq 0 P ( A ∩ B )  = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i ও iii"
+    },
+    {
+      "number": "11",
+      "tag": "All.B 25",
+      "question": "দৈব চলক কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": "দৈব চলক দুই প্রকার। যথা: বিচ্ছিন্ন দৈব চলক (Discrete Random Variable) এবং অবিচ্ছিন্ন দৈব চলক (Continuous Random Variable)।"
+    },
+    {
+      "number": "12",
+      "tag": "All.B 25",
+      "question": "বিন্যাস অপেক্ষকের সর্বনিম্ন মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 অপেক্ষা বেশি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "0",
+      "option_c": "1",
+      "option_d": "1 অপেক্ষা বেশি",
+      "correct": "খ",
+      "explanation": "বিন্যাস অপেক্ষকের সর্বনিম্ন মান হল \\(0\\)। বিন্যাস অপেক্ষক (layout function) সাধারণত কোনো নেতিবাচক মান গ্রহণ করে না, কারণ এটি একটি প্রক্রিয়ার দক্ষতা বা কার্যকারিতার সাথে সম্পর্কিত। \\(0\\) মান নির্দেশ করে যে বিন্যাসটি সবচেয়ে খারাপ সম্ভাব্য অবস্থায় আছে বা কোনো কাজ সম্পাদন করা সম্ভব নয়।"
+    },
+    {
+      "number": "13",
+      "tag": "All.B 25",
+      "question": "যদি y = 5 x + 7 y = 5x + 7 y = 5 x + 7 এবং E ( x ) = 3 E(x) = 3 E ( x ) = 3 হয়, তবে E ( y ) E(y) E ( y ) কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "22",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "option_a": "15",
+      "option_b": "22",
+      "option_c": "25",
+      "option_d": "36",
+      "correct": "খ",
+      "explanation": "আমরা জানি যে, প্রত্যাশা অপারেটর (expectation operator) এর রৈখিকতা (linearity) ধর্ম রয়েছে। এর মানে হলো, যদি \\(a\\) এবং \\(b\\) দুটি ধ্রুবক হয়, তাহলে \\(E(ax + b) = aE(x) + b\\)। এখানে, আমাদের দেওয়া আছে \\(y = 5x + 7\\)। এখানে \\(a = 5\\) এবং \\(b = 7\\)। আরও দেওয়া আছে যে \\(E(x) = 3\\)। এখন আমরা \\(E(y)\\) এর মান নির্ণয় করব। আমরা প্রত্যাশা অপারেটরের রৈখিকতার ধর্ম ব্যবহার করে পাই: \\(E(y) = E(5x + 7)\\) \\(E(y) = 5E(x) + 7\\) এখন \\(E(x)\\) এর মান বসিয়ে পাই: \\(E(y) = 5(3) + 7\\) \\(E(y) = 15 + 7\\) \\(E(y) = 22\\) সুতরাং, \\(E(y)\\) এর মান হলো \\(22\\)।"
+    },
+    {
+      "number": "14",
+      "tag": "All.B 25",
+      "question": "দৈব চলক x x x এর সম্ভাবনা বিন্যাস নিম্নরূপ: x 0 1 2 P ( x ) 0.4 0.4 0.2 \\begin{array}{|c|c|c|c|} \\hline x & 0 & 1 & 2 \\\\ \\hline P(x) & 0.4 & 0.4 & 0.2 \\\\ \\hline \\end{array} x P ( x ) ​ 0 0.4 ​ 1 0.4 ​ 2 0.2 ​ ​ i. E ( x ) = 0.8 E(x) = 0.8 E ( x ) = 0.8 ii. V ( x ) = 0.56 V(x) = 0.56 V ( x ) = 0.56 iii. V ( x + 4 ) = 0.56 V(x+4) = 0.56 V ( x + 4 ) = 0.56 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রথমে আমরা প্রত্যাশিত মান, \\(E(x)\\) গণনা করব: \\(E(x) = \\sum x P(x) = (0 \\times 0.4) + (1 \\times 0.4) + (2 \\times 0.2) = 0 + 0.4 + 0.4 = 0.8\\) সুতরাং, i. \\(E(x) = 0.8\\) সঠিক। এরপর আমরা ভেদাঙ্ক, \\(V(x)\\) গণনা করব। এর জন্য প্রথমে আমাদের \\(E(x^2)\\) প্রয়োজন: \\(E(x^2) = \\sum x^2 P(x) = (0^2 \\times 0.4) + (1^2 \\times 0.4) + (2^2 \\times 0.2) = (0 \\times 0.4) + (1 \\times 0.4) + (4 \\times 0.2) = 0 + 0.4 + 0.8 = 1.2\\) এখন, \\(V(x) = E(x^2) - (E(x))^2 = 1.2 - (0.8)^2 = 1.2 - 0.64 = 0.56\\) সুতরাং, ii. \\(V(x) = 0.56\\) সঠিক। সবশেষে, আমরা \\(V(x+4)\\) গণনা করব। আমরা জানি যে, \\(V(ax+b) = a^2 V(x)\\)। এখানে \\(a=1\\) এবং \\(b=4\\)। \\(V(x+4) = 1^2 V(x) = 1 \\times 0.56 = 0.56\\) সুতরাং, iii. \\(V(x+4) = 0.56\\) সঠিক। যেহেতু i, ii, এবং iii তিনটিই সঠিক, তাই সঠিক বিকল্প হলো D."
+    },
+    {
+      "number": "15",
+      "tag": "All.B 25",
+      "question": "দুটি স্বাধীন দৈব চলক x x x ও y y y এর ক্ষেত্রে V ( x ) = 10 V(x) = 10 V ( x ) = 10 ও V ( y ) = 8 V(y) = 8 V ( y ) = 8 হলে, V ( x − y ) V(x - y) V ( x − y ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "10",
+      "option_c": "8",
+      "option_d": "18",
+      "correct": "ঘ",
+      "explanation": "যেহেতু \\(x\\) ও \\(y\\) দুটি স্বাধীন দৈব চলক, তাই আমরা জানি যে \\(V(x - y) = V(x) + V(y)\\)। এখানে দেওয়া আছে: \\(V(x) = 10\\) \\(V(y) = 8\\) সুতরাং, \\(V(x - y) = V(x) + V(y) = 10 + 8 = 18\\) অতএব, \\(V(x - y)\\) এর মান হলো \\(18\\)।"
+    },
+    {
+      "number": "16",
+      "tag": "All.B 25",
+      "question": "দ্বিপদী বিন্যাসের পরামিতি কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": "দ্বিপদী বিন্যাসের পরামিতি দুইটি।"
+    },
+    {
+      "number": "17",
+      "tag": "All.B 25",
+      "question": "দ্বিপদী বিন্যাসের গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "n p np n p",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "n p q npq n pq",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "n q nq n q",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "n p q \\sqrt{npq} n pq ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "n p np n p",
+      "option_b": "n p q npq n pq",
+      "option_c": "n q nq n q",
+      "option_d": "n p q \\sqrt{npq} n pq ​",
+      "correct": "ক",
+      "explanation": "দ্বিপদী বিন্যাসের গড় হলো \\(np\\)।"
+    },
+    {
+      "number": "18",
+      "tag": "All.B 25",
+      "question": "দ্বিপদী বিন্যাসের সূঁচালোতা হলো- i. অতি সূঁচালো ii. মধ্যম সূঁচালো iii. অনতি সূঁচালো নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "দ্বিপদী বিন্যাসের সূঁচালোতা তিন ধরণের হতে পারে: অতি সূঁচালো, মধ্যম সূঁচালো এবং অনতি সূঁচালো। তাই, প্রশ্নোক্ত সকল অপশনই সঠিক। ১. অতি সূঁচালো (Leptokurtic): যখন দ্বিপদী বিন্যাসের সূঁচালোতা গুণাঙ্ক ( \\(\\beta_2\\) ) \\(3\\)-এর চেয়ে বেশি হয়, তখন বিন্যাসটি অতি সূঁচালো হয়। এর মানে হলো, বিন্যাসের কেন্দ্রবিন্দুতে উপাত্ত বেশি ঘনীভূত থাকে এবং লেজগুলি তুলনামূলকভাবে মোটা হয়। ২. মধ্যম সূঁচালো (Mesokurtic): যখন দ্বিপদী বিন্যাসের সূঁচালোতা গুণাঙ্ক ( \\(\\beta_2\\) ) \\(3\\)-এর সমান হয়, তখন বিন্যাসটি মধ্যম সূঁচালো হয়। এটি পরিমিত বিন্যাসের সূঁচালোতার সাথে সাদৃশ্যপূর্ণ। ৩. অনতি সূঁচালো (Platykurtic): যখন দ্বিপদী বিন্যাসের সূঁচালোতা গুণাঙ্ক ( \\(\\beta_2\\) ) \\(3\\)-এর চেয়ে কম হয়, তখন বিন্যাসটি অনতি সূঁচালো হয়। এর অর্থ হলো, বিন্যাসের কেন্দ্রবিন্দুতে উপাত্ত কম ঘনীভূত থাকে এবং লেজগুলি তুলনামূলকভাবে পাতলা হয়। অতএব, দ্বিপদী বিন্যাসের সূঁচালোতা অতি সূঁচালো, মধ্যম সূঁচালো এবং অনতি সূঁচালো – এই তিন প্রকারের হতে পারে।"
+    },
+    {
+      "number": "19",
+      "tag": "All.B 25",
+      "question": "কোনো দ্বিপদী চলক ( x ) (x) ( x ) এর পরামিতি n n n ও p p p এর মান যথাক্রমে 6 ও 0.5 পাওয়া গেল। 19.1. দ্বিপদী চলক x x x এর বঙ্কিমতাঙ্ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1.50",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2.75",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3.00",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1.50",
+      "option_c": "2.75",
+      "option_d": "3.00",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "All.B 25",
+      "question": "পৈঁসু বিন্যাসের পরামিতি কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "ক",
+      "explanation": "পৈঁসু বিন্যাসের পরামিতি হলো মাত্র একটি। একে \\(m\\) দ্বারা প্রকাশ করা হয়। এই পরামিতিটি বিন্যাসের গড় এবং ভেদাঙ্ক উভয়ের সমান।"
+    },
+    {
+      "number": "21",
+      "tag": "All.B 25",
+      "question": "পৈঁসু চলক ( x ) (x) ( x ) এর ক্ষেত্রে- i. x x x একটি বিচ্ছিন্ন দৈব চলক ii. E ( x ) = V ( x ) E(x) = V(x) E ( x ) = V ( x ) iii. E ( x ) E(x) E ( x ) কখনো ঋণাত্মক হতে পারে না নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "পৈঁসু চলক '(x)' এর ক্ষেত্রে, এটি একটি বিচ্ছিন্ন দৈব চলক। এর প্রত্যাশিত মান ('E(x)') এবং ভেদাঙ্ক ('V(x)') উভয়ই সমান হয় এবং 'E(x)' কখনো ঋণাত্মক হতে পারে না। তাই, প্রদত্ত তিনটি বিবৃতিই সঠিক।"
+    },
+    {
+      "number": "22",
+      "tag": "All.B 25",
+      "question": "প্রজননক্ষম স্ত্রীলোকের বয়স শ্রেণি কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "5",
+      "option_c": "6",
+      "option_d": "7",
+      "correct": "ঘ",
+      "explanation": "প্রজননক্ষম স্ত্রীলোকের বয়স শ্রেণি ৭টি।"
+    },
+    {
+      "number": "23",
+      "tag": "All.B 25",
+      "question": "একটি দেশের নির্ভরশীলতার অনুপাত কম দ্বারা কী বোঝানো হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "দেশটি বেশি উন্নত",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "দেশটি কম উন্নত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "দেশটার বেকারত্ব বেশি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "দেশটার শিশু ও বয়স্ক জনগোষ্ঠী ( 65 + ) (65^+) ( 6 5 + ) বেশি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "দেশটি বেশি উন্নত",
+      "option_b": "দেশটি কম উন্নত",
+      "option_c": "দেশটার বেকারত্ব বেশি",
+      "option_d": "দেশটার শিশু ও বয়স্ক জনগোষ্ঠী ( 65 + ) (65^+) ( 6 5 + ) বেশি",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

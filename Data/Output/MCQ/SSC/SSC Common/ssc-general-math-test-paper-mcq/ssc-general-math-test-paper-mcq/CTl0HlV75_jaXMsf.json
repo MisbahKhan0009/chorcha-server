@@ -1,0 +1,898 @@
+{
+  "read_id": "CTl0HlV75_jaXMsf",
+  "title": "ময়মনসিংহ বোর্ড ২০২০",
+  "count": 27,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "MB 20",
+      "question": "2 9 \\frac{2}{9} 9 2 ​ কোন ধরনের সংখ্যা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মূলদ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "অমূলদ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্বাভাবিক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনাবৃত্ত দশমিক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মূলদ",
+      "option_b": "অমূলদ",
+      "option_c": "স্বাভাবিক",
+      "option_d": "অনাবৃত্ত দশমিক",
+      "correct": "ক",
+      "explanation": "p q \\frac{p}{q} q p ​  আকারের কোনো সংখ্যাকে মূলদ সংখ্যা বলা হয়, যেখানে p, q পূর্ণসংখ্যা ও পরস্পর সহমৌলিক এবং q ≠0। সকল পূর্ণসংখ্যা ও ভগ্নাংশই মূলদ সংখ্যা।"
+    },
+    {
+      "number": "2",
+      "tag": "MB 20,FCC 24",
+      "question": "a = 3 \\mathrm{a}=\\sqrt{3} a = 3 ​ এবং b = 12 \\mathrm{b}=\\sqrt{12} b = 12 ​ হলে নিচের কোনটি অমূলদ সংথ্যা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a + b a+ b a + b",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "a b a b ab",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a b \\frac{\\mathrm{a}}{\\mathrm{b}} b a ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "b a \\frac{\\mathrm{b}}{\\mathrm{a}} a b ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a + b a+ b a + b",
+      "option_b": "a b a b ab",
+      "option_c": "a b \\frac{\\mathrm{a}}{\\mathrm{b}} b a ​",
+      "option_d": "b a \\frac{\\mathrm{b}}{\\mathrm{a}} a b ​",
+      "correct": "ক",
+      "explanation": "a b a b ab = 36 \\sqrt{36} 36 ​ =6 a b \\frac{\\mathrm{a}}{\\mathrm{b}} b a ​ = 3 12 \\frac{\\sqrt{3}}{\\sqrt{12}} 12 ​ 3 ​ ​ = 1 4 \\frac{1}{\\sqrt{4}} 4 ​ 1 ​ = 1 2 \\frac{1}{2} 2 1 ​ b a \\frac{\\mathrm{b}}{\\mathrm{a}} a b ​ = 12 3 \\frac{\\sqrt{12}}{\\sqrt{3}} 3 ​ 12 ​ ​ = 4 {\\sqrt{4}} 4 ​ =2 কিন্তু দুইটি অমূলদ সংখ্যার যোগফল সর্বদা একটি অমূলদ সংখ্যা"
+    },
+    {
+      "number": "3",
+      "tag": "MB 20",
+      "question": "{ x ∈ N : x 2 > 15 \\left\\{x \\in \\mathbb{N}: x^{2}>15\\right. { x ∈ N : x 2 > 15 এবং x 3 < 36 } \\left.x^{3}<36\\right\\} x 3 < 36 } সেটটির তালিকা রুপ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 4 , 5 , 6 } \\{4,5,6\\} { 4 , 5 , 6 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ 1 , 2 , 3 } \\{1,2,3\\} { 1 , 2 , 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 3 } \\{3\\} { 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "∅ \\varnothing ∅",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ 4 , 5 , 6 } \\{4,5,6\\} { 4 , 5 , 6 }",
+      "option_b": "{ 1 , 2 , 3 } \\{1,2,3\\} { 1 , 2 , 3 }",
+      "option_c": "{ 3 } \\{3\\} { 3 }",
+      "option_d": "∅ \\varnothing ∅",
+      "correct": "ঘ",
+      "explanation": "{ x ∈ N : x 2 > 15 এবং x 3 < 36 } \\left\\{x \\in N: x^{2}>15 \\quad এবং x^{3}<36\\right\\} { x ∈ N : x 2 > 15 এবং x 3 < 36 } উপরোক্ত শর্তে X এর কোনো মানের জন্য শর্তটি মেনে চলে না। ∴ \\therefore ∴ সেটটির তালিকা রূপ = { 3 } / ∅ =\\{3\\} / \\varnothing = { 3 } / ∅"
+    },
+    {
+      "number": "4",
+      "tag": "MB 24,JB 24,DB 22,CB 22,CTG.B 22,MB 20,CTG.B 20,BB 19,JB 19,FCC 24,CSC 24,BCPC 24",
+      "question": "U সার্বিক সেট এবং A সেটটি U এর উপসেট হলে— i. A C ∪ A = U A^{C} \\cup A=U A C ∪ A = U ii. A C ∩ A = ϕ \\mathrm{A}^{\\mathrm{C}} \\cap \\mathrm{A}=\\phi A C ∩ A = ϕ iii. A ∪ U = A C A \\cup U=A^{\\mathrm{C}} A ∪ U = A C নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "এখানে, U U U সার্বিক সেট এবং A A A সেটটি U U U এর একটি উপসেট। আমরা প্রতিটি বিবৃতি বিশ্লেষণ করি: i. A C ∪ A = U A^{C} \\cup A=U A C ∪ A = U A C A^C A C হল A A A সেটের পূরক সেট, অর্থাৎ U U U এর যে সকল উপাদান A A A এ নেই। A A A এবং A C A^C A C এর সংযোগ সেট (union) সর্বদা সার্বিক সেট U U U হবে। এটি সেটের একটি মৌলিক ধর্ম। সুতরাং, বিবৃতি (i) সঠিক। ii. A C ∩ A = ϕ A^{C} \\cap A=\\phi A C ∩ A = ϕ A C A^C A C এবং A A A এর ছেদ সেট (intersection) সর্বদা ফাঁকা সেট ( ϕ \\phi ϕ ) হবে, কারণ A A A এবং A C A^C A C এর মধ্যে কোনো সাধারণ উপাদান নেই। এটিও সেটের একটি মৌলিক ধর্ম। সুতরাং, বিবৃতি (ii) সঠিক। iii. A ∪ U = A C A \\cup U=A^{\\mathrm{C}} A ∪ U = A C যেহেতু A A A সেটটি সার্বিক সেট U U U এর একটি উপসেট, তাই A A A এবং U U U এর সংযোগ সেট সর্বদা U U U হবে, অর্থাৎ A ∪ U = U A \\cup U = U A ∪ U = U । কিন্তু বিবৃতিতে বলা হয়েছে A ∪ U = A C A \\cup U = A^C A ∪ U = A C । এটি সাধারণত ভুল, কারণ U U U এবং A C A^C A C শুধুমাত্র তখনই সমান হতে পারে যদি A A A একটি ফাঁকা সেট হয়। এটি সেটের একটি সাধারণ ধর্ম নয়। সুতরাং, বিবৃতি (iii) ভুল। উপরিউক্ত বিশ্লেষণ থেকে দেখা যায়, বিবৃতি (i) এবং (ii) সঠিক। সঠিক বিকল্পটি হল ক। The final answer is ক \\boxed{\\text{ক}} ক ​"
+    },
+    {
+      "number": "6",
+      "tag": "MB 20",
+      "question": "একটি কলমের প্রকৃত মূল্যের 20% কমিশনে 48 টাকায় ক্রয় করা হলো। কলমের প্রকৃত মূল্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "96 টাকা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "72 টাকা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 টাকা",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "56 টাকা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "96 টাকা",
+      "option_b": "72 টাকা",
+      "option_c": "60 টাকা",
+      "option_d": "56 টাকা",
+      "correct": "গ",
+      "explanation": "ধরি, পণ্যের প্রকৃত ক্রয়মূল্য = x x x টাকা 20% কমিশন থাকায়, পণ্যের বিক্রয়মূল্য = প্রকৃত ক্রয়মূল্যের (100-20)% = প্রকৃত ক্রয়মূল্যের 80% তাহলে, 48 = x ⋅ 80 100 ⇒ x = 48 × 100 80 ⇒ x = 60  টাকা  \\begin{array}{l} 48=x \\cdot \\frac{80}{100} \\\\ \\Rightarrow x=\\frac{48 \\times 100}{80} \\\\ \\Rightarrow x=60 \\text { টাকা } \\end{array} 48 = x ⋅ 100 80 ​ ⇒ x = 80 48 × 100 ​ ⇒ x = 60   টাকা   ​ ∴ \\therefore ∴ প্রকৃত ক্রয়মূল্য = 60 =60 = 60 টাকা"
+    },
+    {
+      "number": "7",
+      "tag": "MB 20",
+      "question": "একটি কলমের প্রকৃত মূল্যের 20% কমিশনে 48 টাকায় ক্রয় করা হলো। বিক্রয়মূল্য প্রকৃত মূল্যের শতকরা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "80%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "64%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "48%",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "32%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "80%",
+      "option_b": "64%",
+      "option_c": "48%",
+      "option_d": "32%",
+      "correct": "গ",
+      "explanation": "ধরি, কলমের প্রকৃত ক্রয়মূল্য = x =x = x টাকা 20 % 20 \\% 20% কমিশন থাকায়, কলমের ক্রয়মূল্য = প্রকৃত ক্রয়মূল্যের 80% ⇒ 48 = x ⋅ 80 100 ⇒ x = 48 × 100 80 = 60  টাকা  \\begin{array}{l} \\Rightarrow 48=x \\cdot \\frac{80}{100} \\\\ \\Rightarrow x=\\frac{48 \\times 100}{80}=60 \\text { টাকা } \\end{array} ⇒ 48 = x ⋅ 100 80 ​ ⇒ x = 80 48 × 100 ​ = 60   টাকা   ​ ∴ \\therefore ∴ কলমের প্রকৃত ক্রয়মূল্য = 60 =60 = 60 টাকা ∴ \\therefore ∴ বিক্রয়মূল্য প্রকৃত ক্রয়মূল্যের = 48 60 × 100 % = 80 % =\\frac{48}{60} \\times 100 \\%=80 \\% = 60 48 ​ × 100% = 80%"
+    },
+    {
+      "number": "8",
+      "tag": "JB 24,MB 20",
+      "question": "x 3 × x 1 2 \\sqrt{x^{3}} \\times x^{\\frac{1}{2}} x 3 ​ × x 2 1 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x 3 2 x^{\\frac{3}{2}} x 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x 1 4 x^{\\frac{1}{4}} x 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 3 x^{\\frac{2}{3}} x 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 2 x^{2} x 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x 3 2 x^{\\frac{3}{2}} x 2 3 ​",
+      "option_b": "x 1 4 x^{\\frac{1}{4}} x 4 1 ​",
+      "option_c": "x 2 3 x^{\\frac{2}{3}} x 3 2 ​",
+      "option_d": "x 2 x^{2} x 2",
+      "correct": "ক",
+      "explanation": "এখানে, x 3 × x 3 / 2 = x 3 / 2 ⋅ x 1 / 2 = x 3 / 2 + 1 / 2 = x 3 + 1 2 = x 4 / 2 = x 2 \\begin{aligned} & \\sqrt{x^{3}} \\times x^{3 / 2} \\\\ = & x^{3 / 2} \\cdot x^{1 / 2} \\\\ = & x^{3 / 2+1 / 2} \\\\ = & x^{\\frac{3+1}{2}} \\\\ = & x^{4 / 2} \\\\ = & x^{2} \\end{aligned} = = = = = ​ x 3 ​ × x 3/2 x 3/2 ⋅ x 1/2 x 3/2 + 1/2 x 2 3 + 1 ​ x 4/2 x 2 ​"
+    },
+    {
+      "number": "9",
+      "tag": "MB 20,JGCC 24,HC 24",
+      "question": "2 log ⁡ x − log ⁡ ( 2 x − 1 ) = log ⁡ 1  হলে,  x  এর  2 \\log x-\\log (2 x-1)=\\log 1 \\text { হলে, } x \\text { এর } 2 lo g x − lo g ( 2 x − 1 ) = lo g 1   হলে ,  x   এর   মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 -1 − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0 0 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 1 1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 1 -1 − 1",
+      "option_b": "0 0 0",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "1 1 1",
+      "correct": "ঘ",
+      "explanation": "2 log ⁡ x − log ⁡ ( 2 x − 1 ) = log ⁡ 1 2 \\log x-\\log (2 x-1)=\\log 1 2 lo g x − lo g ( 2 x − 1 ) = lo g 1 বা, log ⁡ x 2 − log ⁡ ( 2 x − 1 ) = log ⁡ \\log x^{2}-\\log (2 x-1)=\\log lo g x 2 − lo g ( 2 x − 1 ) = lo g বা, log ⁡ x 2 2 x − 1 = log ⁡ 1 \\log \\frac{x^{2}}{2 x-1}=\\log 1 lo g 2 x − 1 x 2 ​ = lo g 1 ∴ x 2 2 x − 1 = 1 \\therefore \\frac{\\mathrm{x}^{2}}{2 \\mathrm{x}-1}=1 ∴ 2 x − 1 x 2 ​ = 1 বা, x 2 − 2 x + 1 = 0 {x}^{2}-2 x+1=0 x 2 − 2 x + 1 = 0 বা, ( x − 1 ) 2 = 0 ∴ x = 1 (x-1)^{2}=0 \\therefore x=1 ( x − 1 ) 2 = 0 ∴ x = 1"
+    },
+    {
+      "number": "10",
+      "tag": "DC 25,MB 25,RB 25,DIN.B 25,JB 25,BB 25,MAD 25,DB 24,RB 24,CB 24,DIN.B 24,MB 24,DB 24,JB 24,BB 24,DB 20,MB 20,DIN.B 20,BB 20,DB 19,RB 19,CB 19,DIN.B 19,JB 19,SB 19,DB 17,JB 17,FCC 24,JGCC 24,BCC 24,VNSC 24,GLHSD 24,ACPS 24,NISD 24,MCPSC 24,RCPC 24,CCS 24,RCPC 24,BCPC 24",
+      "question": "2 x − 3 + 5 = 2 \\sqrt{2 x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণ- i. একটি এক চলকবিশিষ্ট সমীকরণ ii. এর সমাধান সেট S = { } \\mathrm{S}=\\{ \\} S = { } iii. এর সমাধান x = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "ঘ",
+      "explanation": "2 x − 3 + 5 = 2 \\sqrt{2x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণটি সমাধান করা যাক। প্রথমত, সমীকরণটি সরল করার জন্য আমরা উভয় পাশে 5 5 5 বিয়োগ করব: 2 x − 3 = 2 − 5 \\sqrt{2x-3} = 2 - 5 2 x − 3 ​ = 2 − 5 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 পুরুত্ব বর্গমূলের মান কখনোই ঋণাত্মক হতে পারে না, তাই 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 সমাধায় কোন সমর্থন বা সঠিক সমাধান নেই। অতএব, এর সমাধান সেট হল S = { } S = \\{\\} S = { } , যা একটি খালি সেট নির্দেশ করে। তাহলে, নিচের বস্তুগুলি সঠিক: i. একটি এক চলকবিশিষ্ট সমীকরণ কারণ এটি শুধু x x x -এর উপর নির্ভর করে। ii. এর সমাধান সেট S = { } \\mathrm{S} = \\{ \\} S = { } হল খালি সেট। iii. এর সমাধান x = 6 x = 6 x = 6 ভুল কারণ উক্ত সমীকরণ থেকে এমন কোন সমাধান পাওয়া যায় না। সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "11",
+      "tag": "MB 20,JGCC 24,RUMC 24",
+      "question": "একটি সমদ্বিবাহু ত্রিভুজের অর্ধপরিসীমা 8 সে.মি. এবং ভূমি 6 সে.মি. হলে, উচ্চতা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12",
+      "option_b": "8",
+      "option_c": "6",
+      "option_d": "4",
+      "correct": "ক",
+      "explanation": "ধরি, সমদ্বিবাহু ত্রিভুজের সমান সমান বাহুর দৈর্ঘ্য a সমদ্বিবাহু ত্রিভুজের অর্ধপরিসীমা a + a + 6 2 \\frac{a+a+6}{2} 2 a + a + 6 ​ =8 cm ⇒ \\Rightarrow ⇒ 2a+6=16 ⇒ \\Rightarrow ⇒ a= 5 cm ভূমির মধ্যবিন্দু = 6 2 \\frac{6}{2} 2 6 ​ = 3 cm উচ্চতা = 5 2 − 3 2 \\sqrt{5^2-3^2} 5 2 − 3 2 ​ = 4cm ( ∵ \\because ∵ সমদ্বিবাহু ত্রিভুজের মধ্যমা ও লম্ব একই)"
+    },
+    {
+      "number": "12",
+      "tag": "MB 23,BB 22,MB 20,All.B 18,RCC 24,JGCC 24,ISCM 24,SJHSS 24,RCPC 24",
+      "question": "ত্রিভুজের ক্ষেত্রে- i. যেকোনো দুই বাহুর মধ্যকার পার্থক্য এর তৃতীয় বাহু অপেক্ষা ক্ষুদ্রতর ii. যেকোনো দুই বাহুর মধ্যবিন্দুর সংযোগ রেখাংশ তৃতীয় বাহুর সমান্তরাল iii. সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয় পরস্পর সম্পূরক কোণ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i)ত্রিভুজের যেকোনো দুই বাহুর দৈর্ঘ্যের অন্তর এর তৃতীয় বাহুর দৈর্ঘ্য অপেক্ষা ক্ষুদ্রতর [অনুসিদ্ধান্ত ৫] ii)ত্রিভুজের যেকোনো দুই বাহুর মধ্যবিন্দুর সংযোজক রেখাংশ তৃতীয় বাহুর সমান্তরাল [উপপাদ্য ১৫] iii)সমকোণী ত্রিভুজের সূক্ষ্মকোণ দ্বয় পরস্পর পূরককোন হয় সঠিক উত্তর i,ii"
+    },
+    {
+      "number": "13",
+      "tag": "MB 20",
+      "question": "O কেন্দ্রবিশিষ্ট বৃত্তের AB জ্যা এবং এর মধ্যবিন্দু D. OA =5 সেমি, OD = 4 সেমি, AB = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 সেমি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "8 সেমি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10 সেমি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12 সেমি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 সেমি",
+      "option_b": "8 সেমি",
+      "option_c": "10 সেমি",
+      "option_d": "12 সেমি",
+      "correct": "ক",
+      "explanation": "O A = 5   c m O D = 4   c m \\begin{array}{l} O A=5 \\mathrm{~cm} \\\\ O D=4 \\mathrm{~cm} \\end{array} O A = 5   cm O D = 4   cm ​ ∴ A D = O A 2 − O D 2 = 5 2 − 4 2 = 25 − 16 = 9 = 3   c m \\therefore A D=\\sqrt{O A^{2}-O D^{2}}=\\sqrt{5^{2}-4^{2}}=\\sqrt{25-16}=\\sqrt{9}=3 \\mathrm{~cm} ∴ A D = O A 2 − O D 2 ​ = 5 2 − 4 2 ​ = 25 − 16 ​ = 9 ​ = 3   cm ∴ A B = 2 × A D = 2 × 3 = 6   c m \\therefore A B=2 \\times A D=2 \\times 3=6 \\mathrm{~cm} ∴ A B = 2 × A D = 2 × 3 = 6   cm"
+    },
+    {
+      "number": "16",
+      "tag": "MB 20,BCC 24",
+      "question": "সুষম ষড়ভুজের কয়টি প্রতিসাম্য রেখা রয়েছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "6",
+      "option_c": "8",
+      "option_d": "12",
+      "correct": "ক",
+      "explanation": "সুষম ষড়ভুজের ছয়টি প্রতিসাম্য রেখা রয়েছে"
+    },
+    {
+      "number": "17",
+      "tag": "MB 20,CB 17",
+      "question": "θ = 0 ∘ \\theta=0^{\\circ} θ = 0 ∘ কোণের ক্ষেত্রে- i. cosec ⁡ θ \\operatorname{cosec} \\theta cosec θ ও cot ⁡ θ \\cot \\theta cot θ এর মান অসংজ্ঞায়িত ii. প্রান্তীয় বাহু ও আদিবাহু একই রশ্মি iii. sec ⁡ θ \\operatorname{sec} \\theta sec θ ও tan ⁡ θ \\tan \\theta tan θ এর মান সংজ্ঞায়িত নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "θ = 0 ∘ \\theta=0^{\\circ} θ = 0 ∘ হলে, (i) cosec ⁡ θ = cosec ⁡ 0 ∘ \\operatorname{cosec} \\theta=\\operatorname{cosec}\\left.{} 0^{\\circ}\\right. cosec θ = cosec 0 ∘ = অসংজ্ঞায়িত cot ⁡ θ = cot ⁡ 0 ∘ \\cot \\theta=\\cot 0^{\\circ} cot θ = cot 0 ∘ = অসংজ্ঞায়িত (ii) θ = 0 ∘ \\theta=0^{\\circ} θ = 0 ∘ হলে আদি বাহু ও প্রান্তীয় বাহু একই যেমন- → অদিবাহু প্রান্তীয়বাহু \\rightarrow \\frac { অদি বাহু} {প্রান্তীয় বাহু} → প্রান্তীয়বাহু অদিবাহু ​ (iii) sec ⁡ θ = sec ⁡ 0 ∘ = 1 tan ⁡ θ = tan ⁡ 0 ∘ = 0 \\begin{array}{l} \\sec \\theta=\\sec 0^{\\circ}=1 \\\\ \\tan \\theta=\\tan 0^{\\circ}=0 \\end{array} sec θ = sec 0 ∘ = 1 tan θ = tan 0 ∘ = 0 ​ ∴ sec ⁡ θ ও tan ⁡ θ \\therefore \\sec \\theta ও \\tan \\theta ∴ sec θ ও tan θ এর মান সংজ্ঞারিত"
+    },
+    {
+      "number": "18",
+      "tag": "MB 20,All.B 18",
+      "question": "BC এর দৈৰ্য্য কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 2 \\sqrt{3} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6 2 6 \\sqrt{2} 6 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6 3 6 \\sqrt{3} 6 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 2 \\sqrt{3} 2 3 ​",
+      "option_b": "6 2 6 \\sqrt{2} 6 2 ​",
+      "option_c": "6 3 6 \\sqrt{3} 6 3 ​",
+      "option_d": "6",
+      "correct": "ক",
+      "explanation": "চিত্র হতে পাই, tan ⁡ 60 ∘ = A B B C ⇒ 3 = 6 B C ⇒ B C = 6 3 = 6 3 3 = 2 3 \\begin{array}{l} \\tan 60^{\\circ}=\\frac{A B}{B C} \\\\ \\Rightarrow \\sqrt{3}=\\frac{6}{B C} \\\\ \\Rightarrow B C=\\frac{6}{\\sqrt{3}}=\\frac{6 \\sqrt{3}}{3}=2 \\sqrt{3} \\end{array} tan 6 0 ∘ = BC A B ​ ⇒ 3 ​ = BC 6 ​ ⇒ BC = 3 ​ 6 ​ = 3 6 3 ​ ​ = 2 3 ​ ​"
+    },
+    {
+      "number": "19",
+      "tag": "RB 25",
+      "question": "সমকোণী ত্রিভুজের 30 ° \\degree ° কোণ অঙ্কনের ক্ষেত্রে- i. ভূমি > লম্ব ii. ভূমি = লম্ব iii. অতিভুজ > লম্ব নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "iও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "iও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "সমকোণী ত্রিভুজের 30 ∘ 30^{\\circ} 3 0 ∘ কো ন অঙ্কনের জন্য ভূমি > লম্ব এবং অতিভুজ > লম্ব ভূমি = লম্ব হলে কোন হবে 45 ∘ 45^{\\circ} 4 5 ∘ ."
+    },
+    {
+      "number": "20",
+      "tag": "RB 25,CB 25,DB 24,MB 23,DIN.B 23,MB 22,MB 20,DIN.B 19,DB 17,CB 17,RCC 24,FGCC 24,RUMC 24,BAFSC 24",
+      "question": "একটি সুষম অষ্টভুজের শীর্ষ কোণের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "108 ∘ 108^{\\circ} 10 8 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "135 ∘ 135^{\\circ} 13 5 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_b": "108 ∘ 108^{\\circ} 10 8 ∘",
+      "option_c": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_d": "135 ∘ 135^{\\circ} 13 5 ∘",
+      "correct": "ঘ",
+      "explanation": "সুষম অষ্টভুজের শীর্ষ কোণের মান = ( 8 − 2 ) 8 × 180 ∘ = 135 ∘ =\\frac{(8-2)}{8} \\times 180^{\\circ}=135^{\\circ} = 8 ( 8 − 2 ) ​ × 18 0 ∘ = 13 5 ∘ আমরা জানি ,  কোনো n বাহুবিশিষ বহুভুজের শীর্ষকোন,  = n − 2 n × 140 ∘  অষ্টভুজের ক্ষেত্রে,  n = 8 ∴  কোণের মান  = 8 − 2 8 × 180 ∘ = 135 ∘ \\begin{array}{l} \\text { কোনো n বাহুবিশিষ বহুভুজের শীর্ষকোন, }= \\frac{n-2}{n} \\times 140^{\\circ}\\\\ \\text { অষ্টভুজের ক্ষেত্রে, } n=8 \\\\ \\therefore \\text { কোণের মান }=\\frac{8-2}{8} \\times 180^{\\circ}=135^{\\circ} \\end{array}   কোনো  n  বাহুবিশিষ   বহুভুজের   শীর্ষকোন ,  = n n − 2 ​ × 14 0 ∘   অষ্টভুজের   ক্ষেত্রে ,  n = 8 ∴   কোণের   মান   = 8 8 − 2 ​ × 18 0 ∘ = 13 5 ∘ ​"
+    },
+    {
+      "number": "21",
+      "tag": "DB 23,DIN.B 23,MB 20,DIN.B 20",
+      "question": "একটি বর্গের পরিসীমা 36 মিটার। এর একটি কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 2 6 \\sqrt{2} 6 2 ​ মিটার",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6 3 6 \\sqrt{3} 6 3 ​ মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9 2 9 \\sqrt{2} 9 2 ​ মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9 3 9 \\sqrt{3} 9 3 ​ মিটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 2 6 \\sqrt{2} 6 2 ​ মিটার",
+      "option_b": "6 3 6 \\sqrt{3} 6 3 ​ মিটার",
+      "option_c": "9 2 9 \\sqrt{2} 9 2 ​ মিটার",
+      "option_d": "9 3 9 \\sqrt{3} 9 3 ​ মিটার",
+      "correct": "ক",
+      "explanation": "প্রদত্ত বর্গের পরিসীমা 36 মিটার। প্রথমে বর্গের বাহুর দৈর্ঘ্য বের করা যাক। বর্গের পরিসীমা হলো:  পারিসীমা  = 4 ×  বাহুর দৈর্ঘ্য  \\text { পারিসীমা }=4 \\times \\text { বাহুর দৈর্ঘ্য }   পারিসীমা   = 4 ×   বাহুর   দৈর্ঘ্য   প্রদত্ত পরিসীমা 36 মিটার: 4 ×  বাহুর দৈর্ঘ্য  = 36 ⟹  বাহুর দৈর্ঘ্য  = 36 4 = 9  মিটার  4 \\times \\text { বাহুর দৈর্ঘ্য }=36 \\Longrightarrow \\text { বাহুর দৈর্ঘ্য }=\\frac{36}{4}=9 \\text { মিটার } 4 ×   বাহুর   দৈর্ঘ্য   = 36 ⟹   বাহুর   দৈর্ঘ্য   = 4 36 ​ = 9   মিটার   এখন বর্গের কর্পের দৈর্ঘ্য বের করতে পিথাগোরাসের উপপাদ্য ব্যবহার করা যাক। বর্গের কর্ণ হলো:  কর্ণ  = (  বাহুর দৈর্ঘ্য  ) 2 + (  বাহুর দৈর্ঘ্য  ) 2 = 9 2 + 9 2 = 81 + 81 = 162 = 9 2  মিটার  \\text { কর্ণ }=\\sqrt{(\\text { বাহুর দৈর্ঘ্য })^{2}+(\\text { বাহুর দৈর্ঘ্য })^{2}}=\\sqrt{9^{2}+9^{2}}=\\sqrt{81+81}=\\sqrt{162}=9 \\sqrt{2} \\text { মিটার }   কর্ণ   = (   বাহুর   দৈর্ঘ্য   ) 2 + (   বাহুর   দৈর্ঘ্য   ) 2 ​ = 9 2 + 9 2 ​ = 81 + 81 ​ = 162 ​ = 9 2 ​   মিটার   সুতরাং, বর্গের কর্ণের দৈর্ঘ্য হলো: 9 2  মিটার  9 \\sqrt{2} \\text { মিটার } 9 2 ​   মিটার"
+    },
+    {
+      "number": "22",
+      "tag": "MB 20",
+      "question": "তলের মাত্রা কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "শূন্য",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "একটি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "দুইটি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "তিনটি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "শূন্য",
+      "option_b": "একটি",
+      "option_c": "দুইটি",
+      "option_d": "তিনটি",
+      "correct": "খ",
+      "explanation": "তলের মাত্রা দুইটি"
+    },
+    {
+      "number": "23",
+      "tag": "RB 23,CB 22,MB 20,BCPC 24",
+      "question": "বৃত্তের ব্যাস ও পরিধির অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 : π 2: \\pi 2 : π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "π : 1 \\pi: 1 π : 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π \\pi π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 : π 1: \\pi 1 : π",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 : π 2: \\pi 2 : π",
+      "option_b": "π : 1 \\pi: 1 π : 1",
+      "option_c": "π \\pi π",
+      "option_d": "1 : π 1: \\pi 1 : π",
+      "correct": "ঘ",
+      "explanation": "বৃত্তের ব্যাস ও পরিধির অনুপাত = 2 r : 2 π r = 2 r 2 π r = 1 π = λ : π \\begin{array}{l} =2 r: 2 \\pi r \\\\ =\\frac{2 r}{2 \\pi r} \\\\ =\\frac{1}{\\pi} \\\\ =\\lambda: \\pi \\end{array} = 2 r : 2 π r = 2 π r 2 r ​ = π 1 ​ = λ : π ​"
+    },
+    {
+      "number": "24",
+      "tag": "MB 20",
+      "question": "একটি বর্গের বাহুর দৈর্ঘ্য তিনগুণ বাড়ালে এর ক্ষেত্রফল কত গুণ বৃদ্ধি পাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 গুণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 গুণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 গুণ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "15 গুণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 গুণ",
+      "option_b": "6 গুণ",
+      "option_c": "8 গুণ",
+      "option_d": "15 গুণ",
+      "correct": "গ",
+      "explanation": "বর্গের বাহু a হলে ক্ষেত্রফল = a 2 \\mathrm{a}^{2} a 2 বাহু 3 গুণ হলে ক্ষেত্রফল = ( 3 a ) 2 = 9 a 2 =(3 a)^{2}=9 a^{2} = ( 3 a ) 2 = 9 a 2 বৃদ্ধি পাবে = 9 a 2 − a 2 a 2 = 8 =\\frac{9 a^{2}-a^{2}}{a^{2}}=8 = a 2 9 a 2 − a 2 ​ = 8 গুণ"
+    },
+    {
+      "number": "25",
+      "tag": "MB 20,CB 17,FCC 24,DCS 24",
+      "question": "( − 2 , − 3 ) (-2,-3) ( − 2 , − 3 ) বিন্দুটি কোন সমীকরণের উপর অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x − y = 1 x-y=1 x − y = 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 x + y = 7 2 x+y=7 2 x + y = 7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x − 3 y = 5 x-3 y=5 x − 3 y = 5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2 x + 2 y = − 6 2 x+2 y=-6 2 x + 2 y = − 6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x − y = 1 x-y=1 x − y = 1",
+      "option_b": "2 x + y = 7 2 x+y=7 2 x + y = 7",
+      "option_c": "x − 3 y = 5 x-3 y=5 x − 3 y = 5",
+      "option_d": "2 x + 2 y = − 6 2 x+2 y=-6 2 x + 2 y = − 6",
+      "correct": "গ",
+      "explanation": "( − 2 , − 3 ) (-2,-3) ( − 2 , − 3 ) x − y = 1 x-y=1 x − y = 1 সমীকরণে বসিয়ে,  L.H.S.  = x − y = − 2 − ( − 3 ) = − 2 + 3 = 1 =  R.H.S.  \\begin{aligned} \\text { L.H.S. } & =x-y \\\\ & =-2-(-3) \\\\ & =-2+3 \\\\ & =1 \\\\ & =\\text { R.H.S. } \\end{aligned}  L.H.S.  ​ = x − y = − 2 − ( − 3 ) = − 2 + 3 = 1 =  R.H.S.  ​ ∴ ( − 2 , − 3 ) \\therefore(-2,-3) ∴ ( − 2 , − 3 ) বিন্দুটি x − y = 1 x-y=1 x − y = 1 সমীকরণকে সিদ্ধ করে। (2,-3) বিন্দুটি x - y = 1 রেখার উপর অবস্থিত।"
+    },
+    {
+      "number": "26",
+      "tag": "CTG.B 25,DB 20,MB 20",
+      "question": "চিত্রে PA এবং PB দুইটি স্পর্শক এবং ∠PAB = 30° হলে, ∠AOB এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "120°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "90°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30°",
+          "is_correct": true
+        }
+      ],
+      "option_a": "120°",
+      "option_b": "90°",
+      "option_c": "60°",
+      "option_d": "30°",
+      "correct": "ঘ",
+      "explanation": "এখানে, ∠ P A B = 30 ∘ ∴ ∠ B A O = ∠ P A O − ∠ P A B = 90 ∘ − 30 ∘ = 60 ∘ ∴ ∠ B A O = ∠ A B O = 60 ∘ ∣ △ A O B তে ∠ B A O + ∠ A B O + ∠ A O B = 180 ∘ ∠ A O B = 180 ∘ − 60 ∘ − 60 ∘ ∠ A O B = 60 ∘ \\left.\\begin{aligned} \\angle P A B= & 30^{\\circ} \\\\ \\therefore \\angle B A O & =\\angle P A O-\\angle P A B \\\\ & =90^{\\circ}-30^{\\circ} \\\\ & =60^{\\circ} \\\\ \\therefore \\angle B A O & =\\angle A B O=60^{\\circ} \\end{aligned} \\right\\rvert\\, \\begin{array}{l} \\triangle A O B তে \\\\ \\angle B A O+\\angle A B O+\\angle A O B=180^{\\circ} \\\\ \\angle A O B=180^{\\circ}-60^{\\circ}-60^{\\circ} \\\\ \\angle A O B=60^{\\circ} \\end{array} ∠ P A B = ∴ ∠ B A O ∴ ∠ B A O ​ 3 0 ∘ = ∠ P A O − ∠ P A B = 9 0 ∘ − 3 0 ∘ = 6 0 ∘ = ∠ A BO = 6 0 ∘ ​ ​ △ A OB তে ∠ B A O + ∠ A BO + ∠ A OB = 18 0 ∘ ∠ A OB = 18 0 ∘ − 6 0 ∘ − 6 0 ∘ ∠ A OB = 6 0 ∘ ​"
+    },
+    {
+      "number": "27",
+      "tag": "MB 20,DIN.B 19,FCC 24,RCC 24,ISCM 24,BNMPC 24",
+      "question": "x : y = 3 : 2 x: y=3: 2 x : y = 3 : 2 হলে, 4 x : 5 y = 4 x: 5 y= 4 x : 5 y = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "15 : 8 15: 8 15 : 8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8 : 15 8: 15 8 : 15",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 : 6 5: 6 5 : 6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6 : 5 6: 5 6 : 5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "15 : 8 15: 8 15 : 8",
+      "option_b": "8 : 15 8: 15 8 : 15",
+      "option_c": "5 : 6 5: 6 5 : 6",
+      "option_d": "6 : 5 6: 5 6 : 5",
+      "correct": "গ",
+      "explanation": "দেওয়া আছে, x : y = 3 : 2 ⇒ x y = 3 2 ∴ 4 x : 5 y = 4 x 5 y = 4 5 × x y = 4 5 × 3 2 = 6 5 ∴ 4 x : 5 y = 6 : 5  Any  \\begin{aligned} & x: y=3: 2 \\\\ \\Rightarrow & \\frac{x}{y}=\\frac{3}{2} \\\\ \\therefore \\quad 4 x: 5 y & =\\frac{4 x}{5 y}=\\frac{4}{5} \\times \\frac{x}{y}=\\frac{4}{5} \\times \\frac{3}{2}=\\frac{6}{5} \\\\ \\therefore 4 x: 5 y & =6: 5 \\quad \\text { Any } \\end{aligned} ⇒ ∴ 4 x : 5 y ∴ 4 x : 5 y ​ x : y = 3 : 2 y x ​ = 2 3 ​ = 5 y 4 x ​ = 5 4 ​ × y x ​ = 5 4 ​ × 2 3 ​ = 5 6 ​ = 6 : 5  Any  ​"
+    },
+    {
+      "number": "28",
+      "tag": "JB 25,MB 20,CCC 24,BCC 24,RUMC 24,DCS 24,RCPC 24",
+      "question": "প্রথম n সংখ্যক জোড় সংখ্যার সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a 2 a^{2} a 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 n 2 2 n^{2} 2 n 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "n 2 + n n^{2}+n n 2 + n",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 n + 1 2 n+1 2 n + 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a 2 a^{2} a 2",
+      "option_b": "2 n 2 2 n^{2} 2 n 2",
+      "option_c": "n 2 + n n^{2}+n n 2 + n",
+      "option_d": "2 n + 1 2 n+1 2 n + 1",
+      "correct": "ক",
+      "explanation": "জোড় সংখ্যার ধারাটি হবে = 2 + 4 + 6 + ⋯ + n =2+4+6 + \\cdots+n = 2 + 4 + 6 + ⋯ + n ১ম পদ , a = 2 a=2 a = 2 সাধারণ অন্তর d = 2 d=2 d = 2 ∴ n   সংখ্যক পদের সমষ্টি = n 2 { 2 a + ( n − 1 ) d } = n 2 { 4 + ( n − 1 ) 2 } = n 2 { 4 + 2 n − 2 } = n 2 { 2 n + 2 } = n ( n + 1 ) = n 2 + n . \\begin{array}{l} \\therefore n \\text { } \\text { সংখ্যক পদের সমষ্টি} =\\frac{n}{2}\\{2 a+(n-1) d\\} \\\\ =\\frac{n}{2}\\left\\{4+(n-1)^{2}\\right\\} \\\\ =\\frac{n}{2}\\{4+2 n-2\\} \\\\ =\\frac{n}{2}\\{2 n+2\\} \\\\ =n(n+1) \\\\ =n^{2}+n . \\end{array} ∴ n     সংখ্যক   পদের   সমষ্টি = 2 n ​ { 2 a + ( n − 1 ) d } = 2 n ​ { 4 + ( n − 1 ) 2 } = 2 n ​ { 4 + 2 n − 2 } = 2 n ​ { 2 n + 2 } = n ( n + 1 ) = n 2 + n . ​"
+    },
+    {
+      "number": "29",
+      "tag": "DIN.B 24,MB 20,DB 17,FGCC 24",
+      "question": "ক্রমযোজিত গণসংখ্যা প্রয়োজন- i. প্রচুরক নির্ণয়ে ii. মধ্যক নির্ণয়ে iii. অজিভ রেখা নির্ণয়ে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "iiও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, iiও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "iiও iii",
+      "option_d": "i, iiও iii",
+      "correct": "গ",
+      "explanation": "শুধুমাত্র মধ্যক ও অজিভরেখা নির্ণয়ে ক্রমযোজিত গণসংখ্যার প্রয়োজন হয়। প্রচুরক নির্ণয় ক্রমযোজিত গণসংখ্যার প্রয়োজন নেই।"
+    },
+    {
+      "number": "30",
+      "tag": "RB 23,CB 22,MB 20,MCC 24,PCC 24,VNSC 24",
+      "question": "3 থেকে 23 পর্যন্ত 3 দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": true
+        }
+      ],
+      "option_a": "9",
+      "option_b": "12",
+      "option_c": "15",
+      "option_d": "18",
+      "correct": "ঘ",
+      "explanation": "প্রথমে 3 থেকে 23 পর্যন্ত 3 দ্বারা বিভাজ্য সংখ্যাগুলো নির্ধারণ করি। ৩ দ্বারা বিভাজ্য সংখ্যাগুলো হলো: 3, 6, 9, 12, 15, 18, 21। এখন আমরা এই সংখ্যাগুলোর মধ্যক নির্ণয় করব। মধ্যক নির্ণয় করার জন্য, সংখ্যাগুলো ক্রমানুসারে সাজিয়ে মাঝের সংখ্যাটি নির্ধারণ করতে হবে। উল্লেখিত সংখ্যাগুলোতে (3, 6, 9, 12, 15, 18, 21) মোট ৭টি সংখ্যা আছে। এখন, মোট ৭টি সংখ্যার মধ্যে মাঝে যে সংখ্যা আছে, সেটিই মধ্যক। মাঝের সংখ্যা হলো ১২। তাহলে, 3 থেকে 23 পর্যন্ত 3 দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক হলো ১২ ।"
+    }
+  ]
+}

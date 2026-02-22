@@ -1,0 +1,822 @@
+{
+  "read_id": "Z1E-m8-Yf_7IW645",
+  "title": "পুলিশ লাইন্স স্কুল এন্ড কলেজ, রংপুর ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DB 24,RPLSC 24",
+      "question": "আপেক্ষিক তাপের একক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "K -1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Jkg -1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "JkgK -1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Jkg -1 K -1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "K -1",
+      "option_b": "Jkg -1",
+      "option_c": "JkgK -1",
+      "option_d": "Jkg -1 K -1",
+      "correct": "ঘ",
+      "explanation": "আপেক্ষিক তাপ (Specific Heat): c = Q m ⋅ Δ T c=\\frac{Q}{m \\cdot \\Delta T} c = m ⋅ Δ T Q ​ এখানে: - Q Q Q হলো তাপের পরিমাণ (Joule, J) - m m m হলো ভর (kilogram, kg) - Δ T \\Delta T Δ T হলো তাপমাত্রার পরিবর্ডন (Kelvin, K) তাহলে, আপেক্ষিক তাপের একক হবে: c = J   k g ⋅   K c=\\frac{\\mathrm{J}}{\\mathrm{~kg} \\cdot \\mathrm{~K}} c =   kg ⋅   K J ​"
+    },
+    {
+      "number": "2",
+      "tag": "RPLSC 24",
+      "question": "2 × 10 -6 F ধারকত্বের কোনো ধারকের বিভব পার্থক্য 200 V হলে সঞ্চিত চার্জের পরিমাণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 x 10 -4 C",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 x 10 -4 C",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 x 10 -3 C",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4x10 -2 C",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 x 10 -4 C",
+      "option_b": "4 x 10 -4 C",
+      "option_c": "4 x 10 -3 C",
+      "option_d": "4x10 -2 C",
+      "correct": "খ",
+      "explanation": "আমরা জানি, V = Q c ⇒ Q = V c = 200 × 2 × 10 − 6 = 4 × 10 − 4 c \\begin{aligned} V= & \\frac{Q}{c} \\\\ \\Rightarrow Q= & V c \\\\ & =200 \\times 2 \\times 10^{-6} \\\\ & =4 \\times 10^{-4} c \\end{aligned} V = ⇒ Q = ​ c Q ​ V c = 200 × 2 × 1 0 − 6 = 4 × 1 0 − 4 c ​"
+    },
+    {
+      "number": "3",
+      "tag": "RPLSC 24,DIN.B 23",
+      "question": "একটি তারের ব্যাসার্ধ পরিমাপে 1% ত্রুটি হলে প্রস্থচ্ছেদের ক্ষেত্রফল নির্ণয়ে আপেক্ষিক ত্রুটি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2%",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "20%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1%",
+      "option_b": "2%",
+      "option_c": "10%",
+      "option_d": "20%",
+      "correct": "খ",
+      "explanation": "তারের ব্যাসার্ধ r হলে প্রস্থচ্ছেদের ক্ষেত্রফল, A = π r 2 \\mathrm{A}=\\pi \\mathrm{r}^{2} A = π r 2 । ব্যাসার্ধ পরিমাপে 1 % 1 \\% 1% ত্রুটি হলে, সম্ভাব্য ছোট ক্ষেত্রফল, A 1 = π [ ( 1 − 1 % ) r ] 2 = A_{1}=\\pi[(1-1 \\%) r]^{2}= A 1 ​ = π [( 1 − 1% ) r ] 2 = π × ( 0.99 r ) 2 = π × 0.9801 r 2 \\pi \\times(0.99 \\mathrm{r})^{2}=\\pi \\times 0.9801 \\mathrm{r}^{2} π × ( 0.99 r ) 2 = π × 0.9801 r 2 এবং সম্ভাব্য বড় ক্ষেত্রফল, A 2 = π [ ( 1 + \\mathrm{A}_{2}=\\pi[(1+ A 2 ​ = π [( 1 + 1 % ) r ] 2 = π × ( 1.01 r ) 2 = π × 1.020 r 2 1 \\%) \\mathrm{r}]^{2}=\\pi \\times(1.01 \\mathrm{r})^{2}=\\pi \\times 1.020 \\mathrm{r}^{2} 1% ) r ] 2 = π × ( 1.01 r ) 2 = π × 1.020 r 2 ∴ \\therefore ∴ চূড়ান্ত ত্রুটি, ∣ A 1 − A ∣ = 0.0199 π r 2 \\left|A_{1}-A\\right|=0.0199 \\pi r^{2} ∣ A 1 ​ − A ∣ = 0.0199 π r 2 ∣ A 2 − A ∣ = 0.020 π r 2 \\left|A_{2}-A\\right|=0.020 \\pi r^{2} ∣ A 2 ​ − A ∣ = 0.020 π r 2 [বড়টি নিই] ∴ \\therefore ∴ আপেক্ষিক ত্রুটি = 0.020 π r 2 π r 2 × 100 % = 2 % =\\frac{0.020 \\pi r^{2}}{\\pi r^{2}} \\times 100 \\%=2 \\% = π r 2 0.020 π r 2 ​ × 100% = 2%"
+    },
+    {
+      "number": "4",
+      "tag": "RPLSC 24,CTG.B 23",
+      "question": "সমুদ্রের 210 m গভীরতায় চাপের পরিমাণ কোনটি? সমুদ্রের পানির ঘনত্ব 1025 kgm -3",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.1 atm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4.2 atm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "21.87 atm",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "42 atm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2.1 atm",
+      "option_b": "4.2 atm",
+      "option_c": "21.87 atm",
+      "option_d": "42 atm",
+      "correct": "গ",
+      "explanation": "গভীরতা ( h ) = 210 (h)=210 ( h ) = 210 মিটার পানির ঘনত্ব ( ρ ) = 1025   k g / m 3 (\\rho)=1025 \\mathrm{~kg} / \\mathrm{m}^{3} ( ρ ) = 1025   kg / m 3 অভিকর্ষজ ত্বরণ ( g ) = 9.81   m / s 2 (g)=9.81 \\mathrm{~m} / \\mathrm{s}^{2} ( g ) = 9.81   m / s 2 বায়ুমণ্ডলীয় চাপ ( P 0 ) = 1 a t m \\left(P_{0}\\right)=1 atm ( P 0 ​ ) = 1 a t m পানির চাপ গণনা: পানির চাপ ( P water  P_{\\text {water }} P water  ​ ) নিম্নলিখিত সূত্র দ্বারা গণনা করা হয়: P water  = ρ × g × h P_{\\text {water }}=\\rho \\times g \\times h P water  ​ = ρ × g × h মানগুলি বসিয়ে পাই: P water  = 1025   k g / m 3 × 9.81   m / s 2 × 210   m P water  = 2.114 × 10 6   P a \\begin{array}{c} P_{\\text {water }}=1025 \\mathrm{~kg} / \\mathrm{m}^{3} \\times 9.81 \\mathrm{~m} / \\mathrm{s}^{2} \\times 210 \\mathrm{~m} \\\\ P_{\\text {water }}=2.114 \\times 10^{6} \\mathrm{~Pa} \\end{array} P water  ​ = 1025   kg / m 3 × 9.81   m / s 2 × 210   m P water  ​ = 2.114 × 1 0 6   Pa ​ পানির চাপকে atm এ র্রপান্তর: 1 a t m = 1.013 × 10 5   P a 1 \\mathrm{atm}=1.013 \\times 10^{5} \\mathrm{~Pa} 1 atm = 1.013 × 1 0 5   Pa সুতরাং, P water, atm  = P water  1.013 × 10 5   P a / a t m P water, atm  = 2.114 × 10 6   P a 1.013 × 10 5   P a / a t m ≈ 20.87 a t m \\begin{array}{c} P_{\\text {water, atm }}=\\frac{P_{\\text {water }}}{1.013 \\times 10^{5} \\mathrm{~Pa} / \\mathrm{atm}} \\\\ P_{\\text {water, atm }}=\\frac{2.114 \\times 10^{6} \\mathrm{~Pa}}{1.013 \\times 10^{5} \\mathrm{~Pa} / \\mathrm{atm}} \\approx 20.87 \\mathrm{atm} \\end{array} P water, atm  ​ = 1.013 × 1 0 5   Pa / atm P water  ​ ​ P water, atm  ​ = 1.013 × 1 0 5   Pa / atm 2.114 × 1 0 6   Pa ​ ≈ 20.87 atm ​ মোট চাপ গণনা: মোট চাপ ( P total  ) \\left.P_{\\text {total }}\\right) P total  ​ ) হল বায়ুমণ্ডলীয় চাপ এবং পানির চাপের সমষ্টি: P total  = P 0 + P water, atm  P total  = 1 a t m + 20.87 a t m = 21.87 a t m \\begin{array}{c} P_{\\text {total }}=P_{0}+P_{\\text {water, } \\text {atm }} \\\\ P_{\\text {total }}=1 \\mathrm{atm}+20.87 \\mathrm{atm}=21.87 \\mathrm{atm} \\end{array} P total  ​ = P 0 ​ + P water,  atm  ​ P total  ​ = 1 atm + 20.87 atm = 21.87 atm ​ সুতরাং, সমুদ্রের 210 মিটার গভীরতায় চাপের পরিমাণ প্রায় 21.87 atm।"
+    },
+    {
+      "number": "5",
+      "tag": "RPLSC 24,JB 23",
+      "question": "গতিশক্তি 9 গুণ হলে বস্তুর বেগ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 গুণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 গুণ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 গুণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9 গুণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 গুণ",
+      "option_b": "3 গুণ",
+      "option_c": "4 গুণ",
+      "option_d": "9 গুণ",
+      "correct": "খ",
+      "explanation": "গতিশক্তির সূত্র হলো: K E = 1 2 m v 2 K E=\\frac{1}{2} m v^{2} K E = 2 1 ​ m v 2 যেখানে, K E =  গতিশক্তি  m =  বস্তুর ভর  v =  বস্তুর বেগ  \\begin{array}{l} K E=\\text { গতিশক্তি } \\\\ m=\\text { বস্তুর ভর } \\\\ v=\\text { বস্তুর বেগ } \\end{array} K E =   গতিশক্তি   m =   বস্তুর   ভর   v =   বস্তুর   বেগ   ​ যদি গতিশক্তি 9 গুণ হয়, তাহলে নতুন গতিশক্তি হবে K E ′ = 9 K E K E^{\\prime}=9 K E K E ′ = 9 K E । আমরা লিখতে পারি: 9 K E = 1 2 m v ′ 2 9 ( 1 2 m v 2 ) = 1 2 m v ′ 2 \\begin{array}{l} 9 K E=\\frac{1}{2} m v^{\\prime 2} \\\\ 9\\left(\\frac{1}{2} m v^{2}\\right)=\\frac{1}{2} m v^{\\prime 2} \\end{array} 9 K E = 2 1 ​ m v ′2 9 ( 2 1 ​ m v 2 ) = 2 1 ​ m v ′2 ​ উভয় পাশ থেকে 1 2 m \\frac{1}{2} m 2 1 ​ m বাদ দিলে: 9 v 2 = v ′ 2 9 v^{2}=v^{\\prime 2} 9 v 2 = v ′2 এখন v ′ v^{\\prime} v ′ এর মান বের করার জন্য উভয় পাশে বর্গমূল (square root) করি: 9 v 2 = v ′ 2 3 v = v ′ \\begin{array}{l} \\sqrt{9 v^{2}}=\\sqrt{v^{\\prime 2}} \\\\ 3 v=v^{\\prime} \\end{array} 9 v 2 ​ = v ′2 ​ 3 v = v ′ ​ সুতরাং, গতিশক্তি 9 গুণ হলে বস্তুর বেগ 3 গুণ হবে।"
+    },
+    {
+      "number": "6",
+      "tag": "RPLSC 24",
+      "question": "1 মিনিটে 60 J কাজ করলে তাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1W",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "60 W",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.6 W",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10 W",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1W",
+      "option_b": "60 W",
+      "option_c": "0.6 W",
+      "option_d": "10 W",
+      "correct": "ক",
+      "explanation": "আমরা জানি, P = W t P=\\frac{W}{t} P = t W ​ এখানে, W = 60   J W=60 \\mathrm{~J} W = 60   J এবং t = 60   s t=60 \\mathrm{~s} t = 60   s , তাহলে: P = 60   J 60   s = 1   W P=\\frac{60 \\mathrm{~J}}{60 \\mathrm{~s}}=1 \\mathrm{~W} P = 60   s 60   J ​ = 1   W"
+    },
+    {
+      "number": "7",
+      "tag": "GLHSD 24,RPLSC 24,BB 20",
+      "question": "100 gm ভরের বরফকে তাপ প্রয়োগ করা হলো- বরফের তাপমাত্রা 0°C এ উন্নীত হতে কত তাপের প্রয়োজন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "420 J",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4200 J",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "420000 J",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "33400 J",
+          "is_correct": false
+        }
+      ],
+      "option_a": "420 J",
+      "option_b": "4200 J",
+      "option_c": "420000 J",
+      "option_d": "33400 J",
+      "correct": "খ",
+      "explanation": "বরফের তাপমাত্রা 0°C এ উন্নীত হতে যে তাপের প্রয়োজন তা নির্ণয় করতে হবে। বরফকে উষ্ণতায় আনতে তাপমাত্রার পরিবর্তন ঘটাতে হবে। বরফের সুনির্দিষ্ট তাপধারণ ক্ষমতা বিমূর্তভাবে 2.1 J/g°C। এখানে বরফের ভর 100 গ্রাম এবং তাপমাত্রার পরিবর্তন 0 ° C 0°C 0° C হওয়ার জন্য − 20 ° C -20°C − 20° C থেকে 0 ° C 0°C 0° C পর্যন্ত, তাই তাপের প্রয়োজন: Q = m c Δ T Q = mc\\Delta T Q = m c Δ T এখানে, m = 100 gm m = 100 \\, \\text{gm} m = 100 gm c = 2100 J/g°C c = 2100\\, \\text{J/g°C} c = 2100 J/g°C Δ T = ( 0 ° C − ( − 20 ° C ) ) = 20 ° C \\Delta T = (0°C - (-20°C)) = 20°C Δ T = ( 0° C − ( − 20° C )) = 20° C তাহলে, Q = 0.1 × 2100 × 20 = 4200 J Q = 0.1 \\times 2100 \\times 20 = 4200 \\, \\text{J} Q = 0.1 × 2100 × 20 = 4200 J সুতরাং, বরফকে 0°C এ উন্নীত করতে 4200 J তাপের প্রয়োজন। সঠিক উত্তর হলো: 4200 J"
+    },
+    {
+      "number": "8",
+      "tag": "RPLSC 24",
+      "question": "100 gm ভরের বরফকে তাপ প্রয়োগ করা হলো- পদার্থের অণুসমূহের- i. CD অংশের গতিশক্তি সবচেয়ে কম ii. BC অংশে বিভবশক্তি বৃদ্ধি পাচ্ছে iii. AB অংশে গতিশক্তি তাপমাত্রার সমানুপাতিক নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "AB অংশ: উষ্ণতা বৃদ্ধি পাচ্ছে, অর্থাৎ বরফের তাপমাত্রা -২০°C থেকে ০°C তে আসছে। এটি হলো বরফের উষ্ণতা বৃদ্ধি — এখানে গতি শক্তি সমানুপাতিকভাবে বৃদ্ধি পাচ্ছে তাপমাত্রার সঙ্গে। iii সঠিক। BC অংশ: উষ্ণতা ০°C-এ স্থির, অর্থাৎ এখানে গলন ঘটছে (বরফ তরলে পরিণত হচ্ছে)। এই সময় গতি শক্তি বাড়ছে না, বরং বিভব শক্তি বাড়ছে। ii সঠিক। CD অংশ: তরল জল ০°C থেকে ১০০°C পর্যন্ত গরম হচ্ছে, অর্থাৎ তাপমাত্রা বৃদ্ধি পাচ্ছে, তাই গতি শক্তিও বাড়ছে। এখানে গতি শক্তি সবচেয়ে কম নয়, বরং বাড়ছে। i ভুল। সঠিক উত্তর: গ (ii ও iii)"
+    },
+    {
+      "number": "9",
+      "tag": "RPLSC 24",
+      "question": "হ্রস্বদৃষ্টি ত্রুটির প্রতিকারে কোন লেন্স ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অবতল",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "উত্তল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমতলাবতল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "উত্তলাবতল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অবতল",
+      "option_b": "উত্তল",
+      "option_c": "সমতলাবতল",
+      "option_d": "উত্তলাবতল",
+      "correct": "ক",
+      "explanation": "হ্রস্বদৃষ্টি ত্রুটি দূর করার জন্য এমন একটি অবতল লেন্সের চশমা ব্যবহার করতে হবে।"
+    },
+    {
+      "number": "10",
+      "tag": "RPLSC 24",
+      "question": "আবিষ্ট বস্তুর দূরবর্তী প্রান্তে জমা হওয়া আধানকে কী বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মুক্ত আধান",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "বদ্ধ আধান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আবিষ্ট আধান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আবেশিত আধান",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মুক্ত আধান",
+      "option_b": "বদ্ধ আধান",
+      "option_c": "আবিষ্ট আধান",
+      "option_d": "আবেশিত আধান",
+      "correct": "ক",
+      "explanation": "যদি কোন পরিবাহী বস্তুতে বিদ্যুৎক্ষেত্র প্রয়োগ করা হয়, তবে ঐ পরিবাহী বস্তুতে মুক্ত আধানগুলো শক্তি লাভ করে এবং পরিবাহীর এক প্রান্ত হতে অন্য প্রান্তে প্রবাহিত হতে থাকে। ফলে এই আধানগুলো পরিবাহীর দূরবর্তী প্রান্তে জমা হয়। এই জমা হওয়া আধানগুলোকে মুক্ত আধান বলা হয়।"
+    },
+    {
+      "number": "11",
+      "tag": "BB 24,RPLSC 24",
+      "question": "1 m লম্বা একটি সুতায় 30 gm ভরের একটি ইটের টুকরো ঝুলিয়ে দিলে দোলনকাল কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 s",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 s",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2.5 s",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 s",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 s",
+      "option_b": "2 s",
+      "option_c": "2.5 s",
+      "option_d": "3 s",
+      "correct": "খ",
+      "explanation": "দোলনকাল, T = 2 π l   g = 2 × 3.1416 × 1 9.8 = 2   s \\mathrm{T}=2 \\pi \\sqrt{\\frac{l}{\\mathrm{~g}}}=2 \\times 3.1416 \\times \\sqrt{\\frac{1}{9.8}}=2 \\mathrm{~s} T = 2 π   g l ​ ​ = 2 × 3.1416 × 9.8 1 ​ ​ = 2   s এখানে দোলনকে সরল লম্ব দোলক (Simple Pendulum) ধরে গণনা করা হয়েছে, এবং বস্তুটির ভর (30 gm) দোলনকালের ওপর কোনো প্রভাব ফেলে না।"
+    },
+    {
+      "number": "12",
+      "tag": "RPLSC 24,MB 23",
+      "question": "বিদ্যুৎ প্রবাহ দিয়ে চুম্বক তৈরি করেন কোন বিজ্ঞানী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ফ্যারাডে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ভোল্টা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কেলভিন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ওরস্টেড",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ফ্যারাডে",
+      "option_b": "ভোল্টা",
+      "option_c": "কেলভিন",
+      "option_d": "ওরস্টেড",
+      "correct": "ঘ",
+      "explanation": "বিদ্যুৎ প্রবাহ দিয়ে চুম্বক তৈরি করেন হ্যান্স ক্রিশ্চিয়ান ওরস্টেড (Hans Christian Ørsted) । তিনি প্রথম দেখান যে, তড়িৎ প্রবাহিত তারের চারপাশে চৌম্বক ক্ষেত্র সৃষ্টি হয়। এটি ছিল তড়িৎচৌম্বকত্ব আবিষ্কারের সূচনা। তবে তড়িৎ চুম্বক (Electromagnet) তৈরি করেন পরবর্তীতে আন্দ্রে-মারি আম্পিয়ার (André-Marie Ampère) এবং উইলিয়াম স্টারজিয়ন (William Sturgeon) ।"
+    },
+    {
+      "number": "13",
+      "tag": "CB 23,DIN.B 22,BB 21",
+      "question": "পড়ন্ত বস্তুর জন্য নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "v ∝ t 2 v \\propto t^{2} v ∝ t 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "h ∝ t 2 h \\propto t^{2} h ∝ t 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "h ∝ t h \\propto t h ∝ t",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "t ∝ v t \\propto v t ∝ v",
+          "is_correct": false
+        }
+      ],
+      "option_a": "v ∝ t 2 v \\propto t^{2} v ∝ t 2",
+      "option_b": "h ∝ t 2 h \\propto t^{2} h ∝ t 2",
+      "option_c": "h ∝ t h \\propto t h ∝ t",
+      "option_d": "t ∝ v t \\propto v t ∝ v",
+      "correct": "খ",
+      "explanation": "প্রথম সূত্র: স্থির অবস্থান ও একই উচ্চতা থেকে বিনা বাধায় পড়ন্ত বস্তু সমান সময়ে সমান পথ অতিক্রম করবে। দ্বিতীয় সূত্র: স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তুর নির্দিষ্ট সময়ে ( t ) (t) ( t ) প্রাপ্ত বেগ ( v ) (v) ( v ) ঐ সময়ের সমানুপাতিক। অর্থাৎ v ∝ t v \\propto t v ∝ t তৃতীয় সূত্র: স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তু নির্দিষ্ট সময়ে যে দূরত্ব ( h ) (h) ( h ) অতিক্রম করে তা ঐ সময়ের ( t ) (t) ( t ) বর্গের সমানুপাতিক। অর্থাৎ h ∝ t 2 h \\propto t^{2} h ∝ t 2"
+    },
+    {
+      "number": "14",
+      "tag": "RPLSC 24,RB 19",
+      "question": "ফুসফুস, ব্রেন ইত্যাদির ত্রিমাত্রিক ছবি পাওয়া যায় কোন পরীক্ষার সাহায্যে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সিটিস্ক্যান",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "এমআরআই",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "এন্ডোসকোপি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "এনজিওগ্রাফি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সিটিস্ক্যান",
+      "option_b": "এমআরআই",
+      "option_c": "এন্ডোসকোপি",
+      "option_d": "এনজিওগ্রাফি",
+      "correct": "ক",
+      "explanation": "সিটিস্ক্যানের মাধ্যমে মানব শরীরের বিভিন্ন অঙ্গের ত্রিমাত্রিক ছবি পাওয়া যায়। সিটিস্ক্যান: সিটিস্ক্যানের সাহায্যে শরীরের নরম টিস্যু, রক্তবাহী শিরা বা ধমনী, ফুসফুস, ব্রেন ইত্যাদি ত্রিমাত্রিক ছবি পাওয়া যায়। যকৃত, ফুসফুস এবং অগ্নাশয়ের ক্যান্সার সনাক্ত করার কাজে সিটিস্ক্যান ব্যবহৃত হয়।"
+    },
+    {
+      "number": "15",
+      "tag": "RPLSC 24",
+      "question": "তেজস্ক্রিয়তা একটি- i. নিউক্লিয় ঘটনা ii. পারমাণবিক ঘটনা iii. স্বতঃস্ফূর্ত ঘটনা নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "তেজস্ক্রিয়তা হলো এমন একটি প্রাকৃতিক প্রক্রিয়া যেখানে কিছু মৌল এবং যৌগের নিউক্লিয় ঘটনা ঘটে যা সাধারণত পারমাণবিক কেন্দ্রস্থলের পরিবর্তনের সাথে যুক্ত হয়। এটি স্বতঃস্ফূর্তভাবে ঘটে থাকে। তাই তেজস্ক্রিয়তা হলো নিউক্লিয় ঘটনা, পারমাণবিক ঘটনা এবং স্বতঃস্ফূর্ত ঘটনা।"
+    },
+    {
+      "number": "16",
+      "tag": "CTG.B 24,RPLSC 24",
+      "question": "টায়ারটির উপর কী ধরনের বল কাজ করছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সাম্য বল",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "অসাম্য বল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "লব্ধি বল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মৌলিক বল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সাম্য বল",
+      "option_b": "অসাম্য বল",
+      "option_c": "লব্ধি বল",
+      "option_d": "মৌলিক বল",
+      "correct": "ক",
+      "explanation": "টায়ারটি উপর থেকে ঝুলে আছে তাই এর ওজণ বা অভিকর্ষ বল নিচের দিকে কাজ করছে। নিউটনের ৩য় সূত্র অনুযায়ী সমান পরিমান দড়ির টান বল উপরের দিকে কাজ কিরছে। তাই দুটি বল একে অপরকে নিষ্ক্রিয় করে দিচ্ছে। অর্থাৎ এখানে সাম্যবল কাজ করছে।"
+    },
+    {
+      "number": "17",
+      "tag": "CTG.B 24,RPLSC 24",
+      "question": "যদি রশি কাটা হয়, তবে টায়ারটি লাভ করবে- i. ক্রিয়া-প্রতিক্রিয়া ii. গতিশক্তি iii. ত্বরন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "যদি রশি কাটা হয় তাহলে টায়ারটি অবমুক্ত অবস্থায় মাটিতে পড়ে যাবে। এই পরিস্থিতিতে টায়ারটি কিছু শক্তি এবং প্রভাব লাভ করবে। ii. গতিশক্তি: টায়ারটি মাটিতে পড়ে যাওয়ার সময় গতিশক্তি অর্জন করবে কারণ এটি পতনের সময় তার গতিবেগ থাকবে। iii. ত্বরণ: মুক্ত পড়ন্ত অবস্থায় থাকার কারণে, টায়ারটি মাধ্যাকর্ষণ বলের কারণে ত্বরণ লাভ করবে যার মান হবে (g) (প্রায় 9.8 m s − 2 9.8 \\, ms^{-2} 9.8 m s − 2 )। তবে, ক্রিয়া-প্রতিক্রিয়া মূলত একটি পরিস্থিতিতে দুই বিপরীত শক্তির প্রয়োগ বোঝায় যা এখানে সুনির্দিষ্টভাবে লেখেনি যে এটি টায়ারের উপর প্রযোজ্য নয়। অতএব, সঠিক উত্তর হল: ii ও iii"
+    },
+    {
+      "number": "18",
+      "tag": "RPLSC 24",
+      "question": "রোধ R, পরিবাহীর দৈর্ঘ্য L, প্রস্থচ্ছেদের ক্ষেত্রফল A হলে নিচের কোন সূত্রটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "R = ρ A L \\mathrm{R}=\\rho \\frac{\\mathrm{A}}{\\mathrm{L}} R = ρ L A ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "R = ρ L A \\mathrm{R}=\\rho \\frac{\\mathrm{L}}{\\mathrm{A}} R = ρ A L ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "R = A ρ L R=\\frac{A}{\\rho L} R = ρ L A ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "R = L ρ A R=\\frac{L}{\\rho A} R = ρ A L ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "R = ρ A L \\mathrm{R}=\\rho \\frac{\\mathrm{A}}{\\mathrm{L}} R = ρ L A ​",
+      "option_b": "R = ρ L A \\mathrm{R}=\\rho \\frac{\\mathrm{L}}{\\mathrm{A}} R = ρ A L ​",
+      "option_c": "R = A ρ L R=\\frac{A}{\\rho L} R = ρ L A ​",
+      "option_d": "R = L ρ A R=\\frac{L}{\\rho A} R = ρ A L ​",
+      "correct": "খ",
+      "explanation": "রোধ, পরিবাহীর দৈর্ঘ্য, প্রস্থচ্ছেদের ক্ষেত্রফল এবং স্পেসিফিক রেজিস্টিভিটি (বা রেসিস্টিভিটি), ρ \\rho ρ এর মধ্যে সম্পর্কের সূত্রটি হলো: R = ρ L A R = \\rho \\frac{L}{A} R = ρ A L ​ সুতরাং সঠিক উত্তরটি হলো বিকল্প (B): R = ρ L A R = \\rho \\frac{L}{A} R = ρ A L ​"
+    },
+    {
+      "number": "19",
+      "tag": "RPLSC 24",
+      "question": "কোন দর্পণে গঠিত বিম্ব পর্দায় ফেলা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "উত্তল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অবতল",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "সমতল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "গোলীয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "উত্তল",
+      "option_b": "অবতল",
+      "option_c": "সমতল",
+      "option_d": "গোলীয়",
+      "correct": "খ",
+      "explanation": "পর্দায় ফেলার জন্য বিম্ব বাস্তব হতে হবে এবং দর্পণের সামনে গঠিত হতে হবে। একমাত্র অবতল দর্পণই বাস্তব বিম্ব গঠন করতে পারে।"
+    },
+    {
+      "number": "20",
+      "tag": "RPLSC 24",
+      "question": "কোনো বস্তুর 70% পানিতে নিমজ্জিত বস্তুটির ঘনত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "70 kgm -3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "700 kgm -3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.70 kgm -3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7000 kgm -3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "70 kgm -3",
+      "option_b": "700 kgm -3",
+      "option_c": "0.70 kgm -3",
+      "option_d": "7000 kgm -3",
+      "correct": "খ",
+      "explanation": "পানির ঘনত্ব = 1000 kg/m³ তাহলে, বস্তুর ঘনত্ব = 70% × 1000 kg/m³ = 700 kg /m³"
+    },
+    {
+      "number": "21",
+      "tag": "RPLSC 24",
+      "question": "কোনো তড়িৎ ক্ষেত্রে 5C আধান 200 N বল অনুভব করলে, তড়িৎ তীব্রতা কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "100 NC -1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 NC -1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "50 NC -1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40 NC -1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "100 NC -1",
+      "option_b": "60 NC -1",
+      "option_c": "50 NC -1",
+      "option_d": "40 NC -1",
+      "correct": "ঘ",
+      "explanation": "তড়িৎ তীব্রতা ( E ) (E) ( E ) এবং অনুভূত বল ( F ) (F) ( F ) এর মধ্যে সম্পর্ক হল: E = F q E=\\frac{F}{q} E = q F ​ এখানে: - E E E হচ্ছে তড়িৎ তীব্রতা (Electric Field), - F = 200   N F=200 \\mathrm{~N} F = 200   N (অনুভূত বল), - q = 5 C q=5 \\mathrm{C} q = 5 C (চার্জ)। তাহলে, তড়িৎ তীব্রতা হবে: E = 200   N 5 C = 40   N / C E=\\frac{200 \\mathrm{~N}}{5 \\mathrm{C}}=40 \\mathrm{~N} / \\mathrm{C} E = 5 C 200   N ​ = 40   N / C অতএব, তড়িৎ তীব্রতা হবে 40 N/C।"
+    },
+    {
+      "number": "22",
+      "tag": "BB 24,RPLSC 24,RB 20",
+      "question": "a মাধ্যমের সাপেক্ষে b মাধ্যমের প্রতিসরণাঙ্ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.83",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1.2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3.95",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.3",
+      "option_b": "0.83",
+      "option_c": "1.2",
+      "option_d": "3.95",
+      "correct": "খ",
+      "explanation": "এখানে,  n a = 1.8 n b = 1.5  প্রতিসরণাঙ্ক,  a n b = ? \\begin{array}{|l} \\text { এখানে, } \\\\ n_{\\mathrm{a}}=1.8 \\\\ n_{\\mathrm{b}}=1.5 \\\\ \\text { প্রতিসরণাঙ্ক, }{ }_{\\mathrm{a}} n_{\\mathrm{b}}=? \\end{array}   এখানে ,  n a ​ = 1.8 n b ​ = 1.5   প্রতিসরণাঙ্ক ,  a ​ n b ​ = ? ​ আমরা জানি, n b = n b n a n_{b}=\\frac{n_{b}}{n_{a}} n b ​ = n a ​ n b ​ ​ বা, 8 n 6 = 1.5 1.8 { }_{8} n_{6}=\\frac{1.5}{1.8} 8 ​ n 6 ​ = 1.8 1.5 ​ ∴ n b = 0.83 \\therefore n_{b}=0.83 ∴ n b ​ = 0.83 অতএব a মাধ্যমের সাপেক্ষে b মাধ্যমের প্রতিসরণাঙ্ক 0.83"
+    },
+    {
+      "number": "23",
+      "tag": "BB 24,RPLSC 24",
+      "question": "উদ্দীপকের ঘটনায়- i. শূন্য মাধ্যমের সাপেক্ষে b মাধ্যমের তুলনায় a মাধ্যমের প্রতিসরণাঙ্ক বেশি ii. আলো হালকা মাধ্যম হতে ঘন মাধ্যমে প্রবেশ করে iii. আলোক রশ্মি b মাধ্যম থেকে a মাধ্যমে প্রবেশের ক্ষেত্রে পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটবে না নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. n b n a = 1 2 \\quad \\frac{\\mathrm{n}_{\\mathrm{b}}}{\\mathrm{n}_{\\mathrm{a}}}=\\frac{1}{\\sqrt{2}} n a ​ n b ​ ​ = 2 ​ 1 ​ বা, n b = n a 2 ∴ n a > n b \\mathrm{n}_{\\mathrm{b}}=\\frac{\\mathrm{n}_{\\mathrm{a}}}{\\sqrt{2}} \\therefore \\mathrm{n}_{\\mathrm{a}}>\\mathrm{n}_{\\mathrm{b}} n b ​ = 2 ​ n a ​ ​ ∴ n a ​ > n b ​ সুতরাং, শূন্য মাধ্যমের সাপেক্ষে ৮ মাধ্যমের তুলনায় এ মাধ্যমের প্রতিসরাঙ্ক বেশি হবে। ii. আলো প্রতিসরিত হওয়ার পরে অভিলম্ব হতে বেশি দূরে সরে গিয়েছে। এখান থেকে বুঝা যায়, আলো ঘন মাধ্যম হতে হালকা মাধ্যমে প্রতিসরিত হয়েছে। iii. আলো হালকা মাধ্যম হতে ঘন মাধ্যমে প্রতিসরিত হওয়ায় এখানে পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটবে না।"
+    },
+    {
+      "number": "24",
+      "tag": "HC 24,RPLSC 24,JB 23",
+      "question": "নিচের কোনটি পড়ন্ত বস্তুর লেখচিত্র?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "",
+      "option_b": "",
+      "option_c": "কোনোটিই নয়",
+      "option_d": "",
+      "correct": "",
+      "explanation": "পড়ন্ত বস্তুর ৩য় সূত্র অনুযায়ী, স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তু নির্দিষ্ট সময়ে যে দূরত্ব (s) অতিক্রম করে তা ঐ সময়ের (t) বর্গের সমানুপাতিক। অর্থাৎ s ∝ t 2 s \\propto \\mathrm{t}^{2} s ∝ t 2 বা, s : = k t 2 s_{:}=k t^{2} s : ​ = k t 2 বা, t 2 = 1 k s \\mathrm{t}^{2}=\\frac{1}{\\mathrm{k}} \\mathrm{s} t 2 = k 1 ​ s বা x 2 = 4 a y \\mathrm{x}^{2}=4 \\mathrm{ay} x 2 = 4 ay পরাবৃত্তের সমীকরণের ন্যায়.। সুতরাং । কোনোটিই সঠিক উত্তর নয় পড়ন্ত বস্তুর পড়ার সময় বেগ থাকে সর্বনিম্ন এবং ভূমিকে স্পর্শ করার মুহূর্তে এর বেগ থাকে সর্বোচ্চ"
+    },
+    {
+      "number": "25",
+      "tag": "RPLSC 24,MB 23",
+      "question": "যান্ত্রিক তরঙ্গের ক্ষেত্রে ঘটে- i. প্রতিসরণ ii. বিচ্ছুরণ iii. উপরিপাতন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "যান্ত্রিক তরঙ্গের ক্ষেত্রে ঘটে: i. প্রতিসরণ – সঠিক। যান্ত্রিক তরঙ্গ এক মাধ্যম থেকে অন্য মাধ্যমে প্রবেশ করলে দিক পরিবর্তন করতে পারে, একেই প্রতিসরণ বলে। ii. বিচ্ছুরণ – ভুল। বিচ্ছুরণ সাধারণত আলোক তরঙ্গের ক্ষেত্রে ব্যবহৃত হয়, যেখানে ভিন্ন ভিন্ন তরঙ্গদৈর্ঘ্যের তরঙ্গগুলো ভিন্ন বেগে চলায় তারা আলাদা হয়ে যায়। যান্ত্রিক তরঙ্গে এই প্রভাব সচরাচর দেখা যায় না, বা গুরুত্বহীন। iii. উপরিপাতন – সঠিক। দুটি যান্ত্রিক তরঙ্গ একত্রে মিলিত হলে তারা উপরিপাতন ঘটায় — অর্থাৎ গঠনমূলক বা বিঘ্নমূলক উপরিপাতন।"
+    }
+  ]
+}

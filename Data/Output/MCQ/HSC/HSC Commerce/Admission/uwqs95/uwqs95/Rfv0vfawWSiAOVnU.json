@@ -1,0 +1,1921 @@
+{
+  "read_id": "Rfv0vfawWSiAOVnU",
+  "title": "FEOS 20-21",
+  "count": 58,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "",
+      "question": "স্থির অবস্থান থেকে সমত্বরণে চলমান বস্তুর অতিক্রান্ত দূরত্ব সময়ের সাথে ......?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমানুপাতিক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বর্গের সমানুপাতিক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ব্যস্তানুপাতিক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বর্গের ব্যস্তানুপাতিক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমানুপাতিক",
+      "option_b": "বর্গের সমানুপাতিক",
+      "option_c": "ব্যস্তানুপাতিক",
+      "option_d": "বর্গের ব্যস্তানুপাতিক",
+      "correct": "খ",
+      "explanation": "S = u t + 1 2 a t 2 ∴ s α t 2 \\begin{array}{l}S=u t+\\frac{1}{2} a t^{2} \\\\ \\therefore s \\alpha t^{2}\\end{array} S = u t + 2 1 ​ a t 2 ∴ s α t 2 ​"
+    },
+    {
+      "number": "2",
+      "tag": "BUTEX 12-13,BAU 18-19",
+      "question": "বাস্তব সংখ্যার উপসেট {x: 5x² - 16x +3≤0 } এর লঘিষ্ঠ ঊর্ধ্বসীমা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-5",
+      "option_b": "-3",
+      "option_c": "3",
+      "option_d": "8",
+      "correct": "গ",
+      "explanation": "প্রদত্ত অসমতা: 5 x 2 − 16 x + 3 ≤ 0 5 x^{2}-16 x+3 \\leq 0 5 x 2 − 16 x + 3 ≤ 0 দ্বিঘাত সমীকরণের মূল নির্ণয় 5 x 2 − 16 x + 3 = 0 x = 16 ± ( − 16 ) 2 − 4 ⋅ 5 ⋅ 3 2 ⋅ 5 = 16 ± 256 − 60 10 = 16 ± 196 10 = 16 ± 14 10 x = 30 10 = 3  जবং  x = 2 10 = 1 5 \\begin{array}{c} 5 x^{2}-16 x+3=0 \\\\ x=\\frac{16 \\pm \\sqrt{(-16)^{2}-4 \\cdot 5 \\cdot 3}}{2 \\cdot 5}=\\frac{16 \\pm \\sqrt{256-60}}{10}=\\frac{16 \\pm \\sqrt{196}}{10}=\\frac{16 \\pm 14}{10} \\\\ x=\\frac{30}{10}=3 \\quad \\text { जবং } \\quad x=\\frac{2}{10}=\\frac{1}{5} \\end{array} 5 x 2 − 16 x + 3 = 0 x = 2 ⋅ 5 16 ± ( − 16 ) 2 − 4 ⋅ 5 ⋅ 3 ​ ​ = 10 16 ± 256 − 60 ​ ​ = 10 16 ± 196 ​ ​ = 10 16 ± 14 ​ x = 10 30 ​ = 3   जবং   x = 10 2 ​ = 5 1 ​ ​ অসমতার সমাধান সেটট নির্ণয় যেহেতু 5 > 0 5>0 5 > 0 , পরাবৃত্ত নিম্নমুখী। সুতরাং অসমতা সিদ্ধ হবে দুই মূলের মধ্যে: 1 5 ≤ x ≤ 3 \\frac{1}{5} \\leq x \\leq 3 5 1 ​ ≤ x ≤ 3 লঘিষ্ঠ ঊর্ধ্বসীমা নির্ণয় সমাধান সেটের সর্বোচ্চ মান 3, যা-ই এর লঘিষ্ঠ ঊর্ধ্বসীমা।"
+    },
+    {
+      "number": "3",
+      "tag": "",
+      "question": "5ft দীর্ঘ একটি দড়ির এক প্রান্ত একটি উলম্ব দেয়ালে আটকানো এবং অন্য প্রান্ত 10ft ব্যাসার্ধবিশিষ্ট একটি গোলকের সাথে যুক্ত। গোলকের ওজন √5kg হলে দড়ির টান কত kg?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3   k g 3 \\mathrm{~kg} 3   kg -wt",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5   k g 5 \\mathrm{~kg} 5   kg -wt",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2   k g 2 \\mathrm{~kg} 2   kg -wt",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1.5   k g 1.5 \\mathrm{~kg} 1.5   kg -wt",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3   k g 3 \\mathrm{~kg} 3   kg -wt",
+      "option_b": "5   k g 5 \\mathrm{~kg} 5   kg -wt",
+      "option_c": "2   k g 2 \\mathrm{~kg} 2   kg -wt",
+      "option_d": "1.5   k g 1.5 \\mathrm{~kg} 1.5   kg -wt",
+      "correct": "ক",
+      "explanation": "B C = 10 A C = 10 + 5 = 15 A B = A C 2 − B C 2 = 225 − 100 = 125 \\begin{array}{l}\\mathrm{BC}=10 \\\\ \\mathrm{AC}=10+5=15 \\\\ \\mathrm{AB}=\\sqrt{\\mathrm{AC}^{2}-\\mathrm{BC}^{2}} \\\\ =\\sqrt{225-100} \\\\ =\\sqrt{125}\\end{array} BC = 10 AC = 10 + 5 = 15 AB = AC 2 − BC 2 ​ = 225 − 100 ​ = 125 ​ ​ W A B = T A C = R B C = 5 125 = T 15 ∴ T = 15 × 5 5 5 = 3 − w t \\begin{array}{l}\\frac{W}{A B}=\\frac{T}{A C}=\\frac{R}{B C} \\\\ =\\frac{\\sqrt{5}}{\\sqrt{125}}=\\frac{T}{15} \\\\ \\therefore T=15 \\times \\frac{\\sqrt{5}}{5 \\sqrt{5}}=3-w t\\end{array} A B W ​ = A C T ​ = BC R ​ = 125 ​ 5 ​ ​ = 15 T ​ ∴ T = 15 × 5 5 ​ 5 ​ ​ = 3 − wt ​"
+    },
+    {
+      "number": "4",
+      "tag": "SUST A 15-16",
+      "question": "q এর কোন মূলদ মানের জন্য x 3 + 3x 2 -27x +q =0 সমীকরণের একটি মূল 2+√3 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "-4",
+      "option_d": "7",
+      "correct": "ঘ",
+      "explanation": "কোন বহুপদীতে অমূলদ সংখ্যা অনুবন্ধী জোড় হিসেবে থাকে অর্থাৎ বহুপদীতে একটি মূল 2 + 3 2+\\sqrt{3} 2 + 3 ​ হলে অপর মূল 2 − 3 2-\\sqrt{3} 2 − 3 ​ হবে এখন, ( 2 + 3 ) (2+\\sqrt{3}) ( 2 + 3 ​ ) এবং ( 2 − 3 ) (2-\\sqrt{3}) ( 2 − 3 ​ ) মূলবিশিষ্ট সমীকরণ: x 2 − ( 2 + 3 + 2 − 3 ) x + ( 2 + 3 ) ( 2 − 3 ) = 0 ⇒ x 2 − 4 x + 1 = 0  তাহলে,  x 3 + 3 x 2 − 27 x + q = 0 ⇒ x ( x 2 − 4 x + 1 ) + 7 ( x 2 − 4 x + 1 ) + q − 7 = 0 ⇒ x × 0 + 7 × 0 + q − 7 = 0 ⇒ q = 7 \\begin{array}{l} \\mathrm{x}^{2}-(2+\\sqrt{3}+2-\\sqrt{3}) \\mathrm{x}+(2+\\sqrt{3})(2-\\sqrt{3})=0 \\\\ \\Rightarrow \\mathrm{x}^{2}-4 \\mathrm{x}+1=0 \\\\ \\text { তাহলে, } \\mathrm{x}^{3}+3 \\mathrm{x}^{2}-27 \\mathrm{x}+\\mathrm{q}=0 \\\\ \\Rightarrow \\mathrm{x}\\left(\\mathrm{x}^{2}-4 \\mathrm{x}+1\\right)+7\\left(\\mathrm{x}^{2}-4 \\mathrm{x}+1\\right)+\\mathrm{q}-7=0 \\\\ \\Rightarrow \\mathrm{x} \\times 0+7 \\times 0+\\mathrm{q}-7=0 \\Rightarrow \\mathrm{q}=7 \\end{array} x 2 − ( 2 + 3 ​ + 2 − 3 ​ ) x + ( 2 + 3 ​ ) ( 2 − 3 ​ ) = 0 ⇒ x 2 − 4 x + 1 = 0   তাহলে ,  x 3 + 3 x 2 − 27 x + q = 0 ⇒ x ( x 2 − 4 x + 1 ) + 7 ( x 2 − 4 x + 1 ) + q − 7 = 0 ⇒ x × 0 + 7 × 0 + q − 7 = 0 ⇒ q = 7 ​"
+    },
+    {
+      "number": "6",
+      "tag": "",
+      "question": "( x 3 − 3 x + 3 x − 1 x 3 ) 2 \\left(x^{3}-3 x+\\frac{3}{x}-\\frac{1}{x^{3}}\\right)^{2} ( x 3 − 3 x + x 3 ​ − x 3 1 ​ ) 2 এর বিস্তৃতিতে x x x বর্জিত পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-20",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20",
+      "option_b": "-20",
+      "option_c": "6",
+      "option_d": "40",
+      "correct": "খ",
+      "explanation": "( x 3 − 3 x + 3 x − 1 x 3 ) 2 = ( x − 1 x ) 6 \\left(x^{3}-3 x+\\frac{3}{x}-\\frac{1}{x^{3}}\\right)^{2}=\\left(x-\\frac{1}{x}\\right)^{6} ( x 3 − 3 x + x 3 ​ − x 3 1 ​ ) 2 = ( x − x 1 ​ ) 6 ∴ x \\therefore \\mathrm{x} ∴ x বর্জিত পদ = − 6 C 3 = − 20 =-{ }^{6} \\mathrm{C}_{3}=-20 = − 6 C 3 ​ = − 20"
+    },
+    {
+      "number": "7",
+      "tag": "BUET 11-12,অসীম স্যার,কেতাব স্যার,CVASU 17-18",
+      "question": "যদি Z = 1 + i 2 \\mathrm{Z}=\\frac{1+\\mathrm{i}}{\\sqrt{2}} Z = 2 ​ 1 + i ​ হয়, তবে z 6 \\mathrm{z}^{6} z 6 এর মান হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "-i",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "i",
+      "option_c": "-i",
+      "option_d": "1",
+      "correct": "খ",
+      "explanation": "a = 1 2 ( 1 + i ) a 2 = 1 2 ( 1 + i ) 2 = 1 2 ( 1 + 2 i − 1 ) = 1 2 ( 2 i ) = i ∴ a 2 = i  হলে,  a 6 = ( a 2 ) 3 = i 3 = − i \\begin{array}{l} a=\\frac{1}{\\sqrt{2}}(1+i) \\\\ a^{2}=\\frac{1}{2}(1+i)^{2}=\\frac{1}{2}(1+2 i-1)=\\frac{1}{2}(2 i)=i \\\\ \\therefore a^{2}=i \\text { হলে, } a^{6}=\\left(a^{2}\\right)^{3}=i^{3}=-i\\end{array} a = 2 ​ 1 ​ ( 1 + i ) a 2 = 2 1 ​ ( 1 + i ) 2 = 2 1 ​ ( 1 + 2 i − 1 ) = 2 1 ​ ( 2 i ) = i ∴ a 2 = i   হলে ,  a 6 = ( a 2 ) 3 = i 3 = − i ​"
+    },
+    {
+      "number": "8",
+      "tag": "JU A 22-23 SET-P",
+      "question": "( − 3 . − 3 ) \\left ( - \\sqrt{3} . - \\sqrt{3} \\right ) ( − 3 ​ . − 3 ​ )    এর পোলার স্থানাঙ্ক কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 6 , π 4 ) \\left ( 6 , \\frac{π}{4} \\right ) ( 6 , 4 π ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 3 , π 4 ) \\left ( \\sqrt{3} , \\frac{π}{4} \\right ) ( 3 ​ , 4 π ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 2 3 , 11 π 21 ) \\left(2\\sqrt{3}, \\frac{11\\pi}{21}\\right) ( 2 3 ​ , 21 11 π ​ )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "( 6 , 5 π 4 ) \\left(\\sqrt{6}, \\frac{5\\pi}{4}\\right) ( 6 ​ , 4 5 π ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 6 , π 4 ) \\left ( 6 , \\frac{π}{4} \\right ) ( 6 , 4 π ​ )",
+      "option_b": "( 3 , π 4 ) \\left ( \\sqrt{3} , \\frac{π}{4} \\right ) ( 3 ​ , 4 π ​ )",
+      "option_c": "( 2 3 , 11 π 21 ) \\left(2\\sqrt{3}, \\frac{11\\pi}{21}\\right) ( 2 3 ​ , 21 11 π ​ )",
+      "option_d": "( 6 , 5 π 4 ) \\left(\\sqrt{6}, \\frac{5\\pi}{4}\\right) ( 6 ​ , 4 5 π ​ )",
+      "correct": "গ",
+      "explanation": "প্রদত্ত কার্তেসীয় স্থানাঙ্ক: ( − 3 , − 3 ) (-\\sqrt{3}, -\\sqrt{3}) ( − 3 ​ , − 3 ​ ) r r r নির্ণয়: r = x 2 + y 2 = ( − 3 ) 2 + ( − 3 ) 2 = 3 + 3 = 6 r = \\sqrt{x^2 + y^2} = \\sqrt{(-\\sqrt{3})^2 + (-\\sqrt{3})^2} = \\sqrt{3 + 3} = \\sqrt{6} r = x 2 + y 2 ​ = ( − 3 ​ ) 2 + ( − 3 ​ ) 2 ​ = 3 + 3 ​ = 6 ​ θ \\theta θ নির্ণয়: tan ⁡ θ = y x = − 3 − 3 = 1 \\tan \\theta = \\frac{y}{x} = \\frac{-\\sqrt{3}}{-\\sqrt{3}} = 1 tan θ = x y ​ = − 3 ​ − 3 ​ ​ = 1 সাধারণ সমাধান: θ = π 4 + n π \\theta = \\frac{\\pi}{4} + n\\pi θ = 4 π ​ + nπ θ = π + π 4 = 5 π 4 \\theta = \\pi + \\frac{\\pi}{4} = \\frac{5\\pi}{4} θ = π + 4 π ​ = 4 5 π ​ পোলার স্থানাঙ্ক: পোলার স্থানাঙ্কের সাধারণ রূপ ( r , θ ) (r, \\theta) ( r , θ ) । r = 6 , θ = 5 π 4 r = \\sqrt{6}, \\theta = \\frac{5\\pi}{4} r = 6 ​ , θ = 4 5 π ​ ( 6 , 5 π 4 ) \\left(\\sqrt{6}, \\frac{5\\pi}{4}\\right) ( 6 ​ , 4 5 π ​ )"
+    },
+    {
+      "number": "9",
+      "tag": "",
+      "question": "BSMRMU শব্দ থেকে প্রতিবার চারটি করে বর্ণ কতভাবে নির্বাচন করা যাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "11",
+          "is_correct": true
+        }
+      ],
+      "option_a": "16",
+      "option_b": "8",
+      "option_c": "12",
+      "option_d": "11",
+      "correct": "ঘ",
+      "explanation": "2টি M থেকে একটি নিয়ে ও বাকী 4 বর্ণ হতে 3টি নিয়ে বাছাই সংখ্যা = 5 C 4 = 5 ={ }^{5} \\mathrm{C}_{4}=5 = 5 C 4 ​ = 5 দুটি M \\mathrm{M} M নিয়ে ও বাকী 4 টি বর্ণ থেকে 2 টি নিয়ে বাছাই সংখ্যা = 4 C 2 = 6 ={ }^{4} \\mathrm{C}_{2}=6 = 4 C 2 ​ = 6 ∴  মোট  = 5 + 6 = 11 \\therefore \\text { মোট }=5+6=11 ∴   মোট   = 5 + 6 = 11"
+    },
+    {
+      "number": "10",
+      "tag": "",
+      "question": "f ( x ) = x ∣ x ∣ \\mathbf{f}(\\mathbf{x})=\\frac{\\mathbf{x}}{|\\mathbf{x}|} f ( x ) = ∣ x ∣ x ​ ফাংশনটির রেঞ্জ হলোঃ",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ − 1 , 1 } \\{-1,1\\} { − 1 , 1 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ − 1 , − 1 } \\{-1,-1\\} { − 1 , − 1 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 1 , − 1 } \\{1,-1\\} { 1 , − 1 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 1 , 1 } \\{1,1\\} { 1 , 1 }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ − 1 , 1 } \\{-1,1\\} { − 1 , 1 }",
+      "option_b": "{ − 1 , − 1 } \\{-1,-1\\} { − 1 , − 1 }",
+      "option_c": "{ 1 , − 1 } \\{1,-1\\} { 1 , − 1 }",
+      "option_d": "{ 1 , 1 } \\{1,1\\} { 1 , 1 }",
+      "correct": "ঘ",
+      "explanation": "f ( x ) = ∣ x ∣ x = ± x x = ± 1 ∴ R f = { − 1 , 1 } f(x)=\\frac{|x|}{x}= \\pm \\frac{x}{x}= \\pm 1 \\quad \\therefore R_{f}=\\{-1,1\\} f ( x ) = x ∣ x ∣ ​ = ± x x ​ = ± 1 ∴ R f ​ = { − 1 , 1 }"
+    },
+    {
+      "number": "11",
+      "tag": "CU A 18-19",
+      "question": "একটি বাক্সে 7 টি লাল, 9 টি কালো এবং 6 টি সাদা বল আছে। এলোমেলোভাবে একটি বল তুলে নেয়া হল। বলটি লাল বা সাদা হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "13 36 \\frac{13}{36} 36 13 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "13 22 \\frac{13}{22} 22 13 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12 25 \\frac{12}{25} 25 12 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18 19 \\frac{18}{19} 19 18 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "13 36 \\frac{13}{36} 36 13 ​",
+      "option_b": "13 22 \\frac{13}{22} 22 13 ​",
+      "option_c": "12 25 \\frac{12}{25} 25 12 ​",
+      "option_d": "18 19 \\frac{18}{19} 19 18 ​",
+      "correct": "ক",
+      "explanation": "মোট বল সংখ্যা = 3 + 5 + 7 = 15 =3+5+7=15 = 3 + 5 + 7 = 15 ∴ \\therefore ∴ দুটি বল তুললে বলদ্বয় লাল হওয়ার সম্ভাব্যতা = 3 C 2 15 C 2 = 3 105 = 1 35 =\\frac{{ }^{3} C_{2}}{{ }^{15} C_{2}}=\\frac{3}{105}=\\frac{1}{35} = 15 C 2 ​ 3 C 2 ​ ​ = 105 3 ​ = 35 1 ​"
+    },
+    {
+      "number": "12",
+      "tag": "CVASU 18-19",
+      "question": "lim ⁡ x → 0 1 − cos ⁡ x sin ⁡ 2 2 x \\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x} lim x → 0 ​ s i n 2 2 x 1 − c o s x ​ - এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 25 \\frac{2}{25} 25 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "49 6 \\frac{49}{6} 6 49 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "tan x",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 25 \\frac{2}{25} 25 2 ​",
+      "option_b": "49 6 \\frac{49}{6} 6 49 ​",
+      "option_c": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_d": "tan x",
+      "correct": "খ",
+      "explanation": "lim ⁡ x → 0 1 − cos ⁡ x sin ⁡ 2 2 x \\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x} lim x → 0 ​ s i n 2 2 x 1 − c o s x ​ প্রথমে সূত্র: 1 − cos ⁡ x = 2 sin ⁡ 2 x 2 1 - \\cos x = 2 \\sin^2 \\frac{x}{2} 1 − cos x = 2 sin 2 2 x ​ এবং sin ⁡ 2 x = 2 sin ⁡ x cos ⁡ x → sin ⁡ 2 2 x = 4 sin ⁡ 2 x cos ⁡ 2 x \\sin 2x = 2 \\sin x \\cos x \\to \\sin^2 2x = 4 \\sin^2 x \\cos^2 x sin 2 x = 2 sin x cos x → sin 2 2 x = 4 sin 2 x cos 2 x তাহলে: 1 − cos ⁡ x sin ⁡ 2 2 x = 2 sin ⁡ 2 x 2 4 sin ⁡ 2 x cos ⁡ 2 x = sin ⁡ 2 x 2 2 sin ⁡ 2 x cos ⁡ 2 x \\frac{1 - \\cos x}{\\sin^2 2x} = \\frac{2 \\sin^2 \\frac{x}{2}}{4 \\sin^2 x \\cos^2 x} = \\frac{\\sin^2 \\frac{x}{2}}{2 \\sin^2 x \\cos^2 x} s i n 2 2 x 1 − c o s x ​ = 4 s i n 2 x c o s 2 x 2 s i n 2 2 x ​ ​ = 2 s i n 2 x c o s 2 x s i n 2 2 x ​ ​ এখন sin ⁡ x = 2 sin ⁡ x 2 cos ⁡ x 2 → sin ⁡ 2 x = 4 sin ⁡ 2 x 2 cos ⁡ 2 x 2 \\sin x = 2 \\sin \\frac{x}{2} \\cos \\frac{x}{2} \\to \\sin^2 x = 4 \\sin^2 \\frac{x}{2} \\cos^2 \\frac{x}{2} sin x = 2 sin 2 x ​ cos 2 x ​ → sin 2 x = 4 sin 2 2 x ​ cos 2 2 x ​ প্রতিস্থাপন: sin ⁡ 2 x 2 2 ⋅ 4 sin ⁡ 2 x 2 cos ⁡ 2 x 2 ⋅ cos ⁡ 2 x \\frac{\\sin^2 \\frac{x}{2}}{2 \\cdot 4 \\sin^2 \\frac{x}{2} \\cos^2 \\frac{x}{2} \\cdot \\cos^2 x} 2 ⋅ 4 s i n 2 2 x ​ c o s 2 2 x ​ ⋅ c o s 2 x s i n 2 2 x ​ ​ = 1 8 cos ⁡ 2 x 2 cos ⁡ 2 x = \\frac{1}{8 \\cos^2 \\frac{x}{2} \\cos^2 x} = 8 c o s 2 2 x ​ c o s 2 x 1 ​ সীমা x → 0 x \\to 0 x → 0 নিলে: cos ⁡ 0 = 1 , cos ⁡ 0 = 1 \\cos 0 = 1, \\cos 0 = 1 cos 0 = 1 , cos 0 = 1 lim ⁡ x → 0 1 8 cos ⁡ 2 x 2 cos ⁡ 2 x = 1 8 ⋅ 1 ⋅ 1 = 1 8 \\lim_{x \\to 0} \\frac{1}{8 \\cos^2 \\frac{x}{2} \\cos^2 x} = \\frac{1}{8 \\cdot 1 \\cdot 1} = \\frac{1}{8} lim x → 0 ​ 8 c o s 2 2 x ​ c o s 2 x 1 ​ = 8 ⋅ 1 ⋅ 1 1 ​ = 8 1 ​"
+    },
+    {
+      "number": "13",
+      "tag": "NSTU B 17-18",
+      "question": "f(x)=x(2a-x) এর সর্বোচ্চ মান-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2a",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2a 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a",
+      "option_b": "2a",
+      "option_c": "2a 2",
+      "option_d": "a 2",
+      "correct": "গ",
+      "explanation": "f ( x ) = x ( 2 a − x ) = 2 a x − x 2 ∴ d d x f ( x ) = d d x ( 2 a x − x 2 ) ⇒ f ′ ( x ) = 2 a − 2 x \\begin{array}{l} f(x)=x(2 a-x)=2 a x-x^{2} \\\\ \\therefore \\frac{d}{d x} f(x)=\\frac{d}{d x}\\left(2 a x-x^{2}\\right) \\\\ \\Rightarrow f^{\\prime}(x)=2 a-2 x \\end{array} f ( x ) = x ( 2 a − x ) = 2 a x − x 2 ∴ d x d ​ f ( x ) = d x d ​ ( 2 a x − x 2 ) ⇒ f ′ ( x ) = 2 a − 2 x ​ ∴ \\therefore ∴ সর্বোচ্চ বা সর্বনিন্ম মানের জন্য f ′ ( x ) = 0 ⇒ 2 a − 2 x = 0 ⇒ 2 a = 2 x ⇒ x = a d d x f ′ ( x ) = d d x ⋅ ( 2 a − 2 x ) ⇒ f ′ ′ ( x ) = 0 − 2 ⇒ f ′ ′ ( x ) = − 2 < 0 \\begin{array}{c} f^{\\prime}(x)=0 \\\\ \\Rightarrow 2 a-2 x=0 \\\\ \\Rightarrow 2 a=2 x \\\\ \\Rightarrow x=a \\\\ \\frac{d}{d x} f^{\\prime}(x)=\\frac{d}{d x} \\cdot(2 a-2 x) \\\\ \\Rightarrow f^{\\prime \\prime}(x)=0-2 \\\\ \\Rightarrow f^{\\prime \\prime}(x)=-2<0 \\end{array} f ′ ( x ) = 0 ⇒ 2 a − 2 x = 0 ⇒ 2 a = 2 x ⇒ x = a d x d ​ f ′ ( x ) = d x d ​ ⋅ ( 2 a − 2 x ) ⇒ f ′′ ( x ) = 0 − 2 ⇒ f ′′ ( x ) = − 2 < 0 ​ ফাংশনটিতে কেবল মাত্র সর্বোচ্চ মান বিদ্যমান ∴ x = a , f ( x ) ফাংশনে বসিয়ে  f ( x ) = 2 a ⋅ a − a 2 = 2 a 2 − a 2 = a 2  Ams  \\begin{array}{l} \\therefore x=a, f(x) \\text {ফাংশনে বসিয়ে } \\\\ \\begin{aligned} f(x) & =2 a \\cdot a-a^{2} \\\\ & =2 a^{2}-a^{2} \\\\ & =a^{2} \\text { Ams } \\end{aligned} \\end{array} ∴ x = a , f ( x ) ফাংশনে   বসিয়ে   f ( x ) ​ = 2 a ⋅ a − a 2 = 2 a 2 − a 2 = a 2  Ams  ​ ​"
+    },
+    {
+      "number": "1",
+      "tag": "",
+      "question": "উদ্ভিদের ক্লোরোপ্লাস্টে ক্লোরোফিল নামক সবুজ বর্ণকণিক কি পরিমাণ বিদ্যমান থাকে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "75%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "80%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "50%",
+          "is_correct": true
+        }
+      ],
+      "option_a": "75%",
+      "option_b": "25%",
+      "option_c": "80%",
+      "option_d": "50%",
+      "correct": "ঘ",
+      "explanation": "সবুজ বর্ণের প্লাস্টিডকে ক্লোরোপ্লাস্ট বলে। ক্লোরোপ্লাস্টে থাকে ক্লোরোফিল। ক্লোরোফিলের উপস্থিতির কারণে সবুজ উদ্ভিদ সালোকসংশ্লেষণ প্রক্রিয়ায় শর্করাজাতীয় খাদ্য তৈরি করে। এই শর্করাজাতীয় খাদ্য উদ্ভিদ নিজে খাদ্য হিসেবে গ্রহণ করে।"
+    },
+    {
+      "number": "2",
+      "tag": "",
+      "question": "বেনথিক শৈবাল কোথায় পাওয়া যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Ploting",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Within tissue",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Attached to soil",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Submerged",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Ploting",
+      "option_b": "Within tissue",
+      "option_c": "Attached to soil",
+      "option_d": "Submerged",
+      "correct": "ক",
+      "explanation": "• বেনথিক শৈবাল: জলাশয়ের পানির নিচে মাটিতে আবদ্ধ। • লিথোফাইট: পাথরের গায়ে জন্মানো শৈবাল। • এন্ডোফাইট: উচ্চ শ্রেণির জীবের টিস্যুর অভ্যন্তরে জন্মানো শৈবাল। • ফাইটোপ্লাঙ্কটন: সম্পূর্ণ ভাসমান শৈবাল।"
+    },
+    {
+      "number": "3",
+      "tag": "",
+      "question": "পলিমারেজ চেইন রিঅ্যাকশনে কত তাপমাত্রায় দ্বিসুত্র থেকে একসূত্র করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "90°C",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "75°C",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "85°C",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "80°C",
+          "is_correct": false
+        }
+      ],
+      "option_a": "90°C",
+      "option_b": "75°C",
+      "option_c": "85°C",
+      "option_d": "80°C",
+      "correct": "ক",
+      "explanation": "প্রথমে ~৯0-৯৫ডিগ্রি তাপমাত্রায় দ্বিসূত্রক ডিএনএ আলাদা হয়ে একসূত্রক হয়, এরপরে ~৫৫-৬৫ ডিগ্রি তাপমাত্রায় কৃত্রিমভাবে তৈরি করা প্রাইমারগুলো ডিএনএর নির্দিষ্ট জিনের সঙ্গে যুক্ত হয় এবং ~৬৫-৭২ ডিগ্রিতে পলিমারেজ এনজাইমের সাহায্য প্রতিটি একসূত্রক ডিএনএ থেকে দ্বিসূত্রক ডিএনএ তৈরি হয়।"
+    },
+    {
+      "number": "4",
+      "tag": "",
+      "question": "রক্তের প্লাজমায় সোডিয়ামের মাত্রা স্থির রাখতে কোন হরমোনটি ভূমিকা পালন করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Progesterone",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Vasopresin",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Aldosterone",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Pituitary hormone",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Progesterone",
+      "option_b": "Vasopresin",
+      "option_c": "Aldosterone",
+      "option_d": "Pituitary hormone",
+      "correct": "গ",
+      "explanation": "Progesterone: স্ত্রীদেহে গর্ভাবস্থায় জরায়ু, ভ্রূণ, অমরা ইত্যাদির বৃদ্ধি নিয়ন্ত্রণ। Vasopresin (ADH): বৃক্কের পানি পুনঃশোষণ ক্ষমতা বৃদ্ধি করে। Aldosterone: দেহে Na এর মাত্রা নিয়ন্ত্রণ।"
+    },
+    {
+      "number": "5",
+      "tag": "",
+      "question": "ম্যাট্রিক্সের গঠনের উপর নির্ভর করে তরুনাস্থি কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 types",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 types",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 types",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 types",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 types",
+      "option_b": "4 types",
+      "option_c": "3 types",
+      "option_d": "5 types",
+      "correct": "ক",
+      "explanation": "তরুণাস্থির প্রকারভেদ : ম্যাট্রিক্সের গঠনের উপর ভিত্তি করে চার ধরনের তরুণাস্থি পাওয়া যায়। যথা- স্বচ্ছ বা হায়ালিন (Hyaline) তরুণাস্থি: এর ম্যাট্রিক্স সামান্য স্বচ্ছ, নীলাভ, নমনীয় এবং তত্ত্ববিহীন। ... স্থিতিস্থাপক (Elastic) বা পীত-তন্তুময় তরুণাস্থি: এর ম্যাট্রিক্স অস্বচ্ছ ও হাল্কা হলুদ বর্ণের। শ্বেত-তত্ত্বময় (White fibrous) তরুণাস্থি : এর ম্যাট্রিক্সে প্রচুর পরিমাণ সাদা বর্ণের, অশাখ, অস্থিতিস্থাপক, কোলাজেন নির্মিত তন্তু সমান্তরালে বিন্যস্ত থাকে। চুনময় বা ক্যালসিফাইড (Calcified) তরুণাস্থি : এ ক্ষেত্রে ম্যাট্রিক্সে প্রচুর ক্যালসিয়াম কার্বোনেট জমা থাকে, ফলে অনেকটা অস্থির মতো শক্ত রূপ ধারণ করে।"
+    },
+    {
+      "number": "6",
+      "tag": "",
+      "question": "থাইরয়েড গ্রন্থির প্রধান কাজ নয় কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Metabolism and growth control",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "C a 2 + Ca^{2+} C a 2 + in blood",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Protein synthesis",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Respiratory system control",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Metabolism and growth control",
+      "option_b": "C a 2 + Ca^{2+} C a 2 + in blood",
+      "option_c": "Protein synthesis",
+      "option_d": "Respiratory system control",
+      "correct": "গ",
+      "explanation": "রক্তে C a 2 + Ca^{2+} C a 2 +  এর মাত্রা নিয়ন্ত্রণ: রক্তে ক্যালসিয়াম আয়ন C a 2 + Ca^{2+} C a 2 + এর মাত্রা নিয়ন্ত্রণ করা থাইরয়েড গ্রন্থির দ্বারা নিঃসৃত হরমোন ক্যালসিটোনিন-এর কাজ হলেও, এটি প্রধান কাজ হিসেবে বিবেচিত হয় না। রক্তে C a 2 + Ca^{2+} C a 2 + এর মাত্রা নিয়ন্ত্রণের প্রধান হরমোন হলো প্যারাথাইরয়েড গ্রন্থি থেকে নিঃসৃত প্যারাথরমোন (Parathormone)। ক্যালসিটোনিন প্যারাথরমোনের বিপরীত কাজ করে ক্যালসিয়ামের মাত্রা কমাতে সাহায্য করে।"
+    },
+    {
+      "number": "7",
+      "tag": "",
+      "question": "কোনটিতে অরিয় প্রতিসাম্য পাওয়া যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Hydra",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Ctenophora",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Ceoloplana",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Volvox",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Hydra",
+      "option_b": "Ctenophora",
+      "option_c": "Ceoloplana",
+      "option_d": "Volvox",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "",
+      "question": "জাইগোট রুপান্তরের এক পর্যায়ে একটি ফাঁকা গহ্বর তৈরী হয়, তাকে কি বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Blastula",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "morula",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Gastrula",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Blastomers",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Blastula",
+      "option_b": "morula",
+      "option_c": "Gastrula",
+      "option_d": "Blastomers",
+      "correct": "খ",
+      "explanation": "মরুলা : জাইগোট দ্রুত বিভাজিত হয়ে যে নিরেট কোষপিঞ্জের সৃষ্টি করে, তাকে মরুলা বলে। Blastomere: ব্লাস্টোসিস্টে প্রায় ১০০টির মতো কোষ থাকে। প্রতিটি কোষকে ব্লাস্টোমিয়ার বলে। Gastrulation: ভ্রূণে আর্কেন্টেরণ নামক প্রাথমিক খাদ্য গহ্বর বা আন্ত্রিক গহ্বর সৃষ্টির প্রক্রিয়াকে Gastrulation বলে।"
+    },
+    {
+      "number": "9",
+      "tag": "",
+      "question": "অমরা গঠনকারি বহিঃভ্রূণীয় পর্দা হলো-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Amnion and Chorionic",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Amnion and Yolk",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Allantois and Chorion",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Chorion and Yolk asc",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Amnion and Chorionic",
+      "option_b": "Amnion and Yolk",
+      "option_c": "Allantois and Chorion",
+      "option_d": "Chorion and Yolk asc",
+      "correct": "ক",
+      "explanation": "১.অ্যালানটয়েস: ভ্রূণীয় অন্ত্রের পশ্চাৎ অংশ মেসোডার্ম ও এন্ডোডার্মে গঠিত থলির মতো যে উপবৃদ্ধি সৃষ্টি হয়ে কোরিওনের নিচে বিন্যস্ত হয়,তাকে অ্যালানটয়েস বলে। কাজ: ভ্রূণের শ্বসনে সাহায্য করে। ভ্রূণের রেচনে সাহায্য করে। অ্যালানটো-কোরিওন প্লাসেন্টা গঠনে সক্রিয় অংশ গ্রহণ করে। ২.কোরিওন: ভ্রূণের সর্ববহিঃস্থ আবরণ যা এক্টোডার্ম ও মেসোডার্মে গঠিত হয়,তাকে কোরিওন বলে। কাজ: অ্যালানটয়েসের সঙ্গে মিলিতভাবে শ্বসব ও পুষ্টি সরবরাহে সাহায্য করে। প্লাসেন্টা গঠনে অংশগ্রহণ করে।"
+    },
+    {
+      "number": "10",
+      "tag": "",
+      "question": "সামুদ্রিক শৈবাল O₂ তৈরি করে, যা মোট সালোকসংশ্লেষণের প্রায়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "70%",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "60%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "80%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "70%",
+      "option_b": "60%",
+      "option_c": "80%",
+      "option_d": "90%",
+      "correct": "ক",
+      "explanation": "শৈবাল পৃথিবীর প্রায় মোট ফটোসিনথেসিস এর ৬০ ভাগ করে বাকি ৪০ ভাগ উচ্চশ্রেণীর উদ্ভিদ করে থাকে।"
+    },
+    {
+      "number": "11",
+      "tag": "",
+      "question": "ট্যাগমেটাইজেশন পাওয়া যায় কোনটিতে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Nematoda",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Arthropoda",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Chordata",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Porifera",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Nematoda",
+      "option_b": "Arthropoda",
+      "option_c": "Chordata",
+      "option_d": "Porifera",
+      "correct": "গ",
+      "explanation": "আর্থোপোডা পর্বের প্রাণীদের দেহখণ্ডক একত্রিত হয়ে কার্যকর দেহাংশ তৈরি করে একে ট্যাগমাটা বলে। যেমনঃ মস্তক, বক্ষ, উদর।"
+    },
+    {
+      "number": "12",
+      "tag": "",
+      "question": "প্রতিটি জীবন্ত কোষের একটি নতুন জীবে বিকাশ করার ক্ষমতা রয়েছে, তাকে কি বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Pluripotency",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Multipotency",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Totipotency",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Unipotency",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Pluripotency",
+      "option_b": "Multipotency",
+      "option_c": "Totipotency",
+      "option_d": "Unipotency",
+      "correct": "খ",
+      "explanation": "Totipotency is defined as the ability of a single cell to divide and produce all the differentiated cells in an organism, including extraembryonic tissues . Totipotent cells formed during sexual and asexual reproduction include spores and zygotes."
+    },
+    {
+      "number": "1",
+      "tag": "",
+      "question": "কার্বক্সিলিক এসিডের সোডিয়াম লবণকে সোডালাইম (NaOH+ CaO) দ্বারা উত্তপ্ত করলে নিচের কোনটি পাওয়া যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Alkane",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Alkene",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Alcohol",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Acid",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Alkane",
+      "option_b": "Alkene",
+      "option_c": "Alcohol",
+      "option_d": "Acid",
+      "correct": "খ",
+      "explanation": "R − C O O N a + N a O H ( C a O ) ⟶ R − R + N a 2 C O 3 \\mathrm{R}-\\mathrm{COONa}+\\mathrm{NaOH}(\\mathrm{CaO}) \\longrightarrow \\mathrm{R}-\\mathrm{R}+\\mathrm{Na}_{2} \\mathrm{CO}_{3} R − COONa + NaOH ( CaO ) ⟶ R − R + Na 2 ​ CO 3 ​"
+    },
+    {
+      "number": "2",
+      "tag": "",
+      "question": "নিচের কোনটি নিউক্লিওফিলিক বিকারক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "O H − \\mathrm{OH}^{-} OH −",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "R M g X \\mathrm{RMgX} RMgX",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "N H 3 \\mathrm{NH}_{3} NH 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "All of these",
+          "is_correct": false
+        }
+      ],
+      "option_a": "O H − \\mathrm{OH}^{-} OH −",
+      "option_b": "R M g X \\mathrm{RMgX} RMgX",
+      "option_c": "N H 3 \\mathrm{NH}_{3} NH 3 ​",
+      "option_d": "All of these",
+      "correct": "গ",
+      "explanation": "Some examples include hydroxides, amines, alkoxides, phosphines, azides, nitrites, iodide, cyanide, acetylide, Grignard's reagents, organolithium reagents, organocuprate reagents, and hydrides."
+    },
+    {
+      "number": "3",
+      "tag": "",
+      "question": "আদর্শ আচরণ হতে বাস্তব গ্যাসের বিচ্যুতির গঠিত ক্রম কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "N 2 < O 2 < C O 2 \\mathrm{N}_{2}<\\mathrm{O}_{2}<\\mathrm{CO}_{2} N 2 ​ < O 2 ​ < CO 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "O 2 < N 2 < C O 2 \\mathrm{O}_{2}<\\mathrm{N}_{2}<\\mathrm{CO}_{2} O 2 ​ < N 2 ​ < CO 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "C O 2 < O 2 < N 2 \\mathrm{CO}_{2}<\\mathrm{O}_{2}<\\mathrm{N}_{2} CO 2 ​ < O 2 ​ < N 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "N 2 < C O 2 < O 2 \\mathrm{N}_{2}<\\mathrm{CO}_{2}<\\mathrm{O}_{2} N 2 ​ < CO 2 ​ < O 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "N 2 < O 2 < C O 2 \\mathrm{N}_{2}<\\mathrm{O}_{2}<\\mathrm{CO}_{2} N 2 ​ < O 2 ​ < CO 2 ​",
+      "option_b": "O 2 < N 2 < C O 2 \\mathrm{O}_{2}<\\mathrm{N}_{2}<\\mathrm{CO}_{2} O 2 ​ < N 2 ​ < CO 2 ​",
+      "option_c": "C O 2 < O 2 < N 2 \\mathrm{CO}_{2}<\\mathrm{O}_{2}<\\mathrm{N}_{2} CO 2 ​ < O 2 ​ < N 2 ​",
+      "option_d": "N 2 < C O 2 < O 2 \\mathrm{N}_{2}<\\mathrm{CO}_{2}<\\mathrm{O}_{2} N 2 ​ < CO 2 ​ < O 2 ​",
+      "correct": "ক",
+      "explanation": "যার ভর যত বেশি বিচ্যুতি তত বেশি"
+    },
+    {
+      "number": "4",
+      "tag": "",
+      "question": "পানির স্থায়ী ক্ষরতার জন্য দায়ী নয় কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "C a C l 2 \\mathrm{CaCl}_{2} CaCl 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "C a ( H C O 3 ) 2 \\mathrm{Ca}\\left(\\mathrm{HCO}_{3}\\right)_{2} Ca ( HCO 3 ​ ) 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "C a S O 4 \\mathrm{CaSO}_{4} CaSO 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "M g C l 2 \\mathrm{MgCl}_{2} MgCl 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "C a C l 2 \\mathrm{CaCl}_{2} CaCl 2 ​",
+      "option_b": "C a ( H C O 3 ) 2 \\mathrm{Ca}\\left(\\mathrm{HCO}_{3}\\right)_{2} Ca ( HCO 3 ​ ) 2 ​",
+      "option_c": "C a S O 4 \\mathrm{CaSO}_{4} CaSO 4 ​",
+      "option_d": "M g C l 2 \\mathrm{MgCl}_{2} MgCl 2 ​",
+      "correct": "ক",
+      "explanation": "পানির স্থায়ী ক্ষরতার জন্য দায়ী ক্যালসিয়াম ও ম্যাগনেসিয়াম এর ঘনীভূত লবণ ।"
+    },
+    {
+      "number": "5",
+      "tag": "",
+      "question": "পর্যায় সারণিতে কোন পর্যায়ে বাম থেকে ডানদিকে গেলে মান হ্রাস পায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Nuclear Charge",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Electron affinity",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Ionization energy",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Atomic size",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Nuclear Charge",
+      "option_b": "Electron affinity",
+      "option_c": "Ionization energy",
+      "option_d": "Atomic size",
+      "correct": "ক",
+      "explanation": "পর্যায় সারণিতে বাম থেকে ডানদিকে গেলে পারমানবিক আকার মান হ্রাস পায় এবং উপর থেকে নিচে গেলে মান বৃদ্ধি পায়।"
+    },
+    {
+      "number": "6",
+      "tag": "",
+      "question": "0.1M ঘনমাত্রায় C H 3 C O O H \\mathrm{CH}_{3} \\mathrm{COOH} CH 3 ​ COOH দ্রবণের H + \\mathrm{H}^{+} H + আয়নের ঘনমাত্রা 2.25 × 10 − 3 M 2.25 \\times 10^{-3} \\mathrm{M} 2.25 × 1 0 − 3 M হলে C H 3 C O O H \\mathrm{CH}_{3} \\mathrm{COOH} CH 3 ​ COOH এর বিয়োজনমাত্রা ( α ) (\\alpha) ( α ) কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "22.5 % 22.5 \\% 22.5%",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2.25 % 2.25 \\% 2.25%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.23 % 0.23 \\% 0.23%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.022 % 0.022 \\% 0.022%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "22.5 % 22.5 \\% 22.5%",
+      "option_b": "2.25 % 2.25 \\% 2.25%",
+      "option_c": "0.23 % 0.23 \\% 0.23%",
+      "option_d": "0.022 % 0.022 \\% 0.022%",
+      "correct": "ক",
+      "explanation": "[ H + ] = ∝ C ⇒ ∝ = [ H + ] C \\left[\\mathrm{H}^{+}\\right]=\\propto \\mathbf{C} \\Rightarrow \\propto=\\frac{\\left[\\mathrm{H}^{+}\\right]}{\\mathrm{C}} [ H + ] =∝ C ⇒∝= C [ H + ] ​ ⇒ ∝ = 2.25 × 10 − 3 0.1 × 100 ⇒ ∝ = 2.25 % \\Rightarrow \\propto=\\frac{2.25 \\times 10^{-3}}{0.1} \\times 100 \\quad \\Rightarrow \\propto=2.25 \\% ⇒∝= 0.1 2.25 × 1 0 − 3 ​ × 100 ⇒∝= 2.25%"
+    },
+    {
+      "number": "7",
+      "tag": "",
+      "question": "সহকারী কোয়ান্টাম সংখ্যা নিচের কোনটি সম্পর্কে ধারণা দেয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Shell",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Sub-shell",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Orbital",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Electron spin",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Shell",
+      "option_b": "Sub-shell",
+      "option_c": "Orbital",
+      "option_d": "Electron spin",
+      "correct": "ক",
+      "explanation": "-প্রধান কোয়ান্টাম সংখ্যা দ্বারা ইলেকট্রনের শক্তি এবং শক্তিস্তরের আকার নির্ণয় করা যায়। -সহকারী কোয়ান্টাম সংখ্যা উপশক্তিস্তর সম্পর্কে ধারণা দেয়। -চৌম্বক কোয়ান্টাম সংখ্যা দ্বারা উপস্তরের এিমাএিক বিন্যাস জানা যায়। -ঘূর্ণন কোয়ান্টাম সংখ্যা দ্বারা ইলেকট্রনের নিজ অক্ষের ঘূর্ণনের দিক ও প্রকৃতি জানা যায়।"
+    },
+    {
+      "number": "8",
+      "tag": "",
+      "question": "নিচের কোন বিক্রিয়ার উৎপাদ বৃদ্ধির উপর চাপের কোনো প্রভাব নেই?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "N 2 (   g ) + 3 H 2 (   g ) ⇋ 2 N H 3 (   g ) \\mathrm{N}_{2}(\\mathrm{~g})+3 \\mathrm{H}_{2}(\\mathrm{~g}) \\leftrightharpoons 2 \\mathrm{NH}_{3}(\\mathrm{~g}) N 2 ​ (   g ) + 3 H 2 ​ (   g ) ⇋ 2 NH 3 ​ (   g )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "N O ( g ) + O 2 (   g ) ) ⇋ N O 2 (   g ) \\left.\\mathrm{NO}(\\mathrm{g})+\\mathrm{O}_{2}(\\mathrm{~g})\\right) \\leftrightharpoons \\mathrm{NO}_{2}(\\mathrm{~g}) NO ( g ) + O 2 ​ (   g ) ) ⇋ NO 2 ​ (   g )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "N 2 (   g ) + O 2 (   g ) ) ⇋ 2 N O ( g ) \\left.\\mathrm{N}_{2}(\\mathrm{~g})+\\mathrm{O}_{2}(\\mathrm{~g})\\right) \\leftrightharpoons 2 \\mathrm{NO}(\\mathrm{g}) N 2 ​ (   g ) + O 2 ​ (   g ) ) ⇋ 2 NO ( g )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 S O 2 (   g ) + O 2 (   g ) ) ⇋ 2 S O 3 (   g ) \\left.2 \\mathrm{SO}_{2}(\\mathrm{~g})+\\mathrm{O}_{2}(\\mathrm{~g})\\right) \\leftrightharpoons 2 \\mathrm{SO}_{3}(\\mathrm{~g}) 2 SO 2 ​ (   g ) + O 2 ​ (   g ) ) ⇋ 2 SO 3 ​ (   g )",
+          "is_correct": true
+        }
+      ],
+      "option_a": "N 2 (   g ) + 3 H 2 (   g ) ⇋ 2 N H 3 (   g ) \\mathrm{N}_{2}(\\mathrm{~g})+3 \\mathrm{H}_{2}(\\mathrm{~g}) \\leftrightharpoons 2 \\mathrm{NH}_{3}(\\mathrm{~g}) N 2 ​ (   g ) + 3 H 2 ​ (   g ) ⇋ 2 NH 3 ​ (   g )",
+      "option_b": "N O ( g ) + O 2 (   g ) ) ⇋ N O 2 (   g ) \\left.\\mathrm{NO}(\\mathrm{g})+\\mathrm{O}_{2}(\\mathrm{~g})\\right) \\leftrightharpoons \\mathrm{NO}_{2}(\\mathrm{~g}) NO ( g ) + O 2 ​ (   g ) ) ⇋ NO 2 ​ (   g )",
+      "option_c": "N 2 (   g ) + O 2 (   g ) ) ⇋ 2 N O ( g ) \\left.\\mathrm{N}_{2}(\\mathrm{~g})+\\mathrm{O}_{2}(\\mathrm{~g})\\right) \\leftrightharpoons 2 \\mathrm{NO}(\\mathrm{g}) N 2 ​ (   g ) + O 2 ​ (   g ) ) ⇋ 2 NO ( g )",
+      "option_d": "2 S O 2 (   g ) + O 2 (   g ) ) ⇋ 2 S O 3 (   g ) \\left.2 \\mathrm{SO}_{2}(\\mathrm{~g})+\\mathrm{O}_{2}(\\mathrm{~g})\\right) \\leftrightharpoons 2 \\mathrm{SO}_{3}(\\mathrm{~g}) 2 SO 2 ​ (   g ) + O 2 ​ (   g ) ) ⇋ 2 SO 3 ​ (   g )",
+      "correct": "ঘ",
+      "explanation": "N 2 (   g ) + O 2 (   g ) ) ⇋ 2 N O ( g )  এখানে,  Δ n = 2 − ( 1 + 1 ) = 0 Δ n = 0  হলে চাপের কোন প্রভাব থাকে না।  \\begin{array}{l}\\left. \\mathrm{N}_{2}(\\mathrm{~g})+\\mathrm{O}_{2}(\\mathrm{~g})\\right) \\leftrightharpoons 2 \\mathrm{NO}(\\mathrm{g}) \\\\ \\text { এখানে, } \\Delta \\mathrm{n}=2-(1+1)=0 \\\\ \\Delta \\mathrm{n}=0 \\text { হলে চাপের কোন প্রভাব থাকে না। }\\end{array} N 2 ​ (   g ) + O 2 ​ (   g ) ) ⇋ 2 NO ( g )   এখানে ,  Δ n = 2 − ( 1 + 1 ) = 0 Δ n = 0   হলে   চাপের   কোন   প্রভাব   থাকে   না।   ​"
+    },
+    {
+      "number": "9",
+      "tag": "",
+      "question": "দ্রবণে pH 5.6 হলে সার্বজনীন নির্দেশকের রঙ কোনটি হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Orange",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Green",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Bule",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Red",
+      "option_b": "Orange",
+      "option_c": "Green",
+      "option_d": "Bule",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "",
+      "question": "0.1M 200mL দ্রবণ প্রস্তুত করার জন্য কত গ্রাম K M n O 4 KMnO_4 K M n O 4 ​ প্রয়োজন হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3.50   g 3.50 \\mathrm{~g} 3.50   g",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3.16   g 3.16 \\mathrm{~g} 3.16   g",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4.00   g 4.00 \\mathrm{~g} 4.00   g",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3.70   g 3.70 \\mathrm{~g} 3.70   g",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3.50   g 3.50 \\mathrm{~g} 3.50   g",
+      "option_b": "3.16   g 3.16 \\mathrm{~g} 3.16   g",
+      "option_c": "4.00   g 4.00 \\mathrm{~g} 4.00   g",
+      "option_d": "3.70   g 3.70 \\mathrm{~g} 3.70   g",
+      "correct": "খ",
+      "explanation": "V = 2.00 m l = 0.2   L M = 158.034   g K M n O 4 \\begin{array}{l}\\mathrm{V}=2.00 \\mathrm{ml}=0.2 \\mathrm{~L} \\\\ \\mathrm{M}=158.034 \\mathrm{~g} \\mathrm{KMnO}_{4}\\end{array} V = 2.00 ml = 0.2   L M = 158.034   g KMnO 4 ​ ​ S = 1000   W M V ( L ) S=\\frac{1000 \\mathrm{~W}}{\\mathrm{MV}(\\mathrm{L})} S = MV ( L ) 1000   W ​ ⇒ W = S M V ( L ) 1000 = 0.1 × 0.2 × 158.034 1000 = 3.16   g \\Rightarrow \\mathrm{W}=\\frac{\\mathrm{SMV}(\\mathrm{L})}{1000}=\\frac{0.1 \\times 0.2 \\times 158.034}{1000}=3.16 \\mathrm{~g} ⇒ W = 1000 SMV ( L ) ​ = 1000 0.1 × 0.2 × 158.034 ​ = 3.16   g"
+    },
+    {
+      "number": "11",
+      "tag": "MGCC 24,RCC 23,BMSC 23,BMARPC 23,CTG.B 22",
+      "question": "H 2   S \\mathrm{H}_{2} \\mathrm{~S} H 2 ​   S যৌগে H − S − H \\mathrm{H}-\\mathrm{S}-\\mathrm{H} H − S − H এর বন্ধন কোণের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "180 ∘ 180^{\\circ} 18 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "104.5 ∘ 104.5^{\\circ} 104. 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "109.5 ∘ 109.5^{\\circ} 109. 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "92.1 ∘ 92.1^{\\circ} 92. 1 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "180 ∘ 180^{\\circ} 18 0 ∘",
+      "option_b": "104.5 ∘ 104.5^{\\circ} 104. 5 ∘",
+      "option_c": "109.5 ∘ 109.5^{\\circ} 109. 5 ∘",
+      "option_d": "92.1 ∘ 92.1^{\\circ} 92. 1 ∘",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "",
+      "question": "H 2 S O 4 H_2SO_4 H 2 ​ S O 4 ​ সম্পর্কে নিচের কোন উক্তিটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "The equivalent weight is 90g",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "An oxidizing agent",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "A primary standard reagent",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "It is not harmful for environment",
+          "is_correct": false
+        }
+      ],
+      "option_a": "The equivalent weight is 90g",
+      "option_b": "An oxidizing agent",
+      "option_c": "A primary standard reagent",
+      "option_d": "It is not harmful for environment",
+      "correct": "খ",
+      "explanation": "Concentrated sulphuric acid acts as an oxidising agent because when it is heated, it decomposes giving strong nascent oxygen which makes a strong oxidising power."
+    },
+    {
+      "number": "1",
+      "tag": "",
+      "question": "Neela _______ her hand when she was cooking dinner.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "burn",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "burning",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "was burning",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "burnt",
+          "is_correct": false
+        }
+      ],
+      "option_a": "burn",
+      "option_b": "burning",
+      "option_c": "was burning",
+      "option_d": "burnt",
+      "correct": "খ",
+      "explanation": "কোন Sentence-এ at that moment, then, that day থাকলে সাধারণত: Past continuous tense হয়। তাছাড়া অতীতকালে দুটি কাজ একই সাথে চলছিল বুঝাতে বাক্যের দুটি অংশই past continuous tense-এ হয়।"
+    },
+    {
+      "number": "2",
+      "tag": "",
+      "question": "They treated me ________ I were a child.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "when",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "like",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "as",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "as if",
+          "is_correct": false
+        }
+      ],
+      "option_a": "when",
+      "option_b": "like",
+      "option_c": "as",
+      "option_d": "as if",
+      "correct": "গ",
+      "explanation": "Present Simple ← \\leftarrow ← As if/As though → \\rightarrow → Past Simple Past Simple ← \\leftarrow ← As if/As though → \\rightarrow → Past Perfect"
+    },
+    {
+      "number": "3",
+      "tag": "",
+      "question": "Control ______ , Sabah! Everything is fine, so don't start crying.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "yourself",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "you",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "me",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "herself",
+          "is_correct": false
+        }
+      ],
+      "option_a": "yourself",
+      "option_b": "you",
+      "option_c": "me",
+      "option_d": "herself",
+      "correct": "ক",
+      "explanation": "Sentence এর Subject এবং object একই হলে/ Verb এর উপর জোর /emphasis করতে object টি reflexive pronoun হবে।"
+    },
+    {
+      "number": "4",
+      "tag": "",
+      "question": "Which of the following is a noun?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ordain",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "imprimatur",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "pontificate",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ricochet",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ordain",
+      "option_b": "imprimatur",
+      "option_c": "pontificate",
+      "option_d": "ricochet",
+      "correct": "খ",
+      "explanation": "ordain (বিন্যস্ত করা, ভাগ্যে লেখা), Pontificate (নিজেকে সঠিক ভাবা), ricochet ( সবেগে ঠিকরে ওঠা) এরা প্রত্যেকে কাজ করা বুঝায় তাই প্রত্যেকে হচ্ছে verb; imprimatur ( অনুমোদন, অনুমতি)-noun."
+    },
+    {
+      "number": "5",
+      "tag": "",
+      "question": "‘A lost opportunity never returns’. Here 'lost' is a-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "gerund",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "verbal noun",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "gerundial infinitive",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "participle",
+          "is_correct": true
+        }
+      ],
+      "option_a": "gerund",
+      "option_b": "verbal noun",
+      "option_c": "gerundial infinitive",
+      "option_d": "participle",
+      "correct": "ঘ",
+      "explanation": "verb এর যে রূপ একই সাথে verb এবং adjective এর কাজ করে তাকে participle বলে। প্রদত্ত বাক্যে lost (lose এর past participle) একই সাথে verb এবং adjective এর কাজ সম্পন্ন করার lost শব্দটি past participle অর্থাৎ participle হিসাবে কাজ করেছে।"
+    },
+    {
+      "number": "6",
+      "tag": "",
+      "question": "Select the alternative which best expresses the meaning of the given sentences: \"We were no more surprised than Rahman\".",
+      "options": [
+        {
+          "label": "ক",
+          "text": "We were less surprised than Rahman",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "We were all surprised",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Rahman was less surprised than us",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "We were as surprised as Rahman",
+          "is_correct": false
+        }
+      ],
+      "option_a": "We were less surprised than Rahman",
+      "option_b": "We were all surprised",
+      "option_c": "Rahman was less surprised than us",
+      "option_d": "We were as surprised as Rahman",
+      "correct": "খ",
+      "explanation": "we were no more surprised than Rahman অর্থ- আমরা রহমানের চেয়ে বেশি বিস্মিত ছিলাম। যার অর্থ হলো we were as surprised as Rahman (আমরা রহমানের মতো বিস্মিত ছিলাম)।"
+    },
+    {
+      "number": "7",
+      "tag": "",
+      "question": "ATTACHMENT : FIDELITY",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Attraction : Devotion",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Detach : Understand",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Investigate : Authority",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Economical : Examination",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Attraction : Devotion",
+      "option_b": "Detach : Understand",
+      "option_c": "Investigate : Authority",
+      "option_d": "Economical : Examination",
+      "correct": "ক",
+      "explanation": "Fidelity (আনুগত্য) আসে Attachment (ভক্তি, আসক্তি) এর মাধ্যমে। Devotion (আনুগত্য) আসে Attraction (ভক্তি, আসক্তি) এর মাধ্যমে।"
+    },
+    {
+      "number": "8",
+      "tag": "",
+      "question": "The opposite word of 'INFINITESIMAL'-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "everlasting",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "major",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "colossal",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "telescopic",
+          "is_correct": false
+        }
+      ],
+      "option_a": "everlasting",
+      "option_b": "major",
+      "option_c": "colossal",
+      "option_d": "telescopic",
+      "correct": "ক",
+      "explanation": "শব্দগুলোর অর্থ: Infinitesimal (ক্ষুদ্র), Everlasting ( চিরস্থায়ী), Major (গুরুত্বপূর্ণ), Colossal (বিরাট), Telescopic (দূরবীন সংক্রান্ত)।"
+    },
+    {
+      "number": "9",
+      "tag": "",
+      "question": "He is a better worker than I am. Which parts of speech.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "noun",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "adjective",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "adverb",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "pronoun",
+          "is_correct": false
+        }
+      ],
+      "option_a": "noun",
+      "option_b": "adjective",
+      "option_c": "adverb",
+      "option_d": "pronoun",
+      "correct": "ক",
+      "explanation": "ভালোর ক্ষেত্রে দুই এর মধ্যে তুলনা বোঝাতে better ব্যবহার করা হয়। তাই এটি adjective।"
+    },
+    {
+      "number": "10",
+      "tag": "",
+      "question": "______ book that you have given to me was interesting.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "The",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "An",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "None",
+          "is_correct": true
+        }
+      ],
+      "option_a": "A",
+      "option_b": "The",
+      "option_c": "An",
+      "option_d": "None",
+      "correct": "ঘ",
+      "explanation": "বইটি যেহেতু নির্দিষ্ট তাই The হবে।"
+    },
+    {
+      "number": "11",
+      "tag": "",
+      "question": "Choose the correct one-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Man poses but God disposes.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Man propose but God dispose.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Man proposes but God disposes.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Man proposes but God disproses.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Man poses but God disposes.",
+      "option_b": "Man propose but God dispose.",
+      "option_c": "Man proposes but God disposes.",
+      "option_d": "Man proposes but God disproses.",
+      "correct": "ঘ",
+      "explanation": "Man proposes but God disposes-মানুষ প্রস্তাব দেয় কিন্তু ঈশ্বর নিষ্পত্তি করেন।"
+    },
+    {
+      "number": "12",
+      "tag": "",
+      "question": "Translation of \"তিনি কদাচিৎ মিথ্যা বলেন।” is–",
+      "options": [
+        {
+          "label": "ক",
+          "text": "He sometimes tells is lie",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "He seldom tells a lie",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Some what the tells a lie",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "He tells a lie sometimes",
+          "is_correct": false
+        }
+      ],
+      "option_a": "He sometimes tells is lie",
+      "option_b": "He seldom tells a lie",
+      "option_c": "Some what the tells a lie",
+      "option_d": "He tells a lie sometimes",
+      "correct": "ক",
+      "explanation": "He seldom tells a lie-তিনি কদাচিৎ মিথ্যা বলেন।"
+    },
+    {
+      "number": "2",
+      "tag": "",
+      "question": "ঘূর্ণন গতি শক্তি, জড়তার ভ্রামক এবং কৌণিক বেগ এর মধ্যে সম্পর্ক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "E = I ω \\mathrm{E}=\\mathrm{I} \\omega E = I ω",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "E = I ω 2 \\mathrm{E}=\\mathrm{I} \\omega^{2} E = I ω 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "E = 1 2 I ω E=\\frac{1}{2} I \\omega E = 2 1 ​ I ω",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "E = 1 2 I ω 2 E=\\frac{1}{2} I \\omega^{2} E = 2 1 ​ I ω 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "E = I ω \\mathrm{E}=\\mathrm{I} \\omega E = I ω",
+      "option_b": "E = I ω 2 \\mathrm{E}=\\mathrm{I} \\omega^{2} E = I ω 2",
+      "option_c": "E = 1 2 I ω E=\\frac{1}{2} I \\omega E = 2 1 ​ I ω",
+      "option_d": "E = 1 2 I ω 2 E=\\frac{1}{2} I \\omega^{2} E = 2 1 ​ I ω 2",
+      "correct": "খ",
+      "explanation": "ঘূর্ণন গতিশক্তি, E k = 1 2 m r 2 ω 2 = 1 2 I ω 2 \\mathrm{E}_{\\mathrm{k}}=\\frac{1}{2} \\mathrm{mr}^{2} \\omega^{2}=\\frac{1}{2} \\mathrm{I} \\omega^{2} E k ​ = 2 1 ​ mr 2 ω 2 = 2 1 ​ I ω 2 |জড়তার ভ্রামক, I = Σ m r 2 \\mathrm{I}=\\Sigma \\mathrm{mr}^{2} I = Σ mr 2 ]"
+    },
+    {
+      "number": "3",
+      "tag": "",
+      "question": "যখন পানিতে কিছু ডিটারজেন্ট মেশানো হয় তখন এর পৃষ্ঠটান-এ কী ঘটে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Remain same",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Continues to increase",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Tends to decrease",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "B and C Both",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Remain same",
+      "option_b": "Continues to increase",
+      "option_c": "Tends to decrease",
+      "option_d": "B and C Both",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "",
+      "question": "এন্ট্রপি সবচেয়ে কম থাকে কোন অবস্থায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Liquid",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Plasma",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Gaseous",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Solid",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Liquid",
+      "option_b": "Plasma",
+      "option_c": "Gaseous",
+      "option_d": "Solid",
+      "correct": "ঘ",
+      "explanation": "রুদ্ধতাপীয় প্রক্রিয়ায় বস্তুর যে তাপগতীয় চলরাশি বা তাপীয় ধর্ম স্থির থাকে, তাকে এনট্রপি বলে। কোনো একটি যন্ত্রের তাপমাত্রার সাপেক্ষে গৃহীত বা বর্জিত তাপের পরিবর্তনের হার দ্বারা এনট্রপি পরিমাপ করা হয়। এটি আপাত বিরোধী স্থিতিকে প্রতিভাত করে। এনট্রপি হচ্ছে কোনো একটি বস্তুর বিশৃঙ্খলার পরিমাণ। কঠিন অবস্থায় এনট্রপি সবচেয়ে কম, কিন্তু গ্যাসীয় অবস্থার এনট্রপি সবচেয়ে বেশি।"
+    },
+    {
+      "number": "5",
+      "tag": "BAU 12-13",
+      "question": "বায়ুতে এক কুলম্বের দুটি আধান পরস্পর থেকে 1 Km ব্যবধানে  অবস্থিত হলে  এদের মধ্যকার বল কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 kN",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6kN",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9kN",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18kN",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 kN",
+      "option_b": "6kN",
+      "option_c": "9kN",
+      "option_d": "18kN",
+      "correct": "ক",
+      "explanation": "q 1 = q 2 = 1 C q_{1}=q_{2}=1 \\mathrm{C} q 1 ​ = q 2 ​ = 1 C মধ্যবর্তী দূরত্ব, d = 1000m মধ্যকার বল, F = 1 4 π ε 0 a 1 q 2 d 2 F = 9 × 10 9 × ( 1 × 1 ) ( 1000 ) 2 = 9 × 10 3   N = 9 k N \\begin{aligned} F & =\\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{a_{1} q_{2}}{d^{2}} \\\\ F & =9 \\times 10^{9} \\times \\frac{(1 \\times 1)}{(1000) 2} \\\\ & =9 \\times 10^{3} \\mathrm{~N} \\\\ & =9 \\mathrm{kN}\\end{aligned} F F ​ = 4 π ε 0 ​ 1 ​ d 2 a 1 ​ q 2 ​ ​ = 9 × 1 0 9 × ( 1000 ) 2 ( 1 × 1 ) ​ = 9 × 1 0 3   N = 9 kN ​"
+    },
+    {
+      "number": "6",
+      "tag": "",
+      "question": "একটি ফ্লিন্ট কাঁচের তৈরি প্রিজমের প্রতিসারক কোণ 10° এবং লাল আলোর জন্য উপাদানের প্রতিসরণাঙ্ক 1.57 হলে বিচ্যুতি নির্ণয় কর?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10.5 ∘ 10.5^{\\circ} 10. 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5.7 ∘ 5.7^{\\circ} 5. 7 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3.8 ∘ 3.8^{\\circ} 3. 8 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6.8 ∘ 6.8^{\\circ} 6. 8 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10.5 ∘ 10.5^{\\circ} 10. 5 ∘",
+      "option_b": "5.7 ∘ 5.7^{\\circ} 5. 7 ∘",
+      "option_c": "3.8 ∘ 3.8^{\\circ} 3. 8 ∘",
+      "option_d": "6.8 ∘ 6.8^{\\circ} 6. 8 ∘",
+      "correct": "গ",
+      "explanation": "μ = 1.57   A = 10 ∘ \\begin{array}{l}\\mu=1.57 \\\\ \\mathrm{~A}=10^{\\circ}\\end{array} μ = 1.57   A = 1 0 ∘ ​ বিচ্যুতি , δ = ( μ − 1 ) A = ( 1.57 − 1 ) × 10 = 5.7 ∘ \\begin{aligned} \\delta & =(\\mu-1) \\mathrm{A} \\\\ & =(1.57-1) \\times 10=5.7^{\\circ}\\end{aligned} δ ​ = ( μ − 1 ) A = ( 1.57 − 1 ) × 10 = 5. 7 ∘ ​"
+    },
+    {
+      "number": "7",
+      "tag": "",
+      "question": "নিচের কোনটি তাড়িত চৌম্বক তরঙ্গে বর্ণালীতে রঙের সঠিক ক্রম?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Red-yellow-indigo-green-blue-violet",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Red-yellow- indigo-green- blue-violet",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Violet-blue-Indigo-green-yellow-orange-red",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Violet-Indigo-blue-green-yellow-orange-red",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Red-yellow-indigo-green-blue-violet",
+      "option_b": "Red-yellow- indigo-green- blue-violet",
+      "option_c": "Violet-blue-Indigo-green-yellow-orange-red",
+      "option_d": "Violet-Indigo-blue-green-yellow-orange-red",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "",
+      "question": "প্রতিরোধকের সমান্তরাল সংযুক্তিতে বিভব পার্থক্য নির্ণয় কর।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10   V 10 \\mathrm{~V} 10   V",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5   V 5 \\mathrm{~V} 5   V",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "11.3   V 11.3 \\mathrm{~V} 11.3   V",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3.7   V 3.7 \\mathrm{~V} 3.7   V",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10   V 10 \\mathrm{~V} 10   V",
+      "option_b": "5   V 5 \\mathrm{~V} 5   V",
+      "option_c": "11.3   V 11.3 \\mathrm{~V} 11.3   V",
+      "option_d": "3.7   V 3.7 \\mathrm{~V} 3.7   V",
+      "correct": "খ",
+      "explanation": "সমান্তরাল সংযুক্তির তুল্যরোধ, 1 R p = 1 R 1 + 1 R 2 + 1 R 3 \\frac{1}{R_{\\mathrm{p}}}=\\frac{1}{R_{1}}+\\frac{1}{R_{2}}+\\frac{1}{R_{3}} R p ​ 1 ​ = R 1 ​ 1 ​ + R 2 ​ 1 ​ + R 3 ​ 1 ​ 1 R p = 1 10 + 1 10 + 1 10 \\frac{1}{R_{\\mathrm{p}}}=\\frac{1}{10}+\\frac{1}{10}+\\frac{1}{10} R p ​ 1 ​ = 10 1 ​ + 10 1 ​ + 10 1 ​ R p = R 3 = 10 3 = 3.33 Ω \\mathrm{R}_{\\mathrm{p}}=\\frac{\\mathrm{R}}{3}=\\frac{10}{3}=3.33 \\Omega R p ​ = 3 R ​ = 3 10 ​ = 3.33Ω ভোল্টেজ বিভাজন সূত্র হতে, V R P = R P R p + R 2 × E = 3.33 3.33 + 10 × 15 = 3.75   V ≈ 3.7   V \\begin{aligned} \\mathrm{V}_{\\mathrm{R}_{\\mathrm{P}}} & =\\frac{\\mathrm{R}_{\\mathrm{P}}}{\\mathrm{R}_{\\mathrm{p}}+\\mathrm{R}_{2}} \\times \\mathrm{E}=\\frac{3.33}{3.33+10} \\times 15 \\\\ & =3.75 \\mathrm{~V} \\approx 3.7 \\mathrm{~V}\\end{aligned} V R P ​ ​ ​ = R p ​ + R 2 ​ R P ​ ​ × E = 3.33 + 10 3.33 ​ × 15 = 3.75   V ≈ 3.7   V ​"
+    },
+    {
+      "number": "9",
+      "tag": "",
+      "question": "ইউরেনিয়াম একটি তেজস্ক্রিয় নিউক্লিয়াস। এটির অর্ধায়ু 4.5 বিলিয়ন বছর। ইউরেনিয়ামের গড় আয়ু নির্ণয় কর।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.5 billion years",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6.5 billion years",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6.5 million years",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6.5 million years",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4.5 billion years",
+      "option_b": "6.5 billion years",
+      "option_c": "6.5 million years",
+      "option_d": "6.5 million years",
+      "correct": "গ",
+      "explanation": "গড় আয়ু, τ = 1 λ = 1 0.6693   T 1 2 \\tau=\\frac{1}{\\lambda}=\\frac{1}{\\frac{0.6693}{\\mathrm{~T}_{\\frac{1}{2}}}} τ = λ 1 ​ =   T 2 1 ​ ​ 0.6693 ​ 1 ​ ∴ τ = T 1 2 0.693 = 4.5 0.693 = 6.49 ≈ 6.5 \\therefore \\tau=\\frac{\\mathrm{T}_{\\frac{1}{2}}}{0.693}=\\frac{4.5}{0.693}=6.49 \\approx 6.5 ∴ τ = 0.693 T 2 1 ​ ​ ​ = 0.693 4.5 ​ = 6.49 ≈ 6.5 billion years"
+    },
+    {
+      "number": "10",
+      "tag": "",
+      "question": "100 সেন্টিমিটার দৈর্ঘ্যের একটি স্প্রিং 20 সেন্টিমিটার প্রসারিত হয় যখন 20 গ্রাম ভরের একটি বস্তু ঝুলানো হয়। যদি বস্তুটিকে টেনে ছেড়ে দেয়া হয় তাহলে স্প্রিংটি 0.5 সেকেন্ডের সময়কালে দোলতে থাকে। দোলনের রৈখিক বেগ নির্ণয় কর।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "15   m / s 15 \\mathrm{~m} / \\mathrm{s} 15   m / s",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2.5   m / s 2.5 \\mathrm{~m} / \\mathrm{s} 2.5   m / s",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.1   m / s 0.1 \\mathrm{~m} / \\mathrm{s} 0.1   m / s",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.4   m / s 0.4 \\mathrm{~m} / \\mathrm{s} 0.4   m / s",
+          "is_correct": false
+        }
+      ],
+      "option_a": "15   m / s 15 \\mathrm{~m} / \\mathrm{s} 15   m / s",
+      "option_b": "2.5   m / s 2.5 \\mathrm{~m} / \\mathrm{s} 2.5   m / s",
+      "option_c": "0.1   m / s 0.1 \\mathrm{~m} / \\mathrm{s} 0.1   m / s",
+      "option_d": "0.4   m / s 0.4 \\mathrm{~m} / \\mathrm{s} 0.4   m / s",
+      "correct": "খ",
+      "explanation": "রৈখিক বেগ, v = ω r v=\\omega r v = ω r এখানে, ω = 2 π T = 2 π 0.5 = 4 π \\omega=\\frac{2 \\pi}{T}=\\frac{2 \\pi}{0.5}=4 \\pi ω = T 2 π ​ = 0.5 2 π ​ = 4 π এবং r = 100 + 20 = 120   c m = 1.2   m ∴ v = 4 π × 1.2 = 15.079   m s − 1 ≈ 15   m s − 1 \\mathrm{r}=100+20=120 \\mathrm{~cm}=1.2 \\mathrm{~m} \\therefore \\mathrm{v}=4 \\pi \\times 1.2=15.079 \\mathrm{~ms}^{-1} \\approx 15 \\mathrm{~ms}^{-1} r = 100 + 20 = 120   cm = 1.2   m ∴ v = 4 π × 1.2 = 15.079   ms − 1 ≈ 15   ms − 1"
+    },
+    {
+      "number": "11",
+      "tag": "",
+      "question": "একটি বস্তুকে 100m/s বেগের সাথে খাঁড়াভাবে উপরের দিকে নিক্ষেপ করা হয়। 3 সেকেন্ড পর বস্তুর বেগ নির্ণয় কর।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "42   m / s 42 \\mathrm{~m} / \\mathrm{s} 42   m / s",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 42   m / s -42 \\mathrm{~m} / \\mathrm{s} − 42   m / s",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "69   m / s 69 \\mathrm{~m} / \\mathrm{s} 69   m / s",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "none",
+          "is_correct": false
+        }
+      ],
+      "option_a": "42   m / s 42 \\mathrm{~m} / \\mathrm{s} 42   m / s",
+      "option_b": "− 42   m / s -42 \\mathrm{~m} / \\mathrm{s} − 42   m / s",
+      "option_c": "69   m / s 69 \\mathrm{~m} / \\mathrm{s} 69   m / s",
+      "option_d": "none",
+      "correct": "ক",
+      "explanation": "v = u − g t = 100 − 9.8 × 3 = 70.6   m s − 1 \\mathrm{v}=\\mathrm{u}-\\mathrm{gt}=100-9.8 \\times 3=70.6 \\mathrm{~ms}^{-1} v = u − gt = 100 − 9.8 × 3 = 70.6   ms − 1"
+    }
+  ]
+}

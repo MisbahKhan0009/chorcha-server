@@ -1,0 +1,182 @@
+{
+  "title": "ময়মনসিংহ বোর্ড ২০২৫",
+  "subtitle": "(8)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "(i) g : R − { − 1 3 } → R − { 1 3 } g: R-\\left\\{-\\frac{1}{3}\\right\\} \\rightarrow R-\\left\\{\\frac{1}{3}\\right\\} g : R − { − 3 1 ​ } → R − { 3 1 ​ } একটি ফাংশন যা g ( x ) = x − 4 3 x + 1 g(x)=\\frac{x-4}{3 x+1} g ( x ) = 3 x + 1 x − 4 ​ দ্বারা সংজ্ঞায়িত এবং (ii) S = { ( x , y ) : x 2 + y 2 + 10 x − 4 y − 20 = 0 } \\mathrm{S}=\\left\\{(\\mathrm{x}, \\mathrm{y}): \\mathrm{x}^{2}+\\mathrm{y}^{2}+10 \\mathrm{x}-4 \\mathrm{y}-20=0\\right\\} S = { ( x , y ) : x 2 + y 2 + 10 x − 4 y − 20 = 0 } একটি অন্বয়।",
+      "tag": "MB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "f ( x ) = 1 1 − 2 x f(x)=\\frac{1}{\\sqrt{1-2 x}} f ( x ) = 1 − 2 x ​ 1 ​ ফাংশনের ডোমেন নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "g ( x ) g(x) g ( x ) ফাংশনটি এক-এক এবং সার্বিক কি-না যাচাই কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "S অন্বয়ের লেখচিত্র অঙ্কন কর এবং অন্বয়টি ফাংশনটি কি-না লেখচিত্র থেকে নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "P ( x ) = ( x 2 + 5 ) ( x 2 − 4 ) P(x)=\\left(x^{2}+5\\right)\\left(x^{2}-4\\right) P ( x ) = ( x 2 + 5 ) ( x 2 − 4 ) একটি বহুপদী।",
+      "tag": "MB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "x 2 − 5 x + 2 = 0 x^{2}-5 x+2=0 x 2 − 5 x + 2 = 0 সমীকরণের নিশ্চায়ক এবং মূলের প্রকৃতি নির্ণয় কর।",
+          "explanation": "ধরি, a − b = x , b − c = y a-b=x, b-c=y a − b = x , b − c = y এবং c − a = z c-a=z c − a = z ∴ x + y + z = a − b + b − c + c − a = 0 x + y + z = 0  হলে,  \\begin{array}{l} \\therefore x+y+z=a-b+b-c+c-a=0 \\\\ x+y+z=0 \\text { হলে, } \\end{array} ∴ x + y + z = a − b + b − c + c − a = 0 x + y + z = 0   হলে ,  ​ আমরা জানি, x 3 + y 3 + z 3 = 3 x y z x^{3}+y^{3}+z^{3}=3 x y z x 3 + y 3 + z 3 = 3 x yz বা, ( a − b ) 3 + ( b − c ) 3 + ( c − a ) 3 = 3 ( a − b ) ( b − c ) ( c − a ) (a-b)^{3}+(b-c)^{3}+(c-a)^{3}=3(a-b)(b-c)(c-a) ( a − b ) 3 + ( b − c ) 3 + ( c − a ) 3 = 3 ( a − b ) ( b − c ) ( c − a ) নির্ণেয় উৎপাদক : 3(a-b) (b-c) (c-a)."
+        },
+        {
+          "label": "খ",
+          "question": "",
+          "explanation": "দেওয়া আছে, P ( x ) = ( x 2 + 5 ) ( x 2 − 4 ) \\mathrm{P}(\\mathrm{x})=\\left(\\mathrm{x}^{2}+5\\right)\\left(\\mathrm{x}^{2}-4\\right) P ( x ) = ( x 2 + 5 ) ( x 2 − 4 ) P ( x ) \\mathrm{P}(\\mathrm{x}) P ( x ) কে ( x − m ) (\\mathrm{x}-\\mathrm{m}) ( x − m ) দ্বারা ভাগ করলে ভাগশেষ হবে P ( m ) \\mathrm{P}(\\mathrm{m}) P ( m ) . অর্থাৎ, P ( m ) = ( m 2 + 5 ) ( m 2 − 4 ) P(m)=\\left(m^{2}+5\\right)\\left(m^{2}-4\\right) P ( m ) = ( m 2 + 5 ) ( m 2 − 4 ) এবং P ( x ) P(x) P ( x ) কে ( x − n ) (x-n) ( x − n ) দ্বারা ভাগ করলে ভাগশেষ হবে P ( n ) P(n) P ( n ) । অর্থাৎ P ( n ) = ( n 2 + 5 ) ( n 2 − 4 ) P(n)=\\left(n^{2}+5\\right)\\left(n^{2}-4\\right) P ( n ) = ( n 2 + 5 ) ( n 2 − 4 ) . শর্তমতে, ′ P ( m ) = P ( n ) { }^{\\prime} \\mathrm{P}(\\mathrm{m})=\\mathrm{P}(\\mathrm{n}) ′ P ( m ) = P ( n ) বা, ( m 2 + 5 ) ( m 2 − 4 ) = ( n 2 + 5 ) ( n 2 − 4 ) \\left(m^{2}+5\\right)\\left(m^{2}-4\\right)=\\left(n^{2}+5\\right)\\left(n^{2}-4\\right) ( m 2 + 5 ) ( m 2 − 4 ) = ( n 2 + 5 ) ( n 2 − 4 ) . বা, m 4 − 4 m 2 + 5 m 2 − 20 = n 4 − 4 n 2 + 5 n 2 − 20 m^{4}-4 m^{2}+5 m^{2}-20=n^{4}-4 n^{2}+5 n^{2}-20 m 4 − 4 m 2 + 5 m 2 − 20 = n 4 − 4 n 2 + 5 n 2 − 20 বা, m 4 + m 2 − 20 = n 4 + n 2 − 20 m^{4}+m^{2}-20=n^{4}+n^{2}-20 m 4 + m 2 − 20 = n 4 + n 2 − 20 বা, m 4 − n 4 + m 2 − n 2 − 20 + 20 = 0 m^{4}-n^{4}+m^{2}-n^{2}-20+20=0 m 4 − n 4 + m 2 − n 2 − 20 + 20 = 0 বা, ( m 2 ) 2 − ( n 2 ) 2 + ( m 2 − n 2 ) = 0 \\left(m^{2}\\right)^{2}-\\left(n^{2}\\right)^{2}+\\left(m^{2}-n^{2}\\right)=0 ( m 2 ) 2 − ( n 2 ) 2 + ( m 2 − n 2 ) = 0 বা, ( m 2 + n 2 ) ( m 2 − n 2 ) + ( m 2 − n 2 ) = 0 \\left(m^{2}+n^{2}\\right)\\left(m^{2}-n^{2}\\right)+\\left(m^{2}-n^{2}\\right)=0 ( m 2 + n 2 ) ( m 2 − n 2 ) + ( m 2 − n 2 ) = 0 বা, ( m 2 − n 2 ) ( m 2 + n 2 + 1 ) = 0 \\left(m^{2}-n^{2}\\right)\\left(m^{2}+n^{2}+1\\right)=0 ( m 2 − n 2 ) ( m 2 + n 2 + 1 ) = 0 বা, ( m + n ) ( m − n ) ( m 2 + n 2 + 1 ) = 0 (m+n)(m-n)\\left(m^{2}+n^{2}+1\\right)=0 ( m + n ) ( m − n ) ( m 2 + n 2 + 1 ) = 0 বা, ( m − n ) { ( m + n ) ( m 2 + n 2 + 1 ) } = 0 (m-n)\\left\\{(m+n)\\left(m^{2}+n^{2}+1\\right)\\right\\}=0 ( m − n ) { ( m + n ) ( m 2 + n 2 + 1 ) } = 0 বা, ( m − n ) ( m 3 + m n 2 + m + m 2 n + n 3 + n ) = 0 (m-n)\\left(m^{3}+m n^{2}+m+m^{2} n+n^{3}+n\\right)=0 ( m − n ) ( m 3 + m n 2 + m + m 2 n + n 3 + n ) = 0 বা, ( m − n ) ( m 3 + n 3 + m 2 n + n m 2 + m + n ) = 0 (m-n)\\left(m^{3}+n^{3}+m^{2} n+n m^{2}+m+n\\right)=0 ( m − n ) ( m 3 + n 3 + m 2 n + n m 2 + m + n ) = 0 হয়, m − n = 0 m-n=0 m − n = 0 অথবা, m 3 + n 3 + m 2 n + n m 2 + m + n = 0 m^{3}+n^{3}+m^{2} n+n m^{2}+m+n=0 m 3 + n 3 + m 2 n + n m 2 + m + n = 0 বা, m = n m=n m = n কিন্তু ইহা গ্রহণযোগ্য নয় কারণ m ≠ n m \\neq n m  = n ∴ m 3 + n 3 + m 2 n + n m 2 + m + n = 0 \\therefore \\quad m^{3}+n^{3}+m^{2} n+n m^{2}+m+n=0 ∴ m 3 + n 3 + m 2 n + n m 2 + m + n = 0 . (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "x 3 P ( x ) \\frac{\\mathrm{x}^{3}}{\\mathrm{P}(\\mathrm{x})} P ( x ) x 3 ​ কে আংশিক ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "দেওয়া আছে, P ( x ) = ( x 2 + 5 ) ( x 2 − 4 ) P(x) = (x^2+5)(x^2-4) P ( x ) = ( x 2 + 5 ) ( x 2 − 4 ) = ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) = (x+2)(x-2)(x^2+5) = ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) ∴ x 3 P ( x ) = x 3 ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) \\therefore \\frac{x^3}{P(x)} = \\frac{x^3}{(x+2)(x-2)(x^2+5)} ∴ P ( x ) x 3 ​ = ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) x 3 ​ ধরি, x 3 ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) = A x + 2 + B x − 2 + C x + D x 2 + 5 … ( 1 ) \\frac{x^3}{(x+2)(x-2)(x^2+5)} = \\frac{A}{x+2} + \\frac{B}{x-2} + \\frac{Cx+D}{x^2+5} \\quad \\ldots(1) ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) x 3 ​ = x + 2 A ​ + x − 2 B ​ + x 2 + 5 C x + D ​ … ( 1 ) (1) নং সমীকরণের উভয়পক্ষে ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) (x+2)(x-2)(x^2+5) ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) দ্বারা গুণ করে পাই, x 3 = A ( x − 2 ) ( x 2 + 5 ) + B ( x + 2 ) ( x 2 + 5 ) + ( C x + D ) ( x + 2 ) ( x − 2 ) … ( 2 ) x^3 = A(x-2)(x^2+5) + B(x+2)(x^2+5) + (Cx+D)(x+2)(x-2) \\quad \\ldots(2) x 3 = A ( x − 2 ) ( x 2 + 5 ) + B ( x + 2 ) ( x 2 + 5 ) + ( C x + D ) ( x + 2 ) ( x − 2 ) … ( 2 ) বা, x 3 = A ( x 3 + 5 x − 2 x 2 − 10 ) + B ( x 3 + 5 x + 2 x 2 + 10 ) x^3 = A(x^3+5x-2x^2-10) + B(x^3+5x+2x^2+10) x 3 = A ( x 3 + 5 x − 2 x 2 − 10 ) + B ( x 3 + 5 x + 2 x 2 + 10 ) + ( C x + D ) ( x 2 − 4 ) \\quad + (Cx+D)(x^2-4) + ( C x + D ) ( x 2 − 4 ) বা, x 3 = A x 3 + 5 A x − 2 A x 2 − 10 A + B x 3 + 5 B x + 2 B x 2 + 10 B x^3 = Ax^3+5Ax-2Ax^2-10A + Bx^3+5Bx+2Bx^2+10B x 3 = A x 3 + 5 A x − 2 A x 2 − 10 A + B x 3 + 5 B x + 2 B x 2 + 10 B + C x 3 − 4 C x + D x 2 − 4 D \\quad + Cx^3-4Cx + Dx^2-4D + C x 3 − 4 C x + D x 2 − 4 D বা, x 3 = ( A + B + C ) x 3 + ( − 2 A + 2 B + D ) x 2 x^3 = (A+B+C)x^3 + (-2A+2B+D)x^2 x 3 = ( A + B + C ) x 3 + ( − 2 A + 2 B + D ) x 2 + ( 5 A + 5 B − 4 C ) x + ( − 10 A + 10 B − 4 D ) … ( 3 ) \\quad + (5A+5B-4C)x + (-10A+10B-4D) \\quad \\ldots(3) + ( 5 A + 5 B − 4 C ) x + ( − 10 A + 10 B − 4 D ) … ( 3 ) (2) নং সমীকরণে x = − 2 , 2 x = -2, 2 x = − 2 , 2 বসিয়ে পাই, ( − 2 ) 3 = A ( − 2 − 2 ) ( ( − 2 ) 2 + 5 ) + B ( − 2 + 2 ) ( ( − 2 ) 2 + 5 ) (-2)^3 = A(-2-2)((-2)^2+5) + B(-2+2)((-2)^2+5) ( − 2 ) 3 = A ( − 2 − 2 ) (( − 2 ) 2 + 5 ) + B ( − 2 + 2 ) (( − 2 ) 2 + 5 ) + ( C ( − 2 ) + D ) ( − 2 + 2 ) ( − 2 − 2 ) \\quad + (C(-2)+D)(-2+2)(-2-2) + ( C ( − 2 ) + D ) ( − 2 + 2 ) ( − 2 − 2 ) বা, − 8 = A ( − 4 ) ( 4 + 5 ) + 0 + 0 -8 = A(-4)(4+5) + 0 + 0 − 8 = A ( − 4 ) ( 4 + 5 ) + 0 + 0 বা, − 8 = − 36 A -8 = -36A − 8 = − 36 A বা, A = − 8 − 36 A = \\frac{-8}{-36} A = − 36 − 8 ​ ∴ A = 2 9 \\therefore A = \\frac{2}{9} ∴ A = 9 2 ​ আবার, ( 2 ) 3 = A ( 2 − 2 ) ( 2 2 + 5 ) + B ( 2 + 2 ) ( 2 2 + 5 ) (2)^3 = A(2-2)(2^2+5) + B(2+2)(2^2+5) ( 2 ) 3 = A ( 2 − 2 ) ( 2 2 + 5 ) + B ( 2 + 2 ) ( 2 2 + 5 ) + ( C × 2 + D ) ( 2 + 2 ) ( 2 − 2 ) \\quad + (C \\times 2+D)(2+2)(2-2) + ( C × 2 + D ) ( 2 + 2 ) ( 2 − 2 ) বা, 8 = 0 + B × 4 × 9 + 0 8 = 0 + B \\times 4 \\times 9 + 0 8 = 0 + B × 4 × 9 + 0 বা, 8 = 36 B 8 = 36B 8 = 36 B বা, B = 8 36 B = \\frac{8}{36} B = 36 8 ​ ∴ B = 2 9 \\therefore B = \\frac{2}{9} ∴ B = 9 2 ​ (3) নং সমীকরণ হতে x 3 x^3 x 3 ও x 2 x^2 x 2 এর সহগ সমীকৃত করে পাই, A + B + C = 1 A+B+C = 1 A + B + C = 1 বা, 2 9 + 2 9 + C = 1 \\frac{2}{9} + \\frac{2}{9} + C = 1 9 2 ​ + 9 2 ​ + C = 1 বা, C = 1 − 2 9 − 2 9 = 9 − 2 − 2 9 C = 1 - \\frac{2}{9} - \\frac{2}{9} = \\frac{9-2-2}{9} C = 1 − 9 2 ​ − 9 2 ​ = 9 9 − 2 − 2 ​ ∴ C = 5 9 \\therefore C = \\frac{5}{9} ∴ C = 9 5 ​ এবং − 2   A + 2   B + D = 0 -2 \\mathrm{~A}+2 \\mathrm{~B}+\\mathrm{D}=0 − 2   A + 2   B + D = 0 বা, − 2 × 2 9 + 2 × 2 9 + D = 0 -2 \\times \\frac{2}{9}+2 \\times \\frac{2}{9}+\\mathrm{D}=0 − 2 × 9 2 ​ + 2 × 9 2 ​ + D = 0 বা, − 4 9 + 4 9 + D = 0 -\\frac{4}{9}+\\frac{4}{9}+\\mathrm{D}=0 − 9 4 ​ + 9 4 ​ + D = 0 ∴ D = 0 \\therefore \\quad \\mathrm{D}=0 ∴ D = 0 A, B, C ও D এর মান (i) নং সমীকরণে বসিয়ে পাই, x 3 ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) ≡ 2 9 x + 2 + 2 9 x − 2 + 5 9 x + 0 x 2 + 5 = 2 9 ( x + 2 ) + 2 9 ( x − 2 ) + 5 x 9 ( x 2 + 5 ) \\begin{aligned} \\frac{x^{3}}{(x+2)(x-2)\\left(x^{2}+5\\right)} & \\equiv \\frac{\\frac{2}{9}}{x+2}+\\frac{\\frac{2}{9}}{x-2}+\\frac{\\frac{5}{9} x+0}{x^{2}+5} \\\\ & =\\frac{2}{9(x+2)}+\\frac{2}{9(x-2)}+\\frac{5 x}{9\\left(x^{2}+5\\right)} \\end{aligned} ( x + 2 ) ( x − 2 ) ( x 2 + 5 ) x 3 ​ ​ ≡ x + 2 9 2 ​ ​ + x − 2 9 2 ​ ​ + x 2 + 5 9 5 ​ x + 0 ​ = 9 ( x + 2 ) 2 ​ + 9 ( x − 2 ) 2 ​ + 9 ( x 2 + 5 ) 5 x ​ ​ যা নির্ণেয় আংশিক ভগ্নাংশ।"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "(i) y = ln ⁡ 13 + x 13 − x y=\\ln \\frac{13+x}{13-x} y = ln 13 − x 13 + x ​ এবং (ii) p = ( k − 3 y 2 ) n \\mathrm{p}=\\left(\\mathrm{k}-\\frac{3 \\mathrm{y}}{2}\\right)^{\\mathrm{n}} p = ( k − 2 3 y ​ ) n",
+      "tag": "MB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "8 − 4 + 2 − 1 + 8-4+2-1+ 8 − 4 + 2 − 1 + … … …… …… অসীম গুণোত্তর ধারাটির (অসীমতক) সমষ্টি নির্ণয় কর (যদি থাকে)।",
+          "explanation": "প্রদত্ত অসীম গুণোত্তর ধারা : 8-4+2-1+ ......... ধারাটির প্রথম পদ a = 8 \\mathrm{a}=8 a = 8 এবং সাধারণ অনুপাত r = − 4 8 = − 1 2 < 1 \\mathrm{r}=\\frac{-4}{8}=-\\frac{1}{2}<1 r = 8 − 4 ​ = − 2 1 ​ < 1 যেহেতু − 1 < r < 1 -1<\\mathrm{r}<1 − 1 < r < 1 , সেহেতু অসীমতক সমষ্টি বিদ্যমান। ∴ \\therefore \\quad ∴ ধারাটির অসীমতক সমষ্টি S ∞ = a 1 − r \\mathrm{S}_{\\infty}=\\frac{\\mathrm{a}}{1-\\mathrm{r}} S ∞ ​ = 1 − r a ​ = 8 1 − ( − 1 2 ) = 8 1 + 1 2 = 8 2 + 1 2 = 8 × 2 3 = 16 3 =\\frac{8}{1-\\left(-\\frac{1}{2}\\right)}=\\frac{8}{1+\\frac{1}{2}}=\\frac{8}{\\frac{2+1}{2}}=8 \\times \\frac{2}{3}=\\frac{16}{3} = 1 − ( − 2 1 ​ ) 8 ​ = 1 + 2 1 ​ 8 ​ = 2 2 + 1 ​ 8 ​ = 8 × 3 2 ​ = 3 16 ​ নির্ণেয় সমষ্টি : 16 3 \\frac{16}{3} 3 16 ​"
+        },
+        {
+          "label": "খ",
+          "question": "(i) নং অনুসারে y এর ডোমেন ও রেঞ্জ নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, y = ln ⁡ 13 + x 13 − x \\mathrm{y}=\\ln \\frac{13+\\mathrm{x}}{13-\\mathrm{x}} y = ln 13 − x 13 + x ​ যেহেতু লগারিদম শুধুমাত্র ধনাত্মক বাস্তব সংখ্যার জন্য সংজ্ঞায়িত হয়। ∴ 13 + x 13 − x > 0 \\therefore \\quad \\frac{13+\\mathrm{x}}{13-\\mathrm{x}}>0 ∴ 13 − x 13 + x ​ > 0 হবে যদি (i) 13 + x > 0 13+\\mathrm{x}>0 13 + x > 0 এবং 13 − x > 0 13-\\mathrm{x}>0 13 − x > 0 হয় অথবা, (ii) 13 + x < 0 13+x<0 13 + x < 0 এবং 13 − x < 0 13-x<0 13 − x < 0 হয় (i)নং হতে পাই,  x>-  13  এবং - x>-  13 \\text { x>- } 13 \\text { এবং - x>- } 13  x>-  13   এবং  - x>-  13 বা, x > − 13 x>-13 x > − 13 এবং x < 13 x<13 x < 13 ∴  ডোমেন  = { x : x > − 13 } ∩ { x : x < 13 } = ( − 13 , ∞ ) ∩ ( − ∞ , 13 ) = ( − 13 , 13 ) \\begin{aligned} \\therefore \\quad \\text { ডোমেন } & =\\{x: x>-13\\} \\cap\\{x: x<13\\} \\\\ & =(-13, \\infty) \\cap(-\\infty, 13)=(-13,13) \\end{aligned} ∴   ডোমেন   ​ = { x : x > − 13 } ∩ { x : x < 13 } = ( − 13 , ∞ ) ∩ ( − ∞ , 13 ) = ( − 13 , 13 ) ​ (ii)নং হতে পাই, x < − 13  এবং -  x < − 13 x<-13 \\text { এবং - } x<-13 x < − 13   এবং  -  x < − 13 বা, x < − 13 x<-13 x < − 13 এবং x > 13 x>13 x > 13 ∴  ডোমেন  = { x : x < − 13 } ∩ { x : x > 13 } = ( − ∞ , − 13 ) ∩ ( 13 , ∞ ) = ∅ \\begin{aligned} \\therefore \\quad \\text { ডোমেন } & =\\{x: x<-13\\} \\cap\\{x: x>13\\} \\\\ & =(-\\infty,-13) \\cap(13, \\infty)=\\varnothing \\end{aligned} ∴   ডোমেন   ​ = { x : x < − 13 } ∩ { x : x > 13 } = ( − ∞ , − 13 ) ∩ ( 13 , ∞ ) = ∅ ​ ∴ \\therefore ∴ প্রদত্ত ফাংশনের ডোমেন D f = ( i )  ও (ii) এর ক্ষেত্রে প্রাপ্ত ডোমেনের সংযোগ  = ( − 13 , 13 ) ∪ ∅ = ( − 13 , 13 ) \\begin{aligned} \\mathrm{D}_{f} & =(\\mathrm{i}) \\text { ও (ii) এর ক্ষেত্রে প্রাপ্ত ডোমেনের সংযোগ } \\\\ & =(-13,13) \\cup \\varnothing=(-13,13) \\end{aligned} D f ​ ​ = ( i )   ও  (ii)  এর   ক্ষেত্রে   প্রাপ্ত   ডোমেনের   সংযোগ   = ( − 13 , 13 ) ∪ ∅ = ( − 13 , 13 ) ​ আবার, y = ln ⁡ 13 + x 13 − x y=\\ln \\frac{13+x}{13-x} y = ln 13 − x 13 + x ​ বা, e y = 13 + x 13 − x e^{y}=\\frac{13+x}{13-x} e y = 13 − x 13 + x ​ বা, 13 + x = 13 e y − x e y 13+x=13 e^{y}-x e^{y} 13 + x = 13 e y − x e y বা, x + x e y = 13 e y − 13 \\mathrm{x}+\\mathrm{xe}^{\\mathrm{y}}=13 \\mathrm{e}^{\\mathrm{y}}-13 x + xe y = 13 e y − 13 বা, x ( 1 + e y ) = 13 ( e y − 1 ) x\\left(1+e^{y}\\right)=13\\left(e^{y}-1\\right) x ( 1 + e y ) = 13 ( e y − 1 ) বা, x = 13 ( e y − 1 ) e y + 1 x=\\frac{13\\left(e^{y}-1\\right)}{e^{y}+1} x = e y + 1 13 ( e y − 1 ) ​ y -এর সকল বাস্তব মানের জন্য x এর মান বাস্তব হয়। ∴ \\therefore ∴ প্রদত্ত ফাংশনের রেঞ্জ R f = R \\mathrm{R}_{f}=\\mathbb{R} R f ​ = R নির্ণেয় ডোমেন D f = ( − 13 , 13 ) \\mathrm{D}_{f}=(-13,13) D f ​ = ( − 13 , 13 ) এবং রেঞ্জ R f = R \\mathrm{R}_{f}=\\mathbb{R} R f ​ = R ."
+        },
+        {
+          "label": "গ",
+          "question": "k = 2 k=2 k = 2 এবং p p p এর বিস্তৃতির ৩য় পদের সহগ ৫ম পদের সহগের 32 3 \\frac{32}{3} 3 32 ​ গুণ হলে n এর মান নির্ণয় কর, যেখানে n ≠ 1 \\mathrm{n} \\neq 1 n  = 1 .",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "△ P Q R \\triangle \\mathrm{PQR} △ PQR এ PD, QE এবং RF মধ্যমাত্রয় G বিন্দুতে ছেদ করে। S S S এবং O O O যথাক্রমে △ P Q R \\triangle P Q R △ PQR এর পরিকেন্দ্র এবং লম্ববিন্দু।",
+      "tag": "MB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "এরূপ একটি বৃত্ত অঙ্কন করতে হবে যা একটি নির্দিষ্ট বৃত্তকে নির্দিষ্ট বিন্দুতে স্পর্শ করে এবং বৃত্তের বহিঃস্থ কোনো নির্দিষ্ট বিন্দু দিয়ে যায়। [শুধুমাত্র অঙ্কনের চিহ্ন আবশ্যক]",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "উদ্দীপক হতে প্রমাণ কর যে,",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "উদ্দীপক অনুসারে দেখাও যে, S, G এবং O একই সরলরেখায় অবস্থিত।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "A ( 4 , 6 ) , B ( − 3 , 5 ) , C ( − 2 , − 3 ) , D ( 4 , − 4 ) A(4,6), B(-3,5), C(-2,-3), D(4,-4) A ( 4 , 6 ) , B ( − 3 , 5 ) , C ( − 2 , − 3 ) , D ( 4 , − 4 ) এবং E ( p , 3 ) E(p, 3) E ( p , 3 ) বিন্দুগুলো একটি পঞ্চভূজের শীর্ষবিন্দু।",
+      "tag": "MB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "1 2 \\frac{1}{2} 2 1 ​ ঢালবিশিষ্ট এবং C বিন্দুগামী সরলরেখার সমীকরণ নির্ণয় কর।",
+          "explanation": "m = 1 2 m=\\frac{1}{2} m = 2 1 ​ ঢালবিশিষ্ট এবং C ( − 2 , − 3 ) C(-2,-3) C ( − 2 , − 3 ) বিন্দুগামী সরলরেখার সমীকরণ, y − y 1 = m ( x − x 1 ) y-y_{1}=m\\left(x-x_{1}\\right) y − y 1 ​ = m ( x − x 1 ​ ) বা, y − ( − 3 ) = 1 2 { x − ( − 2 ) } y-(-3)=\\frac{1}{2}\\{x-(-2)\\} y − ( − 3 ) = 2 1 ​ { x − ( − 2 )} বা, y + 3 = 1 2 ( x + 2 ) y+3=\\frac{1}{2}(x+2) y + 3 = 2 1 ​ ( x + 2 ) বা, 2 y + 6 = x + 2 2 y+6=x+2 2 y + 6 = x + 2 বা, x + 2 − 2 y − 6 = 0 x+2-2 y-6=0 x + 2 − 2 y − 6 = 0 ∴ x − 2 y − 4 = 0 \\therefore \\quad x-2 y-4=0 ∴ x − 2 y − 4 = 0 নির্ণেয় সরলরেখার সমীকরণ, x − 2 y − 4 = 0 x-2 y-4=0 x − 2 y − 4 = 0 ."
+        },
+        {
+          "label": "খ",
+          "question": "যদি উদ্দীপকের বিন্দুগুলো ঘড়ির কাঁটার বিপরীতে আবর্তিত হয় এবং চতুর্ভুজ ACDE এর ক্ষেত্রফল △ A C D \\triangle \\mathrm{ACD} △ ACD এর ক্ষেত্রফলের দ্বিগুণ হয়, তবে B বিন্দুর স্থানাঙ্ক নির্ণয় কর।",
+          "explanation": "A(4, 6), C(-2, - 3), D(4, - 4) এবং E(p, 3) বিন্দুসমূহ ঘড়ির কাঁটার বিপরীতে নিয়ে ACDE এর ক্ষেত্রফল = 1 2 ∣ 4 − 2 4 p 4 6 − 3 − 4 3 6 ∣ =\\frac{1}{2}\\left|\\begin{array}{ccccc}4 & -2 & 4 & p & 4 \\\\ 6 & -3 & -4 & 3 & 6\\end{array}\\right| = 2 1 ​ ​ 4 6 ​ − 2 − 3 ​ 4 − 4 ​ p 3 ​ 4 6 ​ ​ বর্গ একক = 1 2 { ( − 12 + 8 + 12 + 6 p ) − ( − 12 − 12 − 4 p + 12 ) } =\\frac{1}{2}\\{(-12+8+12+6 p)-(-12-12-4 p+12)\\} = 2 1 ​ {( − 12 + 8 + 12 + 6 p ) − ( − 12 − 12 − 4 p + 12 )} বর্গ একক = 1 2 ( 8 + 6 p + 12 + 4 p ) =\\frac{1}{2}(8+6 p+12+4 p) = 2 1 ​ ( 8 + 6 p + 12 + 4 p ) বর্গ একক = 1 2 ( 10 p + 20 ) =\\frac{1}{2}(10 p+20) = 2 1 ​ ( 10 p + 20 ) বর্গ একক = 1 2 × 10 ( p + 2 ) =\\frac{1}{2} \\times 10(p+2) = 2 1 ​ × 10 ( p + 2 ) বর্গ একক = 5 ( p + 2 ) =5(p+2) = 5 ( p + 2 ) বর্গ একক আবার, A(4, 6), C(-2, - 3) এবং D(4, - 4) বিন্দুগুলি ঘড়ির কাঁটার বিপরীতে নিয়ে ত্রিভুজ ACD এর ক্ষেত্রফল = 1 2 ∣ 4 − 2 4 4 6 − 3 − 4 6 ∣ =\\frac{1}{2}\\left|\\begin{array}{rrrr}4 & -2 & 4 & 4 \\\\ 6 & -3 & -4 & 6\\end{array}\\right| = 2 1 ​ ​ 4 6 ​ − 2 − 3 ​ 4 − 4 ​ 4 6 ​ ​ বর্গ একক = 1 2 { ( − 12 + 8 + 24 ) − ( − 12 − 12 − 16 ) } =\\frac{1}{2}\\{(-12+8+24)-(-12-12-16)\\} = 2 1 ​ {( − 12 + 8 + 24 ) − ( − 12 − 12 − 16 )} বর্গ একক = 1 2 ( 20 + 40 ) =\\frac{1}{2}(20+40) = 2 1 ​ ( 20 + 40 ) বর্গ একক = 1 2 × 60 =\\frac{1}{2} \\times 60 = 2 1 ​ × 60 বর্গ একক = 30 =30 = 30 বর্গ একক শর্তমতে, 5 ( p + 2 ) = 30 × 2 5(p+2)=30 \\times 2 5 ( p + 2 ) = 30 × 2 বা, p + 2 = 60 5 p+2=\\frac{60}{5} p + 2 = 5 60 ​ বা, p = 12 − 2 \\mathrm{p}=12-2 p = 12 − 2 ∴ p = 10 \\therefore p=10 ∴ p = 10 ∴ E \\therefore \\mathrm{E} ∴ E বিন্দুর স্থানাঙ্ক E ( p , 3 ) = E ( 10 , 3 ) \\mathrm{E}(\\mathrm{p}, 3)=\\mathrm{E}(10,3) E ( p , 3 ) = E ( 10 , 3 ) নির্ণেয় E E E বিন্দুর স্থানাঙ্ক E ( 10 , 3 ) E(10,3) E ( 10 , 3 ) ."
+        },
+        {
+          "label": "গ",
+          "question": "ABCD চতুর্ভুজের যে অংশ ১ম চতুর্ভাগে অবস্থিত তার ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "A ( 4 , 6 ) , B ( − 3 , 6 ) , C ( − 2 , − 3 ) \\mathrm{A}(4,6), \\mathrm{B}(-3,6), \\mathrm{C}(-2,-3) A ( 4 , 6 ) , B ( − 3 , 6 ) , C ( − 2 , − 3 ) এবং D ( 4 , − 4 ) \\mathrm{D}(4,-4) D ( 4 , − 4 ) বিন্দুগুলি xy সমতলে স্থাপন করি। AB রেখার সমীকরণ, y − 6 x − 4 = 6 − 5 4 + 3 \\frac{\\mathrm{y}-6}{\\mathrm{x}-4}=\\frac{6-5}{4+3} x − 4 y − 6 ​ = 4 + 3 6 − 5 ​  বা,  y − 6 x − 4 = 1 7 \\text { বা, } \\frac{y-6}{x-4}=\\frac{1}{7}   বা ,  x − 4 y − 6 ​ = 7 1 ​ AB রেখা y y y -অক্ষকে ছেদ করে বলে, x = 0 x=0 x = 0 ∴ y − 6 0 − 4 = 1 7 \\therefore \\quad \\frac{y-6}{0-4}=\\frac{1}{7} ∴ 0 − 4 y − 6 ​ = 7 1 ​ বা, y − 6 − 4 = 1 7 \\frac{y-6}{-4}=\\frac{1}{7} − 4 y − 6 ​ = 7 1 ​ বা, y − 6 = − 4 7 y-6=-\\frac{4}{7} y − 6 = − 7 4 ​ বা, y = − 4 7 + 6 \\mathrm{y}=-\\frac{4}{7}+6 y = − 7 4 ​ + 6 ∴ y = 38 7 \\therefore \\quad y=\\frac{38}{7} ∴ y = 7 38 ​ ∴ y \\therefore \\quad y ∴ y অক্ষ ও AB রেখার ছেদবিন্দু ( 0 , 38 7 ) \\left(0, \\frac{38}{7}\\right) ( 0 , 7 38 ​ ) আবার, AD রেখার সমীকরণ, y − 6 x − 4 = 6 + 4 4 − 4 \\frac{y-6}{x-4}=\\frac{6+4}{4-4} x − 4 y − 6 ​ = 4 − 4 6 + 4 ​  বা,  y − 6 x − 4 = 10 0 \\text { বা, } \\frac{y-6}{x-4}=\\frac{10}{0}   বা ,  x − 4 y − 6 ​ = 0 10 ​ বা, 10 x − 40 = 0 10 x-40=0 10 x − 40 = 0 বা, 10 x = 40 10 \\mathrm{x}=40 10 x = 40 ∴ x = 4 \\therefore \\mathrm{x}=4 ∴ x = 4 AD রেখা x-অক্ষকে ছেদ করে বলে y = 0 ∴ x \\therefore \\mathrm{x} ∴ x অক্ষ ও AD রেখার ছেদবিন্দু ( 4 , 0 ) (4,0) ( 4 , 0 ) ∴ ( 4 , 6 ) , ( 0 , 38 7 ) , ( 0 , 0 ) \\therefore(4,6),\\left(0, \\frac{38}{7}\\right),(0,0) ∴ ( 4 , 6 ) , ( 0 , 7 38 ​ ) , ( 0 , 0 ) এবং ( 4 , 0 ) (4,0) ( 4 , 0 ) বিন্দুগুলো দ্বারা গঠিত চতুর্ভুজক্ষেত্রের ক্ষেত্রফল = 1 2 ∣ 4 0 6 38 7 0 0 0 ∣ =\\frac{1}{2}\\left|\\begin{array}{ccccc}4 & 0 & & & \\\\ 6 & \\frac{38}{7} & 0 & 0 & 0\\end{array}\\right| = 2 1 ​ ​ 4 6 ​ 0 7 38 ​ ​ 0 ​ 0 ​ 0 ​ ​ বর্গ একক = 1 2 { ( 152 7 + 0 + 0 + 24 ) − ( 0 + 0 + 0 + 0 ) } =\\frac{1}{2}\\left\\{\\left(\\frac{152}{7}+0+0+24\\right)-(0+0+0+0)\\right\\} = 2 1 ​ { ( 7 152 ​ + 0 + 0 + 24 ) − ( 0 + 0 + 0 + 0 ) } বর্গ একক = 1 2 × 152 + 168 7 =\\frac{1}{2} \\times \\frac{152+168}{7} = 2 1 ​ × 7 152 + 168 ​ বর্গ একক = 320 2 × 7 =\\frac{320}{2 \\times 7} = 2 × 7 320 ​ বর্গ একক = 160 7 =\\frac{160}{7} = 7 160 ​ বর্গ একক ∴ A B C D \\therefore \\mathrm{ABCD} ∴ ABCD চতুর্ভুজের যে অংশ ১ম চতুর্ভাগে অবস্থিত তার ক্ষেত্রফল 160 7 \\frac{160}{7} 7 160 ​ বর্গ একক।"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "△ A B C \\triangle \\mathrm{ABC} △ ABC এর BC, CA এবং AB বাহুর মধ্যবিন্দু যথাক্রমে D, E ও F I",
+      "tag": "MB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "5 সে.মি. ব্যাসার্ধবিশিষ্ট একটি গোলকের আয়তন নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "যদি ∠ B = 90 ∘ , A B = 6 \\angle \\mathrm{B}=90^{\\circ}, \\mathrm{AB}=6 ∠ B = 9 0 ∘ , AB = 6 সে.মি. এবং A C = 10 ∘ \\mathrm{AC}=10^{\\circ} AC = 1 0 ∘ সে.মি. হয়, তবে ত্রিভুজটিকে BC বাহুর চতুর্দিকে ঘুরালে যে ঘনবস্তু উৎপন্ন করবে তার সমগ্রতলের ক্ষেত্রফল এবং আয়তন নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "ভেক্টরের সাহায্যে প্রমাণ কর যে, A D → + B E → + C F → = 0 ‾ \\overrightarrow{\\mathrm{AD}}+\\overrightarrow{\\mathrm{BE}}+\\overrightarrow{\\mathrm{CF}}=\\underline{0} AD + BE + CF = 0 ​ .",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "A = cos ⁡ θ − sin ⁡ θ + 1 cos ⁡ θ + sin ⁡ θ − 1  এবং  B = cot ⁡ θ + cosec ⁡ θ A=\\frac{\\cos \\theta-\\sin \\theta+1}{\\cos \\theta+\\sin \\theta-1} \\text { এবং } B=\\cot \\theta+\\operatorname{cosec} \\theta A = c o s θ + s i n θ − 1 c o s θ − s i n θ + 1 ​   এবং   B = cot θ + cosec θ",
+      "tag": "MB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "4 : 35 টার ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ রেডিয়ানে প্রকাশ কর।",
+          "explanation": "আমরা জানি, ঘড়িতে সর্বমোট 12 টি ঘণ্টার দাগ কাঁটা থাকে। ∴ \\therefore \\quad ∴ ঘণ্টার কাঁটার ক্ষেত্রে 12 ঘণ্টায় কেন্দ্রে উৎপন্ন কোণ = 360 ∘ =360^{\\circ} = 36 0 ∘ ∴ \\therefore \\quad ∴ ঘণ্টার কাঁটার ক্ষেত্রে 1 ঘণ্টায় কেন্দ্রে উৎপন্ন কোণ = 360 ∘ 12 = 30 ∘ =\\frac{360^{\\circ}}{12}=30^{\\circ} = 12 36 0 ∘ ​ = 3 0 ∘ ∴ \\therefore \\quad ∴ ঘণ্টার কাঁটার ক্ষেত্রে 1 মিনিটে কেন্দ্রে উৎপন্ন কোণ = 30 ∘ 60 =\\frac{30^{\\circ}}{60} = 60 3 0 ∘ ​ [ ∵ 1  ঘণ্টা  = 60  মিনিট  ] = 0.5 ∘ \\begin{aligned} {[\\because 1 \\text { ঘণ্টা }} & =60 \\text { মিনিট }] \\\\ & =0.5^{\\circ} \\end{aligned} [ ∵ 1   ঘণ্টা   ​ = 60   মিনিট   ] = 0. 5 ∘ ​ ∴ \\therefore \\quad ∴ ঘণ্টার কাঁটার ক্ষেত্রে 35 মিনিটে কেন্দ্রে উৎপন্ন কোণ = 35 × 0.5 ∘ = 17.5 ∘ =35 \\times 0.5^{\\circ}=17.5^{\\circ} = 35 × 0. 5 ∘ = 17. 5 ∘ ∴ \\therefore \\quad ∴ 4:35 টায় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ = 3 × 30 ∘ − 17.5 ∘ = 90 ∘ − 17.5 ∘ = 72.5 ∘ = 72.5 × π 180  রেডিয়ান  = 1.265  রেডিয়ান (প্রায়)  \\begin{array}{l} =3 \\times 30^{\\circ}-17.5^{\\circ} \\\\ =90^{\\circ}-17.5^{\\circ} \\\\ =72.5^{\\circ}=72.5 \\times \\frac{\\pi}{180} \\text { রেডিয়ান } \\\\ =1.265 \\text { রেডিয়ান (প্রায়) } \\end{array} = 3 × 3 0 ∘ − 17. 5 ∘ = 9 0 ∘ − 17. 5 ∘ = 72. 5 ∘ = 72.5 × 180 π ​   রেডিয়ান   = 1.265   রেডিয়ান  ( প্রায় )  ​ নির্ণেয় ঘণ্টায় কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ 1.265 রেডিয়ান (প্রায়)।"
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, A = B \\mathrm{A}=\\mathrm{B} A = B .",
+          "explanation": "দেওয়া আছে, A = cos ⁡ θ − sin ⁡ θ + 1 cos ⁡ θ + sin ⁡ θ − 1 \\mathrm{A}=\\frac{\\cos \\theta-\\sin \\theta+1}{\\cos \\theta+\\sin \\theta-1} A = c o s θ + s i n θ − 1 c o s θ − s i n θ + 1 ​ এবং B = cot ⁡ θ + cosec ⁡ θ \\mathrm{B}=\\cot \\theta+\\operatorname{cosec} \\theta B = cot θ + cosec θ বামপক্ষ =A = cos ⁡ θ − sin ⁡ θ + 1 cos ⁡ θ + sin ⁡ θ − 1 = sin ⁡ θ ( cos ⁡ θ sin ⁡ θ − 1 + 1 sin ⁡ θ ) sin ⁡ θ ( cos ⁡ θ sin ⁡ θ + 1 − 1 sin ⁡ θ ) = cot ⁡ θ − 1 + cosec ⁡ θ cot ⁡ θ + 1 − cosec ⁡ θ [ ∵ cos ⁡ θ sin ⁡ θ = cot ⁡ θ  এবং  1 sin ⁡ θ = cosec ⁡ θ ] = cot ⁡ θ + cosec ⁡ θ − 1 cot ⁡ θ + 1 − cosec ⁡ θ = cot ⁡ θ + cosec ⁡ θ − ( cosec ⁡ 2 θ − cot ⁡ 2 θ ) cot ⁡ θ + 1 − cosec ⁡ θ [ ∵ cosec ⁡ 2 θ − cot ⁡ 2 θ = 1 ] = cot ⁡ θ + cosec ⁡ θ − ( cosec ⁡ θ + cot ⁡ θ ) ( cosec ⁡ θ − cot ⁡ θ ) cot ⁡ θ + 1 − cosec ⁡ θ = ( cot ⁡ θ + cosec ⁡ θ ) ( 1 − cosec ⁡ θ + cot ⁡ θ ) 1 − cosec ⁡ θ + cot ⁡ θ = cot ⁡ θ + cosec ⁡ θ = B =  ডানপক্ষ  \\begin{array}{l} =\\frac{\\cos \\theta-\\sin \\theta+1}{\\cos \\theta+\\sin \\theta-1}=\\frac{\\sin \\theta\\left(\\frac{\\cos \\theta}{\\sin \\theta}-1+\\frac{1}{\\sin \\theta}\\right)}{\\sin \\theta\\left(\\frac{\\cos \\theta}{\\sin \\theta}+1-\\frac{1}{\\sin \\theta}\\right)} \\\\ =\\frac{\\cot \\theta-1+\\operatorname{cosec} \\theta}{\\cot \\theta+1-\\operatorname{cosec} \\theta}\\left[\\because \\frac{\\cos \\theta}{\\sin \\theta}=\\cot \\theta \\text { এবং } \\frac{1}{\\sin \\theta}=\\operatorname{cosec} \\theta\\right] \\\\ =\\frac{\\cot \\theta+\\operatorname{cosec} \\theta-1}{\\cot \\theta+1-\\operatorname{cosec} \\theta} \\\\ =\\frac{\\cot \\theta+\\operatorname{cosec} \\theta-\\left(\\operatorname{cosec}^{2} \\theta-\\cot ^{2} \\theta\\right)}{\\cot \\theta+1-\\operatorname{cosec} \\theta}\\left[\\because \\operatorname{cosec}^{2} \\theta-\\cot ^{2} \\theta=1\\right] \\\\ =\\frac{\\cot \\theta+\\operatorname{cosec} \\theta-(\\operatorname{cosec} \\theta+\\cot \\theta)(\\operatorname{cosec} \\theta-\\cot \\theta)}{\\cot \\theta+1-\\operatorname{cosec} \\theta} \\\\ =\\frac{(\\cot \\theta+\\operatorname{cosec} \\theta)(1-\\operatorname{cosec} \\theta+\\cot \\theta)}{1-\\operatorname{cosec} \\theta+\\cot \\theta} \\\\ =\\cot \\theta+\\operatorname{cosec} \\theta=\\mathrm{B}=\\text { ডানপক্ষ } \\end{array} = c o s θ + s i n θ − 1 c o s θ − s i n θ + 1 ​ = s i n θ ( s i n θ c o s θ ​ + 1 − s i n θ 1 ​ ) s i n θ ( s i n θ c o s θ ​ − 1 + s i n θ 1 ​ ) ​ = c o t θ + 1 − cosec θ c o t θ − 1 + cosec θ ​ [ ∵ s i n θ c o s θ ​ = cot θ   এবং   s i n θ 1 ​ = cosec θ ] = c o t θ + 1 − cosec θ c o t θ + cosec θ − 1 ​ = c o t θ + 1 − cosec θ c o t θ + cosec θ − ( cosec 2 θ − c o t 2 θ ) ​ [ ∵ cosec 2 θ − cot 2 θ = 1 ] = c o t θ + 1 − cosec θ c o t θ + cosec θ − ( cosec θ + c o t θ ) ( cosec θ − c o t θ ) ​ = 1 − cosec θ + c o t θ ( c o t θ + cosec θ ) ( 1 − cosec θ + c o t θ ) ​ = cot θ + cosec θ = B =   ডানপক্ষ   ​ ∴ A = B \\therefore \\quad \\mathrm{A}=\\mathrm{B} ∴ A = B . (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "B = 1 3 \\mathrm{B}=\\frac{1}{\\sqrt{3}} B = 3 ​ 1 ​ হলে θ \\theta θ এর সম্ভাব্য মান নির্ণয় কর, যেখানে 0 < θ < 2 π 0<\\theta<2 \\pi 0 < θ < 2 π .",
+          "explanation": "দেওয়া আছে, B = cot ⁡ θ + cosec ⁡ θ \\mathrm{B}=\\cot \\theta+\\operatorname{cosec} \\theta B = cot θ + cosec θ এখন, B = 1 3 \\mathrm{B}=\\frac{1}{\\sqrt{3}} B = 3 ​ 1 ​ হলে, cot ⁡ θ + cosec ⁡ θ = 1 3 \\cot \\theta+\\operatorname{cosec} \\theta=\\frac{1}{\\sqrt{3}} cot θ + cosec θ = 3 ​ 1 ​ বা, cos ⁡ θ sin ⁡ θ + 1 sin ⁡ θ = 1 3 [ ∵ cot ⁡ θ = cos ⁡ θ sin ⁡ θ \\frac{\\cos \\theta}{\\sin \\theta}+\\frac{1}{\\sin \\theta}=\\frac{1}{\\sqrt{3}}\\left[\\because \\cot \\theta=\\frac{\\cos \\theta}{\\sin \\theta}\\right. s i n θ c o s θ ​ + s i n θ 1 ​ = 3 ​ 1 ​ [ ∵ cot θ = s i n θ c o s θ ​ এবং cosec ⁡ θ = 1 sin ⁡ θ ] \\left.\\operatorname{cosec} \\theta=\\frac{1}{\\sin \\theta}\\right] cosec θ = s i n θ 1 ​ ] বা, cos ⁡ θ + 1 sin ⁡ θ = 1 3 \\frac{\\cos \\theta+1}{\\sin \\theta}=\\frac{1}{\\sqrt{3}} s i n θ c o s θ + 1 ​ = 3 ​ 1 ​ বা, 3 ( cos ⁡ θ + 1 ) = sin ⁡ θ \\sqrt{3}(\\cos \\theta+1)=\\sin \\theta 3 ​ ( cos θ + 1 ) = sin θ বা, { 3 ( cos ⁡ θ + 1 ) } 2 = sin ⁡ 2 θ \\{\\sqrt{3}(\\cos \\theta+1)\\}^{2}=\\sin ^{2} \\theta { 3 ​ ( cos θ + 1 ) } 2 = sin 2 θ [বর্গ করে] বা, 3 ( cos ⁡ 2 θ + 2 cos ⁡ θ + 1 ) = sin ⁡ 2 θ 3\\left(\\cos ^{2} \\theta+2 \\cos \\theta+1\\right)=\\sin ^{2} \\theta 3 ( cos 2 θ + 2 cos θ + 1 ) = sin 2 θ বা, 3 cos ⁡ 2 θ + 6 cos ⁡ θ + 3 = 1 − cos ⁡ 2 θ [ ∵ sin ⁡ 2 θ = 1 − cos ⁡ 2 θ ] 3 \\cos ^{2} \\theta+6 \\cos \\theta+3=1-\\cos ^{2} \\theta\\left[\\because \\sin ^{2} \\theta=1-\\cos ^{2} \\theta\\right] 3 cos 2 θ + 6 cos θ + 3 = 1 − cos 2 θ [ ∵ sin 2 θ = 1 − cos 2 θ ] বা, 3 cos ⁡ 2 θ + 6 cos ⁡ θ + 3 − 1 + cos ⁡ 2 θ = 0 3 \\cos ^{2} \\theta+6 \\cos \\theta+3-1+\\cos ^{2} \\theta=0 3 cos 2 θ + 6 cos θ + 3 − 1 + cos 2 θ = 0 বা, 4 cos ⁡ 2 θ + 6 cos ⁡ θ + 2 = 0 4 \\cos ^{2} \\theta+6 \\cos \\theta+2=0 4 cos 2 θ + 6 cos θ + 2 = 0 বা, 2 ( 2 cos ⁡ 2 θ + 3 cos ⁡ θ + 1 ) = 0 2\\left(2 \\cos ^{2} \\theta+3 \\cos \\theta+1\\right)=0 2 ( 2 cos 2 θ + 3 cos θ + 1 ) = 0 বা, 2 cos ⁡ 2 θ + 3 cos ⁡ θ + 1 = 0 2 \\cos ^{2} \\theta+3 \\cos \\theta+1=0 2 cos 2 θ + 3 cos θ + 1 = 0 বা, 2 cos ⁡ 2 θ + 2 cos ⁡ θ + cos ⁡ θ + 1 = 0 2 \\cos ^{2} \\theta+2 \\cos \\theta+\\cos \\theta+1=0 2 cos 2 θ + 2 cos θ + cos θ + 1 = 0 বা, 2 cos ⁡ θ ( cos ⁡ θ + 1 ) + 1 ( cos ⁡ θ + 1 ) = 0 2 \\cos \\theta(\\cos \\theta+1)+1(\\cos \\theta+1)=0 2 cos θ ( cos θ + 1 ) + 1 ( cos θ + 1 ) = 0 বা, ( cos ⁡ θ + 1 ) ( 2 cos ⁡ θ + 1 ) = 0 (\\cos \\theta+1)(2 \\cos \\theta+1)=0 ( cos θ + 1 ) ( 2 cos θ + 1 ) = 0 হয়, cos ⁡ θ + 1 = 0 \\cos \\theta+1=0 cos θ + 1 = 0 বা, cos ⁡ θ = − 1 \\cos \\theta=-1 cos θ = − 1 বা, cos ⁡ θ = cos ⁡ π \\cos \\theta=\\cos \\pi cos θ = cos π ∴ θ = π \\therefore \\theta=\\pi ∴ θ = π অথবা, 2 cos ⁡ θ + 1 = 0 2 \\cos \\theta+1=0 2 cos θ + 1 = 0 বা, 2 cos ⁡ θ = − 1 2 \\cos \\theta=-1 2 cos θ = − 1 বা, cos ⁡ θ = − 1 2 = − cos ⁡ π 3 \\cos \\theta=-\\frac{1}{2}=-\\cos \\frac{\\pi}{3} cos θ = − 2 1 ​ = − cos 3 π ​ বা, cos ⁡ θ = cos ⁡ ( π − π 3 ) , cos ⁡ ( π + π 3 ) \\cos \\theta=\\cos \\left(\\pi-\\frac{\\pi}{3}\\right), \\cos \\left(\\pi+\\frac{\\pi}{3}\\right) cos θ = cos ( π − 3 π ​ ) , cos ( π + 3 π ​ ) বা, cos ⁡ θ = cos ⁡ 2 π 3 , cos ⁡ 4 π 3 ∴ θ = 2 π 3 , 4 π 3 \\cos \\theta=\\cos \\frac{2 \\pi}{3}, \\cos \\frac{4 \\pi}{3} \\therefore \\theta=\\frac{2 \\pi}{3}, \\frac{4 \\pi}{3} cos θ = cos 3 2 π ​ , cos 3 4 π ​ ∴ θ = 3 2 π ​ , 3 4 π ​ কিন্তু θ = π , 4 π 3 \\theta=\\pi, \\frac{4 \\pi}{3} θ = π , 3 4 π ​ এর জন্য সমীকরণটি সিদ্ধ হয় না। নির্ণেয় মান : θ = 2 π 3 \\theta=\\frac{2 \\pi}{3} θ = 3 2 π ​ ."
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "(i) একটি নিরপেক্ষ ছক্কা দুইবার নিক্ষেপ করা হলো। (ii) একটি নিরপেক্ষ মুদ্রা তিনবার নিক্ষেপ করা হলো।",
+      "tag": "MB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "MATHEMATICES শব্দটির সবগুলো বর্ণ একটি বাক্সে রেখে সেখান থেকে দৈবভাবে একটি বর্ণ তোলা হলে, বর্ণটি স্বরবর্ণ (vowel)হওয়ার সম্ভাবনা কত?",
+          "explanation": "'MATHEMATICS' শব্দটিতে মোট বর্ণের সংখ্যা=11টি MATHEMATICS শব্দটিতে মোট স্বরবর্ণ (Vowel) = 4টি ∴ \\therefore ∴ দৈবভাবে তোলা বর্ণটি স্বরবর্ণ হওয়ার সম্ভাবনা = 4 11 =\\frac{4}{11} = 11 4 ​ নির্ণেয় সম্ভাবনা 4 11 \\frac{4}{11} 11 4 ​ ."
+        },
+        {
+          "label": "খ",
+          "question": "(i) থেকে দুইটি সংখ্যার যোগফল 9 অথবা 9 এর চেয়ে বড় হওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "একটি নিরপেক্ষ ছক্কা দুইবার নিক্ষেপ করা হলে নমুনাক্ষেত্রটি হবে নিম্নরূপ: ∴ \\therefore ∴ মোট নমুনাবিন্দুর সংখ্যা = 36 টি। দুটি সংখ্যার যোগফল 9 অথবা 9 এর চেয়ে বড় এমন অনুকূল ফলাফল সংখ্যা = 10 =10 = 10 টি । যথা : ( 3 , 6 ) , ( 4 , 5 ) , ( 4 , 6 ) , ( 5 , 4 ) , ( 5 , 5 ) (3,6),(4,5),(4,6),(5,4),(5,5) ( 3 , 6 ) , ( 4 , 5 ) , ( 4 , 6 ) , ( 5 , 4 ) , ( 5 , 5 ) , ( 5 , 6 ) , ( 6 , 3 ) , ( 6 , 4 ) , ( 6 , 5 ) , ( 6 , 6 ) (5,6),(6,3),(6,4),(6,5),(6,6) ( 5 , 6 ) , ( 6 , 3 ) , ( 6 , 4 ) , ( 6 , 5 ) , ( 6 , 6 ) ∴ \\therefore \\quad ∴ দুটি সংখ্যার যোগফল 9 অথবা 9 এর চেয়ে বড় হওয়ার সম্ভাবনা = 10 36 = 5 18 =\\frac{10}{36}=\\frac{5}{18} = 36 10 ​ = 18 5 ​ নির্ণেয় সম্ভাবনা 5 18 \\frac{5}{18} 18 5 ​ ."
+        },
+        {
+          "label": "গ",
+          "question": "(ii) থেকে কমপক্ষে 2H পাওয়ার সম্ভাবনা এবং সর্বোচ্চ 2T পাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "শর্তানুসারে Probability tree অঙ্কন করা হলো: মুদ্রা নিক্ষেপ পরীক্ষাকে তিন ধাপ হিসেবে বিবেচনা করি। মুদ্রা নিক্ষেপের প্রতি ধাপে দুইটি ফলাফল (H, T} আসতে পারে। অতএব, নমুনাক্ষেত্রটি হলো:  S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT } ∴  মোট নমুনা বিন্দুর সংখ্যা = 8টি।   কমপক্ষে 2H পাওয়া এমন অনুকূল ফলাফল সংখ্যা = 4টি।   যথা : HHH, HHT, HTH, THH  ∴  কমপক্ষে 2H পাওয়ার সম্ডাবনা =  4 8 = 1 2  আবার, সর্বোচ্চ 2T পাওয়া এমন অনুকূল ফলাফল সংখ্যা = 7টি।   যথা : HHH, HHT, HTH, HTT, THH, THT, TTH  ∴  সর্বোচ্চ 2T পাওয়ার সম্ভাবনা =  7 8  নির্ণেয় সম্ভাবনা  1 2  এবং  7 8 . \\begin{array}{l}\\quad \\text { S = \\{HHH, HHT, HTH, HTT, THH, THT, TTH, TTT \\}} \\\\ \\therefore \\quad \\text { মোট নমুনা বিন্দুর সংখ্যা = 8টি। } \\\\ \\text { কমপক্ষে 2H পাওয়া এমন অনুকূল ফলাফল সংখ্যা = 4টি। } \\\\ \\text { যথা : HHH, HHT, HTH, THH } \\\\ \\therefore \\quad \\text { কমপক্ষে 2H পাওয়ার সম্ডাবনা = } \\frac{4}{8}=\\frac{1}{2} \\\\ \\text { আবার, সর্বোচ্চ 2T পাওয়া এমন অনুকূল ফলাফল সংখ্যা = 7টি। } \\\\ \\text { যথা : HHH, HHT, HTH, HTT, THH, THT, TTH } \\\\ \\therefore \\quad \\text { সর্বোচ্চ 2T পাওয়ার সম্ভাবনা = } \\frac{7}{8} \\\\ \\text { নির্ণেয় সম্ভাবনা } \\frac{1}{2} \\text { এবং } \\frac{7}{8} .\\end{array}  S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT } ∴   মোট   নমুনা   বিন্দুর   সংখ্যা  = 8 টি।     কমপক্ষে  2H  পাওয়া   এমন   অনুকূল   ফলাফল   সংখ্যা  = 4 টি।     যথা  : HHH, HHT, HTH, THH  ∴   কমপক্ষে  2H  পাওয়ার   সম্ডাবনা  =  8 4 ​ = 2 1 ​   আবার ,  সর্বোচ্চ  2T  পাওয়া   এমন   অনুকূল   ফলাফল   সংখ্যা  = 7 টি।     যথা  : HHH, HHT, HTH, HTT, THH, THT, TTH  ∴   সর্বোচ্চ  2T  পাওয়ার   সম্ভাবনা  =  8 7 ​   নির্ণেয়   সম্ভাবনা   2 1 ​   এবং   8 7 ​ . ​"
+        }
+      ]
+    }
+  ]
+}

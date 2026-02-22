@@ -1,0 +1,182 @@
+{
+  "title": "সিলেট বোর্ড ২০২৫",
+  "subtitle": "(8)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "p ( x ) = x 3 − 3 x 2 − 10 \\mathrm{p}(\\mathrm{x})=\\mathrm{x}^{3}-3 \\mathrm{x}^{2}-10 p ( x ) = x 3 − 3 x 2 − 10 এবং f : R − { 2 } → R − { 1 } f: \\mathbb{R}-\\{2\\} \\rightarrow \\mathrm{R}-\\{1\\} f : R − { 2 } → R − { 1 } একটি ফাংশন যা f ( x ) = x + 3 x − 2 f(x)=\\frac{x+3}{x-2} f ( x ) = x − 2 x + 3 ​ দ্বারা সংজ্ঞায়িত।",
+      "tag": "SB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "6 x 2 y − 12 x 4 y 4 − 3 6 x^{2} y-12 x^{4} y^{4}-3 6 x 2 y − 12 x 4 y 4 − 3 বহুপদীটিতে x x x চলকের মাত্রা ও ধ্রুবপদ নির্ণয় কর।",
+          "explanation": "প্রদত্ত রাশি = 6 x 2 y − 12 x 4 y 4 − 3 = − 12 x 4 y 4 + 6 x 2 y − 3 =6 x^{2} y-12 x^{4} y^{4}-3=-12 x^{4} y^{4}+6 x^{2} y-3 = 6 x 2 y − 12 x 4 y 4 − 3 = − 12 x 4 y 4 + 6 x 2 y − 3 যা x চলকের একটি বহুপদীর আদর্শ রূপ। এখানে, বহুপদীর x x x চলকের মাত্রা = 4 =4 = 4 এবং ধ্রুবপদ = -3 নির্ণেয় মাত্রা 4 এবং ধ্রুবপদ -3 ।"
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, f f f ফাংশনটি সার্বিক ফাংশন।",
+          "explanation": "দেওয়া আছে, M ( r , s , t ) = r 3 + s 3 + t 3 \\mathrm{M}(\\mathrm{r}, \\mathrm{s}, \\mathrm{t})=\\mathrm{r}^{3}+\\mathrm{s}^{3}+\\mathrm{t}^{3} M ( r , s , t ) = r 3 + s 3 + t 3 এখন, M ( r , s , t ) = 3 r s t \\mathrm{M}(\\mathrm{r}, \\mathrm{s}, \\mathrm{t})=3 \\mathrm{rst} M ( r , s , t ) = 3 rst হলে, r 3 + s 3 + t 3 = 3 r s t \\mathrm{r}^{3}+\\mathrm{s}^{3}+\\mathrm{t}^{3}=3 \\mathrm{rst} r 3 + s 3 + t 3 = 3 rst বা, r 3 + s 3 + t 3 − 3 r s t = 0 r^{3}+s^{3}+t^{3}-3 r s t=0 r 3 + s 3 + t 3 − 3 rs t = 0 বা, 1 2 ( r + s + t ) { ( r − s ) 2 + ( s − t ) 2 + ( t − r ) 2 } = 0 \\frac{1}{2}(\\mathrm{r}+\\mathrm{s}+\\mathrm{t})\\left\\{(\\mathrm{r}-\\mathrm{s})^{2}+(\\mathrm{s}-\\mathrm{t})^{2}+(\\mathrm{t}-\\mathrm{r})^{2}\\right\\}=0 2 1 ​ ( r + s + t ) { ( r − s ) 2 + ( s − t ) 2 + ( t − r ) 2 } = 0 বা, ( r + s + t ) { ( r − s ) 2 + ( s − t ) 2 + ( t − r ) 2 } = 0 (\\mathrm{r}+\\mathrm{s}+\\mathrm{t})\\left\\{(\\mathrm{r}-\\mathrm{s})^{2}+(\\mathrm{s}-\\mathrm{t})^{2}+(\\mathrm{t}-\\mathrm{r})^{2}\\right\\}=0 ( r + s + t ) { ( r − s ) 2 + ( s − t ) 2 + ( t − r ) 2 } = 0 হয়, r + s + t = 0 \\mathrm{r}+\\mathrm{s}+\\mathrm{t}=0 r + s + t = 0 অথবা, ( r − s ) 2 + ( s − t ) 2 + ( t − r ) 2 = 0 (\\mathrm{r}-\\mathrm{s})^{2}+(\\mathrm{s}-\\mathrm{t})^{2}+(\\mathrm{t}-\\mathrm{r})^{2}=0 ( r − s ) 2 + ( s − t ) 2 + ( t − r ) 2 = 0 কিন্তু কতগুলো বর্গরাশির সমষ্টি শূন্য হলে তার প্রত্যেকটির মান শূন্য হয়। অর্থাৎ, ( r − s ) 2 = 0 (\\mathrm{r}-\\mathrm{s})^{2}=0 ( r − s ) 2 = 0 বা, r − s = 0 \\mathrm{r}-\\mathrm{s}=0 r − s = 0 ∴ r = s \\therefore \\quad \\mathrm{r}=\\mathrm{s} ∴ r = s অর্থাৎ, r = s = t r=s=t r = s = t অথবা, ( s − t ) 2 = 0 (s-t)^{2}=0 ( s − t ) 2 = 0 বা, s − t = 0 s-t=0 s − t = 0 ∴ s = t \\therefore \\quad \\mathrm{s}=\\mathrm{t} ∴ s = t সুতরাং r + s + t = 0 অথবা, r = s = t. (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "p ( x ) x 2 − 3 x − 40 \\frac{p(x)}{x^{2}-3 x-40} x 2 − 3 x − 40 p ( x ) ​ কে আংশিক ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "দেওয়া আছে, p ( x ) = x 3 − 3 x 2 − 10 \\mathrm{p}(\\mathrm{x})=\\mathrm{x}^{3}-3 \\mathrm{x}^{2}-10 p ( x ) = x 3 − 3 x 2 − 10 প্রদত্ত রাশি = p ( x ) x 2 − 3 x − 40 = x 3 − 3 x 2 − 10 x 2 − 3 x − 40 =\\frac{p(x)}{x^{2}-3 x-40}=\\frac{x^{3}-3 x^{2}-10}{x^{2}-3 x-40} = x 2 − 3 x − 40 p ( x ) ​ = x 2 − 3 x − 40 x 3 − 3 x 2 − 10 ​ = x ( x 2 − 3 x − 40 ) + 40 x − 10 x 2 − 3 x − 40 = x ( x 2 − 3 x − 40 ) x 2 − 3 x − 40 + 40 x − 10 x 2 − 3 x − 40 = x + 40 x − 10 x 2 − 3 x − 40 = x + 40 x − 10 x 2 − 8 x + 5 x − 40 = x + 40 x − 10 x ( x − 8 ) + 5 ( x − 8 ) = x + 40 x − 10 ( x − 8 ) ( x + 5 ) \\begin{array}{l} =\\frac{x\\left(x^{2}-3 x-40\\right)+40 x-10}{x^{2}-3 x-40} \\\\ =\\frac{x\\left(x^{2}-3 x-40\\right)}{x^{2}-3 x-40}+\\frac{40 x-10}{x^{2}-3 x-40} \\\\ =x+\\frac{40 x-10}{x^{2}-3 x-40}=x+\\frac{40 x-10}{x^{2}-8 x+5 x-40} \\\\ =x+\\frac{40 x-10}{x(x-8)+5(x-8)}=x+\\frac{40 x-10}{(x-8)(x+5)} \\end{array} = x 2 − 3 x − 40 x ( x 2 − 3 x − 40 ) + 40 x − 10 ​ = x 2 − 3 x − 40 x ( x 2 − 3 x − 40 ) ​ + x 2 − 3 x − 40 40 x − 10 ​ = x + x 2 − 3 x − 40 40 x − 10 ​ = x + x 2 − 8 x + 5 x − 40 40 x − 10 ​ = x + x ( x − 8 ) + 5 ( x − 8 ) 40 x − 10 ​ = x + ( x − 8 ) ( x + 5 ) 40 x − 10 ​ ​ মনে করি, 40 x − 10 ( x − 8 ) ( x + 5 ) ≡ A x − 8 + B x + 5 … ( 1 ) \\frac{40 x-10}{(x-8)(x+5)} \\equiv \\frac{A}{x-8}+\\frac{B}{x+5}…(1) ( x − 8 ) ( x + 5 ) 40 x − 10 ​ ≡ x − 8 A ​ + x + 5 B ​ … ( 1 ) (1) নং সমীকরণকে ( x − 8 ) ( x + 5 ) (x-8)(x+5) ( x − 8 ) ( x + 5 ) দ্বারা গুণ করে পাই, 40 x − 10 ≡ A ( x + 5 ) + B ( x − 8 ) … ( 2 ) 40 x-10 \\equiv A(x+5)+B(x-8) …(2) 40 x − 10 ≡ A ( x + 5 ) + B ( x − 8 ) … ( 2 ) (2) নং সমীকরণে x = − 5 , 8 x=-5,8 x = − 5 , 8 বসিয়ে পাই, 40 × ( − 5 ) − 10 = A ( − 5 + 5 ) + B ( − 5 − 8 ) 40 \\times(-5)-10=A(-5+5)+B(-5-8) 40 × ( − 5 ) − 10 = A ( − 5 + 5 ) + B ( − 5 − 8 ) বা, − 200 − 10 = A × 0 + B × ( − 13 ) -200-10=\\mathrm{A} \\times 0+\\mathrm{B} \\times(-13) − 200 − 10 = A × 0 + B × ( − 13 ) বা, − 210 = − 13   B -210=-13 \\mathrm{~B} − 210 = − 13   B বা, B = − 210 − 13 B=\\frac{-210}{-13} B = − 13 − 210 ​ ∴ B = 210 13 \\therefore \\quad B=\\frac{210}{13} ∴ B = 13 210 ​ আবার, 40 × 8 − 10 = A ( 8 + 5 ) + B ( 8 − 8 ) 40 \\times 8-10=\\mathrm{A}(8+5)+\\mathrm{B}(8-8) 40 × 8 − 10 = A ( 8 + 5 ) + B ( 8 − 8 ) বা, 320 − 10 = A × 13 + B × 0 \\quad 320-10=\\mathrm{A} \\times 13+\\mathrm{B} \\times 0 320 − 10 = A × 13 + B × 0 বা, 310 = 13   A 310=13 \\mathrm{~A} 310 = 13   A বা, 310 13 = A \\frac{310}{13}=A 13 310 ​ = A ∴ A = 310 13 \\therefore \\quad A=\\frac{310}{13} ∴ A = 13 310 ​ (1) নং সমীকরণে A ও B এর মান বসিয়ে পাই, 40 x − 10 ( x − 8 ) ( x + 5 ) ≡ 310 13 ( x − 8 ) + 210 13 x + 5 ≡ 310 13 ( x − 8 ) + 210 13 ( x + 5 ) \\quad \\frac{40 x-10}{(x-8)(x+5)} \\equiv \\frac{\\frac{310}{13}}{(x-8)}+\\frac{\\frac{210}{13}}{x+5} \\equiv \\frac{310}{13(x-8)}+\\frac{210}{13(x+5)} ( x − 8 ) ( x + 5 ) 40 x − 10 ​ ≡ ( x − 8 ) 13 310 ​ ​ + x + 5 13 210 ​ ​ ≡ 13 ( x − 8 ) 310 ​ + 13 ( x + 5 ) 210 ​ ∴ p ( x ) x 2 − 3 x − 10 = x + 310 13 ( x − 8 ) + 210 13 ( x + 5 ) \\therefore \\frac{\\mathrm{p}(x)}{x^{2}-3 x-10}=x+\\frac{310}{13(x-8)}+\\frac{210}{13(x+5)} ∴ x 2 − 3 x − 10 p ( x ) ​ = x + 13 ( x − 8 ) 310 ​ + 13 ( x + 5 ) 210 ​ , যা নির্ণেয় আংশিক ভগ্নাংশ।"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "1 8 x + 1 + 1 ( 8 x + 1 ) 2 + 1 ( 8 x + 1 ) 3 + … … … . \\frac{1}{8 \\mathrm{x}+1}+\\frac{1}{(8 \\mathrm{x}+1)^{2}}+\\frac{1}{(8 \\mathrm{x}+1)^{3}}+\\ldots \\ldots \\ldots . 8 x + 1 1 ​ + ( 8 x + 1 ) 2 1 ​ + ( 8 x + 1 ) 3 1 ​ + ……… . . একটি অনন্ত গুণোত্তর ধারা এবং R = ( 2 + y ) 1 3 + ( 2 − y ) 1 3 R=(2+y)^{\\frac{1}{3}}+(2-y)^{\\frac{1}{3}} R = ( 2 + y ) 3 1 ​ + ( 2 − y ) 3 1 ​ .",
+      "tag": "SB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "সমাধান কর: 2 ⋅ 8 p = 4 p + 4 2 \\cdot 8^{\\mathrm{p}}=4^{\\mathrm{p}+4} 2 ⋅ 8 p = 4 p + 4",
+          "explanation": "দেওয়া আছে, 2. 8 p = 4 p + 4 8^{\\mathrm{p}}=4^{\\mathrm{p}+4} 8 p = 4 p + 4 বা, 2 ⋅ ( 2 3 ) p = ( 2 2 ) p + 4 2 \\cdot\\left(2^{3}\\right)^{\\mathrm{p}}=\\left(2^{2}\\right)^{\\mathrm{p}+4} 2 ⋅ ( 2 3 ) p = ( 2 2 ) p + 4 বা, 2.2 3 p = 2 2 p + 8 \\quad 2.2^{3 \\mathrm{p}}=2^{2 \\mathrm{p}+8} 2. 2 3 p = 2 2 p + 8 বা, 2 3 p + 1 = 2 2 p + 8 \\quad 2^{3 p+1}=2^{2 p+8} 2 3 p + 1 = 2 2 p + 8 বা, 3 p + 1 = 2 p + 8 [ ∵ a x = a y 3 p+1=2 p+8\\left[\\because a^{x}=a^{y}\\right. 3 p + 1 = 2 p + 8 [ ∵ a x = a y হলে, x = y ] \\left.x=y\\right] x = y ] বা, 3 p − 2 p = 8 − 1 3 p-2 p=8-1 3 p − 2 p = 8 − 1 ∴ p = 7 \\therefore \\quad p=7 ∴ p = 7 নির্ণেয় সমাধান : p = 7."
+        },
+        {
+          "label": "খ",
+          "question": "x এর উপর প্রয়োজনীয় শর্তসহ ধারাটির অসীমতক সমষ্টি নির্ণয় কর।",
+          "explanation": "প্রদত্ত ধারাটির প্রথম পদ, a = 1 8 x + 1 \\mathrm{a}=\\frac{1}{8 \\mathrm{x}+1} a = 8 x + 1 1 ​ এবং সাধারণ অনুপাত r = 1 ( 8 x + 1 ) 2 ÷ 1 8 x + 1 = 1 8 x + 1 \\mathrm{r}=\\frac{1}{(8 \\mathrm{x}+1)^{2}} \\div \\frac{1}{8 \\mathrm{x}+1}=\\frac{1}{8 \\mathrm{x}+1} r = ( 8 x + 1 ) 2 1 ​ ÷ 8 x + 1 1 ​ = 8 x + 1 1 ​ ধারাটির অসীমতক সমষ্টি থাকবে যদি, ∣ r ∣ < 1 |\\mathrm{r}|<1 ∣ r ∣ < 1 হয় অর্থাৎ - 1 < r < 1 1<\\mathrm{r}<1 1 < r < 1 বা, − 1 < 1 8 x + 1 < 1 -1<\\frac{1}{8 x+1}<1 − 1 < 8 x + 1 1 ​ < 1 ∴ x < − 1 4 \\therefore \\quad x<-\\frac{1}{4} ∴ x < − 4 1 ​ ∴ \\therefore \\quad ∴ শর্ত : x > 0 \\mathrm{x}>0 x > 0 অথবা x < − 1 4 \\mathrm{x}<-\\frac{1}{4} x < − 4 1 ​ এবং অসীমতক সমষ্টি, S ∞ = a 1 − r = 1 8 x + 1 1 − 1 8 x + 1 = 1 8 x + 1 8 x + 1 − 1 8 x + 1 S_{\\infty}=\\frac{a}{1-r}=\\frac{\\frac{1}{8 x+1}}{1-\\frac{1}{8 x+1}}=\\frac{\\frac{1}{8 x+1}}{\\frac{8 x+1-1}{8 x+1}} S ∞ ​ = 1 − r a ​ = 1 − 8 x + 1 1 ​ 8 x + 1 1 ​ ​ = 8 x + 1 8 x + 1 − 1 ​ 8 x + 1 1 ​ ​ = 1 8 x + 1 × 8 x + 1 8 x = 1 8 x =\\frac{1}{8 x+1} \\times \\frac{8 x+1}{8 x}=\\frac{1}{8 x} = 8 x + 1 1 ​ × 8 x 8 x + 1 ​ = 8 x 1 ​ ∴ \\therefore \\quad ∴ অসীমতক সমষ্টি = 1 8 x =\\frac{1}{8 \\mathrm{x}} = 8 x 1 ​"
+        },
+        {
+          "label": "গ",
+          "question": "R = 2 2 3 R=2^{\\frac{2}{3}} R = 2 3 2 ​ হলে, সমীকরণটির সমাধান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, R = ( 2 + y ) 1 3 + ( 2 − y ) 1 3 R=(2+y)^{\\frac{1}{3}}+(2-y)^{\\frac{1}{3}} R = ( 2 + y ) 3 1 ​ + ( 2 − y ) 3 1 ​ এখন, R = 2 2 3 \\mathrm{R}=2^{\\frac{2}{3}} R = 2 3 2 ​ হলে, ( 2 + y ) 1 3 + ( 2 − y ) 1 3 = 2 2 3 (2+y)^{\\frac{1}{3}}+(2-y)^{\\frac{1}{3}}=2^{\\frac{2}{3}} ( 2 + y ) 3 1 ​ + ( 2 − y ) 3 1 ​ = 2 3 2 ​ বা, { ( 2 + y ) 1 3 + ( 2 − y ) 1 3 } 3 = ( 2 2 3 ) 3 \\left\\{(2+\\mathrm{y})^{\\frac{1}{3}}+(2-\\mathrm{y})^{\\frac{1}{3}}\\right\\}^{3}=\\left(2^{\\frac{2}{3}}\\right)^{3} { ( 2 + y ) 3 1 ​ + ( 2 − y ) 3 1 ​ } 3 = ( 2 3 2 ​ ) 3 [উভয়পক্ষকে ঘন করে] বা, { ( 2 + y ) 1 3 } 3 + { ( 2 − y ) 1 3 } 3 − 3 ( 2 + y ) 1 3 ( 2 − y ) 1 3 { ( 2 + y ) 1 3 + ( 2 − y ) 1 3 } = 2 2 \\left\\{(2+y)^{\\frac{1}{3}}\\right\\}^{3}+\\left\\{(2-y)^{\\frac{1}{3}}\\right\\}^{3}-3(2+y)^{\\frac{1}{3}}(2-y)^{\\frac{1}{3}}\\left\\{(2+y)^{\\frac{1}{3}}+(2-y)^{\\frac{1}{3}}\\right\\}=2^{2} { ( 2 + y ) 3 1 ​ } 3 + { ( 2 − y ) 3 1 ​ } 3 − 3 ( 2 + y ) 3 1 ​ ( 2 − y ) 3 1 ​ { ( 2 + y ) 3 1 ​ + ( 2 − y ) 3 1 ​ } = 2 2 বা, 2 + y + 2 − y − 3 { ( 2 + y ) ( 2 − y ) } 1 3 ⋅ 2 2 3 = 4 2+y+2-y-3\\{(2+y)(2-y)\\}^{\\frac{1}{3}} \\cdot 2^{\\frac{2}{3}}=4 2 + y + 2 − y − 3 {( 2 + y ) ( 2 − y ) } 3 1 ​ ⋅ 2 3 2 ​ = 4 বা, 4 − 3.2 2 3 { ( 2 2 − y 2 ) } 1 3 = 4 4-3.2^{\\frac{2}{3}}\\left\\{\\left(2^{2}-y^{2}\\right)\\right\\}^{\\frac{1}{3}}=4 4 − 3. 2 3 2 ​ { ( 2 2 − y 2 ) } 3 1 ​ = 4 বা, − 3.2 2 3 ( 4 − y 2 ) 1 3 = 4 − 4 -3.2^{\\frac{2}{3}}\\left(4-y^{2}\\right)^{\\frac{1}{3}}=4-4 − 3. 2 3 2 ​ ( 4 − y 2 ) 3 1 ​ = 4 − 4 বা, − 3.2 2 3 ( 4 − y 2 ) 1 3 = 0 -3.2^{\\frac{2}{3}}\\left(4-y^{2}\\right)^{\\frac{1}{3}}=0 − 3. 2 3 2 ​ ( 4 − y 2 ) 3 1 ​ = 0 বা, ( 4 − y 2 ) 1 3 = 0 \\left(4-y^{2}\\right)^{\\frac{1}{3}}=0 ( 4 − y 2 ) 3 1 ​ = 0 বা, 4 − y 2 = 0 4-y^{2}=0 4 − y 2 = 0 [উভয়পক্ষকে ঘন করে] বা, y 2 = 4 y^{2}=4 y 2 = 4 বা, y = ± 4 \\mathrm{y}= \\pm \\sqrt{4} y = ± 4 ​ ∴ y = ± 2 \\therefore \\quad y= \\pm 2 ∴ y = ± 2 নির্ণেয় সমাধান, y = ( 2 , − 2 ) \\mathrm{y}=(2,-2) y = ( 2 , − 2 ) ."
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "A = ( 2 − x 4 ) 7 \\mathrm{A}=\\left(2-\\frac{\\mathrm{x}}{4}\\right)^{7} A = ( 2 − 4 x ​ ) 7 এবং B = ( x 2 + 1 x 2 ) 6 \\mathrm{B}=\\left(\\frac{\\mathrm{x}}{2}+\\frac{1}{\\mathrm{x}^{2}}\\right)^{6} B = ( 2 x ​ + x 2 1 ​ ) 6 দুইটি দ্বিপদী রাশি।",
+      "tag": "SB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "মান নির্ণয় কর: log ⁡ 2 5 × log ⁡ 5 7 × log ⁡ 7 2 \\log _{\\sqrt{2}} 5 \\times \\log _{\\sqrt{5}} 7 \\times \\log _{\\sqrt{7}} 2 lo g 2 ​ ​ 5 × lo g 5 ​ ​ 7 × lo g 7 ​ ​ 2 .",
+          "explanation": "log ⁡ 2 5 × log ⁡ 5 7 × log ⁡ 7 2 = log ⁡ 2 ( 5 ) 2 × log ⁡ 5 7 × log ⁡ 7 2 = 2 log ⁡ 2 5 × log ⁡ 5 7 × log ⁡ 7 2 = 2 log ⁡ 2 7 × log ⁡ 7 2 [ ∵ log ⁡ a b × log ⁡ b c = log ⁡ a c ] = 2 log ⁡ 2 ( 7 ) 2 × log ⁡ 7 2 = 2 ⋅ 2 log ⁡ 2 7 × log ⁡ 7 2 = 4 log ⁡ 2 2 [ ∵ log ⁡ a b × log ⁡ b c = log ⁡ a c ] = 4 log ⁡ 2 2 = 4 log ⁡ 2 ( 2 ) 2 = 4.2 log ⁡ 2 2 = 8.1 = 8 [ log ⁡ a a = 1 ]  নির্ণেয় মান:  8. \\begin{array}{l} \\log _{\\sqrt{2}} 5 \\times \\log _{\\sqrt{5}} 7 \\times \\log _{\\sqrt{7}} 2 \\\\ =\\log _{\\sqrt{2}}(\\sqrt{5})^{2} \\times \\log _{\\sqrt{5}} 7 \\times \\log _{\\sqrt{7}} 2 \\\\ =2 \\log _{\\sqrt{2}} \\sqrt{5} \\times \\log _{\\sqrt{5}} 7 \\times \\log _{\\sqrt{7}} 2 \\\\ =2 \\log _{\\sqrt{2}} 7 \\times \\log _{\\sqrt{7}} 2\\left[\\because \\log _{a} b \\times \\log _{b} c=\\log _{a} c\\right] \\\\ =2 \\log _{\\sqrt{2}}(\\sqrt{7})^{2} \\times \\log _{\\sqrt{7}} 2 \\\\ =2 \\cdot 2 \\log _{\\sqrt{2}} \\sqrt{7} \\times \\log _{\\sqrt{7}} 2 \\\\ =4 \\log _{\\sqrt{2}} 2\\left[\\because \\log _{a} b \\times \\log _{b} c=\\log _{a} c\\right] \\\\ =4 \\log _{\\sqrt{2}} 2=4 \\log _{\\sqrt{2}}(\\sqrt{2})^{2}=4.2 \\log _{\\sqrt{2}} \\sqrt{2} \\\\ =8.1=8\\left[\\log _{a} a=1\\right] \\\\ \\text { নির্ণেয় মান: } 8 .\\end{array} lo g 2 ​ ​ 5 × lo g 5 ​ ​ 7 × lo g 7 ​ ​ 2 = lo g 2 ​ ​ ( 5 ​ ) 2 × lo g 5 ​ ​ 7 × lo g 7 ​ ​ 2 = 2 lo g 2 ​ ​ 5 ​ × lo g 5 ​ ​ 7 × lo g 7 ​ ​ 2 = 2 lo g 2 ​ ​ 7 × lo g 7 ​ ​ 2 [ ∵ lo g a ​ b × lo g b ​ c = lo g a ​ c ] = 2 lo g 2 ​ ​ ( 7 ​ ) 2 × lo g 7 ​ ​ 2 = 2 ⋅ 2 lo g 2 ​ ​ 7 ​ × lo g 7 ​ ​ 2 = 4 lo g 2 ​ ​ 2 [ ∵ lo g a ​ b × lo g b ​ c = lo g a ​ c ] = 4 lo g 2 ​ ​ 2 = 4 lo g 2 ​ ​ ( 2 ​ ) 2 = 4.2 lo g 2 ​ ​ 2 ​ = 8.1 = 8 [ lo g a ​ a = 1 ]   নির্ণেয়   মান :  8. ​"
+        },
+        {
+          "label": "খ",
+          "question": "A কে প্রথম তিনটি পদ পর্যন্ত বিস্তৃতি করে উক্ত বিস্তৃতির সাহায্যে (1.995) 7 { }^{7} 7 এর মান তিন দশমিক স্থান পর্যন্ত নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, A = ( 2 − x 4 ) 7 \\mathrm{A}=\\left(2-\\frac{\\mathrm{x}}{4}\\right)^{7} A = ( 2 − 4 x ​ ) 7 দ্বিপদী বিস্তৃতির সাহায্যে পাই, ( 2 − x 4 ) 7 = ( 7 0 ) 2 7 ( − x 4 ) 0 + ( 7 1 ) 2 6 ( − x 4 ) 1 + ( 7 2 ) 2 5 ( − x 4 ) 2 + … … = 128 + 7 ⋅ 64 ⋅ ( − x 4 ) + 21 ⋅ 32 ⋅ x 2 16 + … … = 128 − 112 x + 42 x 2 − … … \\begin{aligned} \\left(2-\\frac{x}{4}\\right)^{7}= & \\binom{7}{0} 2^{7}\\left(-\\frac{x}{4}\\right)^{0}+\\binom{7}{1} 2^{6}\\left(-\\frac{x}{4}\\right)^{1} \\\\ & +\\binom{7}{2} 2^{5}\\left(-\\frac{x}{4}\\right)^{2}+\\ldots \\ldots \\\\ = & 128+7 \\cdot 64 \\cdot\\left(-\\frac{x}{4}\\right)+21 \\cdot 32 \\cdot \\frac{x^{2}}{16}+\\ldots \\ldots \\\\ = & 128-112 x+42 x^{2}-\\ldots \\ldots \\end{aligned} ( 2 − 4 x ​ ) 7 = = = ​ ( 0 7 ​ ) 2 7 ( − 4 x ​ ) 0 + ( 1 7 ​ ) 2 6 ( − 4 x ​ ) 1 + ( 2 7 ​ ) 2 5 ( − 4 x ​ ) 2 + …… 128 + 7 ⋅ 64 ⋅ ( − 4 x ​ ) + 21 ⋅ 32 ⋅ 16 x 2 ​ + …… 128 − 112 x + 42 x 2 − …… ​ এখানে, 2 − x 4 = 1.995 2-\\frac{\\mathrm{x}}{4}=1.995 2 − 4 x ​ = 1.995 বা, x 4 = 2 − 1.995 \\frac{x}{4}=2-1.995 4 x ​ = 2 − 1.995 বা, x 4 = 0.005 \\frac{x}{4}=0.005 4 x ​ = 0.005 বা, x = 0.02 x=0.02 x = 0.02 ∴ x = 0.02 \\therefore \\mathrm{x}=0.02 ∴ x = 0.02 বিস্তৃতিতে বসিয়ে পাই, ( 2 − 0.02 4 ) 7 = 128 − 112 × 0.02 + 42 × ( 0.02 ) 2 + … … \\left(2-\\frac{0.02}{4}\\right)^{7}=128-112 \\times 0.02+42 \\times(0.02)^{2}+\\ldots \\ldots ( 2 − 4 0.02 ​ ) 7 = 128 − 112 × 0.02 + 42 × ( 0.02 ) 2 + …… বা, ( 1.995 ) 7 = 128 − 2.24 + 0.0168 + … … … (1.995)^{7}=128-2.24+0.0168+\\ldots \\ldots \\ldots ( 1.995 ) 7 = 128 − 2.24 + 0.0168 + ……… . = 125.777 − =125.777^{-} = 125.77 7 − (তিন দশমিক স্থান পর্যন্ত) নির্ণেয় মান: 125.777 (তিন দশমিক স্থান পর্যন্ত)।"
+        },
+        {
+          "label": "গ",
+          "question": "B এর বিস্তৃতিতে x বর্জিত পদ ও মধ্যপদ সমান হলে প্রমাণ কর যে, 3 x 3 − 8 = 0 3 x^{3}-8=0 3 x 3 − 8 = 0 .",
+          "explanation": "দেওয়া আছে, B = ( x 2 + 1 x 2 ) 6 \\mathrm{B}=\\left(\\frac{\\mathrm{x}}{2}+\\frac{1}{\\mathrm{x}^{2}}\\right)^{6} B = ( 2 x ​ + x 2 1 ​ ) 6 দ্বিপদী উপপাদ্যের সাহায্যে, B = ( x 2 + 1 x 2 ) 6 = ( x 2 ) 6 + ( 6 1 ) ( x 2 ) 6 − 1 ( 1 x 2 ) 1 + ( 6 2 ) ( x 2 ) 6 − 2 ( 1 x 2 ) 2 + ( 6 3 ) ( x 2 ) 6 − 3 ( 1 x 2 ) 3 + … … = x 6 64 + 6 ⋅ x 5 2 5 ⋅ 1 x 2 + 6 ⋅ 5 1 ⋅ 2 ⋅ x 4 2 4 ⋅ 1 x 4 + 6 ⋅ 5 ⋅ 4 1 ⋅ 2 ⋅ 3 ⋅ x 3 2 3 ⋅ 1 x 6 + … … = x 6 64 + 3 16 x 3 + 15 16 + 5 2 ⋅ 1 x 3 + … … … ∴ x  বর্জিত পদ  = 15 16 \\begin{aligned} B= & \\left(\\frac{x}{2}+\\frac{1}{x^{2}}\\right)^{6} \\\\ = & \\left(\\frac{x}{2}\\right)^{6}+\\binom{6}{1}\\left(\\frac{x}{2}\\right)^{6-1}\\left(\\frac{1}{x^{2}}\\right)^{1}+\\binom{6}{2}\\left(\\frac{x}{2}\\right)^{6-2}\\left(\\frac{1}{x^{2}}\\right)^{2} \\\\ & +\\binom{6}{3}\\left(\\frac{x}{2}\\right)^{6-3}\\left(\\frac{1}{x^{2}}\\right)^{3}+\\ldots \\ldots \\\\ = & \\frac{x^{6}}{64}+6 \\cdot \\frac{x^{5}}{2^{5}} \\cdot \\frac{1}{x^{2}}+\\frac{6 \\cdot 5}{1 \\cdot 2} \\cdot \\frac{x^{4}}{2^{4}} \\cdot \\frac{1}{x^{4}}+\\frac{6 \\cdot 5 \\cdot 4}{1 \\cdot 2 \\cdot 3} \\cdot \\frac{x^{3}}{2^{3}} \\cdot \\frac{1}{x^{6}}+\\ldots \\ldots \\\\ = & \\frac{x^{6}}{64}+\\frac{3}{16} x^{3}+\\frac{15}{16}+\\frac{5}{2} \\cdot \\frac{1}{x^{3}}+\\ldots \\ldots \\ldots \\\\ \\therefore & x \\text { বর্জিত পদ }=\\frac{15}{16} \\end{aligned} B = = = = ∴ ​ ( 2 x ​ + x 2 1 ​ ) 6 ( 2 x ​ ) 6 + ( 1 6 ​ ) ( 2 x ​ ) 6 − 1 ( x 2 1 ​ ) 1 + ( 2 6 ​ ) ( 2 x ​ ) 6 − 2 ( x 2 1 ​ ) 2 + ( 3 6 ​ ) ( 2 x ​ ) 6 − 3 ( x 2 1 ​ ) 3 + …… 64 x 6 ​ + 6 ⋅ 2 5 x 5 ​ ⋅ x 2 1 ​ + 1 ⋅ 2 6 ⋅ 5 ​ ⋅ 2 4 x 4 ​ ⋅ x 4 1 ​ + 1 ⋅ 2 ⋅ 3 6 ⋅ 5 ⋅ 4 ​ ⋅ 2 3 x 3 ​ ⋅ x 6 1 ​ + …… 64 x 6 ​ + 16 3 ​ x 3 + 16 15 ​ + 2 5 ​ ⋅ x 3 1 ​ + ……… x   বর্জিত   পদ   = 16 15 ​ ​ এখানে, n=6 যা জোড় সংখ্যা ∴ \\therefore ∴ মধ্যপদটি = ( n 2 + 1 ) =\\left(\\frac{\\mathrm{n}}{2}+1\\right) = ( 2 n ​ + 1 ) তম পদ = ( 6 2 + 1 ) = ( 3 + 1 ) = 4 =\\left(\\frac{6}{2}+1\\right)=(3+1)=4 = ( 2 6 ​ + 1 ) = ( 3 + 1 ) = 4 তম পদ R এর বিস্তৃতি হতে, 4 তম পদ = 5 2 ⋅ 1 x 3 =\\frac{5}{2} \\cdot \\frac{1}{\\mathrm{x}^{3}} = 2 5 ​ ⋅ x 3 1 ​ প্রশ্নমতে, 5 2 ⋅ 1 x 3 = 15 16 \\frac{5}{2} \\cdot \\frac{1}{x^{3}}=\\frac{15}{16} 2 5 ​ ⋅ x 3 1 ​ = 16 15 ​ বা, 1 x 3 = 15 16 × 2 5 = 3 8 \\frac{1}{\\mathrm{x}^{3}}=\\frac{15}{16} \\times \\frac{2}{5}=\\frac{3}{8} x 3 1 ​ = 16 15 ​ × 5 2 ​ = 8 3 ​ বা, 3 x 3 = 8 3 x^{3}=8 3 x 3 = 8 ∴ 3 x 3 − 8 = 0 \\therefore \\quad 3 \\mathrm{x}^{3}-8=0 ∴ 3 x 3 − 8 = 0 . (প্রমাণিত)"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "△ P Q R \\triangle \\mathrm{PQR} △ PQR এর ∠ P Q R = 90 ∘ \\angle \\mathrm{PQR}=90^{\\circ} ∠ PQR = 9 0 ∘ এবং L , M \\mathrm{L}, \\mathrm{M} L , M ও N যথাক্রমে Q R , P R \\mathrm{QR}, \\mathrm{PR} QR , PR ও PQ এর মধ্যবিন্দু।",
+      "tag": "SB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি পরিবৃত্তের ব্যাস 12 সে.মি. হলে নববিন্দু বৃত্তের ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, P L 2 + Q M 2 + R N 2 = 3 2 P R 2 \\mathrm{PL}^{2}+\\mathrm{QM}^{2}+\\mathrm{RN}^{2}=\\frac{3}{2} \\mathrm{PR}^{2} PL 2 + QM 2 + RN 2 = 2 3 ​ PR 2 .",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "Q M ⊥ P R \\mathrm{QM} \\perp \\mathrm{PR} QM ⊥ PR হলে, প্রমাণ কর যে, Q M 2 − P M ⋅ R M = 0 \\mathrm{QM}^{2}-\\mathrm{PM} \\cdot \\mathrm{RM}=0 QM 2 − PM ⋅ RM = 0",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "P(m, 5), Q(–4, 4), R(0, –4) এবং S(12, –3) বিন্দুগুলো ঘড়ির কাঁটার বিপরীত দিকে আবর্তিত।",
+      "tag": "SB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "Q ও R বিন্দুদ্বয়ের মধ্যবর্তী দূরত্ব নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, Q ( − 4 , 4 ) \\mathrm{Q}(-4,4) Q ( − 4 , 4 ) এবং R ( 0 , − 4 ) \\mathrm{R}(0,-4) R ( 0 , − 4 ) ∴ Q  ও  R  বিন্দুদ্বয়ের মধ্যবর্তী দূরত্ব  Q R = ( x 2 − x 1 ) 2 + ( y 2 − y 1 ) 2 = { 0 − ( − 4 ) } 2 + ( − 4 − 4 ) 2 = 4 2 + ( − 8 ) 2 = 16 + 64 = 80 = 5 × 16 = 4 5  একক  \\begin{aligned} \\therefore Q \\text { ও } R \\text { বিন্দুদ্বয়ের মধ্যবর্তী দূরত্ব } Q R & =\\sqrt{\\left(x_{2}-x_{1}\\right)^{2}+\\left(y_{2}-y_{1}\\right)^{2}} \\\\ & =\\sqrt{\\{0-(-4)\\}^{2}+(-4-4)^{2}} \\\\ & =\\sqrt{4^{2}+(-8)^{2}} \\\\ & =\\sqrt{16+64}=\\sqrt{80} \\\\ & =\\sqrt{5 \\times 16}=4 \\sqrt{5} \\text { একক } \\end{aligned} ∴ Q   ও   R   বিন্দুদ্বয়ের   মধ্যবর্তী   দূরত্ব   QR ​ = ( x 2 ​ − x 1 ​ ) 2 + ( y 2 ​ − y 1 ​ ) 2 ​ = { 0 − ( − 4 ) } 2 + ( − 4 − 4 ) 2 ​ = 4 2 + ( − 8 ) 2 ​ = 16 + 64 ​ = 80 ​ = 5 × 16 ​ = 4 5 ​   একক   ​ নির্ণেয় দূরত্ব 4 5 4 \\sqrt{5} 4 5 ​ একক ।"
+        },
+        {
+          "label": "খ",
+          "question": "PS ||QR হলে PR এর সমীকরণ নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, P(m, 5), Q(-4, 4), R(0, - 4) এবং S(12, – 3) PS রেখার ঢাল m 1 = y 2 − y 1 x 2 − x 1 = − 3 − 5 12 − m = − 8 12 − m m_{1}=\\frac{y_{2}-y_{1}}{x_{2}-x_{1}}=\\frac{-3-5}{12-m}=\\frac{-8}{12-m} m 1 ​ = x 2 ​ − x 1 ​ y 2 ​ − y 1 ​ ​ = 12 − m − 3 − 5 ​ = 12 − m − 8 ​ QR রেখার ঢাল m 2 = y 2 − y 1 x 2 − x 1 = − 4 − 4 0 + 4 = − 8 4 = − 2 \\mathrm{m}_{2}=\\frac{\\mathrm{y}_{2}-\\mathrm{y}_{1}}{\\mathrm{x}_{2}-\\mathrm{x}_{1}}=\\frac{-4-4}{0+4}=\\frac{-8}{4}=-2 m 2 ​ = x 2 ​ − x 1 ​ y 2 ​ − y 1 ​ ​ = 0 + 4 − 4 − 4 ​ = 4 − 8 ​ = − 2 যেহেতু PS ∥ Q R \\| \\mathrm{QR} ∥ QR , সেহেতু m 1 = m 2 \\mathrm{m}_{1}=\\mathrm{m}_{2} m 1 ​ = m 2 ​ বা, − 8 12 − m = − 2 \\frac{-8}{12-m}=-2 12 − m − 8 ​ = − 2 বা, − 24 + 2   m = − 8 -24+2 \\mathrm{~m}=-8 − 24 + 2   m = − 8 বা, 2   m = − 8 + 24 2 \\mathrm{~m}=-8+24 2   m = − 8 + 24 বা, m = 16 2 m=\\frac{16}{2} m = 2 16 ​ ∴ m = 8 \\therefore \\mathrm{m}=8 ∴ m = 8 PR রেখার সমীকরণ, y − y 1 x − x 1 = y 1 − y 2 x 1 − x 2 \\frac{y-y_{1}}{x-x_{1}}=\\frac{y_{1}-y_{2}}{x_{1}-x_{2}} x − x 1 ​ y − y 1 ​ ​ = x 1 ​ − x 2 ​ y 1 ​ − y 2 ​ ​ বা, y − 5 x − m = 5 − ( − 4 ) m − 0 \\frac{\\mathrm{y}-5}{\\mathrm{x}-\\mathrm{m}}=\\frac{5-(-4)}{\\mathrm{m}-0} x − m y − 5 ​ = m − 0 5 − ( − 4 ) ​ বা, y − 5 x − 8 = 9 8 [ ∵   m = 8 ] \\frac{\\mathrm{y}-5}{\\mathrm{x}-8}=\\frac{9}{8}[\\because \\mathrm{~m}=8] x − 8 y − 5 ​ = 8 9 ​ [ ∵   m = 8 ] বা, 9 x − 72 = 8 y − 40 9 x-72=8 y-40 9 x − 72 = 8 y − 40 বা, 9 x − 8 y = − 40 + 72 9 \\mathrm{x}-8 \\mathrm{y}=-40+72 9 x − 8 y = − 40 + 72 ∴ 9 x − 8 y = 32 \\therefore 9 \\mathrm{x}-8 \\mathrm{y}=32 ∴ 9 x − 8 y = 32 নির্ণেয় সমীকরণ, 9 x − 8 y = 32 9 \\mathrm{x}-8 \\mathrm{y}=32 9 x − 8 y = 32 ."
+        },
+        {
+          "label": "গ",
+          "question": "QRS ত্রিভুজের যে অংশ তৃতীয় চতুর্ভাগে অবস্থান করে তার ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, Q(-4, 4), R(0, – 4) এবং S(12, -3) বিন্দু তিনটি xy সমতলে স্থাপন করে দেখানো হলো। Q R Q R QR রেখার সমীকরণ, y − y 1 x − x 1 = y 1 − y 2 x 1 − x 2 \\frac{y-y_{1}}{x-x_{1}}=\\frac{y_{1}-y_{2}}{x_{1}-x_{2}} x − x 1 ​ y − y 1 ​ ​ = x 1 ​ − x 2 ​ y 1 ​ − y 2 ​ ​ বা, y − 4 x − ( − 4 ) = 4 − ( − 4 ) − 4 − 0 \\frac{y-4}{x-(-4)}=\\frac{4-(-4)}{-4-0} x − ( − 4 ) y − 4 ​ = − 4 − 0 4 − ( − 4 ) ​ বা, y − 4 x + 4 = 8 − 4 \\frac{y-4}{x+4}=\\frac{8}{-4} x + 4 y − 4 ​ = − 4 8 ​ বা, y − 4 x + 4 = − 2 \\frac{y-4}{x+4}=-2 x + 4 y − 4 ​ = − 2 বা, y − 4 = − 2 x − 8 y-4=-2 x-8 y − 4 = − 2 x − 8 বা, 2 x + y − 4 + 8 = 0 2 x+y-4+8=0 2 x + y − 4 + 8 = 0 বা, 2 x + y + 4 = 0 2 x+y+4=0 2 x + y + 4 = 0 QR রেখা x-অক্ষকে স্পর্শ করে বলে, y = 0 y=0 y = 0 ∴ 2 x + 0 + 4 = 0 \\therefore \\quad 2 x+0+4=0 ∴ 2 x + 0 + 4 = 0 বা, 2 x = − 4 2 x=-4 2 x = − 4 ∴ x = − 2 \\therefore \\quad \\mathrm{x}=-2 ∴ x = − 2 ∴ Q R \\therefore \\quad \\mathrm{QR} ∴ QR রেখার ছেদবিন্দুর স্থানাঙ্ক ( − 2 , 0 ) (-2,0) ( − 2 , 0 ) ( 0 , 0 ) , ( − 2 , 0 ) (0,0),(-2,0) ( 0 , 0 ) , ( − 2 , 0 ) এবং ( 0 , − 4 ) (0,-4) ( 0 , − 4 ) বিন্দুগুলো দ্বারা গঠিত ত্রিভুজক্ষেত্রের ক্ষেত্রফল = 1 2 ∣ 0 − 2 0 0 0 0 − 4 0 ∣ =\\frac{1}{2}\\left|\\begin{array}{crcc}0 & -2 & 0 & 0 \\\\ 0 & 0 & -4 & 0\\end{array}\\right| = 2 1 ​ ​ 0 0 ​ − 2 0 ​ 0 − 4 ​ 0 0 ​ ​ বর্গ একক = 1 2 { ( 0 + 8 + 0 ) − ( 0 + 0 + 0 ) } =\\frac{1}{2}\\{(0+8+0)-(0+0+0)\\} = 2 1 ​ {( 0 + 8 + 0 ) − ( 0 + 0 + 0 )} বর্গ একক = 1 2 × 8 =\\frac{1}{2} \\times 8 = 2 1 ​ × 8 বর্গ একক = 4 =4 = 4 বর্গ একক ∴ \\therefore ∴ QRS ত্রিভুজের যে অংশ তৃতীয় চতুর্ভাগে অবস্থান করে তার ক্ষেত্রফল 4 বর্গ একক।"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "15 সে.মি. ব্যাস এবং 3 সে.মি. বেধবিশিষ্ট সমভাবে পুরু একটি ফাঁপা গোলকে ব্যবহৃত লোহা দিয়ে 21 সে.মি. উচ্চতাবিশিষ্ট একটি নিরেট সিলিন্ডার তৈরি করা হলো। আবার, PQRS চতুর্ভুজের PR ও QS কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করে।",
+      "tag": "SB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "6 সে.মি. কর্ণবিশিষ্ট ঘনকের ধার নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "সিলিন্ডারটির ব্যাসার্ধ নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "ভেক্টরের সাহায্যে প্রমাণ কর যে, PQRS একটি সামান্তরিক।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "l sin ⁡ θ + m cos ⁡ θ = n l \\sin \\theta+m \\cos \\theta=n l sin θ + m cos θ = n এবং c = cot ⁡ θ c=\\cot \\theta c = cot θ .",
+      "tag": "SB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি চাকা 2.25 কিলোমিটার পথ যেতে 45 বার ঘুরে। চাকাটির ব্যাসার্ধ নির্ণয় কর।",
+          "explanation": "এখানে, চাকাটির অতিক্রান্ত দূরত্ব = 2.25 কিলোমিটার = ( 2.25 × 1000 ) =(2.25 \\times 1000) = ( 2.25 × 1000 ) মিটার [ ∵ 1 [\\because 1 [ ∵ 1 কিলোমিটার = 1000 মিটার] = 2250 =2250 = 2250 মিটার ধরি, চাকার ব্যাসার্ধ = r মিটার ∴ \\therefore \\quad ∴ চাকার পরিধি = 2 π r =2 \\pi \\mathrm{r} = 2 π r মিটার [যেখানে π = 3.1416 \\pi=3.1416 π = 3.1416 ] আমরা জানি, চাকাটি একবার ঘুরলে তার পরিধির সমান দূরত্ব অতিক্রম করে। ∴ 45 \\therefore 45 ∴ 45 বার ঘুরায় চাকাটির মোট অতিক্রান্ত দূরত্ব = 45 × 2 π r =45 \\times 2 \\pi \\mathrm{r} = 45 × 2 π r মিটার = 90 π r =90 \\pi \\mathrm{r} = 90 π r মিটার প্রশ্নমতে, 90 π r = 2250 90 \\pi \\mathrm{r}=2250 90 π r = 2250 বা, r = 2.250 90 π = 2250 90 × 3.1416 \\mathrm{r}=\\frac{2.250}{90 \\pi}=\\frac{2250}{90 \\times 3.1416} r = 90 π 2.250 ​ = 90 × 3.1416 2250 ​ মিটার = 7.958 =7.958 = 7.958 মিটার (প্রায়) ∴ \\therefore ∴ চাকার ব্যাসার্ধ 7.958 মিটার (প্রায়)।"
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, l cos ⁡ θ − m sin ⁡ θ = ± l 2 + m 2 − n 2 l \\cos \\theta-\\mathrm{m} \\sin \\theta= \\pm \\sqrt{l^{2}+\\mathrm{m}^{2}-\\mathrm{n}^{2}} l cos θ − m sin θ = ± l 2 + m 2 − n 2 ​ .",
+          "explanation": "দেওয়া আছে, l sin ⁡ θ + m cos ⁡ θ = n l \\sin \\theta+\\mathrm{m} \\cos \\theta=\\mathrm{n} l sin θ + m cos θ = n বা, ( l sin ⁡ θ ^ + m cos ⁡ θ ) 2 = n 2 (l \\sin \\hat{\\theta}+\\mathrm{m} \\cos \\theta)^{2}=\\mathrm{n}^{2} ( l sin θ ^ + m cos θ ) 2 = n 2 [বর্গ করে] বা, ( l sin ⁡ θ ) 2 + 2 l sin ⁡ θ ⋅ m cos ⁡ θ + ( m cos ⁡ θ ) 2 = n 2 (l \\sin \\theta)^{2}+2 l \\sin \\theta \\cdot m \\cos \\theta+(m \\cos \\theta)^{2}=n^{2} ( l sin θ ) 2 + 2 l sin θ ⋅ m cos θ + ( m cos θ ) 2 = n 2 বা, l 2 sin ⁡ 2 θ + 2 l m sin ⁡ θ cos ⁡ θ + m 2 cos ⁡ 2 θ = n 2 l^{2} \\sin ^{2} \\theta+2 l m \\sin \\theta \\cos \\theta+m^{2} \\cos ^{2} \\theta=n^{2} l 2 sin 2 θ + 2 l m sin θ cos θ + m 2 cos 2 θ = n 2 বা, l 2 ( 1 − cos ⁡ 2 θ ) + 2 l m sin ⁡ θ cos ⁡ θ + m 2 ( 1 − sin ⁡ 2 θ ) = n 2 l^{2}\\left(1-\\cos ^{2} \\theta\\right)+2 l m \\sin \\theta \\cos \\theta+m^{2}\\left(1-\\sin ^{2} \\theta\\right)=n^{2} l 2 ( 1 − cos 2 θ ) + 2 l m sin θ cos θ + m 2 ( 1 − sin 2 θ ) = n 2 [ ∵ sin ⁡ 2 θ = 1 − cos ⁡ 2 θ  এবং  cos ⁡ 2 θ = 1 − sin ⁡ 2 θ ] \\left[\\because \\sin ^{2} \\theta=1-\\cos ^{2} \\theta \\text { এবং } \\cos ^{2} \\theta=1-\\sin ^{2} \\theta\\right] [ ∵ sin 2 θ = 1 − cos 2 θ   এবং   cos 2 θ = 1 − sin 2 θ ] বা, l 2 − l 2 cos ⁡ 2 θ + 2 l m sin ⁡ θ cos ⁡ θ + m 2 − m 2 sin ⁡ 2 θ = n 2 l^{2}-l^{2} \\cos ^{2} \\theta+2 l m \\sin \\theta \\cos \\theta+m^{2}-m^{2} \\sin ^{2} \\theta=n^{2} l 2 − l 2 cos 2 θ + 2 l m sin θ cos θ + m 2 − m 2 sin 2 θ = n 2 বা, l 2 cos ⁡ 2 θ − 2 l   m sin ⁡ θ cos ⁡ θ + m 2 sin ⁡ 2 θ = l 2 + m 2 − n 2 l^{2} \\cos ^{2} \\theta-2 l \\mathrm{~m} \\sin \\theta \\cos \\theta+\\mathrm{m}^{2} \\sin ^{2} \\theta=l^{2}+\\mathrm{m}^{2}-\\mathrm{n}^{2} l 2 cos 2 θ − 2 l   m sin θ cos θ + m 2 sin 2 θ = l 2 + m 2 − n 2 বা, ( l cos ⁡ θ ) 2 − 2 l cos ⁡ θ   m sin ⁡ θ + ( m sin ⁡ θ ) 2 = l 2 + m 2 − n 2 (l \\cos \\theta)^{2}-2 l \\cos \\theta \\mathrm{~m} \\sin \\theta+(\\mathrm{m} \\sin \\theta)^{2}=l^{2}+\\mathrm{m}^{2}-\\mathrm{n}^{2} ( l cos θ ) 2 − 2 l cos θ   m sin θ + ( m sin θ ) 2 = l 2 + m 2 − n 2 বা, ( l cos ⁡ θ − m sin ⁡ θ ) 2 = l 2 + m 2 − n 2 (l \\cos \\theta-\\mathrm{m} \\sin \\theta)^{2}=l^{2}+\\mathrm{m}^{2}-\\mathrm{n}^{2} ( l cos θ − m sin θ ) 2 = l 2 + m 2 − n 2 ∴ l cos ⁡ θ − m sin ⁡ θ = ± l 2 + m 2 − n 2 \\therefore \\quad l \\cos \\theta-\\mathrm{m} \\sin \\theta= \\pm \\sqrt{l^{2}+\\mathrm{m}^{2}-\\mathrm{n}^{2}} ∴ l cos θ − m sin θ = ± l 2 + m 2 − n 2 ​ . (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "সমাধান কর : c + 1 c = 4 3 c+\\frac{1}{c}=\\frac{4}{\\sqrt{3}} c + c 1 ​ = 3 ​ 4 ​ , যেখানে 0 < θ < 2 π 0<\\theta<2 \\pi 0 < θ < 2 π .",
+          "explanation": "দেওয়া আছে, c = cot ⁡ θ c=\\cot \\theta c = cot θ এখানে, c + 1 c = 4 3 c+\\frac{1}{c}=\\frac{4}{\\sqrt{3}} c + c 1 ​ = 3 ​ 4 ​ বা, cot ⁡ θ + 1 cot ⁡ θ = 4 3 \\cot \\theta+\\frac{1}{\\cot \\theta}=\\frac{4}{\\sqrt{3}} cot θ + c o t θ 1 ​ = 3 ​ 4 ​ বা, cot ⁡ 2 θ + 1 cot ⁡ θ = 4 3 \\frac{\\cot ^{2} \\theta+1}{\\cot \\theta}=\\frac{4}{\\sqrt{3}} c o t θ c o t 2 θ + 1 ​ = 3 ​ 4 ​ বা, 3 cot ⁡ 2 θ + 3 = 4 cot ⁡ θ \\sqrt{3} \\cot ^{2} \\theta+\\sqrt{3}=4 \\cot \\theta 3 ​ cot 2 θ + 3 ​ = 4 cot θ বা, 3 cot ⁡ 2 θ − 4 cot ⁡ θ + 3 = 0 \\sqrt{3} \\cot ^{2} \\theta-4 \\cot \\theta+\\sqrt{3}=0 3 ​ cot 2 θ − 4 cot θ + 3 ​ = 0 বা, 3 cot ⁡ 2 θ − 3 cot ⁡ θ − cot ⁡ θ + i 3 = 0 \\sqrt{3} \\cot ^{2} \\theta-3 \\cot \\theta-\\cot \\theta+i \\sqrt{3}=0 3 ​ cot 2 θ − 3 cot θ − cot θ + i 3 ​ = 0 বা, 3 cot ⁡ θ ( cot ⁡ θ − 3 ) − 1 ( cot ⁡ θ − 3 ) = 0 \\sqrt{3} \\cot \\theta(\\cot \\theta-\\sqrt{3})-1(\\cot \\theta-\\sqrt{3})=0 3 ​ cot θ ( cot θ − 3 ​ ) − 1 ( cot θ − 3 ​ ) = 0 বা, ( cot ⁡ θ − 3 ) ( 3 cot ⁡ θ − 1 ) = 0 (\\cot \\theta-\\sqrt{3})(\\sqrt{3} \\cot \\theta-1)=0 ( cot θ − 3 ​ ) ( 3 ​ cot θ − 1 ) = 0 হয়, cot ⁡ θ − 3 = 0 \\cot \\theta-\\sqrt{3}=0 cot θ − 3 ​ = 0 বা, cot ⁡ θ = 3 \\cot \\theta=\\sqrt{3} cot θ = 3 ​ অথবা, 3 cot ⁡ θ − 1 = 0 \\sqrt{3} \\cot \\theta-1=0 3 ​ cot θ − 1 = 0 বা, 3 cot ⁡ θ = 1 \\sqrt{3} \\cot \\theta=1 3 ​ cot θ = 1 বা, cot ⁡ θ = 1 3 \\cot \\theta=\\frac{1}{\\sqrt{3}} cot θ = 3 ​ 1 ​ এখানে, cot ⁡ θ = 3 \\cot \\theta=\\sqrt{3} cot θ = 3 ​ হলে, প্রথম চতুর্ভাগে, cot ⁡ θ = 3 = cot ⁡ π 6 \\cot \\theta=\\sqrt{3}=\\cot \\frac{\\pi}{6} cot θ = 3 ​ = cot 6 π ​ ∴ θ = π 6 \\therefore \\quad \\theta=\\frac{\\pi}{6} ∴ θ = 6 π ​ তৃতীয় চতুর্ভাগে, cot ⁡ θ = 3 = cot ⁡ ( π + π 6 ) = cot ⁡ 7 π 6 \\cot \\theta=\\sqrt{3}=\\cot \\left(\\pi+\\frac{\\pi}{6}\\right)=\\cot \\frac{7 \\pi}{6} cot θ = 3 ​ = cot ( π + 6 π ​ ) = cot 6 7 π ​ ∴ θ = 7 π 6 \\therefore \\quad \\theta=\\frac{7 \\pi}{6} ∴ θ = 6 7 π ​ আবার, cot ⁡ θ = 1 3 \\cot \\theta=\\frac{1}{\\sqrt{3}} cot θ = 3 ​ 1 ​ হলে, প্রথম চতুর্ভাগে, cot ⁡ θ = 1 3 = cot ⁡ π 3 \\cot \\theta=\\frac{1}{\\sqrt{3}}=\\cot \\frac{\\pi}{3} cot θ = 3 ​ 1 ​ = cot 3 π ​ ∴ θ = π 3 \\therefore \\quad \\theta=\\frac{\\pi}{3} ∴ θ = 3 π ​ তৃতীয় চতুর্ভাগে, cot ⁡ θ = 1 3 = cot ⁡ ( π + π 3 ) = cot ⁡ 4 π 3 \\cot \\theta=\\frac{1}{\\sqrt{3}}=\\cot \\left(\\pi+\\frac{\\pi}{3}\\right)=\\cot \\frac{4 \\pi}{3} cot θ = 3 ​ 1 ​ = cot ( π + 3 π ​ ) = cot 3 4 π ​ ∴ θ = 4 π 3 \\therefore \\quad \\theta=\\frac{4 \\pi}{3} ∴ θ = 3 4 π ​ ∴ 0 < θ < 2 π \\therefore \\quad 0<\\theta<2 \\pi ∴ 0 < θ < 2 π ব্যবধিতে θ = π 6 , π 3 , 7 π 6 , 4 π 3 \\theta=\\frac{\\pi}{6}, \\frac{\\pi}{3}, \\frac{7 \\pi}{6}, \\frac{4 \\pi}{3} θ = 6 π ​ , 3 π ​ , 6 7 π ​ , 3 4 π ​ নির্ণেয় সমাধান : θ = π 6 , π 3 , 7 π 6 , 4 π 3 \\theta=\\frac{\\pi}{6}, \\frac{\\pi}{3}, \\frac{7 \\pi}{6}, \\frac{4 \\pi}{3} θ = 6 π ​ , 3 π ​ , 6 7 π ​ , 3 4 π ​ ."
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "15 থেকে 40 পর্যন্ত সংখ্যাগুলো থেকে দৈবভাবে একটি সংখ্যা নির্বাচন করা হলো এবং একটি নিরপেক্ষ মুদ্রা পর পর চারবার নিক্ষেপ করা হলো।",
+      "tag": "SB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি ছক্কা নিক্ষেপে জোড়সংখ্যা না পাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "একটি ছক্কা একবার নিক্ষেপ পরীক্ষায় নমুনাক্ষেত্র, S = { 1 , 2 , 3 , 4 , 5 , 6 } S=\\{1,2,3,4,5,6\\} S = { 1 , 2 , 3 , 4 , 5 , 6 } নমুনাক্ষেত্রে মোট নমুনাবিন্দুর সংখ্যা = 6টি । ছক্কা নিক্ষেপে জোড় সংখ্যা না পাওয়া এমন অনুকূল ফলাফল সংখ্যা = 3 =3 = 3 টি। যথা : 1, 3, 5 ∴ \\therefore ∴ ছক্কা নিক্ষেপে জোড় সংখ্যা না পাওয়ার সম্ভাবনা = 3 6 = 1 2 =\\frac{3}{6}=\\frac{1}{2} = 6 3 ​ = 2 1 ​ নির্ণেয় সম্ভাবনা 1 2 \\frac{1}{2} 2 1 ​ ."
+        },
+        {
+          "label": "খ",
+          "question": "নির্বাচিত সংখ্যাটি 5 এর গুণিতক অথবা বিজোড় সংখ্যা হওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "15 থেকে 40 পর্যন্ত সংখ্যাগুলো হলো : 15 , 16 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , 26 , 27 , 28 , 29 , 30 ,  31 , 32 , 33 , 34 , 35 , 36 , 37 , 38 , 39 , 40 ∴  মোট সংখ্যা =  26  টি  \\begin{array}{l} 15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30 \\text {, } \\\\ 31,32,33,34,35,36,37,38,39,40 \\\\ \\therefore \\text { মোট সংখ্যা = } 26 \\text { টি } \\end{array} 15 , 16 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , 26 , 27 , 28 , 29 , 30 ,  31 , 32 , 33 , 34 , 35 , 36 , 37 , 38 , 39 , 40 ∴   মোট   সংখ্যা  =  26   টি   ​ নির্বাচিত সংখ্যাটি 5 এর গুণিতক অথবা বিজোড় সংখ্যা এমন অনুকূল ফলাফল সংখ্যা = 16 টি। যথা : 15 , 17 , 19 , 20 , 21 , 23 , 25 , 27 , 29 15,17,19,20,21,23,25,27,29 15 , 17 , 19 , 20 , 21 , 23 , 25 , 27 , 29 , 30, 31, 33, 35, 37, 39, 40 ∴ \\therefore ∴ নির্বাচিত সংখ্যাটি 5 এর গুণিতক অথবা বিজোড় সংখ্যা হওয়ার সম্ভাবনা = 16 26 = 8 13 =\\frac{16}{26}=\\frac{8}{13} = 26 16 ​ = 13 8 ​ নির্ণেয় সম্ভাবনা 8 13 \\frac{8}{13} 13 8 ​ ."
+        },
+        {
+          "label": "গ",
+          "question": "মুদ্রা নিক্ষেপ ঘটনায় Probability tree অঙ্কন করে নমুনাক্ষেত্র উল্লেখপূর্বক বড়জোড় 3T আসার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "একটি নিরপেক্ষ মুদ্রা পরপর চারবার নিক্ষেপ পরীক্ষাকে চারটি ধাপ হিসেবে বিবেচনা করি। ফলে প্রতিটি ধাপে 2টি ফলাফল H অথবা T'আসতে পারে। সুতরাং, একটি নিরপেক্ষ মুদ্রা পরপর চারবার নিক্ষেপের মোট ফলাফল Probability tree এর সাহায্যে দেখানো হলো: ∴ \\therefore ∴ নমুনাক্ষেত্রটি : S = { H H H H , H H H T , H H T H , H H T T , H T H H : S=\\{H H H H, H H H T, H H T H, H H T T, H T H H : S = { HHHH , HHH T , HH T H , HH TT , H T HH , HTHT, HTTH, HTTT, THHH, THHT, THTH, THTT, TTHH, TTHT, TTTH, TTTT}. নমুনাক্ষেত্রে মোট নমুনাবিন্দুর সংখ্যা = 16টি। বড়জোড় 3T আসা এমন অনুকূল ফলাফল সংখ্যা = 15 =15 = 15 টি। যথা : HHHH, HHHT, HHTH, HHTT, HTHH, HTHT, HTTH, HTTT, THHH, THHT, THTH, THTT, TTHH, TTHT, TTTH ∴ \\therefore ∴ বড়জোড় 3 T আসার সম্ভাবনা = 15 16 =\\frac{15}{16} = 16 15 ​ নির্ণেয় সম্ভাবনা 15 16 \\frac{15}{16} 16 15 ​"
+        }
+      ]
+    }
+  ]
+}

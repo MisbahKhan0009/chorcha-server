@@ -1,0 +1,832 @@
+{
+  "read_id": "u6ha0F4O3GsXiACq",
+  "title": "সিলেট বোর্ড ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "SB 24,VNSC 24,PCC 24,MB 23,CTG.B 22",
+      "question": "দুইটি ছক্কা ও একটি মুদ্রা একত্রে একবার নিক্ষেপ করলে সংঘটিত ঘটনা নমুনা বিন্দু সংখ্যা কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "144",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "72",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "36",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24",
+          "is_correct": false
+        }
+      ],
+      "option_a": "144",
+      "option_b": "72",
+      "option_c": "36",
+      "option_d": "24",
+      "correct": "খ",
+      "explanation": "একটি ছক্কার সম্ভাব্য ফলাফল = { 1 , 2 , 3 , 4 , 5 , 6 } \\{1, 2, 3, 4, 5, 6\\} { 1 , 2 , 3 , 4 , 5 , 6 } → 6টি দুইটি ছক্কার ক্ষেত্রে ফলাফল সংখ্যা = 6 × 6 = 36 6 \\times 6 = 36 6 × 6 = 36 একটি মুদ্রার সম্ভাব্য ফলাফল = { H , T } \\{H, T\\} { H , T } → 2 টি সবগুলো একত্রে নিক্ষেপ করলে মোট নমুনা বিন্দু সংখ্যা: 36 × 2 = 72 36 \\times 2 = 72 36 × 2 = 72"
+    },
+    {
+      "number": "2",
+      "tag": "SB 24,DIN.B 22,DIN.B 21",
+      "question": "সকাল 9:00 টায় ঘড়ির ঘন্টার কাঁটা ও মিনিটের কাঁটার অন্তর্গত কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π 2 \\frac{\\pi}{2} 2 π ​ রেডিয়ান",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "π 3 \\frac{\\pi}{3} 3 π ​ রেডিয়ান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π 4 \\frac{\\pi}{4} 4 π ​ রেডিয়ান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π 6 \\frac{\\pi}{6} 6 π ​ রেডিয়ান",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π 2 \\frac{\\pi}{2} 2 π ​ রেডিয়ান",
+      "option_b": "π 3 \\frac{\\pi}{3} 3 π ​ রেডিয়ান",
+      "option_c": "π 4 \\frac{\\pi}{4} 4 π ​ রেডিয়ান",
+      "option_d": "π 6 \\frac{\\pi}{6} 6 π ​ রেডিয়ান",
+      "correct": "ক",
+      "explanation": "সকাল 9:00 টায় ঘড়ির ঘন্টার কাঁটা '9'-এর ঘরে থাকে এবং মিনিটের কাঁটা '12'-এর ঘরে থাকে। ঘড়িতে মোট 12টি সংখ্যা থাকে এবং একটি পূর্ণ বৃত্ত 360°। সুতরাং, প্রতিটি সংখ্যার মধ্যে কোণ = 360 ∘ 12 = 30 ∘ =\\frac{360^{\\circ}}{12}=30^{\\circ} = 12 36 0 ∘ ​ = 3 0 ∘ । 9:00 টায়, ঘন্টার কাঁটা '9'-এ এবং মিনিটের কাঁটা '12'-এ থাকে। এই দুটি সংখ্যার মধ্যে 3টি ঘরের পার্থক্য (12 থেকে 9 পর্যন্ত)। অতএব, অন্তর্গত কোণ = 3 × 30° = 90°। সকাল 9:00 টায় ঘড়ির ঘন্টার কাঁটা ও মিনিটের কাঁটার অন্তর্গত কোণ হলো 90° । রেডিয়ানে 90 ∘ 90^{\\circ} 9 0 ∘ সমান π 2 \\frac{\\pi}{2} 2 π ​ রেডিয়ান হয়।"
+    },
+    {
+      "number": "3",
+      "tag": "SB 24",
+      "question": "সার্বিক সেট U = { 3 , 4 , 5 , 6 } U=\\{3,4,5,6\\} U = { 3 , 4 , 5 , 6 } হলে, S = { x : x + 2 ≤ 7 } \\mathrm{S}=\\{\\mathrm{x}: \\mathrm{x}+2 \\leq 7\\} S = { x : x + 2 ≤ 7 } এর প্রকৃত উপসেট কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 3 , 6 } \\{3,6\\} { 3 , 6 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ 3 , 5 } \\{3,5\\} { 3 , 5 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 3 , 4 , 5 } \\{3,4,5\\} { 3 , 4 , 5 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 3 , 5 , 6 } \\{3,5,6\\} { 3 , 5 , 6 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ 3 , 6 } \\{3,6\\} { 3 , 6 }",
+      "option_b": "{ 3 , 5 } \\{3,5\\} { 3 , 5 }",
+      "option_c": "{ 3 , 4 , 5 } \\{3,4,5\\} { 3 , 4 , 5 }",
+      "option_d": "{ 3 , 5 , 6 } \\{3,5,6\\} { 3 , 5 , 6 }",
+      "correct": "গ",
+      "explanation": "শর্ত x + 2 ≤ 7 x+2 \\leq 7 x + 2 ≤ 7 থেকে x x x -এর মান বের করি: x ≤ 7 − 2 x ≤ 5 \\begin{array}{c} x \\leq 7-2 \\\\ x \\leq 5 \\end{array} x ≤ 7 − 2 x ≤ 5 ​ সার্বিক সেট U U U -এর মধ্যে x ≤ 5 x \\leq 5 x ≤ 5 শর্ত পৃরণ করে এমন উপাদানগুলি হলো: S = { 3 , 4 , 5 } S=\\{3,4,5\\} S = { 3 , 4 , 5 }"
+    },
+    {
+      "number": "4",
+      "tag": "SB 24",
+      "question": "3 সে.মি., 4 সে. মি. ও 5 সে.মি. বাহুবিশিষ্ট একটি ত্রিভুজের মধ্যমাগুলোর উপর অঙ্কিত বর্গক্ষেত্রসমূহের ক্ষেত্রফলের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "37.5 বর্গ সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "50 বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "75 বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "112.5 বর্গ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "37.5 বর্গ সে.মি.",
+      "option_b": "50 বর্গ সে.মি.",
+      "option_c": "75 বর্গ সে.মি.",
+      "option_d": "112.5 বর্গ সে.মি.",
+      "correct": "ক",
+      "explanation": "সমকোণী ত্রিভুজের মধ্যমাগুলোর উপর অঙ্কিত বর্গক্ষেত্রসমূহের ক্ষেত্রফলের সমষ্টি = 3 2 =\\frac{3}{2} = 2 3 ​ (অতিভুজের দৈর্ঘ্য ) 2 = 3 2 × 5 2 = 37.5 )^{2}=\\frac{3}{2} \\times 5^{2}=37.5 ) 2 = 2 3 ​ × 5 2 = 37.5 বর্গ সে.মি."
+    },
+    {
+      "number": "5",
+      "tag": "SB 24",
+      "question": "180 π \\pi π মিটার পথ যেতে একটি চাকা 30 বার ঘোরে। চাকাটির ব্যাসার্ধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 মিটার",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 মিটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 মিটার",
+      "option_b": "3 মিটার",
+      "option_c": "4 মিটার",
+      "option_d": "6 মিটার",
+      "correct": "খ",
+      "explanation": "1 বার ঘুরলে অতিক্রান্ত  পথ  = 180 π 30 = 6 π \\text { পথ }=\\frac{180 \\pi}{30}=6 \\pi   পথ   = 30 180 π ​ = 6 π 1 বার ঘুরলে পরিধির সমান দূরত্ব অতিক্রম করে। ∴ 2 π r = 6 π r = 6 π 2 π r = 3   m \\begin{array}{l} \\therefore 2 \\pi r=6 \\pi \\\\ r=\\frac{6 \\pi}{2 \\pi} \\\\ r=3 \\mathrm{~m} \\end{array} ∴ 2 π r = 6 π r = 2 π 6 π ​ r = 3   m ​"
+    },
+    {
+      "number": "6",
+      "tag": "CB 20,SB 20,JB 20,DB 19,CB 19,DIN.B 19,CTG.B 19,SB 19,BB 19,ACC 24",
+      "question": "f ( x ) = 4 − 2 x f(\\mathbf{x})=\\sqrt{4-2 \\mathrm{x}} f ( x ) = 4 − 2 x ​ এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+      "option_b": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+      "option_c": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+      "option_d": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+      "correct": "গ",
+      "explanation": "f ( x ) = 4 − 2 x f(x) = \\sqrt{4-2x} f ( x ) = 4 − 2 x ​ বর্গমূলের ভিতরের রাশি অঋণাত্মক হতে হবে: 4 − 2 x ≥ 0 4-2x \\ge 0 4 − 2 x ≥ 0 − 2 x ≥ − 4 -2x \\ge -4 − 2 x ≥ − 4 x ≤ 2 x \\le 2 x ≤ 2 তাই ডোমেন: { x ∈ R ∣ x ≤ 2 } \\{x \\in \\mathbb{R} \\mid x \\le 2\\} { x ∈ R ∣ x ≤ 2 } ইন্টারভাল আকারে: ( − ∞ , 2 ] (-\\infty, 2] ( − ∞ , 2 ]"
+    },
+    {
+      "number": "7",
+      "tag": "CTG.B 25,MB 24,SB 24,JGCC 24,CPSCR 24,BMARPC 24,RCS 24,DB 23,MB 23,CTG.B 23,DB 22,CB 22,SB 22,JB 22,MB 20,RB 20,RB 19,CB 19,All.B 18",
+      "question": "একটি নিরপেক্ষ ছক্কা একবার নিক্ষেপ করা হলে প্রাপ্ত সংখ্যাটি জোড় কিন্তু 6 দ্বারা বিভাজ্য না হওয়ার সম্ভাবনা কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "5 6 \\frac{5}{6} 6 5 ​",
+      "correct": "খ",
+      "explanation": "প্রথমে, ছক্কার সম্ভাব্য ফলাফল: S = { 1 , 2 , 3 , 4 , 5 , 6 } S = \\{1, 2, 3, 4, 5, 6\\} S = { 1 , 2 , 3 , 4 , 5 , 6 } মোট সম্ভাব্য ফলাফলের সংখ্যা n ( S ) = 6 n(S) = 6 n ( S ) = 6 জোড় সংখ্যাগুলো হলো: { 2 , 4 , 6 } \\{2, 4, 6\\} { 2 , 4 , 6 } । এদের মধ্যে 6 হলো 6 দ্বারা বিভাজ্য। তাই জোড় কিন্তু 6 দ্বারা বিভাজ্য নয় এমন সংখ্যাগুলো হলো: { 2 , 4 } \\{2, 4\\} { 2 , 4 } । অনুকূল ফলাফলের সংখ্যা n ( A ) = 2 n(A) = 2 n ( A ) = 2 সুতরাং সম্ভাবনা: P ( A ) = n ( A ) n ( S ) = 2 6 = 1 3 P(A) = \\frac{n(A)}{n(S)} = \\frac{2}{6} = \\frac{1}{3} P ( A ) = n ( S ) n ( A ) ​ = 6 2 ​ = 3 1 ​"
+    },
+    {
+      "number": "8",
+      "tag": "SB 24,BAFSC 24",
+      "question": "x 3 + 2 x 2 + 3 x + 2 m x^{3}+2 x^{2}+3 x+2 m x 3 + 2 x 2 + 3 x + 2 m এর একটি উৎপাদক ( x + 2 ) (x+2) ( x + 2 ) হলে, m এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "-3",
+      "option_c": "3",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "f ( x ) = x 3 + 2 x 2 + 3 x + 2   m \\mathrm{f}(\\mathrm{x})=\\mathrm{x}^{3}+2 \\mathrm{x}^{2}+3 \\mathrm{x}+2 \\mathrm{~m} f ( x ) = x 3 + 2 x 2 + 3 x + 2   m এবং এর একটি উৎপাদক ( x + 2 ) (\\mathrm{x}+2) ( x + 2 ) হলে, f ( − 2 ) = 0 \\mathrm{f}(-2)=0 f ( − 2 ) = 0 বা, ( − 2 ) 3 + 2 ⋅ ( − 2 ) 2 + 3 ⋅ ( − 2 ) + 2   m = 0 (-2)^{3}+2 \\cdot(-2)^{2}+3 \\cdot(-2)+2 \\mathrm{~m}=0 ( − 2 ) 3 + 2 ⋅ ( − 2 ) 2 + 3 ⋅ ( − 2 ) + 2   m = 0 বা, − 8 + 8 − 6 + 2   m = 0 -8+8-6+2 \\mathrm{~m}=0 − 8 + 8 − 6 + 2   m = 0 বা, 2   m = 6 ∴   m = 3 2 \\mathrm{~m}=6 \\therefore \\mathrm{~m}=3 2   m = 6 ∴   m = 3"
+    },
+    {
+      "number": "9",
+      "tag": "CB 20,CTG.B 20,SB 20,BB 20,DB 19,RB 19,CB 19,JB 19,BB 19,All.B 18,ACC 24",
+      "question": "যদি Δ \\Delta Δ PQR-এ PQ ও PR এর মধ্যবিন্দু যথাক্রমে M ও N হয়, তবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+      "option_b": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+      "option_c": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+      "option_d": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+      "correct": "ক",
+      "explanation": "△ P Q R \\triangle P Q R △ PQR হতে পাই P Q → + Q R → = P R → ⇒ Q R → = P R → − P Q → \\begin{aligned} & \\overrightarrow{P Q}+\\overrightarrow{Q R}=\\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{Q R}=\\overrightarrow{P R}-\\overrightarrow{P Q} \\end{aligned} ⇒ ​ PQ ​ + QR ​ = PR QR ​ = PR − PQ ​ ​ △ P M N \\triangle P M N △ PMN হতে পাই M N → = P N → − P M → \\overrightarrow{M N}=\\overrightarrow{P N}-\\overrightarrow{P M} MN = PN − PM P M → + M N → = P N → ↑ ⇒ 1 2 P Q → + M N → = 1 2 P R → ⇒ M N → = 1 2 P R → − 1 2 P Q → ⇒ M N → = 1 2 Q R → ⇒ P N → − P M → = 1 2 Q R → ∴ Q R → = 2 ( P N → − P M → ) \\begin{aligned} & \\overrightarrow{P M}+\\overrightarrow{M N}=\\overrightarrow{P N} \\uparrow \\\\ \\Rightarrow & \\frac{1}{2} \\overrightarrow{P Q}+\\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R}-\\frac{1}{2} \\overrightarrow{P Q} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\Rightarrow & \\overrightarrow{P N}-\\overrightarrow{P M}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\therefore & \\overrightarrow{Q R}=2(\\overrightarrow{P N}-\\overrightarrow{P M}) \\end{aligned} ⇒ ⇒ ⇒ ⇒ ∴ ​ PM + MN = PN ↑ 2 1 ​ PQ ​ + MN = 2 1 ​ PR MN = 2 1 ​ PR − 2 1 ​ PQ ​ MN = 2 1 ​ QR ​ PN − PM = 2 1 ​ QR ​ QR ​ = 2 ( PN − PM ) ​"
+    },
+    {
+      "number": "10",
+      "tag": "SB 24,MCC 24",
+      "question": "5 x − 3 − x 2 = 0 5 x-3-x^{2}=0 5 x − 3 − x 2 = 0 সমীকরণের মূলদ্বয় কীরূপ হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অবাস্তব",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বাস্তব ও সমান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বাস্তব ও মূলদ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বাস্তব ও অমূলদ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "অবাস্তব",
+      "option_b": "বাস্তব ও সমান",
+      "option_c": "বাস্তব ও মূলদ",
+      "option_d": "বাস্তব ও অমূলদ",
+      "correct": "ঘ",
+      "explanation": "এটি আরও পরিচিত আকারে লিখলে: x 2 − 5 x + 3 = 0 x^{2}-5 x+3=0 x 2 − 5 x + 3 = 0 ধাপ ২: নিধায়ষ (D) नির্ণয়্য দ্বিঘাত সমীকরণের নিধায়ক (D) এর সৃত্র হলো: D = b 2 − 4 a c D=b^{2}-4 a c D = b 2 − 4 a c এখানে: a = 1 a=1 a = 1 (প্রथম ধাপের সহগ), b = − 5 b=-5 b = − 5 (দ্বিতীয় ধাপের সহগ), c = 3 c=3 c = 3 (ছৃতীয় ধ্রুবক পদ)। নিধায়ক নির্ণয় করলে পাই: D = ( − 5 ) 2 − 4 ( 1 ) ( 3 ) D = 25 − 12 = 13 \\begin{array}{c} D=(-5)^{2}-4(1)(3) \\\\ D=25-12=13 \\end{array} D = ( − 5 ) 2 − 4 ( 1 ) ( 3 ) D = 25 − 12 = 13 ​ সুতরাং নিরনয়ক গুলো আবস্তব ও মুলদ।"
+    },
+    {
+      "number": "11",
+      "tag": "SB 24",
+      "question": "একটি ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল 54 বর্গ সে.মি.। এর কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.24 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5.20 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "12.73 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15.59 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4.24 সে.মি.",
+      "option_b": "5.20 সে.মি.",
+      "option_c": "12.73 সে.মি.",
+      "option_d": "15.59 সে.মি.",
+      "correct": "খ",
+      "explanation": "প্রদত্ত: ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল = 54 =54 = 54 বর্গ সে.মি. ঘনকের বাহুর দৈর্ষ্য (a) নির্ণয় ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফলের সূত্র: 6 a 2 = 54 a 2 = 54 6 = 9 ⟹ a = 3  সে.মি.  \\begin{array}{c} 6 a^{2}=54 \\\\ a^{2}=\\frac{54}{6}=9 \\Longrightarrow a=3 \\text { সে.মি. } \\end{array} 6 a 2 = 54 a 2 = 6 54 ​ = 9 ⟹ a = 3   সে . মি .  ​ ঘনকের কর্ণের দৈর্ঘ্য নির্ণয় ঘনকের কর্ণের সূত্র:  কর্ণ  = a 3 = 3 3  সে.মি  \\text { কর্ণ }=a \\sqrt{3}=3 \\sqrt{3} \\text { সে.মি }   কর্ণ   = a 3 ​ = 3 3 ​   সে . মি"
+    },
+    {
+      "number": "12",
+      "tag": "SB 24,CPSCR 24",
+      "question": "একটি গাড়ি 2 ঘণ্টায় x কিমি. এবং 3 ঘণ্টায় যায় (x + 60) কিমি.। গাড়িটির গড় গতিবেগ অনুর্ধ্ব 50 কি.মি.। সমস্যাটিতে x এর সম্ভাব্য মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0 < x ≤ 95 0<x\\leq 95 0 < x ≤ 95",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0 < x < 95 0< x < 95 0 < x < 95",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0 < x ≤ 155 0<x\\leq 155 0 < x ≤ 155",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0 < x < 155 0< x < 155 0 < x < 155",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0 < x ≤ 95 0<x\\leq 95 0 < x ≤ 95",
+      "option_b": "0 < x < 95 0< x < 95 0 < x < 95",
+      "option_c": "0 < x ≤ 155 0<x\\leq 155 0 < x ≤ 155",
+      "option_d": "0 < x < 155 0< x < 155 0 < x < 155",
+      "correct": "ক",
+      "explanation": "প্রথমে, গাড়িটির মোট গড় গতিবেগ বের করতে হবে। গাড়িটি প্রথমবার 2 ঘণ্টায় x কিমি এবং দ্বিতীয়বার 3 ঘণ্টায় (x + 60) কিমি অতিক্রম করে। তাহলে মোট দূরত্ব হবে: x + ( x + 60 ) = 2 x + 60 x + (x + 60) = 2x + 60 x + ( x + 60 ) = 2 x + 60 মোট সময় হবে 2 + 3 = 5 ঘণ্টা। তাহলে গড় গতিবেগ হবে: গড় গতিবেগ = মোট দূরত্ব মোট সময় = 2 x + 60 5 \\text{গড় গতিবেগ} = \\frac{\\text{মোট দূরত্ব}}{\\text{মোট সময়}} = \\frac{2x + 60}{5} গড়   গতিবেগ = মোট   সময় মোট   দূরত্ব ​ = 5 2 x + 60 ​ আমরা জানি গড় গতিবেগ অনুর্ধ্ব 50 কি.মি, তাই: 2 x + 60 5 ≤ 50 \\frac{2x + 60}{5} \\leq 50 5 2 x + 60 ​ ≤ 50 এখন সমীকরণটি সমাধান করি: 2 x + 60 ≤ 250 2x + 60 \\leq 250 2 x + 60 ≤ 250 2 x ≤ 190 2x \\leq 190 2 x ≤ 190 x ≤ 95 x \\leq 95 x ≤ 95 যেহেতু x x x কিমি একটি ধনাত্মক সংখ্যা , তাই 0 < x ≤ 95 0 < x \\leq 95 0 < x ≤ 95 হবে।"
+    },
+    {
+      "number": "13",
+      "tag": "SB 24,CPSCR 24",
+      "question": "একটি গাড়ি 2 ঘণ্টায় x কিমি. এবং 3 ঘণ্টায় যায় (x + 60) কিমি.। গাড়িটির গড় গতিবেগ অনুর্ধ্ব 50 কি.মি.। সমস্যাটিতে x এর সম্ভাব্য মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0 < x ≤ 95 0<x\\leq 95 0 < x ≤ 95",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0 < x < 95 0< x < 95 0 < x < 95",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0 < x ≤ 155 0<x\\leq 155 0 < x ≤ 155",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0 < x < 155 0< x < 155 0 < x < 155",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0 < x ≤ 95 0<x\\leq 95 0 < x ≤ 95",
+      "option_b": "0 < x < 95 0< x < 95 0 < x < 95",
+      "option_c": "0 < x ≤ 155 0<x\\leq 155 0 < x ≤ 155",
+      "option_d": "0 < x < 155 0< x < 155 0 < x < 155",
+      "correct": "গ",
+      "explanation": "প্রথমে, গাড়িটির মোট গড় গতিবেগ বের করতে হবে। গাড়িটি প্রথমবার 2 ঘণ্টায় x কিমি এবং দ্বিতীয়বার 3 ঘণ্টায় (x + 60) কিমি অতিক্রম করে। তাহলে মোট দূরত্ব হবে: x + ( x + 60 ) = 2 x + 60 x + (x + 60) = 2x + 60 x + ( x + 60 ) = 2 x + 60 মোট সময় হবে 2 + 3 = 5 ঘণ্টা। তাহলে গড় গতিবেগ হবে: গড় গতিবেগ = মোট দূরত্ব মোট সময় = 2 x + 60 5 \\text{গড় গতিবেগ} = \\frac{\\text{মোট দূরত্ব}}{\\text{মোট সময়}} = \\frac{2x + 60}{5} গড়   গতিবেগ = মোট   সময় মোট   দূরত্ব ​ = 5 2 x + 60 ​ আমরা জানি গড় গতিবেগ অনুর্ধ্ব 50 কি.মি, তাই: 2 x + 60 5 ≤ 50 \\frac{2x + 60}{5} \\leq 50 5 2 x + 60 ​ ≤ 50 এখন সমীকরণটি সমাধান করি: 2 x + 60 ≤ 250 2x + 60 \\leq 250 2 x + 60 ≤ 250 2 x ≤ 190 2x \\leq 190 2 x ≤ 190 x ≤ 95 x \\leq 95 x ≤ 95 যেহেতু x x x কিমি একটি ধনাত্মক সংখ্যা , তাই 0 < x ≤ 95 0 < x \\leq 95 0 < x ≤ 95 হবে।"
+    },
+    {
+      "number": "14",
+      "tag": "SB 24",
+      "question": "একটি ত্রিভুজাকার প্রিজমের ভূমির বাহুগুলোর দৈর্ঘ্য যথাক্রমে 13 সে.মি., 12 সে.মি. ও 5 সে.মি. এবং উচ্চতা 15 সে.মি.। প্রিজমটির আয়তন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ঘন সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ঘন সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "450 ঘন সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "510 ঘন সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ঘন সে.মি.",
+      "option_b": "60 ঘন সে.মি.",
+      "option_c": "450 ঘন সে.মি.",
+      "option_d": "510 ঘন সে.মি.",
+      "correct": "গ",
+      "explanation": "ত্রিভুজটি সমকোণী কারণ, 12 2 + 5 2 = 13 2 12^{2}+5^{2}=13^{2} 1 2 2 + 5 2 = 1 3 2 ∴ \\therefore ∴ প্রিজমটির ভূমির ক্ষেত্রফল = 1 2 × 12 × 5 = 30 =\\frac{1}{2} \\times 12 \\times 5=30 = 2 1 ​ × 12 × 5 = 30 বর্গ সে.মি. ∴ \\therefore ∴ প্রিজমটির আয়তন = = = ভূমির ক্ষেত্রফল x উচ্চতা = 30 × 15 =30 \\times 15 = 30 × 15 ঘন সে.মি. = 450 =450 = 450 ঘন সে.মি."
+    },
+    {
+      "number": "15",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "ক",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "16",
+      "tag": "SB 24",
+      "question": "কোনো ত্রিভুজের উচ্চতা h, ভূমির উপর মধ্যমা d এবং ভূমি সংলগ্ন একটি কোণ ∠ x \\angle \\mathrm{x} ∠ x দেওয়া আছে ত্রিভুজটি অঙ্কন করতে হলে- i. ভূমির উপর লম্ব অঙ্কন করতে হবে ii. ∠ x \\angle \\mathrm{x} ∠ x কে সমদ্বিখন্ডিত করতে হবে, iii. ভূমি থেকে d এর সমান অংশ কাটতে হবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "(i) ভূমির উপর লম্ব অঙ্কন করতে হবে। (ii) ∠কে সমদ্বিখণ্ডিত করতে হবে। (iii) d হচ্ছে মধ্যমা, কাজেই ভূমি থেকে d কেটে নেওয়ার প্রয়োজন নেই।"
+    },
+    {
+      "number": "17",
+      "tag": "SB 24",
+      "question": "cos ⁡ 5 θ = sin ⁡ 5 θ \\cos 5 \\theta=\\sin 5 \\theta cos 5 θ = sin 5 θ হলে, θ \\theta θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π 20 \\frac{ \\pi}{20} 20 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "π 2 \\frac{\\pi}{2} 2 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π 5 \\frac{\\pi}{5} 5 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π 4 \\frac{\\pi}{4} 4 π ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π 20 \\frac{ \\pi}{20} 20 π ​",
+      "option_b": "π 2 \\frac{\\pi}{2} 2 π ​",
+      "option_c": "π 5 \\frac{\\pi}{5} 5 π ​",
+      "option_d": "π 4 \\frac{\\pi}{4} 4 π ​",
+      "correct": "ক",
+      "explanation": "cos ⁡ 5 θ = sin ⁡ 5 θ  বা,  tan ⁡ 5 θ = 1 \\cos 5 \\theta=\\sin 5 \\theta \\text { বা, } \\tan 5 \\theta=1 cos 5 θ = sin 5 θ   বা ,  tan 5 θ = 1 বা, tan ⁡ 5 θ = tan ⁡ π 4 \\tan 5 \\theta=\\tan \\frac{\\pi}{4} tan 5 θ = tan 4 π ​ বা, 5 θ = π 4 , 5 \\theta=\\frac{\\pi}{4}, 5 θ = 4 π ​ , বা, ∴ θ = π 20 , \\therefore \\theta=\\frac{\\pi}{20}, ∴ θ = 20 π ​ ,"
+    },
+    {
+      "number": "18",
+      "tag": "SB 24",
+      "question": "a m = b n \\sqrt[m]{a}=\\sqrt[n]{b} m a ​ = n b ​ এবং a b = 1 a b=1 ab = 1 হলে, ( m + n ) (m+n) ( m + n ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "2",
+      "option_d": "4",
+      "correct": "ঘ",
+      "explanation": "ধরি, a m = b n = k ∴ a = k m \\sqrt[m]{a}=\\sqrt[n]{b}=k \\quad \\therefore a=k^{m} m a ​ = n b ​ = k ∴ a = k m এবং b = k n b=k^{n} b = k n a b = 1 a b=1 ab = 1 হলে, k m ⋅ k n = 1 k^{m} \\cdot k^{n}=1 k m ⋅ k n = 1 বা, k m + n = k 0 ∴ m + n = 0 k^{m+n}=k^{0} \\quad \\therefore m+n=0 k m + n = k 0 ∴ m + n = 0"
+    },
+    {
+      "number": "19",
+      "tag": "CB 25,SB 24,JB 24,CPSCR 24,MC 24,DB 23,MB 23,SB 23,RB 22,DIN.B 22,CTG.B 22,JB 20",
+      "question": "যদি 5 x − 7 ( x − 1 ) ( x − 2 ) ≡ A x − 1 + B x − 2 \\frac{5 x-7}{(x-1)(x-2)} \\equiv \\frac{A}{x-1}+\\frac{B}{x-2} ( x − 1 ) ( x − 2 ) 5 x − 7 ​ ≡ x − 1 A ​ + x − 2 B ​ হয়, যেখানে A ও B মূলদ সংখ্যা, তবে B এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "-2",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "ক",
+      "explanation": "প্রদত্ত সমীকরণটি হলো: 5 x − 7 ( x − 1 ) ( x − 2 ) ≡ A x − 1 + B x − 2 \\frac{5x-7}{(x-1)(x-2)} \\equiv \\frac{A}{x-1}+\\frac{B}{x-2} ( x − 1 ) ( x − 2 ) 5 x − 7 ​ ≡ x − 1 A ​ + x − 2 B ​ এখানে, A এবং B মূলদ সংখ্যা। এদের মান নির্ণয় করতে আমাদের প্রভাজক (partial fraction) পদ্ধতি প্রয়োগ করতে হবে। প্রথমে, সমীকরণকে সাধারণ জানা অংশে নির্ণয় করি: ( 5x - 7 = A(x-2) + B(x-1) ) এটি সহজ করার জন্য আমরা সমীকরণটি দুই পাশে প্রসারণ করব: ( 5x - 7 = Ax - 2A + Bx - B ) এরপর আমরা লাইক টার্মগুলো একত্রিত করি: ( 5x - 7 = (A + B)x - (2A + B) ) এখন, x এর সহগের তুলনা করে পাই: ( A + B = 5 ) এবং ধ্রুবক টার্মের তুলনা করে পাই: ( 2A + B = 7 ) এখন, প্রথম সমীকরণ থেকে B এর মান বের করি: ( B = 5 - A ) এটি দ্বিতীয় সমীকরণে প্রতিস্থাপন করি: ( 2A + (5 - A) = 7 ) সরলীকরণ করে পাই: ( A + 5 = 7 ) ( A = 2 ) এখন B এর মান বের করি: ( B = 5 - A = 5 - 2 = 3 ) সুতরাং, B এর মান 3।"
+    },
+    {
+      "number": "20",
+      "tag": "CTG.B 25,SB 25,CB 24,CTG.B 24,SB 24,HC 24,BNMPC 24,NISD 24,CPSCR 24,RCS 24,MB 23,RB 21,DIN.B 21,CB 21,SB 21,BB 21,DB 19,CTG.B 19,SB 19",
+      "question": "f ( x ) = x 2  হলে-  f(x)=x^{2} \\text { হলে- } f ( x ) = x 2   হলে -  i. ডোম f = R f=\\mathbb{R} f = R ii. রেঞ্জ f = { y ∈ R : y ≥ 0 } f=\\{y \\in \\mathbb{R}: y \\geq 0\\} f = { y ∈ R : y ≥ 0 } iii. f এক-এক ফাংশন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "প্রদত্ত f ( x ) = x 2 f(x) = x^2 f ( x ) = x 2 একটি স্কয়ার ফাংশন যা আমাদের বাস্তব সংখ্যাগুলি থেকে বাস্তব সংখ্যাগুলিতে ম্যাপ করে। i. ডোমেইন f = R f = \\mathbb{R} f = R : এই ব্যাপারটি সঠিক কারণ আমরা যে কোনও বাস্তব সংখ্যাকে ইনপুট হিসাবে ব্যবহার করতে পারি। ii. রেঞ্জ f = { y ∈ R : y ≥ 0 } f = \\{y \\in \\mathbb{R} : y \\geq 0\\} f = { y ∈ R : y ≥ 0 } : এই ব্যাপারটি সঠিক যেহেতু ফাংশন f ( x ) = x 2 f(x) = x^2 f ( x ) = x 2 এর আউটপুট কখনোই নেতিবাচক হয় না, কারণ x 2 x^2 x 2 সর্বদা ধনাত্মক বা শূণ্য হয়। iii. f এক-এক ফাংশন না: একটি এক-এক ফাংশন হবে কেবল তখনই যখন ভিন্ন ইনপুটের জন্য আলাদা আউটপুট তৈরি করবে। এখানে x 2 x^2 x 2 ফাংশন একাধিক ইনপুটের জন্য একই আউটপুট প্রদানে সক্ষম যেমন, f ( 1 ) = 1 f(1) = 1 f ( 1 ) = 1 এবং f ( − 1 ) = 1 f(-1) = 1 f ( − 1 ) = 1 । সুতরাং এটি এক-এক ফাংশন নয়। অতএব, সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "21",
+      "tag": "SB 24",
+      "question": "( 1 + x 4 ) 7 \\left(1+\\frac{x}{4}\\right)^{7} ( 1 + 4 x ​ ) 7 এর বিস্তৃতিতে x 2 x^{2} x 2 এর সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7 4 \\frac{7}{4} 4 7 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "21 4 \\frac{21}{4} 4 21 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "21 16 \\frac{21}{16} 16 21 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "35 64 \\frac{35}{64} 64 35 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7 4 \\frac{7}{4} 4 7 ​",
+      "option_b": "21 4 \\frac{21}{4} 4 21 ​",
+      "option_c": "21 16 \\frac{21}{16} 16 21 ​",
+      "option_d": "35 64 \\frac{35}{64} 64 35 ​",
+      "correct": "গ",
+      "explanation": "ধরি পদটি, 7 c p ( x 4 ) p { }^{7} c_{p}\\left(\\frac{x}{4}\\right)^{p} 7 c p ​ ( 4 x ​ ) p x 2 x^{2} x 2 এর সহগের জন্য r=2 তাহলে 7 7 2 x 4 2 = 7 × 6 2 × 1 × x 2 16 ) 2 = 21 16 x 2 \\begin{aligned} & { }^{7^{7_{2}}} \\frac{x}{4}^{2} \\\\ = & \\left.\\frac{7 \\times 6}{2 \\times 1} \\times \\frac{x^{2}}{16}\\right)^{2} \\\\ = & \\frac{21}{16} x^{2} \\end{aligned} = = ​ 7 7 2 ​ 4 x ​ 2 2 × 1 7 × 6 ​ × 16 x 2 ​ ) 2 16 21 ​ x 2 ​"
+    },
+    {
+      "number": "22",
+      "tag": "CB 23,SB 23,BB 23,DIN.B 21,SB 21,JB 21,ACC 24",
+      "question": "− 3 -\\sqrt{3} − 3 ​ ঢালবিশিষ্ট সরলরেখাটি x x x অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণে উৎপন্ন করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "300 ∘ 300^{\\circ} 30 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "150 ∘ 150^{\\circ} 15 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "300 ∘ 300^{\\circ} 30 0 ∘",
+      "option_b": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_c": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_d": "150 ∘ 150^{\\circ} 15 0 ∘",
+      "correct": "ক",
+      "explanation": "tan ⁡ θ = m \\tan \\theta=m tan θ = m m = − 3 m=-\\sqrt{3} m = − 3 ​ এখন, tan ⁡ θ = − 3 ⇒ θ = tan ⁡ − 1 ( − 3 ) \\tan \\theta=-\\sqrt{3} \\Rightarrow \\theta=\\tan ^{-1}(-\\sqrt{3}) tan θ = − 3 ​ ⇒ θ = tan − 1 ( − 3 ​ ) tan ⁡ 60 ∘ = 3 ⇒ tan ⁡ − 1 ( 3 ) = 60 ∘ ⇒ tan ⁡ − 1 ( − 3 ) = − 60 ∘ \\tan 60^{\\circ}=\\sqrt{3} \\Rightarrow \\tan ^{-1}(\\sqrt{3})=60^{\\circ} \\Rightarrow \\tan ^{-1}(-\\sqrt{3})=-60^{\\circ} tan 6 0 ∘ = 3 ​ ⇒ tan − 1 ( 3 ​ ) = 6 0 ∘ ⇒ tan − 1 ( − 3 ​ ) = − 6 0 ∘ এখানে − 60 ∘ -60^{\\circ} − 6 0 ∘ অর্থ হলো রেখাটি x x x -অক্ষের ধনাপ্মক দিকের নিচের দিকে 60 ∘ 60^{\\circ} 6 0 ∘ কোণে নিচের দিকে যাচ্ছে। কিত্ত রেখাটি x x x -অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ বলতে বোবানো হয় ধনাত্মক কোণ, অর্থাৎ: θ = 180 ∘ − 60 ∘ = 120 ∘ \\theta=180^{\\circ}-60^{\\circ}=120^{\\circ} θ = 18 0 ∘ − 6 0 ∘ = 12 0 ∘"
+    },
+    {
+      "number": "23",
+      "tag": "SB 24",
+      "question": "একটি সরলরেখার ঢাল − 1 3 -\\frac{1}{\\sqrt{3}} − 3 ​ 1 ​ এবং রেখাটি ( − 2 , 0 ) (-2,0) ( − 2 , 0 ) বিন্দুগামী। সরলরেখাটির সমীকরণ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x + 3 y + 2 = 0 x+\\sqrt{3} y+2=0 x + 3 ​ y + 2 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x − 3 y − 2 = 0 x-\\sqrt{3} y-2=0 x − 3 ​ y − 2 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 x − y + 2 = 0 \\sqrt{3} x-y+2=0 3 ​ x − y + 2 = 0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 x + y − 2 = 0 \\sqrt{3} x+y-2=0 3 ​ x + y − 2 = 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x + 3 y + 2 = 0 x+\\sqrt{3} y+2=0 x + 3 ​ y + 2 = 0",
+      "option_b": "x − 3 y − 2 = 0 x-\\sqrt{3} y-2=0 x − 3 ​ y − 2 = 0",
+      "option_c": "3 x − y + 2 = 0 \\sqrt{3} x-y+2=0 3 ​ x − y + 2 = 0",
+      "option_d": "3 x + y − 2 = 0 \\sqrt{3} x+y-2=0 3 ​ x + y − 2 = 0",
+      "correct": "গ",
+      "explanation": "( − 2 , 0 ) (-2,0) ( − 2 , 0 ) বিন্দুগামী ও − 1 3 ও-\\frac{1}{\\sqrt{3}} ও − 3 ​ 1 ​ ঢালবিশিষ্ট সরলরেখার সমীকরণ, y − 0 = − 1 3 ( x + 2 ) y-0=-\\frac{1}{\\sqrt{3}}(x+2) y − 0 = − 3 ​ 1 ​ ( x + 2 ) বা, 3 y = − x − 2 ∴ x + 3 y + 2 = 0 \\sqrt{3} y=-x-2 \\therefore x+\\sqrt{3} y+2=0 3 ​ y = − x − 2 ∴ x + 3 ​ y + 2 = 0"
+    },
+    {
+      "number": "24",
+      "tag": "SB 24",
+      "question": "দুইটি ধনাত্মক সংখ্যার বর্গের সমষ্টি 170 এবং সংখ্যাদ্বয়ের গুণফল 77 হলে, এ সংখ্যাদ্বয়ের বর্গের অন্তর কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "51",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "72",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "85",
+          "is_correct": true
+        }
+      ],
+      "option_a": "18",
+      "option_b": "51",
+      "option_c": "72",
+      "option_d": "85",
+      "correct": "ঘ",
+      "explanation": "ধরি, সংখ্যাদ্বয় x  ও   y ( x > y ) x 2 + y 2 = 170  এবং  x y = 77 ( x + y ) 2 = x 2 + y 2 + 2 x y = 324 ∴ x + y = 18 ( x − y ) 2 = x 2 + y 2 − 2 x y = 16 ∴ x − y = 4 ∴ x 2 − y 2 = ( x + y ) ( x − y ) = 18 × 4 = 72 \\begin{array}{l}\\text { ধরি, সংখ্যাদ্বয় x ~ও~ } y(x>y) \\\\ x^{2}+y^{2}=170 \\text { এবং } x y=77 \\\\ (x+y)^{2}=x^{2}+y^{2}+2 x y=324 \\therefore x+y=18 \\\\ (x-y)^{2}=x^{2}+y^{2}-2 x y=16 \\therefore x-y=4 \\\\ \\therefore x^{2}-y^{2}=(x+y)(x-y)=18 \\times 4=72\\end{array}   ধরি ,  সংখ্যাদ্বয়  x    ও     y ( x > y ) x 2 + y 2 = 170   এবং   x y = 77 ( x + y ) 2 = x 2 + y 2 + 2 x y = 324 ∴ x + y = 18 ( x − y ) 2 = x 2 + y 2 − 2 x y = 16 ∴ x − y = 4 ∴ x 2 − y 2 = ( x + y ) ( x − y ) = 18 × 4 = 72 ​"
+    },
+    {
+      "number": "25",
+      "tag": "SB 24,CPSCR 24",
+      "question": "P Q → = m R S →  হলে,  \\overrightarrow{\\mathrm{PQ}}=\\mathrm{m} \\overrightarrow{\\mathrm{RS}} \\text { হলে, } PQ ​ = m RS   হলে ,  i. P Q ∥ R S P Q \\| R S PQ ∥ RS ii. P Q → \\overrightarrow{P Q} PQ ​ ও R S → \\overrightarrow{R S} RS সমমুখী হবে যখন m > 0 m>0 m > 0 iii. P Q → \\overrightarrow{\\mathrm{PQ}} PQ ​ ও R S → \\overrightarrow{\\mathrm{RS}} RS বিপরীতমুখী হবে যখন m < 0 m<0 m < 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "m স্কেলার রাশি তাই, P Q ∥ R S P Q \\| R S PQ ∥ RS m > 0 হলে দিক একই হয়। m < 0 হলে দিক বিপরীতমুখি হয়।"
+    }
+  ]
+}

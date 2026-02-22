@@ -1,0 +1,822 @@
+{
+  "read_id": "TZHxHojk7rHrp4go",
+  "title": "দিনাজপুর বোর্ড ২০২১",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DIN.B 21",
+      "question": "নিম্নের কোনটি এসি তড়িৎ উৎসের প্রতীক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "",
+          "is_correct": true
+        }
+      ],
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "correct": "গ",
+      "explanation": "পর্দায় প্রদত্ত চারটি উপস্থাপনার মধ্যে, অপশন B-য়ে যেটি গোল চতুর্ভুজের মাঝে ঢেউয়ের চিহ্ন রয়েছে সেটি এসি তড়িৎ উৎসের প্রতীক। ফলে সঠিক উত্তরটি হচ্ছে অপশন B। এসি (Alternating Current) এর প্রতীক সাধারণত একটি ওয়েভ বা ঢেউ এর মত চিহ্ন দ্বারা প্রকাশিত হয়, কারণ এসি ভোল্টেজ বা কারেন্ট তার ধ্রুবকতা পরিবর্তন করে এবং একটি নির্দিষ্ট ফ্রিকোয়েন্সিতে দোলায়িত হয়।"
+    },
+    {
+      "number": "2",
+      "tag": "DIN.B 21",
+      "question": "পরিবাহীর দৈর্ঘ্য অর্ধেক করা হলে রোধের কী পরিবর্তন হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 4 \\frac{1}{4} 4 1 ​ গুণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​ গুণ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 গুণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 গুণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 4 \\frac{1}{4} 4 1 ​ গুণ",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​ গুণ",
+      "option_c": "2 গুণ",
+      "option_d": "4 গুণ",
+      "correct": "খ",
+      "explanation": "সমাধান: পরিবাহীর রোধ (\\ R \\ ) নির্ণয় করার জন্য, রোধের সূত্র নিচের মত: \\ R = \\\\rho \\\\frac{L}{A} \\ এখানে, \\ \\\\rho \\ হল পরিবাহীর নির্দিষ্ট রোধ, \\ L \\ হল পরিবাহীর দৈর্ঘ্য এবং \\ A \\ হল ক্রস-সেকশানাল এলাকা। যদি পরিবাহীর দৈর্ঘ্য অর্ধেক করা হয় অর্থাৎ \\ L/2 \\ হয়, তবে রোধ হবে: \\ R_{new} = \\\\rho \\\\frac{L/2}{A} = \\\\frac{1}{2}\\\\rho \\\\frac{L}{A} = \\\\frac{R}{2} \\ অতএব, রোধ হবে পূর্বের রোধের \\ \\\\frac{1}{2} \\ গুণ। সঠিক উত্তর: \\ \\\\frac{1}{2} \\ গুণ (অপশন B)"
+    },
+    {
+      "number": "3",
+      "tag": "DIN.B 21",
+      "question": "কর্মদক্ষতা ( η \\eta η ), কাজের পরিমাণ (W), প্রদত্ত শক্তি (E) এবং শক্তির অপচয় (E1) হলে কোন সূত্রটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "η = E W × 100 % \\eta=\\frac{E}{W} \\times 100 \\% η = W E ​ × 100%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "η = E l − E E × 100 % \\eta=\\frac{E_{l}-E}{E} \\times 100 \\% η = E E l ​ − E ​ × 100%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "η = E − E I E × 100 % \\eta=\\frac{E-E_{I}}{E} \\times 100 \\% η = E E − E I ​ ​ × 100%",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "η = E W 100 % \\eta=\\frac{E W}{100} \\% η = 100 E W ​ %",
+          "is_correct": false
+        }
+      ],
+      "option_a": "η = E W × 100 % \\eta=\\frac{E}{W} \\times 100 \\% η = W E ​ × 100%",
+      "option_b": "η = E l − E E × 100 % \\eta=\\frac{E_{l}-E}{E} \\times 100 \\% η = E E l ​ − E ​ × 100%",
+      "option_c": "η = E − E I E × 100 % \\eta=\\frac{E-E_{I}}{E} \\times 100 \\% η = E E − E I ​ ​ × 100%",
+      "option_d": "η = E W 100 % \\eta=\\frac{E W}{100} \\% η = 100 E W ​ %",
+      "correct": "গ",
+      "explanation": "কর্মদক্ষতা ( η \\eta η ) হিসাব করার জন্য আমরা ব্যবহার করি: η = আউটপুট শক্তি ইনপুট শক্তি × 100 % \\eta = \\frac{\\text{আউটপুট শক্তি}}{\\text{ইনপুট শক্তি}} \\times 100 \\% η = ইনপুট   শক্তি আউটপুট   শক্তি ​ × 100% এখানে প্রদত্ত শক্তি (ইনপুট শক্তি) E E E এবং শক্তির অবচয় E 1 E_1 E 1 ​ । কাজের পরিমাণ হিসাবে শক্তির পরিবর্তন E − E 1 E - E_1 E − E 1 ​ ব্যবহার করা হয়। সুতরাং কর্মদক্ষতা নির্ণয়ের সঠিক সূত্র হবে: η = E − E 1 E × 100 % \\eta=\\frac{E-E_1}{E} \\times 100 \\% η = E E − E 1 ​ ​ × 100% সুতরাং সঠিক উত্তরটি হল C: η = E − E 1 E × 100 % \\eta=\\frac{E-E_{1}}{E} \\times 100 \\% η = E E − E 1 ​ ​ × 100%"
+    },
+    {
+      "number": "4",
+      "tag": "DIN.B 21",
+      "question": "বস্তুটিকে A থেকে B তে নিতে কৃতকাজ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1960 J",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3920 J",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5880 J",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9800 J",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1960 J",
+      "option_b": "3920 J",
+      "option_c": "5880 J",
+      "option_d": "9800 J",
+      "correct": "খ",
+      "explanation": "A থেকে B তে নিতে কৃতকাজ, E P = E P B − E P A = m g h B − m g h = m g ( h B − h A ) = 10 × 9.8 ( 40 − 0 ) = 3920   J \\begin{aligned} E_{P} & =E_{P_{B}}-E_{P_{A}} \\\\ & =m g h_{B}-m g h \\\\ & =m g\\left(h_{B}-h_{A}\\right) \\\\ & =10 \\times 9.8(40-0) \\\\ & =3920 \\mathrm{~J}\\end{aligned} E P ​ ​ = E P B ​ ​ − E P A ​ ​ = m g h B ​ − m g h = m g ( h B ​ − h A ​ ) = 10 × 9.8 ( 40 − 0 ) = 3920   J ​"
+    },
+    {
+      "number": "5",
+      "tag": "DIN.B 21",
+      "question": "বস্তুটি C থেকে মুক্তভাবে পড়লে- i. A বিন্দুতে মোট শক্তি 9800 J ii. B বিন্দুতে বস্তুটির বেগ 34.29 ms − 1 ^{-1} − 1 iii. B বিন্দুতে গতিশক্তি ও বিভব শক্তি সমান নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "A বিন্দুতে মোট শক্তি = বিভব শক্তি + গতিশক্তি এখানে, = 0 + 1 2 m v 2 = 1 2 m v 2 … … … ( i ) \\begin{array}{l} =0+\\frac{1}{2} m v^{2} \\\\ =\\frac{1}{2} m v^{2} \\ldots \\ldots \\ldots(i) \\end{array} = 0 + 2 1 ​ m v 2 = 2 1 ​ m v 2 ……… ( i ) ​ অভিকর্ষজ ত্বরণ , g = 9.8   m s − 2 \\mathrm{g}=9.8 \\mathrm{~ms}^{-2} g = 9.8   ms − 2 অতিক্রান্ত দূরত্ব , h = 100   m \\mathrm{h}=100 \\mathrm{~m} h = 100   m ∴ v 2 = u 2 + 2 g h = 0 + 2 g h = 2 g h \\begin{aligned} \\therefore v^{2} & =u^{2}+2 g h \\\\ & =0+2 g h=2 g h \\end{aligned} ∴ v 2 ​ = u 2 + 2 g h = 0 + 2 g h = 2 g h ​  (i) হতে পাই, A বিন্দুতে মোট শক্তি  = 1 2 × m × 2 g h = m g h = 10 × 9.8 × 100 = 9800   J \\begin{aligned} \\text { (i) হতে পাই, A বিন্দুতে মোট শক্তি } & =\\frac{1}{2} \\times \\mathrm{m} \\times 2 \\mathrm{gh} \\\\ & =\\mathrm{mgh} \\\\ & =10 \\times 9.8 \\times 100 \\\\ & =9800 \\mathrm{~J} \\end{aligned}  (i)  হতে   পাই , A  বিন্দুতে   মোট   শক্তি   ​ = 2 1 ​ × m × 2 gh = mgh = 10 × 9.8 × 100 = 9800   J ​ (ii) C থেকে B তে আসলে অতিক্রান্ত দূরত্ব , h = ( 100 − 40 ) m \\mathrm{h}=(100-40) \\mathrm{m} h = ( 100 − 40 ) m = 60   m =60 \\mathrm{~m} = 60   m এখানে, আদিবেগ , u = 0   m s − 1 \\mathrm{u}=0 \\mathrm{~ms}^{-1} u = 0   ms − 1 অতিক্রান্ত দূরত্ব, h = 60   m \\mathrm{h}=60 \\mathrm{~m} h = 60   m অভিকর্ষজ ত্বরণ , g = 9.8   m s − 2 \\mathrm{g}=9.8 \\mathrm{~ms}^{-2} g = 9.8   ms − 2 B বিন্দুতে শেষ বেগ , v = v= v = ? আমরা জানি, v 2 = u 2 + 2 g h v^{2}=u^{2}+2 g h v 2 = u 2 + 2 g h বা, v 2 = 0 + 2 g h v^{2}=0+2 g h v 2 = 0 + 2 g h বা, v 2 = 2 g h v^{2}=2 g h v 2 = 2 g h বा, v = 2 g h {v}=\\sqrt{2 g h} v = 2 g h ​ বা, v = 2 × 9.8 × 60 v=\\sqrt{2 \\times 9.8 \\times 60} v = 2 × 9.8 × 60 ​ ∴ v = 34.29   m s − 1 \\therefore v=34.29 \\mathrm{~ms}^{-1} ∴ v = 34.29   ms − 1 (iii) B বিন্দুত গতিশক্তি, T B = 1 2 m v B 2 \\mathrm{T}_{\\mathrm{B}}=\\frac{1}{2} \\mathrm{mv}_{\\mathrm{B}}^{2} T B ​ = 2 1 ​ mv B 2 ​ = 1 2 × 10 × ( 34.29 ) 2 = 5880   J \\begin{array}{l} =\\frac{1}{2} \\times 10 \\times(34.29)^{2} \\\\ =5880 \\mathrm{~J} \\end{array} = 2 1 ​ × 10 × ( 34.29 ) 2 = 5880   J ​ আবার ভূমি থেকে B বিন্দুর উচ্চতা , h = 40   m h=40 \\mathrm{~m} h = 40   m সুতরাং, B বিন্দুতে বিভব শক্তি = m g b =m g b = m g b = 10 × 9.8 × 40 = 3920   J \\begin{array}{l} =10 \\times 9.8 \\times 40 \\\\ =3920 \\mathrm{~J} \\end{array} = 10 × 9.8 × 40 = 3920   J ​ কাজেই B বিন্দুতে বিভব শক্তি ও গতিশক্তি সমান নয়।"
+    },
+    {
+      "number": "6",
+      "tag": "DIN.B 21",
+      "question": "ইউরেনিয়ামের চেইন বিক্রিয়ায় দ্বিতীয় ধাপে কতটি নিউট্রন নির্গত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২ টি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 টি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6 টি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9 টি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "২ টি",
+      "option_b": "3 টি",
+      "option_c": "6 টি",
+      "option_d": "9 টি",
+      "correct": "ঘ",
+      "explanation": "0 1 n + 92 235 U → 36 92 K r + 56 141 B a + 3 0 1 n { }_{0}^{1} n+{ }_{92}^{235} U \\rightarrow{ }_{36}^{92} K r+{ }_{56}^{141} B a+3{ }_{0}^{1} n 0 1 ​ n + 92 235 ​ U → 36 92 ​ Kr + 56 141 ​ B a + 3 0 1 ​ n এটি ইউরেনিয়ামের চেইন বিক্রিয়ায় প্রথম ধাপ । দ্বিতীয় ধাপে 3টি নিউট্রন প্রত্যেক নিউট্রন 3টা করে মোট 9টা নিউট্রন নির্গত করবে"
+    },
+    {
+      "number": "7",
+      "tag": "DIN.B 21",
+      "question": "একটি বস্তুকে 19.6 m/s বেগে খাড়া উপরের দিকে নিক্ষেপ করলে বস্তুটি সর্বোচ্চ কত উচ্চতায় উঠবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4.9 m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9.8 m",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "19.6 m",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 m",
+      "option_b": "4.9 m",
+      "option_c": "9.8 m",
+      "option_d": "19.6 m",
+      "correct": "ঘ",
+      "explanation": "সর্বোচ্চউচ্চতা H , = u 2 2 g = 19.6 2 2 × 9.8 = 19.6   m \\begin{aligned} সর্বোচ্চ উচ্চতা H, & =\\frac{u^{2}}{2 g} \\\\ & =\\frac{19.6^{2}}{2 \\times 9.8} \\\\ & =19.6 \\mathrm{~m}\\end{aligned} সর্বোচ্চউচ্চতা H , ​ = 2 g u 2 ​ = 2 × 9.8 19. 6 2 ​ = 19.6   m ​"
+    },
+    {
+      "number": "8",
+      "tag": "DIN.B 21",
+      "question": "রিমোট কন্ট্রোলার থেকে কোন ধরনের আলো বের হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আল্ট্রা ভায়োলেট",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মাইক্রোওয়েভ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "এক্স-রে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইনফ্রারেড",
+          "is_correct": true
+        }
+      ],
+      "option_a": "আল্ট্রা ভায়োলেট",
+      "option_b": "মাইক্রোওয়েভ",
+      "option_c": "এক্স-রে",
+      "option_d": "ইনফ্রারেড",
+      "correct": "ঘ",
+      "explanation": "টেলিভিশনের রিমোট কন্ট্রোল করার ইউনিট থেকে বের হওয়া ইনফ্রারেড আলোর তরঙ্গদৈর্ঘ্য বেশি বলে আমরা খালি চোখে দেখতে পাই না। এজন্য রিমোট কন্ট্রোল করার ইউনিট থেকে আমরা কোনো আলো বের হতে দেখি না।"
+    },
+    {
+      "number": "9",
+      "tag": "RB 24,DIN.B 21",
+      "question": "লক্ষ্যবস্তু থেকে বিম্বের দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 cm দর্পনের সামনে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 cm দর্পনের পিছনে",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 cm দর্পনের সামনে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 cm দর্পনের পিছনে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 cm দর্পনের সামনে",
+      "option_b": "2 cm দর্পনের পিছনে",
+      "option_c": "1 cm দর্পনের সামনে",
+      "option_d": "1 cm দর্পনের পিছনে",
+      "correct": "খ",
+      "explanation": "u = 1   c m , f = 2   c m ⋅ 1 u + 1 v = 1 f  बा,  1 v = 1 2 − 1 1 = − 1 2 ∴ v = − 2   c m \\mathrm{u}=1 \\mathrm{~cm}, \\mathrm{f}=2 \\mathrm{~cm} \\cdot \\frac{1}{\\mathrm{u}}+\\frac{1}{\\mathrm{v}}=\\frac{1}{\\mathrm{f}} \\text { बा, } \\frac{1}{\\mathrm{v}}=\\frac{1}{2}-\\frac{1}{1}=-\\frac{1}{2} \\therefore \\mathrm{v}=-2 \\mathrm{~cm} u = 1   cm , f = 2   cm ⋅ u 1 ​ + v 1 ​ = f 1 ​   बा ,  v 1 ​ = 2 1 ​ − 1 1 ​ = − 2 1 ​ ∴ v = − 2   cm ∴ \\therefore ∴ বিম্ব দর্পণের 2 cm পেছনে গঠিত হবে।"
+    },
+    {
+      "number": "10",
+      "tag": "DIN.B 21",
+      "question": "বিম্বটি- i. অবাস্তব ও সোজা ii. লক্ষ্যবস্তু থেকে বড় iii. প্রধান ফোকাসে গঠিত হবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "অবতল দর্পণের মেরুবিন্দু ও প্রধান ফোকাসের মাঝে লক্ষ্যবস্তু স্থাপন করলে এর বিম্ব হয়ঃ -অবাস্তব -সোজা -বিবর্ধিত - দর্পণের পিছনে গঠিত হয়"
+    },
+    {
+      "number": "11",
+      "tag": "DIN.B 21",
+      "question": "নীল কাচের মধ্য দিয়ে হলুদ ফুল কেমন দেখাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সাদা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নীল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "হলুদ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কালো",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সাদা",
+      "option_b": "নীল",
+      "option_c": "হলুদ",
+      "option_d": "কালো",
+      "correct": "ঘ",
+      "explanation": "হলুদ রঙ = লাল + সবুজ আলোর সংমিশ্রণ। নীল কাচ = কেবল নীল আলো কে পাস করতে দেয়, অন্য সব রঙের আলো (যেমন লাল, সবুজ ) শোষণ করে নেয়। ফলে হলুদ ফুল থেকে যে আলো বের হয় (লাল ও সবুজ), তা নীল কাচ পাস করতে দেয় না । ফলে কাচের মাধ্যমে হলুদ ফুল কালো দেখাবে"
+    },
+    {
+      "number": "12",
+      "tag": "DB 21,DIN.B 21",
+      "question": "সাধারণ আয়নায় প্রতিবিম্ব ডান-বাম অবিকৃত রাখতে হলে দুটি আয়নাকে কত কোণে রাখতে হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90°",
+          "is_correct": true
+        }
+      ],
+      "option_a": "30°",
+      "option_b": "45°",
+      "option_c": "60°",
+      "option_d": "90°",
+      "correct": "ঘ",
+      "explanation": "দুইটি আয়নাকে 90° ডিগ্রী কোণে যুক্ত করে একটি আয়না হিসেবে গঠন করলে তাতে প্রতিবিম্বের পার্শ্ব পরিবর্তন বুঝা যাবে না। কারন পরস্পর লম্বভাবে থাকা আয়নায় আলো পর পর দুইবার প্রতিফলিত হয়। ১ম আয়নায় প্রতিফলনের ফলে আলোর দিক উল্টে যায়। অর্থাৎ বাম দিক ডান এ পরিনত হয়। আবার এই দিক পরিবর্তিত আলো ২য় আয়নার প্রতিফলিত হয়ে আরেকবার একইভাবে দিক উল্টে যেয়ে আগের মতো সোজা অবস্থায় ফিরে আসে। অর্থাৎ যে বাম দিক ডান এ পরিণত হয়েছিল সে আবার বাম এ পরিণত হয়।"
+    },
+    {
+      "number": "13",
+      "tag": "DIN.B 21",
+      "question": "ভার্নিয়ার স্কেলের সাহায্যে সর্বনিম্ন কত দৈর্ঘ্য পর্যন্ত মাপা যায় যখন ভার্নিয়ারের ভাগ সংখ্যা 10?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.1 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.01 m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.001 m",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.0001 m",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0.1 m",
+      "option_b": "0.01 m",
+      "option_c": "0.001 m",
+      "option_d": "0.0001 m",
+      "correct": "ঘ",
+      "explanation": "ভার্নিয়ার ক্যালিপারের জন্য সবচেয়ে গুরুত্বপূর্ণ বিষয় হচ্ছে তার \"লেসট কাউন্ট\" বা সবচেয়ে ছোট পরিমাপের সংখ্যা। ভার্নিয়ার স্কেলের \"লেসট কাউন্ট\" নির্ণয় করতে নিম্নলিখিত সূত্র প্রযোজ্য: লেসট কাউন্ট = ( মেইন স্কেল রিডিং − ভার্নিয়ার স্কেল রিডিং ) \\text{লেসট কাউন্ট} = \\left(\\text{মেইন স্কেল রিডিং} - \\text{ভার্নিয়ার স্কেল রিডিং}\\right) লেসট   কাউন্ট = ( মেইন   স্কেল   রিডিং − ভার্নিয়ার   স্কেল   রিডিং ) এখানে ভার্নিয়ার স্কেলের ভাগ সংখ্যা 10 বলে উল্লেখ করা হয়েছে। সাধারণত, মেইন স্কেলের প্রতি ভাগ 1 মিমি হয়। তাই, লেসট কাউন্ট = 1 mm 10 = 0.1 mm = 0.01 cm = 0.0001 m \\text{লেসট কাউন্ট} = \\frac{1 \\text{mm}}{10} = 0.1 \\text{mm} = 0.01 \\text{cm} = 0.0001 \\text{m} লেসট   কাউন্ট = 10 1 mm ​ = 0.1 mm = 0.01 cm = 0.0001 m সুতরাং, ভার্নিয়ার স্কেলের সাহায্যে সর্বনিম্ন দৈর্ঘ্য যা মাপা সম্ভব তা হল 0.0001 0.0001 0.0001 মিটার।"
+    },
+    {
+      "number": "14",
+      "tag": "CB 22,DIN.B 21",
+      "question": "নিচের কোনটি স্প্রিং ধ্রুবকের একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "N m − 1 \\mathrm{Nm}^{-1} Nm − 1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "J s − 2 \\mathrm{Js}^{-2} Js − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "k g m − 2 \\mathrm{kgm}^{-2} kgm − 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "J m \\mathrm{Jm} Jm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "N m − 1 \\mathrm{Nm}^{-1} Nm − 1",
+      "option_b": "J s − 2 \\mathrm{Js}^{-2} Js − 2",
+      "option_c": "k g m − 2 \\mathrm{kgm}^{-2} kgm − 2",
+      "option_d": "J m \\mathrm{Jm} Jm",
+      "correct": "ক",
+      "explanation": "F = k x \\mathrm{F}=\\mathrm{kx} F = kx বা, k = F x \\mathrm{k}=\\frac{\\mathrm{F}}{\\mathrm{x}} k = x F ​ এখানে, k এর একক N m \\frac{\\mathrm{N}}{\\mathrm{m}} m N ​ বা N m − 1 \\mathrm{Nm}^{-1} Nm − 1 . W = 1 2 k x 2 \\mathrm{W}=\\frac{1}{2} \\mathrm{kx}^{2} W = 2 1 ​ kx 2 বা, k = 2   W x 2 \\mathrm{k}=\\frac{2 \\mathrm{~W}}{\\mathrm{x}^{2}} k = x 2 2   W ​ এখানে k এর একক J m 2 \\frac{\\mathrm{J}}{\\mathrm{m}^{2}} m 2 J ​ বা J m − 2 \\mathrm{Jm}^{-2} Jm − 2"
+    },
+    {
+      "number": "15",
+      "tag": "DIN.B 21",
+      "question": "কোন যন্ত্রের সাহায্যে সরাসরি নিখুঁতভাবে দৈর্ঘ্য মাপা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মিটার স্কেল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ভার্নিয়ার স্কেল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্লাইড ক্যালিপার্স",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ডিজিটাল স্লাইড ক্যালিপার্স",
+          "is_correct": true
+        }
+      ],
+      "option_a": "মিটার স্কেল",
+      "option_b": "ভার্নিয়ার স্কেল",
+      "option_c": "স্লাইড ক্যালিপার্স",
+      "option_d": "ডিজিটাল স্লাইড ক্যালিপার্স",
+      "correct": "ঘ",
+      "explanation": "সঠিক উত্তর হলো: ডিজিটাল স্লাইড ক্যালিপার্স ব্যাখ্যা: ডিজিটাল স্লাইড ক্যালিপার্স যন্ত্রটি সরাসরি দৈর্ঘ্যের মাপ মানসিং হারে নিখুঁতভাবে প্রদর্শন করে। এটি সাধারণত ডিজিটাল ডিসপ্লে ব্যবহারের মাধ্যমে একটি নির্দিষ্ট কাজ সম্পন্ন করে যা মিটার স্কেল বা ভার্নিয়ার স্কেলের থেকে বেশি নির্ভুলতা প্রদান করে।"
+    },
+    {
+      "number": "16",
+      "tag": "DIN.B 21",
+      "question": "100 মিটার ব্যাসার্ধবিশিষ্ট একটি বৃত্তাকার পথ একবার ঘুরে আসতে এক ব্যক্তির সময় লাগে 2 মিনিট। এক মিনিট ঘুরার পর তার সরণ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "100 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "200 মিটার",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "314.16 মিটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "100 মিটার",
+      "option_c": "200 মিটার",
+      "option_d": "314.16 মিটার",
+      "correct": "গ",
+      "explanation": "১০০ মিটার ব্যাসার্ধবিশিষ্ট একটি বৃত্তাকার পথে এক মিনিট ঘুরার পর ব্যক্তির সরণ হবে ২০০ মিটার । ব্যক্তিটি ২ মিনিটে সম্পূর্ণ বৃত্তাকার পথ একবার ঘুরে আসে। অর্থাৎ, ২ মিনিটে সে তার যাত্রা বিন্দুতে ফিরে আসে। এর অর্থ হলো, ১ মিনিটে সে বৃত্তাকার পথের ঠিক অর্ধেকটা অতিক্রম করবে। বৃত্তের অর্ধেক পথ অতিক্রম করার পর, ব্যক্তিটি তার শুরুর বিন্দুর ঠিক বিপরীতে অবস্থান করবে। এই ক্ষেত্রে সরণ হলো শুরুর বিন্দু থেকে শেষ বিন্দুর সরলরৈখিক দূরত্ব। বৃত্তের একপাশ থেকে ঠিক উল্টো পাশে পৌঁছানোর সরণ হলো বৃত্তের ব্যাসের সমান। ব্যাসার্ধ = ১০০ মিটার ব্যাস = ২ × ব্যাসার্ধ = ২ × ১০০ মিটার = ২০০ মিটার সুতরাং, এক মিনিট ঘোরার পর ব্যক্তির সরণ হবে ২০০ মিটার।"
+    },
+    {
+      "number": "17",
+      "tag": "DIN.B 21",
+      "question": "প্রধান স্কেলের পাঠ M, ভার্নিয়ার সমপাতন V এবং ভার্নিয়ার ধ্রুবক VC হলে প্রস্থ পরিমাপের ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "M × V × V C \\mathrm{M} \\times \\mathrm{V} \\times \\mathrm{VC} M × V × VC",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "M × V + V C \\mathrm{M} \\times \\mathrm{V}+\\mathrm{VC} M × V + VC",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "M + V + V C \\mathrm{M}+\\mathrm{V}+\\mathrm{VC} M + V + VC",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "M + V × V C \\mathrm{M}+\\mathrm{V} \\times \\mathrm{VC} M + V × VC",
+          "is_correct": true
+        }
+      ],
+      "option_a": "M × V × V C \\mathrm{M} \\times \\mathrm{V} \\times \\mathrm{VC} M × V × VC",
+      "option_b": "M × V + V C \\mathrm{M} \\times \\mathrm{V}+\\mathrm{VC} M × V + VC",
+      "option_c": "M + V + V C \\mathrm{M}+\\mathrm{V}+\\mathrm{VC} M + V + VC",
+      "option_d": "M + V × V C \\mathrm{M}+\\mathrm{V} \\times \\mathrm{VC} M + V × VC",
+      "correct": "ঘ",
+      "explanation": "প্রশ্নের চাবিকাঠি হলো ভার্নিয়ার স্কেলের হিসাব। ভার্নিয়ার স্কেলের প্রস্থ পরিমাপের ক্ষেত্রে সাধারণত প্রধান স্কেল (M) এবং ভার্নিয়ার স্কেলের অতিরিক্ত সমাপিক্ত অংশ (V সময় VC) যোগ করা হয়। প্রধান স্কেলের মান M M M এবং ভার্নিয়ার সমাপক V V V হলে, ভার্নিয়ার ধ্রুবক V C VC V C এর সাথে সমাপন V V V গুণ করলে অতিরিক্ত অংশের মান পাওয়া যায়। সেই মূল্য প্রধান স্কেলের মূল্যের সাথে যোগ করলে মোট পরিমাপ পাওয়া যায়। তাহলে সঠিক সমীকরণ হবে: M + V × V C \\mathrm{M} + \\mathrm{V} \\times \\mathrm{VC} M + V × VC অতএব, সঠিক উত্তরটি হলো: D \\mathrm{D} D M + V × V C \\mathrm{M}+\\mathrm{V} \\times \\mathrm{VC} M + V × VC সুতরাং সঠিক উত্তর: D \\mathrm{D} D"
+    },
+    {
+      "number": "18",
+      "tag": "DIN.B 22,JB 21,BB 21,DIN.B 21,DIN.B 19",
+      "question": "নিচের কোনটি ভেক্টর রাশি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "দ্রুতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বল",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "তাপ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কাজ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "দ্রুতি",
+      "option_b": "বল",
+      "option_c": "তাপ",
+      "option_d": "কাজ",
+      "correct": "খ",
+      "explanation": "ভেক্টর রাশি (Vector Quantity) স্কেলার রাশি (Scalar Quantity) i. সরণ (Displacement) i. দৈর্ঘ্য (Length) ii. বেগ (Velocity) ii. দূরত্ব (Distance) iii. ত্বরণ (Acceleration) iii. ভর (Mass) iv. মন্দন (Deceleration) iv. ঘনত্ব (Density) v. বল (Force) v. দ্রুতি (Speed) vi. তড়িৎ প্রাবল্য (Electric Field Intensity) vi. চাপ (Pressure) vii. তড়িৎ তীব্রতা (Electric Current Intensity) vii. তড়িৎ বিভব (Electric Potential)"
+    },
+    {
+      "number": "19",
+      "tag": "DIN.B 21",
+      "question": "মুক্তভাবে পড়ন্ত কোনো বস্তু যখন ভূমি বা মাটিকে আঘাত করে স্থির হয়, তখন এর যান্ত্রিক শক্তি প্রধানত কোন শক্তিতে রূপান্তরিত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রাসায়নিক শক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শব্দ ও তাপশক্তি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বিভব শক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ভূতাপীয় শক্তি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রাসায়নিক শক্তি",
+      "option_b": "শব্দ ও তাপশক্তি",
+      "option_c": "বিভব শক্তি",
+      "option_d": "ভূতাপীয় শক্তি",
+      "correct": "খ",
+      "explanation": "একটি বস্তু যখন উপর থেকে নিচে পড়ে, তখন তার শক্তির রূপান্তরগুলো লক্ষ্য করলে দেখা যায়: পতনের সময়: বস্তুর সঞ্চিত বিভব শক্তি (Potential Energy) ধীরে ধীরে গতিশক্তিতে (Kinetic Energy) রূপান্তরিত হয়। ভূমি স্পর্শের মুহূর্তে: বস্তুর সমস্ত শক্তি তখন গতিশক্তি হিসেবে থাকে। ভূমিকে আঘাত করার পর: যখন পাথরটি মাটিতে আছড়ে পড়ে স্থির হয়ে যায়, তখন সেই গতিশক্তি হঠাৎ শূন্য হয়ে যায়। শক্তির সংরক্ষণশীলতা নীতি অনুযায়ী এই শক্তি হারিয়ে যায় না, বরং এটি শব্দ শক্তি (আঘাতের শব্দ) এবং তাপশক্তিতে (পাথর ও মাটির ঘর্ষণে উৎপন্ন তাপ) রূপান্তরিত হয়। সামান্য পরিমাণ শক্তি মাটির বিকৃতি ঘটাতেও ব্যয় হতে পারে।"
+    },
+    {
+      "number": "20",
+      "tag": "DIN.B 21,CB 20",
+      "question": "নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "v = s t \\mathrm{v}=\\mathrm{st} v = st",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "s = u t + 1 2 \\mathrm{s}=\\mathrm{ut}+\\frac{1}{2} s = ut + 2 1 ​ at",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "v 2 = 2 a s \\mathrm{v}^{2}=2 \\mathrm{as} v 2 = 2 as",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "t = ( u + v 2 ) s \\mathrm{t}=\\left(\\frac{\\mathrm{u}+\\mathrm{v}}{2}\\right) \\mathrm{s} t = ( 2 u + v ​ ) s",
+          "is_correct": false
+        }
+      ],
+      "option_a": "v = s t \\mathrm{v}=\\mathrm{st} v = st",
+      "option_b": "s = u t + 1 2 \\mathrm{s}=\\mathrm{ut}+\\frac{1}{2} s = ut + 2 1 ​ at",
+      "option_c": "v 2 = 2 a s \\mathrm{v}^{2}=2 \\mathrm{as} v 2 = 2 as",
+      "option_d": "t = ( u + v 2 ) s \\mathrm{t}=\\left(\\frac{\\mathrm{u}+\\mathrm{v}}{2}\\right) \\mathrm{s} t = ( 2 u + v ​ ) s",
+      "correct": "গ",
+      "explanation": "আমরা জানি, v 2 = u 2 + 2 a s \\mathrm{v}^{2}=\\mathrm{u}^{2}+2 \\mathrm{as} v 2 = u 2 + 2 as কিতু আদিবেগ, u=0 হলেঃ v 2 = 2 a s \\mathrm{v}^{2}=2 \\mathrm{as} v 2 = 2 as এছাড়া বাকি অপশনগুলো কখনোই সঠিক হওয়া সম্ভব নয়।"
+    },
+    {
+      "number": "21",
+      "tag": "CB 23,BB 23,DIN.B 22,JB 22,CB 21,CTG.B 21,BB 21,SB 21,DIN.B 21,DB 20,RB 20,CTG.B 20,DIN.B 20,SB 20,RB 19,CTG.B 19,SB 19",
+      "question": "ত্বরণের মাত্রা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "L T − 1 \\mathrm{LT}^{-1} LT − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "L T − 2 \\mathrm{LT}^{-2} LT − 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "L 2   T − 1 \\mathrm{L}^{2} \\mathrm{~T}^{-1} L 2   T − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "L 2   T − 2 \\mathrm{L}^{2} \\mathrm{~T}^{-2} L 2   T − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "L T − 1 \\mathrm{LT}^{-1} LT − 1",
+      "option_b": "L T − 2 \\mathrm{LT}^{-2} LT − 2",
+      "option_c": "L 2   T − 1 \\mathrm{L}^{2} \\mathrm{~T}^{-1} L 2   T − 1",
+      "option_d": "L 2   T − 2 \\mathrm{L}^{2} \\mathrm{~T}^{-2} L 2   T − 2",
+      "correct": "খ",
+      "explanation": "ত্বরণের মাত্রা নির্ণয়ের জন্য, প্রথমে এর সংজ্ঞা এবং সংশ্লিষ্ট রাশিগুলোর মাত্রা জানতে হবে। **ধাপ ১: ত্বরণের সংজ্ঞা** ত্বরণ (acceleration) হলো বেগ পরিবর্তনের হার। অর্থাৎ, ত্বরণ = বেগ / সময় **ধাপ ২: বেগের মাত্রা নির্ণয়** বেগ (velocity) হলো সরণ পরিবর্তনের হার। অর্থাৎ, বেগ = সরণ / সময় সরণের মাত্রা [L] (দৈর্ঘ্য) এবং সময়ের মাত্রা [T]। সুতরাং, বেগের মাত্রা = L T \\frac{\\text{L}}{\\text{T}} T L ​ = L T − 1 \\mathrm{LT}^{-1} LT − 1 **ধাপ ৩: ত্বরণের মাত্রা নির্ণয়** এবার ধাপ ২ থেকে প্রাপ্ত বেগের মাত্রা ব্যবহার করে ত্বরণের মাত্রা নির্ণয় করব: ত্বরণের মাত্রা = বেগের মাত্রা সময়ের মাত্রা \\frac{\\text{বেগের মাত্রা}}{\\text{সময়ের মাত্রা}} সময়ের   মাত্রা বেগের   মাত্রা ​ ত্বরণের মাত্রা = L T − 1 T \\frac{\\mathrm{LT}^{-1}}{\\text{T}} T LT − 1 ​ ত্বরণের মাত্রা = L T − 1 × T − 1 \\mathrm{LT}^{-1} \\times \\mathrm{T}^{-1} LT − 1 × T − 1 ত্বরণের মাত্রা = L T − 2 \\mathrm{LT}^{-2} LT − 2 অতএব, ত্বরণের মাত্রা হলো L T − 2 \\mathrm{LT}^{-2} LT − 2 । প্রদত্ত বিকল্পগুলোর মধ্যে, ক: L T − 1 \\mathrm{LT}^{-1} LT − 1 (এটি বেগের মাত্রা) খ: L T − 2 \\mathrm{LT}^{-2} LT − 2 (এটি ত্বরণের মাত্রা) গ: L 2   T − 1 \\mathrm{L}^{2} \\mathrm{~T}^{-1} L 2   T − 1 ঘ: L 2   T − 2 \\mathrm{L}^{2} \\mathrm{~T}^{-2} L 2   T − 2 সঠিক উত্তরটি হলো **খ: L T − 2 \\mathrm{LT}^{-2} LT − 2 **। প্রশ্নকর্তা কর্তৃক নির্বাচিত উত্তর B সঠিক। The final answer is খ \\boxed{\\text{খ}} খ ​"
+    },
+    {
+      "number": "22",
+      "tag": "DIN.B 21",
+      "question": "মুক্তভাবে পড়ন্ত একটি বস্তু 5 s এ 25 m দূরত্ব অতিক্রম করে। ৬ষ্ঠ সেকেন্ডে বস্তুটি আর কত দূরত্বে যাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "36 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "30 m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "11 m",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "36 m",
+      "option_b": "30 m",
+      "option_c": "11 m",
+      "option_d": "5 m",
+      "correct": "গ",
+      "explanation": "এখানে, t 5 = 5   s \\mathrm{t}_{5}=5 \\mathrm{~s} t 5 ​ = 5   s সময়ে অতিক্রান্ত দূরত্ব, s 5 = 25   m \\mathrm{s}_{5}=25 \\mathrm{~m} s 5 ​ = 25   m t 6 = 6   s \\mathrm{t}_{6}=6 \\mathrm{~s} t 6 ​ = 6   s সময়ে অতিক্রান্ত দূরত্ব, s 6 = \\mathrm{s}_{6}= s 6 ​ = ? আমরা জানি, মুক্তভাবে পড়ন্ত বক্তর যেকোনো সময়ে অতিক্রান্ত দূরত্ব উক্ত সময়ের বর্গের সমানুপাতিক। অর্থাৎ, s ∝ t 2 \\mathrm{s} \\propto \\mathrm{t}^{2} s ∝ t 2 ∴ s 6 s 5 = ( t 6 t 5 ) 2 \\therefore \\frac{s_{6}}{s_{5}}=\\left(\\frac{t_{6}}{t_{5}}\\right)^{2} ∴ s 5 ​ s 6 ​ ​ = ( t 5 ​ t 6 ​ ​ ) 2 বা , s 6 = s 5 × ( t 6 t 5 ) 2 s_{6}=s_{5} \\times\\left(\\frac{t_{6}}{t_{5}}\\right)^{2} s 6 ​ = s 5 ​ × ( t 5 ​ t 6 ​ ​ ) 2 = 25   m × ( 6   s 5   s ) 2 = 36   m \\begin{array}{l} =25 \\mathrm{~m} \\times\\left(\\frac{6 \\mathrm{~s}}{5 \\mathrm{~s}}\\right)^{2} \\\\ =36 \\mathrm{~m} \\end{array} = 25   m × ( 5   s 6   s ​ ) 2 = 36   m ​ এখন , s 6 − s 5 = 36   m − 25   m = 11   m \\mathrm{s}_{6}-\\mathrm{s}_{5}=36 \\mathrm{~m}-25 \\mathrm{~m}=11 \\mathrm{~m} s 6 ​ − s 5 ​ = 36   m − 25   m = 11   m অর্থাৎ, ৬ষ্ঠ সেকেন্ডে বস্তুটি আরও 11m দূরত্ব অতিক্রম করবে।"
+    },
+    {
+      "number": "23",
+      "tag": "MB 23,CB 22,DIN.B 21",
+      "question": "D বিন্দুর বিভব পার্থক্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0V",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4V",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 V",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12 V",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0V",
+      "option_b": "4V",
+      "option_c": "8 V",
+      "option_d": "12 V",
+      "correct": "ক",
+      "explanation": "**সমাধান:** প্রদত্ত ছবিতে, আমরা দুটি রোধের মধ্যে বিভব পার্থক্য নির্ণয় করতে হবে। বিভব পার্থক্য নির্ণয় করার জন্য কির্চফের বল বা নিয়ম ব্যবহার করতে পারি। ধরি যে লুপের কোনা একই কাঠামোতে আছে এবং সমস্ত রোধের মান সমান। এই ধরনের সমীকরণ হিসাবে কাজের আকার নেওয়া যায়: V = I R \\text{V}=IR V = I R কিন্তু চিত্রে এগুলো সিরিজ নয় বা প্যারালেল নয়, তাই তুলিকা করার মত নয়। তাই আমরা কির্চফের সাফ নিয়মানুসারে: সব পটেনশিয়াল ড্রপের যোগফল লুপের জন্য জিরো হতে হবে। এখানে দৈনিক চিহ্ন বেধার দেখা যায় সব পক্ষপাত সমান । এই ছবিতে দেখা যায় যে D বিন্দু এবং গ্রাউন্ডের মধ্যে কোন বিভব পার্থক্য নেই। তাই, বিভব পার্থক্য 0 V. **সঠিক উত্তর: A (0V)**"
+    },
+    {
+      "number": "24",
+      "tag": "DB 24,RB 24,PCC 24,RCC 24,HC 24,SJHSS 24,SB 23,JB 23,MB 22,DIN.B 22,CTG.B 22 ,JB 22,MB 21,DIN.B 21,MB 20,RB 20",
+      "question": "বর্তনীটির তূল্যরোধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "11/18 Ω",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18/11 Ω",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 Ω",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 Ω",
+          "is_correct": false
+        }
+      ],
+      "option_a": "11/18 Ω",
+      "option_b": "18/11 Ω",
+      "option_c": "3 Ω",
+      "option_d": "6 Ω",
+      "correct": "খ",
+      "explanation": "প্রশ্নে দেওয়া বর্তনীতে দুটি সমান্তরাল সংযুক্ত প্রতিরোধক এবং একটি সিরিজে সংযুক্ত প্রতিরোধক রয়েছে। এখানে tতূল্য প্রতিরোধক বের করতে আমাদেরকে প্রথমে সমান্তরাল প্রতিরোধকগুলির তূল্য প্রতিরোধক বের করতে হবে এবং পরে এটিকে সিরিজের সাথে যুক্ত প্রতিরোধকের সাথে যোগ করতে হবে। প্রথমে, সমান্তরাল প্রতিরোধকগুলির তূল্য প্রতিরোধক হিসাব করি: 1 R parallel = 1 R 1 + 1 R 2 \\frac{1}{R_\\text{parallel}} = \\frac{1}{R_1} + \\frac{1}{R_2} R parallel ​ 1 ​ = R 1 ​ 1 ​ + R 2 ​ 1 ​ এখানে, R 1 = 9 Ω R_1 = 9 \\, \\Omega R 1 ​ = 9 Ω এবং R 2 = 18 Ω R_2 = 18 \\, \\Omega R 2 ​ = 18 Ω । 1 R parallel = 1 9 + 1 18 \\frac{1}{R_\\text{parallel}} = \\frac{1}{9} + \\frac{1}{18} R parallel ​ 1 ​ = 9 1 ​ + 18 1 ​ 1 R parallel = 2 18 + 1 18 = 3 18 = 1 6 \\frac{1}{R_\\text{parallel}} = \\frac{2}{18} + \\frac{1}{18} = \\frac{3}{18} = \\frac{1}{6} R parallel ​ 1 ​ = 18 2 ​ + 18 1 ​ = 18 3 ​ = 6 1 ​ অতএব, সমান্তরাল প্রতিরোধকগুলির তূল্যরোধ হলো R parallel = 6 Ω R_\\text{parallel} = 6 \\, \\Omega R parallel ​ = 6 Ω । এখন, এই সমান্তরাল প্রতিরোধকটি সিরিজ প্রতিরোধক R 3 = 6 Ω R_3 = 6 \\, \\Omega R 3 ​ = 6 Ω এর সাথে যুক্ত: R total = R parallel + R 3 R_\\text{total} = R_\\text{parallel} + R_3 R total ​ = R parallel ​ + R 3 ​ R total = 6 + 6 = 12 Ω R_\\text{total} = 6 + 6 = 12 \\, \\Omega R total ​ = 6 + 6 = 12 Ω কিন্তু আমরা ভুল করেছি, R 3 R_3 R 3 ​ যে 6 Ω 6 \\, \\Omega 6 Ω ছিল না। এটা যে 6 Ω 6 \\, \\Omega 6 Ω এর সাথে সমান্তরাল বর্তনীতে অন্তর্ভুক্ত করাই ছিল। সমীকরণের ভুল নেই কিন্তু অপশন B ইতিমধ্যে ভুল থাকায় সর্বশেষ তৈরী করার ভুল থাকতে পারে। উত্তর হবে অপশন B) 18/11 ।"
+    },
+    {
+      "number": "1",
+      "tag": "DIN.B 21",
+      "question": "উক্ত বর্তনীর- i. তড়িৎ প্রবাহ 0.2 A ii. তড়িৎ ক্ষমতা 0.4 W iii. প্রতি মিনিটে ব্যয়িত শক্তি 24 J নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

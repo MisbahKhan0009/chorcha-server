@@ -1,0 +1,832 @@
+{
+  "read_id": "F5Bm9mgdHXxnD7DR",
+  "title": "সেন্ট যোসেফ উচ্চ মাধ্যমিক বিদ্যালয় ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "SJHS 25",
+      "question": "যদি A(2, 3) এবং B(6, 7) হয় তাহলে AB এর মধ্যবিন্দু কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(8, 10)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "(4, 5)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "(3, 4)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(2, 7)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(8, 10)",
+      "option_b": "(4, 5)",
+      "option_c": "(3, 4)",
+      "option_d": "(2, 7)",
+      "correct": "খ",
+      "explanation": "( x 1 , y 1 ) (x_1, y_1) ( x 1 ​ , y 1 ​ ) ও ( x 2 , y 2 ) (x_2, y_2) ( x 2 ​ , y 2 ​ ) বিন্দুগামী রেখার মধ্যবিন্দুর স্থানাঙ্ক = ( x 1 + x 2 2 , y 1 + y 2 2 ) = \\left( \\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2} \\right) = ( 2 x 1 ​ + x 2 ​ ​ , 2 y 1 ​ + y 2 ​ ​ ) AB এর মধ্যবিন্দুর স্থানাঙ্ক = ( 2 + 6 2 , 3 + 7 2 ) = ( 4 , 5 ) = \\left( \\frac{2+6}{2}, \\frac{3+7}{2} \\right) = (4,5) = ( 2 2 + 6 ​ , 2 3 + 7 ​ ) = ( 4 , 5 )"
+    },
+    {
+      "number": "2",
+      "tag": "SJHS 25",
+      "question": "8 সে.মি. ভূমি এবং 5 সে.মি. উচ্চতা বিশিষ্ট একটি ত্রিভুজের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20",
+      "option_b": "25",
+      "option_c": "30",
+      "option_d": "40",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "SJHS 25",
+      "question": "( a m ) n = ? (a^m)^n = ? ( a m ) n = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a m + n a^{m+n} a m + n",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a m n a^{mn} a mn",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "a m − n a^{m-n} a m − n",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a m n a^{\\frac{m}{n}} a n m ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a m + n a^{m+n} a m + n",
+      "option_b": "a m n a^{mn} a mn",
+      "option_c": "a m − n a^{m-n} a m − n",
+      "option_d": "a m n a^{\\frac{m}{n}} a n m ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "SJHS 25",
+      "question": "যদি log ⁡ a b = 2 \\log_a b = 2 lo g a ​ b = 2 , তাহলে b = ? b = ? b = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 a 2^a 2 a",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a 2 a^2 a 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "2 a 2^a 2 a",
+      "option_d": "a 2 a^2 a 2",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "SJHS 25",
+      "question": "যদি x 3 = 8 x^3 = 8 x 3 = 8 হয় তাহলে x = ? x = ? x = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "2",
+      "option_c": "8",
+      "option_d": "4",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "SJHS 25",
+      "question": "2 − 3 2^{-3} 2 − 3 এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8",
+      "option_b": "-8",
+      "option_c": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_d": "3 2 \\frac{3}{2} 2 3 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "SJHS 25",
+      "question": "দুটি টসে কমপক্ষে একটি হেড পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_d": "1",
+      "correct": "গ",
+      "explanation": "দুটি টসের নমুনাক্ষেত্র { H H , H T , T H , T T } \\{HH, HT, TH, TT\\} { HH , H T , T H , TT } এখানে, মোট নমুনাবিন্দু = 4টি কমপক্ষে একটি হেড পাওয়ার অনুকূল ঘটনা { H T , T H , H H } \\{HT, TH, HH\\} { H T , T H , HH } অর্থাৎ, 3টি ∴ P [ কমপক্ষে 1H ] = 3 4 \\therefore P [\\text{কমপক্ষে 1H}] = \\frac{3}{4} ∴ P [ কমপক্ষে 1H ] = 4 3 ​"
+    },
+    {
+      "number": "8",
+      "tag": "SJHS 25",
+      "question": "sin ⁡ 2 60 ∘ + cos ⁡ 2 60 ∘ = ? \\sin^2 60^\\circ + \\cos^2 60^\\circ = ? sin 2 6 0 ∘ + cos 2 6 0 ∘ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "0",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "SJHS 25",
+      "question": "(0, 0), (2, 0), (0, 3) স্থানাঙ্ক বিশিষ্ট ত্রিভুজের ক্ষেত্রফল কত বর্গএকক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "2",
+      "option_c": "1",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "SJHS 25",
+      "question": "3টি লাল, 2টি নীল বল থেকে পুনঃস্থাপন না করে পরপর দুটি বল তোলা হলে বল দুটি লাল বল হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 10 \\frac{3}{10} 10 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 10 \\frac{3}{10} 10 3 ​",
+      "option_b": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_c": "1 5 \\frac{1}{5} 5 1 ​",
+      "option_d": "1 2 \\frac{1}{2} 2 1 ​",
+      "correct": "ক",
+      "explanation": "মোট বল সংখ্যা = ( 3 + 2 ) (3+2) ( 3 + 2 ) টি = 5 = 5 = 5 টি এবং লাল বলের সংখ্যা = 3 \\text{3} 3 টি দুটি লাল বল আসার সম্ভাবনা = 3 5 × 2 4 = 3 10 \\frac{3}{5} \\times \\frac{2}{4} = \\frac{3}{10} 5 3 ​ × 4 2 ​ = 10 3 ​ ."
+    },
+    {
+      "number": "11",
+      "tag": "SJHS 25",
+      "question": "x 2 + 5 x + 6 = 0 x^2 + 5x + 6 = 0 x 2 + 5 x + 6 = 0 এর উৎপাদক",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( x − 2 ) ( x + 3 ) (x - 2)(x + 3) ( x − 2 ) ( x + 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( x + 1 ) ( x + 6 ) (x + 1)(x + 6) ( x + 1 ) ( x + 6 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( x + 3 ) ( x + 2 ) (x + 3)(x + 2) ( x + 3 ) ( x + 2 )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( x − 2 ) ( x + 3 ) (x - 2)(x + 3) ( x − 2 ) ( x + 3 )",
+      "option_b": "( x + 1 ) ( x + 6 ) (x + 1)(x + 6) ( x + 1 ) ( x + 6 )",
+      "option_c": "( x + 3 ) ( x + 2 ) (x + 3)(x + 2) ( x + 3 ) ( x + 2 )",
+      "option_d": "কোনোটিই নয়",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "SJHS 25",
+      "question": "যদি sin ⁡ A = 3 5 \\sin A = \\frac{3}{5} sin A = 5 3 ​ হয়, তাহলে cos ⁡ A = ? \\cos A = ? cos A = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 5 \\frac{4}{5} 5 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 5 \\frac{4}{5} 5 4 ​",
+      "option_b": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_c": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_d": "1 5 \\frac{1}{5} 5 1 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "SJHS 25",
+      "question": "যদি কোনো ঘটনা ঘটবে তা নিশ্চিত হয়, তাহলে তার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনির্ধারিত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "অনির্ধারিত",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "SJHS 25",
+      "question": "যদি f ( x ) = 3 x 2 + 2 x − 5 f(x) = 3x^2 + 2x - 5 f ( x ) = 3 x 2 + 2 x − 5 হয়, তাহলে f ( − 2 ) = ? f(-2) = ? f ( − 2 ) = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "11",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "5",
+      "option_c": "7",
+      "option_d": "11",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "SJHS 25",
+      "question": "যদি দুটি ত্রিভুজের একই ভূমি এবং উচ্চতা থাকে, তাদের ক্ষেত্রফল হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমান",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিগুণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অর্ধেক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমান",
+      "option_b": "দ্বিগুণ",
+      "option_c": "অর্ধেক",
+      "option_d": "কোনোটিই নয়",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "SJHS 25",
+      "question": "△ A B C \\triangle ABC △ A BC -তে, যদি D, BC এর মধ্যবিন্দু হয়, তাহলে A D ⃗ \\vec{AD} A D",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 ( A B ⃗ + A C ⃗ ) \\frac{1}{2}(\\vec{AB} + \\vec{AC}) 2 1 ​ ( A B + A C )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "A B ⃗ + A C ⃗ \\vec{AB} + \\vec{AC} A B + A C",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 3 ( A B ⃗ + A C ⃗ ) \\frac{1}{3}(\\vec{AB} + \\vec{AC}) 3 1 ​ ( A B + A C )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 ( A B ⃗ + A C ⃗ ) \\frac{1}{2}(\\vec{AB} + \\vec{AC}) 2 1 ​ ( A B + A C )",
+      "option_b": "A B ⃗ + A C ⃗ \\vec{AB} + \\vec{AC} A B + A C",
+      "option_c": "1 3 ( A B ⃗ + A C ⃗ ) \\frac{1}{3}(\\vec{AB} + \\vec{AC}) 3 1 ​ ( A B + A C )",
+      "option_d": "কোনোটিই নয়",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "SJHS 25",
+      "question": "( a + b ) 5 (a + b)^5 ( a + b ) 5 এর বিস্তৃতির পদসংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "5",
+      "option_c": "6",
+      "option_d": "7",
+      "correct": "গ",
+      "explanation": "( a + b ) 5 (a + b)^5 ( a + b ) 5 এর বিস্তৃতির পদসংখ্যা = 5 + 1 = 6 = 5+1=6 = 5 + 1 = 6"
+    },
+    {
+      "number": "18",
+      "tag": "SJHS 25",
+      "question": "যদি a m = a n a^m = a^n a m = a n হয়, তাহলে",
+      "options": [
+        {
+          "label": "ক",
+          "text": "m = n m = n m = n",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "m ≠ n m \\neq n m  = n",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "m = n + 1 m = n + 1 m = n + 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "m = n m = n m = n",
+      "option_b": "m ≠ n m \\neq n m  = n",
+      "option_c": "m = n + 1 m = n + 1 m = n + 1",
+      "option_d": "কোনোটিই নয়",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "SJHS 25",
+      "question": "( 3 , 4 ) (3, 4) ( 3 , 4 ) এবং ( 7 , 1 ) (7, 1) ( 7 , 1 ) বিন্দুর মধ্যে দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "10 \\sqrt{10} 10 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 \\sqrt{25} 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "5",
+      "option_c": "10 \\sqrt{10} 10 ​",
+      "option_d": "25 \\sqrt{25} 25 ​",
+      "correct": "খ",
+      "explanation": "( 3 , 4 ) (3, 4) ( 3 , 4 ) ও ( 7 , 1 ) (7, 1) ( 7 , 1 ) বিন্দুদ্বয়ের মধ্যবর্তী দূরত্ব = ( 3 − 7 ) 2 + ( 4 − 1 ) 2 = \\sqrt{(3-7)^2+(4-1)^2} = ( 3 − 7 ) 2 + ( 4 − 1 ) 2 ​ = 16 + 9 = 5 = \\sqrt{16+9}=5 = 16 + 9 ​ = 5"
+    },
+    {
+      "number": "20",
+      "tag": "SJHS 25",
+      "question": "2 x + 3 y − 6 = 0 2x + 3y - 6 = 0 2 x + 3 y − 6 = 0 সমীকরণের ঢাল-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 2 3 -\\frac{2}{3} − 3 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "− 2 3 -\\frac{2}{3} − 3 2 ​",
+      "correct": "ঘ",
+      "explanation": "আমরা জানি, a x + b y + c = 0 ax+by+c=0 a x + b y + c = 0 . ∴ \\therefore ∴ রেখার ঢাল = − a b = -\\frac{a}{b} = − b a ​ ∴ 2 x + 3 y − 6 = 0 ∴ \\therefore 2x + 3y - 6 = 0 \\therefore ∴ 2 x + 3 y − 6 = 0 ∴ রেখার ঢাল = − 2 3 = -\\frac{2}{3} = − 3 2 ​"
+    },
+    {
+      "number": "21",
+      "tag": "SJHS 25",
+      "question": "দুটি ভেক্টর সমান যদি-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তাদের মান সমান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "তাদের দিক সমান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উভয় (ক) এবং (খ)",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "এর কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "তাদের মান সমান",
+      "option_b": "তাদের দিক সমান",
+      "option_c": "উভয় (ক) এবং (খ)",
+      "option_d": "এর কোনটিই নয়",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "SJHS 25",
+      "question": "যখন দুটি ভেক্টরকে একটি সামান্তরিকের দুটি সংলগ্ন বাহু দ্বারা প্রতিনিধিত্ব করা হয়, তখন তাদের লব্ধি হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কর্ণ বরাবর",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "একটি বাহু বরাবর",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বিপরীত বাহু বরাবর",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কর্ণ বরাবর",
+      "option_b": "একটি বাহু বরাবর",
+      "option_c": "বিপরীত বাহু বরাবর",
+      "option_d": "কোনোটিই নয়",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "SJHS 25",
+      "question": "যদি দুটি ভেক্টর বিপরীত দিকে থাকে, তাহলে তাদের লব্ধি-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মানগুলির যোগফল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মানগুলির পার্থক্য",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "মানগুলির গুণফল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "শূন্য",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মানগুলির যোগফল",
+      "option_b": "মানগুলির পার্থক্য",
+      "option_c": "মানগুলির গুণফল",
+      "option_d": "শূন্য",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "SJHS 25",
+      "question": "যদি f ( x ) = 2 x + 3 f(x) = 2x + 3 f ( x ) = 2 x + 3 হয়, তাহলে f ( 2 ) = ? f(2) = ? f ( 2 ) = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "6",
+      "option_c": "7",
+      "option_d": "8",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "SJHS 25",
+      "question": "log ⁡ 1000 = ? \\log1000 = ? lo g 1000 = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "10",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "read_id": "1KWb05EZ2GtxKREd",
+  "title": "রাজশাহী বোর্ড ২০১৭",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RB 17",
+      "question": "x > y এবং z < 0 হলে, নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "xz<yz",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x+z<y+z",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "xz>yz",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x-z<y-z",
+          "is_correct": false
+        }
+      ],
+      "option_a": "xz<yz",
+      "option_b": "x+z<y+z",
+      "option_c": "xz>yz",
+      "option_d": "x-z<y-z",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "RB 17",
+      "question": "গোলকের ব্যাসার্ধ 2r একক হলে এর আয়তন কত ঘন একক হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 π r 3 \\frac{2}{3} \\pi r^{3} 3 2 ​ π r 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 3 π r 3 \\frac{4}{3} \\pi r^{3} 3 4 ​ π r 3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 π r 3 4 \\pi r^{3} 4 π r 3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "32 3 π r 3 \\frac{32}{3} \\pi r^{3} 3 32 ​ π r 3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 3 π r 3 \\frac{2}{3} \\pi r^{3} 3 2 ​ π r 3",
+      "option_b": "4 3 π r 3 \\frac{4}{3} \\pi r^{3} 3 4 ​ π r 3",
+      "option_c": "4 π r 3 4 \\pi r^{3} 4 π r 3",
+      "option_d": "32 3 π r 3 \\frac{32}{3} \\pi r^{3} 3 32 ​ π r 3",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "RB 17",
+      "question": "7 − 7 + 7 − 7 + . . . . . . 7-7+7-7+...... 7 − 7 + 7 − 7 + ...... ধারাটির 30 টি পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "210",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-210",
+          "is_correct": false
+        }
+      ],
+      "option_a": "210",
+      "option_b": "0",
+      "option_c": "30",
+      "option_d": "-210",
+      "correct": "খ",
+      "explanation": "1. পদগুলির পর্যায়ক্রম : বিজোড় পদগুলি (1ম, 3য়, 5ম, ..., 29তম) = +7 জোড় পদগুলি (2য়, 4র্থ, 6ষ্ঠ, ..., 30তম) = − 7 =-7 = − 7 2. বিজোড় পদের সংখ্যা: 30 2 = 15  টি  \\frac{30}{2}=15 \\text { টি } 2 30 ​ = 15   টি   3. জোড় পদের সংখ্যা: 15  টি  15 \\text { টি } 15   টি   4. মোট সমষ্টি: ( 15 × 7 ) + ( 15 × ( − 7 ) ) = 105 − 105 = 0 (15 \\times 7)+(15 \\times(-7))=105-105=0 ( 15 × 7 ) + ( 15 × ( − 7 )) = 105 − 105 = 0"
+    },
+    {
+      "number": "4",
+      "tag": "RB 17",
+      "question": "1 3 + 1 3 2 + 1 3 3 + \\frac{1}{3}+\\frac{1}{3^{2}}+\\frac{1}{3^{3}}+ 3 1 ​ + 3 2 1 ​ + 3 3 1 ​ + ...... ধারাটির অসীমতক সমষ্টি কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "RB 17",
+      "question": "y ( y 3 + 3 y ) y 2 \\frac{y\\left(y^{3}+3 y\\right)}{y^{2}} y 2 y ( y 3 + 3 y ) ​ বহুপদীর ধ্রুবক পদের গুণনীয়কের সেট নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "∅ \\varnothing ∅",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{1}",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{3}",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{1,3}",
+          "is_correct": true
+        }
+      ],
+      "option_a": "∅ \\varnothing ∅",
+      "option_b": "{1}",
+      "option_c": "{3}",
+      "option_d": "{1,3}",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "RB 17",
+      "question": "x 3 + y 3 + z 3 − 3 x y z x^{3}+y^{3}+z^{3}-3 x y z x 3 + y 3 + z 3 − 3 x yz রাশিটির ক্ষেত্রে- i. একটি উৎপাদক x+y+z ii. রাশিটি প্রতিসম iii. রাশিটি চক্রক্রমিক নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "RB 17",
+      "question": "2x - 5y - 10 = 0 একটি সরলরেখার সমীকরণ। রেখাটির ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 2 5 -\\frac{2}{5} − 5 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 5 \\frac{2}{5} 5 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 2 \\frac{5}{2} 2 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 2 5 -\\frac{2}{5} − 5 2 ​",
+      "option_b": "2 5 \\frac{2}{5} 5 2 ​",
+      "option_c": "2",
+      "option_d": "5 2 \\frac{5}{2} 2 5 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "RB 17",
+      "question": "2x - 5y - 10 = 0 একটি সরলরেখার সমীকরণ। উদ্দীপকের রেখাটি দ্বারা অক্ষদ্বয়ের সাথে উৎপন্ন ত্রিভুজের ক্ষেত্রফল কত বর্গ একক হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "5",
+      "option_c": "7",
+      "option_d": "10",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "RB 17",
+      "question": "একটি থলেতে 4টি লাল, 6টি সাদা এবং ৪টি কালো বল আছে। দৈবভাবে একটি বল নেয়া হলো। বলটি কালো হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 9 \\frac{2}{9} 9 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 9 \\frac{4}{9} 9 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 9 \\frac{5}{9} 9 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 9 \\frac{2}{9} 9 2 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "4 9 \\frac{4}{9} 9 4 ​",
+      "option_d": "5 9 \\frac{5}{9} 9 5 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "RB 17",
+      "question": "একটি থলেতে 4টি লাল, 6টি সাদা এবং ৪টি কালো বল আছে। দৈবভাবে একটি বল নেয়া হলো। বলটি লাল না হওয়ার সম্ভাবনা কত",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 9 \\frac{2}{9} 9 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 9 \\frac{4}{9} 9 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 9 \\frac{7}{9} 9 7 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 9 \\frac{2}{9} 9 2 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "4 9 \\frac{4}{9} 9 4 ​",
+      "option_d": "7 9 \\frac{7}{9} 9 7 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "RB 17",
+      "question": "যে কোনো a ‾ , b ‾ \\underline{\\mathbf{a}}, \\underline{\\mathbf{b}} a ​ , b ​ ও c ‾ \\underline{c} c ​ ভেক্টরের জন্য i. a ‾ + b ‾ = b ‾ + a ‾ \\underline{a}+\\underline{b}=\\underline{b}+\\underline{a} a ​ + b ​ = b ​ + a ​ ভেক্টর যোগের বিনিময় বিধি ii. m ( b ‾ + c ‾ ) = m b + m c ‾ \\mathrm{m}(\\underline{b}+\\underline{c})=\\mathrm{mb}+\\mathrm{m} \\underline{c} m ( b ​ + c ​ ) = mb + m c ​ ভেক্টর বন্টন বিধি iii. ( a ‾ + b ‾ ) + c ‾ = a ‾ + ( b ‾ + c ‾ ) (\\underline{a}+\\underline{b})+\\underline{c}=\\underline{a}+(\\underline{b}+\\underline{c}) ( a ​ + b ​ ) + c ​ = a ​ + ( b ​ + c ​ ) ভেক্টর যোগের সংযোগ বিধি নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "RB 17",
+      "question": "△ P Q R \\triangle \\mathrm{PQR} △ PQR এ D, E, F যথাক্রমে QR, RP ও PQ এর মধ্যবিন্দু হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "P Q → + Q R → = R P → \\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{QR}}=\\overrightarrow{\\mathrm{RP}} PQ ​ + QR ​ = RP",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "P D → = P Q → + P R → 2 \\overrightarrow{\\mathrm{PD}}=\\frac{\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}}{2} PD = 2 PQ ​ + PR ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Q E → = Q P → + Q R → 2 \\overrightarrow{\\mathrm{QE}}=\\frac{\\overrightarrow{\\mathrm{QP}}+\\overrightarrow{\\mathrm{QR}}}{2} QE ​ = 2 QP ​ + QR ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "P D → + Q E → + R F → = 0 \\overrightarrow{\\mathrm{PD}}+\\overrightarrow{\\mathrm{QE}}+\\overrightarrow{\\mathrm{RF}}=0 PD + QE ​ + RF = 0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "P Q → + Q R → = R P → \\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{QR}}=\\overrightarrow{\\mathrm{RP}} PQ ​ + QR ​ = RP",
+      "option_b": "P D → = P Q → + P R → 2 \\overrightarrow{\\mathrm{PD}}=\\frac{\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}}{2} PD = 2 PQ ​ + PR ​",
+      "option_c": "Q E → = Q P → + Q R → 2 \\overrightarrow{\\mathrm{QE}}=\\frac{\\overrightarrow{\\mathrm{QP}}+\\overrightarrow{\\mathrm{QR}}}{2} QE ​ = 2 QP ​ + QR ​ ​",
+      "option_d": "P D → + Q E → + R F → = 0 \\overrightarrow{\\mathrm{PD}}+\\overrightarrow{\\mathrm{QE}}+\\overrightarrow{\\mathrm{RF}}=0 PD + QE ​ + RF = 0",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "RB 17",
+      "question": "f ( x ) = 3 − x f(x)=\\sqrt{3-x} f ( x ) = 3 − x ​ হলে f f f এর ডোমেন নিচের কোনটি ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x ∈ R : x < 3 } \\{x \\in \\R: x<3\\} { x ∈ R : x < 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x ∈ R : x ≤ 3 } \\{x \\in \\R: x \\leq 3\\} { x ∈ R : x ≤ 3 }",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "{ x ∈ R : x ≥ 3 } \\{x \\in \\R: x \\geq 3\\} { x ∈ R : x ≥ 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x ∈ R : x = 3 } \\{x \\in \\R: x=3\\} { x ∈ R : x = 3 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x ∈ R : x < 3 } \\{x \\in \\R: x<3\\} { x ∈ R : x < 3 }",
+      "option_b": "{ x ∈ R : x ≤ 3 } \\{x \\in \\R: x \\leq 3\\} { x ∈ R : x ≤ 3 }",
+      "option_c": "{ x ∈ R : x ≥ 3 } \\{x \\in \\R: x \\geq 3\\} { x ∈ R : x ≥ 3 }",
+      "option_d": "{ x ∈ R : x = 3 } \\{x \\in \\R: x=3\\} { x ∈ R : x = 3 }",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "RB 17",
+      "question": "ABC সমবাহু ত্রিভুজের ∠ A C D \\angle \\mathrm{ACD} ∠ ACD এর অর্ধেক কত ডিগ্রী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "90°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "120°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30°",
+      "option_b": "60°",
+      "option_c": "90°",
+      "option_d": "120°",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "RB 17",
+      "question": "p y 2 − q y + r = 0 \\mathrm{py}^{2}-\\mathrm{qy}+\\mathrm{r}=0 py 2 − qy + r = 0 একটি দ্বিঘাত সমীকরণ। সমীকরণটির একটি মূল নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− q + q 2 − 4 p r 2 p \\frac{-q+\\sqrt{q^{2}-4 p r}}{2 p} 2 p − q + q 2 − 4 p r ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "q + q 2 − 4 p r 2 p \\frac{q+\\sqrt{q^{2}-4 p r}}{2 p} 2 p q + q 2 − 4 p r ​ ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "q 2 p \\frac{q}{2 p} 2 p q ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− q − p 2 − 4 p r 2 p \\frac{-q-\\sqrt{p^{2}-4 p r}}{2 p} 2 p − q − p 2 − 4 p r ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− q + q 2 − 4 p r 2 p \\frac{-q+\\sqrt{q^{2}-4 p r}}{2 p} 2 p − q + q 2 − 4 p r ​ ​",
+      "option_b": "q + q 2 − 4 p r 2 p \\frac{q+\\sqrt{q^{2}-4 p r}}{2 p} 2 p q + q 2 − 4 p r ​ ​",
+      "option_c": "q 2 p \\frac{q}{2 p} 2 p q ​",
+      "option_d": "− q − p 2 − 4 p r 2 p \\frac{-q-\\sqrt{p^{2}-4 p r}}{2 p} 2 p − q − p 2 − 4 p r ​ ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "RB 17",
+      "question": "p y 2 − q y + r = 0 \\mathrm{py}^{2}-\\mathrm{qy}+\\mathrm{r}=0 py 2 − qy + r = 0 একটি দ্বিঘাত সমীকরণ। উদ্দীপকের সমীকরণটির ক্ষেত্রে- i. নিশ্চায়ক q 2 − 4 p r q^{2}-4 p r q 2 − 4 p r ii. মূলদ্বয় সমান হবে, যদি q 2 = 4 p r q² =4 \\mathrm{pr} q 2 = 4 pr হয় iii. মূলদ্বয় বাস্তব, অসমান হবে, যদি q 2 > 4 p r q²>4pr q 2 > 4 p r হয় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "RB 17",
+      "question": "A(1, 1) ও B(-1,-1) দুটি বিন্দু হলে, AB বাহু দ্বারা উৎপন্ন বর্গক্ষেত্রের কর্ণের দৈর্ঘ্য কত একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2 2 2 \\sqrt{2} 2 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "16",
+      "option_b": "8",
+      "option_c": "4",
+      "option_d": "2 2 2 \\sqrt{2} 2 2 ​",
+      "correct": "গ",
+      "explanation": "প্রদত্ত বিন্দু দুটি হলো: A ( 1 , 1 ) A(1,1) A ( 1 , 1 ) B ( − 1 , − 1 ) B(-1,-1) B ( − 1 , − 1 ) A B A B A B বাহুর দৈর্ঘ্য নির্ণয় দূরত্বের সূত্র অনুসারে, A B = ( x 2 − x 1 ) 2 + ( y 2 − y 1 ) 2 = ( − 1 − 1 ) 2 + ( − 1 − 1 ) 2 = ( − 2 ) 2 + ( − 2 ) 2 = 4 + 4 = 2 2 A B=\\sqrt{\\left(x_{2}-x_{1}\\right)^{2}+\\left(y_{2}-y_{1}\\right)^{2}}=\\sqrt{(-1-1)^{2}+(-1-1)^{2}}=\\sqrt{(-2)^{2}+(-2)^{2}}=\\sqrt{4+4}= 2\\sqrt{2} A B = ( x 2 ​ − x 1 ​ ) 2 + ( y 2 ​ − y 1 ​ ) 2 ​ = ( − 1 − 1 ) 2 + ( − 1 − 1 ) 2 ​ = ( − 2 ) 2 + ( − 2 ) 2 ​ = 4 + 4 ​ = 2 2 ​ বর্গক্ষেত্রের কর্ণের দৈর্ঘ্য = = = বাহুর দৈর্ঘ্য × 2 \\times \\sqrt{2} × 2 ​  কর্ণ  = 2 2 × 2 = 2 × 2 = 4  একক  \\text { কর্ণ }=2 \\sqrt{2} \\times \\sqrt{2}=2 \\times 2=4 \\text { একক }   কর্ণ   = 2 2 ​ × 2 ​ = 2 × 2 = 4   একক"
+    },
+    {
+      "number": "18",
+      "tag": "RB 17",
+      "question": "60° কে রেডিয়ানে প্রকাশ করলে নিচের কোনটি হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3.1416",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3.0419",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2.0419",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1.0472",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3.1416",
+      "option_b": "3.0419",
+      "option_c": "2.0419",
+      "option_d": "1.0472",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "RB 17",
+      "question": "sin ⁡ 2 ( 2 π − π 6 ) \\sin ^{2}\\left(2 \\pi-\\frac{\\pi}{6}\\right) sin 2 ( 2 π − 6 π ​ ) এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 4 -\\frac{1}{4} − 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 1 4 -\\frac{1}{4} − 4 1 ​",
+      "option_b": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_c": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_d": "1 2 \\frac{1}{2} 2 1 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "RB 17",
+      "question": "− 3 3 -3 \\sqrt{3} − 3 3 ​ এর ঘনমূল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 3 -\\sqrt{3} − 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 3 \\sqrt[3]{3} 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 3 -\\sqrt{3} − 3 ​",
+      "option_b": "3 3 \\sqrt[3]{3} 3 3 ​",
+      "option_c": "3 \\sqrt{3} 3 ​",
+      "option_d": "3",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "RB 17",
+      "question": "log ⁡ 2 4 × log ⁡ 3 3 \\log _{\\sqrt{2}} 4 \\times \\log _{\\sqrt{3}} 3 lo g 2 ​ ​ 4 × lo g 3 ​ ​ 3 এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "6",
+      "option_c": "8",
+      "option_d": "12",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "RB 17",
+      "question": "( 2 x + 1 x ) 6 \\left(2 x+\\frac{1}{x}\\right)^{6} ( 2 x + x 1 ​ ) 6 এর বিস্তৃতিতে- i. পদসংখ্যা 7 ii. x মুক্ত পদ ৪র্থ পদ iii. x মুক্ত পদের মান 160 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "RB 17",
+      "question": "△ A B C \\triangle \\mathrm{ABC} △ ABC এ ∠ C = 120 ∘ , B C = 2 \\angle \\mathrm{C}=120^{\\circ}, \\mathrm{BC}=2 ∠ C = 12 0 ∘ , BC = 2 সে. মি. এবং A C = 5 \\mathrm{AC}=5 AC = 5 সে. মি. হলে AB এর দৈর্ঘ্য কত সে. মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 \\sqrt{9} 9 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "19 \\sqrt{19} 19 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "39 \\sqrt{39} 39 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "49 \\sqrt{49} 49 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9 \\sqrt{9} 9 ​",
+      "option_b": "19 \\sqrt{19} 19 ​",
+      "option_c": "39 \\sqrt{39} 39 ​",
+      "option_d": "49 \\sqrt{49} 49 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "RB 17",
+      "question": "নববিন্দু বৃত্তের ব্যাসার্ধ ত্রিভুজের পরিব্যাসার্ধের কতগুণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অর্ধেক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিগুণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তিনগুণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চারগুণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অর্ধেক",
+      "option_b": "দ্বিগুণ",
+      "option_c": "তিনগুণ",
+      "option_d": "চারগুণ",
+      "correct": "ক",
+      "explanation": "নয়বিন্দু বৃত্ত (Nine-point circle)-এর ব্যাসার্ধ হলো মূল ত্রিভুজের পরিব্যাসার্ধের অর্ধেক। যদি R R R ত্রিভুজের পরিব্যাসার্ধ হয়, তবে নয়বিন্দু বৃত্তের ব্যাসার্ধ R 2 \\frac{R}{2} 2 R ​ ."
+    },
+    {
+      "number": "25",
+      "tag": "RB 17",
+      "question": "নিচের কোন ফাংশনটি এক-এক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "F ( x ) = 1 x − 2 , x ≠ 2 F(x)=\\frac{1}{x-2}, x \\neq 2 F ( x ) = x − 2 1 ​ , x  = 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "F ( x ) = x 2 + 1 F(x)=x^{2}+1 F ( x ) = x 2 + 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "F ( x ) = ( x − 2 ) 2 \\mathrm{F}(\\mathrm{x})=(\\mathrm{x}-2)^{2} F ( x ) = ( x − 2 ) 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "F ( x ) = ( 3 + x ) 2 F(x)=(3+x)^{2} F ( x ) = ( 3 + x ) 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "F ( x ) = 1 x − 2 , x ≠ 2 F(x)=\\frac{1}{x-2}, x \\neq 2 F ( x ) = x − 2 1 ​ , x  = 2",
+      "option_b": "F ( x ) = x 2 + 1 F(x)=x^{2}+1 F ( x ) = x 2 + 1",
+      "option_c": "F ( x ) = ( x − 2 ) 2 \\mathrm{F}(\\mathrm{x})=(\\mathrm{x}-2)^{2} F ( x ) = ( x − 2 ) 2",
+      "option_d": "F ( x ) = ( 3 + x ) 2 F(x)=(3+x)^{2} F ( x ) = ( 3 + x ) 2",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

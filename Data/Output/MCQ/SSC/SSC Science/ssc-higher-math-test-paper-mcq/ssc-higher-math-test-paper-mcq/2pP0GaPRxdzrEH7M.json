@@ -1,0 +1,832 @@
+{
+  "read_id": "2pP0GaPRxdzrEH7M",
+  "title": "ঢাকা বোর্ড ২০২৩",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CB 25,SB 24,JB 24,CPSCR 24,MC 24,DB 23,MB 23,SB 23,RB 22,DIN.B 22,CTG.B 22,JB 20",
+      "question": "যদি 5 x − 7 ( x − 1 ) ( x − 2 ) ≡ A x − 1 + B x − 2 \\frac{5 x-7}{(x-1)(x-2)} \\equiv \\frac{A}{x-1}+\\frac{B}{x-2} ( x − 1 ) ( x − 2 ) 5 x − 7 ​ ≡ x − 1 A ​ + x − 2 B ​ হয়, যেখানে A ও B মূলদ সংখ্যা, তবে B এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "-2",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত সমীকরণটি হলো: 5 x − 7 ( x − 1 ) ( x − 2 ) ≡ A x − 1 + B x − 2 \\frac{5x-7}{(x-1)(x-2)} \\equiv \\frac{A}{x-1}+\\frac{B}{x-2} ( x − 1 ) ( x − 2 ) 5 x − 7 ​ ≡ x − 1 A ​ + x − 2 B ​ এখানে, A এবং B মূলদ সংখ্যা। এদের মান নির্ণয় করতে আমাদের প্রভাজক (partial fraction) পদ্ধতি প্রয়োগ করতে হবে। প্রথমে, সমীকরণকে সাধারণ জানা অংশে নির্ণয় করি: ( 5x - 7 = A(x-2) + B(x-1) ) এটি সহজ করার জন্য আমরা সমীকরণটি দুই পাশে প্রসারণ করব: ( 5x - 7 = Ax - 2A + Bx - B ) এরপর আমরা লাইক টার্মগুলো একত্রিত করি: ( 5x - 7 = (A + B)x - (2A + B) ) এখন, x এর সহগের তুলনা করে পাই: ( A + B = 5 ) এবং ধ্রুবক টার্মের তুলনা করে পাই: ( 2A + B = 7 ) এখন, প্রথম সমীকরণ থেকে B এর মান বের করি: ( B = 5 - A ) এটি দ্বিতীয় সমীকরণে প্রতিস্থাপন করি: ( 2A + (5 - A) = 7 ) সরলীকরণ করে পাই: ( A + 5 = 7 ) ( A = 2 ) এখন B এর মান বের করি: ( B = 5 - A = 5 - 2 = 3 ) সুতরাং, B এর মান 3।"
+    },
+    {
+      "number": "2",
+      "tag": "DB 23",
+      "question": "2 x 3 + x 2 + b x + 18 2 x^{3}+x^{2}+b x+18 2 x 3 + x 2 + b x + 18 বহুপদীর একটি উৎপাদক x + 2 x+2 x + 2 হলে, b b b এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-19",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "19",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-19",
+      "option_b": "-3",
+      "option_c": "3",
+      "option_d": "19",
+      "correct": "গ",
+      "explanation": "প্রশ্নমতে, f ( − 2 ) = 0 = 2 ( − 2 ) 3 + ( − 2 ) 2 + b ( − 2 ) + 18 = 0 f(-2)=0=2(-2)^{3}+(-2)^{2}+b(-2)+18=0 f ( − 2 ) = 0 = 2 ( − 2 ) 3 + ( − 2 ) 2 + b ( − 2 ) + 18 = 0 বা, 2 ( − 2 ) 3 + ( − 2 ) 2 + b ( − 2 ) + 18 = 0 2(-2)^{3}+(-2)^{2}+b(-2)+18=0 2 ( − 2 ) 3 + ( − 2 ) 2 + b ( − 2 ) + 18 = 0 বা, − 16 + 4 − 2 b + 18 = 0 -16+4-2 b+18=0 − 16 + 4 − 2 b + 18 = 0 বা, − 2 b = − 6 ∴ b = 3 -2 b=-6 \\quad \\therefore b=3 − 2 b = − 6 ∴ b = 3"
+    },
+    {
+      "number": "3",
+      "tag": "CB 23,MB 22,SB 22,JB 22,MB 21,BB 20,JB 19,All.B 18",
+      "question": "x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটি- i. সমমাত্রিক ii. চক্রক্রমিক iii. প্রতিসম নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "প্রদত্ত রাশি: x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটিকে প্রসারিত করে সরলীকরণ প্রথমে প্রতিতি বন্ধনীকে প্রসারিত করি: = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 =x y^{2}-x z^{2}+y z^{2}-y x^{2}+z x^{2}-z y^{2} = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 পদগুলিকে পুনর্বিন্যাস করি: = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 =-x^{2} y+x y^{2}-y^{2} z+y z^{2}-z^{2} x+z x^{2} = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 এখন, আমরা লক্ষ্য করি যে এটি একটি চক্রক্রমিক রাশি, কারণ x , y x, y x , y , এবং z z z কে চক্রাকারে পরিবর্তন করলে রাশির গঠন অপরিবর্তিত থাকে। উদাহরণস্বরূপ: x → y , y → z , z → x x \\rightarrow y, y \\rightarrow z, z \\rightarrow x x → y , y → z , z → x প্রতিস্থাপন করলে: − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 -y^{2} z+y z^{2}-z^{2} x+z x^{2}-x^{2} y+x y^{2} − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 যা মূল রাশির সমান। সমমাত্রিকতা পরীক্ষা প্রর্তিটি পদের মোট ঘাত (ডিগ্রি) গণনা করি: − x 2 y : 2 + 1 = 3 -x^{2} y: 2+1=3 − x 2 y : 2 + 1 = 3 x y 2 : 1 + 2 = 3 x y^{2}: 1+2=3 x y 2 : 1 + 2 = 3 − y 2 z : 2 + 1 = 3 -y^{2} z: 2+1=3 − y 2 z : 2 + 1 = 3 y z 2 : 1 + 2 = 3 y z^{2}: 1+2=3 y z 2 : 1 + 2 = 3 − z 2 x : 2 + 1 = 3 -z^{2} x: 2+1=3 − z 2 x : 2 + 1 = 3 সকল পদের ডিগ্রি 3, তাই রাশিটি সমমাত্রিক । প্রতিসমতা পরীক্ষা রাশিটি প্রতিসম (Symmetric) নয়, কারণ যেকোনো দুটি চলক অদলবদল করলে রাশিটি অপরিবর্তিত থাকে না। উদাহরণস্বরূপ: x x x ও y y y অদলবদল করলে: y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) y\\left(x^{2}-z^{2}\\right)+x\\left(z^{2}-y^{2}\\right)+z\\left(y^{2}-x^{2}\\right) y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) যা মূল রাশির সমান নয়। সঠিক উত্তর: রাশিটি সমমাত্রিক এবং চক্রক্রমিক, কিন্তু প্রতিসম নয়। ∴ i \\therefore \\mathbf{i} ∴ i ও ii সঠিক।"
+    },
+    {
+      "number": "4",
+      "tag": "CSCD 24,DB 23,SB 23",
+      "question": "সমকোণী ত্রিভুজের মধ্যমাত্রয় 6, 7, 8 একক হলে, অতিভুজের দৈর্ঘ্য কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3.157",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8.207",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9.97",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "99.33",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3.157",
+      "option_b": "8.207",
+      "option_c": "9.97",
+      "option_d": "99.33",
+      "correct": "গ",
+      "explanation": "( A B 2 + B C 2 + A C 2 ) = 4 3 ( 7 2 + 6 2 + 8 2 ) ⇒ ( A C 2 + A C 2 ) = 596 3 ⇒ 2 A C 2 = 596 3 ⇒ A C 2 = 596 6 ⇒ A C = 596 6 ∴ A C = 9.97 \\begin{array}{l} \\left(A B^{2}+B C^{2}+A C^{2}\\right)=\\frac{4}{3}\\left(7^{2}+6^{2}+8^{2}\\right) \\\\ \\Rightarrow\\left(A C^{2}+A C^{2}\\right)=\\frac{596}{3} \\\\ \\Rightarrow 2 A C^{2}=\\frac{596}{3} \\\\ \\Rightarrow A C^{2}=\\frac{596}{6} \\\\ \\Rightarrow A C=\\sqrt{\\frac{596}{6}} \\\\ \\therefore A C=9.97 \\end{array} ( A B 2 + B C 2 + A C 2 ) = 3 4 ​ ( 7 2 + 6 2 + 8 2 ) ⇒ ( A C 2 + A C 2 ) = 3 596 ​ ⇒ 2 A C 2 = 3 596 ​ ⇒ A C 2 = 6 596 ​ ⇒ A C = 6 596 ​ ​ ∴ A C = 9.97 ​ অতিভূজ 9.97 m."
+    },
+    {
+      "number": "5",
+      "tag": "DB 23",
+      "question": "5 x + 4 y = 9 5 x+4 y=9 5 x + 4 y = 9 সমীকরনের ঢাল নির্ণয় কর।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 4 \\frac{9}{4} 4 9 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 4 \\frac{5}{4} 4 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "− 9 4 -\\frac{9}{4} − 4 9 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9 4 \\frac{9}{4} 4 9 ​",
+      "option_b": "5 4 \\frac{5}{4} 4 5 ​",
+      "option_c": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+      "option_d": "− 9 4 -\\frac{9}{4} − 4 9 ​",
+      "correct": "গ",
+      "explanation": "আমরা জানি, a x + b y + c = 0 a x+b y+c=0 a x + b y + c = 0 সরলরেখার ঢাল = − x  এর সহগ  y  এর সহগ  = − a b =-\\frac{x \\text { এর সহগ }}{y \\text { এর সহগ }}=-\\frac{a}{b} = − y   এর   সহগ   x   এর   সহগ   ​ = − b a ​ ∴ 5 x + 4 y = 9 \\therefore 5 x+4 y=9 ∴ 5 x + 4 y = 9 সরলরেখার ঢাল = − 5 4 =-\\frac{5}{4} = − 4 5 ​"
+    },
+    {
+      "number": "6",
+      "tag": "CB 20,All.B 18,ACC 24",
+      "question": "একটি ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 10 সে. মি. হলে ঐ ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল কত বর্গ সে. মি.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25 π 25 \\pi 25 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "100 π 100 \\pi 100 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "200 π 200 \\pi 200 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "400 π 400 \\pi 400 π",
+          "is_correct": true
+        }
+      ],
+      "option_a": "25 π 25 \\pi 25 π",
+      "option_b": "100 π 100 \\pi 100 π",
+      "option_c": "200 π 200 \\pi 200 π",
+      "option_d": "400 π 400 \\pi 400 π",
+      "correct": "ঘ",
+      "explanation": "একটি ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ (r) এবং পরিবৃন্তের ব্যাসার্ধ (R) এর মধ্যে সম্পর্ক হলো: r = R 2 r=\\frac{R}{2} r = 2 R ​ অর্থাৎ, R = 2 r R=2 r R = 2 r পরিবৃত্তের ব্যাসার্ধ নির্ণয় R = 2 × 10 = 20  সে.|মি.  R=2 \\times 10=20 \\text { সে.|মি. } R = 2 × 10 = 20   সে .| মি .  পরিবৃত্তের ক্ষেত্রফল নির্ণয় বৃত্তের ক্ষেত্রফলের সূত্র:  ক্ষেত্রফল  = π R 2 \\text { ক্ষেত্রফল }=\\pi R^{2}   ক্ষেত্রফল   = π R 2 মান বসিয়ে:  ক্ষেত্রফল  = π ( 20 ) 2 = 400 π  বর্গ সে.মি  \\text { ক্ষেত্রফল }=\\pi(20)^{2}=400 \\pi \\text { বর্গ সে.মি }   ক্ষেত্রফল   = π ( 20 ) 2 = 400 π   বর্গ   সে . মি"
+    },
+    {
+      "number": "7",
+      "tag": "DB 23,DB 22",
+      "question": "P ( − 3 , 4 ) P(-3,4) P ( − 3 , 4 ) বিন্দুগামী এবং 1 3 \\frac{1}{3} 3 1 ​ ঢালবিশিষ্ট রেখার সমীকরণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x − 3 y = − 9 x-3 y=-9 x − 3 y = − 9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x − 3 y = 9 x-3 y=9 x − 3 y = 9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x − 3 y = 15 x-3 y=15 x − 3 y = 15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x − 3 y = − 15 x-3 y=-15 x − 3 y = − 15",
+          "is_correct": true
+        }
+      ],
+      "option_a": "x − 3 y = − 9 x-3 y=-9 x − 3 y = − 9",
+      "option_b": "x − 3 y = 9 x-3 y=9 x − 3 y = 9",
+      "option_c": "x − 3 y = 15 x-3 y=15 x − 3 y = 15",
+      "option_d": "x − 3 y = − 15 x-3 y=-15 x − 3 y = − 15",
+      "correct": "ঘ",
+      "explanation": "P ( − 3 , 4 ) \\mathrm{P}(-3,4) P ( − 3 , 4 ) বিন্দুগামী এবং 1 3 \\frac{1}{3} 3 1 ​ ঢালবিশিষ্ট রেখার সমীকরণ, ( y − 4 ) = 1 3 ( x + 3 ) (y-4)=\\frac{1}{3}(x+3) ( y − 4 ) = 3 1 ​ ( x + 3 ) বা, 3 y − 12 = x + 3 ∴ x − 3 y = − 15 3 y-12=x+3 \\quad \\therefore x-3 y=-15 3 y − 12 = x + 3 ∴ x − 3 y = − 15"
+    },
+    {
+      "number": "8",
+      "tag": "DB 23",
+      "question": "AB এর উপর CD এর লম্ব অভিক্ষেপ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "AD",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "B D B D B D",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "AC",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "BC",
+          "is_correct": false
+        }
+      ],
+      "option_a": "AD",
+      "option_b": "B D B D B D",
+      "option_c": "AC",
+      "option_d": "BC",
+      "correct": "খ",
+      "explanation": "কোন রেখার উপর ওই রেখার সমান্তরাল কোন রেখাংশের লম্ব অভিক্ষেপের দৈর্ঘ্য ওই রেখাংশের দৈর্ঘ্যের সমান।"
+    },
+    {
+      "number": "9",
+      "tag": "MB 25,VNSC 24,RUMC 24,ISCM 24,BCPC ,DB 23,SB 23,JB 23,RB 22,BB 22,JB 21,RB 20",
+      "question": "1 2 , 1 10 , 1 30 , … . . \\frac{1}{2}, \\frac{1}{10}, \\frac{1}{30}, \\ldots . . 2 1 ​ , 10 1 ​ , 30 1 ​ , … .. . অনুক্রমটির 10-তম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 1010 \\frac{1}{1010} 1010 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 1100 \\frac{1}{1100} 1100 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 1011 \\frac{1}{1011} 1011 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 1001 \\frac{1}{1001} 1001 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 1010 \\frac{1}{1010} 1010 1 ​",
+      "option_b": "1 1100 \\frac{1}{1100} 1100 1 ​",
+      "option_c": "1 1011 \\frac{1}{1011} 1011 1 ​",
+      "option_d": "1 1001 \\frac{1}{1001} 1001 1 ​",
+      "correct": "ক",
+      "explanation": "প্রদত্ত অনুক্রম: 1 2 , 1 10 , 1 30 , … \\frac{1}{2}, \\frac{1}{10}, \\frac{1}{30}, \\ldots 2 1 ​ , 10 1 ​ , 30 1 ​ , … হরগুলির প্যাটার্ন নির্ণয় হরগুলি হলো: 2 , 10 , 30 , … 2,10,30, \\ldots 2 , 10 , 30 , … এগুলিকে নিম্নরূপে লেখা যায়: 2 = 1 × 2 , 10 = 2 × 5 , 30 = 3 × 10 , … 2=1 \\times 2, \\quad 10=2 \\times 5, \\quad 30=3 \\times 10, \\ldots 2 = 1 × 2 , 10 = 2 × 5 , 30 = 3 × 10 , … এখানে দ্বিতীয় গুণনীয়কগুলি হলো: 2 , 5 , 10 , … (  এlট  n 2 + 1  অনুসরণ করে:  1 2 + 1 = 2 , 2 2 + 1 = 5 , 3 2 + 1 = 10 , ইত্যাদি)  2,5,10, \\ldots \\quad\\left(\\text { এlট } n^{2}+1 \\text { অনুসরণ করে: } 1^{2}+1=2,2^{2}+1=5,3^{2}+1=10\\right. \\text {, ইত্যাদি) } 2 , 5 , 10 , … (   এ l ট   n 2 + 1   অনুসরণ   করে :  1 2 + 1 = 2 , 2 2 + 1 = 5 , 3 2 + 1 = 10 ,  ইত্যাদি )  সাধারণ পদ নির্ণয় n n n -তম পদের হর: n × ( n 2 + 1 ) n \\times\\left(n^{2}+1\\right) n × ( n 2 + 1 ) ∴ n \\therefore n ∴ n -তম পদ: a n = 1 n ( n 2 + 1 ) a_{n}=\\frac{1}{n\\left(n^{2}+1\\right)} a n ​ = n ( n 2 + 1 ) 1 ​ 10-তম পদ গণনা a 10 = 1 10 × ( 10 2 + 1 ) = 1 10 × 101 = 1 1010 a_{10}=\\frac{1}{10 \\times\\left(10^{2}+1\\right)}=\\frac{1}{10 \\times 101}=\\frac{1}{1010} a 10 ​ = 10 × ( 1 0 2 + 1 ) 1 ​ = 10 × 101 1 ​ = 1010 1 ​"
+    },
+    {
+      "number": "10",
+      "tag": "DRMC 24,DB 23,DIN.B 23,SB 23",
+      "question": "n , r ∈ N \\mathbf{n}, \\mathbf{r} \\in \\mathbb{N} n , r ∈ N হলে- i. n C n = 1 { }^{n} C_{n}=1 n C n ​ = 1 ii. n C r = n ! r ! ( n − r ) ! { }^{n} \\mathrm{C}_{\\mathrm{r}}=\\frac{\\mathrm{n!}}{\\mathrm{r}!(\\mathrm{n}-\\mathrm{r})!} n C r ​ = r ! ( n − r )! n ! ​ iii. n C 0 = 1 { }^{n} \\mathrm{C}_{0}=1 n C 0 ​ = 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "(i) n c n = 1 n_{c_{n}}=1 n c n ​ ​ = 1 (ii) n C 0 = 1 n_{C_{0}}=1 n C 0 ​ ​ = 1 6 C 3 = 6 × 5 × 4 3 × 2 × 1 × 3 × 2 × 1 3 × 2 × 1 = 6 × 5 × 4 × 3 × 2 × 1 ( 3 × 2 × 1 ) ( 3 × 2 × 1 ) = 6 ! 3 ! ( 6 − 3 ) ! 6 C r = 7 ! r ! ( n − r ) ! \\begin{aligned} 6_{C_{3}} & =\\frac{6 \\times 5 \\times 4}{3 \\times 2 \\times 1} \\times \\frac{3 \\times 2 \\times 1}{3 \\times 2 \\times 1} \\\\ & =\\frac{6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1}{(3 \\times 2 \\times 1)(3 \\times 2 \\times 1)} \\\\ & =\\frac{6!}{3!(6-3)!} \\\\ { }^{6} C_{r} & =\\frac{7!}{r!(n-r)!} \\end{aligned} 6 C 3 ​ ​ 6 C r ​ ​ = 3 × 2 × 1 6 × 5 × 4 ​ × 3 × 2 × 1 3 × 2 × 1 ​ = ( 3 × 2 × 1 ) ( 3 × 2 × 1 ) 6 × 5 × 4 × 3 × 2 × 1 ​ = 3 ! ( 6 − 3 )! 6 ! ​ = r ! ( n − r )! 7 ! ​ ​"
+    },
+    {
+      "number": "11",
+      "tag": "DIN.B 25,DB 23",
+      "question": "দুইটি মুদ্রা নিক্ষেপের ক্ষেত্রে- i বড়জোর দুইটি H পাওয়ার সম্ভাবনা = 1 ii. কমপক্ষে একটি T পাওয়ার সম্ভাবনা = 3/4 iii. T-T একটি নমুন বিন্দু নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "দুটি মুদ্রা নিক্ষেপ করলে মোট সম্ভাব্য ফলাফল চারটি: HH, HT, TH, TT। \"বড়জোর দুইটি H\" মানে ০, ১ বা ২টি H। এই তিনটি ক্ষেত্রেই ফলাফল সম্ভব, তাই সম্ভাবনা ১। \"কমপক্ষে একটি T\" মানে ১ বা ২টি T। এই দুটি ক্ষেত্রে ফলাফল সম্ভব, তাই সম্ভাবনা ৩/৪। \"T-T\" একটি সম্ভাব্য ফলাফল, তাই এটি একটি নমুনা বিন্দু সঠিক উত্তর হল i, ii এবং iii"
+    },
+    {
+      "number": "12",
+      "tag": "NISD 24,DB 23",
+      "question": "A ( − 1 , 2 ) , B ( 2 , 5 ) , C ( 1 , 3 ) \\mathrm{A}(-1,2), \\mathrm{B}(2,5), \\mathrm{C}(1,3) A ( − 1 , 2 ) , B ( 2 , 5 ) , C ( 1 , 3 ) হলে, △ A B C \\triangle \\mathrm{ABC} △ ABC এর ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 2 \\frac{25}{2} 2 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "25",
+      "option_b": "3",
+      "option_c": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_d": "25 2 \\frac{25}{2} 2 25 ​",
+      "correct": "গ",
+      "explanation": "△ A B C = 1 2 ∣ − 1 2 1 2 5 − 3 − 1 2 2 ∣ = 1 2 ∣ ( − 5 + 6 + 2 ) − ( 4 + 5 − 3 ) ∣ = 1 2 ∣ − 3 ∣ = 1 2 × 3 = 3 2  বর্গএকক  \\begin{array}{l}\\triangle A B C=\\frac{1}{2}\\left|\\begin{array}{cccc}-1 & 2 & 1 & \\\\ 2 & 5 & -3 & -1 \\\\ 2 & & & 2\\end{array}\\right| \\\\ =\\frac{1}{2}|(-5+6+2)-(4+5-3)| \\\\ =\\frac{1}{2}|-3| \\\\ =\\frac{1}{2} \\times 3=\\frac{3}{2} \\text { বর্গএকক }\\end{array} △ A BC = 2 1 ​ ​ − 1 2 2 ​ 2 5 ​ 1 − 3 ​ − 1 2 ​ ​ = 2 1 ​ ∣ ( − 5 + 6 + 2 ) − ( 4 + 5 − 3 ) ∣ = 2 1 ​ ∣ − 3∣ = 2 1 ​ × 3 = 2 3 ​   বর্গএকক   ​"
+    },
+    {
+      "number": "13",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "গ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "14",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "গ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "15",
+      "tag": "RUMC 24,DB 23",
+      "question": "x x x এর জন্য যদি − 1 < 1 x + 1 < 1 -1<\\frac{1}{x+1}<1 − 1 < x + 1 1 ​ < 1 হয়, তবে কোনটি সত্য ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x > − 2 x>-2 x > − 2 অথবা x > 0 x>0 x > 0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x < − 2 x<-2 x < − 2 অথবা x < 0 x<0 x < 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x < − 2 x<-2 x < − 2 অথবা x > 0 x>0 x > 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x > − 2 \\mathrm{x}>-2 x > − 2 , অথবা x < 0 \\mathrm{x}<0 x < 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x > − 2 x>-2 x > − 2 অথবা x > 0 x>0 x > 0",
+      "option_b": "x < − 2 x<-2 x < − 2 অথবা x < 0 x<0 x < 0",
+      "option_c": "x < − 2 x<-2 x < − 2 অথবা x > 0 x>0 x > 0",
+      "option_d": "x > − 2 \\mathrm{x}>-2 x > − 2 , অথবা x < 0 \\mathrm{x}<0 x < 0",
+      "correct": "ক",
+      "explanation": "প্রদত্ত সমীকরণটি হলো − 1 < 1 x + 1 < 1 -1<\\frac{1}{x+1}<1 − 1 < x + 1 1 ​ < 1 । প্রথমত, − 1 < 1 x + 1 -1 < \\frac{1}{x+1} − 1 < x + 1 1 ​ এখানে 1 x + 1 \\frac{1}{x+1} x + 1 1 ​ কে একদিকে রেখে সমীকরণকে এভাবে লিখি: − 1 ⋅ ( x + 1 ) < 1 -1 \\cdot (x+1) < 1 − 1 ⋅ ( x + 1 ) < 1 − 1 < 1 ⋅ ( x + 1 ) -1 < 1 \\cdot (x+1) − 1 < 1 ⋅ ( x + 1 ) এখন − 1 -1 − 1 কে উভয় পাশ থেকে যোগ করি 0 < x + 1 0 < x+1 0 < x + 1 অথবা ⇒ x > − 1 \\Rightarrow x > -1 ⇒ x > − 1 এবার, 1 x + 1 < 1 \\frac{1}{x+1} < 1 x + 1 1 ​ < 1 সমাধান করি: একই পদ্ধতি অনুসরণ করি: ( x + 1 ) ⋅ 1 > 1 (x+1) \\cdot 1 > 1 ( x + 1 ) ⋅ 1 > 1 x + 1 > 1 x+1 > 1 x + 1 > 1 ⇒ x > 0 \\Rightarrow x > 0 ⇒ x > 0 সুতরাং, দুটি শর্তের সমাধান করতে পেলে, ' আমরা পাই, x > − 1 x > -1 x > − 1 এবং x > 0 x > 0 x > 0 এই দুইটি শর্তের মিলিত রেঞ্জ হবে x > 0 x > 0 x > 0 তাহলে আমাদের সঠিক উত্তর হবে: ( x < − 2 ( x < -2 ( x < − 2 অথবা x > 0 x > 0 x > 0 ) উত্তর: (C) x < − 2 x<-2 x < − 2 অথবা x > 0 x>0 x > 0"
+    },
+    {
+      "number": "16",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "17",
+      "tag": "DB 23",
+      "question": "sin ⁡ A = 1 2  এবং  cos ⁡ B = 3 2  হলে  tan ⁡ ( A + B ) =  কত?  \\begin{array}{l} \\sin A=\\frac{1}{2} \\text { এবং } \\cos {B}=\\frac{\\sqrt{3}}{2} \\text { হলে } \\tan (A+B)=\\text { কত? } \\end{array} sin A = 2 1 ​   এবং   cos B = 2 3 ​ ​   হলে   tan ( A + B ) =   কত ?  ​",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "1",
+      "option_c": "2 \\sqrt{2} 2 ​",
+      "option_d": "3 \\sqrt{3} 3 ​",
+      "correct": "গ",
+      "explanation": "sin ⁡ A = 1 2 = sin ⁡ 30 ∘ ∴ A = 30 ∘  এবং  cos ⁡ B = 3 2 = cos ⁡ 30 ∘ ∴ B = 30 ∘ ∴ tan ⁡ ( A + B ) = tan ⁡ 60 ∘ = 3 \\begin{array}{l}\\sin A=\\frac{1}{2}=\\sin 30^{\\circ} \\therefore A=30^{\\circ} \\text { এবং } \\cos B=\\frac{\\sqrt{3}}{2}=\\cos 30^{\\circ} \\therefore B=30^{\\circ} \\\\ \\therefore \\tan (A+B)=\\tan 60^{\\circ}=\\sqrt{3}\\end{array} sin A = 2 1 ​ = sin 3 0 ∘ ∴ A = 3 0 ∘   এবং   cos B = 2 3 ​ ​ = cos 3 0 ∘ ∴ B = 3 0 ∘ ∴ tan ( A + B ) = tan 6 0 ∘ = 3 ​ ​"
+    },
+    {
+      "number": "18",
+      "tag": "CB 25,RUMC 24,DB 23,RB 23,CTG.B 22",
+      "question": "f ( x ) = log ⁡ 10 3 x f(x)=\\log _{10} 3 x f ( x ) = lo g 10 ​ 3 x f(x) এর ডোমেন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( − ∞ , ∞ ) (-\\infty, \\infty) ( − ∞ , ∞ )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( − ∞ , 0 ) (-\\infty, 0) ( − ∞ , 0 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 0 , ∞ ) (0, \\infty) ( 0 , ∞ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 3 , ∞ ) (3, \\infty) ( 3 , ∞ )",
+          "is_correct": true
+        }
+      ],
+      "option_a": "( − ∞ , ∞ ) (-\\infty, \\infty) ( − ∞ , ∞ )",
+      "option_b": "( − ∞ , 0 ) (-\\infty, 0) ( − ∞ , 0 )",
+      "option_c": "( 0 , ∞ ) (0, \\infty) ( 0 , ∞ )",
+      "option_d": "( 3 , ∞ ) (3, \\infty) ( 3 , ∞ )",
+      "correct": "ঘ",
+      "explanation": "f ( x ) = log ⁡ 10 3 x f(x)=\\log _{10} 3 x f ( x ) = lo g 10 ​ 3 x এখানে, x → 0  এবং  x → ∞  হলে  \\begin{array}{l} x \\rightarrow 0 \\text { এবং } \\\\ x \\rightarrow \\infty \\text { হলে } \\end{array} x → 0   এবং   x → ∞   হলে   ​ ফাংশনটি সংজ্ঞায়িত হয়। ∴  ডোমেন  ( 0 , ∞ ) .  \\therefore \\text { ডোমেন }(0, \\infty) \\text {. } ∴   ডোমেন   ( 0 , ∞ ) ."
+    },
+    {
+      "number": "19",
+      "tag": "DB 23",
+      "question": "2 y + 3 + 2 y + 1 = 320  হলে  y = ? 2^{y+3}+2^{y+1} = 320 \\text { হলে } y=? 2 y + 3 + 2 y + 1 = 320   হলে   y = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "০",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "০",
+      "option_b": "1",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": "2 y + 3 + 2 y + 1 = 320 2^{y+3}+2^{y+1}=320 2 y + 3 + 2 y + 1 = 320 2 y + 3 = 2 y ⋅ 2 3 = 8 ⋅ 2 y 2 y + 1 = 2 y ⋅ 2 1 = 2 ⋅ 2 y \\begin{array}{l} 2^{y+3}=2^{y} \\cdot 2^{3}=8 \\cdot 2^{y} \\\\ 2^{y+1}=2^{y} \\cdot 2^{1}=2 \\cdot 2^{y} \\end{array} 2 y + 3 = 2 y ⋅ 2 3 = 8 ⋅ 2 y 2 y + 1 = 2 y ⋅ 2 1 = 2 ⋅ 2 y ​ 8 ⋅ 2 y + 2 ⋅ 2 y = 320 8 \\cdot 2^{y}+2 \\cdot 2^{y}=320 8 ⋅ 2 y + 2 ⋅ 2 y = 320 ( 8 + 2 ) ⋅ 2 y = 320 10 ⋅ 2 y = 320 \\begin{array}{c} (8+2) \\cdot 2^{y}=320 \\\\ 10 \\cdot 2^{y}=320 \\end{array} ( 8 + 2 ) ⋅ 2 y = 320 10 ⋅ 2 y = 320 ​ 2 y = 320 10 = 32 2^{y}=\\frac{320}{10}=32 2 y = 10 320 ​ = 32 2 y = 2 5 ⟹ y = 5 2^{y}=2^{5} \\Longrightarrow y=5 2 y = 2 5 ⟹ y = 5 5 5 5"
+    },
+    {
+      "number": "20",
+      "tag": "GLHSD 24,DB 23,SB 23",
+      "question": "x + 3y + 5 = 0 এবং mx + y + 6 = 0 রেখাদ্বয় পরস্পর লম্ব হলে, m এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 1 3 -\\frac{1}{3} − 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "− 1 3 -\\frac{1}{3} − 3 1 ​",
+      "option_c": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_d": "3",
+      "correct": "ক",
+      "explanation": "x + 3 y + 5 = 0 y = − 1 3 x − 5 3  ঢাল = − 1 3 m x + y + 6 = 0 y = − m x − 6  ঢাল = − m \\begin{array}{l}x+3 y+5=0 \\\\ y=-\\frac{1}{3} x-\\frac{5}{3} \\text { ঢাল}=-\\frac{1}{3} \\\\ m x+y+6=0 \\\\ y=-m x-6 \\text { ঢাল}=-m\\end{array} x + 3 y + 5 = 0 y = − 3 1 ​ x − 3 5 ​   ঢাল = − 3 1 ​ m x + y + 6 = 0 y = − m x − 6   ঢাল = − m ​ রেখাদ্বয় পরস্পরের লম্ব হলে ঢালদ্বয়ের গুণফল −1 হবে। তাহলে, ( − 1 3 ) × ( − m ) = − 1 ⇒ m 3 = − 1 ∴ m = − 3 \\begin{aligned} & \\left(-\\frac{1}{3}\\right) \\times(-m)=-1 \\\\ \\Rightarrow & \\frac{m}{3}=-1 \\\\ \\therefore & m=-3\\end{aligned} ⇒ ∴ ​ ( − 3 1 ​ ) × ( − m ) = − 1 3 m ​ = − 1 m = − 3 ​"
+    },
+    {
+      "number": "21",
+      "tag": "DRMC 24,BMARPC 24,BAFSC 24,RCPC 24,BCPC ,DB 23,BB 23,DB 22,DIN.B 22,CB 22,CTG.B 21,BB 21,MB 20,DIN.B 20,CTG.B 20,RB 19",
+      "question": "log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x=3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ , হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "32",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "32",
+      "option_b": "16",
+      "option_c": "8",
+      "option_d": "1",
+      "correct": "খ",
+      "explanation": "দেয়া আছে log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x = 3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ প্রথমে ভগ্নাংশকে অপরিমেয় ভগ্নাংশের আকারে প্রকাশ করি: 3 1 3 = 10 3 3 \\frac{1}{3} = \\frac{10}{3} 3 3 1 ​ = 3 10 ​ অতএব, সমীকরণটি হবে: log ⁡ 8 x = 10 3 \\log _{\\sqrt{8}} x = \\frac{10}{3} lo g 8 ​ ​ x = 3 10 ​ এটি থেকে পাওয়া যায়: x = ( 8 ) 10 3 x = (\\sqrt{8})^{\\frac{10}{3}} x = ( 8 ​ ) 3 10 ​ 8 = 8 1 2 \\sqrt{8} = 8^{\\frac{1}{2}} 8 ​ = 8 2 1 ​ হিসাবে লিখতে পারি। তাহলে সমীকরণটি হবে: x = ( 8 1 2 ) 10 3 x = (8^{\\frac{1}{2}})^{\\frac{10}{3}} x = ( 8 2 1 ​ ) 3 10 ​ শক্তি হিসাব করে নেওয়া যাক: x = 8 1 2 × 10 3 = 8 5 3 x = 8^{\\frac{1}{2} \\times \\frac{10}{3}} = 8^{\\frac{5}{3}} x = 8 2 1 ​ × 3 10 ​ = 8 3 5 ​ এখন, এটিকে প্রাথমিক হিসাব করে বের করতে পারি: 8 = 2 3 8 = 2^3 8 = 2 3 সুতরাং, 8 5 3 = ( 2 3 ) 5 3 = 2 3 × 5 3 = 2 5 8^{\\frac{5}{3}} = (2^3)^{\\frac{5}{3}} = 2^{3 \\times \\frac{5}{3}} = 2^5 8 3 5 ​ = ( 2 3 ) 3 5 ​ = 2 3 × 3 5 ​ = 2 5 অতএব, x = 2 5 = 32 x = 2^5 = 32 x = 2 5 = 32"
+    },
+    {
+      "number": "22",
+      "tag": "DB 23",
+      "question": "( 1 + y ) 15 (1+y)^{15} ( 1 + y ) 15 এর বিস্তৃতিতে 7ম ও 8ম পদ দুটি সমান হলে y এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 7 9 -\\frac{7}{9} − 9 7 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7 9 \\frac{7}{9} 9 7 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8 9 \\frac{8}{9} 9 8 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9 7 \\frac{9}{7} 7 9 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 7 9 -\\frac{7}{9} − 9 7 ​",
+      "option_b": "7 9 \\frac{7}{9} 9 7 ​",
+      "option_c": "8 9 \\frac{8}{9} 9 8 ​",
+      "option_d": "9 7 \\frac{9}{7} 7 9 ​",
+      "correct": "খ",
+      "explanation": "প্রশ্নমতে , 15 C 6 . y 6 = 15 C 7 . y 7 , ∴ y = 15 C 6 15 C 7 = 7 9 { }^{15} \\mathrm{C}_{6} . \\mathrm{y}^{6}={ }^{15} \\mathrm{C}_{7} . \\mathrm{y}^{7}, \\quad \\therefore \\mathrm{y}=\\frac{{ }^{15} \\mathrm{C}_{6}}{{ }^{15} \\mathrm{C}_{7}}=\\frac{7}{9} 15 C 6 ​ . y 6 = 15 C 7 ​ . y 7 , ∴ y = 15 C 7 ​ 15 C 6 ​ ​ = 9 7 ​"
+    },
+    {
+      "number": "23",
+      "tag": "DB 23",
+      "question": "x − 5 y + 10 = 0 x-5 y+10=0 x − 5 y + 10 = 0 এবং 5 x − 2 y + 12 = 0 5 x-2 y+12=0 5 x − 2 y + 12 = 0 রেখাদ্বয়ের ঢালদ্বয়ের গুণফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25 2 \\frac{25}{2} 2 25 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 25 2 -\\frac{25}{2} − 2 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "25 2 \\frac{25}{2} 2 25 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_d": "− 25 2 -\\frac{25}{2} − 2 25 ​",
+      "correct": "খ",
+      "explanation": "x − 5 y + 10 = 0 ⇒ y = 1 5 x + 2  ( … 1) ঢাল = 1 5 \\begin{aligned} & x-5 y+10=0 \\\\ \\Rightarrow & y=\\frac{1}{5} x+2 \\quad \\text { (…1) ঢাল}=\\frac{1}{5}\\end{aligned} ⇒ ​ x − 5 y + 10 = 0 y = 5 1 ​ x + 2  ( … 1)  ঢাল = 5 1 ​ ​ 5 x − 2 y + 12 = 0 y = 5 2 x + 6  ( … 2) ঢাল = 5 2 \\begin{array}{l}5 x-2 y+12=0 \\\\ y=\\frac{5}{2} x+6 \\text { (…2) ঢাল}=\\frac{5}{2}\\end{array} 5 x − 2 y + 12 = 0 y = 2 5 ​ x + 6  ( … 2)  ঢাল = 2 5 ​ ​ ঢালদ্বয়ের গুনফল, = 1 5 × 5 2 = 1 2 \\begin{array}{l}=\\frac{1}{5} \\times \\frac{5}{2} \\\\ =\\frac{1}{2}\\end{array} = 5 1 ​ × 2 5 ​ = 2 1 ​ ​"
+    },
+    {
+      "number": "24",
+      "tag": "CTG.B 25,MB 24,SB 24,JGCC 24,CPSCR 24,BMARPC 24,RCS 24,DB 23,MB 23,CTG.B 23,DB 22,CB 22,SB 22,JB 22,MB 20,RB 20,RB 19,CB 19,All.B 18",
+      "question": "একটি নিরপেক্ষ ছক্কা একবার নিক্ষেপ করা হলে প্রাপ্ত সংখ্যাটি জোড় কিন্তু 6 দ্বারা বিভাজ্য না হওয়ার সম্ভাবনা কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "5 6 \\frac{5}{6} 6 5 ​",
+      "correct": "ঘ",
+      "explanation": "প্রথমে, ছক্কার সম্ভাব্য ফলাফল: S = { 1 , 2 , 3 , 4 , 5 , 6 } S = \\{1, 2, 3, 4, 5, 6\\} S = { 1 , 2 , 3 , 4 , 5 , 6 } মোট সম্ভাব্য ফলাফলের সংখ্যা n ( S ) = 6 n(S) = 6 n ( S ) = 6 জোড় সংখ্যাগুলো হলো: { 2 , 4 , 6 } \\{2, 4, 6\\} { 2 , 4 , 6 } । এদের মধ্যে 6 হলো 6 দ্বারা বিভাজ্য। তাই জোড় কিন্তু 6 দ্বারা বিভাজ্য নয় এমন সংখ্যাগুলো হলো: { 2 , 4 } \\{2, 4\\} { 2 , 4 } । অনুকূল ফলাফলের সংখ্যা n ( A ) = 2 n(A) = 2 n ( A ) = 2 সুতরাং সম্ভাবনা: P ( A ) = n ( A ) n ( S ) = 2 6 = 1 3 P(A) = \\frac{n(A)}{n(S)} = \\frac{2}{6} = \\frac{1}{3} P ( A ) = n ( S ) n ( A ) ​ = 6 2 ​ = 3 1 ​"
+    },
+    {
+      "number": "25",
+      "tag": "NISD 24,DB 23",
+      "question": "খুলনা শহরে জুন মাসে 15 দিন বৃষ্টি হয়েছে 1 জুন বৃষ্টি হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15 31 \\frac{15}{31} 31 15 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 5 \\frac{1}{5} 5 1 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "15 31 \\frac{15}{31} 31 15 ​",
+      "option_d": "1 2 \\frac{1}{2} 2 1 ​",
+      "correct": "ঘ",
+      "explanation": "প্রশ্নে বলা হয়েছে — খুলনা শহরে জুন মাসে ৩০ দিনের মধ্যে ১৫ দিন বৃষ্টি হয়েছে। তাহলে মোট সম্ভাব্য দিন সংখ্যা = ৩০ বৃষ্টি হওয়া অনুকূল দিন সংখ্যা = ১৫ এখন ১ জুন বৃষ্টি হওয়ার সম্ভবনা হবে: P ( বৃষ্টি হওয়া ) = বৃষ্টি হওয়া দিনের সংখ্যা মোট দিনের সংখ্যা = 15 30 = 1 2 P(\\text{বৃষ্টি হওয়া}) = \\frac{\\text{বৃষ্টি হওয়া দিনের সংখ্যা}}{\\text{মোট দিনের সংখ্যা}} = \\frac{15}{30} = \\frac{1}{2} P ( বৃষ্টি   হওয়া ) = মোট   দিনের   সংখ্যা বৃষ্টি   হওয়া   দিনের   সংখ্যা ​ = 30 15 ​ = 2 1 ​"
+    }
+  ]
+}

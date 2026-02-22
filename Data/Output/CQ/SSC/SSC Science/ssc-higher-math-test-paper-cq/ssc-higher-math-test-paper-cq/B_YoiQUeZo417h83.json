@@ -1,0 +1,182 @@
+{
+  "title": "ময়মনসিংহ বোর্ড ২০২০",
+  "subtitle": "উচ্চতর গণিত (8)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "f ( x ) = 1 1 + 2 x f(x)=\\frac{1}{1+2 x} f ( x ) = 1 + 2 x 1 ​ এবং g ( x ) = x + y x − y g(x)=\\frac{x+y}{x-y} g ( x ) = x − y x + y ​",
+      "tag": "MB 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "3 x 2 − 2 x + 1 = 0 3 x^{2}-2 x+1=0 3 x 2 − 2 x + 1 = 0 সমীকর়ণটির নিশ্চায়ক কত?",
+          "explanation": "প্রদত্ত 3 x 2 − 2 x + 1 = 0 3 \\mathrm{x}^{2}-2 \\mathrm{x}+1=0 3 x 2 − 2 x + 1 = 0 সমীকরণটিকে a x 2 + b x + c = 0 \\mathrm{ax}^{2}+\\mathrm{bx}+\\mathrm{c}=0 ax 2 + bx + c = 0 সমীকরণের সাথে তুলনা করে পাই, a = 3 , b = − 2 a=3, b=-2 a = 3 , b = − 2 এবং c = 1 c=1 c = 1 . ∴ \\therefore ∴ সমীকরণটির নিশ্চায়ক = b 2 − 4 a c = ( − 2 ) 2 − 4.3.1 =b^{2}-4 a c=(-2)^{2}-4.3 .1 = b 2 − 4 a c = ( − 2 ) 2 − 4.3.1 = 4 − 12 = − 8 =4-12=-8 = 4 − 12 = − 8 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "f ( x ) f(x) f ( x ) এর ডোমেন ও রেঞ্জ নির্ণয় কর। দেখাও যে, f ( x ) f(\\mathrm{x}) f ( x ) এক-এক ফাংশ।",
+          "explanation": "f ( x ) = 1 1 + 2 x ∈ R f(x)=\\frac{1}{1+2 x} \\in \\mathbb{R} f ( x ) = 1 + 2 x 1 ​ ∈ R হবে যদি ও কেবল যদি 1 + 2 x ≠ 0 1+2 \\mathrm{x} \\neq 0 1 + 2 x  = 0 বা, x ≠ − 1 2 \\mathrm{x} \\neq-\\frac{1}{2} x  = − 2 1 ​ হয়। সুতরাং ডোম, f = { x : x ∈ R f=\\left\\{x: x \\in \\mathbb{R}\\right. f = { x : x ∈ R এবং x ≠ − 1 2 } \\left.x \\neq-\\frac{1}{2}\\right\\} x  = − 2 1 ​ } (Ans.) আবার, ধরি, y = f ( x ) = 1 1 + 2 x \\mathrm{y}=f(\\mathrm{x})=\\frac{1}{1+2 \\mathrm{x}} y = f ( x ) = 1 + 2 x 1 ​ বা, y + 2 x y = 1 y+2 x y=1 y + 2 x y = 1 বা, 2 x y = 1 − y 2 x y=1-y 2 x y = 1 − y বা, x = 1 − y 2 y x=\\frac{1-y}{2 y} x = 2 y 1 − y ​ x x x সংজ্ঞায়িত হবে যদি ও কেবল যদি 2 y ≠ 0 2 y \\neq 0 2 y  = 0 বা, y ≠ 0 y \\neq 0 y  = 0 হয়। ∴ \\therefore ∴ প্রদত্ত ফাংশনের রেঞ্জ, R f = R − { 0 } \\mathrm{R}_{f}=\\mathbb{R}-\\{0\\} R f ​ = R − { 0 } . (Ans.). f ( x ) f(x) f ( x ) এক-এক হবে যদি ও কেবল যদি যেকোনো a , b ∈ \\mathrm{a}, \\mathrm{b} \\in a , b ∈ ডোম f এর জন্য f ( a ) = f (   b ) f(\\mathrm{a})=f(\\mathrm{~b}) f ( a ) = f (   b ) হলে a = b \\mathrm{a}=\\mathrm{b} a = b शয়। ধরি, f ( a ) = f ( b ) f(a)=f(b) f ( a ) = f ( b ) বা, 1 1 + 2 a = 1 1 + 2 b \\frac{1}{1+2 a}=\\frac{1}{1+2 b} 1 + 2 a 1 ​ = 1 + 2 b 1 ​ বা, 1 + 2 a = 1 + 2 b 1+2 a=1+2 b 1 + 2 a = 1 + 2 b বা, 2 a = 2 b ∴ a = b 2 a=2 b \\therefore a=b 2 a = 2 b ∴ a = b অতএব, ফাংশনটি এক-এক। (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "g ( x ) + 1 g ( x ) = 5 2 g(x)+\\frac{1}{g(x)}=\\frac{5}{2} g ( x ) + g ( x ) 1 ​ = 2 5 ​ এবং x 2 + y 2 = 90 x^{2}+y^{2}=90 x 2 + y 2 = 90 হলে সমীকরণ জোটের সমাধান কর।",
+          "explanation": "দেওয়া আছে, g ( x ) = x + y x − y g(x)=\\frac{x+y}{x-y} g ( x ) = x − y x + y ​ তাহলে, g ( x ) + 1 g ( x ) = 5 2 g(x)+\\frac{1}{g(x)}=\\frac{5}{2} g ( x ) + g ( x ) 1 ​ = 2 5 ​ বা, x + y x − y + 1 x + y x − y = 5 2 \\frac{x+y}{x-y}+\\frac{1}{\\frac{x+y}{x-y}}=\\frac{5}{2} x − y x + y ​ + x − y x + y ​ 1 ​ = 2 5 ​ ∴ x + y x − y + x − y x + y = 5 2 \\therefore \\frac{x+y}{x-y}+\\frac{x-y}{x+y}=\\frac{5}{2} ∴ x − y x + y ​ + x + y x − y ​ = 2 5 ​ ………(i) এবং x 2 + y 2 = 90 x^{2}+y^{2}=90 x 2 + y 2 = 90 ……….(ii) (i) নং থেকে আমরা পাই, ( x + y ) 2 + ( x − y ) 2 ( x + y ) ( x − y ) = 5 2 \\frac{(x+y)^{2}+(x-y)^{2}}{(x+y)(x-y)}=\\frac{5}{2} ( x + y ) ( x − y ) ( x + y ) 2 + ( x − y ) 2 ​ = 2 5 ​ বা, 2 ( x 2 + y 2 ) x 2 − y 2 = 5 2 \\frac{2\\left(\\mathrm{x}^{2}+\\mathrm{y}^{2}\\right)}{\\mathrm{x}^{2}-\\mathrm{y}^{2}}=\\frac{5}{2} x 2 − y 2 2 ( x 2 + y 2 ) ​ = 2 5 ​ বা, 2 × 90 x 2 − y 2 = 5 2 \\frac{2 \\times 90}{\\mathrm{x}^{2}-\\mathrm{y}^{2}}=\\frac{5}{2} x 2 − y 2 2 × 90 ​ = 2 5 ​ [(ii) থেকে x 2 + y 2 = 90 x^{2}+y^{2}=90 x 2 + y 2 = 90 বসিয়ে] বা, x 2 − y 2 = 72 x^{2}-y^{2}=72 x 2 − y 2 = 72 .....…(iii) (ii) ও (iii) নং সমীকরণ যোগ করে পাই, 2 x 2 = 162 2 \\mathrm{x}^{2}=162 2 x 2 = 162 বা, x 2 = 81 ∴ x = ± 9 \\mathrm{x}^{2}=81 \\therefore \\mathrm{x}= \\pm 9 x 2 = 81 ∴ x = ± 9 (ii) নং সমীকরণে x x x এর মান বসিয়ে পাই, x = 9 x=9 x = 9 হলে 9 2 + y 2 = 90 9^{2}+y^{2}=90 9 2 + y 2 = 90 বা, y 2 = 9 ∴ y = ± 3 y^{2}=9 \\therefore y= \\pm 3 y 2 = 9 ∴ y = ± 3 x = − 9 x=-9 x = − 9 হলে, ( − 9 ) 2 + y 2 = 90 (-9)^{2}+y^{2}=90 ( − 9 ) 2 + y 2 = 90 বা; y 2 = 9 , ∴ y = ± 3 y^{2}=9, \\therefore y= \\pm 3 y 2 = 9 , ∴ y = ± 3 নির্ণেয় সমাধান: ( x , y ) = ( 9 , 3 ) , ( 9 , − 3 ) , ( − 9 , 3 ) , ( − 9 , − 3 ) (x, y)=(9,3),(9,-3),(-9,3),(-9,-3) ( x , y ) = ( 9 , 3 ) , ( 9 , − 3 ) , ( − 9 , 3 ) , ( − 9 , − 3 ) (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "A = x 2 + 2 , x ≥ 0  এবং  S = { ( x , y ) : x 2 + y 2 − 6 x + 10 y − 47 = 0 } \\begin{array}{l}A=x^{2}+2, x \\geq 0 \\text { এবং } \\\\ S=\\left\\{(x, y): x^{2}+y^{2}-6 x+10 y-47=0\\right\\}\\end{array} A = x 2 + 2 , x ≥ 0   এবং   S = { ( x , y ) : x 2 + y 2 − 6 x + 10 y − 47 = 0 } ​",
+      "tag": "MB 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "4 x 4 + 8 x 3 − x 2 − 2 x 4 x^{4}+8 x^{3}-x^{2}-2 x 4 x 4 + 8 x 3 − x 2 − 2 x কে উৎপাদকে বিশ্লেষণ কর।",
+          "explanation": "প্রদত্ত রাশি  = 4 x 4 + 8 x 3 − x 2 − 2 x = x ( 4 x 3 + 8 x 2 − x − 2 ) = x { 4 x 2 ( x + 2 ) − 1 ( x + 2 ) } = x ( x + 2 ) ( 4 x 2 − 1 ) = x ( x + 2 ) { ( 2 x ) 2 − ( 1 ) 2 } = x ( x + 2 ) ( 2 x + 1 ) ( 2 x − 1 )  (Ans.)  \\begin{aligned} \\text { প্রদত্ত রাশি } & =4 x^{4}+8 x^{3}-x^{2}-2 x=x\\left(4 x^{3}+8 x^{2}-x-2\\right) \\\\ & =x\\left\\{4 x^{2}(x+2)-1(x+2)\\right\\}=x(x+2)\\left(4 x^{2}-1\\right) \\\\ & =x(x+2)\\left\\{(2 x)^{2}-(1)^{2}\\right\\} \\\\ & =x(x+2)(2 x+1)(2 x-1) \\text { (Ans.) }\\end{aligned}   প্রদত্ত   রাশি   ​ = 4 x 4 + 8 x 3 − x 2 − 2 x = x ( 4 x 3 + 8 x 2 − x − 2 ) = x { 4 x 2 ( x + 2 ) − 1 ( x + 2 ) } = x ( x + 2 ) ( 4 x 2 − 1 ) = x ( x + 2 ) { ( 2 x ) 2 − ( 1 ) 2 } = x ( x + 2 ) ( 2 x + 1 ) ( 2 x − 1 )  (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "A = 3 2 3 + 3 − 2 3 \\mathrm{A}=3^{\\frac{2}{3}}+3^{-\\frac{2}{3}} A = 3 3 2 ​ + 3 − 3 2 ​ হলে দেখাও যে, 3 x 3 + 9 x − 8 = 0 3 \\mathrm{x}^{3}+9 \\mathrm{x}-8=0 3 x 3 + 9 x − 8 = 0",
+          "explanation": "নিম্নের অনুরূপঃ দেওয়া আছে, P = a 2 + 2 \\mathrm{P}=\\mathrm{a}^{2}+2 P = a 2 + 2 এবং P = 3 2 3 + 3 − 2 3 \\mathrm{P}=3^{\\frac{2}{3}}+3^{\\frac{-2}{3}} P = 3 3 2 ​ + 3 3 − 2 ​ [উদ্দীপক হতে পাই] ∴ a 2 + 2 = 3 2 3 + 3 − 2 3 \\therefore a^{2}+2=3^{\\frac{2}{3}}+3^{\\frac{-2}{3}} ∴ a 2 + 2 = 3 3 2 ​ + 3 3 − 2 ​ বা, a 2 = 3 2 3 − 2 + 3 − 2 3 \\mathrm{a}^{2}=3^{\\frac{2}{3}}-2+3^{\\frac{-2}{3}} a 2 = 3 3 2 ​ − 2 + 3 3 − 2 ​ বা, a 2 = ( 3 1 3 ) 2 − 2 ⋅ 3 1 3 ⋅ 3 − 1 3 + ( 3 − 1 3 ) 2 \\mathrm{a}^{2}=\\left(3^{\\frac{1}{3}}\\right)^{2}-2 \\cdot 3^{\\frac{1}{3}} \\cdot 3^{\\frac{-1}{3}}+\\left(3^{\\frac{-1}{3}}\\right)^{2} a 2 = ( 3 3 1 ​ ) 2 − 2 ⋅ 3 3 1 ​ ⋅ 3 3 − 1 ​ + ( 3 3 − 1 ​ ) 2 বা, a 2 = ( 3 1 3 − 3 − 1 3 ) 2 a^{2}=\\left(3^{\\frac{1}{3}}-3^{\\frac{-1}{3}}\\right)^{2} a 2 = ( 3 3 1 ​ − 3 3 − 1 ​ ) 2 বা, a = 3 1 3 − 3 − 1 3 [ ∵ a ≥ 0 ] a=3^{\\frac{1}{3}}-3^{\\frac{-1}{3}}[\\because a \\geq 0] a = 3 3 1 ​ − 3 3 − 1 ​ [ ∵ a ≥ 0 ] [বর্গমূল করে] বা, a 3 = ( 3 1 3 − 3 − 1 3 ) 3 \\mathrm{a}^{3}=\\left(3^{\\frac{1}{3}}-3^{\\frac{-1}{3}}\\right)^{3} a 3 = ( 3 3 1 ​ − 3 3 − 1 ​ ) 3 [ঘন করে] বা, a 3 = ( 3 1 3 ) 3 − ( 3 − 1 3 ) 3 − 3 ⋅ 3 1 3 ⋅ 3 − 1 3 ( 3 1 3 − 3 − 1 3 ) a^{3}=\\left(3^{\\frac{1}{3}}\\right)^{3}-\\left(3^{\\frac{-1}{3}}\\right)^{3}-3 \\cdot 3^{\\frac{1}{3}} \\cdot 3^{\\frac{-1}{3}}\\left(3^{\\frac{1}{3}}-3^{\\frac{-1}{3}}\\right) a 3 = ( 3 3 1 ​ ) 3 − ( 3 3 − 1 ​ ) 3 − 3 ⋅ 3 3 1 ​ ⋅ 3 3 − 1 ​ ( 3 3 1 ​ − 3 3 − 1 ​ ) বা, a 3 = 3 − 3 − 1 − 3.3 1 3 − 1 3 ⋅ a [ ∵ 3 1 3 − 3 − 1 3 = a ] \\mathrm{a}^{3}=3-3^{-1}-3.3^{\\frac{1}{3}-\\frac{1}{3}} \\cdot a\\left[\\because 3^{\\frac{1}{3}}-3^{\\frac{-1}{3}}=\\mathrm{a}\\right] a 3 = 3 − 3 − 1 − 3. 3 3 1 ​ − 3 1 ​ ⋅ a [ ∵ 3 3 1 ​ − 3 3 − 1 ​ = a ] বা, a 3 = 3 − 1 3 − 3.3 0 ⋅ a \\mathrm{a}^{3}=3-\\frac{1}{3}-3.3^{0} \\cdot \\mathrm{a} a 3 = 3 − 3 1 ​ − 3. 3 0 ⋅ a বা, a 3 = 3 − 1 3 − 3 a [ ∵ 3 0 = 1 ] \\mathrm{a}^{3}=3-\\frac{1}{3}-3 \\mathrm{a} \\quad\\left[\\because 3^{0}=1\\right] a 3 = 3 − 3 1 ​ − 3 a [ ∵ 3 0 = 1 ] বা, a 3 = 9 − 1 − 9 a 3 \\mathrm{a}^{3}=\\frac{9-1-9 \\mathrm{a}}{3} a 3 = 3 9 − 1 − 9 a ​ বা, 3 a 3 = 8 − 9 a 3 \\mathrm{a}^{3}=8-9 \\mathrm{a} 3 a 3 = 8 − 9 a বা, 3 a 3 + 9 a = 8 3 \\mathrm{a}^{3}+9 \\mathrm{a}=8 3 a 3 + 9 a = 8 বা, 3 ( a 3 + 3 a ) = 8 ∴ a 3 + 3 a = 8 3 3\\left(a^{3}+3 a\\right)=8 \\quad \\therefore a^{3}+3 a=\\frac{8}{3} 3 ( a 3 + 3 a ) = 8 ∴ a 3 + 3 a = 3 8 ​ (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "S এর লেখচিত্র অঙ্কন কর এবং S S S অন্বয়টি ফাংশন কিনা তা লেখচিত্র থেকে নির্ধারণ কর।",
+          "explanation": "নিম্নের অনুরূপঃ  দেওয়া আছে,  S = { ( x , y ) : x 2 + y 2 − 6 x + 10 y − 47 = 0 } = { ( x , y ) : x 2 − 2 ⋅ x ⋅ 3 + 3 2 + y 2 + 2 ⋅ y ⋅ 5 + 5 2 − 81 = 0 } = { ( x , y ) : ( x − 3 ) 2 + ( y + 5 ) 2 = 9 2 } \\begin{array}{l}\\text { দেওয়া আছে, } S=\\left\\{(x, y): x^{2}+y^{2}-6 x+10 y-47=0\\right\\} \\\\ \\quad=\\left\\{(x, y): x^{2}-2 \\cdot x \\cdot 3+3^{2}+y^{2}+2 \\cdot y \\cdot 5+5^{2}-81=0\\right\\} \\\\ =\\left\\{(x, y):(x-3)^{2}+(y+5)^{2}=9^{2}\\right\\}\\end{array}   দেওয়া   আছে ,  S = { ( x , y ) : x 2 + y 2 − 6 x + 10 y − 47 = 0 } = { ( x , y ) : x 2 − 2 ⋅ x ⋅ 3 + 3 2 + y 2 + 2 ⋅ y ⋅ 5 + 5 2 − 81 = 0 } = { ( x , y ) : ( x − 3 ) 2 + ( y + 5 ) 2 = 9 2 } ​ সুতরাং S এর লেখচিত্র একটি বৃত্ত যার কেন্দ্র (3,-5) এবং ব্যাসার্ধ, r = 9 একক। ছক কাগজে ( 3,-5) বিন্দু পাতন করে একে কেন্দ্র করে 9 একক ব্যাসার্ধ নিয়ে একটি বৃত্ত অঙ্কন করলেই S এর লেখ পাওয়া যায়। নিম্নে তা দেখানো হলো: লেখচিত্রে দেখা যায় যে, বৃত্তটি y-অক্ষকে দুটি বিন্দুতে ছেদ করে । বিন্দুদ্বয়ের স্থানাঙ্কের ভুজ শূন্য (0)। সুতরাং S অন্বয়টি ফাংশন নয়।"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "( 3 x − 2 ) − 1 + ( 3 x − 2 ) − 2 + ( 3 x − 2 ) − 3 + … … … (3 \\mathrm{x}-2)^{-1}+(3 \\mathrm{x}-2)^{-2}+(3 \\mathrm{x}-2)^{-3}+\\ldots \\ldots \\ldots ( 3 x − 2 ) − 1 + ( 3 x − 2 ) − 2 + ( 3 x − 2 ) − 3 + ……… একটি ধারা।",
+      "tag": "MB 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "সরল কর : log ⁡ x log ⁡ y log ⁡ z z y x 2 : \\log _{x} \\log _{y} \\log _{z} z^{y^{x^{2}}} : lo g x ​ lo g y ​ lo g z ​ z y x 2",
+          "explanation": "log ⁡ x log ⁡ y log ⁡ z ( z y x 2 ) = log ⁡ x log ⁡ y y x 2 log ⁡ z z = log ⁡ x log ⁡ y y x 2 × 1 = log ⁡ x x 2 log ⁡ y y = log ⁡ x x 2 × 1 = 2 log ⁡ x x = 2 × 1 = 2  (Ans.)  \\begin{aligned} \\log _{x} \\log _{y} \\log _{z}\\left(z y^{x^{2}}\\right) & =\\log _{x} \\log _{y} y^{x^{2}} \\log _{z} z=\\log _{x} \\log _{y} y^{x^{2}} \\times 1 \\\\ & =\\log _{x} x^{2} \\log _{y} y=\\log _{x} x^{2} \\times 1=2 \\log _{x} x \\\\ & =2 \\times 1=2 \\text { (Ans.) }\\end{aligned} lo g x ​ lo g y ​ lo g z ​ ( z y x 2 ) ​ = lo g x ​ lo g y ​ y x 2 lo g z ​ z = lo g x ​ lo g y ​ y x 2 × 1 = lo g x ​ x 2 lo g y ​ y = lo g x ​ x 2 × 1 = 2 lo g x ​ x = 2 × 1 = 2  (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "ধারাটির পঞ্চম পদের গুণাত্মক বিপরীত পদ লিখে তার বিস্তৃতি নির্ণয় কর ।",
+          "explanation": "প্রদত্ত ধারাটি : ( 3 x − 2 ) − 1 + ( 3 x − 2 ) − 2 + ( 3 x − 2 ) − 3 + … … … … (3 x-2)^{-1}+(3 x-2)^{-2}+(3 x-2)^{-3}+\\ldots \\ldots \\ldots \\ldots ( 3 x − 2 ) − 1 + ( 3 x − 2 ) − 2 + ( 3 x − 2 ) − 3 + ………… = 1 3 x − 2 + 1 ( 3 x − 2 ) 2 + 1 ( 3 x − 2 ) 3 + =\\frac{1}{3 x-2}+\\frac{1}{(3 x-2)^{2}}+\\frac{1}{(3 x-2)^{3}}+ = 3 x − 2 1 ​ + ( 3 x − 2 ) 2 1 ​ + ( 3 x − 2 ) 3 1 ​ + ∴ \\therefore ∴ সাধারণ অনুপাত, r = 1 ( 3 x − 2 ) 2 ÷ 1 3 x − 2 = 1 3 x − 2 r=\\frac{1}{(3 x-2)^{2}} \\div \\frac{1}{3 x-2}=\\frac{1}{3 x-2} r = ( 3 x − 2 ) 2 1 ​ ÷ 3 x − 2 1 ​ = 3 x − 2 1 ​ ∴ \\therefore ∴ ধারাটির পঞ্চম পদ = a r 5 − 1 = 1 3 x − 2 × ( 1 3 x − 2 ) 5 − 1 =\\mathrm{ar}^{5-1}=\\frac{1}{3 \\mathrm{x}-2} \\times\\left(\\frac{1}{3 \\mathrm{x}-2}\\right)^{5-1} = ar 5 − 1 = 3 x − 2 1 ​ × ( 3 x − 2 1 ​ ) 5 − 1 = ( 1 3 x − 2 ) 5 =\\left(\\frac{1}{3 x-2}\\right)^{5} = ( 3 x − 2 1 ​ ) 5 ∴ \\therefore ∴ ধারাটির পঞ্চম পদের গুণাঙ্ক বিপরীত পদ = ( 3 x − 2 ) 5 =(3 x-2)^{5} = ( 3 x − 2 ) 5 ∴ ( 3 x − 2 ) 5 = ( 3 x ) 5 + ( 5 1 ) ( 3 x ) 5 − 1 ( − 2 ) + ( 5 2 ) ( 3 x ) 5 − 2 ( − 2 ) 2 + ( 5 3 ) ( 3 x ) 5 − 3 ( − 2 ) 3 + ( 5 4 ) ( 3 x ) 5 − 4 ( − 2 ) 4 + ( − 2 ) 5 ∴ = 243 x 5 − 810 x 4 + 1080 x 3 − 720 x 2 + 240 x − 32  (Ans.)  \\begin{array}{l} \\therefore(3 x-2)^{5}=(3 x)^{5}+\\binom{5}{1}(3 x)^{5-1}(-2)+\\binom{5}{2}(3 x)^{5-2}(-2)^{2} \\\\ \\quad+\\binom{5}{3}(3 x)^{5-3}(-2)^{3}+\\binom{5}{4}(3 x)^{5-4}(-2)^{4}+(-2)^{5} \\\\ \\therefore \\quad=243 x^{5}-810 x^{4}+1080 x^{3}-720 x^{2}+240 x-32 \\text { (Ans.) } \\end{array} ∴ ( 3 x − 2 ) 5 = ( 3 x ) 5 + ( 1 5 ​ ) ( 3 x ) 5 − 1 ( − 2 ) + ( 2 5 ​ ) ( 3 x ) 5 − 2 ( − 2 ) 2 + ( 3 5 ​ ) ( 3 x ) 5 − 3 ( − 2 ) 3 + ( 4 5 ​ ) ( 3 x ) 5 − 4 ( − 2 ) 4 + ( − 2 ) 5 ∴ = 243 x 5 − 810 x 4 + 1080 x 3 − 720 x 2 + 240 x − 32  (Ans.)  ​"
+        },
+        {
+          "label": "গ",
+          "question": "x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।",
+          "explanation": "'খ' হতে পাই, ধারাটির সাধারণ অনুপাত, r = 1 3 x − 2 r=\\frac{1}{3 x-2} r = 3 x − 2 1 ​ ধারাটির অসীমতক সমষ্টি থাকবে যদি ∣ r ∣ < 1 |r|<1 ∣ r ∣ < 1 বা, ∣ 1 3 x − 2 ∣ < 1 \\left|\\frac{1}{3 \\mathrm{x}-2}\\right|<1 ​ 3 x − 2 1 ​ ​ < 1 হয়। অর্থাৎ, ∣ 3 x − 2 ∣ > 1 |3 x-2|>1 ∣3 x − 2∣ > 1 ( 3 x − 2 ) (3 x-2) ( 3 x − 2 ) অঋণাত্মক হলে, 3 x − 2 > 1 3 x-2>1 3 x − 2 > 1 বা, 3 x − 2 + 2 > 1 + 2 3 x-2+2>1+2 3 x − 2 + 2 > 1 + 2 বা, 3 x > 3 3 x>3 3 x > 3 ∴ x > 1 \\therefore x>1 ∴ x > 1 ( 3 x − 2 ) (3 \\mathrm{x}-2) ( 3 x − 2 ) ঋণাত্মক হলে, বা, − ( 3 x − 2 ) > 1 -(3 x-2)>1 − ( 3 x − 2 ) > 1 বা, − 3 x + 2 > 1 -3 x+2>1 − 3 x + 2 > 1 বা, − 3 x + 2 − 2 > 1 − 2 -3 x+2-2>1-2 − 3 x + 2 − 2 > 1 − 2 বা, − 3 x > − 1 -3 x>-1 − 3 x > − 1 বা, 3 x < 1 ∴ x < 1 3 3 x<1 \\therefore x<\\frac{1}{3} 3 x < 1 ∴ x < 3 1 ​ অর্থাৎ x > 1 x>1 x > 1 অথবা x < 1 3 x<\\frac{1}{3} x < 3 1 ​ হলে ধারাটির অসীমতক সমষ্টি থাকবে ∴ \\therefore ∴ অসীমতক সমষ্টি, S ∞ = 1 3 x − 2 1 − 1 3 x − 2 = 1 3 x − 2 − 1 = 1 3 x − 3 \\mathrm{S}_{\\infty}=\\frac{\\frac{1}{3 \\mathrm{x}-2}}{1-\\frac{1}{3 \\mathrm{x}-2}}=\\frac{1}{3 \\mathrm{x}-2-1}=\\frac{1}{3 \\mathrm{x}-3} S ∞ ​ = 1 − 3 x − 2 1 ​ 3 x − 2 1 ​ ​ = 3 x − 2 − 1 1 ​ = 3 x − 3 1 ​ (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "",
+      "tag": "MB 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "PQ ধারবিশিষ্ট ঘনকের কর্ণের দৈর্ঘ্য কত?",
+          "explanation": "P ( 2 , 2 ) \\mathrm{P}(2,2) P ( 2 , 2 ) ও Q ( − 2 , − 2 ) \\mathrm{Q}(-2,-2) Q ( − 2 , − 2 ) বিন্দুদ্বয়ের দূরত্ব = ( − 2 − 2 ) 2 + ( − 2 − 2 ) 2 = 16 + 16 = 4 2  একক  =\\sqrt{(-2-2)^{2}+(-2-2)^{2}}=\\sqrt{16+16}=4 \\sqrt{2} \\text { একক } = ( − 2 − 2 ) 2 + ( − 2 − 2 ) 2 ​ = 16 + 16 ​ = 4 2 ​   একক   সুতরাং, ঘনকটির ধার, a = 4 2 \\mathrm{a}=4 \\sqrt{2} a = 4 2 ​ একক ∴  ঘনকটির কর্ণের দৈর্ঘ্য  = a 3  একক  = 4 2 3  একক  = 4 6  একক (Ans.)  \\begin{aligned} \\therefore \\text { ঘনকটির কর্ণের দৈর্ঘ্য } & =\\mathrm{a} \\sqrt{3} \\text { একক }=4 \\sqrt{2} \\sqrt{3} \\text { একক } \\\\ & =4 \\sqrt{6} \\text { একক (Ans.) } \\end{aligned} ∴   ঘনকটির   কর্ণের   দৈর্ঘ্য   ​ = a 3 ​   একক   = 4 2 ​ 3 ​   একক   = 4 6 ​   একক  (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "Δ P Q R \\Delta PQR Δ PQR এর ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "P ( 2 , 2 ) , R ( − 2 3 , 2 3 ) \\mathrm{P}(2,2), \\mathrm{R}(-2 \\sqrt{3}, 2 \\sqrt{3}) P ( 2 , 2 ) , R ( − 2 3 ​ , 2 3 ​ ) এবং Q ( − 2 , − 2 ) \\mathrm{Q}(-2,-2) Q ( − 2 , − 2 ) বিন্দুত্রয় ঘড়ির কাঁটার বিপরীতক্রমে বসিয়ে পাই, △ P Q R \\triangle \\mathrm{PQR} △ PQR এর ক্ষেত্রফল = 1 2 ∣ 2 − 2 3 − 2 2 2 2 3 − 2 2 ∣ =\\frac{1}{2}\\left|\\begin{array}{rrrr}2 & -2 \\sqrt{3} & -2 & 2 \\\\ 2 & 2 \\sqrt{3} & -2 & 2\\end{array}\\right| = 2 1 ​ ​ 2 2 ​ − 2 3 ​ 2 3 ​ ​ − 2 − 2 ​ 2 2 ​ ​ বর্গ একক = 1 2 ( 4 3 + 4 3 − 4 + 4 3 + 4 3 + 4 )  বর্গ একক  = 1 2 ⋅ 16 3  বর্গ একক  = 8 3  বর্গ এক  \\begin{array}{l} =\\frac{1}{2}(4 \\sqrt{3}+4 \\sqrt{3}-4+4 \\sqrt{3}+4 \\sqrt{3}+4) \\text { বর্গ একক } \\\\ =\\frac{1}{2} \\cdot 16 \\sqrt{3} \\text { বর্গ একক }=8 \\sqrt{3} \\text { বর্গ এক } \\end{array} = 2 1 ​ ( 4 3 ​ + 4 3 ​ − 4 + 4 3 ​ + 4 3 ​ + 4 )   বর্গ   একক   = 2 1 ​ ⋅ 16 3 ​   বর্গ   একক   = 8 3 ​   বর্গ   এক   ​ ∴ △ P Q R \\therefore \\triangle \\mathrm{PQR} ∴ △ PQR এর ক্ষেত্রফল 8 3 8 \\sqrt{3} 8 3 ​ বর্গ একক (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "D, E এবং F যথাক্রমে PQ, QR এবং PR বাহুর মধ্যবিন্দু ধরে এ্যাপোলোনিয়াসের উপপাদ্যের সাহায্যে ত্রিভুজটির বাহু ও মধ্যমার মধ্যে সম্পর্ক নির্ণয় কর।",
+          "explanation": "নিম্নের অনুরূপঃ বিশেষ নির্বচন: মনে করি, △ P Q R \\triangle \\mathrm{PQR} △ PQR এর মধ্যমাত্রয় যথাক্রমে PD, QE ও RF পরস্পর G বিন্দুতে মিলিত হয়েছে। প্রমাণ করতে হবে যে, 3 ( P Q 2 + Q R 2 + P R 2 ) = 4 ( P D 2 + Q E 2 + R F 2 ) 3\\left(\\mathrm{PQ}^{2}+\\mathrm{QR}^{2}+\\mathrm{PR}^{2}\\right)=4\\left(\\mathrm{PD}^{2}+\\mathrm{QE}^{2}+\\mathrm{RF}^{2}\\right) 3 ( PQ 2 + QR 2 + PR 2 ) = 4 ( PD 2 + QE 2 + RF 2 ) প্রমাণ: △ P Q R \\triangle \\mathrm{PQR} △ PQR এর P D , Q E \\mathrm{PD}, \\mathrm{QE} PD , QE ও RF তিনটি মধ্যমা। ∴ \\therefore ∴ এ্যপোলোনিয়ালের ঊপপাদ্য অনুসারে P Q 2 + P R 2 = 2 ( P D 2 + Q D 2 ) … … . . ( i ) P Q 2 + Q R 2 = 2 ( Q E 2 + R E 2 ) … … . . ( i i )  এবং  Q R 2 + P R 2 = 2 ( R F 2 + Q F 2 ) … … . . ( i i i ) \\begin{array}{r} \\mathrm{PQ}^{2}+\\mathrm{PR}^{2}=2\\left(\\mathrm{PD}^{2}+\\mathrm{QD}^{2}\\right)……..(i) \\\\ \\mathrm{PQ}^{2}+\\mathrm{QR}^{2}=2\\left(\\mathrm{QE}^{2}+\\mathrm{RE}^{2}\\right)……..(ii) \\\\ \\text { এবং } \\mathrm{QR}^{2}+\\mathrm{PR}^{2}=2\\left(\\mathrm{RF}^{2}+\\mathrm{QF}^{2}\\right)……..(iii) \\end{array} PQ 2 + PR 2 = 2 ( PD 2 + QD 2 ) …… .. ( i ) PQ 2 + QR 2 = 2 ( QE 2 + RE 2 ) …… .. ( ii )   এবং   QR 2 + PR 2 = 2 ( RF 2 + QF 2 ) …… .. ( iii ) ​ এখন, সমীকরণ (i), (ii) ও (iii) যোগ করে পাই, 2 P Q 2 + 2 Q R 2 + 2 P R 2 = 2 P D 2 + 2 Q D 2 + 2 Q E 2 + 2 R E 2 + 2 R F 2 + 2 Q F 2 \\begin{aligned} 2 \\mathrm{PQ}^{2}+2 \\mathrm{QR}^{2}+2 \\mathrm{PR}^{2}=2 \\mathrm{PD}^{2}+2 \\mathrm{QD}^{2} & +2 \\mathrm{QE}^{2}+2 \\mathrm{RE}^{2} \\\\ & +2 \\mathrm{RF}^{2}+2 \\mathrm{QF}^{2} \\end{aligned} 2 PQ 2 + 2 QR 2 + 2 PR 2 = 2 PD 2 + 2 QD 2 ​ + 2 QE 2 + 2 RE 2 + 2 RF 2 + 2 QF 2 ​ বা, 2 ( P Q 2 + Q R 2 + P R 2 ) = 2 ( P D 2 + Q E 2 + R F 2 ) + 2 ( Q D 2 2\\left(\\mathrm{PQ}^{2}+\\mathrm{QR}^{2}+\\mathrm{PR}^{2}\\right)=2\\left(\\mathrm{PD}^{2}+\\mathrm{QE}^{2}+\\mathrm{RF}^{2}\\right)+2\\left(\\mathrm{QD}^{2}\\right. 2 ( PQ 2 + QR 2 + PR 2 ) = 2 ( PD 2 + QE 2 + RF 2 ) + 2 ( QD 2 + R E 2 + Q F 2 ) \\left.+\\mathrm{RE}^{2}+\\mathrm{QF}^{2}\\right) + RE 2 + QF 2 ) বা, 4 ( P Q 2 + Q R 2 + P R 2 ) = 4 ( P D 2 + Q E 2 + R F 2 ) 4\\left(\\mathrm{PQ}^{2}+\\mathrm{QR}^{2}+\\mathrm{PR}^{2}\\right)=4\\left(\\mathrm{PD}^{2}+\\mathrm{QE}^{2}+\\mathrm{RF}^{2}\\right) 4 ( PQ 2 + QR 2 + PR 2 ) = 4 ( PD 2 + QE 2 + RF 2 ) + 4 ( Q D 2 + R E 2 + Q F 2 ) +4\\left(\\mathrm{QD}^{2}+\\mathrm{RE}^{2}+\\mathrm{QF}^{2}\\right) \\quad + 4 ( QD 2 + RE 2 + QF 2 ) [ উভয় পক্ষকে ২ দ্বারা গুণ করে] বা, 4 ( P Q 2 + Q R 2 + P R 2 ) = 4 ( P D 2 + Q E 2 + R F 2 ) + ( 2 Q D ) 2 4\\left(\\mathrm{PQ}^{2}+\\mathrm{QR}^{2}+\\mathrm{PR}^{2}\\right)=4\\left(\\mathrm{PD}^{2}+\\mathrm{QE}^{2}+\\mathrm{RF}^{2}\\right)+(2 \\mathrm{QD})^{2} 4 ( PQ 2 + QR 2 + PR 2 ) = 4 ( PD 2 + QE 2 + RF 2 ) + ( 2 QD ) 2 + ( 2 R E ) 2 + ( 2 Q F ) 2 +(2 \\mathrm{RE})^{2}+(2 \\mathrm{QF})^{2} + ( 2 RE ) 2 + ( 2 QF ) 2 বা, 4 ( P Q 2 + Q R 2 + P R 2 ) = 4 ( P D 2 + Q E 2 + R F 2 ) + Q R 2 4\\left(\\mathrm{PQ}^{2}+\\mathrm{QR}^{2}+\\mathrm{PR}^{2}\\right)=4\\left(\\mathrm{PD}^{2}+\\mathrm{QE}^{2}+\\mathrm{RF}^{2}\\right)+\\mathrm{QR}^{2} 4 ( PQ 2 + QR 2 + PR 2 ) = 4 ( PD 2 + QE 2 + RF 2 ) + QR 2 + P R 2 + P Q 2 [ D , E , F +\\mathrm{PR}^{2}+\\mathrm{PQ}^{2}[\\mathrm{D}, \\mathrm{E}, \\mathrm{F} + PR 2 + PQ 2 [ D , E , F যথাক্রমে Q R , P R \\mathrm{QR}, \\mathrm{PR} QR , PR ও PQ বাহুর মধ্য বিন্দু বলে, 2 Q D = Q R , 2 R E = P R , 2 Q F = P Q ] 2 \\mathrm{QD}=\\mathrm{QR}, 2 \\mathrm{RE}=\\mathrm{PR}, 2 \\mathrm{QF}=\\mathrm{PQ}] 2 QD = QR , 2 RE = PR , 2 QF = PQ ]  বা,  4 ( P Q 2 + Q R 2 + P R 2 ) − ( P Q 2 + Q R 2 + P R 2 ) = 4 ( P D 2 + Q E 2 + R F 2 ) \\text { বা, } \\begin{aligned} 4\\left(\\mathrm{PQ}^{2}+\\mathrm{QR}^{2}+\\mathrm{PR}^{2}\\right)-\\left(\\mathrm{PQ}^{2}+\\right. & \\left.\\mathrm{QR}^{2}+\\mathrm{PR}^{2}\\right) & =4\\left(\\mathrm{PD}^{2}+\\mathrm{QE}^{2}+\\mathrm{RF}^{2}\\right) \\end{aligned}   বা ,  4 ( PQ 2 + QR 2 + PR 2 ) − ( PQ 2 + ​ QR 2 + PR 2 ) ​ = 4 ( PD 2 + QE 2 + RF 2 ) ​ ∴ 3 ( P Q 2 + Q R 2 + P R 2 ) = 4 ( P D 2 + Q E 2 + R F 2 ) \\therefore 3\\left(\\mathrm{PQ}^{2}+\\mathrm{QR}^{2}+\\mathrm{PR}^{2}\\right)=4\\left(\\mathrm{PD}^{2}+\\mathrm{QE}^{2}+\\mathrm{RF}^{2}\\right) ∴ 3 ( PQ 2 + QR 2 + PR 2 ) = 4 ( PD 2 + QE 2 + RF 2 ) (প্রমাণিত)"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "",
+      "tag": "MB 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "চিত্র এঁকে ত্রিভুজের লম্ববিন্দু দেখাও।",
+          "explanation": "চিত্রে, S , △ A B C S, \\triangle A B C S , △ A BC এর লম্ব বিন্দু।"
+        },
+        {
+          "label": "খ",
+          "question": "এমন একটি বৃত্ত অঙ্কন কর যা O কেন্দ্রবিশিষ্ট বৃত্তকে B বিন্দুতে স্পর্শ করে এবং এর বহিঃস্থ কোনো বিন্দু E দিয়ে যায় । [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]",
+          "explanation": "মনে করি, নির্দিষ্ট বৃত্তের কেন্দ্র O, B ঐ বৃত্তের উপর অবস্থিত একটি নির্দিষ্ট বিন্দু এবং E ঐ বৃত্তের ঐ বহিঃস্থ একটি নির্দিষ্ট বিন্দু । এরূপ একটি বৃত্ত অঙ্কন করতে হবে যা ঐ বৃত্তকে B বিন্দুতে স্পর্শ করে এবং E বিন্দু দিয়ে যায়। অঙ্কন: ধাপ-১: B, E যোগ করি । ধাপ-২: BE এর লম্বদ্বিখন্ডক AP আঁকি । ধাপ-৩: O, B যোগ করি। ধাপ-৪: বর্ধিত OB রেখাংশ AP কে Q বিন্দুতে ছেদ করে। ধাপ-৫: Q কে কেন্দ্র করে QB এর সমান ব্যাসার্ধ নিয়ে অঙ্কিত BER বৃত্তই উদ্দিষ্ট বৃত্ত ।"
+        },
+        {
+          "label": "গ",
+          "question": "ভেক্টরের সাহায্যে প্রমাণ কর যে, AB, BC, CD এবং DA বাহুর মধ্যবিন্দুগুলো পর্যায়ক্রমে যোগ করলে একটি সামান্তরিক উৎপন্ন হয়।",
+          "explanation": "মনে করি, ABCD চতুর্ভুজের বাহুগুলোর মধ্যবিন্দু P, Q, R, S। P ও Q, Q ও R, R ও S, S ও P যোগ করি। প্রমাণ করতে হবে যে, PQRS একটি সামান্তরিক। প্রমাণ: মনে করি, A B → = a ‾ , B C → = b ‾ , C D → = c ‾ , D A → = d ‾ \\overrightarrow{\\mathrm{AB}}=\\underline{\\mathrm{a}}, \\overrightarrow{\\mathrm{BC}}=\\underline{\\mathrm{b}}, \\overrightarrow{\\mathrm{CD}}=\\underline{\\mathrm{c}}, \\overrightarrow{\\mathrm{DA}}=\\underline{\\mathrm{d}} AB = a ​ , BC = b ​ , CD = c ​ , DA = d ​ , তাহলে, P Q → = P B → + B Q → = 1 2 A B → + 1 2 B C → = 1 2 ( a ‾ + b ‾ ) \\overrightarrow{\\mathrm{PQ}}=\\overrightarrow{\\mathrm{PB}}+\\overrightarrow{\\mathrm{BQ}}=\\frac{1}{2} \\overrightarrow{\\mathrm{AB}}+\\frac{1}{2} \\overrightarrow{\\mathrm{BC}}=\\frac{1}{2}(\\underline{a}+\\underline{\\mathrm{b}}) PQ ​ = PB + BQ ​ = 2 1 ​ AB + 2 1 ​ BC = 2 1 ​ ( a ​ + b ​ ) অনুরূপভাবে Q R → = 1 2 (   b + c ) , R S → = 1 2 ( c + d ‾ ) \\overrightarrow{\\mathrm{QR}}=\\frac{1}{2}(\\mathrm{~b}+\\mathrm{c}), \\overrightarrow{\\mathrm{RS}}=\\frac{1}{2}(\\mathrm{c}+\\underline{\\mathrm{d}}) QR ​ = 2 1 ​ (   b + c ) , RS = 2 1 ​ ( c + d ​ ) এবং S P → = 1 2 (   d + a ‾ ) \\overrightarrow{\\mathrm{SP}}=\\frac{1}{2}(\\mathrm{~d}+\\underline{a}) SP = 2 1 ​ (   d + a ​ ) △ A B C \\triangle \\mathrm{ABC} △ ABC হতে, A B → + B C → = A C → ∴ A C → = a ‾ + b ‾ \\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{AC}} \\therefore \\overrightarrow{\\mathrm{AC}}=\\underline{a}+\\underline{b} AB + BC = AC ∴ AC = a ​ + b ​ একইভাবে, △ A C D \\triangle \\mathrm{ACD} △ ACD रতে, C D → + D A → = C A → ∴ C A → = c ‾ + d ‾ \\overrightarrow{\\mathrm{CD}}+\\overrightarrow{\\mathrm{DA}}=\\overrightarrow{\\mathrm{CA}} \\therefore \\overrightarrow{\\mathrm{CA}}=\\underline{\\mathrm{c}}+\\underline{\\mathrm{d}} CD + DA = CA ∴ CA = c ​ + d ​ কিন্তু ( a ‾ + b ‾ ) + ( c ‾ + d ‾ ) = A C → + C A → = A C → − A C → = 0 (\\underline{a}+\\underline{b})+(\\underline{c}+\\underline{d})=\\overrightarrow{\\mathrm{AC}}+\\overrightarrow{\\mathrm{CA}}=\\overrightarrow{\\mathrm{AC}}-\\overrightarrow{\\mathrm{AC}}=0 ( a ​ + b ​ ) + ( c ​ + d ​ ) = AC + CA = AC − AC = 0  অর্থাৎ  ( a ‾ + b ‾ ) = − ( c ‾ + d ‾ ) \\text { অর্থাৎ }(\\underline{a}+\\underline{b})=-(\\underline{c}+\\underline{d})   অর্থাৎ   ( a ​ + b ​ ) = − ( c ​ + d ​ ) ∴ P Q → = 1 2 ( a ‾ + b ‾ ) = − 1 2 ( c ‾ + d ‾ ) = − R S → = S R → \\therefore \\overrightarrow{\\mathrm{PQ}}=\\frac{1}{2}(\\underline{a}+\\underline{b})=-\\frac{1}{2}(\\underline{c}+\\underline{d})=-\\overrightarrow{R S}=\\overrightarrow{S R} ∴ PQ ​ = 2 1 ​ ( a ​ + b ​ ) = − 2 1 ​ ( c ​ + d ​ ) = − RS = SR ∴ P Q \\therefore \\mathrm{PQ} ∴ PQ এবং SR সমান ও সমান্তরাল। অনুরূপভাবে, QR এবং PS সমান ও সমান্তরাল। ∴ \\therefore ∴ PQRS একটি সামান্তরিক। (প্রমাণিত)"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "",
+      "tag": "MB 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "△ A P X \\triangle \\mathrm{APX} △ APX কে AP এর চতুর্দিকক ঘোরালে যে ঘনবস্তু উংপন্ন হয়, তার আয়তন নির্ণয় কর। যেখানে A P = 5 A P=5 A P = 5 সে. মি. এবং PX = 3 সে.মি.।",
+          "explanation": "সমকোণী ত্রিভুজটিকে AP বাহুর চতুর্দিকে ঘোরালে চিত্রের ন্যায় সমবৃত্তভূমিক কোণক উৎপন্ন হবে যার উচ্চতা, h = 5 সে.মি. এবং ভূমির ব্যাসার্ধ, r = 3 সে.মি. হবে। ∴ \\therefore ∴ উৎপন্ন ঘনবস্তুটির আয়তন = 1 3 π r 2 h =\\frac{1}{3} \\pi r^{2} h = 3 1 ​ π r 2 h = 1 3 π ( 3 ) 2 × 5  ঘন সে. মি.  = 47.124  ঘন সে. মি. (Ans.)  \\begin{array}{l}=\\frac{1}{3} \\pi(3)^{2} \\times 5 \\text { ঘন সে. মি. } \\\\ =47.124 \\text { ঘন সে. মি. (Ans.) }\\end{array} = 3 1 ​ π ( 3 ) 2 × 5   ঘন   সে .  মি .  = 47.124   ঘন   সে .  মি . (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "A এবং X এর স্থানাঙ্ক যথাক্রমে (0, 10) এবং ( 5,0) হলে AX এর সমীকরণ নির্ণয় কর এবং AX রেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ গঠন করে তার ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "AX সর়লরেখার সমীকরণণ: x − 0 0 + 5 = y − 10 10 − 0 \\frac{x-0}{0+5}=\\frac{y-10}{10-0} 0 + 5 x − 0 ​ = 10 − 0 y − 10 ​ বা, x 5 = y − 10 10 \\frac{x}{5}=\\frac{y-10}{10} 5 x ​ = 10 y − 10 ​ বা, 2 x = y − 10 2 x=y-10 2 x = y − 10 বা, 2 x − y + 10 = 0 … … 2 x-y+10=0 \\ldots \\ldots 2 x − y + 10 = 0 …… (i) (Ans.) এখানে, প্রশ্ন ও উদ্দীপক অনুসারে, P মূলবিন্দু A(0, 10) বিন্দুর কোটি = 10, ∴ \\therefore ∴ AP এর দৈর্ঘ্য = 10 একক X ( 5,0) বিন্দুর ভুজ = - 5, ∴ \\therefore ∴ PX এর দৈর্ঘ্য = 5 একক ∴ \\therefore ∴ AX রেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ গঠন করে  অর্থাৎ সমকোণী  △ A P X  এর ক্ষেত্রফল  = 1 2 ⋅ A P . P X = 1 2 × 10 × 5 = 25  বর্গ একক (Ans.)  \\begin{aligned} \\text { অর্থাৎ সমকোণী } \\triangle \\mathrm{APX} \\text { এর ক্ষেত্রফল } & =\\frac{1}{2} \\cdot \\mathrm{AP} . \\mathrm{PX} \\\\ & =\\frac{1}{2} \\times 10 \\times 5=25 \\text { বর্গ একক (Ans.) }\\end{aligned}   অর্থাৎ   সমকোণী   △ APX   এর   ক্ষেত্রফল   ​ = 2 1 ​ ⋅ AP . PX = 2 1 ​ × 10 × 5 = 25   বর্গ   একক  (Ans.)  ​"
+        },
+        {
+          "label": "গ",
+          "question": "উক্ত ত্রিভুজটিতে AX = a, AP + PX = s উল্লেখ থাকলে ত্রিভুজটি কিভাবে আঁকবে? চিত্রসহ বিবরণ দাও।",
+          "explanation": "বিশেষ নির্বচন: মনে করি, সমকোণী Δ A P X \\Delta APX Δ A PX এর অতিভুজ AX = a এবং অপর দুই বাহুর সমষ্টি AP + PX = s দেওয়া আছে। ত্রিভুজটি অঙ্কন করতে হবে। অঙ্কনের বিবরণ: ধাপ ১: যেকোনো রশ্মি XZ হতে s এর সমান করে XD অংশ কেটে নিই ধাপ ২: D বিন্দুতে ZXDE 45° অঙ্কন করি । ধাপ ৩: X বিন্দুকে কেন্দ্র করে অতিভুজ a এর সমান ব্যাসার্ধ নিয়ে একটি বৃত্তচাপ অঙ্কন করি। ধাপ ৪: বৃত্তচাপটি DE রেখাকে A ও A বিন্দুতে ছেদ করে। X, A ও X. A' যোগ করি । ধাপ ৫: ধাপ ৬: এখন, A ও A বিন্দুতে ZEDX এর সমান করে যথাক্রমে ZDAP এবং ZDA'P' অঙ্কন করি । ধাপ ৭: AP ও A'P' রেখাদ্বয় DX রেখাকে যথাক্রমে P ও P বিন্দুতে ছেদ করে । তাহলে, AAPX অথবা AA’P'X –ই নির্ণেয় ত্রিভুজ ।"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "",
+      "tag": "MB 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "প্রমাণ কর যে, cos ⁡ 17 π 10 + cos ⁡ 13 π 10 + cos ⁡ 9 π 10 + cos ⁡ π 10 = 0 \\cos \\frac{17 \\pi}{10}+\\cos \\frac{13 \\pi}{10}+\\cos \\frac{9 \\pi}{10}+\\cos \\frac{\\pi}{10}=0 cos 10 17 π ​ + cos 10 13 π ​ + cos 10 9 π ​ + cos 10 π ​ = 0",
+          "explanation": "বামপক্ষ  = cos ⁡ 17 π 10 + cos ⁡ 13 π 10 + cos ⁡ 9 π 10 + cos ⁡ π 10 = cos ⁡ ( 2 π − 3 π 10 ) + cos ⁡ ( π + 3 π 10 ) + cos ⁡ ( π − π 10 ) + cos ⁡ π 10 = cos ⁡ 3 π 10 − cos ⁡ 3 π 10 − cos ⁡ π 10 + cos ⁡ π 10 = 0 =  ডানপক্ষ  ∴ cos ⁡ 17 π 10 + cos ⁡ 13 π 10 + cos ⁡ 9 π 10 + cos ⁡ π 10 = 0  (প্রমাণিত)  \\begin{array}{l}\\text { বামপক্ষ }=\\cos \\frac{17 \\pi}{10}+\\cos \\frac{13 \\pi}{10}+\\cos \\frac{9 \\pi}{10}+\\cos \\frac{\\pi}{10} \\\\ =\\cos \\left(2 \\pi-\\frac{3 \\pi}{10}\\right)+\\cos \\left(\\pi+\\frac{3 \\pi}{10}\\right)+\\cos \\left(\\pi-\\frac{\\pi}{10}\\right)+\\cos \\frac{\\pi}{10} \\\\ =\\cos \\frac{3 \\pi}{10}-\\cos \\frac{3 \\pi}{10}-\\cos \\frac{\\pi}{10}+\\cos \\frac{\\pi}{10} \\\\ =0=\\text { ডানপক্ষ } \\\\ \\therefore \\cos \\frac{17 \\pi}{10}+\\cos \\frac{13 \\pi}{10}+\\cos \\frac{9 \\pi}{10}+\\cos \\frac{\\pi}{10}=0 \\text { (প্রমাণিত) }\\end{array}   বামপক্ষ   = cos 10 17 π ​ + cos 10 13 π ​ + cos 10 9 π ​ + cos 10 π ​ = cos ( 2 π − 10 3 π ​ ) + cos ( π + 10 3 π ​ ) + cos ( π − 10 π ​ ) + cos 10 π ​ = cos 10 3 π ​ − cos 10 3 π ​ − cos 10 π ​ + cos 10 π ​ = 0 =   ডানপক্ষ   ∴ cos 10 17 π ​ + cos 10 13 π ​ + cos 10 9 π ​ + cos 10 π ​ = 0  ( প্রমাণিত )  ​"
+        },
+        {
+          "label": "খ",
+          "question": "θ = 60 ∘ \\theta=60^{\\circ} θ = 6 0 ∘ এবং r = 50 r=50 r = 50 কি.মি. হলে 5 কি.মি./ঘণ্টা বেগে A থেকে B তে যেতে কত সমময় লাগবে তা নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, বৃত্তের ব্যাসার্ধ, r = OB = 50 কি.মি. কেন্দ্রে উৎপন্ন কোন, θ = 60 ∘ = 60 × π 180 = π 3 \\theta=60^{\\circ}=60 \\times \\frac{\\pi}{180}=\\frac{\\pi}{3} θ = 6 0 ∘ = 60 × 180 π ​ = 3 π ​ রেডিয়ান এখন, চাপ, S = A B = r θ = 50 × π 3 = 52.36 \\mathrm{S}=\\mathrm{AB}=r \\theta=50 \\times \\frac{\\pi}{3}=52.36 S = AB = r θ = 50 × 3 π ​ = 52.36 কি মি দেওয়া আছে, গতিবেগ 5 কি.মি./ঘণ্টা A হতে B বিন্দুতে পৌঁছাতে প্রয়োজনীয় সময় = 52.36/5 ঘণ্টা = 10.472 ঘণ্টা (Ans)"
+        },
+        {
+          "label": "গ",
+          "question": "0 < θ < 2 π 0<\\theta<2 \\pi 0 < θ < 2 π হলে θ \\theta θ কোণের cot ⁡ \\cot cot এবং cosec অনুপাতের বর্গের যোগফলকে 3 এর সমান ধরে সমীকর গঠন কর এবং সমীকর়ণটি সমাধান কর।",
+          "explanation": "নিম্নের অনুরূপঃ দেওয়া আছে, a 2 + ( b + 1 ) 2 = 3 ; 0 ≤ θ ≤ 2 π a^{2}+(b+1)^{2}=3 ; 0 \\leq \\theta \\leq 2 \\pi a 2 + ( b + 1 ) 2 = 3 ; 0 ≤ θ ≤ 2 π বা, cot ⁡ 2 θ + ( cosec ⁡ θ − 1 + 1 ) 2 = 3 [ \\cot ^{2} \\theta+(\\operatorname{cosec} \\theta-1+1)^{2}=3[ cot 2 θ + ( cosec θ − 1 + 1 ) 2 = 3 [ [মান বসিয়ে] বা, cot ⁡ 2 θ + cosec ⁡ 2 θ = 3 \\cot ^{2} \\theta+\\operatorname{cosec}^{2} \\theta=3 cot 2 θ + cosec 2 θ = 3 বা, cot ⁡ 2 θ + 1 + cot ⁡ 2 θ = 3 \\cot ^{2} \\theta+1+\\cot ^{2} \\theta=3 cot 2 θ + 1 + cot 2 θ = 3 বা, 2 cot ⁡ 2 θ = 2 2 \\cot ^{2} \\theta=2 2 cot 2 θ = 2 ता, cot ⁡ 2 θ = 1 \\cot ^{2} \\theta=1 cot 2 θ = 1 বা, cot ⁡ θ = ± 1 \\cot \\theta= \\pm 1 cot θ = ± 1 ∴ cot ⁡ θ = 1  ব.  cot ⁡ θ = 1 = cot ⁡ π 4 = cot ⁡ ( π + π 4 )  বা,  cot ⁡ θ = cot ⁡ π 4 = cot ⁡ 5 π 4 ∴ θ = π 4 , 5 π 4 \\begin{array}{l} \\therefore \\cot \\theta=1 \\\\ \\text { ব. } \\cot \\theta=1=\\cot \\frac{\\pi}{4} \\\\ =\\cot \\left(\\pi+\\frac{\\pi}{4}\\right) \\\\ \\text { বা, } \\cot \\theta=\\cot \\frac{\\pi}{4}=\\cot \\frac{5 \\pi}{4} \\\\ \\therefore \\theta=\\frac{\\pi}{4}, \\frac{5 \\pi}{4} \\end{array} ∴ cot θ = 1   ব .  cot θ = 1 = cot 4 π ​ = cot ( π + 4 π ​ )   বা ,  cot θ = cot 4 π ​ = cot 4 5 π ​ ∴ θ = 4 π ​ , 4 5 π ​ ​ অথবা, cot ⁡ θ = − 1 \\cot \\theta=-1 cot θ = − 1  বা,  cot ⁡ θ = − 1 = cot ⁡ ( π − π 4 ) = cot ⁡ ( 2 π − π 4 )  বা,  cot ⁡ θ = cot ⁡ 3 π 4 = cot ⁡ 7 π 4 ∴ θ = 3 π 4 , 7 π 4 \\begin{array}{l} \\text { বা, } \\begin{aligned} \\cot \\theta & =-1=\\cot \\left(\\pi-\\frac{\\pi}{4}\\right) \\\\ & =\\cot \\left(2 \\pi-\\frac{\\pi}{4}\\right) \\end{aligned} \\\\ \\text { বা, } \\cot \\theta=\\cot \\frac{3 \\pi}{4}=\\cot \\frac{7 \\pi}{4} \\\\ \\therefore \\theta=\\frac{3 \\pi}{4}, \\frac{7 \\pi}{4} \\end{array}   বা ,  cot θ ​ = − 1 = cot ( π − 4 π ​ ) = cot ( 2 π − 4 π ​ ) ​   বা ,  cot θ = cot 4 3 π ​ = cot 4 7 π ​ ∴ θ = 4 3 π ​ , 4 7 π ​ ​ ∴ 0 ≤ θ ≤ 2 π  ব্যবধিতে প্রদত্ত সমীকরণটির সমাধান:  θ = π 4 , 3 π 4 , 5 π 4 , 7 π 4  (Ans.)  \\begin{array}{l}\\therefore 0 \\leq \\theta \\leq 2 \\pi \\text { ব্যবধিতে প্রদত্ত সমীকরণটির সমাধান: } \\\\ \\theta=\\frac{\\pi}{4}, \\frac{3 \\pi}{4}, \\frac{5 \\pi}{4}, \\frac{7 \\pi}{4} \\text { (Ans.) }\\end{array} ∴ 0 ≤ θ ≤ 2 π   ব্যবধিতে   প্রদত্ত   সমীকরণটির   সমাধান :  θ = 4 π ​ , 4 3 π ​ , 4 5 π ​ , 4 7 π ​  (Ans.)  ​"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "তোমার বিদ্যালয়ের ৭ম শ্রেণিতে 115 জন, ৮ম শ্রেণিতে 120 জন, ৯ম শ্রেণিতে 105 জন এবং ১০ম শ্রেণিতে 90 জন উপস্থিত শিক্ষার্থীর মধ্য থেকে প্রধান শিক্ষক একজনকে দৈবভাবে চয়ন করলেন ।",
+      "tag": "MB 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি নিরপেক্ষ ছক্কা নিক্ষেপে মৌলিক সংখ্যা আসার সম্ভাবনা কত?",
+          "explanation": "একটি ছক্কা নিক্ষেপের নমুনাক্ষেত্র = {1, 2, 3, 4, 5, 6, ছক্কায় মৌলিক সংখ্যা আসার অনুকূল নমুনাক্ষেত্র = {2, 3, 5) ∴ \\therefore ∴ ছক্কায় মৌলিক সংখ্যা আসার সম্ভাবনা, P ( A ) = n ( A ) n ( S ) \\mathrm{P}(\\mathrm{A})=\\frac{\\mathrm{n}(\\mathrm{A})}{\\mathrm{n}(\\mathrm{S})} P ( A ) = n ( S ) n ( A ) ​ = 3 6 = 1 2  (Ans.  ) \\left.=\\frac{3}{6}=\\frac{1}{2} \\text { (Ans. }\\right) = 6 3 ​ = 2 1 ​  (Ans.  )"
+        },
+        {
+          "label": "খ",
+          "question": "নির্বাচিত শিক্ষার্থীটি ৭ম শ্রেণিতে না হওয়ার সম্ভাবনা কত?",
+          "explanation": "মোট শিক্ষাথী সংখ্যা = ( 115 + 120 + 105 + 90 ) (115+120+105+90) ( 115 + 120 + 105 + 90 ) জন = 430 জন ৭ম শ্রেণির শিক্ষাথী সংখ্যা = 115 জন ∴ \\therefore ∴ দৈবভাবে একজন শিক্ষাথী নির্বাচন করা হলে নির্বাচিত শিক্ষাথী ৭ম শ্রেণির হওয়ার সম্ভাবনা = 115 430 = 23 86 =\\frac{115}{430}=\\frac{23}{86} = 430 115 ​ = 86 23 ​ ∴ \\therefore ∴ দৈবভাবে একজন শিক্ষাথী নির্বাচন করা হলে নির্বাচিত শিক্ষাথী ৭ম শ্রেণির না হওয়ার সম্তাবনা = 1 − 23 86 = 63 86 =1-\\frac{23}{86}=\\frac{63}{86} = 1 − 86 23 ​ = 86 63 ​ (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "নির্বাচিত শিক্ষার্থীর ৯ম অথবা ১০ম শ্রেণিতে হওয়ার সম্ভাবনা নির্ণয় কর ।",
+          "explanation": "মোট শিক্ষাথী সংখ্যা = ( 115 + 120 + 105 + 90 ) = 430 =(115+120+105+90)=430 = ( 115 + 120 + 105 + 90 ) = 430 জন ৯ম ও ১০ম শ্রেণিতে মোট শিক্ষার্থী সংখ্যা = ( 105 + 90 ) (105+90) ( 105 + 90 ) জন = 195  জন  =195 \\text { জন } = 195   জন   ∴ \\therefore ∴ দৈবভাবে একজন শিক্ষার্থী নির্বাচন করা হলে নির্বাচিত শিক্ষার্থী ৯ম অথবা ১০ম শ্রেণির হওয়ার সম্ভাবনা = 195 430 = 39 86 =\\frac{195}{430}=\\frac{39}{86} = 430 195 ​ = 86 39 ​ (Ans.)"
+        }
+      ]
+    }
+  ]
+}

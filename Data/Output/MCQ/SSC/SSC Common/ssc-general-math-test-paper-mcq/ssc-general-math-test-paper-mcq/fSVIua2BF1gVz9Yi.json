@@ -1,0 +1,898 @@
+{
+  "read_id": "fSVIua2BF1gVz9Yi",
+  "title": "কুমিল্লা বোর্ড ২০২৫",
+  "count": 27,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CB 25",
+      "question": "কোন শর্তে a x = a y a^{x}=a^{y} a x = a y रলে x = y x=y x = y হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a < 0 , a ≠ 1 a<0, a \\neq 1 a < 0 , a  = 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a > 0 , y < 1 \\quad a>0, y<1 a > 0 , y < 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a > 0 , x > 1 a>0, x>1 a > 0 , x > 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a > 0 , a ≠ 1 a>0, a \\neq 1 a > 0 , a  = 1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "a < 0 , a ≠ 1 a<0, a \\neq 1 a < 0 , a  = 1",
+      "option_b": "a > 0 , y < 1 \\quad a>0, y<1 a > 0 , y < 1",
+      "option_c": "a > 0 , x > 1 a>0, x>1 a > 0 , x > 1",
+      "option_d": "a > 0 , a ≠ 1 a>0, a \\neq 1 a > 0 , a  = 1",
+      "correct": "ঘ",
+      "explanation": "যদি a x = a y হয়, তবে x = y হবে যদি a এর মান 1 না হয়। অর্থাৎ, a ≠ 1 হতে হবে এবং a>0 যদি a = 1 হয়, তবে 1 x = 1 y সবসময় সত্য হবে, যা x এবং y এর যেকোনো মানের জন্য প্রযোজ্য। সেক্ষেত্রে, x এবং y এর মান সমান নাও হতে পারে। উদাহরণস্বরূপ: যদি a = 2 হয়, এবং x = 3, y = 3 হয়, তবে 2 3 = 2 3 যা 8 = 8 এর সমান। এখানে x = y = 3। যদি a = 1 হয়, এবং x = 2, y = 3 হয়, তবে 1 2 = 1 3 যা 1 = 1 এর সমান। এখানে x ≠ y। সুতরাং, a ≠ 1 এবং a>0 হলে x = y হবে"
+    },
+    {
+      "number": "2",
+      "tag": "CB 25",
+      "question": "log ⁡ x 4 = − 2 হলে, x = কত? \\log _{x} 4=-2 \\text { হলে, } x=\\text { কত? } lo g x ​ 4 = − 2 হলে , x = কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_d": "-2",
+      "correct": "খ",
+      "explanation": "log꜀ x 4 = −2 এই লগারিদমিক সমীকরণটিকে সূচকীয় আকারে প্রকাশ করলে পাই, x⁻² = 4 1/x² = 4 x² = 1/4 x = √(1/4)"
+    },
+    {
+      "number": "3",
+      "tag": "CB 25",
+      "question": "A = { 6 , 7 , 8 , 9 , 11 , 12 , 13 } , B = { x : x ∈ A A=\\{6,7,8,9,11,12,13\\}, B=\\{x: x \\in A A = { 6 , 7 , 8 , 9 , 11 , 12 , 13 } , B = { x : x ∈ A এবং x , 3 x, 3 x , 3 এর গুণিতক } হলে B B B সেট নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 6 , 9 } \\{6,9\\} { 6 , 9 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ 6 , 12 } \\{6,12\\} { 6 , 12 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 9 , 12 } \\{9,12\\} { 9 , 12 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 6 , 9 , 12 } \\{6,9,12\\} { 6 , 9 , 12 }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ 6 , 9 } \\{6,9\\} { 6 , 9 }",
+      "option_b": "{ 6 , 12 } \\{6,12\\} { 6 , 12 }",
+      "option_c": "{ 9 , 12 } \\{9,12\\} { 9 , 12 }",
+      "option_d": "{ 6 , 9 , 12 } \\{6,9,12\\} { 6 , 9 , 12 }",
+      "correct": "ঘ",
+      "explanation": "এখানে, A = { 6 , 7 , 8 , 9 , 11 , 12 , 13 } B = { x ; x ∈ A , এবং x , 3 এর গুণিতক } B = 3 এর গুণিতক ∈ A B = { 6 , 9 , 12 } \\begin{array}{l} A=\\{6,7,8,9,11,12,13\\} \\\\ B=\\{x ; x \\in A, \\text { এবং } x, 3 \\text { এর গুণিতক }\\} \\\\ B=3 \\text { এর গুণিতক } \\in A \\\\ B=\\{6,9,12\\} \\end{array} A = { 6 , 7 , 8 , 9 , 11 , 12 , 13 } B = { x ; x ∈ A , এবং x , 3 এর গুণিতক } B = 3 এর গুণিতক ∈ A B = { 6 , 9 , 12 } ​"
+    },
+    {
+      "number": "4",
+      "tag": "CB 25",
+      "question": "কোনো উপাত্তের পরিসর 67 এবং সর্বোচ্চ মান 85 হলে সর্বনিম্ন মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "17",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "19",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "20",
+          "is_correct": false
+        }
+      ],
+      "option_a": "17",
+      "option_b": "18",
+      "option_c": "19",
+      "option_d": "20",
+      "correct": "গ",
+      "explanation": "পরিসর (range) =( সর্বোচ্চ মান - সর্বনিম্ন মান)+1 অতএব, সর্বনিম্ন মান = সর্বোচ্চ মান - (পরিসর-1) অতএব, সর্বনিম্ন মান = 85-67+1= 19"
+    },
+    {
+      "number": "5",
+      "tag": "CB 25",
+      "question": "f ( x ) = x 3 − x − 24 f(x)=x^{3}-x-24 f ( x ) = x 3 − x − 24 হলে, x x x এর কোন মানের জন্য f ( x ) = 0 f(x)=0 f ( x ) = 0 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "6",
+      "correct": "খ",
+      "explanation": "এখানে, f ( x ) = 0 ⇒ x 3 − x − 24 = 0 ⇒ x 3 − 3 x 2 + 3 x 2 − 9 x + 8 x − 24 = 0 ⇒ x 2 ( x − 3 ) + 3 x ( x − 3 ) + 8 ( x − 3 ) = 0 ⇒ ( x − 3 ) ( x 2 + 3 x + 8 ) = 0 ∴ x = 3 Ans \\begin{aligned} & f(x)=0 \\\\ \\Rightarrow & x^{3}-x-24=0 \\\\ \\Rightarrow & x^{3}-3 x^{2}+3 x^{2}-9 x+8 x-24=0 \\\\ \\Rightarrow & x^{2}(x-3)+3 x(x-3)+8(x-3)=0 \\\\ \\Rightarrow & (x-3)\\left(x^{2}+3 x+8\\right)=0 \\\\ \\therefore & x=3 \\quad \\text { Ans } \\end{aligned} ⇒ ⇒ ⇒ ⇒ ∴ ​ f ( x ) = 0 x 3 − x − 24 = 0 x 3 − 3 x 2 + 3 x 2 − 9 x + 8 x − 24 = 0 x 2 ( x − 3 ) + 3 x ( x − 3 ) + 8 ( x − 3 ) = 0 ( x − 3 ) ( x 2 + 3 x + 8 ) = 0 x = 3 Ans ​"
+    },
+    {
+      "number": "6",
+      "tag": "CB 25",
+      "question": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সমকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রবৃদ্ধ কোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সূক্ষ্মকোণ",
+      "option_b": "সমকোণ",
+      "option_c": "স্থূলকোণ",
+      "option_d": "প্রবৃদ্ধ কোণ",
+      "correct": "গ",
+      "explanation": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-স্থূলকোণ। স্থূলকোণ হলো সেই কোণ যা 90° এর চেয়ে বড় কিন্তু 180° এর চেয়ে ছোট। অন্যভাবে বলতে গেলে, এটি একটি সমকোণ (90°) এবং একটি সরলকোণ (180°) এর মধ্যেকার কোণ। উদাহরণস্বরূপ, ৯৫°, ১১০°, বা ১৭৫° এর মত কোণগুলো স্থূলকোণ।"
+    },
+    {
+      "number": "7",
+      "tag": "CB 25",
+      "question": "0 ⋅ 2 ˙ × 0 ⋅ 1 6 ˙ = কত? 0 \\cdot \\dot{2} \\times 0 \\cdot 1 \\dot{6}=\\text { কত? } 0 ⋅ 2 ˙ × 0 ⋅ 1 6 ˙ = কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.0032",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0. 0 ˙ 3 7 ˙ 0.\\dot03\\dot7 0. 0 ˙ 3 7 ˙",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0. 3 ˙ 2 ˙ 0.\\dot3\\dot2 0. 3 ˙ 2 ˙",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.32",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.0032",
+      "option_b": "0. 0 ˙ 3 7 ˙ 0.\\dot03\\dot7 0. 0 ˙ 3 7 ˙",
+      "option_c": "0. 3 ˙ 2 ˙ 0.\\dot3\\dot2 0. 3 ˙ 2 ˙",
+      "option_d": "0.32",
+      "correct": "খ",
+      "explanation": "একটি আবৃত্ত দশমিক সংখ্যাকে ভগ্নাংশে রূপান্তর করার জন্য, প্রথমে দশমিক সংখ্যাটিকে x হিসাবে ধরুন। তারপর, আবৃত্ত অংশের পুনরাবৃত্তির উপর ভিত্তি করে, দশমিকটিকে এমনভাবে সরান যেন আবৃত্ত অংশটি দশমিক বিন্দুর পরে থাকে। এরপর, মূল সংখ্যা থেকে এই নতুন সংখ্যাটি বিয়োগ করুন এবং সমাধান করুন। উদাহরণস্বরূপ, 0.2' কে x হিসাবে ধরুন। x = 0.2222... 10x = 2.2222... 10x - x = 2.2222... - 0.2222... 9x = 2 x = 2/9 একইভাবে, 0.16' কে y হিসাবে ধরুন। y = 0.16666... 10y = 1.6666... 100y = 16.6666... 100y - 10y = 16.6666... - 1.6666... 90y = 15 y = 15/90 = 1/6 অতএব, 0.2' × 0.16' = (2/9) × (1/6) = 2/54 = 1/27=0.0’37’"
+    },
+    {
+      "number": "8",
+      "tag": "CB 25",
+      "question": "কোনো বর্গক্ষেত্রের ক্ষেত্রফল তার কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অর্ধেক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সমান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "দ্বিগুণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চারগুণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অর্ধেক",
+      "option_b": "সমান",
+      "option_c": "দ্বিগুণ",
+      "option_d": "চারগুণ",
+      "correct": "ক",
+      "explanation": "বগের বাহু a হলে, বর্গের ক্ষেত্রফল, = a 2 = 1 2 × 2 a 2 = 1 2 × ( 2 a ) 2 \\begin{array}{l} \\text { }=a^{2} \\\\ =\\frac{1}{2} \\times 2 a^{2} \\\\ =\\frac{1}{2} \\times(\\sqrt{2} a)^{2} \\end{array} = a 2 = 2 1 ​ × 2 a 2 = 2 1 ​ × ( 2 ​ a ) 2 ​ = ½ x (কর্নের উপর আঘাত বর্গের ক্ষেত্রফল) ∴ Ans = 1 / 2 গুন \\begin{array}{l} \\therefore \\text { Ans }=1 / 2 \\text { গুন } \\end{array} ∴ Ans = 1/2 গুন ​"
+    },
+    {
+      "number": "9",
+      "tag": "CB 25",
+      "question": "( x 2 − 3 ) 2 = 0 \\left(x^{2}-3\\right)^{2}=0 ( x 2 − 3 ) 2 = 0 সমীকরণের মূল কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "3",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "গ",
+      "explanation": "দেওয়া সমীকরণটি: ( x 2 − 3 ) 2 = 0 \\left(x^{2}-3\\right)^{2}=0 ( x 2 − 3 ) 2 = 0 এই সমীকরণের মূল বের করতে হলে, প্রথমে স্কয়ার রুট নিতে হবে: x 2 − 3 = 0 x 2 = 3 x = ± 3 \\begin{array}{c} x^{2}-3=0 \\\\ x^{2}=3 \\\\ x= \\pm \\sqrt{3} \\end{array} x 2 − 3 = 0 x 2 = 3 x = ± 3 ​ ​ অর্থাৎ, সমীকরণের দুটি মূল আছে: x = 3 , x = − 3 x=\\sqrt{3}, \\quad x=-\\sqrt{3} x = 3 ​ , x = − 3 ​ সুতরাং, সমীকরণের মোট ২টি মূল রয়েছে।"
+    },
+    {
+      "number": "10",
+      "tag": "CB 25",
+      "question": "সর্বনিম্ন কয়টি উপাত্ত জানা থাকলে একটি সামান্তরিক অঙ্কন সম্ভব?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6",
+      "option_b": "5",
+      "option_c": "4",
+      "option_d": "3",
+      "correct": "ঘ",
+      "explanation": "একটি সামান্তরিক অংকনের জন্য সর্বনিম্ন তিনটি উপাত্তের প্রয়োজন। যেমন : •সামান্তরিকের দুইটি কর্ণ ও এদের অন্তর্ভুক্ত কোন •সামান্তরিকের দুইটি কর্ণ ও একটি বাহু •দুইটি সন্নিহিত বাহু ও এদের অন্তর্ভুক্ত কোণ"
+    },
+    {
+      "number": "11",
+      "tag": "CB 25",
+      "question": "P = {1, 3, 5, 7} সেটের প্রকৃত উপসেট সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7",
+      "option_b": "৪",
+      "option_c": "15",
+      "option_d": "16",
+      "correct": "গ",
+      "explanation": "P = { 1 , 3 , 5 , 7 } P=\\{1,3,5,7\\} P = { 1 , 3 , 5 , 7 } P P P সেটের উপাদান সংখ্যা , n = 4 n=4 n = 4 ∴ P সেটের প্রকৃত উপসেট সংখ্যা = 2 n − 1 = 2 4 − 1 = 15 \\begin{aligned} \\therefore P \\text { সেটের প্রকৃত উপসেট সংখ্যা } & =2^{n}-1 \\\\ & =2^{4}-1 \\\\ & =15 \\end{aligned} ∴ P সেটের প্রকৃত উপসেট সংখ্যা ​ = 2 n − 1 = 2 4 − 1 = 15 ​"
+    },
+    {
+      "number": "12",
+      "tag": "CB 25",
+      "question": "বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অসীম",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "2",
+      "option_d": "অসীম",
+      "correct": "ঘ",
+      "explanation": "▶ তথ্য-ব্যাখ্যা: বৃত্ত একটি আদর্শ প্রতিসম চিত্র। এর কেন্দ্রগামী যেকোনো রেখা এর প্রতিসাম্য রেখা। তাই বৃত্তের অসংখ্য প্রতিসাম্য রেখা আছে।"
+    },
+    {
+      "number": "13",
+      "tag": "CB 25",
+      "question": "0.00045 সংখ্যাটির সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 ‾ \\overline{3} 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 ‾ \\overline{4} 4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 ‾ \\overline{3} 3",
+      "option_b": "3",
+      "option_c": "4 ‾ \\overline{4} 4",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "সাধারণ লগের পূর্ণক (characteristic) হলো সংখ্যার দশমিক বিন্দুর বাম পাশে অবস্থিত সংখ্যাগুলোর ভিত্তিতে নির্ধারিত হয়। দশমিক বিন্দুর বাম পাশে কোনো সংখ্যা না থাকলে, অর্থাৎ 0.00045-এর ক্ষেত্রে, পূর্ণক (characteristic) হবে ঋণাত্মক সংখ্যা এবং দশমিক বিন্দুর পর কতগুলো ঘর আছে তার থেকে ১ কম। এখানে, দশমিক বিন্দুর পর 00045 00045 00045 থেকে সংখ্যা শুরু হয়েছে, অর্থাৎ দশমিক বিন্দুর পরে 3টি ঘর পর্যন্ত আছে এবং তারপর সংখ্যা শুরু হয়েছে, তাই পূর্ণক বা characteristic হবে: − 4 -4 − 4 অতএব, সঠিক উত্তর হলো: 4 ‾ \\overline{4} 4 ।"
+    },
+    {
+      "number": "14",
+      "tag": "CB 25",
+      "question": "একটি বৃত্তের ব্যাস 26 সে.মি. হলে এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2123.72",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "530.93",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "163.36",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "81.68",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2123.72",
+      "option_b": "530.93",
+      "option_c": "163.36",
+      "option_d": "81.68",
+      "correct": "খ",
+      "explanation": "এখানে, বৃত্তের ব্যাস = 26 c m ∴ বৃত্তের ব্যাসার্ধ = 26 2 = 73 c m \\begin{aligned} & \\text { }=26 \\mathrm{~cm} \\\\ \\therefore & \\text { বৃত্তের ব্যাসার্ধ}=\\frac{26}{2}=73 \\mathrm{~cm} \\end{aligned} ∴ ​ = 26 cm বৃত্তের ব্যাসার্ধ = 2 26 ​ = 73 cm ​ ∴ বৃত্তের ক্ষেত্রফল = π r 2 = π × 13 2 = 530.93 c m 2 \\therefore \\text { বৃত্তের ক্ষেত্রফল }=\\pi r^{2}=\\pi \\times 13^{2}=530.93 \\mathrm{~cm}^{2} ∴ বৃত্তের ক্ষেত্রফল = π r 2 = π × 1 3 2 = 530.93 cm 2"
+    },
+    {
+      "number": "15",
+      "tag": "CB 25",
+      "question": "∠ B O C \\angle B O C ∠ BOC এর পূরক কোণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "∠ A O C \\angle A O C ∠ A OC",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "∠ B O D \\angle B O D ∠ BO D",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "∠ A O D \\angle A O D ∠ A O D",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "∠ D O C \\angle D O C ∠ D OC",
+          "is_correct": true
+        }
+      ],
+      "option_a": "∠ A O C \\angle A O C ∠ A OC",
+      "option_b": "∠ B O D \\angle B O D ∠ BO D",
+      "option_c": "∠ A O D \\angle A O D ∠ A O D",
+      "option_d": "∠ D O C \\angle D O C ∠ D OC",
+      "correct": "ঘ",
+      "explanation": "আমরা জানি, দুটি কোণের সমষ্টি এক সমকোণ হলে কোন দুটি পরস্পর পূরক কোণ। এখানে, <BOC+<COD=90° সুতরাং, <BOC এর পূরক কোন <DOC"
+    },
+    {
+      "number": "16",
+      "tag": "CB 25",
+      "question": "চিত্রে আয়তক্ষেত্রের দাগাঙ্কিত অংশের ক্ষেত্রফল কত বর্গসে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28.27",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "31.73",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "33.27",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60",
+          "is_correct": false
+        }
+      ],
+      "option_a": "28.27",
+      "option_b": "31.73",
+      "option_c": "33.27",
+      "option_d": "60",
+      "correct": "খ",
+      "explanation": "1. আয়তক্ষেত্রের ক্ষেত্রফল নির্ণয়: আয়তক্ষেত্রের দৈর্ঘ্য = 10 সে.মি. আয়তক্ষেত্রের প্রস্থ = 6 সে.মি. আয়তক্ষেত্রের ক্ষেত্রফল = দৈর্ঘ্য × প্রস্থ = 10 সে.মি. × 6 সে.মি. = 60 বর্গসে.মি. 2. বৃত্তের ক্ষেত্রফল নির্ণয়: চিত্রে দেখা যাচ্ছে, বৃত্তটি আয়তক্ষেত্রের প্রস্থ বরাবর সম্পূর্ণরূপে আবদ্ধ। তাই বৃত্তের ব্যাস আয়তক্ষেত্রের প্রস্থের সমান, অর্থাৎ 6 সে.মি.। বৃত্তের ব্যাসার্ধ (r) = ব্যাস / 2 = 6 সে.মি. / 2 = 3 সে.মি.। বৃত্তের ক্ষেত্রফল =πr^2 =3 .1416×9 = 28.2744 বর্গসে.মি. (প্রায়)। 3. দাগাঙ্কিত অংশের ক্ষেত্রফল নির্ণয়: দাগাঙ্কিত অংশের ক্ষেত্রফল = আয়তক্ষেত্রের ক্ষেত্রফল - বৃত্তের ক্ষেত্রফল দাগাঙ্কিত অংশের ক্ষেত্রফল = 60 বর্গসে.মি. - 28.2744 বর্গসে.মি. = 31.7256 বর্গসে.মি. (প্রায়) উত্তর: চিত্রে আয়তক্ষেত্রের দাগাঙ্কিত অংশের ক্ষেত্রফল প্রায় 31.73 বর্গসে.মি.।"
+    },
+    {
+      "number": "1",
+      "tag": "CB 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: শ্রেণিব্যাপ্তি 31-40 41-50 51-60 61-70 71-80 গণসংখ্যা 4 6 10 8 2 1.1. মধ্যক শ্রেণির গণসংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "8",
+      "option_c": "6",
+      "option_d": "4",
+      "correct": "ক",
+      "explanation": "শ্রেণিব্যাপ্তি 31-40 41-50 51-60 61-70 71-80 গণসংখ্যা 4 6 10 8 2 ক্রমযোজিত গণসংখ্যা 4 10 20 28 30 এখানে, n = 30 ∴ n 2 = 30 2 = 15 n = 30 \\therefore \\frac{n}{2} = \\frac{30}{2} = 15 n = 30 ∴ 2 n ​ = 2 30 ​ = 15 ∴ মধ্যক শ্রেণি (51–60) এবং মধ্যক শ্রেণির গণসংখ্যা 10"
+    },
+    {
+      "number": "2",
+      "tag": "CB 25",
+      "question": "2 x + 2 x = 3 2x + \\frac{2}{x} = 3 2 x + x 2 ​ = 3 হলে, x 2 + 1 x 2 x^2 + \\frac{1}{x^2} x 2 + x 2 1 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9 5 \\frac{9}{5} 5 9 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "17 4 \\frac{17}{4} 4 17 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_b": "1",
+      "option_c": "9 5 \\frac{9}{5} 5 9 ​",
+      "option_d": "17 4 \\frac{17}{4} 4 17 ​",
+      "correct": "ক",
+      "explanation": "দেওয়া আছে, 2 x + 2 x = 3 2x + \\frac{2}{x} = 3 2 x + x 2 ​ = 3 বা, x + 1 x = 3 2 x + \\frac{1}{x} = \\frac{3}{2} x + x 1 ​ = 2 3 ​ বা, ( x + 1 x ) 2 = 9 4 (x + \\frac{1}{x})^2 = \\frac{9}{4} ( x + x 1 ​ ) 2 = 4 9 ​ বা, x 2 + 1 x 2 + 2 = 9 4 ∴ x 2 + 1 x 2 = 9 4 − 2 = 1 4 x^2 + \\frac{1}{x^2} + 2 = \\frac{9}{4} \\therefore x^2 + \\frac{1}{x^2} = \\frac{9}{4} - 2 = \\frac{1}{4} x 2 + x 2 1 ​ + 2 = 4 9 ​ ∴ x 2 + x 2 1 ​ = 4 9 ​ − 2 = 4 1 ​"
+    },
+    {
+      "number": "3",
+      "tag": "CB 25",
+      "question": "64 + 32 + 16 + 8 + … 64 + 32 + 16 + 8 + \\dots 64 + 32 + 16 + 8 + … ধারার অষ্টম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "2",
+      "option_d": "4",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "CB 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: x 2 = 5 x − 1 x^2 = \\sqrt{5}x - 1 x 2 = 5 ​ x − 1 4.1. x + 1 x x + \\frac{1}{x} x + x 1 ​ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 5 -\\sqrt{5} − 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 \\sqrt{5} 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "− 5 -\\sqrt{5} − 5 ​",
+      "option_c": "5 \\sqrt{5} 5 ​",
+      "option_d": "3",
+      "correct": "গ",
+      "explanation": "x 2 = 5 x − 1 x^2=\\sqrt{5x}-1 x 2 = 5 x ​ − 1 বা, x 2 + 1 = 5 x x^2+1=\\sqrt{5x} x 2 + 1 = 5 x ​ ∴ \\therefore ∴ x + 1 x = 5 x+\\frac{1}{x}=\\sqrt{5} x + x 1 ​ = 5 ​"
+    },
+    {
+      "number": "5",
+      "tag": "CB 25",
+      "question": "চিত্রে, θ \\theta θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "90 ∘ 90^\\circ 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^\\circ 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45 ∘ 45^\\circ 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30 ∘ 30^\\circ 3 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "90 ∘ 90^\\circ 9 0 ∘",
+      "option_b": "60 ∘ 60^\\circ 6 0 ∘",
+      "option_c": "45 ∘ 45^\\circ 4 5 ∘",
+      "option_d": "30 ∘ 30^\\circ 3 0 ∘",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "CB 25",
+      "question": "x + 3 y = 1 2 x + 6 y = 2 } \\left. \\begin{array}{l} x+3y=1 \\\\ 2x+6y=2 \\end{array} \\right \\} x + 3 y = 1 2 x + 6 y = 2 ​ } সমীকরণ জোট— i. সমঞ্জস্য। ii. পরস্পর নির্ভরশীল iii. এর একটিমাত্র সমাধান আছে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "CB 25",
+      "question": "b, a, c ক্রমিক সমানুপাতী হলে— i. a 2 = b c a^2 = bc a 2 = b c ii. b a = c a \\frac{b}{a} = \\frac{c}{a} a b ​ = a c ​ iii. a + b a − b = c + a c − a \\frac{a+b}{a-b} = \\frac{c+a}{c-a} a − b a + b ​ = c − a c + a ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "b, a, c ক্রমিক সমানুপাতী হলে, b a = a c ⟹ a 2 = b c \\frac{b}{a} = \\frac{a}{c} \\implies a^2 = bc a b ​ = c a ​ ⟹ a 2 = b c বা, a b = c a ⟹ a + b a − b = c + a c − a \\frac{a}{b} = \\frac{c}{a} \\implies \\frac{a+b}{a-b} = \\frac{c+a}{c-a} b a ​ = a c ​ ⟹ a − b a + b ​ = c − a c + a ​ [যোজন-বিয়োজন] ∴ \\therefore ∴ (ii) নং তথ্যটি সঠিক নয়।"
+    },
+    {
+      "number": "8",
+      "tag": "CB 25",
+      "question": "নিচের তথ্যের আলোকে (২৪ ও ২৫) নং প্রশ্নের উত্তর দাও: 8.1. AC এর দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9 3 9\\sqrt{3} 9 3 ​ মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12 3 12\\sqrt{3} 12 3 ​ মিটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9 মিটার",
+      "option_b": "9 3 9\\sqrt{3} 9 3 ​ মিটার",
+      "option_c": "36 মিটার",
+      "option_d": "12 3 12\\sqrt{3} 12 3 ​ মিটার",
+      "correct": "",
+      "explanation": "অপশনে সঠিক উত্তর নেই। সঠিক উত্তর হবে 0.36 মিটার। কিন্তু BC = 18 মিটার হলে সঠিক উত্তর হবে অপশন ⓓ।"
+    },
+    {
+      "number": "9",
+      "tag": "CB 25",
+      "question": "2 সে.মি. এবং 3 সে.মি. ব্যাসার্ধবিশিষ্ট দুটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 সে.মি.",
+      "option_b": "4 সে.মি.",
+      "option_c": "3 সে.মি.",
+      "option_d": "1 সে.মি.",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "CB 25",
+      "question": "সুষম পঞ্চভুজের শীর্ষবিন্দুতে উৎপন্ন কোণের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "72 ∘ 72^\\circ 7 2 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "90 ∘ 90^\\circ 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "108 ∘ 108^\\circ 10 8 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "144 ∘ 144^\\circ 14 4 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "72 ∘ 72^\\circ 7 2 ∘",
+      "option_b": "90 ∘ 90^\\circ 9 0 ∘",
+      "option_c": "108 ∘ 108^\\circ 10 8 ∘",
+      "option_d": "144 ∘ 144^\\circ 14 4 ∘",
+      "correct": "গ",
+      "explanation": "আমরা জানি, n সংখ্যক বাহুবিশিষ্ট সুষম বহুভুজের শীর্ষবিন্দুতে উৎপন্ন অন্তঃস্থ কোণের পরিমাণ, θ = n − 2 n × 180 ∘ \\theta = \\frac{n-2}{n} \\times 180^\\circ θ = n n − 2 ​ × 18 0 ∘ ∴ \\therefore ∴ সুষম পঞ্চভুজের শীর্ষবিন্দুতে উৎপন্ন অন্তঃস্থ কোণ = 5 − 2 5 × 180 ∘ = 108 ∘ =\\frac{5-2}{5} \\times 180^\\circ = 108^\\circ = 5 5 − 2 ​ × 18 0 ∘ = 10 8 ∘"
+    },
+    {
+      "number": "11",
+      "tag": "CB 25",
+      "question": "PQR সমকোণী ত্রিভুজের ∠ Q = 1 \\angle Q = 1 ∠ Q = 1 সমকোণ এবং ∠ P = 2 ∠ R \\angle P = 2\\angle R ∠ P = 2∠ R হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "PR = 2QR",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "PQ = 2PR",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "PR = 2PQ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "QR = 2PQ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "PR = 2QR",
+      "option_b": "PQ = 2PR",
+      "option_c": "PR = 2PQ",
+      "option_d": "QR = 2PQ",
+      "correct": "",
+      "explanation": ""
+    }
+  ]
+}

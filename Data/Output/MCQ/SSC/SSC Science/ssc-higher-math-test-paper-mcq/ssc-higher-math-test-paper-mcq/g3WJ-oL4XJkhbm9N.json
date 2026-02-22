@@ -1,0 +1,799 @@
+{
+  "read_id": "g3WJ-oL4XJkhbm9N",
+  "title": "মির্জাপুর ক্যাডেট কলেজ ২০২৫",
+  "count": 24,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "MCC 25",
+      "question": "5x + 2y = 10 সরলরেখাটির ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 2 5 - \\frac{2}{5} − 5 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 5 2 - \\frac{5}{2} − 2 5 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-5",
+      "option_b": "-2",
+      "option_c": "− 2 5 - \\frac{2}{5} − 5 2 ​",
+      "option_d": "− 5 2 - \\frac{5}{2} − 2 5 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "MCC 25",
+      "question": "( 1 + 2 x ) 28 (1 + 2x)^{28} ( 1 + 2 x ) 28 এর বিস্তৃতিতে পঞ্চম এবং চতুর্থ পদের সহগদ্বয়ের অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12:23",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "48:23",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25:2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2:25",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12:23",
+      "option_b": "48:23",
+      "option_c": "25:2",
+      "option_d": "2:25",
+      "correct": "গ",
+      "explanation": "( 1 + 2 x ) 28 (1 + 2x)^{28} ( 1 + 2 x ) 28 এর বিস্তৃতিতে পঞ্চম বা ( 4 + 1 ) (4+1) ( 4 + 1 ) তম পদ = ( 28 4 ) ( 2 x ) 4 = \\binom{28}{4} (2x)^4 = ( 4 28 ​ ) ( 2 x ) 4 এবং চতুর্থ বা ( 3 + 1 ) (3 + 1) ( 3 + 1 ) তম পদ = ( 28 3 ) ( 2 x ) 3 = \\binom{28}{3} (2x)^3 = ( 3 28 ​ ) ( 2 x ) 3 ∴ \\therefore ∴ পদ দুইটির সহগের অনুপাত = ( 28 4 ) × 2 4 ( 28 3 ) × 2 3 = 2 × 28 × 27 × 26 × 25 4 × 3 × 2 × 1 28 × 27 × 26 3 × 2 × 1 = \\frac{\\binom{28}{4} \\times 2^4}{\\binom{28}{3} \\times 2^3} = \\frac{2 \\times \\frac{28 \\times 27 \\times 26 \\times 25}{4 \\times 3 \\times 2 \\times 1}}{\\frac{28 \\times 27 \\times 26}{3 \\times 2 \\times 1}} = ( 3 28 ​ ) × 2 3 ( 4 28 ​ ) × 2 4 ​ = 3 × 2 × 1 28 × 27 × 26 ​ 2 × 4 × 3 × 2 × 1 28 × 27 × 26 × 25 ​ ​ = 25 2 = 25 : 2 = \\frac{25}{2} = 25:2 = 2 25 ​ = 25 : 2"
+    },
+    {
+      "number": "3",
+      "tag": "MCC 25",
+      "question": "( x − 1 x ) 25 (x - \\frac{1}{x})^{25} ( x − x 1 ​ ) 25 এর বিস্তৃতিতে x 15 x^{15} x 15 এর সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− ( 25 5 ) - \\binom{25}{5} − ( 5 25 ​ )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− ( 25 10 ) - \\binom{25}{10} − ( 10 25 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− ( 25 20 ) - \\binom{25}{20} − ( 20 25 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− ( 25 15 ) - \\binom{25}{15} − ( 15 25 ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− ( 25 5 ) - \\binom{25}{5} − ( 5 25 ​ )",
+      "option_b": "− ( 25 10 ) - \\binom{25}{10} − ( 10 25 ​ )",
+      "option_c": "− ( 25 20 ) - \\binom{25}{20} − ( 20 25 ​ )",
+      "option_d": "− ( 25 15 ) - \\binom{25}{15} − ( 15 25 ​ )",
+      "correct": "ক",
+      "explanation": "( x − 1 x ) 25 \\left(x - \\frac{1}{x}\\right)^{25} ( x − x 1 ​ ) 25 এর বিস্তৃতিতে ( r + 1 ) (r+1) ( r + 1 ) তম পদ = ( 25 r ) x 25 − r ( − 1 x ) r \\binom{25}{r} x^{25-r} \\left(-\\frac{1}{x}\\right)^r ( r 25 ​ ) x 25 − r ( − x 1 ​ ) r = ( 25 r ) x 25 − 2 r ( − 1 ) r = \\binom{25}{r} x^{25-2r} (-1)^r = ( r 25 ​ ) x 25 − 2 r ( − 1 ) r x 15 x^{15} x 15 যুক্ত পদের জন্য, 25 − 2 r = 15 25 - 2r = 15 25 − 2 r = 15 বা, 2 r = 10 ∴ r = 5 2r = 10 \\therefore r = 5 2 r = 10 ∴ r = 5 ∴ x 15 \\therefore x^{15} ∴ x 15 এর সহগ = ( 25 5 ) ( − 1 ) 5 = − ( 25 5 ) \\binom{25}{5} (-1)^5 = -\\binom{25}{5} ( 5 25 ​ ) ( − 1 ) 5 = − ( 5 25 ​ )"
+    },
+    {
+      "number": "4",
+      "tag": "MCC 25",
+      "question": "( x 2 + 1 x ) 27 (x^2 + \\frac{1}{x})^{27} ( x 2 + x 1 ​ ) 27 এর বিস্তৃতিতে x x x মুক্ত পদের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 27 9 ) \\binom{27}{9} ( 9 27 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 27 10 ) \\binom{27}{10} ( 10 27 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 27 13 ) \\binom{27}{13} ( 13 27 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 27 18 ) \\binom{27}{18} ( 18 27 ​ )",
+          "is_correct": true
+        }
+      ],
+      "option_a": "( 27 9 ) \\binom{27}{9} ( 9 27 ​ )",
+      "option_b": "( 27 10 ) \\binom{27}{10} ( 10 27 ​ )",
+      "option_c": "( 27 13 ) \\binom{27}{13} ( 13 27 ​ )",
+      "option_d": "( 27 18 ) \\binom{27}{18} ( 18 27 ​ )",
+      "correct": "ঘ",
+      "explanation": "( x 2 + 1 x ) 27 \\left(x^2 + \\frac{1}{x}\\right)^{27} ( x 2 + x 1 ​ ) 27 এর বিস্তৃতিতে ( r + 1 ) (r+1) ( r + 1 ) তম পদ = ( 27 r ) ( x 2 ) 27 − r ( 1 x ) r \\binom{27}{r} (x^2)^{27-r} \\left(\\frac{1}{x}\\right)^r ( r 27 ​ ) ( x 2 ) 27 − r ( x 1 ​ ) r = ( 27 r ) x 54 − 3 r = \\binom{27}{r} x^{54-3r} = ( r 27 ​ ) x 54 − 3 r x x x মুক্ত পদের জন্য, 54 − 3 r = 0 ∴ r = 18 54 - 3r = 0 \\therefore r = 18 54 − 3 r = 0 ∴ r = 18 ∴ x \\therefore x ∴ x মুক্ত পদ = ( 27 18 ) \\binom{27}{18} ( 18 27 ​ )"
+    },
+    {
+      "number": "5",
+      "tag": "MCC 25",
+      "question": "( 1 + x ) 25 (1+x)^{25} ( 1 + x ) 25 এর বিস্তৃতিতে x 10 x^{10} x 10 এর সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 25 9 ) \\binom{25}{9} ( 9 25 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 25 10 ) \\binom{25}{10} ( 10 25 ​ )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( 25 11 ) \\binom{25}{11} ( 11 25 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 25 12 ) \\binom{25}{12} ( 12 25 ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 25 9 ) \\binom{25}{9} ( 9 25 ​ )",
+      "option_b": "( 25 10 ) \\binom{25}{10} ( 10 25 ​ )",
+      "option_c": "( 25 11 ) \\binom{25}{11} ( 11 25 ​ )",
+      "option_d": "( 25 12 ) \\binom{25}{12} ( 12 25 ​ )",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "MCC 25",
+      "question": "e 2 x = e x + 1 e^{2x} = e^{x+1} e 2 x = e x + 1 হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x = 1 x=1 x = 1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x = − 1 x=-1 x = − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x = ln ⁡ 2 x=\\ln2 x = ln 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x = 1 2 x=\\frac{1}{2} x = 2 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x = 1 x=1 x = 1",
+      "option_b": "x = − 1 x=-1 x = − 1",
+      "option_c": "x = ln ⁡ 2 x=\\ln2 x = ln 2",
+      "option_d": "x = 1 2 x=\\frac{1}{2} x = 2 1 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "MCC 25",
+      "question": "f ( x , y , z ) = x 3 + y 3 + z 3 − 3 x y z f(x, y, z) = x^3 + y^3 + z^3 - 3xyz f ( x , y , z ) = x 3 + y 3 + z 3 − 3 x yz হলে, ফাংশনটি-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রতিসম এবং সমমাত্রিক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "চক্রক্রমিক কিন্তু প্রতিসম নয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমমাত্রিক কিন্তু প্রতিসম নয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সমমাত্রিক এবং প্রতিসম কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রতিসম এবং সমমাত্রিক",
+      "option_b": "চক্রক্রমিক কিন্তু প্রতিসম নয়",
+      "option_c": "সমমাত্রিক কিন্তু প্রতিসম নয়",
+      "option_d": "সমমাত্রিক এবং প্রতিসম কোনোটিই নয়",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "MCC 25",
+      "question": "নিচের কোনটি প্রতিসম নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x + y + z x+y+z x + y + z",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x y + y z + z x xy+yz+zx x y + yz + z x",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 + y 2 + z 2 x^2+y^2+z^2 x 2 + y 2 + z 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 2 y + y 2 z + z 2 x x^2y+y^2z+z^2x x 2 y + y 2 z + z 2 x",
+          "is_correct": true
+        }
+      ],
+      "option_a": "x + y + z x+y+z x + y + z",
+      "option_b": "x y + y z + z x xy+yz+zx x y + yz + z x",
+      "option_c": "x 2 + y 2 + z 2 x^2+y^2+z^2 x 2 + y 2 + z 2",
+      "option_d": "x 2 y + y 2 z + z 2 x x^2y+y^2z+z^2x x 2 y + y 2 z + z 2 x",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "MCC 25",
+      "question": "নিচের কোনটি অসীম গুণোত্তর ধারা নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 + 1 + 1 2 + 1 4 + . . . . . 2+1+\\frac{1}{2}+\\frac{1}{4}+..... 2 + 1 + 2 1 ​ + 4 1 ​ + .....",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 + 3 r + 3 r 2 + 3 r 3 + . . . . . 3+3r+3r^2+3r^3+..... 3 + 3 r + 3 r 2 + 3 r 3 + .....",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 + 1 2 + 1 3 + 1 4 + . . . . . 1+\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{4}+..... 1 + 2 1 ​ + 3 1 ​ + 4 1 ​ + .....",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4 + 2 + 1 + 1 2 + . . . . . 4+2+1+\\frac{1}{2}+..... 4 + 2 + 1 + 2 1 ​ + .....",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 + 1 + 1 2 + 1 4 + . . . . . 2+1+\\frac{1}{2}+\\frac{1}{4}+..... 2 + 1 + 2 1 ​ + 4 1 ​ + .....",
+      "option_b": "3 + 3 r + 3 r 2 + 3 r 3 + . . . . . 3+3r+3r^2+3r^3+..... 3 + 3 r + 3 r 2 + 3 r 3 + .....",
+      "option_c": "1 + 1 2 + 1 3 + 1 4 + . . . . . 1+\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{4}+..... 1 + 2 1 ​ + 3 1 ​ + 4 1 ​ + .....",
+      "option_d": "4 + 2 + 1 + 1 2 + . . . . . 4+2+1+\\frac{1}{2}+..... 4 + 2 + 1 + 2 1 ​ + .....",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "MCC 25",
+      "question": "1 − 1 3 + 1 9 − 1 27 + . . . . . . . 1-\\frac{1}{3}+\\frac{1}{9}-\\frac{1}{27}+....... 1 − 3 1 ​ + 9 1 ​ − 27 1 ​ + ....... ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "3 2 \\frac{3}{2} 2 3 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "MCC 25",
+      "question": "log ⁡ a b = 2 \\log_a b = 2 lo g a ​ b = 2 এবং log ⁡ b c = 3 \\log_b c = 3 lo g b ​ c = 3 হলে, log ⁡ a c = \\log_a c = lo g a ​ c = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "6",
+      "option_c": "1",
+      "option_d": "3 2 \\frac{3}{2} 2 3 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "MCC 25",
+      "question": "log ⁡ 3 81 \\log_{3} 81 lo g 3 ​ 81 এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "MCC 25",
+      "question": "b + c, 2b এবং 2c যথাক্রমে A, B এবং C বিন্দুত্ৰয়ের অবস্থান ভেক্টর এবং D, BC এর মধ্যবিন্দু হলে, AD এর সমান ভেক্টর হলো— i. 0 ⃗ \\vec{0} 0 ii. A A ⃗ \\vec{AA} AA iii. D D ⃗ \\vec{DD} DD নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "b, c, 2b, এবং 2c যথাক্রমে A, B, এবং C বিন্দুত্ৰয়ের অবস্থান ভেক্টর হলে, আমরা লিখতে পারি: \\(\\\\vec{a} = \\\\vec{b} + \\\\vec{c}\\) \\(\\\\vec{b} = 2\\\\vec{b}\\) \\(\\\\vec{c} = 2\\\\vec{c}\\) যেহেতু D, BC এর মধ্যবিন্দু, তাহলে D এর অবস্থান ভেক্টর হবে: \\(\\\\vec{d} = \\\\frac{\\\\vec{b} + \\\\vec{c}}{2} = \\\\frac{2\\\\vec{b} + 2\\\\vec{c}}{2} = \\\\vec{b} + \\\\vec{c}\\) এখন, AD এর সমান ভেক্টর হলো: \\(\\\\vec{AD} = \\\\vec{d} - \\\\vec{a} = (\\\\vec{b} + \\\\vec{c}) - (\\\\vec{b} + \\\\vec{c}) = \\\\vec{0}\\) আমরা জানি যে: \\(\\\\vec{AA} = \\\\vec{A} - \\\\vec{A} = \\\\vec{0}\\) \\(\\\\vec{DD} = \\\\vec{D} - \\\\vec{D} = \\\\vec{0}\\) সুতরাং, \\(\\\\vec{AD} = \\\\vec{0}\\), এবং \\(\\\\vec{AA} = \\\\vec{0}\\), \\(\\\\vec{DD} = \\\\vec{0}\\)। অর্থাৎ, \\(\\\\vec{AD} = \\\\vec{AA} = \\\\vec{DD} = \\\\vec{0}\\)। অতএব, i, ii এবং iii তিনটিই সঠিক।"
+    },
+    {
+      "number": "14",
+      "tag": "MCC 25",
+      "question": "− 1780 ∘ -1780^\\circ − 178 0 ∘ কোনটি কোন চতুর্ভাগে অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রথম",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তৃতীয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রথম",
+      "option_b": "দ্বিতীয়",
+      "option_c": "তৃতীয়",
+      "option_d": "চতুর্থ",
+      "correct": "ক",
+      "explanation": "প্রদত্ত কোণটি হলো \\(-1780^ ext{o}\\)। চতুর্ভাগ নির্ণয় করার জন্য, প্রথমে আমরা \\(-1780^ ext{o}\\) কে \\(360^ ext{o}\\) দ্বারা ভাগ করে ভাগশেষ বের করবো। \\(\\frac{-1780}{360} = -4 \\text{ সহ অবশিষ্ট } -340\\) অতএব, \\(-1780^ ext{o}\\) কোণটি \\(-340^ ext{o}\\) কোণের সমতুল্য।\\(-340^ ext{o}\\) কোণটি ঘড়ির কাঁটার দিকে \\(340^ ext{o}\\) আবর্তনকে নির্দেশ করে। এটি \\(0^ ext{o}\\) থেকে \\(-90^ ext{o}\\) (চতুর্থ চতুর্ভাগ), \\(-90^ ext{o}\\) থেকে \\(-180^ ext{o}\\) (তৃতীয় চতুর্ভাগ), \\(-180^ ext{o}\\) থেকে \\(-270^ ext{o}\\) (দ্বিতীয় চতুর্ভাগ) এবং \\(-270^ ext{o}\\) থেকে \\(-360^ ext{o}\\) (প্রথম চতুর্ভাগ) অতিক্রম করে।যেহেতু \\(-340^ ext{o}\\) কোণটি \\(-270^ ext{o}\\) এবং \\(-360^ ext{o}\\) এর মধ্যবর্তী, তাই এটি প্রথম চতুর্ভাগে অবস্থিত।"
+    },
+    {
+      "number": "15",
+      "tag": "MCC 25",
+      "question": "অধিবর্ষ হতে দৈবভাবে যেকোনো একদিন নির্বাচন করলে দিনটি শুক্রবার হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 7 \\frac{1}{7} 7 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "52 366 \\frac{52}{366} 366 52 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "53 366 \\frac{53}{366} 366 53 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "104 366 \\frac{104}{366} 366 104 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 7 \\frac{1}{7} 7 1 ​",
+      "option_b": "52 366 \\frac{52}{366} 366 52 ​",
+      "option_c": "53 366 \\frac{53}{366} 366 53 ​",
+      "option_d": "104 366 \\frac{104}{366} 366 104 ​",
+      "correct": "ক",
+      "explanation": "প্রতি 400 বছর পর পর ক্যালেন্ডারের প্রতিটি দিন পুনরাবৃত্তি হয়। যেমন: ২০২৬ সালের ১ জানুয়ারি বৃহস্পতিবার হলে, এর 400 বছর আগের বা পরের বছরের ১ জানুয়ারি দিনটিও বৃহস্পতিবার হবে। আবার, 400 বছরে লিপইয়ার আছে 97 টি 400 বছরে মোট দিনের সংখ্যা = ( 400 × 365 + 97 ) = (400 \\times 365 + 97) = ( 400 × 365 + 97 ) টি = 146097 = 146097 = 146097 টি 400 বছরে মোট শুক্রবারের সংখ্যা = 146097 7 = 20871 = \\frac{146097}{7} = 20871 = 7 146097 ​ = 20871 টি এখন, যেকোনো ১টি দিন দৈবভাবে নির্বাচন করলে দিনটি শুক্রবার হওয়ার সম্ভাবনা = 20871 146097 = 1 7 = \\frac{20871}{146097} = \\frac{1}{7} = 146097 20871 ​ = 7 1 ​ বিশেষ দ্রষ্টব্য: অন্য যেকোনো বার বা দিনের জন্য উক্ত সম্ভাবনাটি 1 7 \\frac{1}{7} 7 1 ​ হবে।"
+    },
+    {
+      "number": "16",
+      "tag": "MCC 25",
+      "question": "একটি ছক্কা দুইবার নিক্ষেপ করা হলো। নমুনা বিন্দুর যোগফল 7 হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 9 \\frac{1}{9} 9 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 12 \\frac{1}{12} 12 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 36 \\frac{1}{36} 36 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 9 \\frac{1}{9} 9 1 ​",
+      "option_c": "1 12 \\frac{1}{12} 12 1 ​",
+      "option_d": "1 36 \\frac{1}{36} 36 1 ​",
+      "correct": "ক",
+      "explanation": "একটি ছক্কা দুইবার নিক্ষেপ করলে মোট নমুনা বিন্দু = 6 2 = 36 = 6^2 = 36 = 6 2 = 36 যোগফল 7 এরূপ নমুনা বিন্দু = {(1, 6), (2, 5), (3, 4), (6, 1), (5, 2), (4, 3)} অনুকূল নমুনা বিন্দু = 6টি নির্ণেয় সম্ভাবনা = 6 36 = 1 6 = \\frac{6}{36} = \\frac{1}{6} = 36 6 ​ = 6 1 ​"
+    },
+    {
+      "number": "17",
+      "tag": "MCC 25",
+      "question": "দুইটি ছক্কা একত্রে নিক্ষেপ করা হলো। নমুনা বিন্দুর যোগফল 10 অপেক্ষা বড় হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 9 \\frac{1}{9} 9 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 12 \\frac{1}{12} 12 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 36 \\frac{1}{36} 36 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 9 \\frac{1}{9} 9 1 ​",
+      "option_c": "1 12 \\frac{1}{12} 12 1 ​",
+      "option_d": "1 36 \\frac{1}{36} 36 1 ​",
+      "correct": "গ",
+      "explanation": "নমুনা বিন্দুদ্বয়ের যোগফল 10 অপেক্ষা বড় হওয়ার অনুকূল ফলাফল = {(5, 6), (6, 5), (6, 6)} অনুকূল নমুনা বিন্দু = 3টি নির্ণেয় সম্ভাবনা = 3 36 = 1 12 = \\frac{3}{36} = \\frac{1}{12} = 36 3 ​ = 12 1 ​"
+    },
+    {
+      "number": "18",
+      "tag": "MCC 25",
+      "question": "y-অক্ষের উপর কোনটির মান শূন্য?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ভুজ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "কোটি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উভয়ই",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ভুজ",
+      "option_b": "কোটি",
+      "option_c": "উভয়ই",
+      "option_d": "কোনোটিই নয়",
+      "correct": "ক",
+      "explanation": "y-অক্ষের উপর যেকোনো বিন্দুর জন্য x-স্থানাঙ্ক বা ভুজ শূন্য হয়।"
+    },
+    {
+      "number": "19",
+      "tag": "MCC 25",
+      "question": "x-অক্ষ হতে ( − 6 , − 4 ) (-6, -4) ( − 6 , − 4 ) বিন্দুর দূরত্ব কত একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 5 4\\sqrt{5} 4 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "6",
+      "option_c": "10",
+      "option_d": "4 5 4\\sqrt{5} 4 5 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "MCC 25",
+      "question": "y = m x + c y = mx + c y = m x + c সমীকরণে m m m নিচের কোনটি বোঝায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x-অক্ষের খণ্ডিতাংশ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "y-অক্ষের খণ্ডিতাংশ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ঢাল",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "চলক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x-অক্ষের খণ্ডিতাংশ",
+      "option_b": "y-অক্ষের খণ্ডিতাংশ",
+      "option_c": "ঢাল",
+      "option_d": "চলক",
+      "correct": "গ",
+      "explanation": "এখানে, প্রদত্ত সমীকরণটি হলো \\(y = mx + c\\)। এই সমীকরণটি একটি সরলরেখার সমীকরণকে উপস্থাপন করে, যেখানে \\(m\\) রেখার ঢাল (slope) এবং \\(c\\) হলো \\(y\\)-অক্ষের খণ্ডিতাংশ (y-intercept)। ঢাল \\(m\\) নির্দেশ করে যে \\(x\\)-এর মানের পরিবর্তনের সাথে সাথে \\(y\\)-এর মানের পরিবর্তন কী হারে ঘটছে। এটি রেখার খাড়া বা ঢালু প্রকৃতি বোঝায়।"
+    },
+    {
+      "number": "21",
+      "tag": "MCC 25",
+      "question": "A ( 1 , 1 ) A(1, 1) A ( 1 , 1 ) এবং B ( 3 , k ) B(3, k) B ( 3 , k ) বিন্দুদ্বয়ের মধ্যবর্তী দূরত্ব 2 একক হলে k k k এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 2 2\\sqrt{2} 2 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 \\sqrt{2} 2 ​",
+      "option_b": "2 2 2\\sqrt{2} 2 2 ​",
+      "option_c": "1",
+      "option_d": "3",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "MCC 25",
+      "question": "cos ⁡ ( − 19 π 3 ) \\cos \\left(-\\frac{19\\pi}{3}\\right) cos ( − 3 19 π ​ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 3 -\\frac{1}{\\sqrt{3}} − 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_b": "− 1 3 -\\frac{1}{\\sqrt{3}} − 3 ​ 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "correct": "গ",
+      "explanation": "cos ⁡ ( − 19 π 3 ) = cos ⁡ ( 19 π 3 ) = cos ⁡ ( 6 π + π 3 ) = cos ⁡ π 3 = 1 2 \\cos \\left( - \\frac{19\\pi}{3} \\right) = \\cos \\left( \\frac{19\\pi}{3} \\right) = \\cos \\left( 6\\pi + \\frac{\\pi}{3} \\right) = \\cos \\frac{\\pi}{3} = \\frac{1}{2} cos ( − 3 19 π ​ ) = cos ( 3 19 π ​ ) = cos ( 6 π + 3 π ​ ) = cos 3 π ​ = 2 1 ​"
+    },
+    {
+      "number": "23",
+      "tag": "MCC 25",
+      "question": "f ( θ ) = cos ⁡ θ − sin ⁡ θ f(\\theta) = \\cos \\theta - \\sin \\theta f ( θ ) = cos θ − sin θ হলে, θ \\theta θ এর কোন মানের জন্য f ( θ ) = 0 f(\\theta) = 0 f ( θ ) = 0 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π 2 \\frac{\\pi}{2} 2 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "π 3 \\frac{\\pi}{3} 3 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π 4 \\frac{\\pi}{4} 4 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "π 6 \\frac{\\pi}{6} 6 π ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π 2 \\frac{\\pi}{2} 2 π ​",
+      "option_b": "π 3 \\frac{\\pi}{3} 3 π ​",
+      "option_c": "π 4 \\frac{\\pi}{4} 4 π ​",
+      "option_d": "π 6 \\frac{\\pi}{6} 6 π ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "MCC 25",
+      "question": "নিচের তথ্যের আলোকে (২৪ ও ২৫) নং প্রশ্নের উত্তর দাও: f ( x ) = ∣ x + 1 ∣ f(x) = |x + 1| f ( x ) = ∣ x + 1∣ . 24.1. f ( x ) f(x) f ( x ) এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "[ − ∞ , 1 ] [-\\infty, 1] [ − ∞ , 1 ]",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 1 , ∞ ) (1, \\infty) ( 1 , ∞ )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( − ∞ , 1 ] (- \\infty, 1] ( − ∞ , 1 ]",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( − ∞ , ∞ ) (- \\infty, \\infty) ( − ∞ , ∞ )",
+          "is_correct": true
+        }
+      ],
+      "option_a": "[ − ∞ , 1 ] [-\\infty, 1] [ − ∞ , 1 ]",
+      "option_b": "( 1 , ∞ ) (1, \\infty) ( 1 , ∞ )",
+      "option_c": "( − ∞ , 1 ] (- \\infty, 1] ( − ∞ , 1 ]",
+      "option_d": "( − ∞ , ∞ ) (- \\infty, \\infty) ( − ∞ , ∞ )",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

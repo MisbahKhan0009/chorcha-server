@@ -1,0 +1,931 @@
+{
+  "read_id": "RLZezYynS0EUzvIm",
+  "title": "ক্যান্ট. পাবলিক স্কুল ও কলেজ, বগুড়া ২০২৪",
+  "count": 28,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "BCPC 24",
+      "question": "0.00000456 এর লগের পূর্ণক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 ‾ \\overline{6} 6",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5 ‾ \\overline{5} 5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 ‾ \\overline{2} 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 ‾ \\overline{4} 4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 ‾ \\overline{6} 6",
+      "option_b": "5 ‾ \\overline{5} 5",
+      "option_c": "2 ‾ \\overline{2} 2",
+      "option_d": "4 ‾ \\overline{4} 4",
+      "correct": "ক",
+      "explanation": "প্রদত্ত সংখ্যা 0.00000456 এর লগের পূর্ণক খুঁজতে হলে, প্রথমে কাজটি সহজ করার জন্য এই সংখ্যা 456 কে বৈজ্ঞানিক নোটেশনে রূপান্তর করে নিই: 0.00000456 = 4.56 × 10 − 6 0.00000456 = 4.56 × 10^{-6} 0.00000456 = 4.56 × 1 0 − 6 বৈজ্ঞানিক নোটেশন থেকে দেখতে পাই যে, এটি 10-এর সাথে গুণফল হিসেবে 6 বারের জন্য সংগনিত করা হয়েছে। এখন, লগারিদম হিসেব করতে গেলে লগের নিয়ম মোতাবেক: log ⁡ ( 4.56 × 10 − 6 ) = log ⁡ ( 4.56 ) + log ⁡ ( 10 − 6 ) \\log(4.56 \\times 10^{-6}) = \\log(4.56) + \\log(10^{-6}) lo g ( 4.56 × 1 0 − 6 ) = lo g ( 4.56 ) + lo g ( 1 0 − 6 ) log ⁡ ( 10 − 6 ) = − 6 \\log(10^{-6}) = -6 lo g ( 1 0 − 6 ) = − 6 সুতরাং, পূর্ণক হবে − 6 -6 − 6 অতএব, 0.00000456 এর লগের পূর্ণক − 6 -6 − 6 বা 6 ‾ \\overline{6} 6 , যা ইউটিলাইজ করার ফলে উপরের অপশনগুলির মধ্যে সঠিক উত্তর হবে অপশন (A): 6 ‾ \\overline{6} 6"
+    },
+    {
+      "number": "2",
+      "tag": "RB 25,CB 25,JB 25,DB 24,CB 24,MB 24,CTG.B 24,DB 24,DB 23,DIN.B 23,JB 23,BB 23,CB 22,DIN.B 22,SB 22,BB 22,SB 20,DIN.B 20,DB 19,RCC 24,RCC 24,PCC 24,BCC 24,RUMC 24,HC 24,MC 24,MCPSC 24,RGLHS 24,BCPC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: শ্রেণিব্যাপ্তি 21-30 31-40 41-50 51-60 গণসংখ্যা 4 12 8 10 প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28.67",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27.67",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "47.67",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "37.17",
+          "is_correct": true
+        }
+      ],
+      "option_a": "28.67",
+      "option_b": "27.67",
+      "option_c": "47.67",
+      "option_d": "37.17",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত শ্রেণি ও গণসংখ্যা: শ্রেণিসীমা গণসংখ্যা 21 - 30 4 31 - 40 12 41 - 50 8 51 - 60 10 প্রদত্ত সারণি থেকে দেখা যায় যে, সর্বাধিক গণসংখ্যা হলো 12, যা 31 – 40 শ্রেণিতে অবস্থিত। সুতরাং, প্রচুরক শ্রেণী হলো 31 – 40। প্রচুরক শ্রেণির নিম্নসীমা, L = 30.5 L = 30.5 L = 30.5 (প্রকৃত নিম্নসীমা) প্রচুরক শ্রেণির গণসংখ্যা, f 1 = 12 f_1 = 12 f 1 ​ = 12 প্রচুরক শ্রেণির পূর্ববর্তী শ্রেণির গণসংখ্যা, f 0 = 4 f_0 = 4 f 0 ​ = 4 প্রচুরক শ্রেণির পরবর্তী শ্রেণির গণসংখ্যা, f 2 = 8 f_2 = 8 f 2 ​ = 8 শ্রেণিব্যাপ্তি, h = 10 h = 10 h = 10 প্রচুরক নির্ণয়ের সূত্রটি হলো: = L + f 1 − f 0 ( f 1 − f 0 ) + ( f 1 − f 2 ) × h = L + \\frac{f_1 - f_0}{(f_1 - f_0) + (f_1 - f_2)} \\times h = L + ( f 1 ​ − f 0 ​ ) + ( f 1 ​ − f 2 ​ ) f 1 ​ − f 0 ​ ​ × h = 30.5 + 12 − 4 ( 12 − 4 ) + ( 12 − 8 ) × 10 = 30.5 + \\frac{12 - 4}{(12 - 4) + (12 - 8)} \\times 10 = 30.5 + ( 12 − 4 ) + ( 12 − 8 ) 12 − 4 ​ × 10 = 30.5 + 8 8 + 4 × 10 = 30.5 + \\frac{8}{8 + 4} \\times 10 = 30.5 + 8 + 4 8 ​ × 10 = 30.5 + 8 12 × 10 = 30.5 + \\frac{8}{12} \\times 10 = 30.5 + 12 8 ​ × 10 = 30.5 + 80 12 = 30.5 + \\frac{80}{12} = 30.5 + 12 80 ​ = 30.5 + 6.67 = 30.5 + 6.67 = 30.5 + 6.67 = 37.17 = 37.17 = 37.17"
+    },
+    {
+      "number": "3",
+      "tag": "BCPC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: শ্রেণি 11-20 21-30 31-40 41-50 গণসংখ্যা 4 18 22 16 মধ্যক নির্ণয়ে f m = \\mathrm{f}_{\\mathrm{m}}= f m ​ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "22",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "16",
+      "option_c": "22",
+      "option_d": "18",
+      "correct": "গ",
+      "explanation": "Fm=মধ্যক শ্রেণীর গণসংখ্যা এখানে মধ্যম শ্রেণীর গণসংখ্যা =22, Fm=22 এখানে, n = 60 n=60 n = 60 ∴ n 2 = 60 2 = 30 \\therefore \\frac{n}{2}=\\frac{60}{2}=30 ∴ 2 n ​ = 2 60 ​ = 30 , যা (31-40) শ্রেণীতে বিদ্যমান মধ্যক শ্রেণী = (31-40)"
+    },
+    {
+      "number": "4",
+      "tag": "DC 25,MB 25,RB 25,DIN.B 25,JB 25,BB 25,MAD 25,DB 24,RB 24,CB 24,DIN.B 24,MB 24,DB 24,JB 24,BB 24,DB 20,MB 20,DIN.B 20,BB 20,DB 19,RB 19,CB 19,DIN.B 19,JB 19,SB 19,DB 17,JB 17,FCC 24,JGCC 24,BCC 24,VNSC 24,GLHSD 24,ACPS 24,NISD 24,MCPSC 24,RCPC 24,CCS 24,RCPC 24,BCPC 24",
+      "question": "2 x − 3 + 5 = 2 \\sqrt{2 x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণ- i. একটি এক চলকবিশিষ্ট সমীকরণ ii. এর সমাধান সেট S = { } \\mathrm{S}=\\{ \\} S = { } iii. এর সমাধান x = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "ক",
+      "explanation": "2 x − 3 + 5 = 2 \\sqrt{2x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণটি সমাধান করা যাক। প্রথমত, সমীকরণটি সরল করার জন্য আমরা উভয় পাশে 5 5 5 বিয়োগ করব: 2 x − 3 = 2 − 5 \\sqrt{2x-3} = 2 - 5 2 x − 3 ​ = 2 − 5 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 পুরুত্ব বর্গমূলের মান কখনোই ঋণাত্মক হতে পারে না, তাই 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 সমাধায় কোন সমর্থন বা সঠিক সমাধান নেই। অতএব, এর সমাধান সেট হল S = { } S = \\{\\} S = { } , যা একটি খালি সেট নির্দেশ করে। তাহলে, নিচের বস্তুগুলি সঠিক: i. একটি এক চলকবিশিষ্ট সমীকরণ কারণ এটি শুধু x x x -এর উপর নির্ভর করে। ii. এর সমাধান সেট S = { } \\mathrm{S} = \\{ \\} S = { } হল খালি সেট। iii. এর সমাধান x = 6 x = 6 x = 6 ভুল কারণ উক্ত সমীকরণ থেকে এমন কোন সমাধান পাওয়া যায় না। সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "5",
+      "tag": "MAD 25,RCPC 24,BCPC 24",
+      "question": "জ্যামিতিতে উপপাদ্য প্রমাণের ধাপ কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৪",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "২",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৪",
+      "option_b": "২",
+      "option_c": "৩",
+      "option_d": "৫",
+      "correct": "ক",
+      "explanation": "জ্যামিতিতে একটি উপপাদ্য প্রমাণ করার সাধারণত চারটি প্রধান ধাপ থাকে: উপপাদ্যের বিবৃতি: প্রমাণ করতে যে উপপাদ্য দেওয়া হয়েছে, তার সঠিক বিবৃতি উল্লেখ করা। প্রতিষ্ঠা: উপপাদ্যের প্রমাণ করার পূর্বশর্ত, যেমন দেওয়া তথ্য ও প্রমাণ করার জিনিস নির্ধারণ করা। প্রমাণের ধাপ: যৌক্তিক বা গাণিতিক পদ্ধতিতে উপপাদ্য প্রমাণ করা। এখানে অঙ্কন, সূত্র বা পদ্ধতি ব্যবহার করা হয়। উপসংহার: প্রমাণ সম্পন্ন হলে চূড়ান্ত বিবৃতি দেওয়া যে উপপাদ্যটি প্রমাণিত।"
+    },
+    {
+      "number": "6",
+      "tag": "DIN.B 22,BCPC 24",
+      "question": "5% হার মুনাফায় 1500 টাকার 3 বছরের সরল মুনাফা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "235",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "225",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "275",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "220",
+          "is_correct": false
+        }
+      ],
+      "option_a": "235",
+      "option_b": "225",
+      "option_c": "275",
+      "option_d": "220",
+      "correct": "খ",
+      "explanation": "সরল মুনাফা হিসাবের জন্য ফরমুলা হল: ( সরল মুনাফা = মূলধন × হার × সময় 100 ) (\\text{সরল মুনাফা} = \\frac{\\text{মূলধন} \\times \\text{হার} \\times \\text{সময়}}{100}) ( সরল   মুনাফা = 100 মূলধন × হার × সময় ​ ) এখানে, মূলধন = 1500 টাকা, হার = 5% এবং সময় = 3 বছর। সরল মুনাফা = 1500 × 5 × 3 100 = 22500 100 = 225 = \\frac{1500 \\times 5 \\times 3}{100} = \\frac{22500}{100} = 225 = 100 1500 × 5 × 3 ​ = 100 22500 ​ = 225 টাকা। সুতরাং, 1500 টাকার উপর 3 বছরের সরল মুনাফা হবে 225 টাকা।"
+    },
+    {
+      "number": "7",
+      "tag": "BCPC 24",
+      "question": "পরিসীমা দেওয়া থাকলে অঙ্কন করা যায়? i. বর্গ ii. সমবাহু ত্রিভুজ iii. ট্রাপিজিয়াম নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও iii",
+      "option_b": "i ও ii",
+      "option_c": "i, ii ও iii",
+      "option_d": "ii ও iii",
+      "correct": "খ",
+      "explanation": "পরিসীমা দেওয়া থাকলে আঁকা যাবে- ১। বর্গ ২। সমবাহু ত্রিভুজ"
+    },
+    {
+      "number": "8",
+      "tag": "RB 23,DIN.B 22,BCPC 24",
+      "question": "গাঢ় চিহ্নিত অংশের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.434",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3.03",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3.13",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3.434",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2.434",
+      "option_b": "3.03",
+      "option_c": "3.13",
+      "option_d": "3.434",
+      "correct": "ঘ",
+      "explanation": "To calculate the area of the shaded region, we first need to analyze the diagram. Key Observations: A circle is inscribed inside a square, meaning the circle touches all four sides of the square. The radius of the circle is 2 cm, so its diameter is 4 cm. Hence, the side length of the square is equal to the diameter of the circle, which is 4 cm. Steps to Solve: 1. Area of the square: Area of square = = = side 2 = 4 2 = 16   c m 2 ^{2}=4^{2}=16 \\mathrm{~cm}^{2} 2 = 4 2 = 16   cm 2 2. Area of the circle: The area of a circle is given by:  Area of circle  = π r 2 = π ( 2 ) 2 = 4 π   c m 2 \\text { Area of circle }=\\pi r^{2}=\\pi(2)^{2}=4 \\pi \\mathrm{~cm}^{2}  Area of circle  = π r 2 = π ( 2 ) 2 = 4 π   cm 2 3. Shaded Region: The shaded region is the area outside the circle but within the square. Therefore:  Shaded area  =  Area of square  −  Area of circle  \\text { Shaded area }=\\text { Area of square }- \\text { Area of circle }  Shaded area  =  Area of square  −  Area of circle  Substituting the values:  Shaded area  = 16 − 4 π   c m 2 \\text { Shaded area }=16-4 \\pi \\mathrm{~cm}^{2}  Shaded area  = 16 − 4 π   cm 2 Thus, the area of the shaded region is approximately: 16 − 4 π ≈ 16 − 12.57 ≈ 3.43   c m 2 16-4 \\pi \\approx 16-12.57 \\approx 3.43 \\mathrm{~cm}^{2} 16 − 4 π ≈ 16 − 12.57 ≈ 3.43   cm 2"
+    },
+    {
+      "number": "9",
+      "tag": "DB 20,BCPC 24",
+      "question": "2 x + y = 1 2 \\mathrm{x}+\\mathrm{y}=1 2 x + y = 1 এবং x = − 4 \\mathrm{x}=-4 x = − 4 সমীকরাণদ্বয়ের সমাধান বিন্দু কোন চতুর্ভাগে অবস্থান করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২য়",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "১ম",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৩য়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৪র্থ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২য়",
+      "option_b": "১ম",
+      "option_c": "৩য়",
+      "option_d": "৪র্থ",
+      "correct": "ক",
+      "explanation": "প্রথম সমীকরণটি হল 2 x + y = 1 2x + y = 1 2 x + y = 1 । এখানে x = − 4 x = -4 x = − 4 দেওয়া হয়েছে। এখন আমরা y y y এর মান বের করবো: 2 ( − 4 ) + y = 1 2(-4) + y = 1 2 ( − 4 ) + y = 1 − 8 + y = 1 -8 + y = 1 − 8 + y = 1 y = 1 + 8 y = 1 + 8 y = 1 + 8 y = 9 y = 9 y = 9 তাহলে, সমাধান বিন্দু হল ( − 4 , 9 ) (-4, 9) ( − 4 , 9 ) । যেহেতু x x x ঋণাত্মক এবং y y y ধনাত্মক, তাই বিন্দুটি ২য় চতুর্ভাগে অবস্থান করে।"
+    },
+    {
+      "number": "10",
+      "tag": "BCPC 24",
+      "question": "1.1 3 ˙ 1.1\\dot{3} 1.1 3 ˙ এর সাধারণ ভগ্নাংশ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "19 15 \\frac{19}{15} 15 19 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "17 15 \\frac{17}{15} 15 17 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "15 17 \\frac{15}{17} 17 15 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18 17 \\frac{18}{17} 17 18 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "19 15 \\frac{19}{15} 15 19 ​",
+      "option_b": "17 15 \\frac{17}{15} 15 17 ​",
+      "option_c": "15 17 \\frac{15}{17} 17 15 ​",
+      "option_d": "18 17 \\frac{18}{17} 17 18 ​",
+      "correct": "খ",
+      "explanation": "1.1 3 ˙ 1.1\\dot{3} 1.1 3 ˙ = 113 − 11 90 \\frac{113-11}{90} 90 113 − 11 ​ = 102 90 \\frac{102}{90} 90 102 ​ = 17 15 \\frac{17}{15} 15 17 ​ আবৃত্ত দশমিক ভগ্নাংশকে সাধারণ ভগ্নাংশে রূপান্তরের নিয়ম:  নির্ণেয় ভগ্নাংশের লব = প্রদত্ত দশমিক ভগ্নাংশের দশমিক বিন্দু বাদ দিয়ে প্রাপ্ত পূর্ণসংখ্যা এবং অনাবৃত্ত অংশ দ্বারা গঠিত পূর্ণসংখ্যার বিয়োগফল।  নির্ণেয় ভগ্নাংশের হর = দশমিক বিন্দুর পরে আবৃত্ত অংশে যতগুলো অঙ্ক আছে ততগুলো নয় (9) এবং অনাবৃত্ত অংশে যতগুলো অঙ্ক আছে ততগুলো শূন্য (0) দ্বারা গঠিত সংখ্যা।"
+    },
+    {
+      "number": "11",
+      "tag": "BCPC 24",
+      "question": "বৃত্তের প্রতিসমতার মাত্রা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৬",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অসংখ্য",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "৪",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৬",
+      "option_c": "অসংখ্য",
+      "option_d": "৪",
+      "correct": "গ",
+      "explanation": "বৃত্তের প্রতিসমতার মাত্রা অসংখ্যা। কেননা বৃত্তকে মাঝবরাবর যেকোনো দিক থেকে কাটলে সমান খন্ডে বিভক্ত হবে।"
+    },
+    {
+      "number": "12",
+      "tag": "BCPC 24",
+      "question": "একটি খুঁটির উচ্চতা ও ছায়ার দৈর্ঘ্যের অনুপাত 3 : 3 3: \\sqrt{3} 3 : 3 ​ হলে, সূর্যের উন্নতি কোণ কত ডিগ্রি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "50 ∘ 50^{\\circ} 5 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "50 ∘ 50^{\\circ} 5 0 ∘",
+      "option_b": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_c": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_d": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "correct": "গ",
+      "explanation": "প্রদত্ত অনুপাত হলো থুঁর্টির উচ্চতা ও ছায়ার দৈর্ঘ্যের অনুপাত 3 : 3 3: \\sqrt{3} 3 : 3 ​ । এখানে সূর্যের উন্নতি কোণ ( θ ) (\\theta) ( θ ) বের করতে হবে। ধরি, খুঁটির উচ্চতা h = 3 k h=3 k h = 3 k ছায়ার দৈর্ঘ্য s = 3 k s=\\sqrt{3} k s = 3 ​ k এখানে k k k একটি ধনাত্মক ধ্রুবক। উন্নতি কোণ ( θ ) (\\theta) ( θ ) হলো খুঁটির শীর্ষবিন্দু থেকে ছায়ার শেষ প্রান্ত পর্যন্ত রেখার সাথে অনুভূমিক রেখার কোণ। এই কোণটি বের করতে ত্রিকোণমিতির স্পর্শক (tangent) ফাংশন ব্যবহার করা যেতে পারে। tan ⁡ ( θ ) =  খুটির উচ্চতা   ছায়ার দৈর্ঘ্য  = h s = 3 k 3 k = 3 3 = 3 tan ⁡ ( θ ) = 3 θ = tan ⁡ − 1 ( 3 ) = 60 ∘ \\begin{array}{c} \\tan (\\theta)=\\frac{\\text { খুটির উচ্চতা }}{\\text { ছায়ার দৈর্ঘ্য }}=\\frac{h}{s}=\\frac{3 k}{\\sqrt{3} k}=\\frac{3}{\\sqrt{3}}=\\sqrt{3} \\\\ \\tan (\\theta)=\\sqrt{3} \\\\ \\theta=\\tan^{-1} (\\sqrt{3})=60^{\\circ} \\end{array} tan ( θ ) =   ছায়ার   দৈর্ঘ্য     খুটির   উচ্চতা   ​ = s h ​ = 3 ​ k 3 k ​ = 3 ​ 3 ​ = 3 ​ tan ( θ ) = 3 ​ θ = tan − 1 ( 3 ​ ) = 6 0 ∘ ​ সতরাং, সর্যের উন্নতি কোণ হলো 60 ∘ 60^{\\circ} 6 0 ∘"
+    },
+    {
+      "number": "13",
+      "tag": "BCPC 24",
+      "question": "একটি বর্গের প্রতি বাহুর দৈর্ঘ্য 10 % 10 \\% 10% বৃদ্ধি পেলে এর ক্ষেত্রফল শতকরা কত বৃদ্ধি পাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20 % 20 \\% 20%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "23 % 23 \\% 23%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "19 % 19 \\% 19%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "21 % 21 \\% 21%",
+          "is_correct": true
+        }
+      ],
+      "option_a": "20 % 20 \\% 20%",
+      "option_b": "23 % 23 \\% 23%",
+      "option_c": "19 % 19 \\% 19%",
+      "option_d": "21 % 21 \\% 21%",
+      "correct": "ঘ",
+      "explanation": "মনে করি , বর্গের প্রাথমিক বাহু ছিল a a a । তাই , প্রাথমিক ক্ষেত্রফল হবে a 2 a^2 a 2 । বাহুর দৈর্ঘ্য 10 % 10 \\% 10% বৃদ্ধি পেলে , নতুন বাহু হবে a + 0.1 a = 1.1 a a + 0.1a = 1.1a a + 0.1 a = 1.1 a । নতুন ক্ষেত্রফল হবে ( 1.1 a ) 2 = 1.21 a 2 (1.1a)^2 = 1.21a^2 ( 1.1 a ) 2 = 1.21 a 2 । ক্ষেত্রফলের বৃদ্ধি হবে: 1.21 a 2 − a 2 = 0.21 a 2 1.21a^2 - a^2 = 0.21a^2 1.21 a 2 − a 2 = 0.21 a 2 ক্ষেত্রফলের বৃদ্ধি শতকরা হিসেবে হবে: 0.21 a 2 a 2 × 100 % = 21 % \\frac{0.21a^2}{a^2} \\times 100 \\% = 21\\% a 2 0.21 a 2 ​ × 100% = 21% সুতরাং , ক্ষেত্রফল 21 % 21\\% 21% বৃদ্ধি পাবে।"
+    },
+    {
+      "number": "14",
+      "tag": "CB 20,BCPC 24",
+      "question": "কোনটি সমকোণী ত্রিভুজের কোণগুলোর অনুপাত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 : 5 : 9 4: 5: 9 4 : 5 : 9",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 : 6 : 7 4: 6: 7 4 : 6 : 7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 : 5 : 9 1: 5: 9 1 : 5 : 9",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 : 13 : 18 6: 13: 18 6 : 13 : 18",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 : 5 : 9 4: 5: 9 4 : 5 : 9",
+      "option_b": "4 : 6 : 7 4: 6: 7 4 : 6 : 7",
+      "option_c": "1 : 5 : 9 1: 5: 9 1 : 5 : 9",
+      "option_d": "6 : 13 : 18 6: 13: 18 6 : 13 : 18",
+      "correct": "ক",
+      "explanation": "4 x + 5 x + 9 x = 180 ∘ 18 x = 180 ∘ ⇒ x = 10 ∘ ⇒ 4 x = 40 ∘ , 5 x = 50 ∘ , 9 x = 90 ∘ \\begin{array}{c}4 x+5 x+9 x=180^{\\circ} \\\\ 18 x=180^{\\circ} \\Rightarrow x=10^{\\circ} \\\\ \\Rightarrow 4 x=40^{\\circ}, 5 x=50^{\\circ}, 9 x=90^{\\circ}\\end{array} 4 x + 5 x + 9 x = 18 0 ∘ 18 x = 18 0 ∘ ⇒ x = 1 0 ∘ ⇒ 4 x = 4 0 ∘ , 5 x = 5 0 ∘ , 9 x = 9 0 ∘ ​"
+    },
+    {
+      "number": "15",
+      "tag": "DIN.B 24,JB 23,BB 23,DB 22,BB 20,MCC 24,JGCC 24,CSC 24,BCPC 24",
+      "question": "দুইটি বৃত্তে সর্বোচ্চ কয়টি সাধারণ স্পর্শক অঙ্কন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৪",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "২",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৪",
+      "option_b": "২",
+      "option_c": "৩",
+      "option_d": "১",
+      "correct": "ক",
+      "explanation": "দুইটি বৃত্তের সাধারণ স্পর্শকের সংথ্যা বৃত্ত দুইটির আপেক্ষিক অবস্থানের উপর নির্ভর করে। নিচে বিভিন্ন ক্ষেত্রে সাধারণ স্পর্শকের সংখ্যা উল্লেখ করা হলো: 1. বৃত্ত দুইটি পরস্পরকে ছেদ করলে: সর্বোচ্চ 2টি সাধারণ স্পর্শক অঙ্কন করা যায়। 2. বৃত্ত দুইটি পরস্পরকে স্পর্শ করলে: 3টি সাধারণ স্পর্শক অঙ্কন করা যায়। 3. বৃত্ত দুইটি পরস্পর থেকে বিচ্ছিন্ন থাকলে: সর্বোচ্চ 4টি সাধারণ স্পর্শক অঙ্কন করা যায়। 4. বৃত্ত দুইটি একে অপরের অভ্যন্তরে থাকলে: কোনো সাধারণ স্পর্শক থাকবে না। সুতরাং, দুইটি বৃত্তে সর্বোচ্চ 4টি সাধারণ স্পর্শক অঙ্কন করা যায়।"
+    },
+    {
+      "number": "16",
+      "tag": "RB 25",
+      "question": "log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 5 \\frac{6}{5} 5 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 3 \\frac{4}{3} 3 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 5 \\frac{6}{5} 5 6 ​",
+      "option_b": "5 6 \\frac{5}{6} 6 5 ​",
+      "option_c": "4 3 \\frac{4}{3} 3 4 ​",
+      "option_d": "3 4 \\frac{3}{4} 4 3 ​",
+      "correct": "খ",
+      "explanation": "log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান নির্ণয় করতে নিচের ধাপগুলি অনুসরণ করা যাক: 1. প্রদত্ত রাশিটিকে সরলীকরণ করা: 5 3 ⋅ 5 \\sqrt[3]{5} \\cdot \\sqrt{5} 3 5 ​ ⋅ 5 ​ এখানে, 5 3 = 5 1 3  এবং  5 = 5 1 2 \\sqrt[3]{5}=5^{\\frac{1}{3}} \\quad \\text { এবং } \\quad \\sqrt{5}=5^{\\frac{1}{2}} 3 5 ​ = 5 3 1 ​   এবং   5 ​ = 5 2 1 ​ সুতরাং, 5 3 ⋅ 5 = 5 1 3 ⋅ 5 1 2 = 5 1 3 + 1 2 = 5 5 6 \\sqrt[3]{5} \\cdot \\sqrt{5}=5^{\\frac{1}{3}} \\cdot 5^{\\frac{1}{2}}=5^{\\frac{1}{3}+\\frac{1}{2}}=5^{\\frac{5}{6}} 3 5 ​ ⋅ 5 ​ = 5 3 1 ​ ⋅ 5 2 1 ​ = 5 3 1 ​ + 2 1 ​ = 5 6 5 ​ 2. লগারিদমের মান নির্ণয়: log ⁡ 5 ( 5 5 6 ) \\log _{5}\\left(5^{\\frac{5}{6}}\\right) lo g 5 ​ ( 5 6 5 ​ ) লগারিদমের সূত্র অনুযায়ী, log ⁡ a ( a b ) = b \\log _{a}\\left(a^{b}\\right)=b lo g a ​ ( a b ) = b সুতরাং, log ⁡ 5 ( 5 5 6 ) = 5 6 \\log _{5}\\left(5^{\\frac{5}{6}}\\right)=\\frac{5}{6} lo g 5 ​ ( 5 6 5 ​ ) = 6 5 ​ সুতরাং, log ⁡ 5 ( 5 3 ⋅ 5 ) \\log _{5}(\\sqrt[3]{5} \\cdot \\sqrt{5}) lo g 5 ​ ( 3 5 ​ ⋅ 5 ​ ) এর মান হলো 5 6 \\frac{5}{6} 6 5 ​"
+    },
+    {
+      "number": "17",
+      "tag": "DIN.B 23,DB 22,BCPC 24",
+      "question": "− 8 − 3 + 2 + 7 + … … . -8-3+2+7+\\ldots \\ldots . − 8 − 3 + 2 + 7 + …… . . ধারাটির 15 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "67",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "78",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "62",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "83",
+          "is_correct": false
+        }
+      ],
+      "option_a": "67",
+      "option_b": "78",
+      "option_c": "62",
+      "option_d": "83",
+      "correct": "গ",
+      "explanation": "− 8 − 3 + 2 + 7 + -8-3+2+7+ − 8 − 3 + 2 + 7 + ধারাটির ১ম পদ a = − 8 a=-8 a = − 8 সাধারণ অন্তর d = − 3 − ( − 8 ) d=-3-(-8) d = − 3 − ( − 8 ) = − 3 + 8 = 5 =-3+8=5 = − 3 + 8 = 5 ∴ n  তম পদ  = a + ( n − 1 ) d ∴ 15  তম পদ  = − 8 + ( 15 − 1 ) × 5 = − 8 + 19 × 5 = − 8 + 70 = 62 \\begin{aligned} \\therefore n \\text { তম পদ } & =a+(n-1) d \\\\ \\therefore 15 \\text { তম পদ } & =-8+(15-1) \\times 5 \\\\ & =-8+19 \\times 5 \\\\ & =-8+70 \\\\ & =62 \\end{aligned} ∴ n   তম   পদ   ∴ 15   তম   পদ   ​ = a + ( n − 1 ) d = − 8 + ( 15 − 1 ) × 5 = − 8 + 19 × 5 = − 8 + 70 = 62 ​"
+    },
+    {
+      "number": "18",
+      "tag": "RB 22,BCPC 24",
+      "question": "( a + b , 2 ) = ( 4 , a − b ) (\\mathbf{a}+\\mathrm{b}, 2)=(4, \\mathrm{a}-\\mathrm{b}) ( a + b , 2 ) = ( 4 , a − b ) হলে ( a , b ) (\\mathrm{a}, \\mathrm{b}) ( a , b ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 2 , 4 ) (2,4) ( 2 , 4 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 4 , 2 ) (4,2) ( 4 , 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 1 , 3 ) (1,3) ( 1 , 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 3 , 1 ) (3,1) ( 3 , 1 )",
+          "is_correct": true
+        }
+      ],
+      "option_a": "( 2 , 4 ) (2,4) ( 2 , 4 )",
+      "option_b": "( 4 , 2 ) (4,2) ( 4 , 2 )",
+      "option_c": "( 1 , 3 ) (1,3) ( 1 , 3 )",
+      "option_d": "( 3 , 1 ) (3,1) ( 3 , 1 )",
+      "correct": "ঘ",
+      "explanation": "( a + b , 2 ) = ( 4 , a − b ) ∴ a + b = 4 … . (i)  a − b = 2 … .. (ii)  \\begin{aligned} (a+b, 2) & =(4, a-b) \\\\ \\therefore a+b & =4 \\quad \\text {…. (i) } \\\\ a-b & =2 \\text {….. (ii) } \\end{aligned} ( a + b , 2 ) ∴ a + b a − b ​ = ( 4 , a − b ) = 4 … . (i)  = 2 … .. (ii)  ​ (i) + (ii) হতে,     2 a = 6 ∴ a = 3 \\text { } \\begin{array}{l} \\text { } \\\\ 2 a=6 \\\\ \\therefore a=3 \\end{array}     2 a = 6 ∴ a = 3 ​ (i) - (ii) হতে, 2 b = 2 ∴ b = 1 ∴ ( a , b ) = ( 3 , 1 ) \\begin{aligned} \\quad 2 b & =2 \\\\ \\therefore b & =1 \\\\ \\therefore \\quad(a, b) & =(3,1) \\end{aligned} 2 b ∴ b ∴ ( a , b ) ​ = 2 = 1 = ( 3 , 1 ) ​"
+    },
+    {
+      "number": "19",
+      "tag": "DB 22,JB 20,BCPC 24",
+      "question": "13 , 17 , 14 , 11 , 9 , 14 13,17,14,11,9,14 13 , 17 , 14 , 11 , 9 , 14 সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "13.5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12.5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "14",
+          "is_correct": false
+        }
+      ],
+      "option_a": "13.5",
+      "option_b": "13",
+      "option_c": "12.5",
+      "option_d": "14",
+      "correct": "ক",
+      "explanation": "প্রথমে সংখ্যাগুলোকে ছোট থেকে বড় ক্রমে সাজাতে হবে: 9 , 11 , 13 , 14 , 14 , 17 9, 11, 13, 14, 14, 17 9 , 11 , 13 , 14 , 14 , 17 এক্ষেত্রে সংখ্যা ৬টি, যা একটি সমসংখ্যক (even number) সেট। মধ্যক বের করতে হলে সেটের মাঝখানে থাকা দুইটি সংখ্যার গড় বের করতে হবে। মাঝখানের দুইটি সংখ্যা হল 13 13 13 এবং 14 14 14 । মধ্যক গণনা করতে, প্রথমে এই দুটি সংখ্যার গড় বের করতে হবে: মধ্যক = 13 + 14 2 = 27 2 = 13.5 \\text{মধ্যক} = \\frac{13 + 14}{2} = \\frac{27}{2} = 13.5 মধ্যক = 2 13 + 14 ​ = 2 27 ​ = 13.5 সুতরাং, সংখ্যাগুলোর মধ্যক হল 13.5 13.5 13.5 । সঠিক উত্তর: 13.5"
+    },
+    {
+      "number": "20",
+      "tag": "MB 24,JB 24,DB 22,CB 22,CTG.B 22,MB 20,CTG.B 20,BB 19,JB 19,FCC 24,CSC 24,BCPC 24",
+      "question": "U সার্বিক সেট এবং A সেটটি U এর উপসেট হলে— i. A C ∪ A = U A^{C} \\cup A=U A C ∪ A = U ii. A C ∩ A = ϕ \\mathrm{A}^{\\mathrm{C}} \\cap \\mathrm{A}=\\phi A C ∩ A = ϕ iii. A ∪ U = A C A \\cup U=A^{\\mathrm{C}} A ∪ U = A C নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "এখানে, U U U সার্বিক সেট এবং A A A সেটটি U U U এর একটি উপসেট। আমরা প্রতিটি বিবৃতি বিশ্লেষণ করি: i. A C ∪ A = U A^{C} \\cup A=U A C ∪ A = U A C A^C A C হল A A A সেটের পূরক সেট, অর্থাৎ U U U এর যে সকল উপাদান A A A এ নেই। A A A এবং A C A^C A C এর সংযোগ সেট (union) সর্বদা সার্বিক সেট U U U হবে। এটি সেটের একটি মৌলিক ধর্ম। সুতরাং, বিবৃতি (i) সঠিক। ii. A C ∩ A = ϕ A^{C} \\cap A=\\phi A C ∩ A = ϕ A C A^C A C এবং A A A এর ছেদ সেট (intersection) সর্বদা ফাঁকা সেট ( ϕ \\phi ϕ ) হবে, কারণ A A A এবং A C A^C A C এর মধ্যে কোনো সাধারণ উপাদান নেই। এটিও সেটের একটি মৌলিক ধর্ম। সুতরাং, বিবৃতি (ii) সঠিক। iii. A ∪ U = A C A \\cup U=A^{\\mathrm{C}} A ∪ U = A C যেহেতু A A A সেটটি সার্বিক সেট U U U এর একটি উপসেট, তাই A A A এবং U U U এর সংযোগ সেট সর্বদা U U U হবে, অর্থাৎ A ∪ U = U A \\cup U = U A ∪ U = U । কিন্তু বিবৃতিতে বলা হয়েছে A ∪ U = A C A \\cup U = A^C A ∪ U = A C । এটি সাধারণত ভুল, কারণ U U U এবং A C A^C A C শুধুমাত্র তখনই সমান হতে পারে যদি A A A একটি ফাঁকা সেট হয়। এটি সেটের একটি সাধারণ ধর্ম নয়। সুতরাং, বিবৃতি (iii) ভুল। উপরিউক্ত বিশ্লেষণ থেকে দেখা যায়, বিবৃতি (i) এবং (ii) সঠিক। সঠিক বিকল্পটি হল ক। The final answer is ক \\boxed{\\text{ক}} ক ​"
+    },
+    {
+      "number": "22",
+      "tag": "RB 23,CB 22,MB 20,BCPC 24",
+      "question": "বৃত্তের ব্যাস ও পরিধির অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 : π 2: \\pi 2 : π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "π : 1 \\pi: 1 π : 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π \\pi π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 : π 1: \\pi 1 : π",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 : π 2: \\pi 2 : π",
+      "option_b": "π : 1 \\pi: 1 π : 1",
+      "option_c": "π \\pi π",
+      "option_d": "1 : π 1: \\pi 1 : π",
+      "correct": "ঘ",
+      "explanation": "বৃত্তের ব্যাস ও পরিধির অনুপাত = 2 r : 2 π r = 2 r 2 π r = 1 π = λ : π \\begin{array}{l} =2 r: 2 \\pi r \\\\ =\\frac{2 r}{2 \\pi r} \\\\ =\\frac{1}{\\pi} \\\\ =\\lambda: \\pi \\end{array} = 2 r : 2 π r = 2 π r 2 r ​ = π 1 ​ = λ : π ​"
+    },
+    {
+      "number": "23",
+      "tag": "CB 22,RB 19,BCPC 24",
+      "question": "1+3+5+7+……. ধারাটির r তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 r − 3 2 r-3 2 r − 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 r − 1 2 r-1 2 r − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 r + 1 2 \\mathrm{r}+1 2 r + 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 r + 3 2 \\mathrm{r}+3 2 r + 3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 r − 3 2 r-3 2 r − 3",
+      "option_b": "2 r − 1 2 r-1 2 r − 1",
+      "option_c": "2 r + 1 2 \\mathrm{r}+1 2 r + 1",
+      "option_d": "2 r + 3 2 \\mathrm{r}+3 2 r + 3",
+      "correct": "ঘ",
+      "explanation": "ধারাটির ১ম পদ , a = 1 a=1 a = 1 সাধারণ, অন্তর , d = 2 d=2 d = 2 n  - তম পদ  = a + ( n − 1 ) d ∴ r  তম পদ  = 1 + ( r − 1 ) 2 = 1 + 2 r − 2 = 2 r − 1 \\begin{aligned} n \\text { - তম পদ } =a+(n-1) d \\\\ \\therefore r \\text { তম পদ } & =1+(r-1) 2 \\\\ & =1+2 r-2 \\\\ & =2 r-1 \\end{aligned} n  -  তম   পদ   = a + ( n − 1 ) d ∴ r   তম   পদ   ​ = 1 + ( r − 1 ) 2 = 1 + 2 r − 2 = 2 r − 1 ​"
+    },
+    {
+      "number": "24",
+      "tag": "BCPC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: 1 + 3 + 5 + 7 + … . . 1+3+5+7+\\ldots . . 1 + 3 + 5 + 7 + … .. . একটি সমান্তর ধারা। ধারাটির প্রথম ১০টি পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "100",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "110",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90",
+          "is_correct": false
+        }
+      ],
+      "option_a": "50",
+      "option_b": "100",
+      "option_c": "110",
+      "option_d": "90",
+      "correct": "খ",
+      "explanation": "১ম পদ, a = 1 a=1 a = 1 সাধারণ অন্তর , d = 3 − 1 = 2 d=3-1=2 d = 3 − 1 = 2 ∴ \\therefore ∴ ১ম n সংখ্যক পদের সমষ্টি S n = n 2 { 2 a + ( n − 1 ) d } S_{n}=\\frac{n}{2}\\{2 a+(n-1) d\\} S n ​ = 2 n ​ { 2 a + ( n − 1 ) d } ∴ S 10 = 10 2 { 2 ⋅ 1 + ( 10 − 1 ) 2 } = 10 2 ( 2 + 18 ) = 100 \\begin{aligned} \\therefore S_{10} & =\\frac{10}{2}\\left\\{2 \\cdot 1+(10-1)^{2}\\right\\} \\\\ & =\\frac{10}{2}(2+18) \\\\ & =100 \\end{aligned} ∴ S 10 ​ ​ = 2 10 ​ { 2 ⋅ 1 + ( 10 − 1 ) 2 } = 2 10 ​ ( 2 + 18 ) = 100 ​"
+    },
+    {
+      "number": "25",
+      "tag": "JB 22,BCPC 24",
+      "question": "a 3 + 3 3 a^{3}+3 \\sqrt{3} a 3 + 3 3 ​ এর উৎপাদক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a 2 + 3 a + 9 \\mathrm{a}^{2}+3 \\mathrm{a}+9 a 2 + 3 a + 9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a 2 + a 3 + 3 \\mathrm{a}^{2}+\\mathrm{a} \\sqrt{3}+3 a 2 + a 3 ​ + 3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "a + 3 \\mathrm{a}+\\sqrt{3} a + 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a − 3 a-\\sqrt{3} a − 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a 2 + 3 a + 9 \\mathrm{a}^{2}+3 \\mathrm{a}+9 a 2 + 3 a + 9",
+      "option_b": "a 2 + a 3 + 3 \\mathrm{a}^{2}+\\mathrm{a} \\sqrt{3}+3 a 2 + a 3 ​ + 3",
+      "option_c": "a + 3 \\mathrm{a}+\\sqrt{3} a + 3 ​",
+      "option_d": "a − 3 a-\\sqrt{3} a − 3 ​",
+      "correct": "খ",
+      "explanation": "প্রদত্ত রাশিটি হলো: a 3 + 3 3 a^3 + 3\\sqrt{3} a 3 + 3 3 ​ এটিকে a 3 + ( 3 ) 3 a^3 + (\\sqrt{3})^3 a 3 + ( 3 ​ ) 3 আকারে লেখা যায় কিনা দেখি। ( 3 ) 3 = 3 3 (\\sqrt{3})^3 = 3\\sqrt{3} ( 3 ​ ) 3 = 3 3 ​ তাহলে: a 3 + 3 3 = a 3 + ( 3 ) 3 a^3 + 3\\sqrt{3} = a^3 + (\\sqrt{3})^3 a 3 + 3 3 ​ = a 3 + ( 3 ​ ) 3 ঘন-এর সূত্র: x 3 + y 3 = ( x + y ) ( x 2 − x y + y 2 ) x^3 + y^3 = (x + y)(x^2 - xy + y^2) x 3 + y 3 = ( x + y ) ( x 2 − x y + y 2 ) এখানে x = a , y = 3 , x = a, y = \\sqrt{3}, x = a , y = 3 ​ , তাহলে: a 3 + ( 3 ) 3 = ( a + 3 ) ( a 2 − a 3 + 3 ) a^3 + (\\sqrt{3})^3 = (a + \\sqrt{3})(a^2 - a\\sqrt{3} + 3) a 3 + ( 3 ​ ) 3 = ( a + 3 ​ ) ( a 2 − a 3 ​ + 3 ) সুতরাং একটি উৎপাদক হলো a + 3 a + \\sqrt{3} a + 3 ​ ."
+    },
+    {
+      "number": "27",
+      "tag": "BCPC 24",
+      "question": "দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করে এবং এদের ব্যাস যথাক্রমে 12   c m , 8   c m 12 \\mathrm{~cm}, 8 \\mathrm{~cm} 12   cm , 8   cm । এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "1",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করে এবং এদের ব্যাস যথাক্রদে 12 cm এবং 8 cm I এদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব বের করতে হবে। ১. প্রথমে বৃত্তদ্বয়ের ব্যাসার্ধ বের করা যাক: প্রথম বৃত্তের ব্যাসার্ধ ( r 1 ) = 12 2 = 6   c m \\left(r_{1}\\right)=\\frac{12}{2}=6 \\mathrm{~cm} ( r 1 ​ ) = 2 12 ​ = 6   cm দ্বিতীয় বৃত্তের ব্যাসার্ধ ( r 2 ) = 8 2 = 4   c m \\left(r_{2}\\right)=\\frac{8}{2}=4 \\mathrm{~cm} ( r 2 ​ ) = 2 8 ​ = 4   cm ২. যেহেতু বৃত্তদ্বয় পরস্পরকে অন্তঃস্পর্শ করে, তাই তাদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব হবে তাদের ব্যাসার্ধের পার্থক্য:  কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব  = r 1 − r 2 = 6 − 4 = 2   c m \\text { কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব }=r_{1}-r_{2}=6-4=2 \\mathrm{~cm}   কেন্দ্রদ্বয়ের   মধ্যবর্তী   দূরত্ব   = r 1 ​ − r 2 ​ = 6 − 4 = 2   cm সুতরাং, কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব হলো: 2   c m 2 \\mathrm{~cm} 2   cm"
+    },
+    {
+      "number": "28",
+      "tag": "BCPC 24",
+      "question": "একটি সমবৃত্তভূমিক সিলিন্ডারের ব্যাসার্ধ r cm এবং উচ্চতা h cm হলে- i. ভূমির ক্ষেত্রফল π r 2 \\pi r^{2} π r 2 বর্গ সে.মি. ii. আয়তন = 2 π r 2 h =2 \\pi r^{2} h = 2 π r 2 h ঘন সে. মি. iii. বক্রতলের ক্ষেত্রফল 2 π r ( r + h ) 2 \\pi r(r+h) 2 π r ( r + h ) বর্গ সে.মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i ও ii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও iii",
+      "option_b": "ii",
+      "option_c": "i",
+      "option_d": "i ও ii",
+      "correct": "ক",
+      "explanation": "সমবৃত্তভূমিক সিলিল্ডারের ব্যাসার্ধ r r r সে.মি. এবং উচ্চতা h h h সে.মি. দেওয়া আছে। এখন, প্রদত্ত বিবৃতিগুলো পরীক্ষা করা যাক: i. ভূমির ক্ষেত্রফল π r 2 \\pi r^{2} π r 2 বর্গ সে.মি. ভূমির ক্ষেত্রফল হলো:  ভূামির ক্ষেত্রফল  = π r 2  বর্গ সে.মি.  \\text { ভূামির ক্ষেত্রফল }=\\pi r^{2} \\text { বর্গ সে.মি. }   ভূামির   ক্ষেত্রফল   = π r 2   বর্গ   সে . মি .  সুতরাং, এই বিবৃতিটি সঠিক। ii. আয়তন = 2 π r 2 h =2 \\pi r^{2} h = 2 π r 2 h ঘন সে.মি. আয়তন হলো:  আয়তন  = π r 2 h  ঘন সে.মি.  \\text { আয়তন }=\\pi r^{2} h \\text { ঘন সে.মি. }   আয়তন   = π r 2 h   ঘন   সে . মি .  প্রদত্ত বিবৃতিতে আয়তন 2 π r 2 h 2 \\pi r^{2} h 2 π r 2 h বলা হয়েছে, যা ভুল। সঠিক আয়তন হলো π r 2 h \\pi r^{2} h π r 2 h ঘন সে.মি.। iii. বক্রতলের ক্ষেত্রফল 2 π r ( r + h ) 2 \\pi r(r+h) 2 π r ( r + h ) বর্গ সে.মি. বক্রতলের ক্ষেত্রফল হলো:  বক্রতলের ক্ষেএফল  = 2 π r h  বর্গ সে.|ম்.  \\text { বক্রতলের ক্ষেএফল }=2 \\pi r h \\text { বর্গ সে.|ম். }   বক্রতলের   ক্ষেএফল   = 2 π r h   বর্গ   সে .| ম் .  প্রদত্ত বিবৃতিতে বক্রতলের ক্ষেত্রফল 2 π r ( r + h ) 2 \\pi r(r+h) 2 π r ( r + h ) বলা হয়েছে, যা ভুল। সঠিক বক্রতলের ক্ষেত্রফল হলো 2 π r h 2 \\pi r h 2 π r h বর্গ সে.মি.। উপসংহার প্রদত্ত বিবৃতিগুলোর মধ্যে i সঠিক, কিন্তু ii এবং iii ভুল।"
+    },
+    {
+      "number": "29",
+      "tag": "RB 20,BCPC 24",
+      "question": "f ( x ) = x 3 − 4 x + 3 f(x)=x^{3}-4 x+3 f ( x ) = x 3 − 4 x + 3 হলে, f ( − 1 ) f(-1) f ( − 1 ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "0",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "গ",
+      "explanation": "f ( x ) = x 3 − 4 x + 3 ∴ f ( − 1 ) = ( − 1 ) 3 − 4 ( − 1 ) + 3 = − 1 + 4 + 3 = 6 \\begin{aligned} f(x) & =x^{3}-4 x+3 \\\\ \\therefore f(-1) & =(-1)^{3}-4(-1)+3 \\\\ & =-1+4+3 \\\\ & =6\\end{aligned} f ( x ) ∴ f ( − 1 ) ​ = x 3 − 4 x + 3 = ( − 1 ) 3 − 4 ( − 1 ) + 3 = − 1 + 4 + 3 = 6 ​"
+    },
+    {
+      "number": "30",
+      "tag": "BCPC 24",
+      "question": "চিত্রানুযায়ী, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "7",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "আমরা জানি, বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে বৃত্তে দুইটি স্পর্শক টানলে, ঐ বিন্দু থেকে স্পর্শকদ্বয়ের দূরত্ব সমান। ∴ P A = Q A ⇒ 3 x + 1 = 2 x + 7 ⇒ x = 6 \\begin{array}{l} \\therefore P A=Q A \\\\ \\Rightarrow 3 x+1=2 x+7 \\\\ \\Rightarrow x=6 \\end{array} ∴ P A = Q A ⇒ 3 x + 1 = 2 x + 7 ⇒ x = 6 ​"
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "read_id": "a57Y0Y_-EW2EsAHY",
+  "title": "ফৌজদারহাট ক্যাডেট কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "FCC 24,RCC 24,JB 23,SB 19",
+      "question": "বন্দুক থেকে গুলি ছুঁড়লে- i. গুলি ও বন্দুকের ভরবেগ সমমুখী হয় ii. গুলি ও বন্দুকের ভরবেগ সমমানের হয় iii. বন্দুকের পশ্চাৎবেগ গুলির তুলনায় কম হয় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "বন্দুকের পশ্চাৎ বেগ: গুলি ছোড়ার পর বন্দুককে পেছনের দিকে সরে আসাও ভরবেগের নিত্যতার সূত্র থেকে ব্যাখ্যা করা যায়। এক্ষেত্রেও গুলি ছোড়ার পূর্বে বন্দুক ও গুলি উভয়ের বেগ শূন্য থাকে কাজেই তখন তাদের ভরবেগের সমষ্টি শূন্য। গুলি ছোড়ার পর সামনের দিকে গুলির ভরবেগ উৎপন্ন হয়। এক্ষেত্রেও গুলি ছোড়ার আগের ভরবেগের সমষ্টি পরের ভরবেগের সমষ্টির সমান হতে হবে। সুতরাং গুলি ছোড়ার পরের ভরবেগের সমষ্টি শূন্য হতে হলে বন্দুকেরও গুলির সমান ও বিপরীতমুখী একটা ভরবেগের সৃষ্টি হতে হবে। ফলে বন্দুককেও পেছনের দিকে সরে আসতে দেখা যায়। গুলি ছোড়ার সময় গুলি সামনের দিকে যায় এবং বন্দুক পশ্চাৎ ব্যাগের কারণে পিছনের দিকে যায়। তাই এদের ভরবেগ একে অপরের সমমানের হলেও বিপরীতমুখী হয়। এক্ষেত্রে উভয়ের ভরবেগ সমান থাকে। যেহেতু গুলির ভর অনেক কম তাই এর বেগ অনেক উচ্চ থাকে, অন্যদিকে বন্দুকের ভর বেশি হওয়ায় এর পশ্চাৎ বেগ অনেক কম হয় গুলির তুলনায়"
+    },
+    {
+      "number": "2",
+      "tag": "FCC 24",
+      "question": "যদি E = 15V, R 1 = 5O Ω \\Omega Ω এবং R 3 = 15 Ω \\Omega Ω হয় তাহলে বর্তনীতে 1.5 A প্রবাহ পেতে R 2 এর মান কত হতে হবে? [যেখানে R 2 ও R 3 সমান্তরালে যুক্ত এবং শেষে R 1 এর সাথে শ্রেণিতে যুক্ত]",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3.5 Ω \\Omega Ω",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5.5 Ω \\Omega Ω",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7.5 Ω \\Omega Ω",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "9.5 Ω \\Omega Ω",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3.5 Ω \\Omega Ω",
+      "option_b": "5.5 Ω \\Omega Ω",
+      "option_c": "7.5 Ω \\Omega Ω",
+      "option_d": "9.5 Ω \\Omega Ω",
+      "correct": "গ",
+      "explanation": "তুল্যরোধ, R e q = ( R 2 ∥ R 3 ) + R 1 = R 2 R 3 R 2 + R 3 + R 1 ; R e q = E I = 15 1.5 = 10 \\mathrm{Req}=\\left(\\mathrm{R}_{2} \\| \\mathrm{R}_{3}\\right)+\\mathrm{R}_{1}=\\frac{\\mathrm{R}_{2} \\mathrm{R}_{3}}{\\mathrm{R}_{2}+\\mathrm{R}_{3}}+\\mathrm{R}_{1} ; \\mathrm{Req}=\\frac{\\mathrm{E}}{\\mathrm{I}}=\\frac{15}{1.5}=10 Req = ( R 2 ​ ∥ R 3 ​ ) + R 1 ​ = R 2 ​ + R 3 ​ R 2 ​ R 3 ​ ​ + R 1 ​ ; Req = I E ​ = 1.5 15 ​ = 10 এখন, 10 = R 2 R 3 R 2 + R 3 + 5 10=\\frac{\\mathrm{R}_{2} \\mathrm{R}_{3}}{\\mathrm{R}_{2}+\\mathrm{R}_{3}}+5 10 = R 2 ​ + R 3 ​ R 2 ​ R 3 ​ ​ + 5 বা, 5 = R 2 × 15 R 2 + 15 5=\\frac{\\mathrm{R}_{2} \\times 15}{\\mathrm{R}_{2}+15} 5 = R 2 ​ + 15 R 2 ​ × 15 ​ বা, 5 R 2 + 75 = 15 R 2 5 \\mathrm{R}_{2}+75=15 \\mathrm{R}_{2} 5 R 2 ​ + 75 = 15 R 2 ​ ∴ R 2 = 7.5 Ω \\therefore \\mathrm{R}_{2}=7.5 \\Omega ∴ R 2 ​ = 7.5Ω"
+    },
+    {
+      "number": "3",
+      "tag": "RB 24,FCC 24",
+      "question": "1C চার্জ থেকে 1 cm দূরের কোন বিন্দুতে প্রাবল্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 × 10 11 N C − 1 9 \\times 10^{11} \\mathrm{NC}^{-1} 9 × 1 0 11 NC − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9 × 10 12 N C − 1 9 \\times 10^{12} \\mathrm{NC}^{-1} 9 × 1 0 12 NC − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9 × 10 13 N C − 1 9 \\times 10^{13} \\mathrm{NC}^{-1} 9 × 1 0 13 NC − 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "9 × 10 14 N C − 1 9 \\times 10^{14} \\mathrm{NC}^{-1} 9 × 1 0 14 NC − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9 × 10 11 N C − 1 9 \\times 10^{11} \\mathrm{NC}^{-1} 9 × 1 0 11 NC − 1",
+      "option_b": "9 × 10 12 N C − 1 9 \\times 10^{12} \\mathrm{NC}^{-1} 9 × 1 0 12 NC − 1",
+      "option_c": "9 × 10 13 N C − 1 9 \\times 10^{13} \\mathrm{NC}^{-1} 9 × 1 0 13 NC − 1",
+      "option_d": "9 × 10 14 N C − 1 9 \\times 10^{14} \\mathrm{NC}^{-1} 9 × 1 0 14 NC − 1",
+      "correct": "গ",
+      "explanation": "চার্জ, Q = 1  C Q = 1 \\text{ C} Q = 1  C দূরত্ব, r = 1  cm = 0.01  m = 10 − 2  m r = 1 \\text{ cm} = 0.01 \\text{ m} = 10^{-2} \\text{ m} r = 1  cm = 0.01  m = 1 0 − 2  m কুলম্বের ধ্রুবক, k = 9 × 10 9  N m 2  C − 2 k = 9 \\times 10^9 \\text{ N m}^2 \\text{ C}^{-2} k = 9 × 1 0 9  N m 2  C − 2 তড়িৎ প্রাবল্য, E = ? E = ? E = ? তড়িৎ প্রাবল্যের সূত্রানুসারে, E = k Q r 2 E = k \\frac{Q}{r^2} E = k r 2 Q ​ E = 9 × 10 9 × 1 ( 10 − 2 ) 2 E = 9 \\times 10^9 \\times \\frac{1}{(10^{-2})^2} E = 9 × 1 0 9 × ( 1 0 − 2 ) 2 1 ​ E = 9 × 10 9 × 1 10 − 4 E = 9 \\times 10^9 \\times \\frac{1}{10^{-4}} E = 9 × 1 0 9 × 1 0 − 4 1 ​ E = 9 × 10 9 × 10 4 E = 9 \\times 10^9 \\times 10^4 E = 9 × 1 0 9 × 1 0 4 E = 9 × 10 13  N C − 1 E = 9 \\times 10^{13} \\text{ N C}^{-1} E = 9 × 1 0 13  N C − 1 9 × 10 13  N C − 1 9 \\times 10^{13} \\text{ N C}^{-1} 9 × 1 0 13  N C − 1"
+    },
+    {
+      "number": "4",
+      "tag": "FCC 24",
+      "question": "অবতল দর্পণের ক্ষেত্রে- i. যদি কোন বস্তুকে বক্রতার কেন্দ্রে রাখা হয়, তাহলে বিম্ব ফোকাসে গঠিত হবে। ii. যদি কোন বস্তুকে মেরু ও প্রধান ফোকাসের মধ্যে রাখা হয়, তাহলে এর বিম্ব অবাস্তব হবে। iii. যদি কোন বস্তু বক্রতার কেন্দ্রে রাখা হয়, এর বিবর্ধন হবে 1। নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "অবতল দর্পণের মেরুবিন্দু ও প্রধান ফোকাসের মাঝে লক্ষ্যবস্তু স্থাপন করলে এর প্রতিবিম্বঃ o   অবাস্তব o   সোজা o   বিবর্ধিত o   দর্পণের পিছনে গঠিত হয় একটি অবতল দর্পণের বক্রতার কেন্দ্রে লক্ষ্যবস্তু রাখা হলে- i.       প্রতিবিম্বের অবস্থানও বক্রতার কেন্দ্রে ii.      এর রৈখিক বিবর্ধন  m=1 iii.     বিম্বের আকৃতি লক্ষবস্তুর সমান iv.     প্রতিবিম্বের প্রকৃতি বাস্তব ও  উল্টা"
+    },
+    {
+      "number": "5",
+      "tag": "FCC 24",
+      "question": "স্কুগজের রৈখিক স্কেল পাঠ ও বৃত্তাকার স্কেল পাঠ যথাক্রমে 1 mm এবং 20। যদি স্কুগজের নূন্যাঙ্ক 0.01 mm হয়, তাহলে তারের ব্যাস কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.2 mm",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2.2 mm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3.2 mm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4.2 mm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.2 mm",
+      "option_b": "2.2 mm",
+      "option_c": "3.2 mm",
+      "option_d": "4.2 mm",
+      "correct": "ক",
+      "explanation": "তারের ব্যাস, d = M + L × L . C = ( 1 + 20 × 0.01 ) m m = 1.2   m m \\mathrm{d}=\\mathrm{M}+\\mathrm{L} \\times \\mathrm{L} . \\mathrm{C}=(1+20 \\times 0.01) \\mathrm{mm}=1.2 \\mathrm{~mm} d = M + L × L . C = ( 1 + 20 × 0.01 ) mm = 1.2   mm"
+    },
+    {
+      "number": "6",
+      "tag": "FCC 24",
+      "question": "নিচের কোনটি খাড়া ঊর্ধ্বে নিক্ষিপ্ত বস্তুর a বনাম t লেখচিত্র?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "",
+          "is_correct": false
+        }
+      ],
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "correct": "",
+      "explanation": "উপরে নিক্ষিপ্ত বস্তুর ক্ষেত্রে ত্বরণ হবে অভিকর্ষজ ত্বরণ যা সবসময় ধ্রুব থাকবে।"
+    },
+    {
+      "number": "7",
+      "tag": "FCC 24",
+      "question": "ট্রান্সফর্মারের মুখ্য কুন্ডলীর পাকসংখ্যা 50, ভোল্টেজ 210 V। যদি গৌণ কুন্ডলীর পাকসংখ্যা 100 হয়, তবে এর ভোল্টেজ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "34 V",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40 V",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "420 V",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "742 V",
+          "is_correct": false
+        }
+      ],
+      "option_a": "34 V",
+      "option_b": "40 V",
+      "option_c": "420 V",
+      "option_d": "742 V",
+      "correct": "গ",
+      "explanation": "V P V s = n p n s \\frac{\\mathrm{V}_{\\mathrm{P}}}{\\mathrm{V}_{\\mathrm{s}}}=\\frac{\\mathrm{n}_{\\mathrm{p}}}{\\mathrm{n}_{\\mathrm{s}}} V s ​ V P ​ ​ = n s ​ n p ​ ​ বা, 210   V s = 50 100 ∴   V s = 420   V \\frac{210}{\\mathrm{~V}_{\\mathrm{s}}}=\\frac{50}{100} \\therefore \\mathrm{~V}_{\\mathrm{s}}=420 \\mathrm{~V}   V s ​ 210 ​ = 100 50 ​ ∴   V s ​ = 420   V"
+    },
+    {
+      "number": "8",
+      "tag": "RB 24,FCC 24",
+      "question": "সুরযুক্ত শব্দের তীক্ষ্ণতা- i. দিয়ে একই প্রাবল্যের খাদ্যের সুর এবং চড়া সুরের মধ্যে পার্থক্য বুঝা যায় ii. উৎসের কম্পাঙ্কের উপর নির্ভর করে iii. দিয়ে শব্দের পার্থক্য বুঝা যায় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "i. সুরযুক্ত শব্দের যে বৈশিষ্ট্য দিয়ে একই তীব্রতার শব্দকে কখনো মোটা কখনো তীক্ষ্ণ শোনা যায় তাকে তীক্ষ্ণতা বা পিচ বলে। অর্থাৎ সুরযুক্ত শব্দের তীক্ষ্ণতা দিয়ে একই প্রাবল্য বা তীক্ষ্ণতার খাদের সুর এবং চড়া সুরের মধ্যে পার্থক্য বুঝা যায়। ii. সুরযুক্ত শব্দের তীক্ষ্ণতা উৎসের কম্পাঙ্কের ওপর নির্ভর করে। শব্দের কম্পাঙ্ক বেশি হলে, শব্দের তীক্ষ্ণতাও বেশি হয়। কম্পাঙ্কের মত শব্দের তীক্ষ্ণতার একক-ও হার্জ (Hz)। iii. সুরযুক্ত শব্দ দিয়ে বিভিন্ন বাদ্যযন্ত্র থেকে আসা শব্দের পার্থক্য বুঝা যায় না বরং টিম্বার বা গুণ দিয়ে সেটি বুঝা যায়।"
+    },
+    {
+      "number": "9",
+      "tag": "FCC 24",
+      "question": "নিচের বর্তনীতে a ও b এর মধ্যকার তুল্যরোধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4R",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2R",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "R 2 \\frac{R}{2} \\quad 2 R ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "R 4 \\frac{R}{4} 4 R ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4R",
+      "option_b": "2R",
+      "option_c": "R 2 \\frac{R}{2} \\quad 2 R ​",
+      "option_d": "R 4 \\frac{R}{4} 4 R ​",
+      "correct": "ঘ",
+      "explanation": "বর্তনীতে 4 টি R রোধ সমান্তরালে যুক্ত। 1 R e q = 1 R + 1 R + 1 R + 1 R = 4 R \\frac{1}{\\mathrm{R}_{\\mathrm{eq}}}=\\frac{1}{\\mathrm{R}}+\\frac{1}{\\mathrm{R}}+\\frac{1}{\\mathrm{R}}+\\frac{1}{\\mathrm{R}}=\\frac{4}{\\mathrm{R}} R eq ​ 1 ​ = R 1 ​ + R 1 ​ + R 1 ​ + R 1 ​ = R 4 ​ ∴ R e q = R 4 Ω \\therefore \\mathrm{R}_{\\mathrm{eq}}=\\frac{\\mathrm{R}}{4} \\Omega ∴ R eq ​ = 4 R ​ Ω"
+    },
+    {
+      "number": "10",
+      "tag": "FCC 24",
+      "question": "তেজস্ক্রিয় ক্ষয়ে বিটা রশ্মি হিসেবে কি নির্গত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ঋণাত্মক চার্জযুক্ত ইলেকট্রন",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "চার্জ নিরপেক্ষ কণা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ধনাত্মক নিউক্লিয়াস",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ধনাত্মক প্রোটনের প্রবাহ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ঋণাত্মক চার্জযুক্ত ইলেকট্রন",
+      "option_b": "চার্জ নিরপেক্ষ কণা",
+      "option_c": "ধনাত্মক নিউক্লিয়াস",
+      "option_d": "ধনাত্মক প্রোটনের প্রবাহ",
+      "correct": "ক",
+      "explanation": "বিটা কণা যেহেতু ইলেকট্রন তাই তার চার্জ নেগেটিভ (ঋণাত্মক আধান) এবং সে কারণে সেটি ইলেকট্রিক এবং চৌম্বকীয় ক্ষেত্র দিয়ে প্রভাবিত করা যায়। এটি যখন কোনো পদার্থের ভেতর দিয়ে যায় তখন সেই পদার্থের অণু-পরমাণুর সাথে সংঘর্ষের কারণে সেগুলোকে আয়নিত করতে পারে। আলফা কণার হিলিয়াম নিউক্লিয়াসের তুলনায় ইলেকট্রন খুবই ক্ষুদ্র তাই ইলেকট্রনের ভেদনক্ষমতা অনেক বেশি এবং সেটি পদার্থের অনেক ভেতর ঢুকে যেতে পারে। কয়েক মিলিমিটার পুরু অ্যালুমিনিয়ামের পাত দিয়ে একটি সাধারণ বিটা কণাকে থামানো সম্ভব।"
+    },
+    {
+      "number": "11",
+      "tag": "FCC 24",
+      "question": "লেখচিত্রে BC অংশে প্রয়োজনীয় তাপ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "420 J",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "840 J",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "33400 J",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "67200 J",
+          "is_correct": true
+        }
+      ],
+      "option_a": "420 J",
+      "option_b": "840 J",
+      "option_c": "33400 J",
+      "option_d": "67200 J",
+      "correct": "ঘ",
+      "explanation": "এখানে, BC অংশে বরফ গলে পানিতে পরিণত হচ্ছে। বরফ গলনের আপেক্ষিক সুপ্ততাপ, l f = 336000   J k g − 1 l_f=336000\\ Jkg^{-1} l f ​ = 336000   J k g − 1 এবং দেওয়া আছে, বরফের ভর, m = 200 gm = 0.2 kg ∴ \\therefore ∴ Q B C = m l f = 0.2 × 336000 = 67200   J \\mathrm{Q}_{\\mathrm{BC}}=\\mathrm{m} l_{f}=0.2 \\times 336000=67200 \\mathrm{~J} Q BC ​ = m l f ​ = 0.2 × 336000 = 67200   J"
+    },
+    {
+      "number": "12",
+      "tag": "RB 24,FCC 24",
+      "question": "লেখচিত্র অনুযায়ী- i. BC ও DE অংশের তাপমাত্রার পার্থক্য সমান ii. AB অংশে প্রয়োজনীয় তাপ 2100J iii. বরফ গলা পানিতে পরিণত হতে 6 min সময় লাগে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "i ও ii",
+      "option_c": "i ও iii",
+      "option_d": "ii ও iii",
+      "correct": "খ",
+      "explanation": "i. B C \\mathrm{BC} BC ও DE অংশের তাপমাত্রার পার্থক্য সম্যান, তা হলো Δ θ = 0 ∘ C \\Delta \\theta=0^{\\circ} \\mathrm{C} Δ θ = 0 ∘ C ii. Q A B = m s Δ θ = 0.2 × 2100 × ( 0 − ( − 5 ) ) = 2100 J ∘ Q_{A B}=m s \\Delta \\theta=0.2 \\times 2100 \\times(0-(-5))=2100 J^{\\circ} Q A B ​ = m s Δ θ = 0.2 × 2100 × ( 0 − ( − 5 )) = 2100 J ∘ iii. A বিন্দু থেকে বরফ গলে C বিন্দুতে পানিতে পরিণত হতে AC অংশে মোট সময় লেগেছে 8 min। ( চিত্রে 2 min পর B বিন্দুতে বরফ কেবল গলা শুরু করেছে 8min পর C বিন্দুতে বরফ সম্পনূরূপে পানিতে পরিণত হয়েছে। তাই A বিন্দুর বরফ C বিন্দুতে গিয়ে 8min পর সম্পূর্ণরূপে পানিতে পরিণত হয়েছে)"
+    },
+    {
+      "number": "13",
+      "tag": "FCC 24",
+      "question": "পীড়নের একক কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "k g m s − 1 \\mathrm{kgms}^{-1} kgms − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "k g m − 1   s − 1 \\mathrm{kgm}^{-1} \\mathrm{~s}^{-1} kgm − 1   s − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "k g m − 1   s − 2 \\mathrm{kgm}^{-1} \\mathrm{~s}^{-2} kgm − 1   s − 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "k g m − 2   s − 2 \\mathrm{kgm}^{-2} \\mathrm{~s}^{-2} kgm − 2   s − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "k g m s − 1 \\mathrm{kgms}^{-1} kgms − 1",
+      "option_b": "k g m − 1   s − 1 \\mathrm{kgm}^{-1} \\mathrm{~s}^{-1} kgm − 1   s − 1",
+      "option_c": "k g m − 1   s − 2 \\mathrm{kgm}^{-1} \\mathrm{~s}^{-2} kgm − 1   s − 2",
+      "option_d": "k g m − 2   s − 2 \\mathrm{kgm}^{-2} \\mathrm{~s}^{-2} kgm − 2   s − 2",
+      "correct": "গ",
+      "explanation": "পীড়নের একক = N m − 2 = N m 2 = k g m s − 2   m 2 = k g m − 1   s − 2 =\\mathrm{Nm}^{-2}=\\frac{\\mathrm{N}}{\\mathrm{m}^{2}}=\\frac{\\mathrm{kgms}^{-2}}{\\mathrm{~m}^{2}}=\\mathrm{kgm}^{-1} \\mathrm{~s}^{-2} = Nm − 2 = m 2 N ​ =   m 2 kgms − 2 ​ = kgm − 1   s − 2"
+    },
+    {
+      "number": "14",
+      "tag": "RB 24,FCC 24,RB 23",
+      "question": "হৃৎপিন্ডের সংকোচন ও প্রসারণ কোন ধরনের গতি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্পন্দন গতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "চলন গতি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ঘূর্ণন গতি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পর্যায়বৃত্ত গতি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "স্পন্দন গতি",
+      "option_b": "চলন গতি",
+      "option_c": "ঘূর্ণন গতি",
+      "option_d": "পর্যায়বৃত্ত গতি",
+      "correct": "ঘ",
+      "explanation": "নির্দিষ্ট সময় পরপর নির্দিষ্ট দিক হতে কোন কণার গতি পর্যায়বৃত্ত গতি। একজন স্বাভাবিক সুস্থ ব্যক্তির হৃৎপিণ্ডে নির্দিষ্ট সময় পরপর সংকোচন ও প্রসারণ ঘটে। সেজন্য এটি পর্যায়বত্ত, গতি।"
+    },
+    {
+      "number": "15",
+      "tag": "FCC 24",
+      "question": "একটি অবতল দর্পণের মেরু থেকে 1 cm দূরে একটি লক্ষ্যবস্তু রাখা আছে। প্রধান ফোকাস ও বক্রতার কেন্দ্রের মধ্যবর্তী দূরত্ব 2 cm দর্পণ থেকে বিম্বের দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "দর্পণের 2 cm সামনে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দর্পণের 2 cm পেছনে",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "দর্পণের 1 cm সামনে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "দর্পণের 1 cm পেছনে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "দর্পণের 2 cm সামনে",
+      "option_b": "দর্পণের 2 cm পেছনে",
+      "option_c": "দর্পণের 1 cm সামনে",
+      "option_d": "দর্পণের 1 cm পেছনে",
+      "correct": "খ",
+      "explanation": "এখানে, u = 1   c m F ও c  এর দূরত্ব  = 2   c m ∴ f = 2   c m \\begin{array}{l} u=1 \\mathrm{~cm} \\\\ F ও c \\text { এর দূরত্ব } =2 \\mathrm{~cm} \\\\ \\therefore f=2 \\mathrm{~cm} \\end{array} u = 1   cm F ও c   এর   দূরত্ব   = 2   cm ∴ f = 2   cm ​ এখন, 1 u + 1 v = 1 f ⇒ 1 v = 1 f − 1 4 = 1 2 − 1 1 ⇒ 1 v = − 1 2 ∴ v = − 2   c m \\begin{array}{l} \\frac{1}{u}+\\frac{1}{v}=\\frac{1}{f} \\\\ \\Rightarrow \\frac{1}{v}=\\frac{1}{f}-\\frac{1}{4}=\\frac{1}{2}-\\frac{1}{1} \\\\ \\Rightarrow \\frac{1}{v}=-\\frac{1}{2} \\quad \\therefore v=-2 \\mathrm{~cm} \\end{array} u 1 ​ + v 1 ​ = f 1 ​ ⇒ v 1 ​ = f 1 ​ − 4 1 ​ = 2 1 ​ − 1 1 ​ ⇒ v 1 ​ = − 2 1 ​ ∴ v = − 2   cm ​"
+    },
+    {
+      "number": "16",
+      "tag": "FCC 24",
+      "question": "একটি অবতল দর্পণের মেরু থেকে 1 cm দূরে একটি লক্ষ্যবস্তু রাখা আছে। প্রধান ফোকাস ও বক্রতার কেন্দ্রের মধ্যবর্তী দূরত্ব 2 cm। প্রতিবিম্বের ক্ষেত্রে- i. অবাস্তব ও সোজা ii. বাস্তব ও উল্টো iii. লক্ষ্যবস্তুর চেয়ে বড় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "এখানে, প্রধান ফোকাস ও কেন্দ্রের দূরত্ব = 2 cm সুতরাং মেরু ও ফোকাসের দূরত্ব = 2 cm অবতল দর্পণে মেরূ ও ফকাসের মাঝে বস্তু রাখলে প্রতিবিম্বঃ i) অবাস্তব ii) সোজা iii) বিবর্ধিত"
+    },
+    {
+      "number": "17",
+      "tag": "DB 24,CTG.B 24,FCC 24,DRMC 24,CPSCM 24,RCS 24,JB 20",
+      "question": "নিচের কোন সম্পর্কটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "α = 2 β = 3 γ \\alpha=2 \\beta=3 \\gamma α = 2 β = 3 γ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "α = β γ = γ 3 \\alpha=\\frac{\\beta}{\\gamma}=\\frac{\\gamma}{3} α = γ β ​ = 3 γ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 α = 2 β = γ 2 \\alpha=2 \\beta=\\gamma 2 α = 2 β = γ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 α = 3 β = 2 γ 6 \\alpha=3 \\beta=2 \\gamma 6 α = 3 β = 2 γ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "α = 2 β = 3 γ \\alpha=2 \\beta=3 \\gamma α = 2 β = 3 γ",
+      "option_b": "α = β γ = γ 3 \\alpha=\\frac{\\beta}{\\gamma}=\\frac{\\gamma}{3} α = γ β ​ = 3 γ ​",
+      "option_c": "2 α = 2 β = γ 2 \\alpha=2 \\beta=\\gamma 2 α = 2 β = γ",
+      "option_d": "6 α = 3 β = 2 γ 6 \\alpha=3 \\beta=2 \\gamma 6 α = 3 β = 2 γ",
+      "correct": "ঘ",
+      "explanation": "we k k k know β = 2 α ∴ α = β 2 \\begin{aligned} \\beta & =2 \\alpha \\\\ \\therefore \\alpha & =\\frac{\\beta}{2} \\end{aligned} β ∴ α ​ = 2 α = 2 β ​ ​ আবার, γ = 3 α ⇒ γ = 3 ⋅ β 2 ⇒ γ = 3 β 2 ⇒ γ 3 = β 2 ⇒ γ 3 = α \\begin{aligned} & \\gamma=3 \\alpha \\\\ \\Rightarrow & \\gamma=3 \\cdot \\frac{\\beta}{2} \\\\ \\Rightarrow & \\gamma=\\frac{3 \\beta}{2} \\\\ \\Rightarrow & \\frac{\\gamma}{3}=\\frac{\\beta}{2} \\\\ \\Rightarrow & \\frac{\\gamma}{3}=\\alpha \\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ γ = 3 α γ = 3 ⋅ 2 β ​ γ = 2 3 β ​ 3 γ ​ = 2 β ​ 3 γ ​ = α ​ ∴ α = β 2 = γ 3 [ 6 \\therefore \\alpha=\\frac{\\beta}{2}=\\frac{\\gamma}{3} \\quad[6 ∴ α = 2 β ​ = 3 γ ​ [ 6 দ্বারা সবপক্ষে গুণ করে ] ] ] ⇒ 6 α = 3 β = 2 γ \\Rightarrow 6 \\alpha=3 \\beta=2 \\gamma ⇒ 6 α = 3 β = 2 γ"
+    },
+    {
+      "number": "18",
+      "tag": "FCC 24,RB 21",
+      "question": "একটি বস্তুর বেগ কত হলে, তাদের ভরবেগ ও গতিশক্তির মান সমান হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4   m / s 4 \\mathrm{~m} / \\mathrm{s} 4   m / s",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2   m / s 2 \\mathrm{~m} / \\mathrm{s} 2   m / s",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 2   m / s \\frac{1}{2} \\mathrm{~m} / \\mathrm{s} 2 1 ​   m / s",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 4   m / s \\frac{1}{4} \\mathrm{~m} / \\mathrm{s} 4 1 ​   m / s",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4   m / s 4 \\mathrm{~m} / \\mathrm{s} 4   m / s",
+      "option_b": "2   m / s 2 \\mathrm{~m} / \\mathrm{s} 2   m / s",
+      "option_c": "1 2   m / s \\frac{1}{2} \\mathrm{~m} / \\mathrm{s} 2 1 ​   m / s",
+      "option_d": "1 4   m / s \\frac{1}{4} \\mathrm{~m} / \\mathrm{s} 4 1 ​   m / s",
+      "correct": "খ",
+      "explanation": "ধরা যাক বস্তুর ভর m m m এবং গতিবেগ v v v । ভরবেগ p = m × v p = m \\times v p = m × v গতিশক্তি K E = 1 2 m v 2 KE = \\frac{1}{2} m v^2 K E = 2 1 ​ m v 2 প্রশ্নে বলা হয়েছে ভরবেগ ও গতিশক্তি সমান, অর্থাৎ m × v = 1 2 m v 2 m \\times v = \\frac{1}{2} m v^2 m × v = 2 1 ​ m v 2 দ্বারা সমীকরণটি সাদৃশ্য করলে, v = 1 2 v 2 v = \\frac{1}{2} v^2 v = 2 1 ​ v 2 বা, 2 v = v 2 2v = v^2 2 v = v 2 v 2 − 2 v = 0 v^2 - 2v = 0 v 2 − 2 v = 0 v ( v − 2 ) = 0 v(v - 2) = 0 v ( v − 2 ) = 0 এখান থেকে, v = 0 v = 0 v = 0 বা v = 2 v = 2 v = 2 যেহেতু বেগ শুন্য হতে পারে না, সুতরাং v = 2   m / s v = 2 \\mathrm{~m} / \\mathrm{s} v = 2   m / s অতএব, সঠিক উত্তরটি হল 2   m / s \\mathbf{2 \\mathrm{~m} / \\mathrm{s}} 2   m / s"
+    },
+    {
+      "number": "19",
+      "tag": "FCC 24",
+      "question": "বস্তুকে স্থির অবস্থায় পানিতে ডোবালে এর উপর খাড়া ঊর্ধ্বমুখী কোন বল ক্রিয়া করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তাপমাত্রা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "প্লবতা",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ঘনত্ব",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আপেক্ষিক গুরুত্ব",
+          "is_correct": false
+        }
+      ],
+      "option_a": "তাপমাত্রা",
+      "option_b": "প্লবতা",
+      "option_c": "ঘনত্ব",
+      "option_d": "আপেক্ষিক গুরুত্ব",
+      "correct": "খ",
+      "explanation": "আর্কিমিডিস সূত্র অনুযায়ী: যেকোনো বস্তু কোনো তরলে সম্পূর্ণ বা আংশিকভাবে ডুবে থাকলে, সেই বস্তুটির উপর একটি ঊর্ধ্বমুখী বল কাজ করে, যার মান সেই তরলের স্থানচ্যুত অংশের ওজনের সমান এই উর্দ্ধমুখী বলই প্লবতা।"
+    },
+    {
+      "number": "20",
+      "tag": "FCC 24",
+      "question": "একটি ধাতব চামচের বাতাসে ওজন 0.48 N ও পানিতে ওজন 0.42 N হলে এর ঘনত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1000 kgm -3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4000 kgm -3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6000 kgm -3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8000 kgm -3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1000 kgm -3",
+      "option_b": "4000 kgm -3",
+      "option_c": "6000 kgm -3",
+      "option_d": "8000 kgm -3",
+      "correct": "ঘ",
+      "explanation": "ভর, m = W a g = 0.48 9.8 = 0.049   k g \\mathrm{m}=\\frac{\\mathrm{W}_{\\mathrm{a}}}{\\mathrm{g}}=\\frac{0.48}{9.8}=0.049 \\mathrm{~kg} m = g W a ​ ​ = 9.8 0.48 ​ = 0.049   kg , প্লবতা, F = V ρ L g = 0.48 − 0.42 \\mathrm{F}=\\mathrm{V} \\rho_{\\mathrm{L}} \\mathrm{g}=0.48-0.42 F = V ρ L ​ g = 0.48 − 0.42 বা, V = 0.06 ρ L g = 0.06 1000 × 9.8 = 6.12 × 10 − 6   m 3 V=\\frac{0.06}{\\rho_{\\mathrm{L}} \\mathrm{g}}=\\frac{0.06}{1000 \\times 9.8}=6.12 \\times 10^{-6} \\mathrm{~m}^{3} V = ρ L ​ g 0.06 ​ = 1000 × 9.8 0.06 ​ = 6.12 × 1 0 − 6   m 3 ঘনত্ব, ρ = m v = 0.049 6.12 × 10 − 6 = 8000 k g m − 3 \\rho=\\frac{m}{v}=\\frac{0.049}{6.12 \\times 10^{-6}}=8000 \\mathrm{kgm}^{-3} ρ = v m ​ = 6.12 × 1 0 − 6 0.049 ​ = 8000 kgm − 3"
+    },
+    {
+      "number": "21",
+      "tag": "FCC 24",
+      "question": "বজ্রপাতের সময়- i. বিপুল পরিমাণ চার্জ ভূপৃষ্ঠে নেমে আসে ii. তড়িৎক্ষরণ ঘটে iii. স্বাভাবিক শব্দ উৎপন্ন হয় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "বজ্রপাতের সময় নিম্নলিখিত ঘটনাগুলি ঘটে: বিপুল পরিমাণ চার্জ ভূপৃষ্ঠে নেমে আসে (i) : বজ্রপাতের সময় আকাশ থেকে মাটি পর্যন্ত বিপুল পরিমাণ চার্জ প্রবাহিত হয়, যা একেবারে দ্রুত এবং শক্তিশালীভাবে মাটি এবং আকাশের মধ্যে স্থানান্তরিত হয়। তড়িৎক্ষরণ ঘটে (ii) : বজ্রপাতের ফলে তড়িৎক্ষরণ (electric discharge) ঘটে, যা মেঘের মধ্যে এবং মেঘ থেকে মাটিতে চার্জের আদান-প্রদান দ্বারা তৈরি হয়। স্বাভাবিক শব্দ উৎপন্ন হয় (iii) : বজ্রপাতের সময় একটি তীব্র শব্দ উৎপন্ন হয়, যা \"গর্জন\" নামে পরিচিত। এটি তড়িৎক্ষরণের কারণে বায়ুর দ্রুত সম্প্রসারণের ফলে তৈরি হয়। তাহলে সঠিক উত্তর হলো ঘ) i, ii ও iii ।"
+    },
+    {
+      "number": "22",
+      "tag": "FCC 24,PCC 24,SB 23,DIN.B 22,DB 20",
+      "question": "উপরের তরঙ্গটির কম্পাংক কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.01 Hz",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.02 Hz",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "50 Hz",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "100 Hz",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0.01 Hz",
+      "option_b": "0.02 Hz",
+      "option_c": "50 Hz",
+      "option_d": "100 Hz",
+      "correct": "ঘ",
+      "explanation": "চিত্র হতে, তরঙ্গটির দুইটি কম্পন সৃষ্টি হতে সময় লেগেছে 0.02 s. সুতরাং, পর্যায়কাল = 0.02 2 = 0.01 s \\frac{0.02}{2}=0.01s 2 0.02 ​ = 0.01 s ∴ \\therefore ∴ কম্পাঙ্ক f = 1 T = 1 0.01 = 100   H z f=\\frac{1}{T}=\\frac{1}{0.01}=100 \\mathrm{~Hz} f = T 1 ​ = 0.01 1 ​ = 100   Hz"
+    },
+    {
+      "number": "23",
+      "tag": "FCC 24,SB 23",
+      "question": "উদ্দীপকের ক্ষেত্রে - i. R , N \\mathrm{R}, \\mathrm{N} R , N এর় মধ্যকার দূরত্ব λ 2 \\frac{\\lambda}{2} 2 λ ​ হবে ii. তরঙ্গটি অনুপ্রস্থ তরঙ্গ iii. P , P 1 P,\\mathrm{P}_{1} P , P 1 ​ কণাটি সম্পূর্ণ বিপরীত দশা সম্পন্ন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "i. R ও N এর দূরত্ব λ/2 — কারণ R ও N তরঙ্গের শীর্ষ ও খাত, যাদের মধ্যে দূরত্ব হয় অর্ধ তরঙ্গদৈর্ঘ্য (λ/2)। সঠিক। ii. তরঙ্গটি অনুপ্রস্থ তরঙ্গ — কণার কম্পনের দিক তরঙ্গের বিস্তার দিকের সাথে লম্ব, যা অনুপ্রস্থ তরঙ্গের বৈশিষ্ট্য। সঠিক। iii. P ও P₁ বিপরীত দশায় নয় — কারণ তারা একই রকম শীর্ষ (crest), তাই একই দশায় থাকে। ভুল।"
+    },
+    {
+      "number": "24",
+      "tag": "FCC 24",
+      "question": "নিচের কোনটি পর্যাবৃত্ত গতির উদাহরণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বৈদ্যুতিক পাখার গতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "পেট্রোল ইঞ্জিনের মধ্যে পিস্টনের গতি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কম্পমান সুরশলাকার গতি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সবগুলোই",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বৈদ্যুতিক পাখার গতি",
+      "option_b": "পেট্রোল ইঞ্জিনের মধ্যে পিস্টনের গতি",
+      "option_c": "কম্পমান সুরশলাকার গতি",
+      "option_d": "সবগুলোই",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "FCC 24",
+      "question": "যদি 40 W ও 60W এর দুটি বাল্ব শ্রেণিতে যুক্ত করা হয়, তাহলে কোন বাল্ব বেশি উজ্জ্বল আলো দিবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40 W বাল্ব",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "60 W বাল্ব",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমান উজ্জ্বলতায় জ্বলবে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সাপ্লাই ভোল্টেজের উপর নির্ভর করে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "40 W বাল্ব",
+      "option_b": "60 W বাল্ব",
+      "option_c": "সমান উজ্জ্বলতায় জ্বলবে",
+      "option_d": "সাপ্লাই ভোল্টেজের উপর নির্ভর করে",
+      "correct": "ক",
+      "explanation": "40 W ও 60 W বাল্বের বিভব পার্থক্য একই হলে R = V 2 P \\mathrm{R}=\\frac{\\mathrm{V}^{2}}{\\mathrm{P}} R = P V 2 ​ বা, R ∝ 1 P \\mathrm{R} \\propto \\frac{1}{\\mathrm{P}} R ∝ P 1 ​ । যার ক্ষমতা কম, তার রোধ বেশি, এজন্য 40W এর রোধ বেশি। শ্রেণিতে I একই থাকলে ক্ষমতা, P = I 2 R \\mathrm{P}=\\mathrm{I}^{2} \\mathrm{R} P = I 2 R বা, P ∝ R ∣ \\mathrm{P} \\propto \\mathrm{R} \\mid P ∝ R ∣ যার রোধ বেশি, তার ক্ষমতা বেশি। তাই 40W বাল্ব বেশি উজ্জ্বল আলো দিবে।"
+    }
+  ]
+}

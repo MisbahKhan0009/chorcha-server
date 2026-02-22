@@ -1,0 +1,931 @@
+{
+  "read_id": "eQmdtdlL7oyohV-a",
+  "title": "চট্টগ্রাম কলেজিয়েট স্কুল ২০২৪",
+  "count": 28,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CCS 24",
+      "question": "যদি A = ∅ A=\\varnothing A = ∅ হয়, তবে p ( A ) p(A) p ( A ) এর উপাদান সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "∅ \\varnothing ∅",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "4",
+      "option_d": "∅ \\varnothing ∅",
+      "correct": "খ",
+      "explanation": "A = ∅ A = \\emptyset A = ∅ হলে, A A A একটি ফাঁকা সেট। ফাঁকা সেটের পাওয়ার সেট P ( A ) P(A) P ( A ) এর একমাত্র উপসেট হলো ফাঁকা সেট নিজে। অর্থাৎ P ( A ) = { ∅ } P(A) = \\{\\emptyset\\} P ( A ) = { ∅ } এর উপাদান সংখ্যা = 1 = 1 = 1"
+    },
+    {
+      "number": "2",
+      "tag": "DB 24,DIN.B 20,SJHSS 24,RGLHS 24,CCS 24",
+      "question": "0. 3 ˙ × 0. 6 ˙ = 0 . \\dot{3} \\times 0 . \\dot{6}= 0. 3 ˙ × 0. 6 ˙ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0. 2 ˙ 0.\\dot{2} 0. 2 ˙",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0. 1 ˙ 8 ˙ 0.\\dot{1} \\dot{8} 0. 1 ˙ 8 ˙",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.1 8 ˙ 0.1 \\dot{8} 0.1 8 ˙",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "0. 2 ˙ 0.\\dot{2} 0. 2 ˙",
+      "option_c": "0. 1 ˙ 8 ˙ 0.\\dot{1} \\dot{8} 0. 1 ˙ 8 ˙",
+      "option_d": "0.1 8 ˙ 0.1 \\dot{8} 0.1 8 ˙",
+      "correct": "খ",
+      "explanation": "0. 3 ˙ 0.\\dot{3} 0. 3 ˙ = 3 − 0 9 \\frac{3-0}{9} 9 3 − 0 ​ = 3 9 \\frac{3}{9} 9 3 ​ = 1 3 \\frac{1}{3} 3 1 ​   0. 6 ˙ 0.\\dot{6} 0. 6 ˙ = 6 − 0 9 \\frac{6-0}{9} 9 6 − 0 ​ = 6 9 \\frac{6}{9} 9 6 ​ = 2 3 \\frac{2}{3} 3 2 ​   ∴ \\therefore ∴ 0. 3 ˙ × 0. 6 ˙ 0.\\dot{3} \\times 0.\\dot{6} 0. 3 ˙ × 0. 6 ˙ = 1 3 \\frac{1}{3} 3 1 ​  × 2 3 \\frac{2}{3} 3 2 ​  = 2 9 \\frac{2}{9} 9 2 ​ = 0. 2 ˙ 0.\\dot{2} 0. 2 ˙"
+    },
+    {
+      "number": "3",
+      "tag": "CCS 24",
+      "question": "কোনো পরীক্ষায় পরীক্ষার্থীর 80% গণিতে এবং 70% বাংলায় পাস করেছে। উভয় বিষয়ে 60% পাস করলে শতকরা কতজন উভয় বিষয়ে ফেল করেছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 জন",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "20 জন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30 জন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40 জন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 জন",
+      "option_b": "20 জন",
+      "option_c": "30 জন",
+      "option_d": "40 জন",
+      "correct": "ক",
+      "explanation": "গণিতে এবং বাংলায় পাস করেছে মোট = ( 80 % + 70 % − 60 % ) =(80 \\%+70 \\%-60 \\%) = ( 80% + 70% − 60% ) শিক্ষাথী = 90 % =90 \\% = 90% ∴ \\therefore ∴ উভয় বিষয়ে ফেল করেছে শতকরা ( 100 − 90 ) (100-90) ( 100 − 90 ) জন = 10 =10 = 10 জন । ধরি, মোট ছাত্র 100 জন গনিতে পাশ করেছে, n(m) = ৪০ জন বাংলায় পাশ করেছে, n(B) = 70 জন উভয় বিষয়ে পাশ করেছে, n ( A ∩ M ∩ B ) = 60 n(A \\cap M \\cap B)=60 n ( A ∩ M ∩ B ) = 60 জন ∴ \\therefore ∴ বাংলা ও গনিতে মোট পাশ করেছে n ( M ∪ B ) = n ( M ) + n ( B ) − n ( M ∩ B ) = 80 + 70 − 60 = 90  জন \\begin{aligned} n(M \\cup B) & =n(M)+n(B)-n(M \\cap B) \\\\ & =80+70-60 \\\\ & =90 \\text { জন} \\end{aligned} n ( M ∪ B ) ​ = n ( M ) + n ( B ) − n ( M ∩ B ) = 80 + 70 − 60 = 90   জন ​ ∴ \\therefore ∴ উভয় বিষয়ে ফেল করেছে = 100 − 90 = 10 =100-90=10 = 100 − 90 = 10 জন."
+    },
+    {
+      "number": "5",
+      "tag": "CCS 24",
+      "question": "সুষম পঞ্চভুজের কোণগুলোর সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "360 ∘ 360^{\\circ} 36 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "540 ∘ 540^{\\circ} 54 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "720 ∘ 720^{\\circ} 72 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "900 ∘ 900^{\\circ} 90 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "360 ∘ 360^{\\circ} 36 0 ∘",
+      "option_b": "540 ∘ 540^{\\circ} 54 0 ∘",
+      "option_c": "720 ∘ 720^{\\circ} 72 0 ∘",
+      "option_d": "900 ∘ 900^{\\circ} 90 0 ∘",
+      "correct": "খ",
+      "explanation": "n সংখ্যক বাহুবিশিষ্ট সুষম বহুভুজের কেন্দ্র, কৌণিক বিন্দুর সংযোগ সরলরেখা ও বাহুর মধ্যবর্তী কোণ θ \\theta θ = 90 ° − 180 ° n 90\\degree-\\frac{180\\degree}{n} 90° − n 180° ​ সুষম পঞ্চভুজে θ \\theta θ = 90 ° − 180 ° 5 90\\degree-\\frac{180\\degree}{5} 90° − 5 180° ​ = 54 ° 54\\degree 54° সুষম পঞ্চভুজের প্রতিটি কোণ=2 θ \\theta θ = 108 ° 108\\degree 108° কোণগুলোর সমষ্টি=5× 108 ° 108\\degree 108° = 540 ∘ 540^{\\circ} 54 0 ∘"
+    },
+    {
+      "number": "6",
+      "tag": "DC 25,MB 25,RB 25,DIN.B 25,JB 25,BB 25,MAD 25,DB 24,RB 24,CB 24,DIN.B 24,MB 24,DB 24,JB 24,BB 24,DB 20,MB 20,DIN.B 20,BB 20,DB 19,RB 19,CB 19,DIN.B 19,JB 19,SB 19,DB 17,JB 17,FCC 24,JGCC 24,BCC 24,VNSC 24,GLHSD 24,ACPS 24,NISD 24,MCPSC 24,RCPC 24,CCS 24,RCPC 24,BCPC 24",
+      "question": "2 x − 3 + 5 = 2 \\sqrt{2 x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণ- i. একটি এক চলকবিশিষ্ট সমীকরণ ii. এর সমাধান সেট S = { } \\mathrm{S}=\\{ \\} S = { } iii. এর সমাধান x = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "খ",
+      "explanation": "2 x − 3 + 5 = 2 \\sqrt{2x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণটি সমাধান করা যাক। প্রথমত, সমীকরণটি সরল করার জন্য আমরা উভয় পাশে 5 5 5 বিয়োগ করব: 2 x − 3 = 2 − 5 \\sqrt{2x-3} = 2 - 5 2 x − 3 ​ = 2 − 5 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 পুরুত্ব বর্গমূলের মান কখনোই ঋণাত্মক হতে পারে না, তাই 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 সমাধায় কোন সমর্থন বা সঠিক সমাধান নেই। অতএব, এর সমাধান সেট হল S = { } S = \\{\\} S = { } , যা একটি খালি সেট নির্দেশ করে। তাহলে, নিচের বস্তুগুলি সঠিক: i. একটি এক চলকবিশিষ্ট সমীকরণ কারণ এটি শুধু x x x -এর উপর নির্ভর করে। ii. এর সমাধান সেট S = { } \\mathrm{S} = \\{ \\} S = { } হল খালি সেট। iii. এর সমাধান x = 6 x = 6 x = 6 ভুল কারণ উক্ত সমীকরণ থেকে এমন কোন সমাধান পাওয়া যায় না। সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "7",
+      "tag": "CCS 24",
+      "question": "x − 3 x = 2 x-\\frac{3}{x}=2 x − x 3 ​ = 2 হলে, 10 x 2 − 2 x + 2 \\frac{10}{x^{2}-2 x+2} x 2 − 2 x + 2 10 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "5",
+      "option_c": "3",
+      "option_d": "2",
+      "correct": "ক",
+      "explanation": "x − 3 x = 2 ⇒ x 2 − 3 x = 2 ⇒ x 2 − 3 = 2 x ⇒ x 2 − 2 x − 3 = 0 ⇒ x 2 − 2 x + 2 − 5 = 0 ⇒ x 2 − 2 x + 2 = 5 \\begin{aligned} & x-\\frac{3}{x}=2 \\\\ \\Rightarrow & \\frac{x^{2}-3}{x}=2 \\\\ \\Rightarrow & x^{2}-3=2 x \\\\ \\Rightarrow & x^{2}-2 x-3=0 \\\\ \\Rightarrow & x^{2}-2 x+2-5=0 \\\\ \\Rightarrow & x^{2}-2 x+2=5\\end{aligned} ⇒ ⇒ ⇒ ⇒ ⇒ ​ x − x 3 ​ = 2 x x 2 − 3 ​ = 2 x 2 − 3 = 2 x x 2 − 2 x − 3 = 0 x 2 − 2 x + 2 − 5 = 0 x 2 − 2 x + 2 = 5 ​ ∴ 10 x 2 − 2 x + 2 = 10 5 = 2 \\begin{array}{l}\\therefore \\frac{10}{x^{2}-2 x+2} \\\\ =\\frac{10}{5} \\\\ =2\\end{array} ∴ x 2 − 2 x + 2 10 ​ = 5 10 ​ = 2 ​"
+    },
+    {
+      "number": "8",
+      "tag": "CCS 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: log ⁡ 2 + log ⁡ 16 + log ⁡ 512 + … . . \\log 2+\\log 16+\\log 512+\\ldots . . lo g 2 + lo g 16 + lo g 512 + … .. . একটি ধারা। ধারাটির 12 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "121",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "121 log2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "144",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "144 log2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "121",
+      "option_b": "121 log2",
+      "option_c": "144",
+      "option_d": "144 log2",
+      "correct": "ঘ",
+      "explanation": "log ⁡ 2 + log ⁡ 16 + log ⁡ 512 + … … = log ⁡ 2 + log ⁡ 2 4 + log ⁡ 2 9 + … … . = log ⁡ 2 + 4 log ⁡ 2 + 9 log ⁡ 2 + … … . = log ⁡ 2 + 2 2 log ⁡ 2 + 3 2 log ⁡ 2 + … … . + n 2 log ⁡ 2 ∴ 12  তম পদ  = 12 2 log ⁡ 2 = 144 log ⁡ 2 \\begin{array}{l}\\log 2+\\log 16+\\log 512+\\ldots \\ldots \\\\ =\\log 2+\\log 2^{4}+\\log 2^{9}+\\ldots \\ldots . \\\\ =\\log 2+4 \\log 2+9 \\log 2+\\ldots \\ldots . \\\\ =\\log 2+2^{2} \\log 2+3^{2} \\log 2+\\ldots \\ldots .+n^{2} \\log 2 \\\\ \\therefore 12 \\text {~তম পদ }=12^{2} \\log 2=144 \\log 2\\end{array} lo g 2 + lo g 16 + lo g 512 + …… = lo g 2 + lo g 2 4 + lo g 2 9 + …… . = lo g 2 + 4 lo g 2 + 9 lo g 2 + …… . = lo g 2 + 2 2 lo g 2 + 3 2 lo g 2 + …… . + n 2 lo g 2 ∴ 12   তম   পদ   = 1 2 2 lo g 2 = 144 lo g 2 ​"
+    },
+    {
+      "number": "9",
+      "tag": "CCS 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: log ⁡ 2 + log ⁡ 16 + log ⁡ 512 + … . . \\log 2+\\log 16+\\log 512+\\ldots . . lo g 2 + lo g 16 + lo g 512 + … .. . একটি ধারা। ধারাটির 12 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "121",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "121 log2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "144",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "144 log2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "121",
+      "option_b": "121 log2",
+      "option_c": "144",
+      "option_d": "144 log2",
+      "correct": "ঘ",
+      "explanation": "log ⁡ 2 + log ⁡ 16 + log ⁡ 512 + … … = log ⁡ 2 + log ⁡ 2 4 + log ⁡ 2 9 + … … . = log ⁡ 2 + 4 log ⁡ 2 + 9 log ⁡ 2 + … … . = log ⁡ 2 + 2 2 log ⁡ 2 + 3 2 log ⁡ 2 + … … . + n 2 log ⁡ 2 ∴ 12  তম পদ  = 12 2 log ⁡ 2 = 144 log ⁡ 2 \\begin{array}{l}\\log 2+\\log 16+\\log 512+\\ldots \\ldots \\\\ =\\log 2+\\log 2^{4}+\\log 2^{9}+\\ldots \\ldots . \\\\ =\\log 2+4 \\log 2+9 \\log 2+\\ldots \\ldots . \\\\ =\\log 2+2^{2} \\log 2+3^{2} \\log 2+\\ldots \\ldots .+n^{2} \\log 2 \\\\ \\therefore 12 \\text {~তম পদ }=12^{2} \\log 2=144 \\log 2\\end{array} lo g 2 + lo g 16 + lo g 512 + …… = lo g 2 + lo g 2 4 + lo g 2 9 + …… . = lo g 2 + 4 lo g 2 + 9 lo g 2 + …… . = lo g 2 + 2 2 lo g 2 + 3 2 lo g 2 + …… . + n 2 lo g 2 ∴ 12   তম   পদ   = 1 2 2 lo g 2 = 144 lo g 2 ​"
+    },
+    {
+      "number": "10",
+      "tag": "CCS 24",
+      "question": "( 2 x − 1 x 2 3 ) − 6 \\left(2 x^{-1} \\sqrt[3]{x^{2}}\\right)^{-6} ( 2 x − 1 3 x 2 ​ ) − 6 এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x 2 16 \\frac{x^{2}}{16} 16 x 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x 2 32 \\frac{x^{2}}{32} 32 x 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 64 \\frac{x^{2}}{64} 64 x 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "x 2 128 \\frac{x^{2}}{128} 128 x 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x 2 16 \\frac{x^{2}}{16} 16 x 2 ​",
+      "option_b": "x 2 32 \\frac{x^{2}}{32} 32 x 2 ​",
+      "option_c": "x 2 64 \\frac{x^{2}}{64} 64 x 2 ​",
+      "option_d": "x 2 128 \\frac{x^{2}}{128} 128 x 2 ​",
+      "correct": "গ",
+      "explanation": "( 2 x − 1 x 2 3 ) − 6 = ( 2 ⋅ 1 x ⋅ x 2 3 ) − 6 = ( 2 ⋅ x − 1 3 ) − 6 = 2 − 6 x 2 = x 2 64 \\begin{array}{l}\\left(2 x^{-1} \\sqrt[3]{x^{2}}\\right)^{-6}=\\left(2 \\cdot \\frac{1}{x} \\cdot x^{\\frac{2}{3}}\\right)^{-6} \\\\ =\\left(2 \\cdot x^{-\\frac{1}{3}}\\right)^{-6}=2^{-6} x^{2}=\\frac{x^{2}}{64}\\end{array} ( 2 x − 1 3 x 2 ​ ) − 6 = ( 2 ⋅ x 1 ​ ⋅ x 3 2 ​ ) − 6 = ( 2 ⋅ x − 3 1 ​ ) − 6 = 2 − 6 x 2 = 64 x 2 ​ ​"
+    },
+    {
+      "number": "11",
+      "tag": "CCS 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: A = log ⁡ 3 3 , B = log ⁡ 7 7 7 , C = log ⁡ x 2500 A=\\log _{\\sqrt{3}} 3, B=\\log _{7} 7 \\sqrt{7}, C=\\log _{x} 2500 A = lo g 3 ​ ​ 3 , B = lo g 7 ​ 7 7 ​ , C = lo g x ​ 2500 A - B এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_c": "2",
+      "option_d": "6",
+      "correct": "ক",
+      "explanation": "A = log ⁡ 3 3 = log ⁡ 3 ( 3 ) 2 = 2   B = log ⁡ 7 7 7 = log ⁡ 7 3 2 = 3 2 ∴   A − B = 2 − 3 2 = 1 2 \\begin{array}{l}\\mathrm{A}=\\log _{\\sqrt{3}} 3=\\log _{\\sqrt{3}}(\\sqrt{3})^{2}=2 \\\\ \\mathrm{~B}=\\log _{7} 7 \\sqrt{7}=\\log _{7} \\frac{3}{2}=\\frac{3}{2} \\\\ \\therefore \\mathrm{~A}-\\mathrm{B}=2-\\frac{3}{2}=\\frac{1}{2}\\end{array} A = lo g 3 ​ ​ 3 = lo g 3 ​ ​ ( 3 ​ ) 2 = 2   B = lo g 7 ​ 7 7 ​ = lo g 7 ​ 2 3 ​ = 2 3 ​ ∴   A − B = 2 − 2 3 ​ = 2 1 ​ ​"
+    },
+    {
+      "number": "12",
+      "tag": "CCS 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: A = log ⁡ 3 3 , B = log ⁡ 7 7 7 , C = log ⁡ x 2500 A=\\log _{\\sqrt{3}} 3, B=\\log _{7} 7 \\sqrt{7}, C=\\log _{x} 2500 A = lo g 3 ​ ​ 3 , B = lo g 7 ​ 7 7 ​ , C = lo g x ​ 2500 A - B এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_c": "2",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "A = log ⁡ 3 3 = log ⁡ 3 ( 3 ) 2 = 2   B = log ⁡ 7 7 7 = log ⁡ 7 3 2 = 3 2 ∴   A − B = 2 − 3 2 = 1 2 \\begin{array}{l}\\mathrm{A}=\\log _{\\sqrt{3}} 3=\\log _{\\sqrt{3}}(\\sqrt{3})^{2}=2 \\\\ \\mathrm{~B}=\\log _{7} 7 \\sqrt{7}=\\log _{7} \\frac{3}{2}=\\frac{3}{2} \\\\ \\therefore \\mathrm{~A}-\\mathrm{B}=2-\\frac{3}{2}=\\frac{1}{2}\\end{array} A = lo g 3 ​ ​ 3 = lo g 3 ​ ​ ( 3 ​ ) 2 = 2   B = lo g 7 ​ 7 7 ​ = lo g 7 ​ 2 3 ​ = 2 3 ​ ∴   A − B = 2 − 2 3 ​ = 2 1 ​ ​"
+    },
+    {
+      "number": "13",
+      "tag": "CCS 24",
+      "question": "1 2 − 1 + 2 − … … … … … … . . \\frac{1}{\\sqrt{2}}-1+\\sqrt{2}-……………….. 2 ​ 1 ​ − 1 + 2 ​ − ……………… .. ধারাটির কত তম পদ 8 2 8 \\sqrt{2} 8 2 ​ ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৪র্থ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৭ম",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৯ম",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১০ম",
+          "is_correct": true
+        }
+      ],
+      "option_a": "৪র্থ",
+      "option_b": "৭ম",
+      "option_c": "৯ম",
+      "option_d": "১০ম",
+      "correct": "ঘ",
+      "explanation": "ধারাটির ১ম পদ, a = 1 2 a=\\frac{1}{\\sqrt{2}} a = 2 ​ 1 ​ এবং সাধারণ অনুপাত, r = − 1 1 2 = − 2 \\mathrm{r}=\\frac{-1}{\\frac{1}{\\sqrt{2}}}=-\\sqrt{2} r = 2 ​ 1 ​ − 1 ​ = − 2 ​ ∴ n − তম পদ  = a r n − 1 \\therefore n- তম \\text { পদ }=a r^{n-1} ∴ n − তম   পদ   = a r n − 1 বা, 8 2 = 1 2 × ( − 2 ) n − 1 8 \\sqrt{2}=\\frac{1}{\\sqrt{2}} \\times(-\\sqrt{2})^{n-1} 8 2 ​ = 2 ​ 1 ​ × ( − 2 ​ ) n − 1 বা, 16 = ( − 2 ) n − 1 16=(-\\sqrt{2})^{\\mathrm{n}-1} 16 = ( − 2 ​ ) n − 1 বা, ( − 2 ) 8 = ( − 2 ) n − 1 (-\\sqrt{2})^{8}=(-\\sqrt{2})^{\\mathrm{n}-1} ( − 2 ​ ) 8 = ( − 2 ​ ) n − 1 ∴ n − 1 = 8 ∴ n = 9 \\therefore \\mathrm{n}-1=8 \\therefore \\mathrm{n}=9 ∴ n − 1 = 8 ∴ n = 9"
+    },
+    {
+      "number": "14",
+      "tag": "CCS 24",
+      "question": "দুইটি সংখ্যার ধনাত্মক পার্থক্য 4। ছোট সংখ্যাটির বর্গ বড় সংখ্যাটির দ্বিগুণের সমান হলে বড় সংখ্যাটি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "ঘ",
+      "explanation": "7 ধরি, বড় সংখ্যাটি × ছোট সংখ্যাটি y [ x > 0 , y > 0 ] y \\quad[x>0, y>0] y [ x > 0 , y > 0 ] প্রশ্নমতে, x − y = 4 ∴ y = x − 4 x-y=4 \\quad \\therefore y=x-4 x − y = 4 ∴ y = x − 4 আবার, y 2 = 2 x ⇒ ( x − 4 ) 2 = 2 x ⇒ x 2 − 8 x + 16 = 2 x ⇒ x 2 − 10 x + 16 = 0 ⇒ x 2 − 8 x − 2 x + 16 = 0 ⇒ x ( x − 8 ) − 2 ( x − 8 ) = 0 ⇒ ( x − 2 ) ( x − 8 ) = 0 ∴ x = 8  - এবং  x ≠ 2 [ ∵ x = 2  হলে  y = − 2 হয়েযাবে। \\begin{aligned} & y^{2}=2 x \\\\ \\Rightarrow & (x-4)^{2}=2 x \\\\ \\Rightarrow & x^{2}-8 x+16=2 x \\\\ \\Rightarrow & x^{2}-10 x+16=0 \\\\ \\Rightarrow & x^{2}-8 x-2 x+16=0 \\\\ \\Rightarrow & x(x-8)-2(x-8)=0 \\\\ \\Rightarrow & (x-2)(x-8)=0 \\\\ \\therefore & x=8 \\text { - এবং } x \\neq 2 \\quad[\\because x=2 \\text { হলে } y=-2 হয়ে যাবে। \\end{aligned} ⇒ ⇒ ⇒ ⇒ ⇒ ⇒ ∴ ​ y 2 = 2 x ( x − 4 ) 2 = 2 x x 2 − 8 x + 16 = 2 x x 2 − 10 x + 16 = 0 x 2 − 8 x − 2 x + 16 = 0 x ( x − 8 ) − 2 ( x − 8 ) = 0 ( x − 2 ) ( x − 8 ) = 0 x = 8  -  এবং   x  = 2 [ ∵ x = 2   হলে   y = − 2 হয়েযাবে। ​"
+    },
+    {
+      "number": "16",
+      "tag": "CCS 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: 10 জন শ্রমিকের দৈনিক মজুরী (টাকায়) নিম্নরূপ: 130 , 150 , 145 , 170 , 200 , 180 , 175 , 165 , 140 , 190 130,150,145,170,200,180,175,165,140,190 130 , 150 , 145 , 170 , 200 , 180 , 175 , 165 , 140 , 190 উপাত্তের গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "160",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "162.5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "163",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "164.5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "160",
+      "option_b": "162.5",
+      "option_c": "163",
+      "option_d": "164.5",
+      "correct": "ঘ",
+      "explanation": "উপাত্তের গাণিতিক গড় =(130+150+145+170+200+180+175+165+140+190)/10 =164.5"
+    },
+    {
+      "number": "17",
+      "tag": "CCS 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: 10 জন শ্রমিকের দৈনিক মজুরী (টাকায়) নিম্নরূপ: 130 , 150 , 145 , 170 , 200 , 180 , 175 , 165 , 140 , 190 130,150,145,170,200,180,175,165,140,190 130 , 150 , 145 , 170 , 200 , 180 , 175 , 165 , 140 , 190 শ্রেণি ব্যবধান 10 ধরে শ্রেণিসংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "7",
+      "option_c": "8",
+      "option_d": "10",
+      "correct": "গ",
+      "explanation": "সর্বোচ্চ সংখ্যা  = 200  সর্বনিম্ন সংখ্যা  = 130 ∴  পরিসর  = (  সর্বোচ্চ  −  সর্বনিম্ন  ) + 1 = ( 200 − 130 ) + 1 = 70 + 1 = 71 \\begin{array}{l} \\text { সর্বোচ্চ সংখ্যা }=200 \\\\ \\text { সর্বনিম্ন সংখ্যা }=130 \\\\ \\therefore \\text { পরিসর }=(\\text { সর্বোচ্চ }- \\text { সর্বনিম্ন })+1 \\\\ =(200-130)+1 \\\\ =70+1 \\\\ =71 \\end{array}   সর্বোচ্চ   সংখ্যা   = 200   সর্বনিম্ন   সংখ্যা   = 130 ∴   পরিসর   = (   সর্বোচ্চ   −   সর্বনিম্ন   ) + 1 = ( 200 − 130 ) + 1 = 70 + 1 = 71 ​ শ্রেণী ব্যবধান 10 ধরলে শ্রেণী সংখ্যা = 71 10 = 7.1 ≈ 8 =\\frac{71}{10}=7.1 \\approx 8 = 10 71 ​ = 7.1 ≈ 8"
+    },
+    {
+      "number": "18",
+      "tag": "CCS 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: 10 জন শ্রমিকের দৈনিক মজুরী (টাকায়) নিম্নরূপ: 130 , 150 , 145 , 170 , 200 , 180 , 175 , 165 , 140 , 190 130,150,145,170,200,180,175,165,140,190 130 , 150 , 145 , 170 , 200 , 180 , 175 , 165 , 140 , 190 উপাত্তের গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "160",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "162.5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "163",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "164.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "160",
+      "option_b": "162.5",
+      "option_c": "163",
+      "option_d": "164.5",
+      "correct": "খ",
+      "explanation": "উপাত্তের গাণিতিক গড় =(130+150+145+170+200+180+175+165+140+190)/10 =164.5"
+    },
+    {
+      "number": "19",
+      "tag": "HC 24,CCS 24",
+      "question": "একটি বৃত্তের ব্যাসার্ধ 8 সে.মি. এবং একটি বৃত্তচাপ কেন্দ্রে 56° কোণ উৎপন্ন করলে- i. বৃত্তচাপের দৈর্ঘ্য 7.82 সে.মি. (প্রায়) ii. বৃত্তাংশের ক্ষেত্রফল = 62.55 বর্গ সে.মি. (প্রায়) iii. বৃত্তটির পরিধি 50.27 সে.মি. (প্রায়) নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "এখানে, r = 8   c m 3 θ = 56 ∘ r=8 \\mathrm{~cm} \\quad 3 \\theta=56^{\\circ} r = 8   cm 3 θ = 5 6 ∘ ∴ বৃত্তচাপের দৈর্ঘ্য  = s = r θ = 8 × 56 π 180 = 7.82   c m ∴ বৃত্তাংশের ক্ষেত্রফল  = 56 ∘ 360 ∘ × π × 8 2 = 37.27   c m 2 ∴  বৃত্তের পরিধি  = 2 π r = 2 × π × 8 = 50.27   c m \\begin{array}{l} \\therefore \\text {বৃত্তচাপের দৈর্ঘ্য }=s=r \\theta=8 \\times \\frac{56 \\pi}{180}=7.82 \\mathrm{~cm} \\\\ \\therefore \\text {বৃত্তাংশের ক্ষেত্রফল }=\\frac{56^{\\circ}}{360^{\\circ}} \\times \\pi \\times 8^{2}=37.27 \\mathrm{~cm}^{2} \\\\ \\therefore \\text { বৃত্তের পরিধি }=2 \\pi r=2 \\times \\pi \\times 8=50.27 \\mathrm{~cm} \\end{array} ∴ বৃত্তচাপের   দৈর্ঘ্য   = s = r θ = 8 × 180 56 π ​ = 7.82   cm ∴ বৃত্তাংশের   ক্ষেত্রফল   = 36 0 ∘ 5 6 ∘ ​ × π × 8 2 = 37.27   cm 2 ∴   বৃত্তের   পরিধি   = 2 π r = 2 × π × 8 = 50.27   cm ​"
+    },
+    {
+      "number": "20",
+      "tag": "CTG.B 22,RB 19,CCS 24",
+      "question": "একটি ঘনকের আয়তন 24 3 24 \\sqrt{3} 24 3 ​ ঘন সে.মি. হলে, এর কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 2 \\sqrt{3} 2 3 ​ সে. মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 2 3 \\sqrt{2} 3 2 ​ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6 সে. মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "18 সে,মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 2 \\sqrt{3} 2 3 ​ সে. মি.",
+      "option_b": "3 2 3 \\sqrt{2} 3 2 ​ সে.মি.",
+      "option_c": "6 সে. মি.",
+      "option_d": "18 সে,মি.",
+      "correct": "গ",
+      "explanation": "ঘনকের আয়তন a³=24 3 \\sqrt{3} 3 ​ a³ =(2 3 \\sqrt{3} 3 ​ )³ ∴ \\therefore ∴ a=2 3 \\sqrt{3} 3 ​ ঘনকের কর্ণ 3 \\sqrt{3} 3 ​ a = 3 \\sqrt{3} 3 ​ × \\times × 2 3 \\sqrt{3} 3 ​ =6"
+    },
+    {
+      "number": "21",
+      "tag": "BB 22,FGCC 24,CCS 24",
+      "question": "একটি রম্বসের একটি কর্ণ 10 সে.মি. এবং ক্ষেত্রফল 120 বর্গ সে.মি. হলে অপর কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "24 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12 সে.মি.",
+      "option_b": "18 সে.মি.",
+      "option_c": "24 সে.মি.",
+      "option_d": "24 সে.মি.",
+      "correct": "খ",
+      "explanation": "আমরা জানি,  রম্বসের ক্ষেত্রফল  = d 1 × d 2 2 ⇒ 120 = d 1 d 2 2 ⇒ 240 = d 1 × d 2 ⇒ d 2 = 240 d 1 = 240 30 = 24   c m . \\begin{array}{l} \\text { রম্বসের ক্ষেত্রফল }=\\frac{d_{1} \\times d_{2}}{2} \\\\ \\Rightarrow \\quad 120=\\frac{d_{1} d_{2}}{2} \\\\ \\Rightarrow 240=d_{1} \\times d_{2} \\\\ \\Rightarrow d_{2}=\\frac{240}{ d_{1}}=\\frac{240}{30}=24 \\mathrm{~cm} . \\end{array}   রম্বসের   ক্ষেত্রফল   = 2 d 1 ​ × d 2 ​ ​ ⇒ 120 = 2 d 1 ​ d 2 ​ ​ ⇒ 240 = d 1 ​ × d 2 ​ ⇒ d 2 ​ = d 1 ​ 240 ​ = 30 240 ​ = 24   cm . ​ ∴ \\therefore ∴ দ্বিতীয় কর্নের দৈর্ঘ্য, d 2 = 24   c m d_{2}=24 \\mathrm{~cm} d 2 ​ = 24   cm"
+    },
+    {
+      "number": "22",
+      "tag": "JB 24,ACPS 24,CCS 24",
+      "question": "261টি আম তিন ভাইয়ের মধ্যে 1 3 : 1 5 : 1 9 \\frac{1}{3}: \\frac{1}{5}: \\frac{1}{9} 3 1 ​ : 5 1 ​ : 9 1 ​ অনুপাতে ভাগ করে দিলে দ্বিতীয় ভাই কয়টি আম পাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "81",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "90",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "135",
+          "is_correct": true
+        }
+      ],
+      "option_a": "45",
+      "option_b": "81",
+      "option_c": "90",
+      "option_d": "135",
+      "correct": "ঘ",
+      "explanation": "দেওয়া আছে, তিন ভাইয়ের আমের অনুপাত = 1 3 : 1 5 : 1 9 = 1 3 × 45 : 1 5 × 45 : 1 9 × 45  [  হর এর ল.সা.গু  = 45  ]  = 15 : 9 : 5 ∴  ২য় ভাই আম পাবে  = 261 × 9 29 = 81  টি  \\begin{array}{l} =\\frac{1}{3}: \\frac{1}{5}: \\frac{1}{9} \\\\ =\\frac{1}{3} \\times 45: \\frac{1}{5} \\times 45: \\frac{1}{9} \\times 45 \\text { [ } \\text { হর এর ল.সা.গু }=45 \\text { ] } \\\\ =15: 9: 5 \\\\ \\therefore \\text { ২য় ভাই আম পাবে }=261 \\times \\frac{9}{29}=81 \\text { টি } \\end{array} = 3 1 ​ : 5 1 ​ : 9 1 ​ = 3 1 ​ × 45 : 5 1 ​ × 45 : 9 1 ​ × 45  [    হর   এর   ল . সা . গু   = 45  ]  = 15 : 9 : 5 ∴   ২য়   ভাই   আম   পাবে   = 261 × 29 9 ​ = 81   টি   ​"
+    },
+    {
+      "number": "23",
+      "tag": "RB 20,DIN.B 20,CB 17,CTG.B 17,JB 17,GLHSD 24,CCS 24",
+      "question": "দুইটি সংখ্যার অনুপাত 3 : 4 এবং তাদর গ.সা.গু. 3 হলে, সংখ্যা দুইটির ল.সা.গু কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "9",
+      "option_c": "12",
+      "option_d": "36",
+      "correct": "খ",
+      "explanation": "সংখ্যা দুটির অনুপাত  3 : 4  ধরি, সংখ্যা দুটির গসাগু,   = x ∴  সংখ্যা দুটি  ( 3 x , 4 x )  এখন,  x = 3 ∴  সংখ্যা দুটি   ( 9 , 12 ) ( 9 , 12 )  এর লসাগু  = 36 .  \\begin{array}{l} \\text { সংখ্যা দুটির অনুপাত } 3: 4 \\\\ \\text { ধরি, সংখ্যা দুটির গসাগু, } \\text { } =x \\\\ \\therefore \\text { সংখ্যা দুটি }(3 x, 4 x) \\\\ \\text { এখন, } x=3 \\\\ \\therefore \\text { সংখ্যা দুটি } \\text { }(9,12) \\\\ (9,12) \\text { এর লসাগু }=36 \\text {. } \\end{array}   সংখ্যা   দুটির   অনুপাত   3 : 4   ধরি ,  সংখ্যা   দুটির   গসাগু ,    = x ∴   সংখ্যা   দুটি   ( 3 x , 4 x )   এখন ,  x = 3 ∴   সংখ্যা   দুটি     ( 9 , 12 ) ( 9 , 12 )   এর   লসাগু   = 36 .  ​"
+    },
+    {
+      "number": "24",
+      "tag": "RB 20,DIN.B 20,CB 17,CTG.B 17,JB 17,GLHSD 24,CCS 24",
+      "question": "দুইটি সংখ্যার অনুপাত 3 : 4 এবং তাদর গ.সা.গু. 3 হলে, সংখ্যা দুইটির ল.সা.গু কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "36",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "9",
+      "option_c": "12",
+      "option_d": "36",
+      "correct": "ঘ",
+      "explanation": "সংখ্যা দুটির অনুপাত  3 : 4  ধরি, সংখ্যা দুটির গসাগু,   = x ∴  সংখ্যা দুটি  ( 3 x , 4 x )  এখন,  x = 3 ∴  সংখ্যা দুটি   ( 9 , 12 ) ( 9 , 12 )  এর লসাগু  = 36 .  \\begin{array}{l} \\text { সংখ্যা দুটির অনুপাত } 3: 4 \\\\ \\text { ধরি, সংখ্যা দুটির গসাগু, } \\text { } =x \\\\ \\therefore \\text { সংখ্যা দুটি }(3 x, 4 x) \\\\ \\text { এখন, } x=3 \\\\ \\therefore \\text { সংখ্যা দুটি } \\text { }(9,12) \\\\ (9,12) \\text { এর লসাগু }=36 \\text {. } \\end{array}   সংখ্যা   দুটির   অনুপাত   3 : 4   ধরি ,  সংখ্যা   দুটির   গসাগু ,    = x ∴   সংখ্যা   দুটি   ( 3 x , 4 x )   এখন ,  x = 3 ∴   সংখ্যা   দুটি     ( 9 , 12 ) ( 9 , 12 )   এর   লসাগু   = 36 .  ​"
+    },
+    {
+      "number": "25",
+      "tag": "MB 24,SB 22,CCS 24",
+      "question": "দুইটি কর্ণের দৈর্ঘ্য দেওয়া থাকলে নিচের কোনটি আঁকা সম্ভব?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ট্রাপিজিয়াম",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "রম্বস",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আয়ত",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সামান্তরিক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ট্রাপিজিয়াম",
+      "option_b": "রম্বস",
+      "option_c": "আয়ত",
+      "option_d": "সামান্তরিক",
+      "correct": "ক",
+      "explanation": "রম্বসের কর্ণদ্বয় পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করে। তাই দুইটি কর্ণের দৈর্ঘ্য দেওয়া থাকলে রম্বস আঁকা সম্ভব।"
+    },
+    {
+      "number": "26",
+      "tag": "CCS 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: ∆ABC এর পরিসীমা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "17 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18.81 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "24.81 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "30 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "17 সে.মি.",
+      "option_b": "18.81 সে.মি.",
+      "option_c": "24.81 সে.মি.",
+      "option_d": "30 সে.মি.",
+      "correct": "গ",
+      "explanation": "ত্রিভুজটিতে কোণ B সমকোণ । পিথাগোরাসের সূত্র অনুসারে, AC= A B 2 + B C 2 \\sqrt{AB^2+BC^2} A B 2 + B C 2 ​ = 12 2 + 5 2 \\sqrt{12^2+5^2} 1 2 2 + 5 2 ​ = 13cm ∆ABC এর পরিসীমা= 12+5+13= 30cm"
+    },
+    {
+      "number": "27",
+      "tag": "CB 19,CCS 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: BN এর দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.62 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6.5 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9.23 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18.46 সে.মি.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4.62 সে.মি.",
+      "option_b": "6.5 সে.মি.",
+      "option_c": "9.23 সে.মি.",
+      "option_d": "18.46 সে.মি.",
+      "correct": "ঘ",
+      "explanation": "△ A B C  এর ক্ষেত্রফল  = 1 2 × A B × B C = 1 2 × 5 × 12 = 30  বর্গ সে.মি.  \\begin{array}{l}\\triangle \\mathrm{ABC} \\text { এর ক্ষেত্রফল }=\\frac{1}{2} \\times \\mathrm{AB} \\times \\mathrm{BC} \\\\ =\\frac{1}{2} \\times 5 \\times 12=30 \\text { বর্গ সে.মি. }\\end{array} △ ABC   এর   ক্ষেত্রফল   = 2 1 ​ × AB × BC = 2 1 ​ × 5 × 12 = 30   বর্গ   সে . মি .  ​ এখন, AC বাহুকে ভূমি ও BN কে উচ্চতা ধরে, 1 2 × A C × B N = 30  বা,  B N = 30 × 2 A C = 30 × 2 13 ∴ B N = 4.62  সে.মি. (প্রায়)  \\begin{array}{l} \\frac{1}{2} \\times \\mathrm{AC} \\times \\mathrm{BN}=30 \\\\ \\text { বা, } \\mathrm{BN}=\\frac{30 \\times 2}{\\mathrm{AC}}=\\frac{30 \\times 2}{13} \\\\ \\therefore \\mathrm{BN}=4.62 \\text { সে.মি. (প্রায়) } \\end{array} 2 1 ​ × AC × BN = 30   বা ,  BN = AC 30 × 2 ​ = 13 30 × 2 ​ ∴ BN = 4.62   সে . মি . ( প্রায় )  ​"
+    },
+    {
+      "number": "28",
+      "tag": "DIN.B 20,BCC 24,CCS 24",
+      "question": "একটি মিনারের উচ্চতা 60 3 60 \\sqrt{3} 60 3 ​ মিটার এবং এর ছায়ার দৈর্ঘ্য 60 মিটার হলে, অবনতি কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_c": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_d": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "correct": "খ",
+      "explanation": "অবনতি কোণ θ \\theta θ হলে, tan ⁡ θ = 60 3 60 = 3 = tan ⁡ 60 ∘ ∴ θ = 60 ∘ \\begin{aligned} \\tan \\theta & =\\frac{60 \\sqrt{3}}{60} \\\\ & =\\sqrt{3}=\\tan 60^{\\circ} \\\\ \\therefore \\theta & =60^{\\circ} \\end{aligned} tan θ ∴ θ ​ = 60 60 3 ​ ​ = 3 ​ = tan 6 0 ∘ = 6 0 ∘ ​"
+    },
+    {
+      "number": "29",
+      "tag": "CTG.B 19,CCS 24",
+      "question": "6 x − 8 y = 10 \\mathrm{6x - 8y = 10} 6x − 8y = 10 এবং 12 x − 16 y = 18 \\mathrm{12x - 16y =18 } 12x − 16y = 18 সমীকরণজোটের ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমঞ্জস ও নির্ভরশীল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অনন্য সমাধান আছে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমঞ্জস ও অনির্ভরশীল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অসমঞ্জস ও অনির্ভরশীল",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সমঞ্জস ও নির্ভরশীল",
+      "option_b": "অনন্য সমাধান আছে",
+      "option_c": "সমঞ্জস ও অনির্ভরশীল",
+      "option_d": "অসমঞ্জস ও অনির্ভরশীল",
+      "correct": "ঘ",
+      "explanation": "6 x − 8 y = 10 12 x − 16 y = 18 \\begin{array}{l} 6 x-8 y=10 \\\\ 12 x-16 y=18 \\end{array} 6 x − 8 y = 10 12 x − 16 y = 18 ​ এখানে, 6 12 = − 8 − 16 ≠ 10 18 \\frac{6}{12}=\\frac{-8}{-16} \\neq \\frac{10}{18} 12 6 ​ = − 16 − 8 ​  = 18 10 ​ ∴ পরস্পর অসমঞ্জস ও অনির্ভরশীল।"
+    },
+    {
+      "number": "30",
+      "tag": "CCS 24",
+      "question": "0.0875 এর লগারিদমের পূর্ণক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-4",
+      "option_b": "-2",
+      "option_c": "1",
+      "option_d": "2",
+      "correct": "খ",
+      "explanation": "এখানে, 0.0875 = 8.75 × 10 − 2 0.0875=8.75 \\times 10^{-2} 0.0875 = 8.75 × 1 0 − 2 ∴ \\therefore ∴ সংখ্যাটির লগারিদম এর পূর্ণক = − 2 =-2 = − 2 বা 2 ‾ \\overline{2} 2"
+    }
+  ]
+}

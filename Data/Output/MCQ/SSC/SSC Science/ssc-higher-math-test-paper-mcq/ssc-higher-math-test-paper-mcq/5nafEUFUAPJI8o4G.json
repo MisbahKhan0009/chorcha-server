@@ -1,0 +1,822 @@
+{
+  "read_id": "5nafEUFUAPJI8o4G",
+  "title": "ফৌজদারহাট ক্যাডেট কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "FCC 24",
+      "question": "A = { x : x ∈ N  এবং  x 2 + 9 x + 20 = 0 } A=\\left\\{x: x \\in \\mathbb{N} \\text { এবং } x^{2}+9 x+20=0\\right\\} A = { x : x ∈ N   এবং   x 2 + 9 x + 20 = 0 } হলে , A = \\mathrm{A}= A = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( − 4 , − 5 ) (-4,-5) ( − 4 , − 5 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 4 , 5 ) (4,5) ( 4 , 5 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 0 } \\{0\\} { 0 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{}",
+          "is_correct": true
+        }
+      ],
+      "option_a": "( − 4 , − 5 ) (-4,-5) ( − 4 , − 5 )",
+      "option_b": "( 4 , 5 ) (4,5) ( 4 , 5 )",
+      "option_c": "{ 0 } \\{0\\} { 0 }",
+      "option_d": "{}",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত: A = { x : x ∈ N  এবং  x 2 + 9 x + 20 = 0 } A = \\{x : x \\in N \\text{ এবং } x^2 + 9x + 20 = 0\\} A = { x : x ∈ N   এবং   x 2 + 9 x + 20 = 0 } সমীকরণটি সমাধান: x 2 + 9 x + 20 = 0 x^2 + 9x + 20 = 0 x 2 + 9 x + 20 = 0 ( x + 4 ) ( x + 5 ) = 0 (x+4)(x+5) = 0 ( x + 4 ) ( x + 5 ) = 0 x = − 4 , x = − 5 x = -4, \\quad x = -5 x = − 4 , x = − 5 কিন্তু x ∈ N x \\in N x ∈ N অর্থাৎ x x x ধনাত্মক পূর্ণসংখ্যা। এখানে উভয় সমাধান ঋণাত্মক, তাই কোনো ধনাত্মক পূর্ণসংখ্যা এ সমীকরণকে সিদ্ধ করে না। অতএব: A = A = A = {}"
+    },
+    {
+      "number": "2",
+      "tag": "FCC 24",
+      "question": "n ( A ) = X , n ( B ) = Y \\mathrm{n}(\\mathrm{A})=\\mathrm{X}, \\mathrm{n}(\\mathrm{B})=\\mathrm{Y} n ( A ) = X , n ( B ) = Y এবং A ∩ B ; = ∅ \\mathrm{A} \\cap \\mathrm{B} ;=\\varnothing A ∩ B ; = ∅ হলে, n ( A ∪ B ) = n(A \\cup B)= n ( A ∪ B ) = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "X + Y 2 \\frac{X+Y}{2} 2 X + Y ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "X − Y 2 \\frac{X-Y}{2} 2 X − Y ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "X + Y \\mathrm{X}+\\mathrm{Y} X + Y",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "X-Y",
+          "is_correct": false
+        }
+      ],
+      "option_a": "X + Y 2 \\frac{X+Y}{2} 2 X + Y ​",
+      "option_b": "X − Y 2 \\frac{X-Y}{2} 2 X − Y ​",
+      "option_c": "X + Y \\mathrm{X}+\\mathrm{Y} X + Y",
+      "option_d": "X-Y",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "FCC 24",
+      "question": "F ( x ) = 4 x − 1 ; F(x)=4 x-1 ; F ( x ) = 4 x − 1 ; যেখানে, 0 ≤ x ≤ 3 0 \\leq x \\leq 3 0 ≤ x ≤ 3 হলে- i. ডোমেন { 0 , 1 , 2 , 3 } \\{0,1,2,3\\} { 0 , 1 , 2 , 3 } ii. রেঞ্জ { − 1 , 3 , 7 , 11 } \\{-1,3,7,11\\} { − 1 , 3 , 7 , 11 } iii. ফাংশনটিি এক-এক ফাংশন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "FCC 24",
+      "question": "2 x + 1 x ( x − 1 ) = A x + B x − 1 \\frac{2 x+1}{x(x-1)}=\\frac{A}{x}+\\frac{B}{x-1} x ( x − 1 ) 2 x + 1 ​ = x A ​ + x − 1 B ​ হলে, A A A ও B এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1 এবং 3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 এবং −1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 এবং 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "- 1 এবং 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1 এবং 3",
+      "option_b": "3 এবং −1",
+      "option_c": "2 এবং 1",
+      "option_d": "- 1 এবং 2",
+      "correct": "ক",
+      "explanation": "2 x + 1 x ( x − 1 ) = 2 × 1 + 1 1 ( x − 1 ) + 2 × 0 + 1 x ( 0 − 1 ) = 3 x − 1 + − 1 x [ \\frac{2 x+1}{x(x-1)}=\\frac{2 \\times 1+1}{1(x-1)}+\\frac{2 \\times 0+1}{x(0-1)}=\\frac{3}{x-1}+\\frac{-1}{x}[ x ( x − 1 ) 2 x + 1 ​ = 1 ( x − 1 ) 2 × 1 + 1 ​ + x ( 0 − 1 ) 2 × 0 + 1 ​ = x − 1 3 ​ + x − 1 ​ [ cover up rule] ∴ A = 3  এবং  B = − 1 \\therefore A=3 \\text { এবং } B=-1 ∴ A = 3   এবং   B = − 1"
+    },
+    {
+      "number": "5",
+      "tag": "FCC 24",
+      "question": "নিচের কোনটি চক্রক্রমিক রাশি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "p 2 − q 2 + r 2 p^{2}-q^{2}+r^{2} p 2 − q 2 + r 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "p q + q r − r p \\mathrm{pq}+\\mathrm{qr}-\\mathrm{rp} pq + qr − rp",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x y 2 + y z 2 + x 2 y z x y^{2}+y z^{2}+x^{2} y z x y 2 + y z 2 + x 2 yz",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 2 y + y 2 z + z 2 x x^{2} y+y^{2} z+z^{2} x x 2 y + y 2 z + z 2 x",
+          "is_correct": true
+        }
+      ],
+      "option_a": "p 2 − q 2 + r 2 p^{2}-q^{2}+r^{2} p 2 − q 2 + r 2",
+      "option_b": "p q + q r − r p \\mathrm{pq}+\\mathrm{qr}-\\mathrm{rp} pq + qr − rp",
+      "option_c": "x y 2 + y z 2 + x 2 y z x y^{2}+y z^{2}+x^{2} y z x y 2 + y z 2 + x 2 yz",
+      "option_d": "x 2 y + y 2 z + z 2 x x^{2} y+y^{2} z+z^{2} x x 2 y + y 2 z + z 2 x",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "FCC 24",
+      "question": "△ A P C  এ  ∠ A B C \\triangle A P C~এ~ \\angle A B C △ A PC   এ   ∠ A BC একটি সূক্ষ্মকোণ। নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A C 2 < A B 2 + B C 2 \\mathrm{AC}^{2}<\\mathrm{AB}^{2}+\\mathrm{BC}^{2} AC 2 < AB 2 + BC 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "B C 2 < A B 2 + A C C 2 \\mathrm{BC}^{2}<\\mathrm{AB}^{2}+\\mathrm{AC} C^{2} BC 2 < AB 2 + AC C 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A B 2 > A C 2 + B C 2 \\mathrm{AB}^{2}>\\mathrm{AC}^{2}+\\mathrm{BC}^{2} AB 2 > AC 2 + BC 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A B 2 < A C 2 + B C 2 \\mathrm{AB}^{2}<\\mathrm{AC}^{2}+\\mathrm{BC}^{2} AB 2 < AC 2 + BC 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A C 2 < A B 2 + B C 2 \\mathrm{AC}^{2}<\\mathrm{AB}^{2}+\\mathrm{BC}^{2} AC 2 < AB 2 + BC 2",
+      "option_b": "B C 2 < A B 2 + A C C 2 \\mathrm{BC}^{2}<\\mathrm{AB}^{2}+\\mathrm{AC} C^{2} BC 2 < AB 2 + AC C 2",
+      "option_c": "A B 2 > A C 2 + B C 2 \\mathrm{AB}^{2}>\\mathrm{AC}^{2}+\\mathrm{BC}^{2} AB 2 > AC 2 + BC 2",
+      "option_d": "A B 2 < A C 2 + B C 2 \\mathrm{AB}^{2}<\\mathrm{AC}^{2}+\\mathrm{BC}^{2} AB 2 < AC 2 + BC 2",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "FCC 24",
+      "question": "চিত্রে, AE = 3 সে.মি., BD = 4 সে.মি. এবং CF = 2 সে.মি.। BD, CF ও AE, AABC এর মধ্যমা হলে, AB = C = কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.39",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "29",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "58",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4.39",
+      "option_b": "5",
+      "option_c": "29",
+      "option_d": "58",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "FCC 24",
+      "question": "∠ x = 70 ∘ \\angle x=70^{\\circ} ∠ x = 7 0 ∘ হলে, ∠ x \\angle x ∠ x এর সম্পূরক কোণের অর্ধেক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20 ∘ 20^{\\circ} 2 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "55 ∘ 55^{\\circ} 5 5 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "70 ∘ 70^{\\circ} 7 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "110 ∘ 110^{\\circ} 11 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20 ∘ 20^{\\circ} 2 0 ∘",
+      "option_b": "55 ∘ 55^{\\circ} 5 5 ∘",
+      "option_c": "70 ∘ 70^{\\circ} 7 0 ∘",
+      "option_d": "110 ∘ 110^{\\circ} 11 0 ∘",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "FCC 24",
+      "question": "f ( x ) = a x 2 + b x + c , x f(x)=a x^{2}+b x+c, x f ( x ) = a x 2 + b x + c , x এর একটি ফাংশন। f(x) = 0 সমীকরণটির মূলদ্বয় সমান হলে, নিচের কোন তথ্যটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "b 2 − 4 a c ≥ 0 b^{2}-4 a c \\geq 0 b 2 − 4 a c ≥ 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "b 2 − 4 a c ≤ 0 b^{2}-4 a c \\leq 0 b 2 − 4 a c ≤ 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "b 2 − 4 a c > 0 \\mathrm{b}^{2}-4 \\mathrm{ac}>0 b 2 − 4 ac > 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "b 2 − 4 a c = 0 b^{2}-4 a c=0 b 2 − 4 a c = 0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "b 2 − 4 a c ≥ 0 b^{2}-4 a c \\geq 0 b 2 − 4 a c ≥ 0",
+      "option_b": "b 2 − 4 a c ≤ 0 b^{2}-4 a c \\leq 0 b 2 − 4 a c ≤ 0",
+      "option_c": "b 2 − 4 a c > 0 \\mathrm{b}^{2}-4 \\mathrm{ac}>0 b 2 − 4 ac > 0",
+      "option_d": "b 2 − 4 a c = 0 b^{2}-4 a c=0 b 2 − 4 a c = 0",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "FCC 24",
+      "question": "f ( x ) = a x 2 + b x + c , x f(x)=a x^{2}+b x+c, x f ( x ) = a x 2 + b x + c , x এর একটি ফাংশন। a = 4, b = –4 এবং c = 1 হলে, ফাংশনটির লেখচিত্র নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "",
+          "is_correct": false
+        }
+      ],
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "FCC 24",
+      "question": "a > b এবং c < 0 হলে, নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a c > b c a c>b c a c > b c",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a c ≥ b c a c \\geq b c a c ≥ b c",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a c ≤ b c \\mathrm{ac} \\leq \\mathrm{bc} ac ≤ bc",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a c < b c \\mathrm{ac}<\\mathrm{bc} ac < bc",
+          "is_correct": true
+        }
+      ],
+      "option_a": "a c > b c a c>b c a c > b c",
+      "option_b": "a c ≥ b c a c \\geq b c a c ≥ b c",
+      "option_c": "a c ≤ b c \\mathrm{ac} \\leq \\mathrm{bc} ac ≤ bc",
+      "option_d": "a c < b c \\mathrm{ac}<\\mathrm{bc} ac < bc",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "FCC 24",
+      "question": "উপরের চিত্রের আলোকে tan ⁡ θ cos ⁡ θ \\tan \\theta \\cos \\theta tan θ cos θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "15 16 \\frac{15}{16} 16 15 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16 15 \\frac{16}{15} 15 16 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_b": "15 16 \\frac{15}{16} 16 15 ​",
+      "option_c": "16 15 \\frac{16}{15} 15 16 ​",
+      "option_d": "5 3 \\frac{5}{3} 3 5 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "FCC 24",
+      "question": "– 980° কোণটি কোন চতুর্ভাগে অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১ম চতুর্ভাগে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "২য় চতুৰ্ভাগে",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "৩য় চতুর্ভাগে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চতুর্থ চতুৰ্ভাগে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১ম চতুর্ভাগে",
+      "option_b": "২য় চতুৰ্ভাগে",
+      "option_c": "৩য় চতুর্ভাগে",
+      "option_d": "চতুর্থ চতুৰ্ভাগে",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "FCC 24",
+      "question": "log ⁡ 2 16 + log ⁡ 5 25 \\log _{2} 16+\\log _{5} \\sqrt{25} lo g 2 ​ 16 + lo g 5 ​ 25 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "5",
+      "option_c": "7",
+      "option_d": "12",
+      "correct": "খ",
+      "explanation": "log ⁡ 2 16 + log ⁡ 5 25 = log ⁡ 2 2 4 + log ⁡ 5 5 = 4 + 1 = 5 \\log _{2} 16+\\log _{5} \\sqrt{25}=\\log _{2} 2^{4}+\\log _{5} 5=4+1=5 lo g 2 ​ 16 + lo g 5 ​ 25 ​ = lo g 2 ​ 2 4 + lo g 5 ​ 5 = 4 + 1 = 5"
+    },
+    {
+      "number": "15",
+      "tag": "FCC 24",
+      "question": "( x − 1 x ) 6 \\left(x-\\frac{1}{x}\\right)^{6} ( x − x 1 ​ ) 6 এর বিস্তৃতিতে x x x মুক্তপদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3-তম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4-তম",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5-তম",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6-তম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3-তম",
+      "option_b": "4-তম",
+      "option_c": "5-তম",
+      "option_d": "6-তম",
+      "correct": "খ",
+      "explanation": "( x − 1 x ) 6 \\left(x-\\frac{1}{x}\\right)^{6} ( x − x 1 ​ ) 6 এর বিস্তৃতিতে ( r + 1 ) (r+1) ( r + 1 ) -তম পদ = 6 C r x 6 − r ( − 1 x ) r = 6 C r x 6 − 2 r ( − 1 ) r ={ }^{6} C_{r} x^{6-r}\\left(-\\frac{1}{x}\\right)^{r}={ }^{6} C_{r} x^{6-2 r}(-1)^{r} = 6 C r ​ x 6 − r ( − x 1 ​ ) r = 6 C r ​ x 6 − 2 r ( − 1 ) r শর্তমতে, 6 − 2 r = 0 6-2 \\mathrm{r}=0 6 − 2 r = 0 বা, 2 r = 6 ∴ r = 3 ∴ ( 3 + 1 ) 2 \\mathrm{r}=6 \\therefore \\mathrm{r}=3 \\therefore(3+1) 2 r = 6 ∴ r = 3 ∴ ( 3 + 1 ) বা, 4-তম পদ x মুক্ত পদ।"
+    },
+    {
+      "number": "16",
+      "tag": "FCC 24",
+      "question": "x + y = 2 একটি সরলরেখার সমীকরণ। রেখাটি x অক্ষকে কোন বিন্দুতে ছেদ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(2, 2)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "(2,0)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "(0,2)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(0,0)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(2, 2)",
+      "option_b": "(2,0)",
+      "option_c": "(0,2)",
+      "option_d": "(0,0)",
+      "correct": "খ",
+      "explanation": "Shortcut: x a + y b = 1 \\frac{x}{a}+\\frac{y}{b}=1 a x ​ + b y ​ = 1 ; রেখাটি x ও y অক্ষকে যথাক্রমে ( a , 0 ) (a, 0) ( a , 0 ) ও ( 0 , b ) (0, b) ( 0 , b ) বিন্দুতে ছেদ করে। x + y = 2 x+y=2 x + y = 2 বা; x 2 + y 2 = 1 \\frac{x}{2}+\\frac{y}{2}=1 2 x ​ + 2 y ​ = 1 ∴ \\therefore ∴ সমীকরণটি x-অক্ষকে ( 2 , 0 ) (2,0) ( 2 , 0 ) বিন্দুতে ছেদ করে।"
+    },
+    {
+      "number": "17",
+      "tag": "FCC 24",
+      "question": "x + y = 2 একটি সরলরেখার সমীকরণ। রেখাটি অক্ষদ্বয়ের সাথে যে ক্ষেত্র তৈরি করে তার ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "1",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "1 4 \\frac{1}{4} 4 1 ​",
+      "correct": "ক",
+      "explanation": "Shortcut: x a + y b = 1 \\frac{x}{a}+\\frac{y}{b}=1 a x ​ + b y ​ = 1 রেখা অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তার ক্ষেত্রফল = 1 2 a b =\\frac{1}{2} a b = 2 1 ​ ab বর্গ একক ∴ \\therefore ∴ নির্ণেয় ক্ষেত্রফল = 1 2 × 2 × 2 = 2 =\\frac{1}{2} \\times 2 \\times 2=2 = 2 1 ​ × 2 × 2 = 2 বর্গ একক"
+    },
+    {
+      "number": "18",
+      "tag": "FCC 24",
+      "question": "A C → = a ‾  হলে,  A C → + C A → =  কত?  \\overrightarrow{\\mathrm{AC}}=\\underline{\\mathrm{a}} \\text { হলে, } \\overrightarrow{\\mathrm{AC}}+\\overrightarrow{\\mathrm{CA}}=\\text { কত? } AC = a ​   হলে ,  AC + CA =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 a ‾ 2 \\underline{a} 2 a ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a ‾ \\underline{a} a ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0 ‾ \\underline{0} 0 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "− 2 a ‾ -2 \\underline{a} − 2 a ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 a ‾ 2 \\underline{a} 2 a ​",
+      "option_b": "a ‾ \\underline{a} a ​",
+      "option_c": "0 ‾ \\underline{0} 0 ​",
+      "option_d": "− 2 a ‾ -2 \\underline{a} − 2 a ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "FCC 24",
+      "question": "a x = b y = c x a^{x}=b^{y}=c^{x} a x = b y = c x এবং b 2 = a c b^{2}=a c b 2 = a c হলে- i. a = b y x a=b^{\\frac{y}{x}} a = b x y ​ ii. b = c z y b=c^{\\frac{z}{y}} b = c y z ​ iii. 1 x + 1 z = 2 y \\frac{1}{x}+\\frac{1}{z}=\\frac{2}{y} x 1 ​ + z 1 ​ = y 2 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত সমীকরণগুলি: 1. a x = b y = c z = k a^{x}=b^{y}=c^{z}=k a x = b y = c z = k (ধরি) 2. b 2 = a c b^{2}=a c b 2 = a c প্রতিটি রাশিকে k k k এর মাধ্যমে প্রকাশ করি: a = k 1 / x , b = k 1 / y , c = k 1 / z a=k^{1 / x}, \\quad b=k^{1 / y}, \\quad c=k^{1 / z} a = k 1/ x , b = k 1/ y , c = k 1/ z b 2 = a c b^{2}=a c b 2 = a c সমীকরণে মানগুলি বসাই: ( k 1 / y ) 2 = k 1 / x ⋅ k 1 / z k 2 / y = k 1 / x + 1 / z \\begin{array}{c} \\left(k^{1 / y}\\right)^{2}=k^{1 / x} \\cdot k^{1 / z} \\\\ k^{2 / y}=k^{1 / x+1 / z} \\end{array} ( k 1/ y ) 2 = k 1/ x ⋅ k 1/ z k 2/ y = k 1/ x + 1/ z ​ সূচকগুলির সমতা থেকে পাই: 2 y = 1 x + 1 z 1 x + 1 z = 2 y \\begin{array}{l} \\frac{2}{y}=\\frac{1}{x}+\\frac{1}{z} \\\\ \\frac{1}{x}+\\frac{1}{z}=\\frac{2}{y} \\end{array} y 2 ​ = x 1 ​ + z 1 ​ x 1 ​ + z 1 ​ = y 2 ​ ​ (i) a = b y x a=b^{\\frac{y}{x}} a = b x y ​ a = k 1 / x , b y x = ( k 1 / y ) y x = k 1 / x ∴ a = b y x  সঠিক  \\begin{array}{c} a=k^{1 / x}, \\quad b^{\\frac{y}{x}}=\\left(k^{1 / y}\\right)^{\\frac{y}{x}}=k^{1 / x} \\\\ \\therefore a=b^{\\frac{y}{x}} \\text { সঠিক } \\end{array} a = k 1/ x , b x y ​ = ( k 1/ y ) x y ​ = k 1/ x ∴ a = b x y ​   সঠিক   ​ (ii) b = c z y b=c^{\\frac{z}{y}} b = c y z ​ b = k 1 / y , c z y = ( k 1 / z ) z y = k 1 / y ∴ b = c z y  সঠিক  \\begin{array}{c} b=k^{1 / y}, \\quad c^{\\frac{z}{y}}=\\left(k^{1 / z}\\right)^{\\frac{z}{y}}=k^{1 / y} \\\\ \\therefore b=c^{\\frac{z}{y}} \\text { সঠিক } \\end{array} b = k 1/ y , c y z ​ = ( k 1/ z ) y z ​ = k 1/ y ∴ b = c y z ​   সঠিক   ​ (iii) 1 x + 1 z = 2 y \\frac{1}{x}+\\frac{1}{z}=\\frac{2}{y} x 1 ​ + z 1 ​ = y 2 ​ ধাপ 3 থেকে প্রমাণে র্সাঠক"
+    },
+    {
+      "number": "20",
+      "tag": "FCC 24",
+      "question": "‘PROBABILITY’ শব্দটির অক্ষরগুলো একটি সারিতে রাখা হয়েছে। দৈবভাবে যে কোনো একটি বর্ণ তোলা হলে বর্ণটি স্বরবর্ণ হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7 11 \\frac{7}{11} 11 7 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 11 \\frac{4}{11} 11 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 10 \\frac{4}{10} 10 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 10 \\frac{3}{10} 10 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7 11 \\frac{7}{11} 11 7 ​",
+      "option_b": "4 11 \\frac{4}{11} 11 4 ​",
+      "option_c": "4 10 \\frac{4}{10} 10 4 ​",
+      "option_d": "3 10 \\frac{3}{10} 10 3 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "FCC 24",
+      "question": "পাঁচটি পাঁচ টাকার মুদ্রা একত্রে নিক্ষেপ করা হলে কয়টি নমুনা বিন্দু পাওয়া যাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "64",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "25",
+      "option_c": "32",
+      "option_d": "64",
+      "correct": "গ",
+      "explanation": "একটি মুদ্রা n সংখ্যকবার নিক্ষেপ করা হলে, নমুনাবিন্দুর সংখ্যা = 2n ∴ \\therefore ∴ পঁচবার নিক্ষেপ করা হলে, নমুনাবিন্দুর সংখ্যা = 2 5 = 32 =2^{5}=32 = 2 5 = 32"
+    },
+    {
+      "number": "22",
+      "tag": "FCC 24",
+      "question": "x - 2y - 10 = 0 এবং 2x + y - 3 = 0 রেখা দুটির ঢালদ্বয়ের গুণফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "- 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "- 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "– 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "- 3",
+      "option_b": "- 2",
+      "option_c": "– 1",
+      "option_d": "2",
+      "correct": "গ",
+      "explanation": "a x + b y + c = 0  রেখার ঢাল  = − x  এর সহগ  y  এর সহগ  = − a b a x+b y+c=0 \\text { রেখার ঢাল }=-\\frac{x \\text { এর সহগ }}{y \\text { এর সহগ }}=-\\frac{a}{b} a x + b y + c = 0   রেখার   ঢাল   = − y   এর   সহগ   x   এর   সহগ   ​ = − b a ​ ∴ x − 2 y − 10 = 0 \\therefore x-2 y-10=0 ∴ x − 2 y − 10 = 0 রেখার ঢাল = 1 2 =\\frac{1}{2} = 2 1 ​ এবং 2 x + y − 3 = 0 2 x+y-3=0 2 x + y − 3 = 0 রেখার ঢাল = − 2 =-2 = − 2 ∴ \\therefore ∴ ঢালদ্বয়ের গুণফল = 1 2 × ( − 2 ) = − 1 =\\frac{1}{2} \\times(-2)=-1 = 2 1 ​ × ( − 2 ) = − 1"
+    },
+    {
+      "number": "23",
+      "tag": "FCC 24",
+      "question": "6 সে.মি. ব্যাস বিশিষ্ট একটি গোলকের আয়তন কত ঘন সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12 π 12 \\pi 12 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27 π 27 \\pi 27 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36 π 36 \\pi 36 π",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "108 π 108 \\pi 108 π",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12 π 12 \\pi 12 π",
+      "option_b": "27 π 27 \\pi 27 π",
+      "option_c": "36 π 36 \\pi 36 π",
+      "option_d": "108 π 108 \\pi 108 π",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "FCC 24",
+      "question": "একটি পিরামিডের আয়তন কত ঘন একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ভূমির ক্ষেত্রফল × \\times × উচ্চতা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 × \\frac{1}{3} \\times 3 1 ​ × ভূমির ক্ষেত্রফল × \\times × উচ্চতা",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 2 × \\frac{1}{2} \\times 2 1 ​ × ভূমির ক্ষেত্রফল × \\times × উচ্চতা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 4 × \\frac{3}{4} \\times 4 3 ​ × ভূমির ক্ষেত্রফল × \\times × উচ্চতা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ভূমির ক্ষেত্রফল × \\times × উচ্চতা",
+      "option_b": "1 3 × \\frac{1}{3} \\times 3 1 ​ × ভূমির ক্ষেত্রফল × \\times × উচ্চতা",
+      "option_c": "1 2 × \\frac{1}{2} \\times 2 1 ​ × ভূমির ক্ষেত্রফল × \\times × উচ্চতা",
+      "option_d": "3 4 × \\frac{3}{4} \\times 4 3 ​ × ভূমির ক্ষেত্রফল × \\times × উচ্চতা",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "FCC 24",
+      "question": "একটি অনুক্রমের n তম পদ 1 − ( − 1 ) 2 n 2 \\frac{1-(-1)^{2 n}}{2} 2 1 − ( − 1 ) 2 n ​ হলে, অনুক্রমটির 36 তম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "-1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "1",
+      "option_c": "0",
+      "option_d": "-1",
+      "correct": "গ",
+      "explanation": "n তম পদ  = 1 − ( − 1 ) 2 n 2 ∴ 36  তম পদ  = 1 − ( − 1 ) 2 × 36 2 = 1 − ( + 1 ) 2 = 1 − 1 2 = 0 2 = 0 \\begin{aligned} n \\text {তম পদ } & =\\frac{1-(-1)^{2 n}}{2} \\\\ \\therefore 36 \\text { তম পদ } & =\\frac{1-(-1)^{2 \\times 36}}{2} \\\\ & =\\frac{1-(+1)}{2} \\\\ & =\\frac{1-1}{2} \\\\ & =\\frac{0}{2}=0\\end{aligned} n তম   পদ   ∴ 36   তম   পদ   ​ = 2 1 − ( − 1 ) 2 n ​ = 2 1 − ( − 1 ) 2 × 36 ​ = 2 1 − ( + 1 ) ​ = 2 1 − 1 ​ = 2 0 ​ = 0 ​"
+    }
+  ]
+}

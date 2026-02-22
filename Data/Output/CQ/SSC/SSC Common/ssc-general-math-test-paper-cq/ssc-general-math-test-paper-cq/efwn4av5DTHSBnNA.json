@@ -1,0 +1,248 @@
+{
+  "title": "রাজশাহী বোর্ড ২০২৪",
+  "subtitle": "গণিত (11)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "A = { x ∈ N : x 2 > 8 A=\\left\\{x \\in \\mathbb{N}: \\mathrm{x}^{2}>8\\right. A = { x ∈ N : x 2 > 8 এবং x 3 < 200 } \\left.x^{3}<200\\right\\} x 3 < 200 } B = { x ∈ N : x B=\\{x \\in \\mathbb{N}: x B = { x ∈ N : x জোড় সংখ্যা এবং x ≤ 6 } x \\leq 6\\} x ≤ 6 } এবং C = { 7 } C=\\{\\sqrt{7}\\} C = { 7 ​ }",
+      "tag": "RB 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "35 এবং 45 এর সকল গুণনীয়কের ছেদ সেট নিৰ্ণয় কর।",
+          "explanation": "ধরি, 35 ও 45 এর সকল গুণনীয়কের সেট যথাক্রমে P ও Q  এখন,  35 = 1 × 35 = 5 × 7 ∴ P = { 1 , 5 , 7 , 35 } \\begin{array}{l} \\text { এখন, } 35=1 \\times 35=5 \\times 7 \\\\ \\therefore P=\\{1,5,7,35\\} \\end{array}   এখন ,  35 = 1 × 35 = 5 × 7 ∴ P = { 1 , 5 , 7 , 35 } ​ আবার, 45 = 1 × 45 = 3 × 15 = 5 × 9 45=1 \\times 45=3 \\times 15=5 \\times 9 45 = 1 × 45 = 3 × 15 = 5 × 9 ∴ Q = { 1 , 3 , 5 , 9 , 15 , 45 } ∴ P ∩ Q = { 1 , 5 , 7 , 35 } ∩ { 1 , 3 , 5 , 9 , 15 , 45 } = { 1 , 5 }  (Ans.)  \\begin{array}{l} \\therefore Q=\\{1,3,5,9,15,45\\} \\\\ \\therefore P \\cap Q=\\{1,5,7,35\\} \\cap\\{1,3,5,9,15,45\\} \\\\ \\quad=\\{1,5\\} \\text { (Ans.) } \\end{array} ∴ Q = { 1 , 3 , 5 , 9 , 15 , 45 } ∴ P ∩ Q = { 1 , 5 , 7 , 35 } ∩ { 1 , 3 , 5 , 9 , 15 , 45 } = { 1 , 5 }  (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, A ∪ B = ( A \\ B ) ∪ ( B \\ A ) ∪ ( A ∩ B ) A \\cup B=(A \\backslash B) \\cup(B \\backslash A) \\cup(A \\cap B) A ∪ B = ( A \\ B ) ∪ ( B \\ A ) ∪ ( A ∩ B )",
+          "explanation": "দেওয়া আছে, A = { x ∈ N : x 2 > 8  এবং  x 3 < 200 } x = 3  হলে,  x 2 = 9 > 8  এবং  x 3 = 3 3 = 27 < 200 x = 4  হলে,  x 2 = 16 > 8  এবং  x 3 = 4 3 = 64 < 200 x = 5  হলে,  x 2 = 25 > 8  এবং  x 3 = 5 3 = 125 < 200 x = 6  হলে,  x 2 = 36 > 8  এবং  x 3 = 6 3 = 216 > 200 ∴ A = { 3 , 4 , 5 } \\begin{array}{l} A=\\left\\{x \\in \\mathbb{N}: x^{2}>8 \\text { এবং } x^{3}<200\\right\\} \\\\ x=3 \\text { হলে, } x^{2}=9>8 \\text { এবং } x^{3}=3^{3}=27<200 \\\\ x=4 \\text { হলে, } x^{2}=16>8 \\text { এবং } x^{3}=4^{3}=64<200 \\\\ x=5 \\text { হলে, } x^{2}=25>8 \\text { এবং } x^{3}=5^{3}=125<200 \\\\ x=6 \\text { হলে, } x^{2}=36>8 \\text { এবং } x^{3}=6^{3}=216>200 \\\\ \\therefore A=\\{3,4,5\\} \\end{array} A = { x ∈ N : x 2 > 8   এবং   x 3 < 200 } x = 3   হলে ,  x 2 = 9 > 8   এবং   x 3 = 3 3 = 27 < 200 x = 4   হলে ,  x 2 = 16 > 8   এবং   x 3 = 4 3 = 64 < 200 x = 5   হলে ,  x 2 = 25 > 8   এবং   x 3 = 5 3 = 125 < 200 x = 6   হলে ,  x 2 = 36 > 8   এবং   x 3 = 6 3 = 216 > 200 ∴ A = { 3 , 4 , 5 } ​ B = { x ∈ N : x  জোড় সংখ্যা এবং  x ≤ 6 } = { 2 , 4 , 6 } ∴  বামপক্ষ  = A ∪   B = { 3 ; 4 , 5 } ∪ { 2 , 4 , 6 } = { 2 , 3 , 4 , 5 , 6 } \\begin{array}{l} \\mathrm{B}=\\{\\mathrm{x} \\in \\mathbb{N}: \\mathrm{x} \\text { জোড় সংখ্যা এবং } \\mathrm{x} \\leq 6\\} \\\\ =\\{2,4,6\\} \\\\ \\begin{aligned} \\therefore \\text { বামপক্ষ } & =\\mathrm{A} \\cup \\mathrm{~B}=\\{3 ; 4,5\\} \\cup\\{2,4,6\\} \\\\ & =\\{2,3,4,5,6\\} \\end{aligned} \\end{array} B = { x ∈ N : x   জোড়   সংখ্যা   এবং   x ≤ 6 } = { 2 , 4 , 6 } ∴   বামপক্ষ   ​ = A ∪   B = { 3 ; 4 , 5 } ∪ { 2 , 4 , 6 } = { 2 , 3 , 4 , 5 , 6 } ​ ​ ডানপক্ষ = { A \\ B ) ∪ ( B \\ A ) ∪ ( A ∩ B ) =\\{A \\backslash B) \\cup(B \\backslash A) \\cup(A \\cap B) = { A \\ B ) ∪ ( B \\ A ) ∪ ( A ∩ B ) এখন, A \\ B = { 3 , 4 , 5 } \\ { 2 , 4 , 6 } = { 3 , 5 } A \\backslash B=\\{3,4,5\\} \\backslash\\{2,4,6\\}=\\{3,5\\} A \\ B = { 3 , 4 , 5 } \\ { 2 , 4 , 6 } = { 3 , 5 } B \\ A = { 2 , 4 , 6 } \\ { 3 , 4 , 5 } = { 2 , 6 } B \\backslash A=\\{2,4,6\\} \\backslash\\{3,4,5\\}=\\{2,6\\} B \\ A = { 2 , 4 , 6 } \\ { 3 , 4 , 5 } = { 2 , 6 } A ∩ B = { 3 , 4 , 5 } ∩ { 2 , 4 , 6 } = { 4 } A \\cap B=\\{3,4,5\\} \\cap\\{2,4,6\\}=\\{4\\} A ∩ B = { 3 , 4 , 5 } ∩ { 2 , 4 , 6 } = { 4 } ∴  ডানপক্ষ  = { 3 , 5 } ∪ { 2 , 6 } ∪ { 4 } = { 2 , 3 , 4 , 5 , 6 } =  বামপক্ষ  \\begin{aligned} \\therefore \\text { ডানপক্ষ } & =\\{3,5\\} \\cup\\{2,6\\} \\cup\\{4\\} \\\\ & =\\{2,3,4,5,6\\}=\\text { বামপক্ষ } \\end{aligned} ∴   ডানপক্ষ   ​ = { 3 , 5 } ∪ { 2 , 6 } ∪ { 4 } = { 2 , 3 , 4 , 5 , 6 } =   বামপক্ষ   ​ ∴ A ∪ B = ( A \\ B ) ∪ ( B \\ A ) ∪ ( A ∩ B ) \\therefore A \\cup B=(A \\backslash B) \\cup(B \\backslash A) \\cup(A \\cap B) ∴ A ∪ B = ( A \\ B ) ∪ ( B \\ A ) ∪ ( A ∩ B ) (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "প্রমাণ করো যে, C এর উপাদানটি একটি অমূলদ সংখ্য।",
+          "explanation": "আমরা জানি, 4 < 7 < 9 4<7<9 4 < 7 < 9 বা, 4 < 7 < 9 ∴ 2 < 7 < 3 \\sqrt{4}<\\sqrt{7}<\\sqrt{9} \\therefore 2<\\sqrt{7}<3 4 ​ < 7 ​ < 9 ​ ∴ 2 < 7 ​ < 3 সুতরাং 7 \\sqrt{7} 7 ​ এর মান 2 অপেক্ষা বড় এবং 3 অপেক্ষা ছোট। অতএব, 7 \\sqrt{7} 7 ​ পূর্ণসংখ্যা নয়। ∴ 7 \\therefore \\sqrt{7} ∴ 7 ​ মূলদ সংখ্যা অথবা অমূলদ সংখ্য।। যদি 7 \\sqrt{7} 7 ​ মূলদ সংখ্যা হয় তবে ধরি, 7 = p q \\sqrt{7}=\\frac{p}{q} 7 ​ = q p ​ ; [যেখানে p ও q উভয়ই স্বাভাবিক সংখ্যা ও পরস্পর সহমৌলিক এবং q > 1 ] q>1] q > 1 ] বা, 7 = p 2 q 2 7=\\frac{p^{2}}{q^{2}} 7 = q 2 p 2 ​ [বর্গ করে] বা, 7 q = p 2 q 7 \\mathrm{q}=\\frac{\\mathrm{p}^{2}}{\\mathrm{q}} 7 q = q p 2 ​ [উভয়পক্ষকে q দ্বারা গুণ করে] অস্পষ্ট, 7 q পূর্ণ সংখ্যা, কিন্তু p 2 q \\frac{p^{2}}{q} q p 2 ​ পূর্ণ সংখ্যা নয়, কারণ p p p ও q q q স্বাভাবিক সংখ্যা ও এরা পর়স্পর সহমৌলিক এবং q > 1 q>1 q > 1 ∴ 7 q \\therefore 7 q ∴ 7 q এবং p 2 q \\frac{p^{2}}{q} q p 2 ​ সমান হতে পারে না, অর্থাৎ, 7 q ≠ p 2 q 7 q \\neq \\frac{p^{2}}{q} 7 q  = q p 2 ​ ∴ 7 \\therefore \\sqrt{7} ∴ 7 ​ এর মান p q \\frac{\\mathrm{p}}{\\mathrm{q}} q p ​ আকারের কোনো সংখ্যাই হতে পারে না। অর্থাৎ 7 ≠ p q \\sqrt{7} \\neq \\frac{\\mathrm{p}}{\\mathrm{q}} 7 ​  = q p ​ সুতরাং, 7 \\sqrt{7} 7 ​ মূলদ সংখ্যা নয়। ∴ 7 \\therefore \\sqrt{7} ∴ 7 ​ অমূলদ সংখ্যা। (প্রমাণিত)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "x 4 + x 2 y 2 + y 4 = 27 , x 2 + x y + y 2 = 9 x^{4}+x^{2} y^{2}+y^{4}=27, x^{2}+x y+y^{2}=9 x 4 + x 2 y 2 + y 4 = 27 , x 2 + x y + y 2 = 9 এবং l = 3 m + 3 1 − m l=3^{m}+3^{1-m} l = 3 m + 3 1 − m",
+      "tag": "RB 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "p 4 + p 2 − 2 p^{4}+p^{2}-2 p 4 + p 2 − 2 কে উৎপাদকে বিশ্লেষণ কর।",
+          "explanation": "প্রদত্ত রাশি  = p 4 + p 2 − 2 = p 4 + 2 p 2 − p 2 − 2 = p 2 ( p 2 + 2 ) − 1 ( p 2 + 2 ) = ( p 2 + 2 ) ( p 2 − 1 ) = ( p 2 + 2 ) ( p + 1 ) ( p − 1 ) (  Ans.  ) \\begin{aligned} \\text { প্রদত্ত রাশি } & =p^{4}+p^{2}-2 \\\\ & =p^{4}+2 p^{2}-p^{2}-2 \\\\ & =p^{2}\\left(p^{2}+2\\right)-1\\left(p^{2}+2\\right) \\\\ & =\\left(p^{2}+2\\right)\\left(p^{2}-1\\right) \\\\ & =\\left(p^{2}+2\\right)(p+1)(p-1)(\\text { Ans. })\\end{aligned}   প্রদত্ত   রাশি   ​ = p 4 + p 2 − 2 = p 4 + 2 p 2 − p 2 − 2 = p 2 ( p 2 + 2 ) − 1 ( p 2 + 2 ) = ( p 2 + 2 ) ( p 2 − 1 ) = ( p 2 + 2 ) ( p + 1 ) ( p − 1 ) (  Ans.  ) ​"
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ করো যে, 3 x y ( x 2 + y 2 ) = 54 3 \\mathrm{xy}\\left(\\mathrm{x}^{2}+\\mathrm{y}^{2}\\right)=54 3 xy ( x 2 + y 2 ) = 54",
+          "explanation": "দেওয়া আছে, x 2 + x y + y 2 = 9 … … x^{2}+x y+y^{2}=9 \\ldots \\ldots x 2 + x y + y 2 = 9 …… ... (i) এবং x 4 + x 2 y 2 + y 4 = 27 x^{4}+x^{2} y^{2}+y^{4}=27 x 4 + x 2 y 2 + y 4 = 27 বা, ( x 2 ) 2 + 2 x 2 y 2 + ( y 2 ) 2 − x 2 y 2 = 27 \\left(x^{2}\\right)^{2}+2 x^{2} y^{2}+\\left(y^{2}\\right)^{2}-x^{2} y^{2}=27 ( x 2 ) 2 + 2 x 2 y 2 + ( y 2 ) 2 − x 2 y 2 = 27 বা, ( x 2 + y 2 ) 2 − ( x y ) 2 = 27 \\left(x^{2}+y^{2}\\right)^{2}-(x y)^{2}=27 ( x 2 + y 2 ) 2 − ( x y ) 2 = 27 বা, ( x 2 + x y + y 2 ) ( x 2 − x y + y 2 ) = 27 \\left(x^{2}+x y+y^{2}\\right)\\left(x^{2}-x y+y^{2}\\right)=27 ( x 2 + x y + y 2 ) ( x 2 − x y + y 2 ) = 27 বা, 9 ( x 2 − x y + y 2 ) = 27 9\\left(x^{2}-x y+y^{2}\\right)=27 9 ( x 2 − x y + y 2 ) = 27 [(i) হতে মান বসিয়ে] ∴ x 2 − x y + y 2 = 3 … … ( i i i ) \\therefore \\mathrm{x}^{2}-\\mathrm{xy}+\\mathrm{y}^{2}=3 \\ldots \\ldots(iii) ∴ x 2 − xy + y 2 = 3 …… ( iii ) (i) ও (ii) নং সমীকরণ যোগ করে পাই, x 2 + x y + y 2 + x 2 − x y + y 2 = 9 + 3 x^{2}+x y+y^{2}+x^{2}-x y+y^{2}=9+3 x 2 + x y + y 2 + x 2 − x y + y 2 = 9 + 3 বা, 2 ( x 2 + y 2 ) = 12 ∴ x 2 + y 2 = 12 2 = 6 2\\left(\\mathrm{x}^{2}+\\mathrm{y}^{2}\\right)=12 \\therefore \\mathrm{x}^{2}+\\mathrm{y}^{2}=\\frac{12}{2}=6 2 ( x 2 + y 2 ) = 12 ∴ x 2 + y 2 = 2 12 ​ = 6 (i) হতে (ii) নং সমীকরণ বিয়োগ করে পাই, x 2 + x y + y 2 − x 2 + x y − y 2 = 9 − 3 x^{2}+x y+y^{2}-x^{2}+x y-y^{2}=9-3 x 2 + x y + y 2 − x 2 + x y − y 2 = 9 − 3 বা, 2 x y = 6 ∴ x y = 6 2 = 3 2 \\mathrm{xy}=6 \\therefore \\mathrm{xy}=\\frac{6}{2}=3 2 xy = 6 ∴ xy = 2 6 ​ = 3 বামপক্ষ = 3 x y ( x 2 + y 2 ) = 3 × 3 × 6 = 54 = =3 x y\\left(x^{2}+y^{2}\\right)=3 \\times 3 \\times 6=54= = 3 x y ( x 2 + y 2 ) = 3 × 3 × 6 = 54 = ডানপক্ষ ∴ 3 x y ( x 2 + y 2 ) = 54 \\therefore 3 \\mathrm{xy}\\left(\\mathrm{x}^{2}+\\mathrm{y}^{2}\\right)=54 ∴ 3 xy ( x 2 + y 2 ) = 54 (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "l = 4 l =4 l = 4 হলে, m এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, l = 3 m + 3 1 − m l=3^{\\mathrm{m}}+3^{1-\\mathrm{m}} l = 3 m + 3 1 − m বা, 3 m + 3 1 − m = 4 3^{\\mathrm{m}}+3^{1-\\mathrm{m}}=4 3 m + 3 1 − m = 4 বা, 3 m + 3 3 m = 4 3^{\\mathrm{m}}+\\frac{3}{3^{\\mathrm{m}}}=4 3 m + 3 m 3 ​ = 4 বা, ( 3 m ) 2 + 3 = 4.3 m \\left(3^{\\mathrm{m}}\\right)^{2}+3=4.3^{\\mathrm{m}} ( 3 m ) 2 + 3 = 4. 3 m বা, ( 3 m ) 2 − 4.3 m + 3 = 0 \\left(3^{\\mathrm{m}}\\right)^{2}-4.3^{\\mathrm{m}}+3=0 ( 3 m ) 2 − 4. 3 m + 3 = 0 বা, ( 3 m ) 2 − 3.3 m − 3 m + 3 = 0 \\left(3^{m}\\right)^{2}-3.3^{m}-3^{m}+3=0 ( 3 m ) 2 − 3. 3 m − 3 m + 3 = 0 বা, 3 m ( 3 m − 3 ) − 1 ( 3 m − 3 ) = 0 3^{\\mathrm{m}}\\left(3^{\\mathrm{m}}-3\\right)-1\\left(3^{\\mathrm{m}}-3\\right)=0 3 m ( 3 m − 3 ) − 1 ( 3 m − 3 ) = 0 বা, ( 3 m − 3 ) ( 3 m − 1 ) = 0 \\left(3^{\\mathrm{m}}-3\\right)\\left(3^{\\mathrm{m}}-1\\right)=0 ( 3 m − 3 ) ( 3 m − 1 ) = 0  হয়,  3 m − 3 = 0  বা,  3 m = 3 = 3 1 ∴ m = 1 \\begin{array}{l}\\text { হয়, } 3^{m}-3=0 \\\\ \\text { বা, } 3^{m}=3=3^{1} \\\\ \\therefore m=1\\end{array}   হয় ,  3 m − 3 = 0   বা ,  3 m = 3 = 3 1 ∴ m = 1 ​  অথবা,  3 m − 1 = 0  বা,  3 m = 1 = 3 0 ∴   m = 0 \\begin{array}{c}\\text { অথবা, } 3^{\\mathrm{m}}-1=0 \\\\ \\text { বা, } 3^{\\mathrm{m}}=1=3^{0} \\\\ \\therefore \\mathrm{~m}=0\\end{array}   অথবা ,  3 m − 1 = 0   বা ,  3 m = 1 = 3 0 ∴   m = 0 ​ ∴ \\therefore ∴ নির্ণেয় সমাধান, m = 0 , 1 \\mathrm{m}=0,1 m = 0 , 1 (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "p = 3 x + 2 y + 3 x − 2 y 3 x + 2 y − 3 x − 2 y p=\\frac{\\sqrt{3 x+2 y}+\\sqrt{3 x-2 y}}{\\sqrt{3 x+2 y}-\\sqrt{3 x-2 y}} p = 3 x + 2 y ​ − 3 x − 2 y ​ 3 x + 2 y ​ + 3 x − 2 y ​ ​ এবং একটি গুণোত্তর ধারার ১ম n সংখ্যক পদের সমষ্টি 2 n+2  − 4 2^{\\text {n+2 }}-4 2 n+2  − 4",
+      "tag": "RB 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দুইটি সংখ্যার অনুপাত 7 : 11 এবং এদের গ.সা.গু. 3.হলে, সংখ্যা দুইটির ল.সা.গু নির্ণয় কর ।",
+          "explanation": "ধরি, সংখ্যাদ্বয়  7 x  ও  11 x ∴  এদের গ.সা.গু  = x  এষং ল.সা.গু  = 7 × 11 × x = 77 x  শর্তমতে,  x = 3 ∴  ল.সা.গু =  77 × 3 = 231  (Ans.)  \\begin{array}{l}\\text { ধরি, সংখ্যাদ্বয় } 7 \\mathrm{x} \\text { ও } 11 \\mathrm{x} \\\\ \\therefore \\text { এদের গ.সা.গু }=\\mathrm{x} \\\\ \\text { এষং ল.সা.গু }=7 \\times 11 \\times \\mathrm{x}=77 \\mathrm{x} \\\\ \\text { শর্তমতে, } \\mathrm{x}=3 \\\\ \\therefore \\text { ল.সা.গু = } 77 \\times 3=231 \\text { (Ans.) }\\end{array}   ধরি ,  সংখ্যাদ্বয়   7 x   ও   11 x ∴   এদের   গ . সা . গু   = x   এষং   ল . সা . গু   = 7 × 11 × x = 77 x   শর্তমতে ,  x = 3 ∴   ল . সা . গু  =  77 × 3 = 231  (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ করো যে, p² y - 3px + y=0",
+          "explanation": "দেওয়া আছে, p = 3 x + 2 y + 3 x − 2 y 3 x + 2 y − 3 x − 2 y  বা,  p + 1 p − 1 = 3 x + 2 y + 3 x − 2 y + 3 x + 2 y − 3 x − 2 y 3 x + 2 y + 3 x − 2 y − 3 x + 2 y + 3 x − 2 y \\begin{aligned} p & =\\frac{\\sqrt{3 x+2 y}+\\sqrt{3 x-2 y}}{\\sqrt{3 x+2 y}-\\sqrt{3 x-2 y}} \\\\ \\text { বা, } \\frac{p+1}{p-1} & =\\frac{\\sqrt{3 x+2 y}+\\sqrt{3 x-2 y}+\\sqrt{3 x+2 y}-\\sqrt{3 x-2 y}}{\\sqrt{3 x+2 y}+\\sqrt{3 x-2 y}-\\sqrt{3 x+2 y}+\\sqrt{3 x-2 y}} \\end{aligned} p   বা ,  p − 1 p + 1 ​ ​ = 3 x + 2 y ​ − 3 x − 2 y ​ 3 x + 2 y ​ + 3 x − 2 y ​ ​ = 3 x + 2 y ​ + 3 x − 2 y ​ − 3 x + 2 y ​ + 3 x − 2 y ​ 3 x + 2 y ​ + 3 x − 2 y ​ + 3 x + 2 y ​ − 3 x − 2 y ​ ​ ​ [যোজন-বিয়োজন করে] বা, p + 1 p − 1 = 2 ⋅ 3 x + 2 y 2 ⋅ 3 x − 2 y = 3 x + 2 y 3 x − 2 y \\frac{p+1}{p-1}=\\frac{2 \\cdot \\sqrt{3 x+2 y}}{2 \\cdot \\sqrt{3 x-2 y}}=\\frac{\\sqrt{3 x+2 y}}{\\sqrt{3 x-2 y}} p − 1 p + 1 ​ = 2 ⋅ 3 x − 2 y ​ 2 ⋅ 3 x + 2 y ​ ​ = 3 x − 2 y ​ 3 x + 2 y ​ ​ বা, ( p + 1 p − 1 ) 2 = 3 x + 2 y 3 x − 2 y \\left(\\frac{p+1}{p-1}\\right)^{2}=\\frac{3 x+2 y}{3 x-2 y} ( p − 1 p + 1 ​ ) 2 = 3 x − 2 y 3 x + 2 y ​ বা, ( p + 1 ) 2 + ( p − 1 ) 2 ( p + 1 ) 2 − ( p − 1 ) 2 = 3 x + 2 y + 3 x − 2 y 3 x + 2 y − 3 x + 2 y \\frac{(p+1)^{2}+(p-1)^{2}}{(p+1)^{2}-(p-1)^{2}}=\\frac{3 x+2 y+3 x-2 y}{3 x+2 y-3 x+2 y} ( p + 1 ) 2 − ( p − 1 ) 2 ( p + 1 ) 2 + ( p − 1 ) 2 ​ = 3 x + 2 y − 3 x + 2 y 3 x + 2 y + 3 x − 2 y ​ [যোজন-বিয়োজন করে] বা, 2 ( p 2 + 1 ) 4. p .1 = 6 x 4 y \\frac{2\\left(\\mathrm{p}^{2}+1\\right)}{4 . \\mathrm{p} .1}=\\frac{6 x}{4 y} 4. p .1 2 ( p 2 + 1 ) ​ = 4 y 6 x ​ বা, p 2 + 1 p = 3 x y \\frac{p^{2}+1}{p}=\\frac{3 x}{y} p p 2 + 1 ​ = y 3 x ​ বা, p 2 y + y = 3 p x p^{2} y+y=3 p x p 2 y + y = 3 p x ∴ p 2 y − 3 p x + y = 0 \\therefore \\mathrm{p}^{2} \\mathrm{y}-3 \\mathrm{px}+\\mathrm{y}=0 ∴ p 2 y − 3 px + y = 0 (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "গুণোত্তর ধারাটি নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, একটি গুণোত্তর ধারার ১ম n n n সংখ্যক পদের সমষ্টি 2 n + 2 − 4 2^{n+2}-4 2 n + 2 − 4 ∴ \\therefore ∴ ১ম পদ পর্যন্ত সমষ্টি বা ১ম পদ, u 1 = 2 1 + 2 − 4 = 2 3 − 4 = 4 u_{1}=2^{1+2}-4=2^{3}-4=4 u 1 ​ = 2 1 + 2 − 4 = 2 3 − 4 = 4 ২য় পদ পর্যন্ত সমষ্টি, s 2 = 2 2 + 2 − 4 = 2 4 − 4 = 12 \\mathrm{s}_{2}=2^{2+2}-4=2^{4}-4=12 s 2 ​ = 2 2 + 2 − 4 = 2 4 − 4 = 12 ∴ \\therefore ∴ ২য় পদ, u 2 = s 2 − u 1 = 12 − 4 = 8 \\mathrm{u}_{2}=\\mathrm{s}_{2}-\\mathrm{u}_{1}=12-4=8 u 2 ​ = s 2 ​ − u 1 ​ = 12 − 4 = 8 অর্থাৎ, সাধারণ অনুপাত, r = u 2 u 1 = 8 4 = 2 \\mathrm{r}=\\frac{\\mathrm{u}_{2}}{\\mathrm{u}_{1}}=\\frac{8}{4}=2 r = u 1 ​ u 2 ​ ​ = 4 8 ​ = 2 ∴ \\therefore ∴ ৩য় পদ, u 3 = 2 u 2 = 2 × 8 = 16 u_{3}=2 u_{2}=2 \\times 8=16 u 3 ​ = 2 u 2 ​ = 2 × 8 = 16 ∴ \\therefore ∴ নির্ণেয় গুণোত্তর ধারা = 4 + 8 + 16 + … . =4+8+16+\\ldots . = 4 + 8 + 16 + … . . (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "ABC ত্রিভুজের BD মধ্যমা।",
+      "tag": "RB 24,SB 24,RCC 24,DRMC 24,GLHSD 24,BCPSC 24,RCS 24,CTG.B 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "A B = 3 \\mathrm{AB}=3 AB = 3 সে. মি., B C = 4 \\mathrm{BC}=4 BC = 4 সে.মি. ও A C = 6 \\mathrm{AC}=6 AC = 6 সে. মি. হলে △ A B C \\triangle A B C △ A BC এর ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "△ A B C  এর অর্ধপরিসীমা  = A B + B C + A C 2 = 3 + 4 + 6 2 = 6.5  সে.मि.  ∴ △ A B C  এর ক্ষেত্রফল  = 6.5 ( 6.5 − 3 ) ( 6.5 − 4 ) ( 6.5 − 6 ) = 5.33  বর্গ সে.মি. (প্রায়) (Ans.)  \\begin{aligned} \\triangle \\mathrm{ABC} \\text { এর অর্ধপরিসীমা } & =\\frac{\\mathrm{AB}+\\mathrm{BC}+\\mathrm{AC}}{2} \\\\ & =\\frac{3+4+6}{2}=6.5 \\text { সে.मि. } \\\\ \\therefore \\triangle \\mathrm{ABC} \\text { এর ক্ষেত্রফল } & =\\sqrt{6.5(6.5-3)(6.5-4)(6.5-6)} \\\\ & =5.33 \\text { বর্গ সে.মি. (প্রায়) (Ans.) }\\end{aligned} △ ABC   এর   অর্ধপরিসীমা   ∴ △ ABC   এর   ক্ষেত্রফল   ​ = 2 AB + BC + AC ​ = 2 3 + 4 + 6 ​ = 6.5   সে . मि .  = 6.5 ( 6.5 − 3 ) ( 6.5 − 4 ) ( 6.5 − 6 ) ​ = 5.33   বর্গ   সে . মি . ( প্রায় ) (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, A B 2 + B C 2 = 2 ( A D 2 + B D 2 ) \\mathrm{AB}^{2}+\\mathrm{BC}^{2}=2\\left(\\mathrm{AD}^{2}+\\mathrm{BD}^{2}\\right) AB 2 + BC 2 = 2 ( AD 2 + BD 2 )",
+          "explanation": "নিম্নের অনুরুপঃ বিশেষ নির্বচন: △ P Q R \\triangle P Q R △ PQR এর S , Q R S, Q R S , QR এর মধ্যবিন্দু। প্রমাণ করতে হবে যে, P Q 2 + P R 2 = 2 ( P S 2 + Q S 2 ) \\mathrm{PQ}^{2}+\\mathrm{PR}^{2}=2\\left(\\mathrm{PS}^{2}+\\mathrm{QS}^{2}\\right) PQ 2 + PR 2 = 2 ( PS 2 + QS 2 ) অঙ্কন: P P P বিন্দু থেকে QR এর উপর PC লম্ব টানি। প্রমাণ : ধাপ-3. △ P S C − 9 ∠ P C S = 90 ∘ \\triangle \\mathrm{PSC}-9 \\angle \\mathrm{PCS}=90^{\\circ} △ PSC − 9∠ PCS = 9 0 ∘ এবং অতিভুজ PS ∴ P S 2 = P C 2 + S C 2 \\therefore \\mathrm{PS}^{2}=\\mathrm{PC}^{2}+\\mathrm{SC}^{2} ∴ PS 2 = PC 2 + SC 2 [পিথাগোরাসের উপপাদ্য] ধাপ-২. △ P Q C ∽ ∠ P C Q = 90 ∘ \\triangle \\mathrm{PQC} \\backsim \\angle \\mathrm{PCQ}=90^{\\circ} △ PQC ∽ ∠ PCQ = 9 0 ∘ এবং অতিভুজ PQ ∴ P Q 2 = P C 2 + Q C 2 = P C 2 + ( Q S + S C ) 2 = P C 2 + Q S 2 + 2 Q S . S C + S C 2 = P C 2 + S C 2 + Q S 2 + 2 Q S . S C [ পিথাগোরাসের উপপাদ্য ] ∴ P Q 2 = P S 2 + Q S 2 + 2 Q S . S C [ ধাপ ( ১ ) হতে ] \\begin{aligned} \\therefore \\mathrm{PQ}^{2} & =\\mathrm{PC}^{2}+\\mathrm{QC}^{2} \\\\ & =\\mathrm{PC}^{2}+(\\mathrm{QS}+\\mathrm{SC})^{2} \\\\ & =\\mathrm{PC}^{2}+\\mathrm{QS}^{2}+2 \\mathrm{QS} . \\mathrm{SC}+\\mathrm{SC}^{2} \\\\ & =\\mathrm{PC}^{2}+\\mathrm{SC}^{2}+\\mathrm{QS}^{2}+2 \\mathrm{QS} . S C[পিথাগোরাসের ~উপপাদ্য] \\\\ \\therefore \\mathrm{PQ}^{2}=\\mathrm{PS}^{2} & +\\mathrm{QS}^{2}+2 \\mathrm{QS} . S C [ধাপ (১) হতে]\\end{aligned} ∴ PQ 2 ∴ PQ 2 = PS 2 ​ = PC 2 + QC 2 = PC 2 + ( QS + SC ) 2 = PC 2 + QS 2 + 2 QS . SC + SC 2 = PC 2 + SC 2 + QS 2 + 2 QS . SC [ পিথাগোরাসের   উপপাদ্য ] + QS 2 + 2 QS . SC [ ধাপ ( ১ ) হতে ] ​ ধাপ-৩. △ P R C − এ ∠ P C R = 90 ∘ \\triangle \\mathrm{PRC}-এ \\angle \\mathrm{PCR}=90^{\\circ} △ PRC − এ ∠ PCR = 9 0 ∘ এবং অতিভুজ PR ∴ P R 2 = P C 2 + C R 2 = P C 2 + ( S R − S C ) 2 = P C 2 + S R 2 − 2 ⋅ S R ⋅ S C + S C 2 = P C 2 + S C 2 + S R 2 − 2 S R ⋅ S C = P S 2 + S R 2 − 2 S R ⋅ S C \\begin{aligned} \\therefore \\mathrm{PR}^{2} & =\\mathrm{PC}^{2}+\\mathrm{CR}^{2} \\\\ & =\\mathrm{PC}^{2}+(\\mathrm{SR}-\\mathrm{SC})^{2} \\\\ & =\\mathrm{PC}^{2}+\\mathrm{SR}^{2}-2 \\cdot \\mathrm{SR} \\cdot \\mathrm{SC}+\\mathrm{SC}^{2} \\\\ & =\\mathrm{PC}^{2}+\\mathrm{SC}^{2}+\\mathrm{SR}^{2}-2 S R \\cdot S C \\\\ & =\\mathrm{PS}^{2}+\\mathrm{SR}^{2}-2 S R \\cdot S C \\end{aligned} ∴ PR 2 ​ = PC 2 + CR 2 = PC 2 + ( SR − SC ) 2 = PC 2 + SR 2 − 2 ⋅ SR ⋅ SC + SC 2 = PC 2 + SC 2 + SR 2 − 2 SR ⋅ SC = PS 2 + SR 2 − 2 SR ⋅ SC ​ [ধাপ (১) থেকে] P R 2 = P S 2 + Q S 2 − 2 Q S . S C \\mathrm{PR}^{2}=\\mathrm{PS}^{2}+\\mathrm{QS}^{2}-2 \\mathrm{QS} . S C PR 2 = PS 2 + QS 2 − 2 QS . SC [ ∵ S , Q R [\\because \\mathrm{S}, \\mathrm{QR} [ ∵ S , QR এর মধ্যবিন্দু তাই QS = SR] ধাপ-8. ধাপ (২) ও ধাপ (৩) হতে পাই, P Q 2 + P R 2 \\mathrm{PQ}^{2}+\\mathrm{PR}^{2} PQ 2 + PR 2 = P S 2 + Q S 2 + 2 Q S . S C + P S 2 + Q S 2 − 2 Q S . S C = 2 P S 2 + 2 Q S 2 = 2 ( P S 2 + Q S 2 ) ∴ P Q 2 + P R 2 = 2 ( P S 2 + Q S 2 )  (প্রমাণিত)  \\begin{array}{l} =\\mathrm{PS}^{2}+\\mathrm{QS}^{2}+2 \\mathrm{QS} . \\mathrm{SC}+\\mathrm{PS}^{2}+\\mathrm{QS}^{2}-2 \\mathrm{QS} . \\mathrm{SC} \\\\ =2 \\mathrm{PS}^{2}+2 \\mathrm{QS}^{2}=2\\left(\\mathrm{PS}^{2}+\\mathrm{QS}^{2}\\right) \\\\ \\therefore \\mathrm{PQ}^{2}+\\mathrm{PR}^{2}=2\\left(\\mathrm{PS}^{2}+\\mathrm{QS}^{2}\\right) \\text { (প্রমাণিত) } \\end{array} = PS 2 + QS 2 + 2 QS . SC + PS 2 + QS 2 − 2 QS . SC = 2 PS 2 + 2 QS 2 = 2 ( PS 2 + QS 2 ) ∴ PQ 2 + PR 2 = 2 ( PS 2 + QS 2 )  ( প্রমাণিত )  ​"
+        },
+        {
+          "label": "গ",
+          "question": "A B = A C , ∠ A = 90 ∘ \\mathrm{AB}=\\mathrm{AC}, \\angle \\mathrm{A}=90^{\\circ} AB = AC , ∠ A = 9 0 ∘ এবং BC এর উপরস্থ যেকোন বিন্দু P হলে, প্রমাণ কর যে; P B 2 + P C 2 = 2 P A 2 \\mathrm{PB}^{2}+\\mathrm{PC}^{2}=2 \\mathrm{PA}^{2} PB 2 + PC 2 = 2 PA 2",
+          "explanation": "নিম্নের অনুরুপঃ বিশেষ নির্বচন: মনে করি, সমদ্বিবাহু সমকোণী △ A C B  এর \\triangle \\mathrm{ACB}~এ র △ ACB   এর A C = A B \\mathrm{AC}=\\mathrm{AB} AC = AB এবং অতিভুজ BC । D , B C D, B C D , BC এর ওপর যেকোনো বিন্দু। A, D যোগ করি। প্রমাণ করতে হবে যে, D B 2 + D C 2 = 2 D A 2 \\mathrm{DB}^{2}+\\mathrm{DC}^{2}=2 \\mathrm{DA}^{2} DB 2 + DC 2 = 2 DA 2 . অঙ্কন: D বিন্দু থেকে AC এবং AB বাহুর ওপর যথাক্রমে DF এবং DE লম্ব টানি। প্রমাণ : ধাপ যথার্থতা (১) △ A C B   \\triangle \\mathrm{ACB}~ △ ACB   এর, ∠ A = 90 ∘ \\angle \\mathrm{A}=90^{\\circ} ∠ A = 9 0 ∘ এবং ∠ C = ∠ B = 45 ∘ \\angle C=\\angle B=45^{\\circ} ∠ C = ∠ B = 4 5 ∘ এখন, △ D E B  এর , ∠ E = 90 ∘ \\triangle \\mathrm{DEB}~এ র, \\angle \\mathrm{E}=90^{\\circ} △ DEB   এর , ∠ E = 9 0 ∘ [ ∵ A B = A C ] [\\because \\mathrm{AB}=\\mathrm{AC}] [ ∵ AB = AC ] সুতরাং, ∠ E D B = ∠ E B D = 45 ∘ \\angle \\mathrm{EDB}=\\angle \\mathrm{EBD}=45^{\\circ} ∠ EDB = ∠ EBD = 4 5 ∘ [ ∵ D E ⊥ A B ] [\\because \\mathrm{DE} \\perp \\mathrm{AB}] [ ∵ DE ⊥ AB ] ∴ B E = D E \\therefore \\quad B E=D E ∴ BE = D E অনুরূপভাবে প্রমাণ করা যায়, DCF সমকোণী ত্রিভুজে, DF = CF (২) DEB সমককোণী ত্রিভুজে DB অতিভুজ হওয়ায়, D B 2 = D E 2 + B E 2 \\mathrm{DB}^{2}=\\mathrm{DE}^{2}+\\mathrm{BE}^{2} DB 2 = DE 2 + BE 2 [পিথাগোরাসের উপপাদ্য] = D E 2 + D E 2 =\\mathrm{DE}^{2}+\\mathrm{DE}^{2} = DE 2 + DE 2 [ ∵ D E = B E ] [\\because \\mathrm{DE} = \\mathrm{BE}] [ ∵ DE = BE ] ∴ D B 2 = 2 D E 2 \\therefore \\quad \\mathrm{DB}^{2}=2 \\mathrm{DE}^{2} ∴ DB 2 = 2 DE 2 ……….(i) (৩) DCF সমকোণী ত্রিভুজে DC অতিভুজ হওয়ায়, D C 2 = C F 2 + D F 2 = D F 2 + D F 2 ∴ D C 2 = 2 D F 2 … … …  (ii)  \\begin{aligned} & \\mathrm{DC}^{2}=\\mathrm{CF}^{2}+\\mathrm{DF}^{2} \\\\ & =\\mathrm{DF}^{2}+\\mathrm{DF}^{2} \\\\ \\therefore \\quad & \\mathrm{DC}^{2}=2 \\mathrm{DF}^{2} \\ldots \\ldots \\ldots \\text { (ii) } \\end{aligned} ∴ ​ DC 2 = CF 2 + DF 2 = DF 2 + DF 2 DC 2 = 2 DF 2 ………  (ii)  ​ (8) (i) এবং (ii) নং যোগ করে পাই; D B 2 + D C 2 = 2 D E 2 + 2 D F 2 = 2 ( D E 2 + D F 2 ) \\mathrm{DB}^{2}+\\mathrm{DC}^{2}=2 \\mathrm{DE}^{2}+2 \\mathrm{DF}^{2}=2\\left(\\mathrm{DE}^{2}+\\mathrm{DF}^{2}\\right) DB 2 + DC 2 = 2 DE 2 + 2 DF 2 = 2 ( DE 2 + DF 2 ) আবার, AEDF একটি আয়ত। [ ∠ F = ∠ A = ∠ E = ∠ D =  এক সমকোণ]  [\\angle \\mathrm{F}=\\angle \\mathrm{A}=\\angle \\mathrm{E}=\\angle \\mathrm{D}=\\text { এক সমকোণ] } [ ∠ F = ∠ A = ∠ E = ∠ D =   এক   সমকোণ ]  ∴ D F = A E \\therefore \\quad \\mathrm{DF}=\\mathrm{AE} ∴ DF = AE [ ∵ \\because ∵ আয়তক্ষেত্রের বিপরীত বাহুদ্বয় পরস্পর সমান] ∴ D B 2 + D C 2 = 2 ( D E 2 + A E 2 ) \\therefore \\quad \\mathrm{DB}^{2}+\\mathrm{DC}^{2}=2\\left(\\mathrm{DE}^{2}+\\mathrm{AE}^{2}\\right) ∴ DB 2 + DC 2 = 2 ( DE 2 + AE 2 ) (৫) AED সমকোণী ত্রিভুজে DA অতিভুজ হওয়ায়,' D A 2 = D E 2 + A E 2 D A^{2}=D E^{2}+A E^{2} D A 2 = D E 2 + A E 2 [পিথাগোরাসের উপপাদ্য]] (৬) (iii) নং হতে পাই, D B 2 + D C 2 = 2 D A 2  (প্রমাণিত)  \\mathrm{DB}^{2}+\\mathrm{DC}^{2}=2 \\mathrm{DA}^{2} \\text { (প্রমাণিত) } DB 2 + DC 2 = 2 DA 2  ( প্রমাণিত )"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "একটি রেখাংশের দৈর্ঘ্য p=11 সেমি এবং দুইটি কোণ ∠ x = 60 ∘ \\angle x=60^{\\circ} ∠ x = 6 0 ∘ B ∠ y = 45 ∘ \\angle \\mathrm{y}=45^{\\circ} ∠ y = 4 5 ∘",
+      "tag": "RB 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "পেনসিল কম্পাস ব্যবহার করে 75° কোণ আঁক",
+          "explanation": "চিত্রে, ∠ A B C = 75 ∘ \\angle \\mathrm{ABC}=75^{\\circ} ∠ ABC = 7 5 ∘"
+        },
+        {
+          "label": "খ",
+          "question": "কোনো ত্রিভুজের পরিসীমা p এর সমান এবং ভূমি সংলগ্ন কোণদ্বয় ∠ x \\angle \\mathrm{x} ∠ x ও ∠ y \\angle \\mathrm{y} ∠ y হলে ত্রিভুজটি আঁক। [অঙ্কনের চিহ্ন ও রিবরণ আবশ্যক]",
+          "explanation": "মনে করি, একটি ত্রিভুজের পরিসীমা, p = 11 \\mathrm{p}=11 p = 11 সে.সি. এবং ভূমি সংলগ্ন দুইটি কোণ ∠ x = 60 ∘ \\angle \\mathrm{x}=60^{\\circ} ∠ x = 6 0 ∘ ও ∠ y = 45 ∘ \\angle \\mathrm{y}=45^{\\circ} ∠ y = 4 5 ∘ দেওয়া আছে, ত্রিভুজটি আঁকতে হবে। অঙ্কনের বিবরণ: ১. যেকোনো একটি রশ্মি DF থেকে পরিসীমা, p = 11 p=11 p = 11 সে.মি. এর সমান করে DE অংশ কেটে নিই। D ও E বিন্দুতে DE রেখাংশের একই পাশে ∠ x = 60 ∘ \\angle \\mathrm{x}=60^{\\circ} ∠ x = 6 0 ∘ এর সমান ∠ E D L \\angle \\mathrm{EDL} ∠ EDL এবং ∠ y = 45 ∘ \\angle y=45^{\\circ} ∠ y = 4 5 ∘ এর সমান ∠ D E M \\angle D E M ∠ D EM আঁকি। ২. কোণ দুইটির সমদ্বিখণ্ডক DG ও EH আঁকি। ৩. মনে করি, DG ও EH রশ্মিদ্বয় পরস্পরকে A বিন্দুতে ছেদ করে। A বিন্দুতে ∠ A D E \\angle A D E ∠ A D E এর সমান ∠ D A B \\angle D A B ∠ D A B এবং ∠ A E D \\angle A E D ∠ A E D এর সমান ∠ E A C \\angle E A C ∠ E A C আঁকি। 8. AB এবং AC রশ্মিদ্বয় DE রেখাংশকে যথাক্রমে B ও C বিন্দুতে ছেদ করে। তাহলে, △ A B C \\triangle \\mathrm{ABC} △ ABC ই উদ্দিষ্ট ত্রিভুজ।"
+        },
+        {
+          "label": "গ",
+          "question": "কোনো বর্গের পরিসীমা p p p এর সমান হলে বর্গটি অঙ্কন করে এর অন্তবৃত্ত আঁক। [ [অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক]",
+          "explanation": "দেওয়া আছে, p = p= p = বর্গের পরিসীমা = 11 সেমি. বর্গের এক বাহু p 4 \\frac{\\mathrm{p}}{4} 4 p ​ নির্ণয় করা হল। অঙ্কনের বিবরণ: (১) যে কোন রশ্মি AE হতে A B = p 4 A B=\\frac{p}{4} A B = 4 p ​ অংশ কেটে নিই । (২) AB কে বাহু বিবেচনা করে ABCD বৰ্গ আঁকি । (৩) A, C ও B, D যোগ করি। এরা পরস্পর O বিন্দুতে ছেদ করে। (৪) O হতে O G ⊥ C D \\mathrm{OG} \\perp \\mathrm{CD} OG ⊥ CD আঁকি । (৫) OG কে ব্যাসার্ধ ধরে EGF বৃত্ত আঁকি। তাহলে EGF-ই উদ্দিষ্ট বৃত্ত !"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "চিত্রে ○ বৃত্তটির কেন্দ্র।",
+      "tag": "RB 24,BB 22",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "প্রমাণ কর: A E = D E \\mathrm{AE}=\\mathrm{DE} AE = DE .",
+          "explanation": "মনে করি, ০ কেন্দ্রবিশিষ্ট বৃত্তের বহিঃস্থ কোনো বিন্দু ১ থেকে ঐ বৃত্তের উপর PS ও RS দুইটি স্পর্শক টানা হলো। প্রমাণ করতে হবে যে, PS = RS. অঙ্কন: O, R; O, P এবং O, S যোগ করি। প্রমাণ: ধাপ যথার্থতা (১) বৃত্তের P বিন্দুতে SP একটি স্পর্শক এবং OP স্পর্শ বিন্দুগামী ব্যাসার্ধ। সুতরাং OP ⊥ \\perp ⊥ SP অর্থাৎ ∠SPO = এক সমকোণ। (২) আবার, বৃত্তের R বিন্দুতে SR একটি স্পর্শক এবং OR স্পর্শবিন্দুগামী ব্যাসার্ধ। সুতরাং OR ⊥ \\perp ⊥ SR অর্থাৎ ∠SRO = এক সমকোণ। (৩) এখন, ASPO এবং ASRO সমকোণী ত্রিভুজদ্বয়ের মধ্যে OP = OR এবং অতিভুজ OS উভয় ত্রিভুজের সাধারণ বাহু। [একই বৃত্তের ব্যাসার্ধ বলে] ∴ Δ S P O ≅ △ S R O \\therefore \\Delta \\mathrm{SPO} \\cong \\triangle \\mathrm{SRO} ∴ Δ SPO ≅ △ SRO [সমকোণী ত্রিভুজের অতিভুজ-বাহু সর্বসমতা] সুতরাং PS = RS (প্রমাণিত)"
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর: ∠ B A D + ∠ B C D = 180 ∘ \\angle \\mathrm{BAD}+\\angle \\mathrm{BCD}=180^{\\circ} ∠ BAD + ∠ BCD = 18 0 ∘",
+          "explanation": "নিম্নের অনুরূপঃ লক্ষণীয়: P P P এর স্থলে A , R A, R A , R এর স্থলে D D D এবং S S S এর স্থলে E E E বসাতে হবে। মনে করি, M. কেন্দ্র বিশিষ্ট একটি বৃত্তে ABCD চতুর্ভুজটি অন্তর্লিখিত হয়েছে। প্রমাণ করতে হবে যে, ∠ B C D + ∠ B A D = \\angle \\mathrm{BCD}+\\angle \\mathrm{BAD}= ∠ BCD + ∠ BAD = দুই সমকোণ। অঙ্কন : M, B এবং M, D যোগ করি। প্ৰমাণ : ধাপ যথার্থতা (১) একই অধিচাপ BAD এর ওপর দন্ডায়মান কেন্দ্রস্থ প্রবৃদ্ধ ∠ B M D = \\angle \\mathrm{BMD}= ∠ BMD = 2(বৃত্তস্থ ∠ B C D \\angle \\mathrm{BCD} ∠ BCD ) [একই চাপের উপর দন্ডায়মান কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের দ্বিগুণ] অর্থাৎ, প্রবৃদ্ধ ∠ B M D = 2 ∠ B C D \\angle \\mathrm{BMD}=2 \\angle \\mathrm{BCD} ∠ BMD = 2∠ BCD (২) আবার, একই উপচাপ BCD এর ওপর দন্ডায়মান কেন্দ্রস্থ কোণ ∠ B M D = 2 \\angle \\mathrm{BMD}=2 ∠ BMD = 2 (বৃত্তস্থ ∠ B A D \\angle \\mathrm{BAD} ∠ BAD ) ∴ ∠ B M D + \\therefore \\angle \\mathrm{BMD}+ ∴ ∠ BMD + প্রবৃদ্ধ কোণ ∠ B M D = 2 ( ∠ B C D + ∠ B A D ) \\angle \\mathrm{BMD}=2(\\angle \\mathrm{BCD}+\\angle \\mathrm{BAD}) ∠ BMD = 2 ( ∠ BCD + ∠ BAD ) কিন্তু ∠ B M D + \\angle \\mathrm{BMD}+ ∠ BMD + প্রবৃদ্ধ কোণ ∠ B M D = \\angle \\mathrm{BMD}= ∠ BMD = = চার সমকোণ ∴ 2 ( ∠ B C D + ∠ B A D ) = \\therefore 2(\\angle \\mathrm{BCD}+\\angle \\mathrm{BAD})= ∴ 2 ( ∠ BCD + ∠ BAD ) = চার সমকোণ ∴ ∠ B C D + ∠ B A D = \\therefore \\angle \\mathrm{BCD}+\\angle \\mathrm{BAD}= ∴ ∠ BCD + ∠ BAD = দুই সমকোণ (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "প্রমাণ কর যে, OE সরলরেখা স্পর্শ জ্যা AD এর লম্ব-সমদ্বিখন্ডক।",
+          "explanation": "নিম্নের অনুরূপঃ বিশেষ নির্বচন: চিত্রে, ০ কেন্দ্রবিশিষ্ট বৃত্তের বহিঃস্থ কোনো বিন্দু E থেকে অঙ্কিত দুইটি স্পর্শক AE ও DE বৃত্তটিকে A ও D বিন্দুতে স্পর্শ করেছে। A, D যোগ করায় AD স্পর্শ জ্যা পাওয়া গেল। ধরি, OE সরলরেখা AD কে P বিন্দুতে ছেদ করেছে। প্রমাণ করতে হবে যে, OE সরলরেখা স্পর্শ জ্যা AD এর লম্ব সমদ্বিখন্ডক। অঙ্কন: O, A ও O, D যোগ করি । প্ৰমাণ: ধাপ-১. বৃত্তের বহিঃস্থ বিন্দু E থেকে ED এবং EA দুটি স্পর্শক। ∴ \\therefore ∴ ED = EA [ ∴ \\therefore ∴ বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে স্পর্শ বিন্দুদ্বয়ের দূরত্ব সমান] ধাপ-২. এখন, △ODE এবং ΔΟΑΕ-এ, ED = EA OD = OA [একই বৃত্তের ব্যাসার্ধ) এবং OE উভয় ত্রিভুজের সাধারণ বাহু। ∴ △ O D E ≅ △ O A E \\therefore \\triangle \\mathrm{ODE} \\cong \\triangle \\mathrm{OAE} ∴ △ ODE ≅ △ OAE [ত্রিভুজদ্বয়ের তিনটি অনুরূপ বাহু পরস্পর সমান] সুতরাং, ∠ D O E = ∠ A O E \\angle \\mathrm{DOE}=\\angle \\mathrm{AOE} ∠ DOE = ∠ AOE অর্থাৎ, ∠ D O P = ∠ A O P [ ∵ \\angle \\mathrm{DOP}=\\angle \\mathrm{AOP}[\\because ∠ DOP = ∠ AOP [ ∵ OP এবং OE একই রেখা] ধাপ-৩. এখন, △ O D P \\triangle O D P △ O D P এবং △ O A P − এ \\triangle O A P-এ △ O A P − এ , O D = O A \\mathrm{OD}=\\mathrm{OA} OD = OA [একই বৃত্তের ব্যাসার্ধ] OP উভয় ত্রিভুজের সাধারণ বাহু এবং অন্তর্ভুক্ত ∠DOP = অন্তর্ভুক্ত ∠AOP [ধাপ (২) থেকে পাই] ∴ △ O D P ≅ △ O A P \\therefore \\triangle \\mathrm{ODP} \\cong \\triangle \\mathrm{OAP} ∴ △ ODP ≅ △ OAP [উভয় ত্রিভুজের দুটি অনুরূপ বাহু এবং তাদের অন্তর্ভুক্ত কোণদ্বয় সমান] ∴ D P = A P \\therefore \\mathrm{DP}=\\mathrm{AP} ∴ DP = AP ধাপ-৪. আবার, ∠ O P D \\angle \\mathrm{OPD} ∠ OPD ও ∠ O P A \\angle \\mathrm{OPA} ∠ OPA এর প্রত্যেকে রৈখিক যুগল কোণ বলে উভয়েই সমকোণ। ∴ ∠ O P D = ∠ O P A = 1 \\therefore \\angle \\mathrm{OPD}=\\angle \\mathrm{OPA}=1 ∴ ∠ OPD = ∠ OPA = 1 সমকোণ অর্থাৎ, O E ⊥ A D \\mathrm{OE} \\perp \\mathrm{AD} OE ⊥ AD ধাপ-৫. ধাপ(৩) এবং ধাপ(৪) থেকে পাই, D P = A P \\mathrm{DP}=\\mathrm{AP} DP = AP অর্থাৎ P স্পর্শ-জ্যা AD এর মধ্যবিন্দু এবং OE ⊥ \\perp ⊥ স্পর্শ-জ্যা AD. ∴ \\therefore ∴ OE সরলরেখা স্পর্শ-জ্যা AD-এর লম্ব-সমদ্বিখণ্ডক। (প্রমাণিত)"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "চিত্রে, A B C A B C A BC একটি সমকোণী ত্রিভুজ, যার ∠ B = 90 ∘ \\angle B=90^{\\circ} ∠ B = 9 0 ∘",
+      "tag": "RB 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "sin ⁡ ( 90 ∘ − θ ) = 5 13 \\sin \\left(90^{\\circ}-\\theta\\right)=\\frac{5}{13} sin ( 9 0 ∘ − θ ) = 13 5 ​ হলে sin ⁡ θ \\sin \\theta sin θ এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, sin ⁡ ( 90 ∘ − θ ) = 5 13 \\sin \\left(90^{\\circ}-\\theta\\right)=\\frac{5}{13} sin ( 9 0 ∘ − θ ) = 13 5 ​ বা, cos ⁡ θ = .5 13 \\cos \\theta=\\frac{.5}{13} cos θ = 13 .5 ​ বা, 1 − sin ⁡ 2 θ = 5 13 \\sqrt{1-\\sin ^{2} \\theta}=\\frac{5}{13} 1 − sin 2 θ ​ = 13 5 ​ বা, 1 − sin ⁡ 2 θ = 25 169 1-\\sin ^{2} \\theta=\\frac{25}{169} 1 − sin 2 θ = 169 25 ​ বা, sin ⁡ 2 θ = 1 − 25 169 = 144 169 \\sin ^{2} \\theta=1-\\frac{25}{169}=\\frac{144}{169} sin 2 θ = 1 − 169 25 ​ = 169 144 ​ ∴ sin ⁡ θ = 144 169 = 12 13 [ θ \\therefore \\sin \\theta=\\sqrt{\\frac{144}{169}}=\\frac{12}{13}[\\theta ∴ sin θ = 169 144 ​ ​ = 13 12 ​ [ θ সূক্ষ্মকোণ বিবেচনা করে] (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "উদ্দীপকের আলোকে প্রমাণ করো যে,",
+          "explanation": "△ A B C − এ \\triangle \\mathrm{ABC}-এ △ ABC − এ পিথাগোরাসের উপপাদ্য অনুসারে, A B 2 + B C 2 = A C 2 \\mathrm{AB}^{2}+\\mathrm{BC}^{2}=\\mathrm{AC}^{2} AB 2 + BC 2 = AC 2 বা, A B 2 + ( 3 ) 2 = 2 2 \\mathrm{AB}^{2}+(\\sqrt{3})^{2}=2^{2} AB 2 + ( 3 ​ ) 2 = 2 2 বা, A B 2 + 3 = 4 \\mathrm{AB}^{2}+3=4 AB 2 + 3 = 4 বা, A B 2 = 4 − 3 = 1 ∴ A B = 1 \\mathrm{AB}^{2}=4-3=1 \\therefore \\mathrm{AB}=1 AB 2 = 4 − 3 = 1 ∴ AB = 1 উদ্দীপক অনুসারে, cos ⁡ A = A B A C = 1 2 \\cos A=\\frac{A B}{A C}=\\frac{1}{2} cos A = A C A B ​ = 2 1 ​ sin ⁡ A = B C A C = 3 2 tan ⁡ A = B C A B = 3 \\begin{aligned} \\sin A & =\\frac{B C}{A C}=\\frac{\\sqrt{3}}{2} \\\\ \\tan A & =\\frac{B C}{A B}=\\sqrt{3} \\end{aligned} sin A tan A ​ = A C BC ​ = 2 3 ​ ​ = A B BC ​ = 3 ​ ​ এবং cot ⁡ A = 1 3 \\cot A=\\frac{1}{\\sqrt{3}} cot A = 3 ​ 1 ​ বামপক্ষ=   = cos ⁡ A 1 − tan ⁡ A + sin ⁡ A 1 − cot ⁡ A = 1 2 1 − 3 + 3 2 1 − 1 3 = 1 2 ( 1 − 3 ) + 3 2 3 − 1 3 = 1 2 ( 1 − 3 ) + 3 2 × 3 3 − 1 = 1 2 ( 1 − 3 ) + 3 3 − 2 ( 1 − 3 ) = 1 2 ( 1 − 3 ) − 3 2 ( 1 − 3 ) = 1 − 3 2 ( 1 − 3 ) = − 2 2 ( 1 − 3 ) = 1 ( 3 − 1 ) = 1 3 + 1 ) ( 3 − 1 ) ( 3 + 1 ) = 3 + 1 ( 3 ) 2 − 1 2 = 1 2 ( 3 + 1 ) ∴ cos ⁡ A 1 − tan ⁡ A + sin ⁡ A 1 − cot ⁡ A = 1 2 ( 1 + 3 )  (প্রমাণিত)  \\begin{array}{l}\\text { } \\begin{array}{l}=\\frac{\\cos A}{1-\\tan A}+\\frac{\\sin A}{1-\\cot A}=\\frac{\\frac{1}{2}}{1-\\sqrt{3}}+\\frac{\\frac{\\sqrt{3}}{2}}{1-\\frac{1}{\\sqrt{3}}} \\\\ =\\frac{1}{2(1-\\sqrt{3})}+\\frac{\\frac{\\sqrt{3}}{2}}{\\frac{\\sqrt{3}-1}{\\sqrt{3}}}=\\frac{1}{2(1-\\sqrt{3})}+\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{3}}{\\sqrt{3}-1} \\\\ =\\frac{1}{2(1-\\sqrt{3})}+\\frac{\\sqrt{3} \\sqrt{3}}{-2(1-\\sqrt{3})}=\\frac{1}{2(1-\\sqrt{3})}-\\frac{3}{2(1-\\sqrt{3})} \\\\ =\\frac{1-3}{2(1-\\sqrt{3})}=\\frac{-2}{2(1-\\sqrt{3})}=\\frac{1}{(\\sqrt{3}-1)}=\\frac{1 \\sqrt{3}+1)}{(\\sqrt{3}-1)(\\sqrt{3}+1)} \\\\ =\\frac{\\sqrt{3}+1}{(\\sqrt{3})^{2}-1^{2}}=\\frac{1}{2}(\\sqrt{3}+1) \\\\ \\therefore \\frac{\\cos A}{1-\\tan A}+\\frac{\\sin A}{1-\\cot A}=\\frac{1}{2}(1+\\sqrt{3}) \\text { (প্রমাণিত) }\\end{array}\\end{array}   = 1 − t a n A c o s A ​ + 1 − c o t A s i n A ​ = 1 − 3 ​ 2 1 ​ ​ + 1 − 3 ​ 1 ​ 2 3 ​ ​ ​ = 2 ( 1 − 3 ​ ) 1 ​ + 3 ​ 3 ​ − 1 ​ 2 3 ​ ​ ​ = 2 ( 1 − 3 ​ ) 1 ​ + 2 3 ​ ​ × 3 ​ − 1 3 ​ ​ = 2 ( 1 − 3 ​ ) 1 ​ + − 2 ( 1 − 3 ​ ) 3 ​ 3 ​ ​ = 2 ( 1 − 3 ​ ) 1 ​ − 2 ( 1 − 3 ​ ) 3 ​ = 2 ( 1 − 3 ​ ) 1 − 3 ​ = 2 ( 1 − 3 ​ ) − 2 ​ = ( 3 ​ − 1 ) 1 ​ = ( 3 ​ − 1 ) ( 3 ​ + 1 ) 1 3 ​ + 1 ) ​ = ( 3 ​ ) 2 − 1 2 3 ​ + 1 ​ = 2 1 ​ ( 3 ​ + 1 ) ∴ 1 − t a n A c o s A ​ + 1 − c o t A s i n A ​ = 2 1 ​ ( 1 + 3 ​ )  ( প্রমাণিত )  ​ ​"
+        },
+        {
+          "label": "গ",
+          "question": "দেখাও যে, sin ⁡ x = cos ⁡ 3 y \\sin x=\\cos 3 y sin x = cos 3 y",
+          "explanation": "‘খ’ হতে পাই,  cos ⁡ A = 1 2  বা,  cos ⁡ ( x + y ) = 1 2 = cos ⁡ 60 ∘ ∴ x + y = 60 ∘ \\begin{array}{l}\\text { ‘খ' হতে পাই, } \\cos A=\\frac{1}{2} \\\\ \\quad \\text { বা, } \\cos (x+y)=\\frac{1}{2}=\\cos 60^{\\circ} \\\\ \\therefore x+y=60^{\\circ} \\\\ \\end{array}  ‘ খ ’  হতে   পাই ,  cos A = 2 1 ​   বা ,  cos ( x + y ) = 2 1 ​ = cos 6 0 ∘ ∴ x + y = 6 0 ∘ ​ আবার, সমকোণী △ A B C \\triangle \\mathrm{ABC} △ ABC হতে পাই, cos ⁡ C = 3 2 \\cos C=\\frac{\\sqrt{3}}{2} cos C = 2 3 ​ ​ বা, cos ⁡ ( x − y ) = 3 2 = cos ⁡ 30 ∘ ∴ x − y = 30 ∘ … ( i i i ) \\cos (x-y)=\\frac{\\sqrt{3}}{2}=\\cos 30^{\\circ} \\therefore x-y=30^{\\circ} \\ldots(iii) cos ( x − y ) = 2 3 ​ ​ = cos 3 0 ∘ ∴ x − y = 3 0 ∘ … ( iii ) (i) ও (ii) নং সমীকরণ যোগ করে পাই, 2 x = 90 ∘ ∴ x = 45 ∘ 2 \\mathrm{x}=90^{\\circ} \\therefore \\mathrm{x}=45^{\\circ} 2 x = 9 0 ∘ ∴ x = 4 5 ∘ x এর মান (i) নং এ বসিয়ে পাই, 45 ∘ + y = 60 ∘ ∴ y = 15 ∘ 45^{\\circ}+\\mathrm{y}=60^{\\circ} \\therefore \\mathrm{y}=15^{\\circ} 4 5 ∘ + y = 6 0 ∘ ∴ y = 1 5 ∘ এখন, sin ⁡ x = sin ⁡ 45 ∘ = 1 2 \\sin x=\\sin 45^{\\circ}=\\frac{1}{\\sqrt{2}} sin x = sin 4 5 ∘ = 2 ​ 1 ​ এবং cos ⁡ 3 y = cos ⁡ 3.15 ∘ = cos ⁡ 45 ∘ = 1 2 \\cos 3 y=\\cos 3.15^{\\circ}=\\cos 45^{\\circ}=\\frac{1}{\\sqrt{2}} cos 3 y = cos 3.1 5 ∘ = cos 4 5 ∘ = 2 ​ 1 ​ ∴ sin ⁡ x = cos ⁡ 3 y \\therefore \\sin x=\\cos 3 y ∴ sin x = cos 3 y (দেখানো হলো)"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "চিত্রে, EF || BD এবং AC = 16 মিটার।",
+      "tag": "RB 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "cosec ⁡ ∠ A B C \\operatorname{cosec} \\angle A B C cosec ∠ A BC এর মান নির্ণয় কর।",
+          "explanation": "উদ্দীপক অনুসারে, ∠ A B C =  একান্তর  ∠ E A B = 60 ∘ [ ∵ E F ∥ B D ] ∴ cosec ⁡ ∠ A B C = cosec ⁡ 60 ∘ = 2 3  (Ans.)  \\begin{array}{l} \\angle \\mathrm{ABC}=\\text { একান্তর } \\angle \\mathrm{EAB}=60^{\\circ}[\\because \\mathrm{EF} \\| \\mathrm{BD}] \\\\ \\therefore \\operatorname{cosec} \\angle \\mathrm{ABC}=\\operatorname{cosec} 60^{\\circ}=\\frac{2}{\\sqrt{3}} \\text { (Ans.) } \\end{array} ∠ ABC =   একান্তর   ∠ EAB = 6 0 ∘ [ ∵ EF ∥ BD ] ∴ cosec ∠ ABC = cosec 6 0 ∘ = 3 ​ 2 ​  (Ans.)  ​"
+        },
+        {
+          "label": "খ",
+          "question": "△ A B C \\triangle A B C △ A BC এর ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, EF || BD এবং AB ও AD দুইটি ছেদক ∴ ∠ A B C =  একান্তর  ∠ E A B = 60 ∘  এবং  ∠ A D C =  একান্তর  ∠ D A F = 30 ∘ \\begin{array}{l} \\therefore \\angle \\mathrm{ABC}=\\text { একান্তর } \\angle \\mathrm{EAB}=60^{\\circ} \\text { এবং } \\\\ \\angle \\mathrm{ADC}=\\text { একান্তর } \\angle \\mathrm{DAF}=30^{\\circ} \\end{array} ∴ ∠ ABC =   একান্তর   ∠ EAB = 6 0 ∘   এবং   ∠ ADC =   একান্তর   ∠ DAF = 3 0 ∘ ​ সমকোণী △ A B C \\triangle \\mathrm{ABC} △ ABC হতে পাই; B C A C = cot ⁡ ∠ A B C  বা,  B C 16 = cot ⁡ 60 ∘ = 1 3 ∴ B C = 16 3 \\begin{array}{l} \\frac{\\mathrm{BC}}{\\mathrm{AC}}=\\cot \\angle \\mathrm{ABC} \\\\ \\text { বা, } \\frac{\\mathrm{BC}}{16}=\\cot 60^{\\circ}=\\frac{1}{\\sqrt{3}} \\\\ \\therefore \\mathrm{BC}=\\frac{16}{\\sqrt{3}} \\end{array} AC BC ​ = cot ∠ ABC   বা ,  16 BC ​ = cot 6 0 ∘ = 3 ​ 1 ​ ∴ BC = 3 ​ 16 ​ ​ ∴ △ A B C  এর ক্ষেত্রফল  = 1 2 × A C × B C = 1 2 × 16 × 16 3 = 73.9  বর্গ মিটার (প্রায়) (Ans.)  \\begin{aligned} \\therefore \\triangle \\mathrm{ABC} \\text { এর ক্ষেত্রফল } & =\\frac{1}{2} \\times \\mathrm{AC} \\times \\mathrm{BC} \\\\ & =\\frac{1}{2} \\times 16 \\times \\frac{16}{\\sqrt{3}} \\\\ & =73.9 \\text { বর্গ মিটার (প্রায়) (Ans.) } \\end{aligned} ∴ △ ABC   এর   ক্ষেত্রফল   ​ = 2 1 ​ × AC × BC = 2 1 ​ × 16 × 3 ​ 16 ​ = 73.9   বর্গ   মিটার  ( প্রায় ) (Ans.)  ​"
+        },
+        {
+          "label": "গ",
+          "question": "△ A C D \\triangle \\mathrm{ACD} △ ACD এর পরিসীমা নির্ণয় কর।",
+          "explanation": "সমকোণী △ A D C \\triangle \\mathrm{ADC} △ ADC হতে পাই, C D A C = cot ⁡ ∠ A D C = cot ⁡ 30 ∘  বা,  C D 16 = 3 ∴ C D = 16 3 \\begin{array}{l} \\frac{\\mathrm{CD}}{\\mathrm{AC}}=\\cot \\angle \\mathrm{ADC}=\\cot 30^{\\circ} \\\\ \\text { বা, } \\frac{\\mathrm{CD}}{16}=\\sqrt{3} \\\\ \\therefore \\mathrm{CD}=16 \\sqrt{3} \\end{array} AC CD ​ = cot ∠ ADC = cot 3 0 ∘   বা ,  16 CD ​ = 3 ​ ∴ CD = 16 3 ​ ​ আবার, A C A D = sin ⁡ ∠ A D C \\frac{\\mathrm{AC}}{\\mathrm{AD}}=\\sin \\angle \\mathrm{ADC} AD AC ​ = sin ∠ ADC বা, 16 A D = sin ⁡ 30 ∘ \\frac{16}{\\mathrm{AD}}=\\sin 30^{\\circ} AD 16 ​ = sin 3 0 ∘ বা, 16 A D = 1 2 \\frac{16}{\\mathrm{AD}}=\\frac{1}{2} AD 16 ​ = 2 1 ​ ∴ A D = 32 \\therefore \\mathrm{AD}=32 ∴ AD = 32 ∴ △ A C D  এর পরিসীমা  = A C + C D + A D = 16 + 16 3 + 32 = 75.71  মিটার (প্রায়) (Ans.)  \\begin{aligned} \\therefore \\triangle \\mathrm{ACD} \\text { এর পরিসীমা } & =\\mathrm{AC}+\\mathrm{CD}+\\mathrm{AD} \\\\ & =16+16 \\sqrt{3}+32 \\\\ & =75.71 \\text { মিটার (প্রায়) (Ans.) } \\end{aligned} ∴ △ ACD   এর   পরিসীমা   ​ = AC + CD + AD = 16 + 16 3 ​ + 32 = 75.71   মিটার  ( প্রায় ) (Ans.)  ​"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "uddipok": "একটি আয়ত ও একটি রম্বসের পরিসীমা পরস্পর সমান । আয়তক্ষেত্রটির দৈর্ঘ্য প্রস্থের দেড়গুণ এবং পরিসীমা 180 সেমি. ।",
+      "tag": "RB 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "আয়তক্ষেত্রটির ক্ষুদ্রতর বাহুর দৈর্ঘ্য নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, আয়তক্ষেত্রটির দৈর্ঘ্য প্রস্থের দেড়গুণ। ধরি, ক্ষুদ্রতর বাহু বা প্রস্থের দৈর্ঘ্য = x x x সেমি. তাহলে দৈর্ঘ্য = 1.5 x =1.5 \\mathrm{x} = 1.5 x সেমি. শর্তমতে, 2 ( 1.5 x + x ) = 180  বা,  2 × 2.5 x = 180  বা,  5 x = 180 ∴ x = 180 5 = 36 \\begin{array}{l} \\quad 2(1.5 x+x)=180 \\\\ \\text { বা, } 2 \\times 2.5 x=180 \\\\ \\text { বা, } 5 x=180 \\\\ \\therefore x=\\frac{180}{5}=36 \\end{array} 2 ( 1.5 x + x ) = 180   বা ,  2 × 2.5 x = 180   বা ,  5 x = 180 ∴ x = 5 180 ​ = 36 ​ ∴ \\therefore ∴ ক্ষুদ্রতর বাহুর দৈর্ঘ্য = 36 সেমি. (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "রম্বসের বৃহত্তম কর্ণটি 72 সেমি. হলে এর অপর কর্ণের দৈর্ঘ্য নির্ণয় কর।",
+          "explanation": "ধরি, ABCD রম্বসের বৃহত্তম কর্ণ B D = 72 \\mathrm{BD}=72 BD = 72 সেমি. তাহলে, B O = D O = 72 2 = 36 \\mathrm{BO}=\\mathrm{DO}=\\frac{72}{2}=36 BO = DO = 2 72 ​ = 36 সেমি. আবার, ABCD রম্বসের পরিসীমা = 180 =180 = 180 সেমি. ∴ \\therefore ∴ প্রতি বাহুর দৈর্ঘ্য = 180 4 = 45 =\\frac{180}{4}=45 = 4 180 ​ = 45 সেমি. যেহেতু রম্বসের কর্ণ পরস্পর সমকোণে সমদ্বিখণ্ডিত হয়, তাই AOD সমকোণী ত্রিভুজ। পিথাগোরাসের উপপাদ্য অনুসারে, A D 2 = A O 2 + O D 2  বা,  45 2 = A O 2 + 36 2  বা,  A O 2 = 45 2 − 36 2 = 729 ∴ A O = 27 ∴  অপর কর্ণের দৈর্ঘ্য  = 2. A O = 2 × 27 = 54  সেমি (Ans.)  \\begin{array}{l} \\mathrm{AD}^{2}=\\mathrm{AO}^{2}+\\mathrm{OD}^{2} \\\\ \\text { বা, } 45^{2}=\\mathrm{AO}^{2}+36^{2} \\\\ \\text { বা, } \\mathrm{AO}^{2}=45^{2}-36^{2}=729 \\\\ \\therefore \\mathrm{AO}=27 \\\\ \\therefore \\text { অপর কর্ণের দৈর্ঘ্য }=2 . \\mathrm{AO} \\\\ =2 \\times 27 \\\\ =54 \\text { সেমি (Ans.) }\\end{array} AD 2 = AO 2 + OD 2   বা ,  4 5 2 = AO 2 + 3 6 2   বা ,  AO 2 = 4 5 2 − 3 6 2 = 729 ∴ AO = 27 ∴   অপর   কর্ণের   দৈর্ঘ্য   = 2. AO = 2 × 27 = 54   সেমি  (Ans.)  ​"
+        },
+        {
+          "label": "গ",
+          "question": "কোনো সমদ্বিবাহু ত্রিভুজের সমান সমান বাহুর দৈর্ঘ্য ¾ ভূমির অংশ এবং পরিসীমা আয়তটির পরিসীমার অর্ধেক হলে, ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "ধরি, সমদ্বিবাহু ত্রিভুজটির ভূমির দৈর্ঘ্য x সেমি. ∴ \\therefore ∴ সমান সমান বাহুর দৈর্ঘ্য = 3 4 x =\\frac{3}{4} \\mathrm{x} = 4 3 ​ x সেমি. শর্তমতে, 2 × 3 4 x + x = 180 2 2 \\times \\frac{3}{4} x+x=\\frac{180}{2} 2 × 4 3 ​ x + x = 2 180 ​ বা, 3 2 x + x = 90 \\frac{3}{2} x+x=90 2 3 ​ x + x = 90 বা, 5 x 2 = 90 \\frac{5 x}{2}=90 2 5 x ​ = 90 ∴ x = 2 × 90 5 = 36 \\therefore x=\\frac{2 \\times 90}{5}=36 ∴ x = 5 2 × 90 ​ = 36 ∴ \\therefore ∴ ভূমি, b = x = 36 \\mathrm{b}=\\mathrm{x}=36 b = x = 36 সেমি, এবং সমান সমান বাহুর দৈর্ঘ্য, a = 3 4 × 36 = 27 \\mathrm{a}=\\frac{3}{4} \\times 36=27 a = 4 3 ​ × 36 = 27 সেমি. ∴  ক্ষেত্রফল  = b 4 4 a 2 − b 2  বর্গএকক.  = 36 4 4 × 27 2 − 36 2  বর্গসে.মি.  = 9 2916 − 1296  বর্গসে.মি.  = 9 1620  বর্গসে.মি.  = 9 × 18 5 = 362.24  বর্গসে.মি. (প্রায়) (Ans.)  \\begin{aligned} \\therefore \\text { ক্ষেত্রফল } & =\\frac{b}{4} \\sqrt{4 \\mathrm{a}^{2}-\\mathrm{b}^{2}} \\text { বর্গএকক. } \\\\ & =\\frac{36}{4} \\sqrt{4 \\times 27^{2}-36^{2}} \\text { বর্গসে.মি. } \\\\ & =9 \\sqrt{2916-1296} \\text { বর্গসে.মি. } \\\\ & =9 \\sqrt{1620} \\text { বর্গসে.মি. } \\\\ & =9 \\times 18 \\sqrt{5}=362.24 \\text { বর্গসে.মি. (প্রায়) (Ans.) }\\end{aligned} ∴   ক্ষেত্রফল   ​ = 4 b ​ 4 a 2 − b 2 ​   বর্গএকক .  = 4 36 ​ 4 × 2 7 2 − 3 6 2 ​   বর্গসে . মি .  = 9 2916 − 1296 ​   বর্গসে . মি .  = 9 1620 ​   বর্গসে . মি .  = 9 × 18 5 ​ = 362.24   বর্গসে . মি . ( প্রায় ) (Ans.)  ​"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "uddipok": "40 জন শিক্ষাথীর ওজনের (কেজিতে) গণসংখ্যা সারণি নিম্নরূপ: শ্রেণিব্যাপ্তি 30-39 40-49 50-59 60-69 70-79 80-89 গণসংখ্যা 4 5 7 12 8 4",
+      "tag": "RB 24,DIN.B 24,CB 24,SB 24,BB 24,FCC 24,RCPSC 24,RB 23,DB 22,MB 22,CB 22,CB 20,CTG.B 20,BB 20",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "মধ্যক শ্রেণির মধ্যমান নির্ণয় কর।",
+          "explanation": "শ্রেণি ব্যাপ্তি গণসংখ্যা ক্রমযোজিত গণসংখ্যা 30-39 4 4 40-49 5 9 50-59 7 16 60-69 12 28 70-79 8 36 80-89 4 40 মোট , n=40 এখানে, n = 40 \\mathrm{n}=40 n = 40 , যা জোড় সংখ্যা। ∴ n 2 = 40 2 = 20 \\therefore \\frac{\\mathrm{n}}{2}=\\frac{40}{2}=20 ∴ 2 n ​ = 2 40 ​ = 20 সুতরাং মধ্যক (60 - 69) শ্রেণিতে অবস্থিত। ∴ \\therefore ∴ মধ্যক শ্রেণির মধ্যমান = 60 + 69 2 = 64.5 =\\frac{60+69}{2}=64.5 = 2 60 + 69 ​ = 64.5 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "সারণি হতে সংক্ষিপ্ত পদ্ধতিতে গড় নির্ণয় কর।",
+          "explanation": "সংক্ষিপ্ত পদ্ধতিতে গড় নির্ণয়ের সারনি: শ্রেণি ব্যাপ্তি শ্রেণি মধ্যমান x 1 \\mathrm{x_1} x 1 ​ গণসংখ্যা f i \\mathrm{f_i} f i ​ ধাপ বিচ্যুতি u i = x i − a h \\mathrm{u_i=\\frac{x_i-a}{h}} u i ​ = h x i ​ − a ​ f i u i \\mathrm{f_iu_i} f i ​ u i ​ 30-39 34.5 4 -3 -12 40-49 44.5 5 -2 -10 50-59 54.5 7 -1 -7 60-69 64.5 → \\rightarrow → (a) 12 0 0 70-79 74.5 8 1 8 80-89 84.5 4 2 8 n = 40 \\mathrm{n=40} n = 40 ∑ f i u i = − 13 \\mathrm{ \\sum} \\mathrm{f_iu_i} = -13 ∑ f i ​ u i ​ = − 13 ∴  গড়,  x ‾ = a + ∑ f i u i n × h = 64.5 + ( − 13 ) 40 × 10 = 64.5 − 3.25 = 61.25  (Ans.)  \\begin{aligned} \\therefore \\text { গড়, } \\overline{\\mathrm{x}} & =\\mathrm{a}+\\frac{\\sum f_{\\mathrm{i}} \\mathrm{u}_{\\mathrm{i}}}{\\mathrm{n}} \\times \\mathrm{h}=64.5+\\frac{(-13)}{40} \\times 10 \\\\ & =64.5-3.25=61.25 \\text { (Ans.) }\\end{aligned} ∴   গড় ,  x ​ = a + n ∑ f i ​ u i ​ ​ × h = 64.5 + 40 ( − 13 ) ​ × 10 = 64.5 − 3.25 = 61.25  (Ans.)  ​"
+        },
+        {
+          "label": "গ",
+          "question": "সারণি হতে বিবরণসহ উপাত্তের গণসংখ্যা বহুভুজ অঙ্কন কর।",
+          "explanation": "গণসংখ্যা বহুভুজ অঙ্কনের জন্য প্রয়োজনীয় সারণি: শ্রেণি ব্যাপ্তি শ্রেণি মধ্যমান x 1 \\mathrm{x_1} x 1 ​ গণসংখ্যা f i \\mathrm{f_i} f i ​ 30-39 34.5 4 40-49 44.5 5 50-59 54.5 7 60-69 64.5 → \\rightarrow → (a) 12 70-79 74.5 8 80-89 84.5 4 এখন ছক কাগজে x-অক্ষ বরাবর প্রতি 1 ঘরকে শ্রেণি মধ্যবিন্দুর 1 একক ধরে এবং y-অক্ষ বরাবর প্রতি 5 ঘরকে গণসংখ্যার 1 এককধরে গণসংখ্যা বহুভুজ অঙ্কন করা হলো। মূলবিন্দু থেকে 24:5 পর্যন্ত ঘরগুলো আছে বোঝাতে ভাঙা চিহ্ন ব্যবহার করা হয়েছে ।"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "uddipok": "কয়েকজন শিক্ষার্থীর উচ্চতা (সে.মি.) গণসংখ্যা নিবেশন সারণি নিম্নরূপ: উচ্চতা (সে.মি.) 140-149 150-159 160-169 170-179 180-189 গণসংখ্যা 7 15 30 20 16",
+      "tag": "RB 24,RUMC 24",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "",
+          "explanation": "নিম্নের অনুরূপঃ দেওয়া আছে, সর্বোচ্চ মান = 95 =95 = 95 , পরিসর = 64 =64 = 64 আমরা জানি, পরিসর = সর্বোচ্চ মান - সর্বনিম্ন মান + 1 বা, 64 = 95 64=95 64 = 95 - সর্বনিম্ন মান + 1 ∴ \\therefore ∴ সর্বনিম্ন মান = 96 − 64 = 32 =96-64=32 = 96 − 64 = 32 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "",
+          "explanation": "প্রদত্ত সারণি হতে মধ্যক ও প্রচুরক নির্ণয়ের সারণি তৈরি করা হলো- শ্রেণি ব্যাপ্তি গণসংখ্যা ক্রমযোজিত গণসংখ্যা 140-149 7 7 150-159 15 22 160-169 30 52 170-179 20 72 180-189 16 88 n = 88 এখানে, n = 88 ∴ n 2 = 88 2 = 44 \\mathrm{n}=88 \\therefore \\frac{\\mathrm{n}}{2}=\\frac{88}{2}=44 n = 88 ∴ 2 n ​ = 2 88 ​ = 44 অর্থৎ, মধ্যক হলো 44 তম পদের মান। 44 তম পদের অবস্থান হবে (160-169) শ্রেণিতে। ∴ \\therefore ∴ মধ্যক শ্রেণি হলো ( 160 − 169 160-169 160 − 169 )। সুতরাং L = 160 ,   F c = 22 , f m = 30 ,   h = 10 L=160, \\mathrm{~F}_{\\mathrm{c}}=22, \\mathrm{f}_{\\mathrm{m}}=30, \\mathrm{~h}=10 L = 160 ,   F c ​ = 22 , f m ​ = 30 ,   h = 10 ∴  মধ্যক  = L + ( n 2 − F c ) × h f m = 160 + ( 44 − 22 ) × 10 30 = 160 + 22 × 1 3 = 167.33  (Ans.)  \\begin{aligned} \\therefore \\text { মধ্যক } & =\\mathrm{L}+\\left(\\frac{\\mathrm{n}}{2}-\\mathrm{F}_{\\mathrm{c}}\\right) \\times \\frac{\\mathrm{h}}{\\mathrm{f}_{\\mathrm{m}}}=160+(44-22) \\times \\frac{10}{30} \\\\ & =160+22 \\times \\frac{1}{3}=167.33 \\text { (Ans.) } \\end{aligned} ∴   মধ্যক   ​ = L + ( 2 n ​ − F c ​ ) × f m ​ h ​ = 160 + ( 44 − 22 ) × 30 10 ​ = 160 + 22 × 3 1 ​ = 167.33  (Ans.)  ​ প্রদত্ত গণসংখ্যা নিবেশন সারণিতে গণসংখ্যা সর্বাধিক 30 বার আছে ( 160 − 169 160-169 160 − 169 ) শ্রেণিতে। ∴ \\therefore ∴ প্রচুরক শ্রেণি ( 160 − 169 ) (160-169) ( 160 − 169 ) সুতরাং L = 160 , f 1 = 30 − 15 = 15 , f 2 = 30 − 20 = 10 , h = 10 L=160, f_{1}=30-15=15, \\quad f_{2}=30-20=10, h=10 L = 160 , f 1 ​ = 30 − 15 = 15 , f 2 ​ = 30 − 20 = 10 , h = 10 ∴  প্রচুরক  = L + f 1 f 1 + f 2 × h = 160 + 15 15 + 10 × 10 = 160 + 15 25 × 10 = 160 + 6 = 166  (Ans.)  \\begin{aligned} \\therefore \\text { প্রচুরক } & =\\mathrm{L}+\\frac{\\mathrm{f}_{1}}{\\mathrm{f}_{1}+\\mathrm{f}_{2}} \\times \\mathrm{h}=160+\\frac{15}{15+10} \\times 10=160+\\frac{15}{25} \\times 10 \\\\ & =160+6=166 \\text { (Ans.) } \\end{aligned} ∴   প্রচুরক   ​ = L + f 1 ​ + f 2 ​ f 1 ​ ​ × h = 160 + 15 + 10 15 ​ × 10 = 160 + 25 15 ​ × 10 = 160 + 6 = 166  (Ans.)  ​"
+        },
+        {
+          "label": "গ",
+          "question": "",
+          "explanation": "খ' এ প্রাপ্ত সারণি হতে অজিভ রেখা অঙ্কন করা হলো: এখন, x-অক্ষ বরাবর ছক কাগজের প্রতি 1 ঘরকে শ্রেণি ব্যবধানের উচ্চসীমার 2 একক এবং y-অক্ষ বরাবর ছক কাগজের প্রতি 1 ঘরকে ক্রমযোজিত গণসংখ্যার 2 একক ধরে প্রদত্ত উপাত্তের অজিভ রেখা আঁকা হলো। মূলবিন্দু থেকে 139 পর্যন্ত ঘরগুলো আছে বুঝাতে ভাঙা চিহ্ন ব্যবহার করা হয়েছে।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "title": "রংপুর ক্যাডেট কলেজ ২০২৫",
+  "subtitle": "সৃজনশীল প্রশ্ন (7)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "x, y, z একটি বাস্তব রাশি, F ( x , y , z ) = x 3 + y 3 + z 3 − 3 x y z F(x, y, z) = x^3 + y^3 + z^3 - 3xyz F ( x , y , z ) = x 3 + y 3 + z 3 − 3 x yz",
+      "tag": "RCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দেখাও যে, F (x, y, z) একটি চক্রক্রমিক রাশি।",
+          "explanation": "দেওয়া আছে, F ( x , y , z ) = x 3 + y 3 + z 3 − 3 x y z F(x, y, z) = x^3 + y^3 + z^3 - 3xyz F ( x , y , z ) = x 3 + y 3 + z 3 − 3 x yz . প্রদত্ত রাশিটি x, y, z চলকের বহুপদী। F ( y , z , x ) = y 3 + z 3 + x 3 − 3 ⋅ y ⋅ z ⋅ x = x 3 + y 3 + z 3 − 3 x y z F(y, z, x) = y^3 + z^3 + x^3 - 3 \\cdot y \\cdot z \\cdot x = x^3 + y^3 + z^3 - 3xyz F ( y , z , x ) = y 3 + z 3 + x 3 − 3 ⋅ y ⋅ z ⋅ x = x 3 + y 3 + z 3 − 3 x yz F ( z , x , y ) = z 3 + x 3 + y 3 − 3 z x y = x 3 + y 3 + z 3 − 3 x y z F(z, x, y) = z^3 + x^3 + y^3 - 3zxy = x^3 + y^3 + z^3 - 3xyz F ( z , x , y ) = z 3 + x 3 + y 3 − 3 z x y = x 3 + y 3 + z 3 − 3 x yz অর্থাৎ F ( x , y , z ) = F ( y , z , x ) = F ( z , x , y ) F (x, y, z) = F (y, z, x) = F(z, x, y) F ( x , y , z ) = F ( y , z , x ) = F ( z , x , y ) সুতরাং F ( x , y , z ) F (x, y, z) F ( x , y , z ) একটি চক্রক্রমিক রাশি। (দেখানো হলো)"
+        },
+        {
+          "label": "খ",
+          "question": "F(x, y, z) = 0 এবং x + y + z ≠ \\neq  = 0 হলে, দেখাও যে, x 2 ^2 2 +y 2 ^2 2 +z 2 ^2 2 = xy + yz + zx",
+          "explanation": "দেওয়া আছে, F(x, y, z) = x 3 + y 3 + z 3 − 3 x y z x^3 + y^3 + z^3 - 3xyz x 3 + y 3 + z 3 − 3 x yz = ( x + y ) 3 − 3 x y ( x + y ) + z 3 − 3 x y z (x+y)^3-3xy (x + y) + z^3-3xyz ( x + y ) 3 − 3 x y ( x + y ) + z 3 − 3 x yz = ( x + y ) 3 + z 3 − 3 x y ( x + y + z ) (x + y)^3 +z^3-3xy (x + y + z) ( x + y ) 3 + z 3 − 3 x y ( x + y + z ) = ( x + y + z ) { ( x + y ) 2 − ( x + y ) z + z 2 } (x+y+z) \\{(x + y)^2 - (x + y) z+z^2\\} ( x + y + z ) {( x + y ) 2 − ( x + y ) z + z 2 } − 3 x y ( x + y + z ) -3xy (x + y + z) − 3 x y ( x + y + z ) = ( x + y + z ) ( x 2 + 2 x y + y 2 − z x − y z + z 2 − 3 x y ) (x+y+z) (x^2+2xy + y^2-zx-yz+z^2-3xy) ( x + y + z ) ( x 2 + 2 x y + y 2 − z x − yz + z 2 − 3 x y ) = ( x + y + z ) ( x 2 + y 2 + z 2 − x y − y z − z x ) (x+y+z) (x^2+y^2+z^2-xy-yz-zx) ( x + y + z ) ( x 2 + y 2 + z 2 − x y − yz − z x ) প্রশ্নমতে, F (x, y, z) = 0 বা, ( x + y + z ) ( x 2 + y 2 + z 2 − x y − y z − z x ) = 0 (x + y + z) (x^2 + y^2 + z^2-xy-yz-zx) = 0 ( x + y + z ) ( x 2 + y 2 + z 2 − x y − yz − z x ) = 0 বা, x 2 + y 2 + z 2 − x y − y z − z x = 0 [ : x + y + z ≠ 0 ] x^2+y^2+z^2-xy-yz-zx=0[:x+y+z \\neq 0] x 2 + y 2 + z 2 − x y − yz − z x = 0 [ : x + y + z  = 0 ] ∴ x 2 + y 2 + z 2 = x y + y z + z x \\therefore x^2 + y^2 + z^2 = xy + yz + zx ∴ x 2 + y 2 + z 2 = x y + yz + z x (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "x = ( b + c − a ) , y = ( c + a − b ) x = (b + c - a), y = (c + a - b) x = ( b + c − a ) , y = ( c + a − b ) এবং z = ( a + b − c ) z = (a + b - c) z = ( a + b − c ) হলে, দেখাও যে, F ( a , b , c ) : F ( x , y , z ) = 1 : 4 F(a, b, c) : F(x, y, z) = 1 : 4 F ( a , b , c ) : F ( x , y , z ) = 1 : 4",
+          "explanation": "দেওয়া আছে, x = b + c − a x = b+c-a x = b + c − a , y = c + a − b y=c+a-b y = c + a − b এবং z = a + b − c z=a+b-c z = a + b − c 'খ' হতে পাই, F ( x , y , z ) = ( x + y + z ) ( x 2 + y 2 + z 2 − x y − y z − z x ) F(x, y, z) = (x + y + z) (x^{2}+y^{2} +z^{2}-xy-yz-zx) F ( x , y , z ) = ( x + y + z ) ( x 2 + y 2 + z 2 − x y − yz − z x ) = 1 2 ( x + y + z ) ( 2 x 2 + 2 y 2 + 2 z 2 − 2 x y − 2 y z − 2 z x ) =\\frac{1}{2}(x+y+z) (2x^{2}+2y^{2}+2z^{2}-2xy-2yz-2zx) = 2 1 ​ ( x + y + z ) ( 2 x 2 + 2 y 2 + 2 z 2 − 2 x y − 2 yz − 2 z x ) = 1 2 ( x + y + z ) { ( x 2 − 2 x y + y 2 ) + ( y 2 − 2 y z + z 2 ) + ( z 2 − 2 z x + x 2 ) } =\\frac{1}{2}(x+y+z) \\{(x^{2}-2xy+y^{2})+(y^{2}-2yz+z^{2})+(z^{2}-2zx+x^{2})\\} = 2 1 ​ ( x + y + z ) {( x 2 − 2 x y + y 2 ) + ( y 2 − 2 yz + z 2 ) + ( z 2 − 2 z x + x 2 )} = 1 2 ( x + y + z ) { ( x − y ) 2 + ( y − z ) 2 + ( z − x ) 2 } =\\frac{1}{2}(x+y+z) \\{(x - y)^{2}+(y-z)^{2} + (z-x)^{2}\\} = 2 1 ​ ( x + y + z ) {( x − y ) 2 + ( y − z ) 2 + ( z − x ) 2 } = 1 2 ( b + c − a + c + a − b + a + b − c ) { ( b + c − a − c − a + b ) 2 =\\frac{1}{2}(b+c-a+c+a-b+a+b-c) \\{(b+c-a-c-a+b)^{2} = 2 1 ​ ( b + c − a + c + a − b + a + b − c ) {( b + c − a − c − a + b ) 2 + ( c + a − b − a − b + c ) 2 + ( a + b − c − b − c + a ) 2 } +(c+a-b-a-b+c)^{2}+(a+b-c-b-c+a)^{2}\\} + ( c + a − b − a − b + c ) 2 + ( a + b − c − b − c + a ) 2 } [x, y, z এর মান বসিয়ে।] = 1 2 ( a + b + c ) { ( 2 b − 2 a ) 2 + ( 2 c − 2 b ) 2 + ( 2 a − 2 c ) 2 } =\\frac{1}{2}(a+b+c) \\{(2b-2a)^{2} + (2c-2b)^{2} + (2a-2c)^{2}\\} = 2 1 ​ ( a + b + c ) {( 2 b − 2 a ) 2 + ( 2 c − 2 b ) 2 + ( 2 a − 2 c ) 2 } = 1 2 ( a + b + c ) { 4 ( a − b ) 2 + 4 ( b − c ) 2 + 4 ( c − a ) 2 } =\\frac{1}{2}(a+b+c) \\{4(a-b)^{2} + 4(b - c)^{2} + 4 (c-a)^{2}\\} = 2 1 ​ ( a + b + c ) { 4 ( a − b ) 2 + 4 ( b − c ) 2 + 4 ( c − a ) 2 } ∴ ( q − p ) 2 = ( p − q ) 2 \\therefore (q-p)^{2} = (p-q)^{2} ∴ ( q − p ) 2 = ( p − q ) 2 = 4. 1 2 ( a + b + c ) { ( a − b ) 2 + ( b − c ) 2 + ( c − a ) 2 } =4.\\frac{1}{2}(a+b+c) \\{(a-b)^{2} + (b - c)^{2} + (c-a)^{2}\\} = 4. 2 1 ​ ( a + b + c ) {( a − b ) 2 + ( b − c ) 2 + ( c − a ) 2 } = 4 ( a 3 + b 3 + c 3 − 3 a b c ) = 4(a^{3}+b^{3} + c^{3}-3abc) = 4 ( a 3 + b 3 + c 3 − 3 ab c ) [ 1 2 ( a + b + c ) { ( a − b ) 2 + ( b − c ) 2 + ( c − a ) 2 } = a 3 + b 3 + c 3 − 3 a b c ] [\\frac{1}{2}(a+b+c)\\{(a-b)^{2}+(b-c)^{2}+(c-a)^{2}\\}=a^{3}+b^{3}+c^{3}-3abc] [ 2 1 ​ ( a + b + c ) {( a − b ) 2 + ( b − c ) 2 + ( c − a ) 2 } = a 3 + b 3 + c 3 − 3 ab c ] = 4. F ( a , b , c ) = 4. F(a, b, c) = 4. F ( a , b , c ) সুতরাং F ( x , y , z ) = 4 F ( a , b , c ) F (x, y, z) = 4 F(a, b, c) F ( x , y , z ) = 4 F ( a , b , c ) বা, F ( x , y , z ) F ( a , b , c ) = 4 \\frac{F(x, y, z)}{F (a, b, c)} = 4 F ( a , b , c ) F ( x , y , z ) ​ = 4 বা, F ( a , b , c ) F ( x , y , z ) = 1 4 \\frac{F (a, b, c)}{F(x,y,z)} = \\frac{1}{4} F ( x , y , z ) F ( a , b , c ) ​ = 4 1 ​ [বিপরীতকরণ করে।] ∴ F ( a , b , c ) : F ( x , y , z ) = 1 : 4 \\therefore F (a, b, c): F (x, y, z) = 1:4 ∴ F ( a , b , c ) : F ( x , y , z ) = 1 : 4 (দেখানো হলো)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "( 3 x + 1 ) − 1 + ( 3 x + 1 ) − 2 + ( 3 x + 1 ) − 3 + . . . . . . . (3x + 1)^{-1} + (3x + 1)^{-2} + (3x + 1)^{-3} + ....... ( 3 x + 1 ) − 1 + ( 3 x + 1 ) − 2 + ( 3 x + 1 ) − 3 + ....... একটি অনন্ত গুণোত্তর ধারা।",
+      "tag": "RCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "1 + 1 3 + 1 3 + 1 3 3 + . . . . . . . 1 + \\frac{1}{\\sqrt{3}} + \\frac{1}{3} + \\frac{1}{3\\sqrt{3}} + ....... 1 + 3 ​ 1 ​ + 3 1 ​ + 3 3 ​ 1 ​ + ....... ধারাটির অসীমতক সমষ্টি (যদি বিদ্যমান থাকে) নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "x = 2 3 x = \\frac{2}{3} x = 3 2 ​ হলে, ধারাটির প্রথম 7 পদের সমষ্টি নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "x এর উপর কী কী শর্ত আরোপ করলে অসীম ধারাটির (অসীমতক) সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "8.2 x y = 4 y 8.2^{xy} = 4^y 8. 2 x y = 4 y এবং 9 x .3 x y = 3 − 3 9^x . 3^{xy} = 3^{-3} 9 x . 3 x y = 3 − 3 দুইটি সূচকীয় সমীকরণ।",
+      "tag": "RCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "১ম সমীকরণ থেকে xy এর মান নির্ণয় কর।",
+          "explanation": "১ম সমীকরণ, 8.2 x y = 4 y 8.2^{xy} = 4^y 8. 2 x y = 4 y বা, 2 3 ⋅ 2 x y = ( 2 2 ) y 2^3 \\cdot 2^{xy} = (2^2)^y 2 3 ⋅ 2 x y = ( 2 2 ) y বা, 2 3 + x y = 2 2 y 2^{3+xy} = 2^{2y} 2 3 + x y = 2 2 y বা, 3 + x y = 2 y 3+xy = 2y 3 + x y = 2 y ∴ x y = 2 y − 3 \\therefore xy = 2y-3 ∴ x y = 2 y − 3 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, x = − y x = -y x = − y .",
+          "explanation": "দেওয়া আছে, 8 ⋅ 2 x y = 4 y 8 \\cdot 2^{xy} = 4^y 8 ⋅ 2 x y = 4 y ... ... ... (i) এবং 9 y ⋅ 3 x y = 3 − 3 9^y \\cdot 3^{xy} = 3^{-3} 9 y ⋅ 3 x y = 3 − 3 ... ... ... (ii) (i) থেকে পাই, x y = 2 y − 3 xy = 2y - 3 x y = 2 y − 3 ('ক' হতে প্রাপ্ত) বা, x y + 3 = 2 y xy + 3 = 2y x y + 3 = 2 y ... ... ... (iii) (ii)-থেকে পাই, ( 3 2 ) y ⋅ 3 x y = 3 − 3 (3^2)^y \\cdot 3^{xy} = 3^{-3} ( 3 2 ) y ⋅ 3 x y = 3 − 3 বা, 3 2 y + x y = 3 − 3 3^{2y + xy} = 3^{-3} 3 2 y + x y = 3 − 3 বা, 2 y + x y = − 3 2y + xy = -3 2 y + x y = − 3 ... ... ... (iv) (iii) থেকে (iv) বিয়োগ করে পাই, 3 − ( − 3 ) = 2 y − ( 2 y ) 3 - (-3) = 2y - (2y) 3 − ( − 3 ) = 2 y − ( 2 y ) বা, 6 = 0 6 = 0 6 = 0 এখানে ভুল আছে। প্রকৃত বিয়োগফল হবে: ( x y + 3 ) − ( 2 y + x y ) = 2 y − ( − 3 ) (xy + 3) - (2y + xy) = 2y - (-3) ( x y + 3 ) − ( 2 y + x y ) = 2 y − ( − 3 ) x y + 3 − 2 y − x y = 2 y + 3 xy + 3 - 2y - xy = 2y + 3 x y + 3 − 2 y − x y = 2 y + 3 3 − 2 y = 2 y + 3 3 - 2y = 2y + 3 3 − 2 y = 2 y + 3 − 2 y − 2 y = 3 − 3 -2y - 2y = 3 - 3 − 2 y − 2 y = 3 − 3 − 4 y = 0 -4y = 0 − 4 y = 0 y = 0 y = 0 y = 0 যদি প্রদত্ত সমাধানে যে ভুল আছে তা সংশোধন না করে হুবহু প্রতিরূপ করা হয়, তবে: (iii) থেকে (iv) বিয়োগ করে পাই, 3 − 2 x = 2 y + 3 3 - 2x = 2y + 3 3 − 2 x = 2 y + 3 বা, − x = y -x = y − x = y ∴ x = − y \\therefore x = -y ∴ x = − y (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "সমীকরণ দুইটি সমাধান কর।",
+          "explanation": "'ক' হতে পাই, x y = 2 y − 3 … (i) xy = 2y -3 \\quad \\dots \\quad \\text{(i)} x y = 2 y − 3 … (i) 'খ' হতে পাই, x = − y … (ii) x=-y \\quad \\dots \\quad \\text{(ii)} x = − y … (ii) (i) নং সমীকরণে x = − y x =- y x = − y বসিয়ে পাই, − y ⋅ y = 2 y − 3 - y \\cdot y = 2y -3 − y ⋅ y = 2 y − 3 বা, − y 2 − 2 y + 3 = 0 - y^2 - 2y + 3 = 0 − y 2 − 2 y + 3 = 0 বা, y 2 + 2 y − 3 = 0 y^2 + 2y - 3 = 0 y 2 + 2 y − 3 = 0 বা, y 2 + 3 y − y − 3 = 0 y^2 + 3y - y - 3 = 0 y 2 + 3 y − y − 3 = 0 বা, y ( y + 3 ) − 1 ( y + 3 ) = 0 y(y + 3) - 1(y + 3) = 0 y ( y + 3 ) − 1 ( y + 3 ) = 0 ∴ ( y + 3 ) ( y − 1 ) = 0 \\therefore (y+3) (y-1)=0 ∴ ( y + 3 ) ( y − 1 ) = 0 হয়, y + 3 = 0 y+3=0 y + 3 = 0 অথবা, y − 1 = 0 y - 1 = 0 y − 1 = 0 ∴ y = − 3 \\therefore y=-3 ∴ y = − 3 ∴ y = 1 \\therefore y=1 ∴ y = 1 y y y এর মান (ii) নং এ বসিয়ে পাই, y = − 3 y=-3 y = − 3 হলে; x = − ( − 3 ) = 3 x=-(-3)=3 x = − ( − 3 ) = 3 y = 1 y = 1 y = 1 হলে, x = − 1 x = -1 x = − 1 ∴ \\therefore ∴ নির্ণেয় সমাধান ( x , y ) = ( − 1 , 1 ) , ( 3 , − 3 ) (x, y) = (-1, 1), (3, -3) ( x , y ) = ( − 1 , 1 ) , ( 3 , − 3 ) (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "xy সমতলে A ( 2 , 2 ) , B ( − 2 , 2 ) , C ( 2 , − 2 ) A(2, 2), B(-2, 2), C(2, -2) A ( 2 , 2 ) , B ( − 2 , 2 ) , C ( 2 , − 2 ) ও D ( k , − 3 ) D(k, -3) D ( k , − 3 ) বিন্দুগুলো ঘড়ির কাঁটার বিপরীত দিকে আবর্তিত।",
+      "tag": "RCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "2 ঢালবিশিষ্ট এবং ( 2 , − 1 ) (2, -1) ( 2 , − 1 ) বিন্দুগামী সরলরেখার সমীকরণ নির্ণয় কর।",
+          "explanation": "2 ঢালবিশিষ্ট এবং ( 2 , − 1 ) (2,-1) ( 2 , − 1 ) বিন্দুগামী সরলরেখার সমীকরণ, y − ( − 1 ) = 2 ( x − 2 ) y - (-1) = 2(x - 2) y − ( − 1 ) = 2 ( x − 2 ) বা, y + 1 = 2 x − 4 y+1 = 2x - 4 y + 1 = 2 x − 4 বা, 2 x − 4 − y − 1 = 0 2x - 4 - y - 1 = 0 2 x − 4 − y − 1 = 0 ∴ 2 x − y − 5 = 0 \\therefore 2x - y - 5 = 0 ∴ 2 x − y − 5 = 0 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "ABC ত্রিভুজের প্রকৃতি নির্ণয় কর।",
+          "explanation": "A(2, 2), B(-2, 2), C(2, -2) ও D(k, -3) বিন্দু চারটি দ্বারা গঠিত চতুর্ভুজের ক্ষেত্রফল = 1 2 ∣ 2 − 2 2 k 2 2 2 − 2 − 3 2 ∣ বর্গ একক = \\frac{1}{2} \\begin{vmatrix} 2 & -2 & 2 & k & 2 \\\\ 2 & 2 & -2 & -3 & 2 \\end{vmatrix} \\text{বর্গ একক} = 2 1 ​ ​ 2 2 ​ − 2 2 ​ 2 − 2 ​ k − 3 ​ 2 2 ​ ​ বর্গ   একক = 1 2 ∣ 4 + 4 − 6 + 2 k + 4 − 4 + 2 k + 6 ∣ বর্গ একক = \\frac{1}{2} |4+4-6+2k+4-4+2k+6| \\text{বর্গ একক} = 2 1 ​ ∣4 + 4 − 6 + 2 k + 4 − 4 + 2 k + 6∣ বর্গ   একক = 1 2 ( 8 + 4 k ) বর্গ একক = \\frac{1}{2} (8 + 4k) \\text{বর্গ একক} = 2 1 ​ ( 8 + 4 k ) বর্গ   একক শর্তমতে, 1 2 ( 8 + 4 k ) = 24 \\frac{1}{2} (8 + 4k) = 24 2 1 ​ ( 8 + 4 k ) = 24 বা, ( 8 + 4 k ) = 48 (8 + 4k) = 48 ( 8 + 4 k ) = 48 বা, 4 k = 48 − 8 4k = 48-8 4 k = 48 − 8 বা, 4 k = 40 4k = 40 4 k = 40 বা, k = 40 4 ∴ k = 10 k = \\frac{40}{4} \\therefore k = 10 k = 4 40 ​ ∴ k = 10 (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "ABCD চতুর্ভুজের ক্ষেত্রফল 24 বর্গএকক হলে, k এর মান নির্ণয় কর।",
+          "explanation": "A(2, 2), B(-2, 2), C(2, -2) ও D(k, -3) বিন্দু চারটি দ্বারা গঠিত চতুর্ভুজের ক্ষেত্রফল = 1 2 ∣ 2 − 2 2 k 2 2 2 − 2 − 3 2 ∣ বর্গ একক = \\frac{1}{2} \\begin{vmatrix} 2 & -2 & 2 & k & 2 \\\\ 2 & 2 & -2 & -3 & 2 \\end{vmatrix} \\text{বর্গ একক} = 2 1 ​ ​ 2 2 ​ − 2 2 ​ 2 − 2 ​ k − 3 ​ 2 2 ​ ​ বর্গ   একক = 1 2 ∣ 4 + 4 − 6 + 2 k + 4 − 4 + 2 k + 6 ∣ বর্গ একক = \\frac{1}{2} |4+4-6+2k+4-4+2k+6| \\text{বর্গ একক} = 2 1 ​ ∣4 + 4 − 6 + 2 k + 4 − 4 + 2 k + 6∣ বর্গ   একক = 1 2 ( 8 + 4 k ) বর্গ একক = \\frac{1}{2} (8 + 4k) \\text{বর্গ একক} = 2 1 ​ ( 8 + 4 k ) বর্গ   একক শর্তমতে, 1 2 ( 8 + 4 k ) = 24 \\frac{1}{2} (8 + 4k) = 24 2 1 ​ ( 8 + 4 k ) = 24 বা, ( 8 + 4 k ) = 48 (8 + 4k) = 48 ( 8 + 4 k ) = 48 বা, 4 k = 48 − 8 4k = 48-8 4 k = 48 − 8 বা, 4 k = 40 4k = 40 4 k = 40 বা, k = 40 4 ∴ k = 10 k = \\frac{40}{4} \\therefore k = 10 k = 4 40 ​ ∴ k = 10 (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "ABC ত্রিভুজের AB ও AC বাহুর মধ্যবিন্দু যথাক্রমে D ও E",
+      "tag": "RCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দেখাও যে, a ‾ \\underline{a} a ​ ও b ‾ \\underline{b} b ​ প্রত্যেকে অশূন্য ভেক্টর হলে, a ‾ = m b ‾ \\underline{a} = m\\underline{b} a ​ = m b ​ হতে পারে কেবলমাত্র যদি a ‾ \\underline{a} a ​ b ‾ \\underline{b} b ​ এর সমান্তরাল হয়।",
+          "explanation": "দেওয়া আছে, a ‾ \\underline{a} a ​ ও b ‾ \\underline{b} b ​ প্রত্যেকে অশূন্য ভেক্টর। দেখাতে হবে যে, a ‾ = m b ‾ \\underline{a} = m\\underline{b} a ​ = m b ​ হতে পারে কেবলমাত্র যদি a ‾ \\underline{a} a ​ , b ‾ \\underline{b} b ​ এর সমান্তরাল হয়। মনে করি, a ‾ = m b ‾ \\underline{a}=m\\underline{b} a ​ = m b ​ । তাহলে a ‾ \\underline{a} a ​ ও b ‾ \\underline{b} b ​ কে সমান্তরাল দেখানোই যথেষ্ট হবে। a ‾ = m b ‾ \\underline{a} = m\\underline{b} a ​ = m b ​ হওয়ায় a ‾ \\underline{a} a ​ ভেক্টরটি b ‾ \\underline{b} b ​ এর স্কেলার গুণিতক। সুতরাং a ‾ \\underline{a} a ​ এর দিক ও b ‾ \\underline{b} b ​ এর দিক সমমুখী হবে যদি m > 0 m > 0 m > 0 হয় এবং বিপরীতমুখী হবে যদি m < 0 m < 0 m < 0 হয়। এখানে m ≠ 0 m \\neq 0 m  = 0 কারণ m = 0 m = 0 m = 0 হলে a ‾ = 0 \\underline{a} = 0 a ​ = 0 হবে যা অসম্ভব কেননা a ‾ \\underline{a} a ​ একটি অশূন্য ভেক্টর। a ‾ \\underline{a} a ​ ও b ‾ \\underline{b} b ​ এর দিক যদি একই হয় তাহলে তারা সদৃশ সমান্তরাল আর যদি বিপরীত হয় তাহলে তারা বিসদৃশ সমান্তরাল হবে। সুতরাং উভয়ক্ষেত্রেই a ‾ \\underline{a} a ​ , b ‾ \\underline{b} b ​ এর সমান্তরাল। (দেখানো হলো)"
+        },
+        {
+          "label": "খ",
+          "question": "ভেক্টর পদ্ধতিতে প্রমাণ কর যে, D E ∥ B C DE \\parallel BC D E ∥ BC এবং 2 D E = B C 2DE = BC 2 D E = BC",
+          "explanation": "মনে করি, ABCP ট্রাপিজিয়ামের A P ∥ B C AP \\parallel BC A P ∥ BC এবং AC ও BP কর্ণদ্বয়ের মধ্যবিন্দু M ও E। M, E যোগ করি। প্রমাণ করতে হবে যে, M E = 1 2 ( B C − A P ) ME = \\frac{1}{2}(BC - AP) ME = 2 1 ​ ( BC − A P ) এবং M E ∥ A P ∥ B C ME \\parallel AP \\parallel BC ME ∥ A P ∥ BC . প্রমাণ: মনে করি, কোনো ভেক্টর মূলবিন্দুর সাপেক্ষে B , C , P , A B, C, P, A B , C , P , A এর অবস্থান ভেক্টর যথাক্রমে b ⃗ , c ⃗ , p ⃗ , a ⃗ \\vec{b}, \\vec{c}, \\vec{p}, \\vec{a} b , c , p ​ , a . তাহলে, B C ⃗ = c ⃗ − b ⃗ \\vec{BC} = \\vec{c} - \\vec{b} BC = c − b এবং P A ⃗ = a ⃗ − p ⃗ \\vec{PA} = \\vec{a} - \\vec{p} P A = a − p ​ ∴ M \\therefore M ∴ M বিন্দুর অবস্থান ভেক্টর = 1 2 ( b ⃗ + p ⃗ ) = \\frac{1}{2}(\\vec{b} + \\vec{p}) = 2 1 ​ ( b + p ​ ) [: M , B P M, BP M , BP এর মধ্যবিন্দু] এবং E E E বিন্দুর অবস্থান ভেক্টর = 1 2 ( c ⃗ + a ⃗ ) = \\frac{1}{2}(\\vec{c} + \\vec{a}) = 2 1 ​ ( c + a ) [: E , C A E, CA E , C A এর মধ্যবিন্দু] ∴ M E ⃗ = 1 2 ( c ⃗ + a ⃗ ) − 1 2 ( b ⃗ + p ⃗ ) = 1 2 ( c ⃗ + a ⃗ − b ⃗ − p ⃗ ) \\therefore \\vec{ME} = \\frac{1}{2}(\\vec{c} + \\vec{a}) - \\frac{1}{2}(\\vec{b} + \\vec{p}) = \\frac{1}{2}(\\vec{c} + \\vec{a} - \\vec{b} - \\vec{p}) ∴ ME = 2 1 ​ ( c + a ) − 2 1 ​ ( b + p ​ ) = 2 1 ​ ( c + a − b − p ​ ) = 1 2 { ( c ⃗ − b ⃗ ) − ( p ⃗ − a ⃗ ) } = 1 2 ( B C ⃗ − A P ⃗ ) = \\frac{1}{2}\\{(\\vec{c} - \\vec{b}) - (\\vec{p} - \\vec{a})\\} = \\frac{1}{2}(\\vec{BC} - \\vec{AP}) = 2 1 ​ {( c − b ) − ( p ​ − a )} = 2 1 ​ ( BC − A P ) A P ∥ B C AP \\parallel BC A P ∥ BC হওয়ায় ( B C ⃗ − A P ⃗ ) (\\vec{BC} - \\vec{AP}) ( BC − A P ) ভেক্টরটি B C ⃗ \\vec{BC} BC ও A P ⃗ \\vec{AP} A P ভেক্টরের সমান্তরাল হবে, তাহলে M E ME ME ভেক্টরটিও B C ⃗ \\vec{BC} BC ও A P ⃗ \\vec{AP} A P এর সমান্তরাল হবে। কারণ M E ⃗ = 1 2 ( B C ⃗ − A P ⃗ ) \\vec{ME} = \\frac{1}{2}(\\vec{BC} - \\vec{AP}) ME = 2 1 ​ ( BC − A P ) ∴ ∣ M E ⃗ ∣ = 1 2 ∣ B C ⃗ − A P ⃗ ∣ \\therefore |\\vec{ME}| = \\frac{1}{2}|\\vec{BC} - \\vec{AP}| ∴ ∣ ME ∣ = 2 1 ​ ∣ BC − A P ∣ ∴ M E = 1 2 ( B C − A P ) \\therefore ME = \\frac{1}{2}(BC - AP) ∴ ME = 2 1 ​ ( BC − A P ) অর্থাৎ M E ∥ A P ∥ B C ME \\parallel AP \\parallel BC ME ∥ A P ∥ BC এবং M E = 1 2 ( B C − A P ) ME = \\frac{1}{2}(BC - AP) ME = 2 1 ​ ( BC − A P ) (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "যদি P C ⊥ B C PC \\perp BC PC ⊥ BC , A P ∥ B C AP \\parallel BC A P ∥ BC অঙ্কন করা হয় এবং M ও E যথাক্রমে ABCP ট্রাপিজিয়ামের কর্ণদ্বয়ের মধ্যবিন্দু হয়, তবে ভেক্টর পদ্ধতিতে প্রমাণ কর যে, M E ∥ A P ∥ B C ME \\parallel AP \\parallel BC ME ∥ A P ∥ BC এবং M E = 1 2 ( B C − A P ) ME = \\frac{1}{2}(BC - AP) ME = 2 1 ​ ( BC − A P )",
+          "explanation": "মনে করি, ABCP ট্রাপিজিয়ামের A P ∥ B C AP \\parallel BC A P ∥ BC এবং AC ও BP কর্ণদ্বয়ের মধ্যবিন্দু M ও E। M, E যোগ করি। প্রমাণ করতে হবে যে, M E = 1 2 ( B C − A P ) ME = \\frac{1}{2}(BC - AP) ME = 2 1 ​ ( BC − A P ) এবং M E ∥ A P ∥ B C ME \\parallel AP \\parallel BC ME ∥ A P ∥ BC . প্রমাণ: মনে করি, কোনো ভেক্টর মূলবিন্দুর সাপেক্ষে B , C , P , A B, C, P, A B , C , P , A এর অবস্থান ভেক্টর যথাক্রমে b ⃗ , c ⃗ , p ⃗ , a ⃗ \\vec{b}, \\vec{c}, \\vec{p}, \\vec{a} b , c , p ​ , a . তাহলে, B C ⃗ = c ⃗ − b ⃗ \\vec{BC} = \\vec{c} - \\vec{b} BC = c − b এবং P A ⃗ = a ⃗ − p ⃗ \\vec{PA} = \\vec{a} - \\vec{p} P A = a − p ​ ∴ M \\therefore M ∴ M বিন্দুর অবস্থান ভেক্টর = 1 2 ( b ⃗ + p ⃗ ) = \\frac{1}{2}(\\vec{b} + \\vec{p}) = 2 1 ​ ( b + p ​ ) [: M , B P M, BP M , BP এর মধ্যবিন্দু] এবং E E E বিন্দুর অবস্থান ভেক্টর = 1 2 ( c ⃗ + a ⃗ ) = \\frac{1}{2}(\\vec{c} + \\vec{a}) = 2 1 ​ ( c + a ) [: E , C A E, CA E , C A এর মধ্যবিন্দু] ∴ M E ⃗ = 1 2 ( c ⃗ + a ⃗ ) − 1 2 ( b ⃗ + p ⃗ ) = 1 2 ( c ⃗ + a ⃗ − b ⃗ − p ⃗ ) \\therefore \\vec{ME} = \\frac{1}{2}(\\vec{c} + \\vec{a}) - \\frac{1}{2}(\\vec{b} + \\vec{p}) = \\frac{1}{2}(\\vec{c} + \\vec{a} - \\vec{b} - \\vec{p}) ∴ ME = 2 1 ​ ( c + a ) − 2 1 ​ ( b + p ​ ) = 2 1 ​ ( c + a − b − p ​ ) = 1 2 { ( c ⃗ − b ⃗ ) − ( p ⃗ − a ⃗ ) } = 1 2 ( B C ⃗ − A P ⃗ ) = \\frac{1}{2}\\{(\\vec{c} - \\vec{b}) - (\\vec{p} - \\vec{a})\\} = \\frac{1}{2}(\\vec{BC} - \\vec{AP}) = 2 1 ​ {( c − b ) − ( p ​ − a )} = 2 1 ​ ( BC − A P ) A P ∥ B C AP \\parallel BC A P ∥ BC হওয়ায় ( B C ⃗ − A P ⃗ ) (\\vec{BC} - \\vec{AP}) ( BC − A P ) ভেক্টরটি B C ⃗ \\vec{BC} BC ও A P ⃗ \\vec{AP} A P ভেক্টরের সমান্তরাল হবে, তাহলে M E ME ME ভেক্টরটিও B C ⃗ \\vec{BC} BC ও A P ⃗ \\vec{AP} A P এর সমান্তরাল হবে। কারণ M E ⃗ = 1 2 ( B C ⃗ − A P ⃗ ) \\vec{ME} = \\frac{1}{2}(\\vec{BC} - \\vec{AP}) ME = 2 1 ​ ( BC − A P ) ∴ ∣ M E ⃗ ∣ = 1 2 ∣ B C ⃗ − A P ⃗ ∣ \\therefore |\\vec{ME}| = \\frac{1}{2}|\\vec{BC} - \\vec{AP}| ∴ ∣ ME ∣ = 2 1 ​ ∣ BC − A P ∣ ∴ M E = 1 2 ( B C − A P ) \\therefore ME = \\frac{1}{2}(BC - AP) ∴ ME = 2 1 ​ ( BC − A P ) অর্থাৎ M E ∥ A P ∥ B C ME \\parallel AP \\parallel BC ME ∥ A P ∥ BC এবং M E = 1 2 ( B C − A P ) ME = \\frac{1}{2}(BC - AP) ME = 2 1 ​ ( BC − A P ) (প্রমাণিত)"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "a = cot ⁡ θ a = \\cot\\theta a = cot θ এবং b = cosec ⁡ θ − 1 b = \\cosec\\theta - 1 b = cosec θ − 1",
+      "tag": "RCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "sin ⁡ 2 π 7 + sin ⁡ 2 5 π 14 + sin ⁡ 2 8 π 7 + sin ⁡ 2 9 π 14 \\sin^2 \\frac{\\pi}{7} + \\sin^2 \\frac{5\\pi}{14} + \\sin^2 \\frac{8\\pi}{7} + \\sin^2 \\frac{9\\pi}{14} sin 2 7 π ​ + sin 2 14 5 π ​ + sin 2 7 8 π ​ + sin 2 14 9 π ​ এর মান নির্ণয় কর।",
+          "explanation": "প্রদত্ত রাশি = sin ⁡ 2 2 π 7 + sin ⁡ 2 5 π 14 + sin ⁡ 2 8 π 7 + sin ⁡ 2 9 π 14 = \\sin^2 \\frac{2\\pi}{7} + \\sin^2 \\frac{5\\pi}{14} + \\sin^2 \\frac{8\\pi}{7} + \\sin^2 \\frac{9\\pi}{14} = sin 2 7 2 π ​ + sin 2 14 5 π ​ + sin 2 7 8 π ​ + sin 2 14 9 π ​ = sin ⁡ 2 π 7 + { sin ⁡ ( π 2 − π 7 ) } 2 + { sin ⁡ ( π + π 7 ) } 2 + { sin ⁡ ( π 2 + π 7 ) } 2 = \\sin^2 \\frac{\\pi}{7} + \\left\\{\\sin\\left(\\frac{\\pi}{2} - \\frac{\\pi}{7}\\right)\\right\\}^2 + \\left\\{\\sin\\left(\\pi + \\frac{\\pi}{7}\\right)\\right\\}^2 + \\left\\{\\sin\\left(\\frac{\\pi}{2} + \\frac{\\pi}{7}\\right)\\right\\}^2 = sin 2 7 π ​ + { sin ( 2 π ​ − 7 π ​ ) } 2 + { sin ( π + 7 π ​ ) } 2 + { sin ( 2 π ​ + 7 π ​ ) } 2 = sin ⁡ 2 π 7 + ( cos ⁡ π 7 ) 2 + ( − sin ⁡ π 7 ) 2 + ( cos ⁡ π 7 ) 2 = \\sin^2 \\frac{\\pi}{7} + \\left(\\cos \\frac{\\pi}{7}\\right)^2 + \\left(-\\sin \\frac{\\pi}{7}\\right)^2 + \\left(\\cos \\frac{\\pi}{7}\\right)^2 = sin 2 7 π ​ + ( cos 7 π ​ ) 2 + ( − sin 7 π ​ ) 2 + ( cos 7 π ​ ) 2 = sin ⁡ 2 π 7 + cos ⁡ 2 π 7 + sin ⁡ 2 π 7 + cos ⁡ 2 π 7 = \\sin^2 \\frac{\\pi}{7} + \\cos^2 \\frac{\\pi}{7} + \\sin^2 \\frac{\\pi}{7} + \\cos^2 \\frac{\\pi}{7} = sin 2 7 π ​ + cos 2 7 π ​ + sin 2 7 π ​ + cos 2 7 π ​ = 1 + 1 = 2 = 1 + 1 = 2 = 1 + 1 = 2 ∴ sin ⁡ 2 π 7 + sin ⁡ 2 5 π 14 + sin ⁡ 2 8 π 7 + sin ⁡ 2 9 π 14 = 2 \\therefore \\sin^2 \\frac{\\pi}{7} + \\sin^2 \\frac{5\\pi}{14} + \\sin^2 \\frac{8\\pi}{7} + \\sin^2 \\frac{9\\pi}{14} = 2 ∴ sin 2 7 π ​ + sin 2 14 5 π ​ + sin 2 7 8 π ​ + sin 2 14 9 π ​ = 2 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, ( a + b ) ( 1 − cos ⁡ θ ) = ( a − b ) sin ⁡ θ (a+b)(1 - \\cos\\theta) = (a-b)\\sin\\theta ( a + b ) ( 1 − cos θ ) = ( a − b ) sin θ",
+          "explanation": "দেওয়া আছে, a = cot ⁡ θ a = \\cot\\theta a = cot θ এবং b = cosec ⁡ θ − 1 b = \\operatorname{cosec}\\theta - 1 b = cosec θ − 1 এখন, a + b a − b = cot ⁡ θ + cosec ⁡ θ − 1 cot ⁡ θ − cosec ⁡ θ + 1 = cot ⁡ θ + cosec ⁡ θ − 1 cot ⁡ θ − cosec ⁡ θ + ( cosec ⁡ 2 θ − cot ⁡ 2 θ ) = cot ⁡ θ + cosec ⁡ θ − 1 ( cosec ⁡ θ − cot ⁡ θ ) ( cosec ⁡ θ + cot ⁡ θ ) − ( cosec ⁡ θ − cot ⁡ θ ) = ( cot ⁡ θ + cosec ⁡ θ − 1 ) ( cosec ⁡ θ − cot ⁡ θ ) ( cosec ⁡ θ + cot ⁡ θ − 1 ) = 1 cosec ⁡ θ − cot ⁡ θ = 1 1 sin ⁡ θ − cos ⁡ θ sin ⁡ θ = 1 1 − cos ⁡ θ sin ⁡ θ = sin ⁡ θ 1 − cos ⁡ θ \\begin{aligned} \\frac{a+b}{a-b} &= \\frac{\\cot\\theta + \\operatorname{cosec}\\theta - 1}{\\cot\\theta - \\operatorname{cosec}\\theta + 1} \\\\ &= \\frac{\\cot\\theta + \\operatorname{cosec}\\theta - 1}{\\cot\\theta - \\operatorname{cosec}\\theta + (\\operatorname{cosec}^2\\theta - \\cot^2\\theta)} \\\\ &= \\frac{\\cot\\theta + \\operatorname{cosec}\\theta - 1}{(\\operatorname{cosec}\\theta - \\cot\\theta)(\\operatorname{cosec}\\theta + \\cot\\theta) - (\\operatorname{cosec}\\theta - \\cot\\theta)} \\\\ &= \\frac{(\\cot\\theta + \\operatorname{cosec}\\theta - 1)}{(\\operatorname{cosec}\\theta - \\cot\\theta)(\\operatorname{cosec}\\theta + \\cot\\theta - 1)} \\\\ &= \\frac{1}{\\operatorname{cosec}\\theta - \\cot\\theta} \\\\ &= \\frac{1}{\\frac{1}{\\sin\\theta} - \\frac{\\cos\\theta}{\\sin\\theta}} \\\\ &= \\frac{1}{\\frac{1-\\cos\\theta}{\\sin\\theta}} \\\\ &= \\frac{\\sin\\theta}{1-\\cos\\theta} \\end{aligned} a − b a + b ​ ​ = cot θ − cosec θ + 1 cot θ + cosec θ − 1 ​ = cot θ − cosec θ + ( cosec 2 θ − cot 2 θ ) cot θ + cosec θ − 1 ​ = ( cosec θ − cot θ ) ( cosec θ + cot θ ) − ( cosec θ − cot θ ) cot θ + cosec θ − 1 ​ = ( cosec θ − cot θ ) ( cosec θ + cot θ − 1 ) ( cot θ + cosec θ − 1 ) ​ = cosec θ − cot θ 1 ​ = s i n θ 1 ​ − s i n θ c o s θ ​ 1 ​ = s i n θ 1 − c o s θ ​ 1 ​ = 1 − cos θ sin θ ​ ​ ∴ a + b a − b = sin ⁡ θ 1 − cos ⁡ θ \\therefore \\frac{a+b}{a-b} = \\frac{\\sin\\theta}{1-\\cos\\theta} ∴ a − b a + b ​ = 1 − c o s θ s i n θ ​ ∴ ( a + b ) ( 1 − cos ⁡ θ ) = ( a − b ) sin ⁡ θ  (দেখানো হলো) \\therefore (a+b)(1-\\cos\\theta) = (a-b)\\sin\\theta \\text{ (দেখানো হলো)} ∴ ( a + b ) ( 1 − cos θ ) = ( a − b ) sin θ  ( দেখানো   হলো )"
+        },
+        {
+          "label": "গ",
+          "question": "a 2 + ( b + 1 ) 2 = 3 a^2 + (b+1)^2 = 3 a 2 + ( b + 1 ) 2 = 3 হলে, θ \\theta θ এর মান নির্ণয় কর। যখন 0 ≤ θ ≤ 2 π 0 \\le \\theta \\le 2\\pi 0 ≤ θ ≤ 2 π",
+          "explanation": "দেওয়া আছে, a 2 + ( b + 1 ) 2 = 3 a^2 + (b+1)^2 = 3 a 2 + ( b + 1 ) 2 = 3 বা, c o t 2 θ + ( c o s e c θ − 1 + 1 ) 2 = 3 cot^2\\theta + (cosec\\theta - 1 + 1)^2 = 3 co t 2 θ + ( cosec θ − 1 + 1 ) 2 = 3 (মান বসিয়ে) বা, c o t 2 θ + c o s e c 2 θ = 3 cot^2\\theta + cosec^2\\theta = 3 co t 2 θ + cose c 2 θ = 3 বা, c o t 2 θ + 1 + c o t 2 θ = 3 cot^2\\theta + 1 + cot^2\\theta = 3 co t 2 θ + 1 + co t 2 θ = 3 বা, 2 c o t 2 θ = 2 2cot^2\\theta = 2 2 co t 2 θ = 2 বা, c o t 2 θ = 1 cot^2\\theta = 1 co t 2 θ = 1 বা, c o t θ = ± 1 cot\\theta = \\pm 1 co tθ = ± 1 হয়, c o t θ = 1 cot\\theta = 1 co tθ = 1 বা, c o t θ = 1 = c o t π 4 = c o t ( π + π 4 ) cot\\theta = 1 = cot\\frac{\\pi}{4} = cot(\\pi + \\frac{\\pi}{4}) co tθ = 1 = co t 4 π ​ = co t ( π + 4 π ​ ) বা, c o t θ = c o t π 4 = c o t 5 π 4 cot\\theta = cot\\frac{\\pi}{4} = cot\\frac{5\\pi}{4} co tθ = co t 4 π ​ = co t 4 5 π ​ ∴ θ = π 4 , 5 π 4 \\therefore \\theta = \\frac{\\pi}{4}, \\frac{5\\pi}{4} ∴ θ = 4 π ​ , 4 5 π ​ অথবা, c o t θ = − 1 cot\\theta = -1 co tθ = − 1 বা, c o t θ = − 1 = c o t ( π − π 4 ) = c o t ( 2 π − π 4 ) cot\\theta = -1 = cot(\\pi - \\frac{\\pi}{4}) = cot(2\\pi - \\frac{\\pi}{4}) co tθ = − 1 = co t ( π − 4 π ​ ) = co t ( 2 π − 4 π ​ ) বা, c o t θ = c o t 3 π 4 = c o t 7 π 4 cot\\theta = cot\\frac{3\\pi}{4} = cot\\frac{7\\pi}{4} co tθ = co t 4 3 π ​ = co t 4 7 π ​ ∴ θ = 3 π 4 , 7 π 4 \\therefore \\theta = \\frac{3\\pi}{4}, \\frac{7\\pi}{4} ∴ θ = 4 3 π ​ , 4 7 π ​ ∴ 0 ≤ θ ≤ 2 π \\therefore 0 \\le \\theta \\le 2\\pi ∴ 0 ≤ θ ≤ 2 π ব্যবধিতে প্রদত্ত সমীকরণটির সমাধান: θ = π 4 , 3 π 4 , 5 π 4 , 7 π 4 \\theta = \\frac{\\pi}{4}, \\frac{3\\pi}{4}, \\frac{5\\pi}{4}, \\frac{7\\pi}{4} θ = 4 π ​ , 4 3 π ​ , 4 5 π ​ , 4 7 π ​ (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "একটি নিরপেক্ষ মুদ্রা তিনবার নিক্ষেপ করা হলো।",
+      "tag": "RCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দেখাও যে, উদ্দীপকের মুদ্রাটি n-সংখ্যকবার নিক্ষেপ করলে সংঘটিত ঘটনা 2 n 2^n 2 n কে সমর্থন করে।",
+          "explanation": "(i) কেবলমাত্র একটি টেল পাওয়ার অনুকূল নমুনাক্ষেত্র = {HHT, HTH, THH} ∴ \\therefore ∴ অনুকূল নমুনা বিন্দুর সংখ্যা = 3 ∴ \\therefore ∴ P [কেবলমাত্র একটি T] = 3 8 \\frac{3}{8} 8 3 ​ (Ans.) (ii) কমপক্ষে 1টি হেড (H) পাওয়ার অনুকূল ঘটনাগুলো TTT ছাড়া বাকি সবগুলো অর্থাৎ {HHT, HTH, HTT, THH, THT, TTH, HHH} ∴ \\therefore ∴ অনুকূল নমুনা বিন্দুর সংখ্যা = 7 ∴ \\therefore ∴ P [কমপক্ষে 1H] = 7 8 \\frac{7}{8} 8 7 ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "সম্ভাব্য ঘটনার Probability tree অঙ্কন করে কমপক্ষে দুইটি Tail পাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "(i) কেবলমাত্র একটি টেল পাওয়ার অনুকূল নমুনাক্ষেত্র = {HHT, HTH, THH} ∴ \\therefore ∴ অনুকূল নমুনা বিন্দুর সংখ্যা = 3 ∴ \\therefore ∴ P [কেবলমাত্র একটি T] = 3 8 \\frac{3}{8} 8 3 ​ (Ans.) (ii) কমপক্ষে 1টি হেড (H) পাওয়ার অনুকূল ঘটনাগুলো TTT ছাড়া বাকি সবগুলো অর্থাৎ {HHT, HTH, HTT, THH, THT, TTH, HHH} ∴ \\therefore ∴ অনুকূল নমুনা বিন্দুর সংখ্যা = 7 ∴ \\therefore ∴ P [কমপক্ষে 1H] = 7 8 \\frac{7}{8} 8 7 ​ (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "সম্ভাব্য ঘটনার ক্ষেত্রে (i) কেবলমাত্র একটি Tail (ii) কমপক্ষে একটি Head পাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "(i) কেবলমাত্র একটি টেল পাওয়ার অনুকূল নমুনাক্ষেত্র = {HHT, HTH, THH} ∴ \\therefore ∴ অনুকূল নমুনা বিন্দুর সংখ্যা = 3 ∴ \\therefore ∴ P [কেবলমাত্র একটি T] = 3 8 \\frac{3}{8} 8 3 ​ (Ans.) (ii) কমপক্ষে 1টি হেড (H) পাওয়ার অনুকূল ঘটনাগুলো TTT ছাড়া বাকি সবগুলো অর্থাৎ {HHT, HTH, HTT, THH, THT, TTH, HHH} ∴ \\therefore ∴ অনুকূল নমুনা বিন্দুর সংখ্যা = 7 ∴ \\therefore ∴ P [কমপক্ষে 1H] = 7 8 \\frac{7}{8} 8 7 ​ (Ans.)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "title": "যশোর বোর্ড ২০২৫",
+  "subtitle": "(8)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "A = f : x → 2 x − 1 2 x + 3 B = 6 x 3 ( x − 1 ) ( 2 x − 4 ) ( 3 x − 9 ) \\begin{array}{l} A=f: x \\rightarrow \\frac{2 x-1}{2 x+3} \\\\ B=\\frac{6 x^{3}}{(x-1)(2 x-4)(3 x-9)} \\end{array} A = f : x → 2 x + 3 2 x − 1 ​ B = ( x − 1 ) ( 2 x − 4 ) ( 3 x − 9 ) 6 x 3 ​ ​",
+      "tag": "JB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "p এর কোন মানের জন্য x + 2 , x 2 + 6 x − p \\mathrm{x}+2, \\mathrm{x}^{2}+6 \\mathrm{x}-\\mathrm{p} x + 2 , x 2 + 6 x − p বহুপদীর একটি উৎপাদক হবে?",
+          "explanation": "ধরি, f ( x ) = x 2 + 6 x − p f(\\mathrm{x})=\\mathrm{x}^{2}+6 \\mathrm{x}-\\mathrm{p} f ( x ) = x 2 + 6 x − p f ( x ) f(\\mathrm{x}) f ( x ) এর একটি উৎপাদক ( x + 2 ) (\\mathrm{x}+2) ( x + 2 ) হলে, f ( − 2 ) = 0 f(-2)=0 f ( − 2 ) = 0 হবে। অর্থাৎ f ( − 2 ) = 0 f(-2)=0 f ( − 2 ) = 0 বা, ( − 2 ) 2 + 6 ( − 2 ) − p = 0 (-2)^{2}+6(-2)-p=0 ( − 2 ) 2 + 6 ( − 2 ) − p = 0 বা, 4 − 12 − p = 0 4-12-\\mathrm{p}=0 4 − 12 − p = 0 বা, − 8 − p = 0 -8-p=0 − 8 − p = 0 ∴ p = − 8 \\therefore \\quad p=-8 ∴ p = − 8 নির্ণেয় মান : p = − 8 \\mathrm{p}=-8 p = − 8 ."
+        },
+        {
+          "label": "খ",
+          "question": "2 f − 1 ( x ) = x 2 f^{-1}(x)=x 2 f − 1 ( x ) = x হলে, x x x এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, P ( y ) = y 3 + y 2 + 4 \\mathrm{P}(\\mathrm{y})=\\mathrm{y}^{3}+\\mathrm{y}^{2}+4 P ( y ) = y 3 + y 2 + 4 P ( y ) {P}(y) P ( y ) কে ( 2 y + m ) (2 y+m) ( 2 y + m ) দ্বারা ভাগ করলে ভাগশেষ হবে P ( − m 2 ) P\\left(-\\frac{m}{2}\\right) P ( − 2 m ​ ) ∴ P ( − m 2 ) = ( − m 2 ) 3 + ( − m 2 ) 2 + 4 = − m 3 8 + m 2 4 + 4 = − m 3 + 2 m 2 + 32 8 \\begin{aligned} \\therefore P\\left(-\\frac{m}{2}\\right) & =\\left(-\\frac{m}{2}\\right)^{3}+\\left(-\\frac{m}{2}\\right)^{2}+4 \\\\ & =\\frac{-m^{3}}{8}+\\frac{m^{2}}{4}+4=\\frac{-m^{3}+2 m^{2}+32}{8} \\end{aligned} ∴ P ( − 2 m ​ ) ​ = ( − 2 m ​ ) 3 + ( − 2 m ​ ) 2 + 4 = 8 − m 3 ​ + 4 m 2 ​ + 4 = 8 − m 3 + 2 m 2 + 32 ​ ​ আবার, P ( x ) P(x) P ( x ) কে ( 2 y + n ) (2 y+n) ( 2 y + n ) দ্বারা ভাগ করলে ভাগশেষ হবে P ( − n 2 ) P\\left(-\\frac{n}{2}\\right) P ( − 2 n ​ ) ∴ P ( − n 2 ) = ( − n 2 ) 3 + ( − n 2 ) 2 + 4 = − n 3 8 + n 2 4 + 4 = − n 3 + 2 n 2 + 32 8 \\begin{aligned} \\therefore P\\left(-\\frac{n}{2}\\right) & =\\left(-\\frac{n}{2}\\right)^{3}+\\left(-\\frac{n}{2}\\right)^{2}+4 \\\\ & =\\frac{-n^{3}}{8}+\\frac{n^{2}}{4}+4=\\frac{-n^{3}+2 n^{2}+32}{8} \\end{aligned} ∴ P ( − 2 n ​ ) ​ = ( − 2 n ​ ) 3 + ( − 2 n ​ ) 2 + 4 = 8 − n 3 ​ + 4 n 2 ​ + 4 = 8 − n 3 + 2 n 2 + 32 ​ ​ শর্তমতে, P ( − m 2 ) = P ( − n 2 ) \\mathrm{P}\\left(-\\frac{\\mathrm{m}}{2}\\right)=\\mathrm{P}\\left(-\\frac{\\mathrm{n}}{2}\\right) P ( − 2 m ​ ) = P ( − 2 n ​ ) বা, − m 3 + 2 m 2 + 32 8 = − n 3 + 2 n 2 + 32 8 \\frac{-m^{3}+2 m^{2}+32}{8}=\\frac{-n^{3}+2 n^{2}+32}{8} 8 − m 3 + 2 m 2 + 32 ​ = 8 − n 3 + 2 n 2 + 32 ​ বা, − m 3 + 2 m 2 + 32 = − n 3 + 2 n 2 + 32 -m^{3}+2 m^{2}+32=-n^{3}+2 n^{2}+32 − m 3 + 2 m 2 + 32 = − n 3 + 2 n 2 + 32 বা, − m 3 + 2 m 2 = − n 3 + 2 n 2 -m^{3}+2 m^{2}=-n^{3}+2 n^{2} − m 3 + 2 m 2 = − n 3 + 2 n 2 বা, m 3 − 2 m 2 = n 3 − 2 n 2 m^{3}-2 m^{2}=n^{3}-2 n^{2} m 3 − 2 m 2 = n 3 − 2 n 2 বা, m 3 − n 3 = 2 m 2 − 2 n 2 m^{3}-n^{3}=2 m^{2}-2 n^{2} m 3 − n 3 = 2 m 2 − 2 n 2 বা, ( m − n ) ( m 2 + m n + n 2 ) = 2 ( m + n ) ( m − n ) (m-n)\\left(m^{2}+m n+n^{2}\\right)=2(m+n)(m-n) ( m − n ) ( m 2 + mn + n 2 ) = 2 ( m + n ) ( m − n ) বা, ( m − n ) { m 2 + m n + n 2 − 2 ( m + n ) } = 0 (m-n)\\left\\{m^{2}+m n+n^{2}-2(m+n)\\right\\}=0 ( m − n ) { m 2 + mn + n 2 − 2 ( m + n ) } = 0 বা, ( m − n ) ( m 2 + m n + n 2 − 2 m − 2 n ) = 0 (m-n)\\left(m^{2}+m n+n^{2}-2 m-2 n\\right)=0 ( m − n ) ( m 2 + mn + n 2 − 2 m − 2 n ) = 0 ∴ m 2 + m n + n 2 − 2 m − 2 n = 0  যেহেতু  m ≠ n , সেহেতু  m − n ≠ 0 .  \\therefore \\quad m^{2}+m n+n^{2}-2 m-2 n=0 \\text { যেহেতু } m \\neq n \\text {, সেহেতু } m-n \\neq 0 \\text {. } ∴ m 2 + mn + n 2 − 2 m − 2 n = 0   যেহেতু   m  = n ,  সেহেতু   m − n  = 0 .  (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "B কে আংশিক ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "দেওয়া আছে,  B = 6 x 3 ( x − 1 ) ( 2 x − 4 ) ( 3 x − 9 ) = 6 x 3 ( x − 1 ) ⋅ 2 ( x − 2 ) ⋅ 3 ( x − 3 ) = 6 x 3 6 ( x − 1 ) ( x − 2 ) ( x − 3 ) = x 3 ( x − 1 ) ( x − 2 ) ( x − 3 ) \\begin{aligned} \\text { দেওয়া আছে, } \\mathrm{B} & =\\frac{6 \\mathrm{x}^{3}}{(\\mathrm{x}-1)(2 \\mathrm{x}-4)(3 \\mathrm{x}-9)} \\\\ & =\\frac{6 \\mathrm{x}^{3}}{(\\mathrm{x}-1) \\cdot 2(\\mathrm{x}-2) \\cdot 3(\\mathrm{x}-3)} \\\\ & =\\frac{6 \\mathrm{x}^{3}}{6(\\mathrm{x}-1)(\\mathrm{x}-2)(\\mathrm{x}-3)} \\\\ & =\\frac{\\mathrm{x}^{3}}{(\\mathrm{x}-1)(\\mathrm{x}-2)(\\mathrm{x}-3)}\\end{aligned}   দেওয়া   আছে ,  B ​ = ( x − 1 ) ( 2 x − 4 ) ( 3 x − 9 ) 6 x 3 ​ = ( x − 1 ) ⋅ 2 ( x − 2 ) ⋅ 3 ( x − 3 ) 6 x 3 ​ = 6 ( x − 1 ) ( x − 2 ) ( x − 3 ) 6 x 3 ​ = ( x − 1 ) ( x − 2 ) ( x − 3 ) x 3 ​ ​ মনে করি, x 3 ( x − 1 ) ( x − 2 ) ( x − 3 ) ≡ 1 + A x − 1 + B x − 2 + C x − 3 \\frac{x^{3}}{(x-1)(x-2)(x-3)} \\equiv 1+\\frac{A}{x-1}+\\frac{B}{x-2}+\\frac{C}{x-3} ( x − 1 ) ( x − 2 ) ( x − 3 ) x 3 ​ ≡ 1 + x − 1 A ​ + x − 2 B ​ + x − 3 C ​ …(i) (i) নং এর উভয়পক্ষকে ( x − 1 ) ( x − 2 ) ( x − 3 ) (x-1)(x-2)(x-3) ( x − 1 ) ( x − 2 ) ( x − 3 ) দ্বারা গুণ করে পাই; x 3 ≡ ( x − 1 ) ( x − 2 ) ( x − 3 ) + A ( x − 2 ) ( x − 3 ) + B ( x − 1 ) ( x − 3 ) + C ( x − 1 ) ( x − 2 ) … ( i i ) \\begin{aligned} x^{3} \\equiv(x-1)(x-2) & (x-3)+A(x-2)(x-3) \\\\ & +B(x-1)(x-3)+C(x-1)(x-2)…(ii) \\end{aligned} x 3 ≡ ( x − 1 ) ( x − 2 ) ​ ( x − 3 ) + A ( x − 2 ) ( x − 3 ) + B ( x − 1 ) ( x − 3 ) + C ( x − 1 ) ( x − 2 ) … ( ii ) ​ (ii)নং এর উভয়পক্ষে x = 1 \\mathrm{x}=1 x = 1 বসিয়ে পাই, 1 3 = ( 1 − 1 ) ( 1 − 2 ) ( 1 − 3 ) + A ( 1 − 2 ) ( 1 − 3 ) + B ( 1 − 1 ) ( 1 − 3 ) + C ( 1 − 1 ) ( 1 − 2 )  বা,  1 = 0 + A ( − 1 ) ( − 2 ) + B × 0 + C × 0  বা,  1 = 2 A ∴ A = 1 2 \\begin{array}{lrl} 1^{3}=(1-1)(1-2)(1-3)+A(1-2)(1-3) +B(1-1)(1-3)+C(1-1)(1-2) \\\\ \\text { বা, } 1=0+A(-1)(-2)+B \\times 0+C \\times 0 \\\\ \\text { বা, } 1=2 A \\\\ \\therefore \\quad A =\\frac{1}{2} \\end{array} 1 3 = ( 1 − 1 ) ( 1 − 2 ) ( 1 − 3 ) + A ( 1 − 2 ) ( 1 − 3 ) + B ( 1 − 1 ) ( 1 − 3 ) + C ( 1 − 1 ) ( 1 − 2 )   বা ,  1 = 0 + A ( − 1 ) ( − 2 ) + B × 0 + C × 0   বা ,  1 = 2 A ∴ A = 2 1 ​ ​ (ii) নং এর উভয়পক্ষে x = 2 x=2 x = 2 বসিয়ে পাই, 2 3 = ( 2 − 1 ) ( 2 − 2 ) ( 2 − 3 ) + A ( 2 − 2 ) ( 2 − 3 ) + B ( 2 − 1 ) ( 2 − 3 ) + C ( 2 − 1 ) ( 2 − 2 ) \\begin{aligned} 2^{3}=(2-1)(2-2)(2-3) & +A(2-2)(2-3) +B(2-1)(2-3)+C(2-1)(2-2) \\end{aligned} 2 3 = ( 2 − 1 ) ( 2 − 2 ) ( 2 − 3 ) ​ + A ( 2 − 2 ) ( 2 − 3 ) + B ( 2 − 1 ) ( 2 − 3 ) + C ( 2 − 1 ) ( 2 − 2 ) ​ বা, 8 = 0 + A × 0 + B × 1 ( − 1 ) + C × 0 \\quad 8=0+\\mathrm{A} \\times 0+\\mathrm{B} \\times 1(-1)+\\mathrm{C} \\times 0 8 = 0 + A × 0 + B × 1 ( − 1 ) + C × 0 বা, 8 = − B 8=-B 8 = − B ∴ B = − 8 \\therefore \\quad B=-8 ∴ B = − 8 আবার, (ii) নং এর উভয়পক্ষে x = 3 x=3 x = 3 বসিয়ে পাই, 3 3 = ( 3 − 1 ) ( 3 − 2 ) ( 3 − 3 ) + A ( 3 − 2 ) ( 3 − 3 ) + B ( 3 − 1 ) ( 3 − 3 ) + C ( 3 − 1 ) ( 3 − 2 ) \\begin{aligned} 3^{3}=(3-1)(3-2)(3-3) & +A(3-2)(3-3) +B(3-1)(3-3)+C(3-1)(3-2) \\end{aligned} 3 3 = ( 3 − 1 ) ( 3 − 2 ) ( 3 − 3 ) ​ + A ( 3 − 2 ) ( 3 − 3 ) + B ( 3 − 1 ) ( 3 − 3 ) + C ( 3 − 1 ) ( 3 − 2 ) ​ বা, 27 = 0 + A × 0 + B × 0 + C × 2 × 1 \\quad 27=0+\\mathrm{A} \\times 0+\\mathrm{B} \\times 0+\\mathrm{C} \\times 2 \\times 1 27 = 0 + A × 0 + B × 0 + C × 2 × 1 বা, 27 = 2 C 27=2 \\mathrm{C} 27 = 2 C ∴ C = 27 2 \\therefore \\quad C=\\frac{27}{2} ∴ C = 2 27 ​ এখন, (i) নং এ A, B, C এর মান বসিয়ে পাই, x 3 ( x − 1 ) ( x − 2 ) ( x − 3 ) ≡ 1 + 1 2 x − 1 + − 8 x − 2 + 27 2 x − 3 ∴ x 3 ( x − 1 ) ( x − 2 ) ( x − 3 ) ≡ 1 + 1 2 ( x − 1 ) − 8 x − 2 + 27 2 ( x − 3 ) \\begin{aligned} & \\frac{x^{3}}{(x-1)(x-2)(x-3)} \\equiv 1+\\frac{\\frac{1}{2}}{x-1}+\\frac{-8}{x-2}+\\frac{\\frac{27}{2}}{x-3} \\\\ \\therefore & \\frac{x^{3}}{(x-1)(x-2)(x-3)} \\equiv 1+\\frac{1}{2(x-1)}-\\frac{8}{x-2}+\\frac{27}{2(x-3)} \\end{aligned} ∴ ​ ( x − 1 ) ( x − 2 ) ( x − 3 ) x 3 ​ ≡ 1 + x − 1 2 1 ​ ​ + x − 2 − 8 ​ + x − 3 2 27 ​ ​ ( x − 1 ) ( x − 2 ) ( x − 3 ) x 3 ​ ≡ 1 + 2 ( x − 1 ) 1 ​ − x − 2 8 ​ + 2 ( x − 3 ) 27 ​ ​ যা নির্ণেয় আংশিক ভগ্নাংশ।"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "a 3 − x b 5 x = a 5 + x b 3 x a^{3-x} b^{5 x}=a^{5+x} b^{3 x} a 3 − x b 5 x = a 5 + x b 3 x একটি সমীকরণ। p = 1 x b + x − 0 + 1 + 1 x c + x − a + 1 + 1 x a + x − b + 1 p=\\frac{1}{x^{b}+x^{-0}+1}+\\frac{1}{x^{c}+x^{-a}+1}+\\frac{1}{x^{a}+x^{-b}+1} p = x b + x − 0 + 1 1 ​ + x c + x − a + 1 1 ​ + x a + x − b + 1 1 ​",
+      "tag": "JB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "সরল কর: x 3 2 + x y x y − y 3 − x x − y \\frac{x^{\\frac{3}{2}}+x y}{x y-y^{3}}-\\frac{\\sqrt{x}}{\\sqrt{x}-y} x y − y 3 x 2 3 ​ + x y ​ − x ​ − y x ​ ​ .",
+          "explanation": "প্রদত্ত রাশি  = x 3 2 + x y x y − y 3 − x x − y = x 1 + 1 2 + x y y ( x − y 2 ) − x x − y \\begin{array}{l}\\text { প্রদত্ত রাশি }=\\frac{x^{\\frac{3}{2}}+x y}{x y-y^{3}}-\\frac{\\sqrt{x}}{\\sqrt{x}-y} \\\\ =\\frac{x^{1+\\frac{1}{2}}+x y}{y\\left(x-y^{2}\\right)}-\\frac{\\sqrt{x}}{\\sqrt{x}-y}\\end{array}   প্রদত্ত   রাশি   = x y − y 3 x 2 3 ​ + x y ​ − x ​ − y x ​ ​ = y ( x − y 2 ) x 1 + 2 1 ​ + x y ​ − x ​ − y x ​ ​ ​ = x 1 ⋅ x 1 2 + x y y ( x − y 2 ) − x x − y = x ⋅ ( x + y ) y { ( x ) 2 − y 2 } − x x − y = x ⋅ ( x + y ) y ( x + y ) ( x − y ) − x x − y = x y ( x − y ) − x x − y = x − x ⋅ y y ( x − y ) = x ( x − y ) y ( x − y ) = x y \\begin{array}{l} =\\frac{x^{1} \\cdot x^{\\frac{1}{2}}+x y}{y\\left(x-y^{2}\\right)}-\\frac{\\sqrt{x}}{\\sqrt{x}-y} \\\\ =\\frac{x \\cdot(\\sqrt{x}+y)}{y\\left\\{(\\sqrt{x})^{2}-y^{2}\\right\\}}-\\frac{\\sqrt{x}}{\\sqrt{x}-y} \\\\ =\\frac{x \\cdot(\\sqrt{x}+y)}{y(\\sqrt{x}+y)(\\sqrt{x}-y)}-\\frac{\\sqrt{x}}{\\sqrt{x}-y} \\\\ =\\frac{x}{y(\\sqrt{x}-y)}-\\frac{\\sqrt{x}}{\\sqrt{x}-y} \\\\ =\\frac{x-\\sqrt{x} \\cdot y}{y(\\sqrt{x}-y)} \\\\ =\\frac{\\sqrt{x}(\\sqrt{x}-y)}{y(\\sqrt{x}-y)}=\\frac{\\sqrt{x}}{y} \\end{array} = y ( x − y 2 ) x 1 ⋅ x 2 1 ​ + x y ​ − x ​ − y x ​ ​ = y { ( x ​ ) 2 − y 2 } x ⋅ ( x ​ + y ) ​ − x ​ − y x ​ ​ = y ( x ​ + y ) ( x ​ − y ) x ⋅ ( x ​ + y ) ​ − x ​ − y x ​ ​ = y ( x ​ − y ) x ​ − x ​ − y x ​ ​ = y ( x ​ − y ) x − x ​ ⋅ y ​ = y ( x ​ − y ) x ​ ( x ​ − y ) ​ = y x ​ ​ ​ নির্ণেয় সরলমান : x y \\frac{\\sqrt{x}}{y} y x ​ ​ ."
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, x log ⁡ k ( b a ) = log ⁡ k a x \\log _{\\mathrm{k}}\\left(\\frac{\\mathrm{b}}{\\mathrm{a}}\\right)=\\log _{\\mathrm{k}} \\mathrm{a} x lo g k ​ ( a b ​ ) = lo g k ​ a .",
+          "explanation": "দেওয়া আছে, a 3 − x b 5 x = a 5 + x , b 3 x \\mathrm{a}^{3-\\mathrm{x}} \\mathrm{b}^{5 \\mathrm{x}}=\\mathrm{a}^{5+\\mathrm{x}}, \\mathrm{b}^{3 \\mathrm{x}} a 3 − x b 5 x = a 5 + x , b 3 x বা, b 5 x b 3 x = a 5 + x a 3 − x \\frac{b^{5 x}}{b^{3 x}}=\\frac{a^{5+x}}{a^{3-x}} b 3 x b 5 x ​ = a 3 − x a 5 + x ​ বা, b 5 x − 3 x = a 5 + x − 3 + x b^{5 x-3 x}=a^{5+x-3+x} b 5 x − 3 x = a 5 + x − 3 + x বা, b 2 x = a 2 x + 2 b^{2 x}=a^{2 x+2} b 2 x = a 2 x + 2 বা, b 2 x = a 2 x ⋅ a 2 \\quad b^{2 x}=a^{2 x} \\cdot a^{2} b 2 x = a 2 x ⋅ a 2 বা, ( b a ) 2 x = a 2 \\left(\\frac{b}{a}\\right)^{2 x}=a^{2} ( a b ​ ) 2 x = a 2 বা, log ⁡ k ( b a ) 2 x = log ⁡ k a 2 \\log _{\\mathrm{k}}\\left(\\frac{\\mathrm{b}}{\\mathrm{a}}\\right)^{2 \\mathrm{x}}=\\log _{\\mathrm{k}} \\mathrm{a}^{2} lo g k ​ ( a b ​ ) 2 x = lo g k ​ a 2 [উভয়পক্ষে log ⁡ k \\log _{\\mathrm{k}} lo g k ​ নিয়ে] বা, 2 x log ⁡ k ( b a ) = 2 log ⁡ k a 2 x \\log _{k}\\left(\\frac{b}{a}\\right)=2 \\log _{k} a 2 x lo g k ​ ( a b ​ ) = 2 lo g k ​ a বা, × log ⁡ k ( b a ) = log ⁡ k a \\quad \\times \\log _{k}\\left(\\frac{b}{a}\\right)=\\log _{k} a × lo g k ​ ( a b ​ ) = lo g k ​ a [উভয়পক্ষকে 2 দ্বারা ভাগ করে] সুতরাং, x log ⁡ k ( b a ) = log ⁡ k a x \\log _{k}\\left(\\frac{b}{a}\\right)=\\log _{k} a x lo g k ​ ( a b ​ ) = lo g k ​ a . (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "যদি a + b + c = 0 \\mathrm{a}+\\mathrm{b}+\\mathrm{c}=0 a + b + c = 0 হয়, তাহলে দেখাও যে, p = 1 \\mathrm{p}=1 p = 1 .",
+          "explanation": "দেওয়া আছে, p = 1 x b + x − c + 1 + 1 x c + x − a + 1 + 1 x a + x − b + 1 \\mathrm{p}=\\frac{1}{\\mathrm{x}^{\\mathrm{b}}+\\mathrm{x}^{-\\mathrm{c}}+1}+\\frac{1}{\\mathrm{x}^{\\mathrm{c}}+\\mathrm{x}^{-\\mathrm{a}}+1}+\\frac{1}{\\mathrm{x}^{\\mathrm{a}}+\\mathrm{x}^{-\\mathrm{b}}+1} p = x b + x − c + 1 1 ​ + x c + x − a + 1 1 ​ + x a + x − b + 1 1 ​ এবং a + b + c = 0 \\mathrm{a}+\\mathrm{b}+\\mathrm{c}=0 a + b + c = 0  বামপক্ষ  = p = 1 x b + x − c + 1 + 1 x c + x − a + 1 + 1 x a + x − b + 1 = x − b x b ⋅ x − b + x − b ⋅ x − b + x − b + x a x c ⋅ x a + x − a ⋅ x a + x a + 1 x a + x − b + 1 = x − b 1 + x − ( b + c ) + x − b + x a x ( a + c ) + 1 + x a + 1 x a + x − b + 1 = x − b 1 + x a + x − b + x a x − b + 1 + x a + 1 x a + x − b + 1 [ ∵ a + b + c = 0 ] = x − b 1 + x a + x − b + x a 1 + x a + x − b + 1 1 + x a + x − b = x − b + x a + 1 1 + x a + x − b = ( 1 + x a + x − b ) ( 1 + x a + x − b ) = 1 =  ডানপক্ষ  ∴ p = 1. (  দেখানো হলো  ) \\begin{aligned} \\text { বামপক্ষ } & =p=\\frac{1}{x^{b}+x^{-c}+1}+\\frac{1}{x^{c}+x^{-a}+1}+\\frac{1}{x^{a}+x^{-b}+1} \\\\ & =\\frac{x^{-b}}{x^{b} \\cdot x^{-b}+x^{-b} \\cdot x^{-b}+x^{-b}}+\\frac{x^{a}}{x^{c} \\cdot x^{a}+x^{-a} \\cdot x^{a}+x^{a}}+\\frac{1}{x^{a}+x^{-b}+1} \\\\ & =\\frac{x^{-b}}{1+x^{-(b+c)}+x^{-b}}+\\frac{x^{a}}{x^{(a+c)}+1+x^{a}}+\\frac{1}{x^{a}+x^{-b}+1} \\\\ & =\\frac{x^{-b}}{1+x^{a}+x^{-b}}+\\frac{x^{a}}{x^{-b}+1+x^{a}}+\\frac{1}{x^{a}+x^{-b}+1}[\\because a+b+c=0] \\\\ & =\\frac{x^{-b}}{1+x^{a}+x^{-b}}+\\frac{x^{a}}{1+x^{a}+x^{-b}}+\\frac{1}{1+x^{a}+x^{-b}} \\\\ & =\\frac{x^{-b}+x^{a}+1}{1+x^{a}+x^{-b}} \\\\ & =\\frac{\\left(1+x^{a}+x^{-b}\\right)}{\\left(1+x^{a}+x^{-b}\\right)} \\\\ & =1=\\text { ডানপক্ষ } \\\\ \\therefore \\quad \\mathrm{p}= & 1 .(\\text { দেখানো হলো }) \\end{aligned}   বামপক্ষ   ∴ p = ​ = p = x b + x − c + 1 1 ​ + x c + x − a + 1 1 ​ + x a + x − b + 1 1 ​ = x b ⋅ x − b + x − b ⋅ x − b + x − b x − b ​ + x c ⋅ x a + x − a ⋅ x a + x a x a ​ + x a + x − b + 1 1 ​ = 1 + x − ( b + c ) + x − b x − b ​ + x ( a + c ) + 1 + x a x a ​ + x a + x − b + 1 1 ​ = 1 + x a + x − b x − b ​ + x − b + 1 + x a x a ​ + x a + x − b + 1 1 ​ [ ∵ a + b + c = 0 ] = 1 + x a + x − b x − b ​ + 1 + x a + x − b x a ​ + 1 + x a + x − b 1 ​ = 1 + x a + x − b x − b + x a + 1 ​ = ( 1 + x a + x − b ) ( 1 + x a + x − b ) ​ = 1 =   ডানপক্ষ   1. (   দেখানো   হলো   ) ​"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "( k − x 3 ) 7 \\left(k-\\frac{x}{3}\\right)^{7} ( k − 3 x ​ ) 7 বিস্তৃতিতে k 3 k^{3} k 3 এর সহগ 560।",
+      "tag": "JB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "5. 3 ˙ 2 1 ˙ 5.\\dot{3}2\\dot{1} 5. 3 ˙ 2 1 ˙ কে সাধারণ ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "5. 3 ˙ 2 1 ˙ = 5.321321321 … … … … = 5 + ( 0.321 + 0.000321 + 0.000000321 + … … ) \\begin{aligned} 5 . \\dot{3} 2 \\dot{1} & =5.321321321 \\ldots \\ldots \\ldots \\ldots \\\\ & =5+(0.321+0.000321+0.000000321+\\ldots \\ldots) \\end{aligned} 5. 3 ˙ 2 1 ˙ ​ = 5.321321321 ………… = 5 + ( 0.321 + 0.000321 + 0.000000321 + …… ) ​ এখানে, বন্ধনীর ভিতরের অংশটি একটি অসীম গুণোত্তর ধারা।  ধারাটির ১ম পদ  a = 0.321  এবং সাধারণ অনুপাত  r = 0.000321 0.321 ∴ = 0.001 < 1 ∴ 5.32 i = 5 + a 1 − r = 5 + 0.321 1 − 0.001 = 5 + 0.321 0.999 = 5 + 321 999 = 4995 + 321 999 = 5316 999 = 1772 333 \\begin{array}{l} \\text { ধারাটির ১ম পদ } \\mathrm{a}=0.321 \\text { এবং সাধারণ অনুপাত } \\mathrm{r}=\\frac{0.000321}{0.321} \\\\ \\qquad \\begin{aligned} \\therefore \\quad & =0.001<1 \\end{aligned} \\\\ \\begin{aligned} \\therefore 5.32 \\mathrm{i} & =5+\\frac{\\mathrm{a}}{1-\\mathrm{r}} \\\\ & =5+\\frac{0.321}{1-0.001} \\\\ & =5+\\frac{0.321}{0.999}=5+\\frac{321}{999}=\\frac{4995+321}{999}=\\frac{5316}{999}=\\frac{1772}{333} \\end{aligned} \\end{array}   ধারাটির   ১ম   পদ   a = 0.321   এবং   সাধারণ   অনুপাত   r = 0.321 0.000321 ​ ∴ ​ = 0.001 < 1 ​ ∴ 5.32 i ​ = 5 + 1 − r a ​ = 5 + 1 − 0.001 0.321 ​ = 5 + 0.999 0.321 ​ = 5 + 999 321 ​ = 999 4995 + 321 ​ = 999 5316 ​ = 333 1772 ​ ​ ​ নির্ণেয় মূলদীয় ভগ্নাংশ 1772 333 \\frac{1772}{333} 333 1772 ​ ."
+        },
+        {
+          "label": "খ",
+          "question": "x এর মান নির্ণয় কর।",
+          "explanation": "উদ্দীপকে প্রদত্ত দ্বিতীয় দ্বিপদী রাশি ( k − x 3 ) 7 = k 7 + 7 C 1 k 7 − 1 ( − x 3 ) 1 + 7 C 2 k 7 − 2 ( − x 3 ) 2 + 7 C 3 k 7 − 3 ( − x 3 ) 3 + 7 C 4 k 7 − 4 ( − x 3 ) 4 + … … . . = k 7 − 7 3 x k 6 + 7 3 x 2 k 5 − 35 27 x 3 k 4 + 35 81 x 4 k 3 − … … . \\begin{aligned} \\left(k-\\frac{x}{3}\\right)^{7}= & k^{7}+{ }^{7} C_{1} k^{7-1}\\left(-\\frac{x}{3}\\right)^{1}+{ }^{7} C_{2} k^{7-2}\\left(-\\frac{x}{3}\\right)^{2} \\\\ & +{ }^{7} C_{3} k^{7-3}\\left(-\\frac{x}{3}\\right)^{3}+{ }^{7} C_{4} k^{7-4}\\left(-\\frac{x}{3}\\right)^{4}+\\ldots \\ldots . . \\\\ = & k^{7}-\\frac{7}{3} x k^{6}+\\frac{7}{3} x^{2} k^{5}-\\frac{35}{27} x^{3} k^{4}+\\frac{35}{81} x^{4} k^{3}-\\ldots \\ldots . \\end{aligned} ( k − 3 x ​ ) 7 = = ​ k 7 + 7 C 1 ​ k 7 − 1 ( − 3 x ​ ) 1 + 7 C 2 ​ k 7 − 2 ( − 3 x ​ ) 2 + 7 C 3 ​ k 7 − 3 ( − 3 x ​ ) 3 + 7 C 4 ​ k 7 − 4 ( − 3 x ​ ) 4 + …… .. k 7 − 3 7 ​ x k 6 + 3 7 ​ x 2 k 5 − 27 35 ​ x 3 k 4 + 81 35 ​ x 4 k 3 − …… . ​ ∴ k 3 \\therefore \\mathrm{k}^{3} ∴ k 3 এর সহগ 35 81 x 4 \\frac{35}{81} \\mathrm{x}^{4} 81 35 ​ x 4 . প্রশ্নমতে, 35 81 x 4 = 560 \\frac{35}{81} x^{4}=560 81 35 ​ x 4 = 560 বা, 35 x 4 = 45360 35 x^{4}=45360 35 x 4 = 45360 বা, x 4 = 1296 x^{4}=1296 x 4 = 1296 বা, x = ± 6 x= \\pm 6 x = ± 6 ∴ x − \\therefore \\mathrm{x}- ∴ x − এর মান ± 6 \\pm 6 ± 6 ."
+        },
+        {
+          "label": "গ",
+          "question": "রাশিটির বিস্কৃতিতে x 3 x^{3} x 3 এর সহগ x 5 x^{5} x 5 এর সহগের 15 গুণ হলে k k k এর মান নির্ণয় কর।",
+          "explanation": "( k − x 3 ) 7 = k 7 + 7 C 1 k 7 − 1 ( − x 3 ) 1 + 7 C 2 k 7 − 2 ( − x 3 ) 2 + 7 C 3 k 7 − 3 ( − x 3 ) 3 + 7 C 4 k 7 − 4 ( − x 3 ) 4 + 7 C 5 k 7 − 5 ( − x 3 ) 5 + … = k 7 − 7 3 x k 6 + 7 3 x 2 k 5 − 35 27 x 3 k 4 + 35 81 x 4 k 3 − 7 81 x 5 k 2 + … . \\begin{aligned} \\left(k-\\frac{x}{3}\\right)^{7} & =k^{7}+{ }^{7} C_{1} k^{7-1}\\left(-\\frac{x}{3}\\right)^{1}+{ }^{7} C_{2} k^{7-2}\\left(-\\frac{x}{3}\\right)^{2} \\\\ +{ }^{7} C_{3} k^{7-3} & \\left(-\\frac{x}{3}\\right)^{3}+{ }^{7} C_{4} k^{7-4}\\left(-\\frac{x}{3}\\right)^{4}+{ }^{7} C_{5} k^{7-5}\\left(-\\frac{x}{3}\\right)^{5}+\\ldots \\\\ & =k^{7}-\\frac{7}{3} x k^{6}+\\frac{7}{3} x^{2} k^{5}-\\frac{35}{27} x^{3} k^{4}+\\frac{35}{81} x^{4} k^{3}-\\frac{7}{81} x^{5} k^{2}+\\ldots . \\end{aligned} ( k − 3 x ​ ) 7 + 7 C 3 ​ k 7 − 3 ​ = k 7 + 7 C 1 ​ k 7 − 1 ( − 3 x ​ ) 1 + 7 C 2 ​ k 7 − 2 ( − 3 x ​ ) 2 ( − 3 x ​ ) 3 + 7 C 4 ​ k 7 − 4 ( − 3 x ​ ) 4 + 7 C 5 ​ k 7 − 5 ( − 3 x ​ ) 5 + … = k 7 − 3 7 ​ x k 6 + 3 7 ​ x 2 k 5 − 27 35 ​ x 3 k 4 + 81 35 ​ x 4 k 3 − 81 7 ​ x 5 k 2 + … . ​ এখানে, x 3 \\mathrm{x}^{3} x 3 এর সহগ = − 35 27 k 4 =-\\frac{35}{27} \\mathrm{k}^{4} = − 27 35 ​ k 4 এবং x 5 \\mathrm{x}^{5} x 5 এর সহগ = − 7 81 k 2 =-\\frac{7}{81} \\mathrm{k}^{2} = − 81 7 ​ k 2 প্রশ্নমতে, − 35 27 k 4 = − 7 81 k 2 × 15 -\\frac{35}{27} k^{4}=-\\frac{7}{81} k^{2} \\times 15 − 27 35 ​ k 4 = − 81 7 ​ k 2 × 15 বা, k 2 = 7 × 15 × 27 81 × 35 k^{2}=\\frac{7 \\times 15 \\times 27}{81 \\times 35} k 2 = 81 × 35 7 × 15 × 27 ​ বা, k 2 = 1 k^{2}=1 k 2 = 1 ∴ k = ± 1 \\therefore \\quad \\mathrm{k}= \\pm 1 ∴ k = ± 1 নির্ণেয় k এর মান ± 1 \\pm 1 ± 1 ."
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "চিত্র, PD =3 সে.মি., PF = 1 সে.মি.।",
+      "tag": "JB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "CD রেখাংশের উপর PD এর লম্ব অভিক্ষেপের মান নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, AE = BE",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "এরূপ একটি বৃত্ত অঙ্কন কর, যা একটি নির্দিষ্ট বৃত্তকে নির্দিষ্ট বিন্দু P কে স্পর্শ করে এবং বৃত্তের বহিঃস্থ বিন্দু Q দিয়ে যায়।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "A ( − 4 , 4 ) , B ( 6 , 4 ) , C ( 6 , 7 ) \\mathrm{A}(-4,4), \\mathrm{B}(6,4), \\mathrm{C}(6,7) A ( − 4 , 4 ) , B ( 6 , 4 ) , C ( 6 , 7 ) এবং D ( 4 , − 7 ) \\mathrm{D}(4,-7) D ( 4 , − 7 ) বিন্দু চারটি একটি চতুর্ভুজের চারটি শীর্ষবিন্দু।",
+      "tag": "JB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "A বিন্দুগামী ও 5 ঢালবিশিষ্ট সরলরেখার সমীকরণ নির্ণয় কর।",
+          "explanation": "A(-4,4) বিন্দুগামী এবং 5 ঢালবিশিষ্ট সরলরেখার সমীকরণ, y − y 1 = m ( x − x 1 ) y-y_{1}=m\\left(x-x_{1}\\right) y − y 1 ​ = m ( x − x 1 ​ ) বা, y − 4 = 5 { x − ( − 4 ) } y-4=5\\{x-(-4)\\} y − 4 = 5 { x − ( − 4 )} বা, y − 4 = 5 ( x + 4 ) y-4=5(x+4) y − 4 = 5 ( x + 4 ) বা, y − 4 = 5 x + 20 y-4=5 x+20 y − 4 = 5 x + 20 বা, 5 x + 20 − y + 4 = 0 5 x+20-y+4=0 5 x + 20 − y + 4 = 0 ∴ 5 x − y + 24 = 0 \\therefore \\quad 5 x-y+24=0 ∴ 5 x − y + 24 = 0 নির্ণেয় সমীকরণ : 5 x − y + 24 = 0 5 \\mathrm{x}-\\mathrm{y}+24=0 5 x − y + 24 = 0 ."
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, ABCD একটি ট্রাপিজিয়াম।",
+          "explanation": "এখানে, একটি চতুর্ভুজের চারটি শীর্ষবিন্দু A(- 4, 4), B(6, 4), C ( 6 , − 7 ) C(6,-7) C ( 6 , − 7 ) এবং D ( 4 , − 7 ) D(4,-7) D ( 4 , − 7 ) xy সমতলে বিন্দুগুলো স্থাপন করি। AB রেখার ঢাল, m 1 = y 2 − y 1 x 2 − x 1 = 4 − 4 6 − ( − 4 ) = 0 6 + 10 = 0 \\mathrm{m}_{1}=\\frac{\\mathrm{y}_{2}-\\mathrm{y}_{1}}{\\mathrm{x}_{2}-\\mathrm{x}_{1}}=\\frac{4-4}{6-(-4)}=\\frac{0}{6+10}=0 m 1 ​ = x 2 ​ − x 1 ​ y 2 ​ − y 1 ​ ​ = 6 − ( − 4 ) 4 − 4 ​ = 6 + 10 0 ​ = 0 CD রেখার ঢাল, m 2 = y 2 − y 1 x 2 − x 1 = − 7 − ( − 7 ) 4 − 6 = − 7 + 7 − 2 = 0 − 2 = 0 \\mathrm{m}_{2}=\\frac{\\mathrm{y}_{2}-\\mathrm{y}_{1}}{\\mathrm{x}_{2}-\\mathrm{x}_{1}}=\\frac{-7-(-7)}{4-6}=\\frac{-7+7}{-2}=\\frac{0}{-2}=0 m 2 ​ = x 2 ​ − x 1 ​ y 2 ​ − y 1 ​ ​ = 4 − 6 − 7 − ( − 7 ) ​ = − 2 − 7 + 7 ​ = − 2 0 ​ = 0 যেহেতু m 1 = m 2 m_{1}=m_{2} m 1 ​ = m 2 ​ সেহেতু AB ∥ \\| ∥ CD. অর্থাৎ, চিত্রে, ABCD চতুর্ভুজের AB ∥ \\| ∥ CD. ∴ A B C D \\therefore \\mathrm{ABCD} ∴ ABCD একটি ট্রাপিজিয়াম. (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "ABCD চতুর্ভুজের যে অংশ চতুর্থ চতুর্থভাগে অবস্থান করে তার ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, ABCD চতুর্ভুজের চারটি শীর্ষবিন্দু A(- 4, 4), B ( 6 , 4 ) , C ( 6 , − 7 ) \\mathrm{B}(6,4), \\mathrm{C}(6,-7) B ( 6 , 4 ) , C ( 6 , − 7 ) এবং D ( 4 , − 7 ) \\mathrm{D}(4,-7) D ( 4 , − 7 ) xy সমতলে বিন্দু চারটি স্থাপন করি। ধরি, BC রেখা x-অক্ষকে E বিন্দুতে ছেদ করে। এখন, BC রেখার সমীকরণ, x − 6 y − 4 = 6 − 6 4 − ( − 7 ) \\frac{x-6}{y-4}=\\frac{6-6}{4-(-7)} y − 4 x − 6 ​ = 4 − ( − 7 ) 6 − 6 ​ বা, x − 6 y − 4 = 0 11 \\frac{x-6}{y-4}=\\frac{0}{11} y − 4 x − 6 ​ = 11 0 ​ বা, x − 6 = 0 x-6=0 x − 6 = 0 ∴ x = 6 \\therefore \\quad \\mathrm{x}=6 ∴ x = 6 ∴ \\therefore \\quad ∴ রেখাটি x -অক্ষকে E বিন্দুতে ছেদ করলে E বিন্দুর কোটি শূন্য। অর্থাৎ y = 0 \\mathrm{y}=0 y = 0 . ∴ E \\therefore \\quad \\mathrm{E} ∴ E বিন্দুর স্থানাঙ্ক ( 6 , 0 ) (6,0) ( 6 , 0 ) . আবার, ধরি, AD রেখা y-অক্ষকে F বিন্দুতে ছেদ করে। AD রেখার সমীকরণ, x − ( − 4 ) y − 4 = − 4 − 4 4 − ( − 7 ) \\frac{\\mathrm{x}-(-4)}{\\mathrm{y}-4}=\\frac{-4-4}{4-(-7)} y − 4 x − ( − 4 ) ​ = 4 − ( − 7 ) − 4 − 4 ​ বা, x + 4 y − 4 = − 8 11 \\frac{x+4}{y-4}=\\frac{-8}{11} y − 4 x + 4 ​ = 11 − 8 ​ বা, 11 x + 44 = − 8 y + 32 11 x+44=-8 y+32 11 x + 44 = − 8 y + 32 বা, 11 x + 8 y = 32 − 44 11 x+8 y=32-44 11 x + 8 y = 32 − 44 ∴ 11 x + 8 y = − 12 \\therefore \\quad 11 x+8 y=-12 ∴ 11 x + 8 y = − 12 রেখাটি y y y -অক্ষকে F F F বিন্দুতে ছেদ করলে F F F বিন্দুর ভূজ শূন্য। অর্থাৎ x = 0 \\mathrm{x}=0 x = 0 . ∴ 11 × 0 + 8 y = − 12 \\therefore \\quad 11 \\times 0+8 y=-12 ∴ 11 × 0 + 8 y = − 12 বা, 8 y = − 12 8 y=-12 8 y = − 12 বা, y = − 12 8 = − 3 2 y=\\frac{-12}{8}=\\frac{-3}{2} y = 8 − 12 ​ = 2 − 3 ​ ∴ F \\therefore \\quad F ∴ F বিন্দুর স্থানাঙ্ক ( 0 , − 3 2 ) \\left(0, \\frac{-3}{2}\\right) ( 0 , 2 − 3 ​ ) এখন, চতুর্থ চতুর্ভাগে E ( 6 , 0 ) , O ( 0 , 0 ) , F ( 0 , − 3 2 ) , D ( 4 , − 7 ) \\mathrm{E}(6,0), \\mathrm{O}(0,0), \\mathrm{F}\\left(0, \\frac{-3}{2}\\right), \\mathrm{D}(4,-7) E ( 6 , 0 ) , O ( 0 , 0 ) , F ( 0 , 2 − 3 ​ ) , D ( 4 , − 7 ) ও C ( 6 , − 7 ) (6,-7) ( 6 , − 7 ) বিন্দুগুলো দ্বারা গঠিত EOFDC পঞ্চভুজের ক্ষেত্রফল = 1 2 ∣ 6 0 0 4 6 6 0 0 − 3 2 − 7 − 7 0 ∣ =\\frac{1}{2}\\left|\\begin{array}{cccccc}6 & 0 & 0 & 4 & 6 & 6 \\\\ 0 & 0 & \\frac{-3}{2} & -7 & -7 & 0\\end{array}\\right| = 2 1 ​ ​ 6 0 ​ 0 0 ​ 0 2 − 3 ​ ​ 4 − 7 ​ 6 − 7 ​ 6 0 ​ ​ বর্গ একক = 1 2 ( 0 − 0 − 0 − 28 + 0 − 0 − 0 + 4 × 3 2 + 42 + 42. ) =\\frac{1}{2}\\left(0-0-0-28+0-0-0+4 \\times \\frac{3}{2}+42+42.\\right) = 2 1 ​ ( 0 − 0 − 0 − 28 + 0 − 0 − 0 + 4 × 2 3 ​ + 42 + 42. ) বর্গ একক = 1 2 × 62 =\\frac{1}{2} \\times 62 = 2 1 ​ × 62 বর্গ একক = 31 =31 = 31 বর্গ একক নির্ণেয় ক্ষেত্রফল 31 বর্গ একক।"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "Δ \\Delta Δ ABC এ AD, BE ও CF যথাক্রমে BC, CA এবং AB বাহুর উপর মধ্যমা। মধ্যমা তিনটি পরস্পর G বিন্দুতে ছেদ করেছে।",
+      "tag": "JB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি সমবাহু ত্রিভুজের পরিবৃত্তের ব্যাসার্ধ 6 সে.মি.হলে ত্রিভুজটির বাহুর দৈর্ঘ্য নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, A D 2 + B D 2 = 1 2 ( A B 2 + A C 2 ) \\mathrm{AD}^{2}+\\mathrm{BD}^{2}=\\frac{1}{2}\\left(\\mathrm{AB}^{2}+\\mathrm{AC}^{2}\\right) AD 2 + BD 2 = 2 1 ​ ( AB 2 + AC 2 ) .",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "ভেক্টরের সাহায্যে প্রমাণ কর যে, A D → + B E → + C F → = 0 ‾ \\overrightarrow{\\mathrm{AD}}+\\overrightarrow{\\mathrm{BE}}+\\overrightarrow{\\mathrm{CF}}=\\underline{0} AD + BE + CF = 0 ​ .",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "p s i n 2 θ + q cos ⁡ 2 θ = 8. \\mathrm{psin}^{2} \\theta+\\mathrm{q} \\cos ^{2} \\theta=8 . psin 2 θ + q cos 2 θ = 8.",
+      "tag": "JB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "30 ∘ 12 ′ 36 ′ ′ 30^{\\circ} 12^{\\prime} 36^{\\prime \\prime} 3 0 ∘ 1 2 ′ 3 6 ′′ কে রেডিয়ানে প্রকাশ কর।",
+          "explanation": "30 ∘ 12 ′ 36 ′ ′ = 30 ∘ ( 12 36 60 ) ′ = 30 ∘ ( 12 3 5 ) ′ = 30 ∘ ( 63 5 ) ′ = ( 30 63 5 × 60 ) ∘ = ( 30 21 100 ) ∘ = ( 3021 100 ) ∘ = 3021 100 × π 180  রেডিয়ান  = 0.5273  রেডিয়ান (প্রায়)  ∴ 30 ∘ 12 ′ 36 ′ ′ = 0.5273  রেডিয়ান (প্রায়)।  \\begin{aligned} \\begin{aligned} 30^{\\circ} 12^{\\prime} 36^{\\prime \\prime} & =30^{\\circ}\\left(12 \\frac{36}{60}\\right)^{\\prime}=30^{\\circ}\\left(12 \\frac{3}{5}\\right)^{\\prime}=30^{\\circ}\\left(\\frac{63}{5}\\right)^{\\prime} \\\\ & =\\left(30 \\frac{63}{5 \\times 60}\\right)^{\\circ}=\\left(30 \\frac{21}{100}\\right)^{\\circ} \\\\ & =\\left(\\frac{3021}{100}\\right)^{\\circ}=\\frac{3021}{100} \\times \\frac{\\pi}{180} \\text { রেডিয়ান } \\\\ & =0.5273 \\text { রেডিয়ান (প্রায়) } \\\\ \\therefore \\quad 30^{\\circ} 12^{\\prime} 36^{\\prime \\prime} & =0.5273 \\text { রেডিয়ান (প্রায়)। }\\end{aligned}\\end{aligned} 3 0 ∘ 1 2 ′ 3 6 ′′ ∴ 3 0 ∘ 1 2 ′ 3 6 ′′ ​ = 3 0 ∘ ( 12 60 36 ​ ) ′ = 3 0 ∘ ( 12 5 3 ​ ) ′ = 3 0 ∘ ( 5 63 ​ ) ′ = ( 30 5 × 60 63 ​ ) ∘ = ( 30 100 21 ​ ) ∘ = ( 100 3021 ​ ) ∘ = 100 3021 ​ × 180 π ​   রেডিয়ান   = 0.5273   রেডিয়ান  ( প্রায় )  = 0.5273   রেডিয়ান  ( প্রায় ) ।   ​ ​"
+        },
+        {
+          "label": "খ",
+          "question": "p = 11 p=11 p = 11 এবং q = 7 q=7 q = 7 হলে, দেখাও যে, tan ⁡ θ = ± 1 3 \\tan \\theta= \\pm \\frac{1}{\\sqrt{3}} tan θ = ± 3 ​ 1 ​ .",
+          "explanation": "দেওয়া আছে, p sin ⁡ 2 θ + q cos ⁡ 2 θ = 8 \\mathrm{p} \\sin ^{2} \\theta+\\mathrm{q} \\cos ^{2} \\theta=8 p sin 2 θ + q cos 2 θ = 8 এখন, p = 11 এবং q=7 হলে, 11 sin ⁡ 2 θ + 7 cos ⁡ 2 θ = 8 11 \\sin ^{2} \\theta+7 \\cos ^{2} \\theta=8 11 sin 2 θ + 7 cos 2 θ = 8 বা, cos ⁡ 2 θ ( 11 sin ⁡ 2 θ cos ⁡ 2 θ + 7 ) = 8 \\cos ^{2} \\theta\\left(11 \\frac{\\sin ^{2} \\theta}{\\cos ^{2} \\theta}+7\\right)=8 cos 2 θ ( 11 c o s 2 θ s i n 2 θ ​ + 7 ) = 8 বা, cos ⁡ 2 θ ( 11 tan ⁡ 2 θ + 7 ) = 8 [ ∵ sin ⁡ θ cos ⁡ θ = tan ⁡ θ ] \\cos ^{2} \\theta\\left(11 \\tan ^{2} \\theta+7\\right)=8\\left[\\because \\frac{\\sin \\theta}{\\cos \\theta}=\\tan \\theta\\right] cos 2 θ ( 11 tan 2 θ + 7 ) = 8 [ ∵ c o s θ s i n θ ​ = tan θ ] বা, 11 tan ⁡ 2 θ + 7 = 8 cos ⁡ 2 θ 11 \\tan ^{2} \\theta+7=\\frac{8}{\\cos ^{2} \\theta} 11 tan 2 θ + 7 = c o s 2 θ 8 ​ বা, 11 tan ⁡ 2 θ + 7 = 8 sec ⁡ 2 θ [ ∵ 1 cos ⁡ θ = sec ⁡ θ ] 11 \\tan ^{2} \\theta+7=8 \\sec ^{2} \\theta\\left[\\because \\frac{1}{\\cos \\theta}=\\sec \\theta\\right] 11 tan 2 θ + 7 = 8 sec 2 θ [ ∵ c o s θ 1 ​ = sec θ ] বা, 11 tan ⁡ 2 θ + 7 = 8 ( 1 + tan ⁡ 2 θ ) [ ∵ sec ⁡ 2 θ = 1 + tan ⁡ 2 θ ] 11 \\tan ^{2} \\theta+7=8\\left(1+\\tan ^{2} \\theta\\right)\\left[\\because \\sec ^{2} \\theta=1+\\tan ^{2} \\theta\\right] 11 tan 2 θ + 7 = 8 ( 1 + tan 2 θ ) [ ∵ sec 2 θ = 1 + tan 2 θ ] বা, 11 tan ⁡ 2 θ + 7 = 8 + 8 tan ⁡ 2 θ 11 \\tan ^{2} \\theta+7=8+8 \\tan ^{2} \\theta 11 tan 2 θ + 7 = 8 + 8 tan 2 θ বা, 11 tan ⁡ 2 θ − 8 tan ⁡ 2 θ = 8 − 7 11 \\tan ^{2} \\theta-8 \\tan ^{2} \\theta=8-7 11 tan 2 θ − 8 tan 2 θ = 8 − 7 বা, 3 tan ⁡ 2 θ = 1 3 \\tan ^{2} \\theta=1 3 tan 2 θ = 1 বা, tan ⁡ 2 θ = 1 3 \\tan ^{2} \\theta=\\frac{1}{3} tan 2 θ = 3 1 ​ বা, tan ⁡ θ = ± 1 3 \\tan \\theta= \\pm \\sqrt{\\frac{1}{3}} tan θ = ± 3 1 ​ ​ ∴ tan ⁡ θ = ± 1 3 \\therefore \\quad \\tan \\theta= \\pm \\frac{1}{\\sqrt{3}} ∴ tan θ = ± 3 ​ 1 ​ . (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "p = 9 p=9 p = 9 এবং q = 5 q=5 q = 5 হলে, θ \\theta θ এর সম্ভাব্য মানসমূহ নির্ণয় কর; যেখানে 0 < θ < 2 π 0<\\theta<2 \\pi 0 < θ < 2 π .",
+          "explanation": "দেওয়া আছে, p sin ⁡ 2 θ + q cos ⁡ 2 θ = 8 \\mathrm{p} \\sin ^{2} \\theta+\\mathrm{q} \\cos ^{2} \\theta=8 p sin 2 θ + q cos 2 θ = 8 এখন, p = 9 p=9 p = 9 এবং q = 5 q=5 q = 5 হলে, 9 sin ⁡ 2 θ + 5 cos ⁡ 2 θ = 8 9 \\sin ^{2} \\theta+5 \\cos ^{2} \\theta=8 9 sin 2 θ + 5 cos 2 θ = 8 বা, 9 sin ⁡ 2 θ + 5 ( 1 − sin ⁡ 2 θ ) = 8 [ ∵ cos ⁡ 2 θ = 1 − sin ⁡ 2 θ ] 9 \\sin ^{2} \\theta+5\\left(1-\\sin ^{2} \\theta\\right)=8\\left[\\because \\cos ^{2} \\theta=1-\\sin ^{2} \\theta\\right] 9 sin 2 θ + 5 ( 1 − sin 2 θ ) = 8 [ ∵ cos 2 θ = 1 − sin 2 θ ] বা, 9 sin ⁡ 2 θ + 5 − 5 sin ⁡ 2 θ = 8 9 \\sin ^{2} \\theta+5-5 \\sin ^{2} \\theta=8 9 sin 2 θ + 5 − 5 sin 2 θ = 8 বা, 4 sin ⁡ 2 θ = 8 − 5 = 3 4 \\sin ^{2} \\theta=8-5=3 4 sin 2 θ = 8 − 5 = 3 বা, sin ⁡ 2 θ = 3 4 ∴ sin ⁡ θ = ± 3 2 \\sin ^{2} \\theta=\\frac{3}{4} \\therefore \\sin \\theta= \\pm \\frac{\\sqrt{3}}{2} sin 2 θ = 4 3 ​ ∴ sin θ = ± 2 3 ​ ​ এখন, sin ⁡ θ = 3 2 \\sin \\theta=\\frac{\\sqrt{3}}{2} sin θ = 2 3 ​ ​ হলে, ১ম চতুর্ভাগে, sin ⁡ θ = 3 2 = sin ⁡ π 3 \\sin \\theta=\\frac{\\sqrt{3}}{2}=\\sin \\frac{\\pi}{3} sin θ = 2 3 ​ ​ = sin 3 π ​ ∴ θ = π 3 \\therefore \\theta=\\frac{\\pi}{3} ∴ θ = 3 π ​ ২য় চতুর্ভাগে, sin ⁡ θ = 3 2 = sin ⁡ ( π − π 3 ) = sin ⁡ 2 π 3 \\sin \\theta=\\frac{\\sqrt{3}}{2}=\\sin \\left(\\pi-\\frac{\\pi}{3}\\right)=\\sin \\frac{2 \\pi}{3} sin θ = 2 3 ​ ​ = sin ( π − 3 π ​ ) = sin 3 2 π ​ ∴ θ = 2 π 3 \\therefore \\theta=\\frac{2 \\pi}{3} ∴ θ = 3 2 π ​ আবার, sin ⁡ θ = − 3 2 \\sin \\theta=-\\frac{\\sqrt{3}}{2} sin θ = − 2 3 ​ ​ হলে, ৩য় চতুর্ভাগে, sin ⁡ θ = − sin ⁡ 3 2 = sin ⁡ ( π + π 3 ) = sin ⁡ 4 π 3 \\sin \\theta=-\\sin \\frac{\\sqrt{3}}{2}=\\sin \\left(\\pi+\\frac{\\pi}{3}\\right)=\\sin \\frac{4 \\pi}{3} sin θ = − sin 2 3 ​ ​ = sin ( π + 3 π ​ ) = sin 3 4 π ​ ∴ θ = 4 π 3 \\therefore \\theta=\\frac{4 \\pi}{3} ∴ θ = 3 4 π ​ ৪র্থ চতুর্ভাগে, sin ⁡ θ = − 3 2 = sin ⁡ ( 2 π − π 3 ) = sin ⁡ 5 π 3 \\sin \\theta=-\\frac{\\sqrt{3}}{2}=\\sin \\left(2 \\pi-\\frac{\\pi}{3}\\right)=\\sin \\frac{5 \\pi}{3} sin θ = − 2 3 ​ ​ = sin ( 2 π − 3 π ​ ) = sin 3 5 π ​ ∴ θ = 5 π 3 \\therefore \\theta=\\frac{5 \\pi}{3} ∴ θ = 3 5 π ​ নির্ণেয় সমাধান : θ = π 3 , 2 π 3 , 4 π 3 , 5 π 3 \\theta=\\frac{\\pi}{3}, \\frac{2 \\pi}{3}, \\frac{4 \\pi}{3}, \\frac{5 \\pi}{3} θ = 3 π ​ , 3 2 π ​ , 3 4 π ​ , 3 5 π ​ ."
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "(i) একটি ছক্কা ও দুইটি মুদ্রা একত্রে নিক্ষেপ করা হলো। (ii) একজন লোকের রাজশাহী হতে ঢাকায় ট্রেনে যাওয়ার সম্ভাবনা 5 8 \\frac{5}{8} 8 5 ​ এবং ঢাকা হতে কুমিল্পা বাসে যাওয়ার সম্ভাবনা 2 5 \\frac{2}{5} 5 2 ​ .",
+      "tag": "JB 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "জুলাই মাসে ঢাকা শহরে 21 দিন বৃষ্টি হয়েছে। তাহলে 8 জুলাই বৃষ্টি না হওয়ার সম্ভাবনা কত?",
+          "explanation": "যেহেতু জুলাই মাস 31 দিনে এবং জুলাই মাসে ঢাকা শহরে 21 দিন বৃষ্টি হয়েছে। ∴ \\therefore \\quad ∴ জুলাই মাসে যেকোনো একদিন বৃষ্টি হওয়ার সম্ভাবনা = 21 31 =\\frac{21}{31} = 31 21 ​ তাহলে, 8 জুলাই বৃষ্টি হওয়ার সম্ভাবনা = 21 31 \\frac{21}{31} 31 21 ​ অতএব, 8 জুলাই বৃষ্টি না হওয়ার সম্ভাবনা = 1 − 21 31 1-\\frac{21}{31} 1 − 31 21 ​ = 31 − 21 31 = 10 31 =\\frac{31-21}{31}=\\frac{10}{31} = 31 31 − 21 ​ = 31 10 ​ নির্ণেয় সম্ভাবনা 10 31 \\frac{10}{31} 31 10 ​ ."
+        },
+        {
+          "label": "খ",
+          "question": "(i) নং হতে Probability tree অঙ্কন করে নমুনাক্ষেত্রটি লেখ।",
+          "explanation": "একটি ছক্কা ও দুইটি মুদ্রা নিক্ষেপের পরীক্ষাকে তিনটি ধাপ হিসেবে বিবেচনা করি। প্রথম ধাপে ছক্কা নিক্ষেপে 6টি ফলাফল {1, 2, 3, 4, 5, 6} আসতে পারে। পরবর্তী দুইটি ধাপের প্রত্যেকটিতে 2টি ফলাফল H অথবা T আসতে পারে। তাই পরীক্ষায় মোট ফলাফলকে Probability Tree এর সাহায্যে নিচে দেখানো হলো: ∴ \\therefore ∴ নমুনাক্ষেত্রটি : S = { 1 H H , 1 H T , 1 T H , 1 T T , 2 H H , 2 H T , 2 T H \\mathrm{S}=\\{1 \\mathrm{HH}, 1 \\mathrm{HT}, 1 \\mathrm{TH}, 1 \\mathrm{TT}, 2 \\mathrm{HH}, 2 \\mathrm{HT}, 2 \\mathrm{TH} S = { 1 HH , 1 HT , 1 TH , 1 TT , 2 HH , 2 HT , 2 TH , 2 T T , 3 H H , 3 H T , 3 T H , 3 T T , 4 H H , 4 H T , 4 T H , 4 T T , 5 H H 2 \\mathrm{TT}, 3 \\mathrm{HH}, 3 \\mathrm{HT}, 3 \\mathrm{TH}, 3 \\mathrm{TT}, 4 \\mathrm{HH}, 4 \\mathrm{HT}, 4 \\mathrm{TH}, 4 \\mathrm{TT}, 5 \\mathrm{HH} 2 TT , 3 HH , 3 HT , 3 TH , 3 TT , 4 HH , 4 HT , 4 TH , 4 TT , 5 HH , 5 H T , 5 T H , 5 T T , 6 H H , 6 H T , 6 T H , 6 T T } 5 \\mathrm{HT}, 5 \\mathrm{TH}, 5 \\mathrm{TT}, 6 \\mathrm{HH}, 6 \\mathrm{HT}, 6 \\mathrm{TH}, 6 \\mathrm{TT}\\} 5 HT , 5 TH , 5 TT , 6 HH , 6 HT , 6 TH , 6 TT } ."
+        },
+        {
+          "label": "গ",
+          "question": "(ii) নং হতে Probability tree ব্যবহার করে লোকটি ঢাকায় ট্রেনে কিন্তু কুমিল্লায় বাসে না যাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "সম্ভাবনার মাধ্যমে Probability tree নিচে অঙ্কন করা হলো: ∴ P ( \\therefore \\quad \\mathrm{P}( ∴ P ( লোকটি ঢাকায় ট্রেনে কিন্তু কুমিল্লায় বাসে না যাওয়ার ) = 5 8 × 3 5 = 3 8 )=\\frac{5}{8} \\times \\frac{3}{5}=\\frac{3}{8} ) = 8 5 ​ × 5 3 ​ = 8 3 ​ নির্ণেয় সম্ভাবনা 3 8 \\frac{3}{8} 8 3 ​"
+        }
+      ]
+    }
+  ]
+}

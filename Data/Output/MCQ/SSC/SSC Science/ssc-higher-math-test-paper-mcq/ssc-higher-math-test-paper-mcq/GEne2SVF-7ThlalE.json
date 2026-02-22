@@ -1,0 +1,832 @@
+{
+  "read_id": "GEne2SVF-7ThlalE",
+  "title": "রাজশাহী ক্যাডেট কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RCC 24",
+      "question": "A = ∅  হলে,  P ( A ) = ? A=\\varnothing \\text { হলে, } P(A)=? A = ∅   হলে ,  P ( A ) = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "∅ \\varnothing ∅",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ ∅ } \\{{\\varnothing}\\} { ∅ }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 0 } \\{0\\} { 0 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "∅ \\varnothing ∅",
+      "option_b": "{ ∅ } \\{{\\varnothing}\\} { ∅ }",
+      "option_c": "{ 0 } \\{0\\} { 0 }",
+      "option_d": "0",
+      "correct": "ঘ",
+      "explanation": "ধরা যাক, A = ∅ A = \\varnothing A = ∅ হল শূন্য সেট। সম্ভাব্যতার সংজ্ঞা অনুসারে, কোনও ঘটনাবলী সংঘটিত হওয়ার সম্ভাবনা হচ্ছে ওই ঘটনাবলী সংঘটিত হওয়ার অনুকূল উপায়ের সংখ্যা এবং সর্বমোট সম্ভাব্য উপায়ের সংখ্যার অনুপাত।যেহেতু A = ∅ A = \\varnothing A = ∅ হল শূন্য সেট, সেক্ষেত্রে সম্ভাবনা থাকবে 0, কারণ কোনও উপায়ই নেই যে শূন্য সেটের ঘটনা ঘটবে। সুতরাং, P ( A ) = 0 P(A) = 0 P ( A ) = 0 ।"
+    },
+    {
+      "number": "2",
+      "tag": "RCC 24",
+      "question": "U n = 1 + ( − 1 ) n U_{n}=1+(-1)^{n} U n ​ = 1 + ( − 1 ) n হলে, S 100 = S_{100}= S 100 ​ = কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "100",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "2",
+      "option_c": "50",
+      "option_d": "100",
+      "correct": "ঘ",
+      "explanation": "পদের মান বিশ্লেষণ: যদি n n n বিজোড় সংখ্যা হয় (যেমন n = 1 , 3 , 5 , … n=1,3,5, \\ldots n = 1 , 3 , 5 , … ): ( − 1 ) n = − 1 ⟹ U n = 1 + ( − 1 ) = 0 (-1)^{n}=-1 \\Longrightarrow U_{n}=1+(-1)=0 ( − 1 ) n = − 1 ⟹ U n ​ = 1 + ( − 1 ) = 0 যদি n n n জোড় সংখ্যা হয় (যেমন n = 2 , 4 , 6 , … n=2,4,6, \\ldots n = 2 , 4 , 6 , … ): ( − 1 ) n = 1 ⟹ U n = 1 + 1 = 2 (-1)^{n}=1 \\Longrightarrow U_{n}=1+1=2 ( − 1 ) n = 1 ⟹ U n ​ = 1 + 1 = 2 প্রথম ১০০টি পদের সমষ্টি ( S 100 S_{100} S 100 ​ ) গণনা: মোট পদ সংখ্যা = ১০০টি এর মধ্যে বিজোড় পদ সংখ্যা = = = ৫০টি প্রতিটি বিজোড় n n n এর জন্য U n = 0 U_{n}=0 U n ​ = 0 ) জোড় পদ সংখ্যা = ৫০টি (প্রতিটি জোড় n n n এর জন্য U n = 2 U_{n}=2 U n ​ = 2 ) সুতরাং, সমষ্টি: S 100 = ( 50 × 0 ) + ( 50 × 2 ) = 0 + 100 = 100 S_{100}=(50 \\times 0)+(50 \\times 2)=0+100=100 S 100 ​ = ( 50 × 0 ) + ( 50 × 2 ) = 0 + 100 = 100"
+    },
+    {
+      "number": "3",
+      "tag": "CTG.B 25,RPLSC 24,RCC 24,JB 23,BB 22,BB 20,All.B 18",
+      "question": "5 x 2 − 3 x − 1 5 x^{2}-3 x-1 5 x 2 − 3 x − 1 কে ( 2 x + 1 ) (2 x+1) ( 2 x + 1 ) দ্বারা ভাগ করলে ভাগশেষ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 7 \\frac{4}{7} 7 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 4 \\frac{7}{4} 4 7 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+      "option_b": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+      "option_c": "4 7 \\frac{4}{7} 7 4 ​",
+      "option_d": "7 4 \\frac{7}{4} 4 7 ​",
+      "correct": "ঘ",
+      "explanation": "f ( x ) = 5 x 2 − 3 x − 1 f(x)=5 x^{2}-3 x-1 f ( x ) = 5 x 2 − 3 x − 1 এবং ( 2 x + 1 ) (2 x+1) ( 2 x + 1 ) এর মূল নির্ণয় করুন 2 x + 1 = 0 2 x+1=0 2 x + 1 = 0 হলে, x = − 1 2 x=-\\frac{1}{2} x = − 2 1 ​ ভাগশেষ উপপাদ্য প্রয়োগ করুন ভাগশেষ হবে f ( − 1 2 ) f\\left(-\\frac{1}{2}\\right) f ( − 2 1 ​ ) : f ( − 1 2 ) = 5 ( − 1 2 ) 2 − 3 ( − 1 2 ) − 1 f\\left(-\\frac{1}{2}\\right)=5\\left(-\\frac{1}{2}\\right)^{2}-3\\left(-\\frac{1}{2}\\right)-1 f ( − 2 1 ​ ) = 5 ( − 2 1 ​ ) 2 − 3 ( − 2 1 ​ ) − 1 মানগুলি গণনা করুন 5 ( − 1 2 ) 2 = 5 ⋅ 1 4 = 5 4 − 3 ( − 1 2 ) = 3 2 f ( − 1 2 ) = 5 4 + 3 2 − 1 \\begin{array}{c} 5\\left(-\\frac{1}{2}\\right)^{2}=5 \\cdot \\frac{1}{4}=\\frac{5}{4} \\\\ -3\\left(-\\frac{1}{2}\\right)=\\frac{3}{2} \\\\ f\\left(-\\frac{1}{2}\\right)=\\frac{5}{4}+\\frac{3}{2}-1 \\end{array} 5 ( − 2 1 ​ ) 2 = 5 ⋅ 4 1 ​ = 4 5 ​ − 3 ( − 2 1 ​ ) = 2 3 ​ f ( − 2 1 ​ ) = 4 5 ​ + 2 3 ​ − 1 ​ সমীকরণ সরলীকরণ করুন 5 4 + 3 2 − 1 = 5 4 + 6 4 − 4 4 = 7 4 \\frac{5}{4}+\\frac{3}{2}-1=\\frac{5}{4}+\\frac{6}{4}-\\frac{4}{4}=\\frac{7}{4} 4 5 ​ + 2 3 ​ − 1 = 4 5 ​ + 4 6 ​ − 4 4 ​ = 4 7 ​"
+    },
+    {
+      "number": "4",
+      "tag": "CB 20,DIN.B 19",
+      "question": "একটি মুদ্রা তিন বার নিক্ষেপ করা হল। দুটি T ও একটি H পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 8 \\frac{3}{8} 8 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 8 \\frac{5}{8} 8 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_c": "3 8 \\frac{3}{8} 8 3 ​",
+      "option_d": "5 8 \\frac{5}{8} 8 5 ​",
+      "correct": "গ",
+      "explanation": "একটি মুদ্রা তিনবার নিক্ষেপ করলে মোট সম্ভাব্য ফলাফল ৮টি: HHH, HHT, HTH, HTT, THH, THT, TTH, TTT।  এর মধ্যে দুটি টেল ও একটি হেড আছে এমন ফলাফল হলো: HTT, THT, TTH।  সুতরাং, দুটি টেল ও একটি হেড পাওয়ার সম্ভাবনা = (দুটি টেল ও একটি হেড আছে এমন ফলাফলের সংখ্যা) / (মোট সম্ভাব্য ফলাফল) = 3/8"
+    },
+    {
+      "number": "5",
+      "tag": "VNSC 24,RCC 24",
+      "question": "f ( x ) = ( x 3 + 1 x 2 ) 10 f(x)=\\left(x^{3}+\\frac{1}{x^{2}}\\right)^{10} f ( x ) = ( x 3 + x 2 1 ​ ) 10 f ( x ) f(\\mathbf{x}) f ( x ) এর বিস্তৃতিতে x x x মুক্ত পদের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10 C 5 { }^{10} \\mathrm{C}_{5} 10 C 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10 C 6 { }^{10} \\mathrm{C}_{6} 10 C 6 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "11 C 5 { }^{11} \\mathrm{C}_{5} 11 C 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "10 C 5 { }^{10} \\mathrm{C}_{5} 10 C 5 ​",
+      "option_c": "10 C 6 { }^{10} \\mathrm{C}_{6} 10 C 6 ​",
+      "option_d": "11 C 5 { }^{11} \\mathrm{C}_{5} 11 C 5 ​",
+      "correct": "গ",
+      "explanation": "( x 3 + 1 x 2 ) 10 \\left(x^{3}+\\frac{1}{x^{2}}\\right)^{10} ( x 3 + x 2 1 ​ ) 10 এর বিস্তৃতিতে ( r + 1 ) (r+1) ( r + 1 ) তম পদ = 10 C r ( x 3 ) 10 − r ( 1 x 2 ) r = 10 C r x 30 − 3 r − 2 r = 10 C r x 30 − 5 r ={ }^{10} \\mathrm{C}_{\\mathrm{r}}\\left(\\mathrm{x}^{3}\\right)^{10-r}\\left(\\frac{1}{x^{2}}\\right)^{r}={ }^{10} \\mathrm{C}_{\\mathrm{r}} \\mathrm{x}^{30-3 \\mathrm{r}-2 \\mathrm{r}}={ }^{10} \\mathrm{C}_{\\mathrm{r}} \\mathrm{x}^{30-5 r} = 10 C r ​ ( x 3 ) 10 − r ( x 2 1 ​ ) r = 10 C r ​ x 30 − 3 r − 2 r = 10 C r ​ x 30 − 5 r শর্তমতে, 30 − 5 r = 0 30-5 \\mathrm{r}=0 30 − 5 r = 0 বা, 5 r = 30 ∴ r = 6 5 \\mathrm{r}=30 \\quad \\therefore \\mathrm{r}=6 5 r = 30 ∴ r = 6 ∴ x \\therefore \\mathrm{x} ∴ x মুক্ত পদের সহগ = 10 C 6 ={ }^{10} \\mathrm{C}_{6} = 10 C 6 ​"
+    },
+    {
+      "number": "6",
+      "tag": "VNSC 24,RCC 24",
+      "question": "f ( x ) = ( x 3 + 1 x 2 ) 10 f(x)=\\left(x^{3}+\\frac{1}{x^{2}}\\right)^{10} f ( x ) = ( x 3 + x 2 1 ​ ) 10 f ( x ) f(\\mathbf{x}) f ( x ) এর বিস্তৃতিতে x x x মুক্ত পদের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10 C 5 { }^{10} \\mathrm{C}_{5} 10 C 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "10 C 6 { }^{10} \\mathrm{C}_{6} 10 C 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "11 C 5 { }^{11} \\mathrm{C}_{5} 11 C 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "10 C 5 { }^{10} \\mathrm{C}_{5} 10 C 5 ​",
+      "option_c": "10 C 6 { }^{10} \\mathrm{C}_{6} 10 C 6 ​",
+      "option_d": "11 C 5 { }^{11} \\mathrm{C}_{5} 11 C 5 ​",
+      "correct": "খ",
+      "explanation": "( x 3 + 1 x 2 ) 10 \\left(x^{3}+\\frac{1}{x^{2}}\\right)^{10} ( x 3 + x 2 1 ​ ) 10 এর বিস্তৃতিতে ( r + 1 ) (r+1) ( r + 1 ) তম পদ = 10 C r ( x 3 ) 10 − r ( 1 x 2 ) r = 10 C r x 30 − 3 r − 2 r = 10 C r x 30 − 5 r ={ }^{10} \\mathrm{C}_{\\mathrm{r}}\\left(\\mathrm{x}^{3}\\right)^{10-r}\\left(\\frac{1}{x^{2}}\\right)^{r}={ }^{10} \\mathrm{C}_{\\mathrm{r}} \\mathrm{x}^{30-3 \\mathrm{r}-2 \\mathrm{r}}={ }^{10} \\mathrm{C}_{\\mathrm{r}} \\mathrm{x}^{30-5 r} = 10 C r ​ ( x 3 ) 10 − r ( x 2 1 ​ ) r = 10 C r ​ x 30 − 3 r − 2 r = 10 C r ​ x 30 − 5 r শর্তমতে, 30 − 5 r = 0 30-5 \\mathrm{r}=0 30 − 5 r = 0 বা, 5 r = 30 ∴ r = 6 5 \\mathrm{r}=30 \\quad \\therefore \\mathrm{r}=6 5 r = 30 ∴ r = 6 ∴ x \\therefore \\mathrm{x} ∴ x মুক্ত পদের সহগ = 10 C 6 ={ }^{10} \\mathrm{C}_{6} = 10 C 6 ​"
+    },
+    {
+      "number": "7",
+      "tag": "RCC 24",
+      "question": "x 2 + 5 x + 1 = 0 x^{2}+\\sqrt{5} x+1=0 x 2 + 5 ​ x + 1 = 0 সমীকরণের মূলদ্বয়- i. বাস্তব ii. মূলদ iii. অমূলদ নিচের কোনটি সঠিিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "কোয়াড্রাটিক সমীকরণে নিধায়কের সৃত্র: D = b 2 − 4 a c D=b^{2}-4 a c D = b 2 − 4 a c এখানে: - a = 1 a=1 a = 1 - b = 5 b=\\sqrt{5} b = 5 ​ - c = 1 c=1 c = 1 তাহলে: D = ( 5 ) 2 − 4 ( 1 ) ( 1 ) D = 5 − 4 = 1 \\begin{array}{c} D=(\\sqrt{5})^{2}-4(1)(1) \\\\ D=5-4=1 \\end{array} D = ( 5 ​ ) 2 − 4 ( 1 ) ( 1 ) D = 5 − 4 = 1 ​ ধাপ ২: নিসচয়ক( D = 1 D=1 D = 1 ) ধনাত্মক, তাই: - মূলগুলো বাশ্তব (Real)। - b = 5 b=\\sqrt{5} b = 5 ​ হওয়ায়, মুলগুলো অমূলদ (Irrational)। চূড়ান্ত উত্তর এইই সমীকরণের মূলগুলো: 1. বাস্তব (Real)। 2. অমুলদ (Irrational)।"
+    },
+    {
+      "number": "8",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "ক",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "9",
+      "tag": "RCC 24",
+      "question": "f(x + 1) = 2x + 3 হলে f(3) = কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "19",
+          "is_correct": true
+        }
+      ],
+      "option_a": "7",
+      "option_b": "9",
+      "option_c": "11",
+      "option_d": "19",
+      "correct": "ঘ",
+      "explanation": "ধরি, x + 1 = 3 ∴ x = 2 ∴ f ( 2 + 1 ) = 2 × 2 + 3 ⇒ f ( 3 ) = 7 \\mathrm{x}+1=3 \\therefore \\mathrm{x}=2 \\therefore \\mathrm{f}(2+1)=2 \\times 2+3 \\Rightarrow \\mathrm{f}(3)=7 x + 1 = 3 ∴ x = 2 ∴ f ( 2 + 1 ) = 2 × 2 + 3 ⇒ f ( 3 ) = 7"
+    },
+    {
+      "number": "10",
+      "tag": "RCC 24",
+      "question": "একটি মুদ্রা তিনবার নিক্ষেপ করা হলে সম্ভাব্য ফলাফল কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "6",
+      "option_d": "8",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "RCC 24",
+      "question": "অসম্ভব ঘটনার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "1 4 \\frac{1}{4} 4 1 ​",
+      "correct": "খ",
+      "explanation": "অসম্ভব ঘটনার সম্ভাবনা = 0"
+    },
+    {
+      "number": "12",
+      "tag": "RCC 24",
+      "question": "চিত্রে D ও E যথাক্রমে AB ও AC বাহুর মধ্যবিন্দু ∣ A D → ∣ = 7   N |\\overrightarrow{\\mathrm{AD}}|=7 \\mathrm{~N} ∣ AD ∣ = 7   N এবং ∣ A C → ∣ = 10   N |\\overrightarrow{\\mathrm{AC}}|=10 \\mathrm{~N} ∣ AC ∣ = 10   N হলে, ∣ A B → + C A → ∣ |\\overrightarrow{\\mathbf{A B}}+\\overrightarrow{\\mathbf{C A}}| ∣ AB + CA ∣ এর সর্বচ্চো মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "17N",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "24N",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12N",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-3N",
+          "is_correct": false
+        }
+      ],
+      "option_a": "17N",
+      "option_b": "24N",
+      "option_c": "12N",
+      "option_d": "-3N",
+      "correct": "ক",
+      "explanation": "D , A B \\mathrm{D}, \\mathrm{AB} D , AB এর মর্ধ্যবিন্দু । অর্থাৎ, ∣ A B → ∣ = 2 × ∣ A D → ∣ = 2 × 7 = 14   N |\\overrightarrow{\\mathrm{AB}}|=2 \\times|\\overrightarrow{\\mathrm{AD}}|=2 \\times 7=14 \\mathrm{~N} ∣ AB ∣ = 2 × ∣ AD ∣ = 2 × 7 = 14   N △ A B C , A B → + B C → = A C → \\triangle \\mathrm{ABC}, \\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{BC}}=\\overrightarrow{\\mathrm{AC}} △ ABC , AB + BC = AC বা, A B → − A C → = − B C → \\overrightarrow{\\mathrm{AB}}-\\overrightarrow{\\mathrm{AC}}=-\\overrightarrow{\\mathrm{BC}} AB − AC = − BC ∴ A B → + C A → = C B → \\therefore \\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{CA}}=\\overrightarrow{\\mathrm{CB}} ∴ AB + CA = CB ∴ ∣ A B → + C A → ∣ \\therefore|\\overrightarrow{\\mathrm{AB}}+\\overrightarrow{\\mathrm{CA}}| ∴ ∣ AB + CA ∣ এর সর্বোচ্চ মান = ∣ C B → ∣ = ∣ A B → ∣ + ∣ A C → ∣ = 14 + 10 = 24   N =|\\overrightarrow{\\mathrm{CB}}|=|\\overrightarrow{\\mathrm{AB}}|+|\\overrightarrow{\\mathrm{AC}}|=14+10=24 \\mathrm{~N} = ∣ CB ∣ = ∣ AB ∣ + ∣ AC ∣ = 14 + 10 = 24   N ."
+    },
+    {
+      "number": "13",
+      "tag": "RCC 24",
+      "question": "চিত্রে D ও E যথাক্রমে AB ও AC বাহুর মধ্যবিন্দু DE এবং BC এর মধ্যে সম্পর্ক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "D E = 1 2 B C \\mathrm{DE}=\\frac{1}{2} \\mathrm{BC} DE = 2 1 ​ BC",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "D E = 2 B C \\mathrm{DE}=2 \\mathrm{BC} DE = 2 BC",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "D E = B C \\mathrm{DE}=\\mathrm{BC} DE = BC",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "B C = 4 D E \\mathrm{BC}=4 \\mathrm{DE} BC = 4 DE",
+          "is_correct": false
+        }
+      ],
+      "option_a": "D E = 1 2 B C \\mathrm{DE}=\\frac{1}{2} \\mathrm{BC} DE = 2 1 ​ BC",
+      "option_b": "D E = 2 B C \\mathrm{DE}=2 \\mathrm{BC} DE = 2 BC",
+      "option_c": "D E = B C \\mathrm{DE}=\\mathrm{BC} DE = BC",
+      "option_d": "B C = 4 D E \\mathrm{BC}=4 \\mathrm{DE} BC = 4 DE",
+      "correct": "ক",
+      "explanation": "উপপাদ্য অনুসারে, ত্রিভুজের যেকোনো দুই বাহুর মধ্যবিন্দুর সংযোগ রেখা, ৩য় বাহুর সমান্তরাল এবং অর্ধেক। ∴ D E = 1 2 B C \\therefore \\quad D E=\\frac{1}{2} B C ∴ D E = 2 1 ​ BC"
+    },
+    {
+      "number": "14",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "15",
+      "tag": "RB 24,RCC 24,DIN.B 23,CB 22,SB 22,JB 22,MB 20,BB 20,All.B 18",
+      "question": "A ( 1 , 3 ) , B ( 5 , 1 ) , C ( 3 , 4 ) A(1,3), B(5,1), C(3,4) A ( 1 , 3 ) , B ( 5 , 1 ) , C ( 3 , 4 ) শীর্ষবিশিষ্ট ABC ত্রিভুজের ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "8",
+      "option_c": "14",
+      "option_d": "16",
+      "correct": "খ",
+      "explanation": "দেওয়া আছে, A B C A B C A BC ত্রিভুজের শীর্ষবিন্দু গুলো A ( 1 , 3 ) : B ( 5 , 1 ) , C ( 3 , 4 ) \\begin{array}{l} A(1,3): B(5,1), C(3,4) \\end{array} A ( 1 , 3 ) : B ( 5 , 1 ) , C ( 3 , 4 ) ​ আমরা জানি, ত্রিভুজের ক্ষেত্রফল = 1 2 [ x 1 ( y 2 − y 3 ) + x 2 ( y 3 − y 1 ) + x 3 ( y 1 − y 2 ] =\\frac{1}{2}\\left[\\begin{array}{l}x_{1}\\left(y_{2}-y_{3}\\right)+x_{2}\\left(y_{3}-y_{1}\\right)+ \\\\ x_{3}\\left(y_{1}-y_{2}\\right]\\end{array}\\right. = 2 1 ​ [ x 1 ​ ( y 2 ​ − y 3 ​ ) + x 2 ​ ( y 3 ​ − y 1 ​ ) + x 3 ​ ( y 1 ​ − y 2 ​ ] ​ x 1 = 1 , y 1 = 3 , x 2 = 5 , y 2 = 1 , x 3 = 3 , y 3 = 4 \\begin{array}{l} x_{1}=1, y_{1}=3, x_{2}=5, y_{2}=1, x_{3}=3, y_{3}=4 \\end{array} x 1 ​ = 1 , y 1 ​ = 3 , x 2 ​ = 5 , y 2 ​ = 1 , x 3 ​ = 3 , y 3 ​ = 4 ​ এখানে, ∴ = 1 2 [ 1 ( 1 − 4 ) + 5 ( 4 − 3 ) + 3 ( 3 − 1 ) ] = 1 2 [ − 3 + 5 + 6 ] = 4 \\begin{aligned} \\therefore & =\\frac{1}{2}[1(1-4)+5(4-3)+3(3-1)] \\\\ & =\\frac{1}{2}[-3+5+6] \\\\ & =4 \\end{aligned} ∴ ​ = 2 1 ​ [ 1 ( 1 − 4 ) + 5 ( 4 − 3 ) + 3 ( 3 − 1 )] = 2 1 ​ [ − 3 + 5 + 6 ] = 4 ​"
+    },
+    {
+      "number": "16",
+      "tag": "DIN.B 24,RCC 24",
+      "question": "3 x + 3 = 81 3^{x+3}=81 3 x + 3 = 81 হলে x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "খ",
+      "explanation": "3 x + 3 = 81 ⇒ 3 x + 3 = 3 4 ⇒ x + 3 = 4 ⇒ x = 4 − 3 = 1 ∴ x = 1 \\begin{aligned} & 3^{x+3}=81 \\\\ \\Rightarrow & 3^{x+3}=3^{4} \\\\ \\Rightarrow & x+3=4 \\\\ \\Rightarrow & x=4-3=1 \\\\ & \\therefore x=1 \\end{aligned} ⇒ ⇒ ⇒ ​ 3 x + 3 = 81 3 x + 3 = 3 4 x + 3 = 4 x = 4 − 3 = 1 ∴ x = 1 ​"
+    },
+    {
+      "number": "17",
+      "tag": "RCC 24",
+      "question": "একটি ফাঁপা গোলকের বাইরের ব্যাস 15 সে.মি. এবং পুরুত্ব 4 সে.মি. হলে, এর ফাঁপা অংশের আয়তন কত ঘন সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "696.91",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "179.59",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5575.28",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9202.77",
+          "is_correct": true
+        }
+      ],
+      "option_a": "696.91",
+      "option_b": "179.59",
+      "option_c": "5575.28",
+      "option_d": "9202.77",
+      "correct": "ঘ",
+      "explanation": "গোলকটির ফাঁপা অংশের ব্যাসার্ধ = ( 15 2 − 4 ) =\\left(\\frac{15}{2}-4\\right) = ( 2 15 ​ − 4 ) সে.মি. = 3.5 =3.5 = 3.5 সে.মি. ∴ \\therefore ∴ ফাঁপা অংশের আয়তন = 4 3 π r 3 = 4 3 × 3.1416 × ( 3.5 ) 3 =\\frac{4}{3} \\pi r^{3}=\\frac{4}{3} \\times 3.1416 \\times(3.5)^{3} = 3 4 ​ π r 3 = 3 4 ​ × 3.1416 × ( 3.5 ) 3 = 179.59 ঘন সে.মি. (প্রায়)"
+    },
+    {
+      "number": "18",
+      "tag": "RCC 24",
+      "question": "একটি সমবৃত্তভূমিক সিলিন্ডারের উচ্চতা 12 সে.মি. এবং ভূমির ব্যাস 10 সে.মি. হলে, বক্রতলের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "204.2035",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "377",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "13",
+      "option_c": "204.2035",
+      "option_d": "377",
+      "correct": "ক",
+      "explanation": "প্রদত্ত: - সিলিন্ডারের উচ্চতা, h = 12 h=12 h = 12 সে.মি. - ভূমির ব্যাস, D = 10 D=10 D = 10 সে.মি. ∴ \\therefore ∴ ব্যাসার্ধ, r = D 2 = 5 r=\\frac{D}{2}=5 r = 2 D ​ = 5 সে.মি. সিলিন্ডারের বক্রতলের ক্ষেত্রফলের সূত্র:  বক্রতলের ক্ষেএ্রফল  = 2 π r h \\text { বক্রতলের ক্ষেএ্রফল }=2 \\pi r h   বক্রতলের   ক্ষেএ্রফল   = 2 π r h গণনা: 2 π × 5 × 12 = 120 π  বর্গ সে.মি.  2 \\pi \\times 5 \\times 12=120 \\pi \\text { বর্গ সে.মি. } 2 π × 5 × 12 = 120 π   বর্গ   সে . মি .  উত্তর: 120 π  বর্গ সে.মি.  120 \\pi \\text { বর্গ সে.মি. } 120 π   বর্গ   সে . মি .  ( সংখ্যায় ≈ 376.99 \\approx 376.99 ≈ 376.99 বর্গ সে.মি., যদি π ≈ 3.1416 \\pi \\approx 3.1416 π ≈ 3.1416 ধরা হয়)।"
+    },
+    {
+      "number": "19",
+      "tag": "RCC 24",
+      "question": "10 সে.মি. ব্যাসবিশিষ্ট বৃত্তের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25 π 25 \\pi 25 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "100 π 100 \\pi 100 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 π 2 25 \\pi^{2} 25 π 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "100 π 2 100 \\pi^{2} 100 π 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "25 π 25 \\pi 25 π",
+      "option_b": "100 π 100 \\pi 100 π",
+      "option_c": "25 π 2 25 \\pi^{2} 25 π 2",
+      "option_d": "100 π 2 100 \\pi^{2} 100 π 2",
+      "correct": "ঘ",
+      "explanation": "ব্যাস = 10   c m ∴ ব্যাসার্ধ্য = 10 2 = 5   c m বৃত্তের ক্ষেত্রফল  = π r 2 = π × 5 2 = 25 π \\begin{array}{l} ব্যাস =10 \\mathrm{~cm} \\\\ \\therefore ব্যাসার্ধ্য=\\frac{10}{2}=5 \\mathrm{~cm} \\\\ \\text {বৃত্তের ক্ষেত্রফল }=\\pi r^{2} \\\\ =\\pi \\times 5^{2} \\\\ =25 \\pi \\end{array} ব্যাস = 10   cm ∴ ব্যাসার্ধ্য = 2 10 ​ = 5   cm বৃত্তের   ক্ষেত্রফল   = π r 2 = π × 5 2 = 25 π ​"
+    },
+    {
+      "number": "20",
+      "tag": "MCC 24,RCC 24,JB 21",
+      "question": "a + a r + a r 2 + a r 3 + … … … a+a r+a r^{2}+a r^{3}+\\ldots \\ldots \\ldots a + a r + a r 2 + a r 3 + ……… ধারাটির ক্ষেত্রে- i. অসীমতক সমষ্টি থাকবে যদি ∣ r ∣ < 1 |r|<1 ∣ r ∣ < 1 ii. অসীমতক সমষ্টি থাকবে না যদি r = − 1 \\mathrm{r}=-1 r = − 1 অথবা 1 হয় iii. অসীমতক সমষ্টি থাকবে না যদি ∣ r ∣ > 1 |r|>1 ∣ r ∣ > 1 নিচের কোনটি সঠিক? নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "ধারা a + a r + a r 2 + a r 3 + … a+a r+a r^{2}+a r^{3}+\\ldots a + a r + a r 2 + a r 3 + … একটি জ্যামিতিক ধারা এবং এর সাধারণ রাশিটির রূপ a r n a r^{n} a r n যেখানে n n n বর্ধিত হচ্ছে। অসীমতক জ্যামিতিক ধারার সমষ্টি নির্ণয় করতে হলে প্রথম পদের মূল্যে এবং সাধারণ অনুপাতের শর্ত দেখতে হয়। যদি সাধারণ অনুপাত ∣ r ∣ < 1 |r| < 1 ∣ r ∣ < 1 হয়, তাহলে ধারাটির অসীমতক সমষ্টি থাকে এবং তা হলো a 1 − r \\frac{a}{1-r} 1 − r a ​ । i. ∣ r ∣ < 1 |r|<1 ∣ r ∣ < 1 হলে অসীমতক সমষ্টি থাকবে। ii. r = − 1 r=-1 r = − 1 অথবা r = 1 r=1 r = 1 হলে ধারাটির সমষ্টি নির্ধারণ করা সম্ভব নয়, কারণ ধারাটির কোনো সীমা নির্ধারিত হবে না। iii. ∣ r ∣ > 1 |r|>1 ∣ r ∣ > 1 হলে ধারাটি অসীমতক সমষ্টি নির্ধারণের উপযুক্ত নয়, কারণ ধারাটির প্রতিটি রাশির মান ক্রমশ বৃদ্ধি পাবে বা হ্রাস হবে। সুতরাং, সবগুলোই সঠিক। সঠিক উত্তর: i, ii ও iii"
+    },
+    {
+      "number": "21",
+      "tag": "RCC 24",
+      "question": "tan ⁡ ( − 765 ∘ ) \\tan \\left(-765^{\\circ}\\right) tan ( − 76 5 ∘ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "0",
+      "option_c": "1",
+      "option_d": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "correct": "খ",
+      "explanation": "tan ⁡ ( − 765 ∘ ) = − tan ⁡ 765 ∘ = − tan ⁡ ( 8 × 90 − 45 ) = − tan ⁡ 45 ∘ = − 1 \\begin{aligned} & \\tan \\left(-765^{\\circ}\\right) \\\\ = & -\\tan 765^{\\circ} \\\\ = & -\\tan (8 \\times 90-45) \\\\ = & -\\tan 45^{\\circ} \\\\ = & -1\\end{aligned} = = = = ​ tan ( − 76 5 ∘ ) − tan 76 5 ∘ − tan ( 8 × 90 − 45 ) − tan 4 5 ∘ − 1 ​"
+    },
+    {
+      "number": "22",
+      "tag": "RCC 24",
+      "question": "মূলবিন্দু থেকে, (–4, 4) এবং (4, k) বিন্দুদ্বয় সমদূরবর্তী। k ধনাত্মক হলে, –k এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "- 16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "-4",
+      "option_c": "16",
+      "option_d": "- 16",
+      "correct": "গ",
+      "explanation": "মূলবিন্দু হতে ( − 4 , 4 ) (-4,4) ( − 4 , 4 ) বিন্দুর দূরত্ব = 4 2 + 4 2 = 32 =\\sqrt{4^{2}+4^{2}}=\\sqrt{32} = 4 2 + 4 2 ​ = 32 ​ এবং মূলবিন্দু হতে ( 4 , k 4, \\mathrm{k} 4 , k ) বিন্দুর দূরত্ব = 4 2 + k 2 = 16 + k 2 =\\sqrt{4^{2}+\\mathrm{k}^{2}}=\\sqrt{16+\\mathrm{k}^{2}} = 4 2 + k 2 ​ = 16 + k 2 ​ শর্তমতে, 32 = 16 + k 2 ∼ \\sqrt{32}=\\sqrt[\\sim]{16+k^{2}} 32 ​ = ∼ 16 + k 2 ​ বা, k 2 + 16 = 32 \\mathrm{k}^{2}+16=32 k 2 + 16 = 32 বা, k 2 = 16 ∴ k = 4 [ ∵ k \\mathrm{k}^{2}=16 \\therefore \\mathrm{k}=4[\\because \\mathrm{k} k 2 = 16 ∴ k = 4 [ ∵ k ধনাত্মক] ∴ − k = − 4 \\therefore-{k}=-4 ∴ − k = − 4"
+    },
+    {
+      "number": "23",
+      "tag": "RCC 24",
+      "question": "Δ \\Delta Δ ABC একটি সমবাহু ত্রিভুজ এবং AB = 5 সে.মি. হলে, এর মধ্যমাত্রয়ের বর্গের সমষ্টি কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.33",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12.99",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "56.25",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "18.75",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4.33",
+      "option_b": "12.99",
+      "option_c": "56.25",
+      "option_d": "18.75",
+      "correct": "গ",
+      "explanation": "△ A B C \\triangle ABC △ A BC এর মধ্যমাত্রয়ের বর্গের সমষ্টি = 3 4 × 3 A B 2 = 9 4 × 5 2 = 56.25 =\\frac{3}{4} \\times 3 \\mathrm{AB}^{2}=\\frac{9}{4} \\times 5^{2}=56.25 = 4 3 ​ × 3 AB 2 = 4 9 ​ × 5 2 = 56.25"
+    },
+    {
+      "number": "24",
+      "tag": "RCC 24",
+      "question": "log ⁡ 10 log ⁡ 10 log ⁡ 10 ( 10 10 10 10 ) = ? \\log _{\\sqrt{10}} \\log _{10} \\log _{10}\\left(10^{10^{10^{10}}}\\right)=? lo g 10 ​ ​ lo g 10 ​ lo g 10 ​ ( 1 0 1 0 1 0 10 ) = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "20",
+      "option_d": "10",
+      "correct": "গ",
+      "explanation": "log ⁡ 10 log ⁡ 10 log ⁡ 10 ( 10 10 10 10 ) = log ⁡ 10 log ⁡ 10 10 10 10 log ⁡ 10 10 = log ⁡ 10 10 10 log ⁡ 10 10 × 1 = 10 log ⁡ 10 ( 10 ) 2 × 1 = 10 × 2 × log ⁡ 10 10 = 20 × 1 = 20 \\begin{array}{l} \\log _{\\sqrt{10}} \\log _{10} \\log _{10}\\left(10^{10^{10^{10}}}\\right)=\\log _{\\sqrt{10}} \\log _{10} 10^{10^{10}} \\log _{10} 10 \\\\ =\\log _{\\sqrt{10}} 10^{10} \\log _{10} 10 \\times 1=10 \\log _{\\sqrt{10}}(\\sqrt{10})^{2} \\times 1 \\\\ =10 \\times 2 \\times \\log _{\\sqrt{10}} \\sqrt{10}=20 \\times 1=20\\end{array} lo g 10 ​ ​ lo g 10 ​ lo g 10 ​ ( 1 0 1 0 1 0 10 ) = lo g 10 ​ ​ lo g 10 ​ 1 0 1 0 10 lo g 10 ​ 10 = lo g 10 ​ ​ 1 0 10 lo g 10 ​ 10 × 1 = 10 lo g 10 ​ ​ ( 10 ​ ) 2 × 1 = 10 × 2 × lo g 10 ​ ​ 10 ​ = 20 × 1 = 20 ​"
+    },
+    {
+      "number": "25",
+      "tag": "CB 20,SB 20,JB 20,DB 19,CB 19,DIN.B 19,CTG.B 19,SB 19,BB 19,ACC 24",
+      "question": "f ( x ) = 4 − 2 x f(\\mathbf{x})=\\sqrt{4-2 \\mathrm{x}} f ( x ) = 4 − 2 x ​ এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+      "option_b": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+      "option_c": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+      "option_d": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+      "correct": "গ",
+      "explanation": "f ( x ) = 4 − 2 x f(x) = \\sqrt{4-2x} f ( x ) = 4 − 2 x ​ বর্গমূলের ভিতরের রাশি অঋণাত্মক হতে হবে: 4 − 2 x ≥ 0 4-2x \\ge 0 4 − 2 x ≥ 0 − 2 x ≥ − 4 -2x \\ge -4 − 2 x ≥ − 4 x ≤ 2 x \\le 2 x ≤ 2 তাই ডোমেন: { x ∈ R ∣ x ≤ 2 } \\{x \\in \\mathbb{R} \\mid x \\le 2\\} { x ∈ R ∣ x ≤ 2 } ইন্টারভাল আকারে: ( − ∞ , 2 ] (-\\infty, 2] ( − ∞ , 2 ]"
+    }
+  ]
+}

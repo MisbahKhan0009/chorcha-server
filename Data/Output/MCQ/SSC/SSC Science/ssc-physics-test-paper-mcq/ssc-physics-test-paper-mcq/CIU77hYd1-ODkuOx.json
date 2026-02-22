@@ -1,0 +1,832 @@
+{
+  "read_id": "CIU77hYd1-ODkuOx",
+  "title": "কুমিল্লা ক্যাডেট কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CCC 24",
+      "question": "১৯২৪ সালে কে দেখান যে মহাবিশ্বের গ্রহ- নক্ষত্র একে অপরের থেকে দূরে সরে যাচ্ছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "হাবল",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ম্যাক্সওয়েল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "রাদারফোর্ড",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আল খোয়ারিজমি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "হাবল",
+      "option_b": "ম্যাক্সওয়েল",
+      "option_c": "রাদারফোর্ড",
+      "option_d": "আল খোয়ারিজমি",
+      "correct": "ক",
+      "explanation": "১৯২৪ সালে এডউইন হাবল (Edwin Hubble) দেখান যে মহাবিশ্বের গ্রহ-নক্ষত্র একে অপরের থেকে দূরে সরে যাচ্ছে। তাঁর পর্যবেক্ষণ থেকে তিনি হাবল সূত্রটি তৈরি করেন, যা বলে যে মহাবিশ্বের প্রতিটি গ্যালাক্সি একে অপর থেকে দূরে সরে যাচ্ছে, এবং যতো বেশি তারা দূরে, ততো দ্রুত তারা সরে যাচ্ছে।"
+    },
+    {
+      "number": "2",
+      "tag": "CCC 24",
+      "question": "কোন বস্তু স্থির অবস্থা থেকে সমত্বরণে চলে। প্রদত্ত সময় এর শেষ বেগ কত হবে? i. v = a t v=a t v = a t ii. v = 2 s t v=\\frac{2 s}{t} v = t 2 s ​ iii. v 2 = v^{2}=^{} v 2 = 2as নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "বস্তুটি স্থির অবস্থান থেকে চলায় আদিবেগ, u = 0 u = 0 u = 0 । i-এর ক্ষেত্রে: আমরা জানি, v = u + a t v = u + at v = u + a t । যেহেতু u = 0 u = 0 u = 0 , তাই v = a t v = at v = a t । (এটি সঠিক) ii-এর ক্ষেত্রে: আমরা জানি, গড় বেগের ক্ষেত্রে s = u + v 2 × t s = \\frac{u+v}{2} \\times t s = 2 u + v ​ × t । যেহেতু u = 0 u = 0 u = 0 , তাই s = v 2 × t s = \\frac{v}{2} \\times t s = 2 v ​ × t বা, v = 2 s t v = \\frac{2s}{t} v = t 2 s ​ । (এটি সঠিক) iii-এর ক্ষেত্রে: আমরা জানি, v 2 = u 2 + 2 a s v^2 = u^2 + 2as v 2 = u 2 + 2 a s । যেহেতু u = 0 u = 0 u = 0 , তাই v 2 = 2 a s v^2 = 2as v 2 = 2 a s । (এটি সঠিক)"
+    },
+    {
+      "number": "3",
+      "tag": "CCC 24",
+      "question": "Fh এর মাত্রা কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "M L 2   T 1 \\mathrm{ML}^{2} \\mathrm{~T}^{1} ML 2   T 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "M 2   L 2   T − 2 \\mathrm{M}^{2} \\mathrm{~L}^{2} \\mathrm{~T}^{-2} M 2   L 2   T − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "M L 2   T − 2 \\mathrm{ML}^{2} \\mathrm{~T}^{-2} ML 2   T − 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "M L T − 2 \\mathrm{MLT}^{-2} MLT − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "M L 2   T 1 \\mathrm{ML}^{2} \\mathrm{~T}^{1} ML 2   T 1",
+      "option_b": "M 2   L 2   T − 2 \\mathrm{M}^{2} \\mathrm{~L}^{2} \\mathrm{~T}^{-2} M 2   L 2   T − 2",
+      "option_c": "M L 2   T − 2 \\mathrm{ML}^{2} \\mathrm{~T}^{-2} ML 2   T − 2",
+      "option_d": "M L T − 2 \\mathrm{MLT}^{-2} MLT − 2",
+      "correct": "গ",
+      "explanation": "[ F ] = M L T − 2 [   h ] = L , [ F h ] = M L T − 2 × L = M L 2   T − 2 [\\mathrm{F}]=\\mathrm{MLT}^{-2}[\\mathrm{~h}]=\\mathrm{L},[\\mathrm{Fh}]=\\mathrm{MLT}^{-2} \\times \\mathrm{L}=\\mathrm{ML}^{2} \\mathrm{~T}^{-2} [ F ] = MLT − 2 [   h ] = L , [ Fh ] = MLT − 2 × L = ML 2   T − 2"
+    },
+    {
+      "number": "4",
+      "tag": "CCC 24",
+      "question": "কর্কের ঘনত্ব = 250kg/m 3 এক টুকরা কর্ককে পানিতে ছাড়া হলে এর কত অংশ ডুবে থাকবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2 5 \\frac{2}{5} 5 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_d": "2 5 \\frac{2}{5} 5 2 ​",
+      "correct": "গ",
+      "explanation": "পানিতে ডুবে থাকবে = ρ ρ w = 250 1000 = 1 4 =\\frac{\\rho}{\\rho_{\\mathrm{w}}}=\\frac{250}{1000}=\\frac{1}{4} = ρ w ​ ρ ​ = 1000 250 ​ = 4 1 ​ অংশ ( কোন বস্তুর ঘনত্ব পানির ঘনত্বের সমান হলে বস্তুটি পানিতে ডুবন্ত অবস্থায় ভাসমান থাকবে। তাই একটি বস্তুর ঘনত্ব পানির ঘনত্বের যত অংশ হবে বস্তুটির ঠিক তত অংশ পানিতে ডুবন্ত অবস্থায় থাকবে)"
+    },
+    {
+      "number": "5",
+      "tag": "CCC 24",
+      "question": "স্প্রিং এর x একক সংকোচনের জন্য কৃতকাজ- i. ধনাত্মক ii. বিভবশক্তি iii. গতিশক্তি নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "স্প্রিং সংকোচনের ফলে স্প্রিংয়ের ভেতর শক্তি সঞ্চিত হয়, যা বিভবশক্তি। x একক সংকোচনে সঞ্চিত বিভবশক্তি v = 1 2 k x 2 v=\\frac{1}{2} k x^{2} v = 2 1 ​ k x 2 দূরত্ব x ঋণাত্মক হতে পারে না তাই কৃতকাজ ধনাত্বক। স্প্রিং এর বিভব শক্তি নির্ণয়ের সূত্রটি দেখতে কিছুটা গতিশক্তির মতো হলেও মনে রাখতে হবে সংকোচিত স্পি্রং এর মাঝে বিভব শক্তি থাকে গতিশক্তি নয়।"
+    },
+    {
+      "number": "6",
+      "tag": "CCC 24",
+      "question": "স্টিলের 1টি দণ্ডের ক্ষেত্রফল 68°F তাপমাত্রায় 30m²। 120°C তাপমাত্রায় এর ক্ষেত্রফল বৃদ্ধি কত হবে? স্টিলের দৈর্ঘ্য প্রসারণ সহগ = 16.7 × 10 -6 °C",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.1m²",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0.012m²",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.033m²",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.05m²",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.1m²",
+      "option_b": "0.012m²",
+      "option_c": "0.033m²",
+      "option_d": "0.05m²",
+      "correct": "ক",
+      "explanation": "C 5 = F − 32 9  বা,  C 5 = 68 − 32 9 ∴ C = 20 ∘ C , β = 2 α = 2 × 16.7 × 10 − 6 = 3.34 × 10 − 5   K − 1 ∴ ক্ষেত্রফল বৃদ্ধি,  A 2 − A ˚ 1 = β A 1 (   T 2 − T 1 ) = 3.34 × 10 − 5 × 30 × ( 120 − 20 ) = 0.1   m 2 \\begin{array}{l}\\frac{\\mathrm{C}}{5}=\\frac{\\mathrm{F}-32}{9} \\text { বা, } \\frac{\\mathrm{C}}{5}=\\frac{68-32}{9} \\\\ \\begin{aligned} \\therefore \\mathrm{C}=20^{\\circ} \\mathrm{C}, \\beta=2 \\alpha=2 \\times 16.7 \\times 10^{-6}=3.34 \\times 10^{-5} \\mathrm{~K}^{-1}\\end{aligned} \\\\ \\begin{array}{l} \\therefore \\text {ক্ষেত্রফল বৃদ্ধি, } \\mathrm{A}_{2}-\\AA_{1}=\\beta \\mathrm{A}_{1}\\left(\\mathrm{~T}_{2}-\\mathrm{T}_{1}\\right) \\\\ =3.34 \\times 10^{-5} \\times 30 \\times(120-20)=0.1 \\mathrm{~m}^{2}\\end{array}\\end{array} 5 C ​ = 9 F − 32 ​   বা ,  5 C ​ = 9 68 − 32 ​ ∴ C = 2 0 ∘ C , β = 2 α = 2 × 16.7 × 1 0 − 6 = 3.34 × 1 0 − 5   K − 1 ​ ∴ ক্ষেত্রফল   বৃদ্ধি ,  A 2 ​ − A ˚ 1 ​ = β A 1 ​ (   T 2 ​ − T 1 ​ ) = 3.34 × 1 0 − 5 × 30 × ( 120 − 20 ) = 0.1   m 2 ​ ​"
+    },
+    {
+      "number": "7",
+      "tag": "CCC 24",
+      "question": "1 kg ভরের একটি বস্তু স্থির অবস্থা থেকে 2s এ 2 m দূরত্ব যায়। এরপর এটি 3 m দূরত্ব সমবেগে যায় এবং 1.5 s পর থেমে যায়। বস্তুর উপর ক্রিয়াশীল বল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.5 N",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1N",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2N",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4N",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.5 N",
+      "option_b": "1N",
+      "option_c": "2N",
+      "option_d": "4N",
+      "correct": "খ",
+      "explanation": "s = u t + 1 2 a t 2  বা ,  2 = 1 2 a × 2 2 ∴ a = 1   m s − 2 ,   F = m a = 1 × 1 = 1   N \\begin{array}{l}\\mathrm{s}=\\mathrm{ut}+\\frac{1}{2} \\mathrm{at}^{2} \\text { বা , } 2=\\frac{1}{2} \\mathrm{a} \\times 2^{2} \\\\ \\therefore \\mathrm{a}=1 \\mathrm{~ms}^{-2}, \\mathrm{~F}=\\mathrm{ma}=1 \\times 1=1 \\mathrm{~N}\\end{array} s = ut + 2 1 ​ at 2   বা  ,  2 = 2 1 ​ a × 2 2 ∴ a = 1   ms − 2 ,   F = ma = 1 × 1 = 1   N ​"
+    },
+    {
+      "number": "8",
+      "tag": "CCC 24",
+      "question": "1 kg ভরের একটি বস্তু স্থির অবস্থা থেকে 2s এ 2 m দূরত্ব যায়। এরপর এটি 3 m দূরত্ব সমবেগে যায় এবং 1.5 s পর থেমে যায়। বস্তুটির ক্ষেত্রে- i. 1 ms -2 সমত্বরণে যায় ii. 2 ms -1 সমবেগে যায় iii. মোট 6.5 m দূরত্ব যায় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i. ত্বরণ, a=1 ms² ii. 2 s পর বেগ, v = u + a t = 0 + 1 × 2 = 2   m s − 1 \\mathrm{v}=\\mathrm{u}+\\mathrm{at}=0+1 \\times 2=2 \\mathrm{~ms}^{-1} v = u + at = 0 + 1 × 2 = 2   ms − 1 অর্থাৎ 2   m s − 1 2 \\mathrm{~ms}^{-1} 2   ms − 1 সমবেগে যায়। iii. s 1 = 2   m ,   s 2 = 3   m \\mathrm{s}_{1}=2 \\mathrm{~m}, \\mathrm{~s}_{2}=3 \\mathrm{~m} s 1 ​ = 2   m ,   s 2 ​ = 3   m , s 3 = ( u + v 2 ) t = ( 2 + 0 2 ) × 1.5 = 1.5   m   s = s 1 + s 2 + s 3 = 6.5   m \\begin{array}{l}\\mathrm{s}_{3}=\\left(\\frac{\\mathrm{u}+\\mathrm{v}}{2}\\right) \\mathrm{t}=\\left(\\frac{2+0}{2}\\right) \\times 1.5=1.5 \\mathrm{~m} \\\\ \\mathrm{~s}=\\mathrm{s}_{1}+\\mathrm{s}_{2}+\\mathrm{s}_{3}=6.5 \\mathrm{~m}\\end{array} s 3 ​ = ( 2 u + v ​ ) t = ( 2 2 + 0 ​ ) × 1.5 = 1.5   m   s = s 1 ​ + s 2 ​ + s 3 ​ = 6.5   m ​"
+    },
+    {
+      "number": "9",
+      "tag": "CCC 24",
+      "question": "220V-60W বাল্বের মধ্য দিয়ে তড়িৎ প্রবাহ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 5   A \\frac{2}{5} \\mathrm{~A} 5 2 ​   A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 7   A \\frac{3}{7} \\mathrm{~A} 7 3 ​   A",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 11   A \\frac{2}{11} \\mathrm{~A} 11 2 ​   A",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 11   A \\frac{3}{11} \\mathrm{~A} 11 3 ​   A",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 5   A \\frac{2}{5} \\mathrm{~A} 5 2 ​   A",
+      "option_b": "3 7   A \\frac{3}{7} \\mathrm{~A} 7 3 ​   A",
+      "option_c": "2 11   A \\frac{2}{11} \\mathrm{~A} 11 2 ​   A",
+      "option_d": "3 11   A \\frac{3}{11} \\mathrm{~A} 11 3 ​   A",
+      "correct": "ঘ",
+      "explanation": "**সমাধান:** এখানে, প্রদত্ত ভোল্টেজ \\ V = 220 \\, \\text{V} \\ এবং পাওয়ার \\ P = 60 \\, \\text{W} \\ । আমারা তড়িৎ প্রবাহ \\ I \\ নির্ণয় করতে চাই। পাওয়ার সূত্র অনুযায়ী: \\ P = V \\cdot I \\ এখানে থেকে আমরা তড়িৎ প্রবাহ \\ I \\ নির্ণয় করতে পারি: \\ I = \\frac{P}{V} = \\frac{60}{220} = \\frac{6}{22} = \\frac{3}{11} \\, \\text{A} \\ অতএব, সঠিক উত্তরটি হল: \\ \\boxed{\\frac{3}{11} \\, \\text{A}} \\ (উত্তর \\ D \\ )"
+    },
+    {
+      "number": "10",
+      "tag": "CCC 24",
+      "question": "পেরিস্কোপ যা দিয়ে বানানো হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অবতল দর্পণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "উত্তল দর্পণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উত্তল লেন্স",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রিজম",
+          "is_correct": true
+        }
+      ],
+      "option_a": "অবতল দর্পণ",
+      "option_b": "উত্তল দর্পণ",
+      "option_c": "উত্তল লেন্স",
+      "option_d": "প্রিজম",
+      "correct": "ঘ",
+      "explanation": "প্রিজমে আলো সম্পূর্ণভাবে প্রতিফলিত হয় — যাকে বলা হয় total internal reflection তাই পেরিস্কোপ বানাতে প্রিজম ব্যাবহার করা হয়।"
+    },
+    {
+      "number": "11",
+      "tag": "CCC 24",
+      "question": "রোলার স্থির চার্জ জমা হয় যেখানে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ধারক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফটোকপি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ফুয়েল ট্রাক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ভ্যান ভি গ্রাফ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ধারক",
+      "option_b": "ফটোকপি",
+      "option_c": "ফুয়েল ট্রাক",
+      "option_d": "ভ্যান ভি গ্রাফ",
+      "correct": "খ",
+      "explanation": "আমরা সবাই কখনো না কখনো কাগজের কোনো লেখার কপি তৈরি করার জন্য ফটোকপি মেশিন ব্যবহার করেছি। এখানে কাগজের লেখার ওপর আলো ফেলে তার একটি প্রতিচ্ছবি একটি বিশেষ ধরনের রোলারে ফেলা হয় এবং সেই রোলারে কাগজের লেখাটির মতো করে স্থির চার্জ তৈরি করা হয়। তারপর এই রোলারটিকে পাউডারের মতো সূক্ষ্ম কালির সংস্পর্শে আনা হলে যেখানে যেখানে চার্জ জমা হয়েছে সেখানে কালো কালি লেগে যায়। তারপর নতুন একটা সাদা কাগজের ওপর ছাপ দিয়ে এই কালিটি বসিয়ে দেওয়া হয়। কালিটি যেন লেপ্টে না যায় সেজন্য তাপ দিয়ে কালিটিকে আরো ভালো করে কাগজে যুক্ত করে প্রক্রিয়াটি শেষ করা হয়।"
+    },
+    {
+      "number": "12",
+      "tag": "CCC 24",
+      "question": "লাউডস্পীকারে কোনটি ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডিসি মোটর",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "এসি মোটর",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ট্রান্সফর্মার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "তড়িৎচুম্বক",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ডিসি মোটর",
+      "option_b": "এসি মোটর",
+      "option_c": "ট্রান্সফর্মার",
+      "option_d": "তড়িৎচুম্বক",
+      "correct": "ঘ",
+      "explanation": "লাউডস্পীকারে শব্দ উৎপাদনের জন্য একটি চুম্বক ক্ষেত্র এবং তারে দিয়ে প্রবাহিত বৈদ্যুতিক সিগন্যাল ব্যবহৃত হয়। এতে ইলেক্ট্রোম্যাগনেট ব্যবহার করে স্পিকার কনকে কম্পিত করা হয়, যার ফলে শব্দ তরঙ্গ সৃষ্টি হয়।"
+    },
+    {
+      "number": "13",
+      "tag": "CCC 24",
+      "question": "নিচের কোনটি তেজস্ক্রিয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "C 12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "C 13",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "C 14",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "C 15",
+          "is_correct": false
+        }
+      ],
+      "option_a": "C 12",
+      "option_b": "C 13",
+      "option_c": "C 14",
+      "option_d": "C 15",
+      "correct": "গ",
+      "explanation": "কার্বনের তিনটি আইসোটোপের মাঝে C 14 \\mathrm{C}_{14} C 14 ​ অস্থিতিশীল বা তেজক্ষ্রিয়।"
+    },
+    {
+      "number": "14",
+      "tag": "CCC 24",
+      "question": "চাপের একক- i. J ii. Pa iii. Nm -2 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "চাপ P = F A = N m 2 = − N m − 2 \\begin{aligned} P & =\\frac{F}{A} \\\\ & =\\frac{N}{m^{2}} \\\\ & =-N m^{-2} \\end{aligned} P ​ = A F ​ = m 2 N ​ = − N m − 2 ​ বা, k g m s − 2   m − 2 \\mathrm{kgms}^{-2} \\mathrm{~m}^{-2} kgms − 2   m − 2 বা , k g m − 1   s − 2 বা, \\mathrm{kgm}^{-1} \\mathrm{~s}-2 বা , kgm − 1   s − 2 এবং চাপের একক প্যাসকেল Pa."
+    },
+    {
+      "number": "15",
+      "tag": "CCC 24",
+      "question": "1800 ভ্যাকুয়াম টিউব কোথায় ব্যবহৃত হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রাডারে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ট্রানজিস্টর",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ENIAC এ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "টেলিফোনে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রাডারে",
+      "option_b": "ট্রানজিস্টর",
+      "option_c": "ENIAC এ",
+      "option_d": "টেলিফোনে",
+      "correct": "গ",
+      "explanation": "প্রথমে মোর্সকোড দিয়ে টেলিগ্রাফ যোগাযোগ পরে টেলিফোনের মাধ্যমে কণ্ঠস্বর আদান-প্রদান করার জন্য ভ্যাকুয়াম টিউবের উন্নতি হতে থাকে (চিত্র 13.03)। প্রথম ও দ্বিতীয় মহাযুদ্ধের সময় যুদে ব্যবহারের জন্য রাডার, যুদ্ধাস্ত্র নিয়ন্ত্রণ, নেভিগেশন ইত্যাদি কাজের জন্য বিভিন্ন ধরনের বিশেষায়িত ভ্যাকুয়াম টিউব ব্যবহার হতে থাকে। 1946 সালে 1800 ভ্যাকুয়াম টিউব ব্যবহার করে ENIAC নামে প্রথম কম্পিউটার তৈরি করা হয়।"
+    },
+    {
+      "number": "16",
+      "tag": "CCC 24",
+      "question": "আপতন কোণের পরিবর্তন কত হলে এটি সংকট কোণ তৈরি করবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.49°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2.8°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3.34°",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3.65°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2.49°",
+      "option_b": "2.8°",
+      "option_c": "3.34°",
+      "option_d": "3.65°",
+      "correct": "গ",
+      "explanation": "θ c = sin ⁡ − 1 ( n 1 n 2 ) = sin ⁡ − 1 ( 1.33 2.42 ) = 33.34 ∘  । \\theta_{c}=\\sin ^{-1}\\left(\\frac{n_{1}}{n_{2}}\\right)=\\sin ^{-1}\\left(\\frac{1.33}{2.42}\\right)=33.34^{\\circ} \\text { ।} θ c ​ = sin − 1 ( n 2 ​ n 1 ​ ​ ) = sin − 1 ( 2.42 1.33 ​ ) = 33.3 4 ∘   । আপতন কোণ বাড়াতে হবে = ( 33.34 ∘ − 30 ∘ ) = 3.34 ∘ =\\left(33.34^{\\circ}-30^{\\circ}\\right)=3.34^{\\circ} = ( 33.3 4 ∘ − 3 0 ∘ ) = 3.3 4 ∘"
+    },
+    {
+      "number": "17",
+      "tag": "CCC 24",
+      "question": "ভার্নিয়ার ধ্রুবক = ? i. ভার্নিয়ার স্কেলের 1 ঘর ও প্রধান স্কেলের 1 ঘরের দৈর্ঘ্যের পার্থক্য ii. প্রধান স্কেলের নূন্যতম 1 ঘর ও ভার্নিয়ার স্কেলের ভাগসংখ্যার অনুপাত iii.  পিচ   বৃত্তাকার স্কেলের ভাগসংখ্যা  \\frac{\\text { পিচ }}{\\text { বৃত্তাকার স্কেলের ভাগসংখ্যা }}   বৃত্তাকার   স্কেলের   ভাগসংখ্যা     পিচ   ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "CCC 24",
+      "question": "P, Q, R ৩টি তারে তাপমাত্রা বৃদ্ধির ফলে 2×10 12 Nm -2 সমান পীড়ন প্রয়োগ করায়, তার তিনটির দৈর্ঘ্য যথাক্রমে 4%, 3%, 1% বৃদ্ধি পায় Q তার এর বিকৃতি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.04",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.03",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.02",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.01",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.04",
+      "option_b": "0.03",
+      "option_c": "0.02",
+      "option_d": "0.01",
+      "correct": "খ",
+      "explanation": "প্রদত্ত তথ্য অনুসারে: P, Q, R তার তিনটিতে সমান পীড়ন প্রয়োগ করা হয়েছে, যার মান 2 × 10 12 N m − 2 2 \\times 10^{12} \\mathrm{Nm}^{-2} 2 × 1 0 12 Nm − 2 । Q তারের দৈর্ঘ্য বৃদ্ধি পেয়েছে 3 % 3 \\% 3% । আমরা জানি, বিকৃতি (strain) হলো দৈর্ঘ্যের আপেক্ষিক পরিবর্তন। অর্থাৎ, বিকৃতি =  দৈর্ঘ্যের পরিবর্তন আসল দৈর্ঘ্য  =\\frac{\\text { দৈর্ঘ্যের পরিবর্তন}}{\\text {আসল দৈর্ঘ্য }} = আসল   দৈর্ঘ্য     দৈর্ঘ্যের   পরিবর্তন ​ যেহেতু Q তারের দৈর্ঘ্য 3 % 3 \\% 3% বৃদ্ধি পেয়েছে, এর মানে হলো, যদি আসল দৈর্ঘ্য L 0 L_{0} L 0 ​ হয়, তাহলে দৈর্ঘ্যের পরিবর্তন Δ L = 0.03 × L 0 I \\Delta L=0.03 \\times L_{0} \\mathrm{I} Δ L = 0.03 × L 0 ​ I সুতরাং, Q তারের বিকৃতি হবে: বিকৃতি = 0.03 × L 0 L 0 = 0.03 =\\frac{0.03 \\times L_{0}}{L_{0}}=0.03 = L 0 ​ 0.03 × L 0 ​ ​ = 0.03 বিকৃতির কোনো একক নেই, কারণ এটি দুটি সমজাতীয় রাশির অনুপাত। অতএব, Q তারের বিকৃতি হলো 0.03 ।"
+    },
+    {
+      "number": "19",
+      "tag": "CCC 24",
+      "question": "P, Q, R ৩টি তারে তাপমাত্রা বৃদ্ধির ফলে 2 10 12 N m -2 সমান পীড়ন প্রয়োগ করায়, তার তিনটির দৈর্ঘ্য যথাক্রমে 4%, 3%, 1% বৃদ্ধি পায় যদি P, Q, R তারের ইয়ং গুণাঙ্ক যথাক্রমে Y P , Y Q , Y R \\mathrm{Y}_{\\mathrm{P}}, \\mathrm{Y}_{\\mathrm{Q}}, \\mathrm{Y}_{\\mathrm{R}} Y P ​ , Y Q ​ , Y R ​ হয়, তাহলে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Y P > Y Q > Y R Y_{P}>Y_{Q}>Y_{R} Y P ​ > Y Q ​ > Y R ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Y P < Y Q < Y R Y_{P}<Y_{Q}<Y_{R} Y P ​ < Y Q ​ < Y R ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Y P > Y Q < Y R Y_{P}>Y_{Q}<Y_{R} Y P ​ > Y Q ​ < Y R ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Y P < Y Q > Y R Y_{P}<Y_{Q}>Y_{R} Y P ​ < Y Q ​ > Y R ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Y P > Y Q > Y R Y_{P}>Y_{Q}>Y_{R} Y P ​ > Y Q ​ > Y R ​",
+      "option_b": "Y P < Y Q < Y R Y_{P}<Y_{Q}<Y_{R} Y P ​ < Y Q ​ < Y R ​",
+      "option_c": "Y P > Y Q < Y R Y_{P}>Y_{Q}<Y_{R} Y P ​ > Y Q ​ < Y R ​",
+      "option_d": "Y P < Y Q > Y R Y_{P}<Y_{Q}>Y_{R} Y P ​ < Y Q ​ > Y R ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "CCC 24",
+      "question": "তড়িৎ ক্ষেত্র প্রাবল্য নির্ণয়ে কোন ধরনের চার্জ ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ঋণাত্মক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ধনাত্মক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "নিরপেক্ষ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "শূন্য",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ঋণাত্মক",
+      "option_b": "ধনাত্মক",
+      "option_c": "নিরপেক্ষ",
+      "option_d": "শূন্য",
+      "correct": "খ",
+      "explanation": "তড়িৎ তীব্রতা: তড়িৎ ক্ষেত্রের কোনো বিন্দুতে একটি একক ধনাত্মক আধান স্থাপন করলে সেটি যে বল অনুভব করে তাকে ঐ বিন্দুর তড়িৎ তীব্রতা বলে। বিঃ দ্রঃ নতুন পাঠ্যবইয়ে তড়িৎ তীব্রতাকে ইলেকট্রিক ফিল্ড বলা হয়েছে।"
+    },
+    {
+      "number": "21",
+      "tag": "CCC 24,CTG.B 21,SB 20",
+      "question": "নিচের কোন সম্পর্কটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "V = R I \\mathrm{V}=\\frac{\\mathrm{R}}{\\mathrm{I}} V = I R ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "R = A ρ L R=\\frac{A}{\\rho L} R = ρ L A ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ρ = R A L \\rho=\\frac{R A}{L} ρ = L R A ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "A = R ρ L A=\\frac{R \\rho}{L} A = L Rρ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "V = R I \\mathrm{V}=\\frac{\\mathrm{R}}{\\mathrm{I}} V = I R ​",
+      "option_b": "R = A ρ L R=\\frac{A}{\\rho L} R = ρ L A ​",
+      "option_c": "ρ = R A L \\rho=\\frac{R A}{L} ρ = L R A ​",
+      "option_d": "A = R ρ L A=\\frac{R \\rho}{L} A = L Rρ ​",
+      "correct": "গ",
+      "explanation": "প্রশ্নে প্রদত্ত চারটি বিকল্পের মধ্যে সঠিক সম্পর্ক খুঁজে বের করতে হবে। প্রতিটির ব্যাখ্যা দেওয়া হলো: (A) V = R I \\mathrm{V}=\\frac{\\mathrm{R}}{\\mathrm{I}} V = I R ​ এই সম্পর্কটি সঠিক নয়। ওহমের সূত্র অনুযায়ী, বিভব পার্থক্য (V) হলো কারেন্ট (I) ও প্রতিরোধ (R) এর গুণফল: V = I R \\mathrm{V} = \\mathrm{IR} V = IR (B) R = A ρ L R=\\frac{A}{\\rho L} R = ρ L A ​ এই সম্পর্কটিও সঠিক নয়। প্রতিরোধ (R) এর সূত্র হলো: R = ρ L A R = \\frac{\\rho L}{A} R = A ρ L ​ , যেখানে ρ \\rho ρ হল প্রতিরোধকতা, L হল দৈর্ঘ্য, এবং A হল ক্ষেত্রফল। (C) ρ = R A L \\rho=\\frac{R A}{L} ρ = L R A ​ এই সম্পর্কটি সঠিক। প্রতিরোধকতা ( ρ \\rho ρ ) এর সূত্র হচ্ছে: ρ = R A L \\rho = \\frac{R A}{L} ρ = L R A ​ , যেখানে R হল প্রতিরোধ, A হল ক্ষেত্রফল, আর L হল দৈর্ঘ্য। (D) A = R ρ L A=\\frac{R \\rho}{L} A = L Rρ ​ এই সম্পর্কটি সঠিক নয়। ক্ষেত্রফল (A) এর সঠিক সূত্র হলো: A = ρ L R A = \\frac{\\rho L}{R} A = R ρ L ​ সুতরাং, সঠিক অপশনটি হলো (C): ρ = R A L \\rho=\\frac{R A}{L} ρ = L R A ​"
+    },
+    {
+      "number": "22",
+      "tag": "CCC 24",
+      "question": "2টি শব্দ তরঙ্গ 30° তাপমাত্রায় একই দিকে যাচ্ছে। একটির তরঙ্গ দৈর্ঘ্যের তিনগুণ অপরটির তরঙ্গদৈর্ঘ্যের 4 গুণের সমান। তাদের কম্পাঙ্কের পার্থক্য 4। 0°C এ শব্দের বেগ 330 ms -1 ২য় তরঙ্গের কম্পাঙ্ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12Hz",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16Hz",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "20Hz",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24Hz",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12Hz",
+      "option_b": "16Hz",
+      "option_c": "20Hz",
+      "option_d": "24Hz",
+      "correct": "খ",
+      "explanation": "ধরি, প্রথম তরঙ্গের কম্পাঙ্ক f 1 f_{1} f 1 ​ এবং দ্বিতীয় তরঙ্গের কম্পাঙ্ক f 2 f_{2} f 2 ​ । প্রথম তরঙ্গের তরঙ্গদৈর্ঘ্য λ 1 \\lambda_{1} λ 1 ​ এবং দ্বিতীয় তরঙ্গের তরঙ্গদৈর্ঘ্য λ 2 \\lambda_{2} λ 2 ​ । প্রদত্ত শর্তানুসারে, একটির তরঙ্গদৈর্ঘ্যের তিনগুণ অপরটির তরঙ্গদৈর্ঘ্যের 4 গুণের সমান, অর্থাৎ: 3 λ 1 = 4 λ 2 λ 1 = 4 3 λ 2 \\begin{array}{l} 3 \\lambda_{1}=4 \\lambda_{2} \\\\ \\lambda_{1}=\\frac{4}{3} \\lambda_{2} \\end{array} 3 λ 1 ​ = 4 λ 2 ​ λ 1 ​ = 3 4 ​ λ 2 ​ ​ আমরা জানি, শব্দের বেগ V = f λ I V=f \\lambda \\mathrm{I} V = f λ I যেহেতু উভয় তরঙ্গ একই মাধ্যমে যাচ্ছে, তাদের বেগ একই হবে। V = f 1 λ 1 = f 2 λ 2 V=f_{1} \\lambda_{1}=f_{2} \\lambda_{2} V = f 1 ​ λ 1 ​ = f 2 ​ λ 2 ​ এখানে λ 1 \\lambda_{1} λ 1 ​ এর মান বসিয়ে পাই: f 1 ( 4 3 λ 2 ) = f 2 λ 2 4 3 f 1 = f 2 4 f 1 = 3 f 2 \\begin{array}{l} f_{1}\\left(\\frac{4}{3} \\lambda_{2}\\right)=f_{2} \\lambda_{2} \\\\ \\frac{4}{3} f_{1}=f_{2} \\\\ 4 f_{1}=3 f_{2} \\end{array} f 1 ​ ( 3 4 ​ λ 2 ​ ) = f 2 ​ λ 2 ​ 3 4 ​ f 1 ​ = f 2 ​ 4 f 1 ​ = 3 f 2 ​ ​ এছাড়াও, তাদের কম্পাঙ্কের পার্থক্য 4, অর্থাৎ: f 2 − f 1 = 4 (  যেহেতু  f 2 = 4 3 f 1 ,  তাই  f 2 > f 1 ) f_{2}-f_{1}=4\\left(\\text { যেহেতু } f_{2}=\\frac{4}{3} f_{1}, \\text { তাই } f_{2}>f_{1}\\right) f 2 ​ − f 1 ​ = 4 (   যেহেতু   f 2 ​ = 3 4 ​ f 1 ​ ,   তাই   f 2 ​ > f 1 ​ ) এখন, f 2 = 4 + f 1 f_{2}=4+f_{1} f 2 ​ = 4 + f 1 ​ এই মানটি 4 f 1 = 3 f 2 4 f_{1}=3 f_{2} 4 f 1 ​ = 3 f 2 ​ সমীকরণে বসাই: 4 f 1 = 3 ( 4 + f 1 ) 4 f 1 = 12 + 3 f 1 4 f 1 − 3 f 1 = 12 f 1 = 12   H z \\begin{array}{l} 4 f_{1}=3\\left(4+f_{1}\\right) \\\\ 4 f_{1}=12+3 f_{1} \\\\ 4 f_{1}-3 f_{1}=12 \\\\ f_{1}=12 \\mathrm{~Hz} \\end{array} 4 f 1 ​ = 3 ( 4 + f 1 ​ ) 4 f 1 ​ = 12 + 3 f 1 ​ 4 f 1 ​ − 3 f 1 ​ = 12 f 1 ​ = 12   Hz ​ এখন f 1 f_{1} f 1 ​ এর মান ব্যবহার করে f 2 f_{2} f 2 ​ নির্ণয় করি: f 2 = 4 + f 1 = 4 + 12 = 16   H z f_{2}=4+f_{1}=4+12=16 \\mathrm{~Hz} f 2 ​ = 4 + f 1 ​ = 4 + 12 = 16   Hz সুতরাং, ২য় তরঙ্গের কম্পাঙ্ক হলো 16 Hz।"
+    },
+    {
+      "number": "23",
+      "tag": "CCC 24",
+      "question": "2টি শব্দ তরঙ্গ 30° তাপমাত্রায় একই দিকে যাচ্ছে। একটির তরজাদৈর্ঘ্যের তিনগুণ অপরটির তরঙ্গদৈর্ঘ্যের 4 গুণের সমান। তাদের কম্পাঙ্কের পার্থক্য 4। 0°C এ শব্দের বেগ 330 ms -1 2.5 টি পূর্ণ স্পন্দনের জন্য ১ম তরঙ্গ কত দূরত্ব যাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "72.43 m",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "54.33 m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "73 m",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "55 m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "72.43 m",
+      "option_b": "54.33 m",
+      "option_c": "73 m",
+      "option_d": "55 m",
+      "correct": "ক",
+      "explanation": "30 ∘ C  এ শব্দের বেগ,  V 2 = V 1 T 2 T 1 = 330 303 273 = 347.66   m s − 1 f 2 − f 1 = 4 ∴ f 1 = 12   H z , λ 1 = V 2 f 1 = 347.66 12 = 28.97   m S = n λ 1 = 2.5 × 28.97 = 72.43   m \\begin{array}{l}30^{\\circ} \\mathrm{C} \\text { এ শব্দের বেগ, } V_{2}=V_{1} \\sqrt{\\frac{T_{2}}{T_{1}}} \\\\ =330 \\sqrt{\\frac{303}{273}}=347.66 \\mathrm{~ms}^{-1} \\\\ f_{2}-f_{1}=4 \\therefore f_{1}=12 \\mathrm{~Hz}, \\lambda_{1}=\\frac{V_{2}}{f_{1}}=\\frac{347.66}{12}=28.97 \\mathrm{~m} \\\\ S=n \\lambda_{1}=2.5 \\times 28.97=72.43 \\mathrm{~m}\\end{array} 3 0 ∘ C   এ   শব্দের   বেগ ,  V 2 ​ = V 1 ​ T 1 ​ T 2 ​ ​ ​ = 330 273 303 ​ ​ = 347.66   ms − 1 f 2 ​ − f 1 ​ = 4 ∴ f 1 ​ = 12   Hz , λ 1 ​ = f 1 ​ V 2 ​ ​ = 12 347.66 ​ = 28.97   m S = n λ 1 ​ = 2.5 × 28.97 = 72.43   m ​"
+    },
+    {
+      "number": "24",
+      "tag": "CCC 24",
+      "question": "উত্তল দর্পণ- i. 1 টি রিয়ারভিউ মিরর ii. বিভিন্ন অবস্থানে অবাস্তব বিম্ব গঠন করে iii. সব বস্তুর ক্ষেত্রে সমান দূরত্বে বিম্ব গঠন করে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "উত্তল দর্পণে গঠিত প্রতিবিম্ব সর্বদাঃ o   অবাস্তব o   সোজা o   সর্বদা খর্বিত হয় (m<1) o   দর্পণের পিছনে o   অবস্থান ফোকাস ও মেরু বিন্দুর মাঝখানে ( লক্ষবস্তুর দূরত্বের সাথে প্রতিবিম্বের দূরত্ব পরিবর্তন হয়) উত্তল দর্পণের ব্যবহারসমূহ : যানবাহনের পার্শ্ব দর্পণ (Side/Rear-view mirror in vehicles) ড্রাইভারকে বিস্তৃত এলাকা দেখতে সহায়তা করে ছোট ও সোজা চিত্র দেয় , দূরত্ব বেশি মনে হয় , ফলে নিরাপদ রাস্তার মোড়ে (Blind turns/intersections) দুটি দিক থেকেই আসা যানবাহন দেখা যায় দুর্ঘটনা রোধে ব্যবহৃত হয় দোকান বা শপিং মলে নিরাপত্তা নজরদারিতে (Security/surveillance mirror) এক নজরে পুরো এলাকা দেখা যায় চুরি বা সন্দেহজনক আচরণ নজরদারিতে সুবিধা দেয়"
+    },
+    {
+      "number": "25",
+      "tag": "CCC 24",
+      "question": "রক্তের ক্যান্সারে কোনটি ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আয়োডিন-131",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কোবাল্ট-60",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কার্বন-12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ফসফরাস-32",
+          "is_correct": true
+        }
+      ],
+      "option_a": "আয়োডিন-131",
+      "option_b": "কোবাল্ট-60",
+      "option_c": "কার্বন-12",
+      "option_d": "ফসফরাস-32",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

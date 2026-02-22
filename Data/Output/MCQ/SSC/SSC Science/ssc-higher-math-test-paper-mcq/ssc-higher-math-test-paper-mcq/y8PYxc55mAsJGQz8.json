@@ -1,0 +1,822 @@
+{
+  "read_id": "y8PYxc55mAsJGQz8",
+  "title": "সিলেট বোর্ড ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "SB 25",
+      "question": "5 a x − 2 = 5 b a x − 3 5^{a x-2}=5 b^{a x-3} 5 a x − 2 = 5 b a x − 3 এর সমাধান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− a 3 -\\frac{a}{3} − 3 a ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 3 a -\\frac{3}{a} − a 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a 3 \\frac{a}{3} 3 a ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 a \\frac{3}{a} a 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− a 3 -\\frac{a}{3} − 3 a ​",
+      "option_b": "− 3 a -\\frac{3}{a} − a 3 ​",
+      "option_c": "a 3 \\frac{a}{3} 3 a ​",
+      "option_d": "3 a \\frac{3}{a} a 3 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "SB 25",
+      "question": "f y ) = ln ⁡ 2 − y 2 + y f y)=\\ln \\frac{2-y}{2+y} f y ) = ln 2 + y 2 − y ​ এর বিপরীত ফাংশন কেনাটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 ( 1 − e y ) 1 + e y \\frac{2\\left(1-e^{y}\\right)}{1+e^{y}} 1 + e y 2 ( 1 − e y ) ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 ( e y − 1 ) e y + 1 \\frac{2\\left(e^{y}-1\\right)}{e^{y}+1} e y + 1 2 ( e y − 1 ) ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 ( 1 + e y ) 1 − e y \\frac{2\\left(1+e^{y}\\right)}{1-e^{y}} 1 − e y 2 ( 1 + e y ) ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 ( e y + 1 ) e y − 1 \\frac{2\\left(e^{y}+1\\right)}{e^{y}-1} e y − 1 2 ( e y + 1 ) ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 ( 1 − e y ) 1 + e y \\frac{2\\left(1-e^{y}\\right)}{1+e^{y}} 1 + e y 2 ( 1 − e y ) ​",
+      "option_b": "2 ( e y − 1 ) e y + 1 \\frac{2\\left(e^{y}-1\\right)}{e^{y}+1} e y + 1 2 ( e y − 1 ) ​",
+      "option_c": "2 ( 1 + e y ) 1 − e y \\frac{2\\left(1+e^{y}\\right)}{1-e^{y}} 1 − e y 2 ( 1 + e y ) ​",
+      "option_d": "2 ( e y + 1 ) e y − 1 \\frac{2\\left(e^{y}+1\\right)}{e^{y}-1} e y − 1 2 ( e y + 1 ) ​",
+      "correct": "ক",
+      "explanation": "f ( y ) = ln ⁡ 2 − y 2 + y f(y)=\\ln \\frac{2-y}{2+y} f ( y ) = ln 2 + y 2 − y ​ ধরি, f ( y ) = x f(y)=x f ( y ) = x y = f − 1 ( x ) x = ln ⁡ 2 − y 2 + y ⇒ e x = 2 − y 2 + y ⇒ 1 e x = 2 + y 2 − y ⇒ 1 − e x 1 + e x = 2 + y − 2 + y 2 + y + 2 − y = 2 y 4 \\begin{aligned} & y=f^{-1}(x) \\\\ & x=\\ln \\frac{2-y}{2+y} \\\\ \\Rightarrow & e^{x}=\\frac{2-y}{2+y} \\\\ \\Rightarrow & \\frac{1}{e^{x}}=\\frac{2+y}{2-y} \\\\ \\Rightarrow & \\frac{1-e^{x}}{1+e^{x}}=\\frac{2+y-2+y}{2+y+2-y}=\\frac{2 y}{4} \\end{aligned} ⇒ ⇒ ⇒ ​ y = f − 1 ( x ) x = ln 2 + y 2 − y ​ e x = 2 + y 2 − y ​ e x 1 ​ = 2 − y 2 + y ​ 1 + e x 1 − e x ​ = 2 + y + 2 − y 2 + y − 2 + y ​ = 4 2 y ​ ​ ⇒ y = 2 ( 1 − e x ) 1 + e x f − 1 ( x ) = 2 ( 1 − e x ) 1 + e x ∴ f − 1 ( y ) = 2 ( 1 − e y ) 1 + e y \\begin{array}{l}\\Rightarrow y=\\frac{2\\left(1-e^{x}\\right)}{1+e^{x}} \\\\ f^{-1}(x)=\\frac{2\\left(1-e^{x}\\right)}{1+e^{x}} \\\\ \\therefore f^{-1}(y)=\\frac{2\\left(1-e^{y}\\right)}{1+e^{y}}\\end{array} ⇒ y = 1 + e x 2 ( 1 − e x ) ​ f − 1 ( x ) = 1 + e x 2 ( 1 − e x ) ​ ∴ f − 1 ( y ) = 1 + e y 2 ( 1 − e y ) ​ ​"
+    },
+    {
+      "number": "3",
+      "tag": "SB 25",
+      "question": "( x 2 − p x ) 6 \\left(x^{2}-\\frac{p}{x}\\right)^{6} ( x 2 − x p ​ ) 6 এর বিস্তৃতিতে মধ্যপদটি- 540 x 3 540 x^{3} 540 x 3 হলে p-এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-27",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "27",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-27",
+      "option_b": "-3",
+      "option_c": "3",
+      "option_d": "27",
+      "correct": "খ",
+      "explanation": "T k + 1 = ( 6 k ) ( x 2 ) 6 − k ( − p x ) k = ( 6 k ) ( − p ) k x 12 − 3 k T_{k+1} = \\binom{6}{k}(x^2)^{6-k} \\left(-\\frac{p}{x}\\right)^k = \\binom{6}{k}(-p)^k x^{12-3k} T k + 1 ​ = ( k 6 ​ ) ( x 2 ) 6 − k ( − x p ​ ) k = ( k 6 ​ ) ( − p ) k x 12 − 3 k n = 6 ⇒ n = 6 \\Rightarrow n = 6 ⇒ মধ্যপদ k = 3 k = 3 k = 3 (৪র্থ পদ): T 4 = ( 6 3 ) ( − p ) 3 x 12 − 9 = − 20 p 3 x 3 T_4 = \\binom{6}{3}(-p)^3 x^{12-9} = -20p^3 x^3 T 4 ​ = ( 3 6 ​ ) ( − p ) 3 x 12 − 9 = − 20 p 3 x 3 দেওয়া আছে T 4 = 540 x 3 ⇒ − 20 p 3 = 540 ⇒ p 3 = − 27 ⇒ p = − 3. T_4 = 540x^3 \\Rightarrow -20p^3 = 540 \\Rightarrow p^3 = -27 \\Rightarrow p = -3. T 4 ​ = 540 x 3 ⇒ − 20 p 3 = 540 ⇒ p 3 = − 27 ⇒ p = − 3. p = − 3 p = -3 p = − 3"
+    },
+    {
+      "number": "4",
+      "tag": "SB 25",
+      "question": "△   P Q R  এ  P R , Q P ,   R M  মধ্যমা এক \\triangle~ PQR ~এ~ PR, QP,~ RM~মধ্যমা ~এক △   PQR   এ   PR , QP ,   RM   মধ্যমা   এক ∠ P Q R − 90 ∘ হলে + ⋯ \\angle P Q R-90^{\\circ} হলে+\\cdots ∠ PQR − 9 0 ∘ হলে + ⋯ i e 2 = 2 ( c 2 + a 2 ) − b 2 4 e^{2}=\\frac{2\\left(c^{2}+a^{2}\\right)-b^{2}}{4} e 2 = 4 2 ( c 2 + a 2 ) − b 2 ​ ii) 2 ( d 2 + e 2 + f 2 ) = 3 b 2 2\\left(d^{2}+e^{2}+f^{2}\\right)=3 b^{2} 2 ( d 2 + e 2 + f 2 ) = 3 b 2 iii. c 2 = b 2 − a 2 c^{2}=b^{2}-a^{2} c 2 = b 2 − a 2 নিচের কোনটি সঠিক ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও ili",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও ili",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "SB 25",
+      "question": "x- 5y - 15 = 0 সরলরেখাটির y ছেদক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1/5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-5",
+      "option_b": "-3",
+      "option_c": "1/5",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": "সরলরেখার y ছেদক বের করার জন্য, x এর মান 0 বসিয়ে y এর মান নির্ণয় করতে হয়। প্রদত্ত সমীকরণ: x - 5y - 15 = 0। x = 0 বসালে, 0 - 5y - 15 = 0 হয়। এখান থেকে, -5y = 15, সুতরাং y = -15/5 = -3। সুতরাং, y ছেদক -3।"
+    },
+    {
+      "number": "6",
+      "tag": "SB 25",
+      "question": "A = { 2 , n , 2 , 1 }  এবং  R = ( − 2 , − 1 , n , 1 ) A=\\{2, n, 2,1\\} \\text { এবং } R=(-2,-1, n, 1) A = { 2 , n , 2 , 1 }   এবং   R = ( − 2 , − 1 , n , 1 ) দুটি সেট হলে নিচের কোনটি সঠিক ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( A ∪ B ) ⊂ λ (A \\cup B) \\subset \\lambda ( A ∪ B ) ⊂ λ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( A ∩ A ) ⊂ A (A \\cap A) \\subset A ( A ∩ A ) ⊂ A",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A ⊂ ( A ⊂ B ) A \\subset(A \\subset B) A ⊂ ( A ⊂ B )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "R C ( A ∩ B ) R C(A \\cap B) RC ( A ∩ B )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( A ∪ B ) ⊂ λ (A \\cup B) \\subset \\lambda ( A ∪ B ) ⊂ λ",
+      "option_b": "( A ∩ A ) ⊂ A (A \\cap A) \\subset A ( A ∩ A ) ⊂ A",
+      "option_c": "A ⊂ ( A ⊂ B ) A \\subset(A \\subset B) A ⊂ ( A ⊂ B )",
+      "option_d": "R C ( A ∩ B ) R C(A \\cap B) RC ( A ∩ B )",
+      "correct": "",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "SB 25",
+      "question": "একটি গলেতে 16 টি আম, 20 টি কলা এবং 14 টি কমলা আছে। দৈৰভাবে একটি ফল নেওয়া হলে ফলটি কলা হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "¼",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2/5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "7/16",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "11/16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "¼",
+      "option_b": "2/5",
+      "option_c": "7/16",
+      "option_d": "11/16",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "SB 25",
+      "question": "g(x) = 2x + 1 এবং - 1 <= x <= 2 হলে ফাংশনের রেঞ্জ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ y ∈ R : − 5 ≤ y ≤ − 1 } \\{y \\in R:-5 \\leq y \\leq-1\\} { y ∈ R : − 5 ≤ y ≤ − 1 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ y ∈ R : 1 ≤ y ≤ 5 } \\{y \\in R: 1 \\leq y \\leq 5\\} { y ∈ R : 1 ≤ y ≤ 5 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ y ∈ R : − 5 ≤ y < 1 } \\{y \\in \\mathbb{R}:-5 \\leq y<1\\} { y ∈ R : − 5 ≤ y < 1 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ y ∈ R : − 1 ≤ y ≤ 5 } \\{y \\in R:-1 \\leq y \\leq 5\\} { y ∈ R : − 1 ≤ y ≤ 5 }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ y ∈ R : − 5 ≤ y ≤ − 1 } \\{y \\in R:-5 \\leq y \\leq-1\\} { y ∈ R : − 5 ≤ y ≤ − 1 }",
+      "option_b": "{ y ∈ R : 1 ≤ y ≤ 5 } \\{y \\in R: 1 \\leq y \\leq 5\\} { y ∈ R : 1 ≤ y ≤ 5 }",
+      "option_c": "{ y ∈ R : − 5 ≤ y < 1 } \\{y \\in \\mathbb{R}:-5 \\leq y<1\\} { y ∈ R : − 5 ≤ y < 1 }",
+      "option_d": "{ y ∈ R : − 1 ≤ y ≤ 5 } \\{y \\in R:-1 \\leq y \\leq 5\\} { y ∈ R : − 1 ≤ y ≤ 5 }",
+      "correct": "ঘ",
+      "explanation": "এখানে, g(x) একটি রৈখিক ফাংশন, তাই এর রেঞ্জ একটি আবদ্ধ ব্যবধির মধ্যে থাকবে। প্রদত্ত ডোমেইন -1 <= x <= 2 এর জন্য, আমরা x এর সর্বনিম্ন এবং সর্বোচ্চ মানে g(x) এর মান বের করে রেঞ্জ নির্ণয় করতে পারি। যখন x = -1, g(x) = 2*(-1) + 1 = -2 + 1 = -1 যখন x = 2, g(x) = 2*(2) + 1 = 4 + 1 = 5  সুতরাং, g(x) এর রেঞ্জ হবে -1 থেকে 5 পর্যন্ত, যা একটি আবদ্ধ ব্যবধি।"
+    },
+    {
+      "number": "9",
+      "tag": "SB 25",
+      "question": "সমমাত্রিক বহুপদী নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x 2 + 3 x y + 2 y 2 x^{2}+3 x y+2 y^{2} x 2 + 3 x y + 2 y 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x 2 − 3 x y 2 + 5 x^{2}-3 x y^{2}+5 x 2 − 3 x y 2 + 5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 − 3 x 2 y + 3 x y 2 + 1 x^{2}-3 x^{2} y+3 x y^{2}+1 x 2 − 3 x 2 y + 3 x y 2 + 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( x 2 + y 2 − 4 ) ( x^{2}+y^{2}-4 ) ( x 2 + y 2 − 4 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x 2 + 3 x y + 2 y 2 x^{2}+3 x y+2 y^{2} x 2 + 3 x y + 2 y 2",
+      "option_b": "x 2 − 3 x y 2 + 5 x^{2}-3 x y^{2}+5 x 2 − 3 x y 2 + 5",
+      "option_c": "x 2 − 3 x 2 y + 3 x y 2 + 1 x^{2}-3 x^{2} y+3 x y^{2}+1 x 2 − 3 x 2 y + 3 x y 2 + 1",
+      "option_d": "( x 2 + y 2 − 4 ) ( x^{2}+y^{2}-4 ) ( x 2 + y 2 − 4 )",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "SB 25",
+      "question": "F ( x ) = 7 x 2 − 2 x + 3 x 3 + 2  এবং  G ( x ) = 7 x 2 − 2 x + 3 F ( x ) G ( x )  এর মাত্রা কত ?  \\begin{array}{l} F(x)=7 x^{2}-2 x+3 x^{3}+2 \\text { এবং } \\\\ G(x)=7 x^{2}-2 x+3 \\\\ \\frac{F(x)}{G(x)} \\text { এর মাত্রা কত ? } \\end{array} F ( x ) = 7 x 2 − 2 x + 3 x 3 + 2   এবং   G ( x ) = 7 x 2 − 2 x + 3 G ( x ) F ( x ) ​   এর   মাত্রা   কত  ?  ​",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": "(x) এর সর্বোচ্চ ঘাত ৩, তাই F(x) এর মাত্রা ৩। G(x) এর সর্বোচ্চ ঘাত ২, তাই G(x) এর মাত্রা ২। যখন F(x) কে G(x) দিয়ে ভাগ করা হয়, তখন ভাগফলের মাত্রা হয় F(x) এর মাত্রা বিয়োগ G(x) এর মাত্রা। সুতরাং, F(x) - G(x) এর মাত্রা = 3 - 2 = 1।"
+    },
+    {
+      "number": "11",
+      "tag": "SB 25",
+      "question": "একটি ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 5 সে.মি. হলে এর পরিবৃত্তের পরিধি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 π \\pi π সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20 π \\pi π সে.মি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "25 π \\pi π সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "100 π \\pi π সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 π \\pi π সে.মি",
+      "option_b": "20 π \\pi π সে.মি",
+      "option_c": "25 π \\pi π সে.মি",
+      "option_d": "100 π \\pi π সে.মি.",
+      "correct": "খ",
+      "explanation": "একটি ত্রিভুজের নববিন্দু বৃত্তের (nine-point circle) ব্যাসার্ধ, পরিবৃত্তের (circumcircle) ব্যাসার্ধের অর্ধেক হয়। ধরা যাক, নববিন্দু বৃত্তের ব্যাসার্ধ r এবং পরিবৃত্তের ব্যাসার্ধ R। তাহলে, r = R/2 হবে। এখানে, নববিন্দু বৃত্তের ব্যাসার্ধ 5 সেমি দেওয়া আছে, তাই r = 5 সেমি। সুতরাং, R = 2 r = 2 5 = 10 সেমি। একটি বৃত্তের পরিধি (circumference) নির্ণয়ের সূত্র হল: 2πr, যেখানে r হল বৃত্তের ব্যাসার্ধ। সুতরাং, পরিবৃত্তের পরিধি হবে: 2 π 10 = 20π সেমি।"
+    },
+    {
+      "number": "12",
+      "tag": "SB 25",
+      "question": "3 − 6 x − x 2 = 0 3-6 x-x^{2}=0 3 − 6 x − x 2 = 0 সমীকরণের সমাধান নিচের কোনটি ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 ± 3 2 3 \\pm 3 \\sqrt{2} 3 ± 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 ± 2 3 3 \\pm 2 \\sqrt{3} 3 ± 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− ( 3 ± 2 3 ) -(3 \\pm 2 \\sqrt{3}) − ( 3 ± 2 3 ​ )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "− ( 3 ± 3 2 ) -(3 \\pm 3 \\sqrt{2}) − ( 3 ± 3 2 ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 ± 3 2 3 \\pm 3 \\sqrt{2} 3 ± 3 2 ​",
+      "option_b": "3 ± 2 3 3 \\pm 2 \\sqrt{3} 3 ± 2 3 ​",
+      "option_c": "− ( 3 ± 2 3 ) -(3 \\pm 2 \\sqrt{3}) − ( 3 ± 2 3 ​ )",
+      "option_d": "− ( 3 ± 3 2 ) -(3 \\pm 3 \\sqrt{2}) − ( 3 ± 3 2 ​ )",
+      "correct": "গ",
+      "explanation": "3 − 6 x − x 2 = 0 ⇒ x 2 + 6 x − 3 = 0 x = − 6 ± 6 2 − 4 × 1 × ( − 3 ) 2 × 1 x = − 6 ± 48 2 x = − 6 ± 4 3 2 x = − 3 ± 2 3 ∴ − x = − ( 3 ± 2 3 ) \\begin{array}{l}3-6 x-x^{2}=0 \\\\ \\Rightarrow x^{2}+6 x-3=0 \\\\ x=\\frac{-6 \\pm \\sqrt{6^{2}-4 \\times 1 \\times(-3)}}{2 \\times 1} \\\\ x=\\frac{-6 \\pm \\sqrt{48}}{2} \\\\ x=\\frac{-6 \\pm 4 \\sqrt{3}}{2} \\\\ x=-3 \\pm 2 \\sqrt{3} \\\\ \\therefore-x=-(3 \\pm 2 \\sqrt{3})\\end{array} 3 − 6 x − x 2 = 0 ⇒ x 2 + 6 x − 3 = 0 x = 2 × 1 − 6 ± 6 2 − 4 × 1 × ( − 3 ) ​ ​ x = 2 − 6 ± 48 ​ ​ x = 2 − 6 ± 4 3 ​ ​ x = − 3 ± 2 3 ​ ∴ − x = − ( 3 ± 2 3 ​ ) ​"
+    },
+    {
+      "number": "1",
+      "tag": "CTG.B 25,SB 25,CB 24,CTG.B 24,SB 24,HC 24,BNMPC 24,NISD 24,CPSCR 24,RCS 24,MB 23,RB 21,DIN.B 21,CB 21,SB 21,BB 21,DB 19,CTG.B 19,SB 19",
+      "question": "f ( x ) = x 2  হলে-  f(x)=x^{2} \\text { হলে- } f ( x ) = x 2   হলে -  i. ডোম f = R f=\\mathbb{R} f = R ii. রেঞ্জ f = { y ∈ R : y ≥ 0 } f=\\{y \\in \\mathbb{R}: y \\geq 0\\} f = { y ∈ R : y ≥ 0 } iii. f এক-এক ফাংশন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "প্রদত্ত f ( x ) = x 2 f(x) = x^2 f ( x ) = x 2 একটি স্কয়ার ফাংশন যা আমাদের বাস্তব সংখ্যাগুলি থেকে বাস্তব সংখ্যাগুলিতে ম্যাপ করে। i. ডোমেইন f = R f = \\mathbb{R} f = R : এই ব্যাপারটি সঠিক কারণ আমরা যে কোনও বাস্তব সংখ্যাকে ইনপুট হিসাবে ব্যবহার করতে পারি। ii. রেঞ্জ f = { y ∈ R : y ≥ 0 } f = \\{y \\in \\mathbb{R} : y \\geq 0\\} f = { y ∈ R : y ≥ 0 } : এই ব্যাপারটি সঠিক যেহেতু ফাংশন f ( x ) = x 2 f(x) = x^2 f ( x ) = x 2 এর আউটপুট কখনোই নেতিবাচক হয় না, কারণ x 2 x^2 x 2 সর্বদা ধনাত্মক বা শূণ্য হয়। iii. f এক-এক ফাংশন না: একটি এক-এক ফাংশন হবে কেবল তখনই যখন ভিন্ন ইনপুটের জন্য আলাদা আউটপুট তৈরি করবে। এখানে x 2 x^2 x 2 ফাংশন একাধিক ইনপুটের জন্য একই আউটপুট প্রদানে সক্ষম যেমন, f ( 1 ) = 1 f(1) = 1 f ( 1 ) = 1 এবং f ( − 1 ) = 1 f(-1) = 1 f ( − 1 ) = 1 । সুতরাং এটি এক-এক ফাংশন নয়। অতএব, সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "2",
+      "tag": "SB 25",
+      "question": "3 − 3 2 + 3 2 − 3 2 2 + … . . . . . . . 3-\\frac{3}{\\sqrt{2}}+\\frac{3}{2}-\\frac{3}{2 \\sqrt{2}}+\\ldots . . . . . . . 3 − 2 ​ 3 ​ + 2 3 ​ − 2 2 ​ 3 ​ + … ....... . একটি ধারা । ধারাটির ৭ম পদ কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 8 3 -\\frac{8}{3} − 3 8 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 3 8 -\\frac{3}{8} − 8 3 ​ .",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 8 \\frac{3}{8} 8 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8 3 \\frac{8}{3} 3 8 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 8 3 -\\frac{8}{3} − 3 8 ​",
+      "option_b": "− 3 8 -\\frac{3}{8} − 8 3 ​ .",
+      "option_c": "3 8 \\frac{3}{8} 8 3 ​",
+      "option_d": "8 3 \\frac{8}{3} 3 8 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "SB 25",
+      "question": "3 − 3 2 + 3 2 − 3 2 2 + … . . . . . . . 3-\\frac{3}{\\sqrt{2}}+\\frac{3}{2}-\\frac{3}{2 \\sqrt{2}}+\\ldots . . . . . . . 3 − 2 ​ 3 ​ + 2 3 ​ − 2 2 ​ 3 ​ + … ....... . একটি ধারা । ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 1 − 2 \\frac{3}{1-\\sqrt{2}} 1 − 2 ​ 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 1 + 2 \\frac{3}{1+\\sqrt{2}} 1 + 2 ​ 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 2 + 1 \\frac{3 \\sqrt{2}}{\\sqrt{2}+1} 2 ​ + 1 3 2 ​ ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 2 − 1 \\frac{3 \\sqrt{2}}{\\sqrt{2}-1} 2 ​ − 1 3 2 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 1 − 2 \\frac{3}{1-\\sqrt{2}} 1 − 2 ​ 3 ​",
+      "option_b": "3 1 + 2 \\frac{3}{1+\\sqrt{2}} 1 + 2 ​ 3 ​",
+      "option_c": "3 2 2 + 1 \\frac{3 \\sqrt{2}}{\\sqrt{2}+1} 2 ​ + 1 3 2 ​ ​",
+      "option_d": "3 2 2 − 1 \\frac{3 \\sqrt{2}}{\\sqrt{2}-1} 2 ​ − 1 3 2 ​ ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "SB 25,BB 24,SB 21",
+      "question": "2 y = x k + 3  এবং  5 y − 10 x + 8 = 0 2 y=\\frac{x}{k}+3 \\text { এবং } 5 y-10 x+8=0 2 y = k x ​ + 3   এবং   5 y − 10 x + 8 = 0 সরলরেখাদ্বয় সমান্তরাল হলে k এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 4 -\\frac{1}{4} − 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "− 1 4 -\\frac{1}{4} − 4 1 ​",
+      "option_c": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_d": "1",
+      "correct": "গ",
+      "explanation": "দেওয়া আছে, 2 y = x k + 3 2 \\mathrm{y}=\\frac{\\mathrm{x}}{\\mathrm{k}}+3 2 y = k x ​ + 3 বা, y = x 2 k + 3 2 ⋯ ⋯ \\mathrm{y}=\\frac{\\mathrm{x}}{2 \\mathrm{k}}+\\frac{3}{2} \\cdots \\cdots y = 2 k x ​ + 2 3 ​ ⋯⋯ (i) এবং 5 y − 10 x + 8 = 0 5 \\mathrm{y}-10 \\mathrm{x}+8=0 5 y − 10 x + 8 = 0 বা, y = 2 x − 8 5 … … … \\mathrm{y}=2 \\mathrm{x}-\\frac{8}{5} \\ldots \\ldots \\ldots y = 2 x − 5 8 ​ ……… (ii) সরলরেখাদ্বয় সমান্তরাল হলে রেখাদ্বয়ের ঢাল সমান। কাজেই, 1 2 k = 2 ∴ k = 1 4 \\frac{1}{2 \\mathrm{k}}=2 \\quad \\therefore \\mathrm{k}=\\frac{1}{4} 2 k 1 ​ = 2 ∴ k = 4 1 ​"
+    },
+    {
+      "number": "5",
+      "tag": "SB 25",
+      "question": "Dও E যথাক্রমে MNOP ট্রাপিজিয়ামের NP ও MO কর্ণদ্বয়ের মধ্যবিন্দু, যেখানে MN, PO MN = 8 সে.মি. এবং PO =12 সে.মি. হলে DE = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10 সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "20 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 সে.মি.",
+      "option_b": "4 সে.মি.",
+      "option_c": "10 সে.মি",
+      "option_d": "20 সে.মি.",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "SB 25",
+      "question": "চিত্রে, PQ=4 একক, PR=5একক হলে ক্ষেত্রটির আয়তন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "48 π \\pi π ঘন একক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "36 π \\pi π ঘন একক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16 π \\pi π ঘন একক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12 π \\pi π ঘন একক",
+          "is_correct": true
+        }
+      ],
+      "option_a": "48 π \\pi π ঘন একক",
+      "option_b": "36 π \\pi π ঘন একক",
+      "option_c": "16 π \\pi π ঘন একক",
+      "option_d": "12 π \\pi π ঘন একক",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "SB 25",
+      "question": "PROBABILITY TREE এর বর্ণগুলোকে পৃথকভাবে একটি বাক্সে রাখা হলো। দৈবভাবে একটি বর্ণ তোলা হলে এটি স্বরবর্ণ না হওয়ার সম্বাবনা কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2/5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7/15",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8/15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3/5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2/5",
+      "option_b": "7/15",
+      "option_c": "8/15",
+      "option_d": "3/5",
+      "correct": "ঘ",
+      "explanation": "ধরা যাক, \"PROBABILITY TREE\" শব্দটিতে মোট n সংখ্যক বর্ণ আছে। এবং স্বরবর্ণের সংখ্যা m। তাহলে, স্বরবর্ণ না হওয়ার সম্ভাবনা হবে (n-m)/n। উদাহরণস্বরূপ, ধরি \"PROBABILITY TREE\" শব্দটিতে মোট 15 টি বর্ণ আছে। এর মধ্যে স্বরবর্ণ (O, A, I, I, E,E) = 6 টি। সুতরাং, (15-6)/15 = 9/15। অতএব, \"PROBABILITY TREE\" শব্দ থেকে দৈবভাবে একটি বর্ণ নিলে সেটি স্বরবর্ণ না হওয়ার সম্ভাবনা 3/5"
+    },
+    {
+      "number": "8",
+      "tag": "SB 25",
+      "question": "চিত্রে AC=4 সেমি, BC= 3 সেমি, আর ACB - 120. BC এর উপর AC' এর লখ অভিক্ষেপ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "AB",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "BC",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "CD",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "AD",
+          "is_correct": false
+        }
+      ],
+      "option_a": "AB",
+      "option_b": "BC",
+      "option_c": "CD",
+      "option_d": "AD",
+      "correct": "গ",
+      "explanation": "C বিন্দু থেকে BD এর উপর অঙ্কিত লম্বের পাদবিন্দ C বিন্দু নিজেই এবং A বিন্দু থেকে BD এর উপর অঙ্কিত লম্বের পদবিন্দু D। সুতরাং BD এর উপর AC রেখার লম্ব অভিক্ষেপ C ও D সংযোজক রেখা CD"
+    },
+    {
+      "number": "9",
+      "tag": "SB 25",
+      "question": "চিত্রে AC=4 সেমি, BC= 3 সেমি, আর ACB - 120 AB এর দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6.08 সে.মি (প্রায়)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5.39 সে.মি (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5.29 সে.মি (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3.61 সে.মি (প্রায়)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6.08 সে.মি (প্রায়)",
+      "option_b": "5.39 সে.মি (প্রায়)",
+      "option_c": "5.29 সে.মি (প্রায়)",
+      "option_d": "3.61 সে.মি (প্রায়)",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "SB 25,BCPC ,SB 20",
+      "question": "2 সে.মি., 3 সে.মি., 4 সে.মি. ব্যাসার্ধ বিশিষ্ট তিনটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে কেন্দ্র তিনটি দ্বারা গঠিত ত্রিভুজের- i. পরিসীমা 18 সে.মি. ii. ক্ষেত্রফল 14.70 বর্গ সে.মি. iii. একটি কোণ সমকোণ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "ত্রিভুজের বাহু তিনটির মান যথাক্রমে 2 + 3 = 5 3 + 4 = 7 2 + 4 = 6 \\begin{array}{l} 2+3=5 \\\\ 3+4=7 \\\\ 2+4=6 \\end{array} 2 + 3 = 5 3 + 4 = 7 2 + 4 = 6 ​ (i) পরিসীমা = 5 + 7 + 6 = 18 / s = 18 2 = 9 =5+7+6=18 / s=\\frac{18}{2}=9 = 5 + 7 + 6 = 18/ s = 2 18 ​ = 9 (ii) ক্ষেত্রফল = 9 ( 9 − 5 ) ( 9 − 6 ) ( 9 − 7 ) = 14.7 =\\sqrt{9(9-5)(9-6)(9-7)}=14.7 = 9 ( 9 − 5 ) ( 9 − 6 ) ( 9 − 7 ) ​ = 14.7 (iii) 7 2 ≠ 6 2 + 5 2 7^{2} \\neq 6^{2}+5^{2} 7 2  = 6 2 + 5 2 ∴ \\therefore ∴ কোনো কোণই সমকোণ নয়।"
+    },
+    {
+      "number": "11",
+      "tag": "SB 25",
+      "question": "2x-3> ½ x এর সমাধান সেটের সংখ্যারেখা নিচের কোনটি ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "",
+          "is_correct": true
+        }
+      ],
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "SB 25,DIN.B 22",
+      "question": "− 85 π 18 \\frac{-85 \\pi}{18} 18 − 85 π ​ রেডিয়ান কোণটি কোন চতুর্ভাগে অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৪র্থ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৩য়",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "২য়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১ম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৪র্থ",
+      "option_b": "৩য়",
+      "option_c": "২য়",
+      "option_d": "১ম",
+      "correct": "খ",
+      "explanation": "− 85 π 18 + 2 π × k ( k  পূর্ণসংখ্যা  ) \\frac{-85 \\pi}{18}+2 \\pi \\times k \\quad(k \\text { পূর্ণসংখ্যা }) 18 − 85 π ​ + 2 π × k ( k   পূর্ণসংখ্যা   ) প্রথমে k = 3 k=3 k = 3 নিয়ে চেষ্টা করি (যেহেতু 85 18 ≈ 4.72 \\frac{85}{18} \\approx 4.72 18 85 ​ ≈ 4.72 , তাই 2 π × 4 2 \\pi \\times 4 2 π × 4 যোগ করলে বেশি হয়ে যাবে): − 85 π 18 + 2 π × 3 = − 85 π 18 + 108 π 18 = 23 π 18 \\frac{-85 \\pi}{18}+2 \\pi \\times 3=\\frac{-85 \\pi}{18}+\\frac{108 \\pi}{18}=\\frac{23 \\pi}{18} 18 − 85 π ​ + 2 π × 3 = 18 − 85 π ​ + 18 108 π ​ = 18 23 π ​ এখন, 23 π 18 \\frac{23 \\pi}{18} 18 23 π ​ একটি ধনাত্মক কোণ এবং 0 < 23 π 18 < 2 π 0<\\frac{23 \\pi}{18}<2 \\pi 0 < 18 23 π ​ < 2 π (কারণ 2 π = 36 π 18 2 \\pi=\\frac{36 \\pi}{18} 2 π = 18 36 π ​ )। এখন, 23 π 18 \\frac{23 \\pi}{18} 18 23 π ​ কোণটি কোন চতুর্ভাগে অবস্থিত তা নির্ণয় করতে, এটিকে ডিগ্রীতে রূপান্তর করি (ঐচ্ছিক, তবে সহজবোধ্য): 23 π 18  রেডিয়ান  = 23 × 180 ∘ 18 = 230 ∘ \\frac{23 \\pi}{18} \\text { রেডিয়ান }=\\frac{23 \\times 180^{\\circ}}{18}=230^{\\circ} 18 23 π ​   রেডিয়ান   = 18 23 × 18 0 ∘ ​ = 23 0 ∘ এখন, 230 ∘ 230^{\\circ} 23 0 ∘ কোণের অবস্থান: - 180 ∘ < 230 ∘ < 270 ∘ 180^{\\circ}<230^{\\circ}<270^{\\circ} 18 0 ∘ < 23 0 ∘ < 27 0 ∘ , তাই এটি তৃতীয় চতুর্ভাগে অবস্থিত।"
+    },
+    {
+      "number": "13",
+      "tag": "SB 25",
+      "question": "cos ⁡ θ = − 3 2 \\cos \\theta=-\\frac{\\sqrt{3}}{2} cos θ = − 2 3 ​ ​ এবং π < θ < 3 π 2 \\pi<\\theta<\\frac{3 \\pi}{2} π < θ < 2 3 π ​ হলে cot ⁡ θ \\cot \\theta cot θ এর মান কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 1 3 -\\frac{1}{\\sqrt{3}} − 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 3 -\\sqrt{3} − 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 \\sqrt{3} 3 ​",
+      "option_b": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_c": "− 1 3 -\\frac{1}{\\sqrt{3}} − 3 ​ 1 ​",
+      "option_d": "− 3 -\\sqrt{3} − 3 ​",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

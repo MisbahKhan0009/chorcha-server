@@ -1,0 +1,822 @@
+{
+  "read_id": "R2MVUCkth9ZGtctZ",
+  "title": "সেন্ট যোসেফস্‌ স্কুল এন্ড কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "SJSC 24",
+      "question": "S সেটের পূরক সেট S ′ \\mathbf{S}^{\\prime} S ′ হলে, নিচের কোনটি সঠিক যখন U সার্বিক সেট?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "S ′ = { x : x ∈ S , x ∈ U } \\mathrm{S}^{\\prime}=\\{\\mathrm{x}: \\mathrm{x} \\in \\mathrm{S}, \\mathrm{x} \\in \\mathrm{U}\\} S ′ = { x : x ∈ S , x ∈ U }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "S ′ = { x : x ∉ S , x ∉ U } S^{\\prime}=\\{x: x \\notin S, x \\notin U\\} S ′ = { x : x ∈ / S , x ∈ / U }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "S ′ = { x : x ∈ S , x ∉ U } \\mathrm{S}^{\\prime}=\\{\\mathrm{x}: \\mathrm{x} \\in \\mathrm{S}, \\mathrm{x} \\notin \\mathrm{U}\\} S ′ = { x : x ∈ S , x ∈ / U }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "S ′ = { x : x ∉ S , x ∈ U } S^{\\prime}=\\{x: x \\notin S, x \\in U\\} S ′ = { x : x ∈ / S , x ∈ U }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "S ′ = { x : x ∈ S , x ∈ U } \\mathrm{S}^{\\prime}=\\{\\mathrm{x}: \\mathrm{x} \\in \\mathrm{S}, \\mathrm{x} \\in \\mathrm{U}\\} S ′ = { x : x ∈ S , x ∈ U }",
+      "option_b": "S ′ = { x : x ∉ S , x ∉ U } S^{\\prime}=\\{x: x \\notin S, x \\notin U\\} S ′ = { x : x ∈ / S , x ∈ / U }",
+      "option_c": "S ′ = { x : x ∈ S , x ∉ U } \\mathrm{S}^{\\prime}=\\{\\mathrm{x}: \\mathrm{x} \\in \\mathrm{S}, \\mathrm{x} \\notin \\mathrm{U}\\} S ′ = { x : x ∈ S , x ∈ / U }",
+      "option_d": "S ′ = { x : x ∉ S , x ∈ U } S^{\\prime}=\\{x: x \\notin S, x \\in U\\} S ′ = { x : x ∈ / S , x ∈ U }",
+      "correct": "ঘ",
+      "explanation": "পূরক সেটের সংজ্ঞা: S ′ = U \\ S = { x ∣ x ∈ U  এবং  x ∉ S } S^{\\prime}=U \\backslash S=\\{x \\mid x \\in U \\text { এবং } x \\notin S\\} S ′ = U \\ S = { x ∣ x ∈ U   এবং   x ∈ / S }"
+    },
+    {
+      "number": "2",
+      "tag": "BB 24,SJSC 24",
+      "question": "নিচের কোনটি ফাংশন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "",
+          "is_correct": false
+        }
+      ],
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "correct": "ক",
+      "explanation": "প্রদত্ত প্রশ্নটি হলো \"নিচের কোনটি ফাংশন?\"। ফাংশন নির্ণয় করার জন্য উল্লম্ব রেখা পরীক্ষা (Vertical Line Test) ব্যবহার করা হয়। যদি গ্রাফের যেকোনো স্থানে একটি উল্লম্ব রেখা আঁকা হয় এবং সেই রেখাটি গ্রাফটিকে একাধিক বিন্দুতে ছেদ করে, তবে সেটি ফাংশন নয়। যদি উল্লম্ব রেখাটি গ্রাফটিকে সর্বোচ্চ একটি বিন্দুতে ছেদ করে, তবে সেটি একটি ফাংশন। চলুন প্রতিটি অপশন পরীক্ষা করা যাক: * **ক: চিত্রটি একটি পরাবৃত্ত (parabola) যা y-অক্ষের দিকে খোলা।** * যদি এই গ্রাফের উপর একটি উল্লম্ব রেখা আঁকা হয় (যেমন, x = k x=k x = k যেখানে k > 0 k>0 k > 0 ), তবে এটি গ্রাফটিকে দুটি ভিন্ন বিন্দুতে ছেদ করবে। এর অর্থ হলো, একটি নির্দিষ্ট x x x -মানের জন্য দুটি ভিন্ন y y y -মান পাওয়া যায়। * সুতরাং, এটি একটি ফাংশন নয়। * **খ: চিত্রটি একটি বৃত্ত বা উপবৃত্তের মতো।** * যদি এই গ্রাফের উপর একটি উল্লম্ব রেখা আঁকা হয় (এর ডোমেইনের মধ্যে), তবে এটি গ্রাফটিকে দুটি ভিন্ন বিন্দুতে ছেদ করবে। এর অর্থ হলো, একটি নির্দিষ্ট x x x -মানের জন্য দুটি ভিন্ন y y y -মান পাওয়া যায়। * সুতরাং, এটি একটি ফাংশন নয়। * **গ: চিত্রটি একটি পরাবৃত্ত (parabola) যা y-অক্ষের ধনাত্মক দিকে খোলা।** * যদি এই গ্রাফের উপর যেকোনো স্থানে একটি উল্লম্ব রেখা আঁকা হয়, তবে এটি গ্রাফটিকে সর্বোচ্চ একটি বিন্দুতে ছেদ করবে। এর অর্থ হলো, প্রতিটি x x x -মানের জন্য শুধুমাত্র একটি y y y -মান পাওয়া যায়। * সুতরাং, এটি একটি ফাংশন। * **ঘ: চিত্রটি এমন একটি গ্রাফ যেখানে উল্লম্ব রেখা একাধিক বিন্দুতে ছেদ করতে পারে।** * যদি এই গ্রাফের উপর একটি উল্লম্ব রেখা আঁকা হয়, তবে এটি গ্রাফটিকে একাধিক বিন্দুতে ছেদ করতে পারে। * সুতরাং, এটি একটি ফাংশন নয়। উপসংহার: উল্লম্ব রেখা পরীক্ষা অনুযায়ী, শুধুমাত্র 'গ' অপশনের গ্রাফটি একটি ফাংশনকে প্রতিনিধিত্ব করে। প্রশ্ন-প্রণেতা কর্তৃক নির্বাচিত উত্তর 'A' (যা ক অপশনকে নির্দেশ করে) ভুল। সঠিক উত্তর হলো 'গ'। সঠিক উত্তর: \\text{গ}"
+    },
+    {
+      "number": "3",
+      "tag": "SJSC 24",
+      "question": "বহুপদী বিশেষ ধরনের-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বীজগাণিতিক সমীকরণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বীজগাণিতিক রাশি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বীজগাণিতিক অসমতা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বীজগাণিতিক প্রতীক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বীজগাণিতিক সমীকরণ",
+      "option_b": "বীজগাণিতিক রাশি",
+      "option_c": "বীজগাণিতিক অসমতা",
+      "option_d": "বীজগাণিতিক প্রতীক",
+      "correct": "খ",
+      "explanation": "একাধিক সংখ্যা ও সংখ্যা নির্দেশক প্রতীককে+,-, x, /, ঘাত বা মুলদ চিহ্নের যেকোনো একটি অথবা একাধিকের সাহায্যে অর্থবহভাবে সংযুক্ত করলে যে নতুন সংখ্যা নির্দেশক প্রতীকের সৃষ্টি হয়, একে বীজগাণিতিক রাশি বলে। বহুপদী রাশি এই শর্তগুলো মেনে চলায় বহুপদীকে এক ধরনের বীজগাণিতিক রাশি বলা হয়"
+    },
+    {
+      "number": "4",
+      "tag": "SJSC 24",
+      "question": "নববিন্দু বৃত্তের ব্যাসার্ধ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ত্রিভুজের পরিব্যাসার্ধের সমান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ত্রিভুজের পরিব্যাসার্ধের অর্ধেকের সমান",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "পরিকেন্দ্র ও লম্ববিন্দুর সংযোজক রেখার সমান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পরিকেন্দ্র ও ভরকেন্দ্রের সংযোজক রেখার সমান",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ত্রিভুজের পরিব্যাসার্ধের সমান",
+      "option_b": "ত্রিভুজের পরিব্যাসার্ধের অর্ধেকের সমান",
+      "option_c": "পরিকেন্দ্র ও লম্ববিন্দুর সংযোজক রেখার সমান",
+      "option_d": "পরিকেন্দ্র ও ভরকেন্দ্রের সংযোজক রেখার সমান",
+      "correct": "খ",
+      "explanation": "নববিন্দু বৃত্তের ব্যাসার্ধ ত্রিভুজের পরিব্যাসার্ধের অর্ধেকের সমান।"
+    },
+    {
+      "number": "5",
+      "tag": "SJSC 24",
+      "question": "ABC একটি সমকোণী ত্রিভুজ এবং x, y, z মধ্যমা ABC ত্রিভুজের ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "z = 3 2 O C \\mathrm{z}=\\frac{3}{2} \\mathrm{OC} z = 2 3 ​ OC",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "y = 3 2 O C \\mathrm{y}=\\frac{3}{2} \\mathrm{OC} y = 2 3 ​ OC",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x = 3 2 O C \\mathrm{x}=\\frac{3}{2} \\mathrm{OC} x = 2 3 ​ OC",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A B = B C \\mathrm{AB}=\\mathrm{BC} AB = BC",
+          "is_correct": false
+        }
+      ],
+      "option_a": "z = 3 2 O C \\mathrm{z}=\\frac{3}{2} \\mathrm{OC} z = 2 3 ​ OC",
+      "option_b": "y = 3 2 O C \\mathrm{y}=\\frac{3}{2} \\mathrm{OC} y = 2 3 ​ OC",
+      "option_c": "x = 3 2 O C \\mathrm{x}=\\frac{3}{2} \\mathrm{OC} x = 2 3 ​ OC",
+      "option_d": "A B = B C \\mathrm{AB}=\\mathrm{BC} AB = BC",
+      "correct": "ক",
+      "explanation": "C O D O = 2 1 ⇒ D O C O = 1 2 ⇒ D O + C O C O = 1 + 2 2 [  যোজন করে  ] ⇒ C D C O = 3 2 C D = 3 2 C O Z = 3 2 × O C \\begin{aligned} & \\frac{C O}{D O}=\\frac{2}{1} \\\\ \\Rightarrow & \\frac{D O}{C O}=\\frac{1}{2} \\\\ \\Rightarrow & \\frac{D O+C O}{C O}=\\frac{1+2}{2}[\\text { যোজন করে} \\text { }] \\\\ \\Rightarrow & \\frac{C D}{C O}=\\frac{3}{2} \\\\ & C D=\\frac{3}{2} C O \\\\ & \\mathbb{Z}=\\frac{3}{2} \\times O C\\end{aligned} ⇒ ⇒ ⇒ ​ D O CO ​ = 1 2 ​ CO D O ​ = 2 1 ​ CO D O + CO ​ = 2 1 + 2 ​ [   যোজন   করে   ] CO C D ​ = 2 3 ​ C D = 2 3 ​ CO Z = 2 3 ​ × OC ​"
+    },
+    {
+      "number": "6",
+      "tag": "SJSC 24",
+      "question": "ABC একটি সমকোণী ত্রিভুজ এবং x, y, z মধ্যমা ABC ত্রিভুজের ক্ষেত্রে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "z = 3 2 O C \\mathrm{z}=\\frac{3}{2} \\mathrm{OC} z = 2 3 ​ OC",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "y = 3 2 O C \\mathrm{y}=\\frac{3}{2} \\mathrm{OC} y = 2 3 ​ OC",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x = 3 2 O C \\mathrm{x}=\\frac{3}{2} \\mathrm{OC} x = 2 3 ​ OC",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A B = B C \\mathrm{AB}=\\mathrm{BC} AB = BC",
+          "is_correct": false
+        }
+      ],
+      "option_a": "z = 3 2 O C \\mathrm{z}=\\frac{3}{2} \\mathrm{OC} z = 2 3 ​ OC",
+      "option_b": "y = 3 2 O C \\mathrm{y}=\\frac{3}{2} \\mathrm{OC} y = 2 3 ​ OC",
+      "option_c": "x = 3 2 O C \\mathrm{x}=\\frac{3}{2} \\mathrm{OC} x = 2 3 ​ OC",
+      "option_d": "A B = B C \\mathrm{AB}=\\mathrm{BC} AB = BC",
+      "correct": "ক",
+      "explanation": "C O D O = 2 1 ⇒ D O C O = 1 2 ⇒ D O + C O C O = 1 + 2 2 [  যোজন করে  ] ⇒ C D C O = 3 2 C D = 3 2 C O Z = 3 2 × O C \\begin{aligned} & \\frac{C O}{D O}=\\frac{2}{1} \\\\ \\Rightarrow & \\frac{D O}{C O}=\\frac{1}{2} \\\\ \\Rightarrow & \\frac{D O+C O}{C O}=\\frac{1+2}{2}[\\text { যোজন করে} \\text { }] \\\\ \\Rightarrow & \\frac{C D}{C O}=\\frac{3}{2} \\\\ & C D=\\frac{3}{2} C O \\\\ & \\mathbb{Z}=\\frac{3}{2} \\times O C\\end{aligned} ⇒ ⇒ ⇒ ​ D O CO ​ = 1 2 ​ CO D O ​ = 2 1 ​ CO D O + CO ​ = 2 1 + 2 ​ [   যোজন   করে   ] CO C D ​ = 2 3 ​ C D = 2 3 ​ CO Z = 2 3 ​ × OC ​"
+    },
+    {
+      "number": "7",
+      "tag": "SJSC 24",
+      "question": "ত্রিভুজের ভূমি, শিরঃকোণ ও অপর বাহুদ্বয়ের সমষ্টি দেওয়া থাকলে কয়টি ত্রিভুজ অঙ্কন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "1",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "খ",
+      "explanation": "ত্রিভুজের ভূমি, শিরঃকোণ ও অপর বাহুদ্বয়ের সমষ্টি দেওয়া থাকলে ২ টি ত্রিভুজ অঙ্কন করা যায়।"
+    },
+    {
+      "number": "8",
+      "tag": "SJSC 24",
+      "question": "y = a x 2 + b x + c \\mathrm{y}=\\mathbf{a x}{ }^{2}+\\mathrm{bx}+\\mathrm{c} y = ax 2 + bx + c সমীকরণটির লেখচিত্র x-অক্ষকে স্পর্শ করলে এর মূলগুলো কিরূপ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অবাস্তব",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সমান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বিপরীত চিহ্নবিশিষ্ট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অবাস্তব",
+      "option_b": "সমান",
+      "option_c": "বিপরীত চিহ্নবিশিষ্ট",
+      "option_d": "0",
+      "correct": "ক",
+      "explanation": "যদি y = a x 2 + b x + c \\mathrm{y}=\\mathbf{a x}{ }^{2}+\\mathrm{bx}+\\mathrm{c} y = ax 2 + bx + c এর লেখচিত্র x-অক্ষকে স্পর্শ করে, তবে এই সমীকরণের মূলগুলো সমান হবে। এর মানে হলো সমীকরণটির একটি মাত্র মূল থাকবে, এবং সেটি পুনরাবৃত্ত মূল হবে।"
+    },
+    {
+      "number": "9",
+      "tag": "SJSC 24",
+      "question": "ইমন বাংলা ও ইংরেজিতে যথাক্রমে 4x ও 5x নম্বর পেয়েছে। সে সর্বমোট 90 এর বেশি নম্বর পায়নি। অসমতাটির সমাধান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x ≤ 10 \\mathrm{x} \\leq 10 x ≤ 10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x > 10 x>10 x > 10",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "x < 10 x<10 x < 10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x ≤ 11 \\mathrm{x} \\leq 11 x ≤ 11",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x ≤ 10 \\mathrm{x} \\leq 10 x ≤ 10",
+      "option_b": "x > 10 x>10 x > 10",
+      "option_c": "x < 10 x<10 x < 10",
+      "option_d": "x ≤ 11 \\mathrm{x} \\leq 11 x ≤ 11",
+      "correct": "খ",
+      "explanation": "শর্তমতে, 4 x + 5 x ≤ 90 9 x ≤ 90 9 x 9 ≤ 90 9 ∴ x ≤ 10 \\begin{array}{l} 4 x+5 x \\leq 90 \\\\ 9 x \\leq 90 \\\\ \\frac{9 x}{9} \\leq \\frac{90}{9} \\\\ \\therefore x \\leq 10 \\end{array} 4 x + 5 x ≤ 90 9 x ≤ 90 9 9 x ​ ≤ 9 90 ​ ∴ x ≤ 10 ​"
+    },
+    {
+      "number": "10",
+      "tag": "SJSC 24",
+      "question": "1 4 n \\frac{1}{4^{\\mathrm{n}}} 4 n 1 ​ একটি ধারার সাধারণ পদ হলে (যেখানে n ∈ R n \\in \\R n ∈ R )- i. ধারাটি অসীম ii. ষষ্ঠ পদ 4096 iii. ধারাটি হবে 1 4 + 1 16 + 1 64 + … . \\frac{1}{4}+\\frac{1}{16}+\\frac{1}{64}+\\ldots . 4 1 ​ + 16 1 ​ + 64 1 ​ + … . . নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "প্রদত্ত ধারাটির সাধারণ পদ হল 1 4 n \\frac{1}{4^n} 4 n 1 ​ । i. ধারাটি অসীম কিনা: যেহেতু ধারাটির সাধারণ পদ n n n -এর উপর নির্ভর করে এবং n → ∞ n \\to \\infty n → ∞ হিসাবে 1 4 n → 0 \\frac{1}{4^n} \\to 0 4 n 1 ​ → 0 হয়, তাই সাধারণভাবে বলা যায় যে ধারাটি অসীম দীর্ঘ হবে কারণ এর সদস্যসংখ্যা অসীম হতে পারে। তাই এটি সঠিক। ii. ষষ্ঠ পদ 4096 কিনা: ষষ্ঠ পদ হবে 1 4 6 = 1 4096 \\frac{1}{4^6} = \\frac{1}{4096} 4 6 1 ​ = 4096 1 ​ যা 4096 4096 4096 নয়। সুতরাং এটি ভুল। iii. ধারাটি 1 4 + 1 16 + 1 64 + … \\frac{1}{4}+\\frac{1}{16}+\\frac{1}{64}+\\ldots 4 1 ​ + 16 1 ​ + 64 1 ​ + … : এই ধারাটি যখন n = 1 , 2 , 3 , … n = 1, 2, 3, \\ldots n = 1 , 2 , 3 , … হয় তখন যথাক্রমে 1 4 , 1 16 , 1 64 \\frac{1}{4}, \\frac{1}{16}, \\frac{1}{64} 4 1 ​ , 16 1 ​ , 64 1 ​ হবে। তাই এটি সঠিক। সুতরাং, সঠিক উত্তর হবে: i ও iii"
+    },
+    {
+      "number": "11",
+      "tag": "SJSC 24,MB 21",
+      "question": "একটি গাড়ির চাকার ব্যাস 0.8 মিটার এবং চাকাটি প্রতি সেকেন্ডে 6 বার ঘুরে। গাড়িটির গতিবেগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 কি.মি./ঘণ্টা (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27 কি.মি./ঘণ্টা (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "54 কি.মি./ঘণ্টা (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "108 কি.মি./ঘন্টা (প্রায়)",
+          "is_correct": true
+        }
+      ],
+      "option_a": "9 কি.মি./ঘণ্টা (প্রায়)",
+      "option_b": "27 কি.মি./ঘণ্টা (প্রায়)",
+      "option_c": "54 কি.মি./ঘণ্টা (প্রায়)",
+      "option_d": "108 কি.মি./ঘন্টা (প্রায়)",
+      "correct": "ঘ",
+      "explanation": "ব্যাস r = 0.8 2 = 0.4 r=\\frac{0.8}{2}=0.4 r = 2 0.8 ​ = 0.4 6 বার ঘুরে অতিক্রান্ত দূরত্ব = 6 × 2 π r = 6 × 2 × 3.1416 × 0.4 = 15.0797 \\begin{array}{l} =6 \\times 2 \\pi r \\\\ =6 \\times 2 \\times 3.1416 \\times 0.4 \\\\ =15.0797 \\end{array} = 6 × 2 π r = 6 × 2 × 3.1416 × 0.4 = 15.0797 ​  গতিবেগ  = 15.0797 1   m / s = 15.0797   m / s = 15.0797 × 3.6   k m / h = 54.28 ≈ 54   k m / h \\begin{array}{l} \\text { গতিবেগ }=\\frac{15.0797}{1} \\mathrm{~m} / \\mathrm{s} \\\\ =15.0797 \\mathrm{~m} / \\mathrm{s} \\\\ =15.0797 \\times 3.6 \\mathrm{~km} / \\mathrm{h} \\\\ =54.28 \\approx 54 \\mathrm{~km} / \\mathrm{h} \\end{array}   গতিবেগ   = 1 15.0797 ​   m / s = 15.0797   m / s = 15.0797 × 3.6   km / h = 54.28 ≈ 54   km / h ​"
+    },
+    {
+      "number": "12",
+      "tag": "SJSC 24",
+      "question": "চিত্রে  θ = φ , O P = O Q = r , sin ⁡ θ = a  এবং  cos ⁡ θ = b \\begin{array}{l}\\text { চিত্রে } \\theta=\\varphi, O P=O Q=r, \\sin \\theta=\\mathrm{a} \\text { এবং } \\cos \\theta=\\mathrm{b}\\end{array}   চিত্রে   θ = φ , OP = OQ = r , sin θ = a   এবং   cos θ = b ​ tan ⁡ θ + tan ⁡ φ =  কত?  \\tan \\theta+\\tan \\varphi=\\text { কত? } tan θ + tan φ =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 a b \\frac{2a}{b} b 2 a ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "-1",
+      "option_d": "2 a b \\frac{2a}{b} b 2 a ​",
+      "correct": "খ",
+      "explanation": "চিত্র থেকে দেওয়া আছে θ = φ \\theta = \\varphi θ = φ , O P = O Q = r OP = OQ = r OP = OQ = r , sin ⁡ θ = a \\sin \\theta = a sin θ = a , cos ⁡ θ = b \\cos \\theta = b cos θ = b যেহেতু θ = φ \\theta = \\varphi θ = φ , তাই tan ⁡ θ + tan ⁡ φ = tan ⁡ θ + tan ⁡ θ = 2 tan ⁡ θ \\tan \\theta + \\tan \\varphi = \\tan \\theta + \\tan \\theta = 2 \\tan \\theta tan θ + tan φ = tan θ + tan θ = 2 tan θ . এখন tan ⁡ θ = sin ⁡ θ cos ⁡ θ = a b . \\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta} = \\frac{a}{b}. tan θ = c o s θ s i n θ ​ = b a ​ . অতএব tan ⁡ θ + tan ⁡ φ = 2 ⋅ a b = 2 a b . \\tan \\theta + \\tan \\varphi = 2 \\cdot \\frac{a}{b} = \\boxed{\\frac{2a}{b}}. tan θ + tan φ = 2 ⋅ b a ​ = b 2 a ​ ​ ."
+    },
+    {
+      "number": "13",
+      "tag": "SJSC 24",
+      "question": "চিত্রে  θ = φ , O P = O Q = r , sin ⁡ θ = a  এবং  cos ⁡ θ = b \\begin{array}{l}\\text { চিত্রে } \\theta=\\varphi, O P=O Q=r, \\sin \\theta=\\mathrm{a} \\text { এবং } \\cos \\theta=\\mathrm{b}\\end{array}   চিত্রে   θ = φ , OP = OQ = r , sin θ = a   এবং   cos θ = b ​ tan ⁡ θ + tan ⁡ φ =  কত?  \\tan \\theta+\\tan \\varphi=\\text { কত? } tan θ + tan φ =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 a b \\frac{2a}{b} b 2 a ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "-1",
+      "option_d": "2 a b \\frac{2a}{b} b 2 a ​",
+      "correct": "ঘ",
+      "explanation": "চিত্র থেকে দেওয়া আছে θ = φ \\theta = \\varphi θ = φ , O P = O Q = r OP = OQ = r OP = OQ = r , sin ⁡ θ = a \\sin \\theta = a sin θ = a , cos ⁡ θ = b \\cos \\theta = b cos θ = b যেহেতু θ = φ \\theta = \\varphi θ = φ , তাই tan ⁡ θ + tan ⁡ φ = tan ⁡ θ + tan ⁡ θ = 2 tan ⁡ θ \\tan \\theta + \\tan \\varphi = \\tan \\theta + \\tan \\theta = 2 \\tan \\theta tan θ + tan φ = tan θ + tan θ = 2 tan θ . এখন tan ⁡ θ = sin ⁡ θ cos ⁡ θ = a b . \\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta} = \\frac{a}{b}. tan θ = c o s θ s i n θ ​ = b a ​ . অতএব tan ⁡ θ + tan ⁡ φ = 2 ⋅ a b = 2 a b . \\tan \\theta + \\tan \\varphi = 2 \\cdot \\frac{a}{b} = \\boxed{\\frac{2a}{b}}. tan θ + tan φ = 2 ⋅ b a ​ = b 2 a ​ ​ ."
+    },
+    {
+      "number": "14",
+      "tag": "SJSC 24",
+      "question": "( 1 + 5 x ) 2 n (1+5 x)^{2 n} ( 1 + 5 x ) 2 n যেখানে, n ∈ R \\mathbf{n} \\in \\R n ∈ R - এর বিস্তৃতিতে- i. সর্বদা জোড় সংখ্যক পদ পাওয়া যাবে ii. সমমাত্রিক বহুপদী পাওয়া যাবে iii. সর্বদা বিজোড় সংখ্যক পদ পাওয়া যাবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "iii",
+      "option_c": "i ও ii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "পদসংখ্যা = ঘাত+ 1     = 2 n + 1 \\text { } \\begin{aligned} & \\text { } & =2 n+1 \\end{aligned}   ​   ​ = 2 n + 1 ​ যা একটি বিজোড় সংখ্যা। জোড় সংখ্যক পদ পাওয়া যাবে না, সমমাত্রিক পদ পাওয়া যাবে না বিজোড় সংখ্যক পদ পাওয়া যাবে"
+    },
+    {
+      "number": "15",
+      "tag": "SJSC 24",
+      "question": "( 1 + y ) n (1+y)^{\\mathrm{n}} ( 1 + y ) n এর বিস্তৃতির সাধারণ পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "n C n y n { }^{n} C_{n} y^{n} n C n ​ y n",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "n C r + 1 y n { }^{n} C_{r+1} y^{n} n C r + 1 ​ y n",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "n C r y { }^{\\mathrm{n}} \\mathrm{C}_{\\mathrm{r}} \\mathrm{y} n C r ​ y",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "n C r y r { }^{n} C_{r} y^{r} n C r ​ y r",
+          "is_correct": false
+        }
+      ],
+      "option_a": "n C n y n { }^{n} C_{n} y^{n} n C n ​ y n",
+      "option_b": "n C r + 1 y n { }^{n} C_{r+1} y^{n} n C r + 1 ​ y n",
+      "option_c": "n C r y { }^{\\mathrm{n}} \\mathrm{C}_{\\mathrm{r}} \\mathrm{y} n C r ​ y",
+      "option_d": "n C r y r { }^{n} C_{r} y^{r} n C r ​ y r",
+      "correct": "গ",
+      "explanation": "( 1 + y ) n (1+y)^{n} ( 1 + y ) n এর সাধারণ পদ n c r 1 n − r ⋅ y n n c r y n . \\begin{array}{l} { }^{n} c_{r} 1^{n-r} \\cdot y^{n} \\\\ { }^{n} c_{r} y^{n} . \\end{array} n c r ​ 1 n − r ⋅ y n n c r ​ y n . ​"
+    },
+    {
+      "number": "16",
+      "tag": "JGCC 24,SJSC 24,BB 23",
+      "question": "AB রেখার ঢাল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_d": "1 4 \\frac{1}{4} 4 1 ​",
+      "correct": "গ",
+      "explanation": "AB এর ঢাল, = y 2 − y 1 x 2 − x 1 = − 3 − 0 0 − 3 = − 3 − 3 = 1 \\begin{array}{l} =\\frac{y_{2}-y_{1}}{x_{2}-x_{1}} \\\\ =\\frac{-3-0}{0-3} \\\\ =\\frac{-3}{-3}=1 \\end{array} = x 2 ​ − x 1 ​ y 2 ​ − y 1 ​ ​ = 0 − 3 − 3 − 0 ​ = − 3 − 3 ​ = 1 ​"
+    },
+    {
+      "number": "17",
+      "tag": "CTG.B 24,JGCC 24,SJSC 24,RB 22",
+      "question": "AB রেখার সমীকরণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 x + 4 y = 1 2 x+4 y=1 2 x + 4 y = 1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 x − 4 y = 1 2 x-4 y=1 2 x − 4 y = 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x + 2 y = 4 x+2 y=4 x + 2 y = 4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x − 2 y = 4 x-2 y=4 x − 2 y = 4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 x + 4 y = 1 2 x+4 y=1 2 x + 4 y = 1",
+      "option_b": "2 x − 4 y = 1 2 x-4 y=1 2 x − 4 y = 1",
+      "option_c": "x + 2 y = 4 x+2 y=4 x + 2 y = 4",
+      "option_d": "x − 2 y = 4 x-2 y=4 x − 2 y = 4",
+      "correct": "ক",
+      "explanation": "B বিন্দুর স্থানাঙ্ক ( 0 , 2 ) (0,2) ( 0 , 2 ) হলে, ( 4 , 0 ) (4,0) ( 4 , 0 ) ও ( 0 , 2 ) (0,2) ( 0 , 2 ) বিন্দুগামী রেখার সমীকরণ, x − 4 4 − 0 = y − 0 0 − 2 \\frac{x-4}{4-0}=\\frac{{y}-0}{0-2} 4 − 0 x − 4 ​ = 0 − 2 y − 0 ​ বা, x − 4 = − 2 y ∴ x + 2 y = 4 x-4=-2 y \\therefore x+2 y=4 x − 4 = − 2 y ∴ x + 2 y = 4"
+    },
+    {
+      "number": "18",
+      "tag": "RB 25,JB 25,DB 24,MB 24,VNSC 24,BNMPC 24,NISD 24,CPSCM 24,ISCM 24,MC 24,SJSC 24,RB 20,CTG.B 20",
+      "question": "মূলবিন্দু O এর সাপেক্ষে P এবং Q এর অবস্থান ভেক্টর যথাক্রমে 9 a ‾ − 4 b ‾ \\mathbf{9\\underline{\\mathbf{a}}-4\\underline{\\mathbf{b}} } 9 a ​ − 4 b ​ ও − 3 a ‾ − b ‾ -\\mathbf{3 \\underline{\\mathbf{a}}}-\\underline{\\mathbf{b}} − 3 a ​ − b ​ হলে, P Q → \\overrightarrow{\\mathbf{P Q}} PQ ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 a ‾ − 5 b ‾ 6 \\underline{a}-5 \\underline{b} 6 a ​ − 5 b ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "12 a ‾ − 3 b ‾ 12 \\underline{a}-3 \\underline{b} 12 a ​ − 3 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 12 a ‾ + 3 b ‾ -12 \\underline{a}+3 \\underline{b} − 12 a ​ + 3 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12 a ‾ + 3 b ‾ 12 \\underline{a}+3 \\underline{b} 12 a ​ + 3 b ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 a ‾ − 5 b ‾ 6 \\underline{a}-5 \\underline{b} 6 a ​ − 5 b ​",
+      "option_b": "12 a ‾ − 3 b ‾ 12 \\underline{a}-3 \\underline{b} 12 a ​ − 3 b ​",
+      "option_c": "− 12 a ‾ + 3 b ‾ -12 \\underline{a}+3 \\underline{b} − 12 a ​ + 3 b ​",
+      "option_d": "12 a ‾ + 3 b ‾ 12 \\underline{a}+3 \\underline{b} 12 a ​ + 3 b ​",
+      "correct": "ক",
+      "explanation": "দুটি বিন্দু P P P এবং Q Q Q এর মধ্যবর্তী ভেক্টর P Q → \\overrightarrow{P Q} PQ ​ নিম্নোক্ত সূত্র দ্বারা প্রকাশ করা হয়: P Q → = O Q → − O P → \\overrightarrow{P Q}=\\overrightarrow{O Q}-\\overrightarrow{O P} PQ ​ = OQ ​ − OP মানগুলি বসানো P Q → = ( − 3 a − b ) − ( 9 a − 4 b ) = − 3 a − b − 9 a + 4 b = ( − 3 a − 9 a ) + ( − b + 4 b ) = − 12 a + 3 b \\begin{array}{c} \\overrightarrow{P Q}=(-3 \\mathbf{a}-\\mathbf{b})-(9 \\mathbf{a}-4 \\mathbf{b}) \\\\ =-3 \\mathbf{a}-\\mathbf{b}-9 \\mathbf{a}+4 \\mathbf{b} \\\\ =(-3 \\mathbf{a}-9 \\mathbf{a})+(-\\mathbf{b}+4 \\mathbf{b}) \\\\ =-12 \\mathbf{a}+3 \\mathbf{b} \\end{array} PQ ​ = ( − 3 a − b ) − ( 9 a − 4 b ) = − 3 a − b − 9 a + 4 b = ( − 3 a − 9 a ) + ( − b + 4 b ) = − 12 a + 3 b ​"
+    },
+    {
+      "number": "19",
+      "tag": "CB 20,CTG.B 20,SB 20,BB 20,DB 19,RB 19,CB 19,JB 19,BB 19,All.B 18,ACC 24",
+      "question": "যদি Δ \\Delta Δ PQR-এ PQ ও PR এর মধ্যবিন্দু যথাক্রমে M ও N হয়, তবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+      "option_b": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+      "option_c": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+      "option_d": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+      "correct": "খ",
+      "explanation": "△ P Q R \\triangle P Q R △ PQR হতে পাই P Q → + Q R → = P R → ⇒ Q R → = P R → − P Q → \\begin{aligned} & \\overrightarrow{P Q}+\\overrightarrow{Q R}=\\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{Q R}=\\overrightarrow{P R}-\\overrightarrow{P Q} \\end{aligned} ⇒ ​ PQ ​ + QR ​ = PR QR ​ = PR − PQ ​ ​ △ P M N \\triangle P M N △ PMN হতে পাই M N → = P N → − P M → \\overrightarrow{M N}=\\overrightarrow{P N}-\\overrightarrow{P M} MN = PN − PM P M → + M N → = P N → ↑ ⇒ 1 2 P Q → + M N → = 1 2 P R → ⇒ M N → = 1 2 P R → − 1 2 P Q → ⇒ M N → = 1 2 Q R → ⇒ P N → − P M → = 1 2 Q R → ∴ Q R → = 2 ( P N → − P M → ) \\begin{aligned} & \\overrightarrow{P M}+\\overrightarrow{M N}=\\overrightarrow{P N} \\uparrow \\\\ \\Rightarrow & \\frac{1}{2} \\overrightarrow{P Q}+\\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R}-\\frac{1}{2} \\overrightarrow{P Q} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\Rightarrow & \\overrightarrow{P N}-\\overrightarrow{P M}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\therefore & \\overrightarrow{Q R}=2(\\overrightarrow{P N}-\\overrightarrow{P M}) \\end{aligned} ⇒ ⇒ ⇒ ⇒ ∴ ​ PM + MN = PN ↑ 2 1 ​ PQ ​ + MN = 2 1 ​ PR MN = 2 1 ​ PR − 2 1 ​ PQ ​ MN = 2 1 ​ QR ​ PN − PM = 2 1 ​ QR ​ QR ​ = 2 ( PN − PM ) ​"
+    },
+    {
+      "number": "20",
+      "tag": "SJSC 24",
+      "question": "ক্যাপসুলটির সিলিন্ডার আকৃতির অংশের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8",
+      "option_b": "6",
+      "option_c": "10",
+      "option_d": "12",
+      "correct": "ক",
+      "explanation": "চিত্রটি বিশ্লেষণ করলে দেখা যাচ্ছে: ◉ মোট উচ্চতা = 12 সেমি ◉ ওপরের এবং নিচের অর্ধবৃত্তাকার অংশের ব্যাসার্ধ = 2 =2 = 2 সেমি → \\rightarrow → অর্থাৎ প্রতিটি অর্ধবৃত্তের উচ্চতা (বা ব্যাস) = 2 × 1 = 2 =2 \\times 1=2 = 2 × 1 = 2 সেমি দুই অর্ধবৃত্ত মিলে একটি পূর্ণ বৃত্ত তাহলে, ওপরের ও নিচের মোট অর্ধবৃত্তীয় অংশ = 2 + 2 = 4 =2+2=4 = 2 + 2 = 4 সেমি সিলিন্ডার আকৃতির মধ্যবর্তী অংশের দৈর্ঘ্য সিলিল্ডারের অংশের দৈর্ঘ্য = = = মোট উচ্চতা - দুই অর্ধবৃত্তের অংশ = 12 − 4 = 8 =12-4=8 = 12 − 4 = 8 সেমি"
+    },
+    {
+      "number": "21",
+      "tag": "SJSC 24",
+      "question": "সিলিন্ডার আকৃতির অংশের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "16 π 16 \\pi 16 π",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "32 π 32 \\pi 32 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "64 π 64 \\pi 64 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90 π 90 \\pi 90 π",
+          "is_correct": false
+        }
+      ],
+      "option_a": "16 π 16 \\pi 16 π",
+      "option_b": "32 π 32 \\pi 32 π",
+      "option_c": "64 π 64 \\pi 64 π",
+      "option_d": "90 π 90 \\pi 90 π",
+      "correct": "ক",
+      "explanation": "সিলিন্ডারের ব্যাসার্ধ = 2   c m =2 \\mathrm{~cm} = 2   cm উচ্চতা, h = 12 − ( 2 + 2 ) = 8   c m . \\begin{aligned} h & =12-(2+2) \\\\ & =8 \\mathrm{~cm} . \\end{aligned} h ​ = 12 − ( 2 + 2 ) = 8   cm . ​  ক্ষেত্রফল  = 2 π r h = 2 π × 2 × 8 = 32 π . \\begin{aligned} \\text { ক্ষেত্রফল } & =2 \\pi r h \\\\ & =2 \\pi \\times 2 \\times 8 \\\\ & =32 \\pi . \\end{aligned}   ক্ষেত্রফল   ​ = 2 π r h = 2 π × 2 × 8 = 32 π . ​"
+    },
+    {
+      "number": "22",
+      "tag": "SJSC 24",
+      "question": "যুক্তিভিত্তিক সম্ভাবনা নির্ণয়ে ফলাফলগুলো কী ধরনের হতে হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমসম্ভাব্য",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "শর্তাধীন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অসমসম্ভাব্য",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বিচ্ছিন্ন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমসম্ভাব্য",
+      "option_b": "শর্তাধীন",
+      "option_c": "অসমসম্ভাব্য",
+      "option_d": "বিচ্ছিন্ন",
+      "correct": "ক",
+      "explanation": "সমসম্ভাব্য ঘটনাবলী (Equally Likely Events): যদি কোনো পরীক্ষার ঘটনাগুলো ঘটার সম্ভাবনা সমান হয় অর্থাৎ একটি অপরটির চেয়ে বেশি বা কম সম্ভাব্য না হয় তবে ঘটনাগুলোকে সমসম্ভাব্য বলে। যেমন একটা নিরপেক্ষ মুদ্রা নিক্ষেপে হেড বা টেল আসার সম্ভাবনা সমান। সুতরাং হেড আসা ও টেল আসা ঘটনা দুইটি সমসম্ভাব্য ঘটনা।"
+    },
+    {
+      "number": "23",
+      "tag": "SJSC 24",
+      "question": "মুদ্রা নিক্ষেপ পরীক্ষা একটি— i. দৈব পরীক্ষা ii. সমসম্ভাব্য ঘটনা iii. নিশ্চিত পরীক্ষা নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "দৈব পরীক্ষা (Random Experiment): যখন কোনো পরীক্ষার সম্ভাব্য সকল ফলাফল আগে থেকে জানা থাকে কিন্তু পরীক্ষাটিতে কোনো একটি নির্দিষ্ট চেষ্টায় কি ফলাফল আসবে তা নিশ্চিত করে বলা যায় না, একে দৈব পরীক্ষা বলে। যেমন একটা মুদ্রা নিক্ষেপ পরীক্ষার সম্ভাব্য ফলাফল কি হবে, তা আমরা আগে থেকেই জানি কিন্তু মুদ্রাটি নিক্ষেপের পূর্বে কোন ফলাফলটি ঘটবে তা আমরা নিশ্চিত করে বলতে পারি না। সুতরাং মুদ্রা নিক্ষেপ পরীক্ষা একটা দৈব পরীক্ষা। সমসম্ভাব্য ঘটনাবলী (Equally Likely Events): যদি কোনো পরীক্ষার ঘটনাগুলো ঘটার সম্ভাবনা সমান হয় অর্থাৎ একটি অপরটির চেয়ে বেশি বা কম সম্ভাব্য না হয় তবে ঘটনাগুলোকে সমসম্ভাব্য বলে। যেমন একটা নিরপেক্ষ মুদ্রা নিক্ষেপে হেড বা টেল আসার সম্ভাবনা সমান। সুতরাং হেড আসা ও টেল আসা ঘটনা দুইটি সমসম্ভাব্য ঘটনা। নিশ্চিত ঘটনা: কোনো পরীক্ষায় যে ঘটনা অবশ্যই ঘটবে একে নিশ্চিত ঘটনা বলে। নিশ্চিত ঘটনার ক্ষেত্রে সম্ভাবনার মান 1 হয়। যেমন, আগামীকাল সূর্য পূর্ব দিকে উঠার সম্ভাবনা 1, আজ সূর্য পশ্চিম দিকে অস্ত যাবে এর সম্ভাবনাও 1। রাতের বেলায় সূর্য দেখা যাবে না, এর সম্ভাবনা 1। একটা মুদ্রা নিক্ষেপ পরীক্ষায় H অথবা T' আসার সম্ভাবনাও 1। একটা ছক্কা নিক্ষেপ পরীক্ষায় জোড় অথবা বিজোড় সংখ্যা আসার সম্ভাবনাও ।। এগুলোর প্রত্যেকেই নিশ্চিত ঘটনা।"
+    },
+    {
+      "number": "1",
+      "tag": "SJSC 24",
+      "question": "দুইটি বহুপদী P(x) ও Q(x) সকল x এর জন্য সমান হলে— i. এদের সমতাকে অভেদ বলে ii. P ( x ) ≅ Q ( x ) \\mathrm{P}(\\mathrm{x}) \\cong \\mathrm{Q}(\\mathrm{x}) P ( x ) ≅ Q ( x ) লেখা যায় iii. এক্ষেত্রে P ( x ) \\mathrm{P}(\\mathrm{x}) P ( x ) ও Q ( x ) \\mathrm{Q}(\\mathrm{x}) Q ( x ) বহুপদী দুইটি ভিন্ন হতে পারে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "SJSC 24",
+      "question": "a b = b a a^{b}=b^{a} a b = b a হলে, ( a b ) a b \\left(\\frac{a}{b}\\right)^{\\frac{a}{b}} ( b a ​ ) b a ​ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a a b − 1 a^{\\frac{a}{b^{-1}}} a b − 1 a ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "b a b − 1 b^{\\frac{a}{b^{-1}}} b b − 1 a ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a a b + 1 a^{\\frac{a}{b}+1} a b a ​ + 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a b a − 1 a^{\\frac{b}{a}-1} a a b ​ − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a a b − 1 a^{\\frac{a}{b^{-1}}} a b − 1 a ​",
+      "option_b": "b a b − 1 b^{\\frac{a}{b^{-1}}} b b − 1 a ​",
+      "option_c": "a a b + 1 a^{\\frac{a}{b}+1} a b a ​ + 1",
+      "option_d": "a b a − 1 a^{\\frac{b}{a}-1} a a b ​ − 1",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

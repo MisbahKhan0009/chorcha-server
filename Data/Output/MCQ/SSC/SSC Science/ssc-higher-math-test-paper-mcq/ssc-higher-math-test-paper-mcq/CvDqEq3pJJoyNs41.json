@@ -1,0 +1,832 @@
+{
+  "read_id": "CvDqEq3pJJoyNs41",
+  "title": "কুমিল্লা ক্যাডেট কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CCC 24",
+      "question": "f ( x ) = x ∣ x ∣ f(x)=\\frac{x}{|x|} f ( x ) = ∣ x ∣ x ​ ফাংশনের রেঞ্জ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 1 } \\{1\\} { 1 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ − 1 } \\{-1\\} { − 1 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R } \\{x: x \\in \\mathbb{R}\\} { x : x ∈ R }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ − 1 , 1 } \\{-1,1\\} { − 1 , 1 }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ 1 } \\{1\\} { 1 }",
+      "option_b": "{ − 1 } \\{-1\\} { − 1 }",
+      "option_c": "{ x : x ∈ R } \\{x: x \\in \\mathbb{R}\\} { x : x ∈ R }",
+      "option_d": "{ − 1 , 1 } \\{-1,1\\} { − 1 , 1 }",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "CCC 24",
+      "question": "f ( x ) = ∣ x ∣ x − 3 f(x)=\\frac{|x|}{\\sqrt{x-3}} f ( x ) = x − 3 ​ ∣ x ∣ ​ ফাংশনের ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ R \\{x: x \\in \\mathbb{R} { x : x ∈ R এবং x > 3 } x>3\\} x > 3 }",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ R \\{x: x \\in \\R { x : x ∈ R এবং x < 3 } x<3\\} x < 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R \\{x: x \\in \\mathbb{R} { x : x ∈ R এবং x ≥ 3 } x \\geq 3\\} x ≥ 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ R \\{x: x \\in \\mathbb{R} { x : x ∈ R এবং x ≠ 3 } x \\neq 3\\} x  = 3 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ R \\{x: x \\in \\mathbb{R} { x : x ∈ R এবং x > 3 } x>3\\} x > 3 }",
+      "option_b": "{ x : x ∈ R \\{x: x \\in \\R { x : x ∈ R এবং x < 3 } x<3\\} x < 3 }",
+      "option_c": "{ x : x ∈ R \\{x: x \\in \\mathbb{R} { x : x ∈ R এবং x ≥ 3 } x \\geq 3\\} x ≥ 3 }",
+      "option_d": "{ x : x ∈ R \\{x: x \\in \\mathbb{R} { x : x ∈ R এবং x ≠ 3 } x \\neq 3\\} x  = 3 }",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "CCC 24",
+      "question": "5 x 3 + 3 x + 2 k 5 x^{3}+3 x+2 k 5 x 3 + 3 x + 2 k রাশিটির একটি উৎপাদক x + 1 x+1 x + 1 হলে, k k k এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-4",
+      "option_b": "-2",
+      "option_c": "1",
+      "option_d": "4",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "CCC 24",
+      "question": "x 2 ( x − 1 ) ( x − 2 ) = A + B x − 1 + C x − 2 \\frac{x^{2}}{(x-1)(x-2)}=A+\\frac{B}{x-1}+\\frac{C}{x-2} ( x − 1 ) ( x − 2 ) x 2 ​ = A + x − 1 B ​ + x − 2 C ​ হলে, C এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-4",
+      "option_b": "-1",
+      "option_c": "1",
+      "option_d": "4",
+      "correct": "ঘ",
+      "explanation": "x 2 ( x − 1 ) ( x − 2 ) = x 2 − 3 x + 2 + 3 x − 2 ( x − 1 ) ( x − 2 ) = x 2 − 3 x + 2 x 2 − 3 x + 2 + 3 x − 2 ( x − 1 ) ( x − 2 ) = 1 + − − 3 ⋅ 1 − 2 ( x − 1 ) ( 1 − 2 ) + 3.2 − 2 ( x − 2 ) ( 2 − 1 ) [  Cover Up Rule  ] = 1 − 1 x − 1 + 4 x − 2 ∴ C = 4 \\begin{array}{l}\\frac{x^{2}}{(x-1)(x-2)}=\\frac{x^{2}-3 x+2+3 x-2}{(x-1)(x-2)} \\\\ =\\frac{x^{2}-3 x+2}{x^{2}-3 x+2}+\\frac{3 x-2}{(x-1)(x-2)} \\\\ =1+\\frac{--3 \\cdot 1-2}{(x-1)(1-2)}+\\frac{3.2-2}{(x-2)(2-1)}[\\text { Cover Up Rule }] \\\\ =1-\\frac{1}{x-1}+\\frac{4}{x-2} \\therefore C=4\\end{array} ( x − 1 ) ( x − 2 ) x 2 ​ = ( x − 1 ) ( x − 2 ) x 2 − 3 x + 2 + 3 x − 2 ​ = x 2 − 3 x + 2 x 2 − 3 x + 2 ​ + ( x − 1 ) ( x − 2 ) 3 x − 2 ​ = 1 + ( x − 1 ) ( 1 − 2 ) −− 3 ⋅ 1 − 2 ​ + ( x − 2 ) ( 2 − 1 ) 3.2 − 2 ​ [  Cover Up Rule  ] = 1 − x − 1 1 ​ + x − 2 4 ​ ∴ C = 4 ​"
+    },
+    {
+      "number": "5",
+      "tag": "CCC 24",
+      "question": "△ A B C \\triangle \\mathrm{ABC} △ ABC এর A B 2 > B C 2 + A C 2 \\mathrm{AB}^{2}>\\mathrm{BC}^{2}+\\mathrm{AC}^{2} AB 2 > BC 2 + AC 2 হলে- i. ∠ C \\angle C ∠ C স্থূলকোণ ii. ∠ A \\angle \\mathrm{A} ∠ A সমকোণ iii. ∠ B \\angle \\mathrm{B} ∠ B সূক্ষ্মকোণ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "CCC 24",
+      "question": "একটি ত্রিভুজের পরিব্যাস 4 সে.মি হলে, নববিন্দুবৃত্তের ব্যাসার্ধ কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "4",
+      "option_d": "8",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "CCC 24",
+      "question": "P = x 2 − 3 x − 36 P=x^{2}-3 x-36 P = x 2 − 3 x − 36 সমীকরণটির নিশ্চায়ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "135 \\sqrt{135} 135 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "153 \\sqrt{153} 153 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "135",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "153",
+          "is_correct": true
+        }
+      ],
+      "option_a": "135 \\sqrt{135} 135 ​",
+      "option_b": "153 \\sqrt{153} 153 ​",
+      "option_c": "135",
+      "option_d": "153",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "CCC 24",
+      "question": "P = x 2 − 3 x − 36 P=x^{2}-3 x-36 P = x 2 − 3 x − 36 P − 2 = 0 \\sqrt{\\mathrm{P}}-2=0 P ​ − 2 = 0 সমীকরণটির সমাধান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8 , − 5 8,-5 8 , − 5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 8 , 5 -8,5 − 8 , 5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8 , − 5 8,-5 8 , − 5",
+      "option_b": "− 8 , 5 -8,5 − 8 , 5",
+      "option_c": "8",
+      "option_d": "-5",
+      "correct": "ক",
+      "explanation": "P − 2 = 0 \\sqrt{\\mathrm{P}}-2=0 P ​ − 2 = 0 বা, P = 4 P=4 P = 4 বা, x 2 − 3 x − 36 = 4 x^{2}-3 x-36=4 x 2 − 3 x − 36 = 4 বা, x 2 − 3 x − 40 = 0 x^{2}-3 x-40=0 x 2 − 3 x − 40 = 0 বা, x 2 − 8 x + 5 x − 40 = 0 x^{2}-8 x+5 x-40=0 x 2 − 8 x + 5 x − 40 = 0 বা, x ( x − 8 ) + 5 ( x − 8 ) = 0 x(x-8)+5(x-8)=0 x ( x − 8 ) + 5 ( x − 8 ) = 0 বা, ( x + 5 ) ( x − 8 ) = 0 ∴ x = 8 , − 5 (x+5)(x-8)=0 \\quad \\therefore x=8,-5 ( x + 5 ) ( x − 8 ) = 0 ∴ x = 8 , − 5"
+    },
+    {
+      "number": "9",
+      "tag": "CCC 24",
+      "question": "( x − 1 ) ( x − 2 ) + ( x − 3 ) ( x − 4 ) = 2 \\sqrt{(x-1)(x-2)}+\\sqrt{(x-3)(x-4)}=\\sqrt{2} ( x − 1 ) ( x − 2 ) ​ + ( x − 3 ) ( x − 4 ) ​ = 2 ​ সমীকরণের সমাধান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 0 , 2 ) (0,2) ( 0 , 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 0 , 3 ) (0,3) ( 0 , 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 2 , 3 ) (2,3) ( 2 , 3 )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "( 3 , 5 ) (3,5) ( 3 , 5 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 0 , 2 ) (0,2) ( 0 , 2 )",
+      "option_b": "( 0 , 3 ) (0,3) ( 0 , 3 )",
+      "option_c": "( 2 , 3 ) (2,3) ( 2 , 3 )",
+      "option_d": "( 3 , 5 ) (3,5) ( 3 , 5 )",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "CCC 24",
+      "question": "p , q , r p, q, r p , q , r তিনটি বাম্তুব সংখ্যা। p>q এবং r ≠ 0 r \\neq 0 r  = 0 হলে- i. p r > q r p r>q r p r > q r যখন r > 0 r>0 r > 0 ii. p r < q r \\mathrm{pr}<\\mathrm{qr} pr < qr যখন r < 0 \\mathrm{r}<0 r < 0 iii. p r < q r \\frac{p}{r}<\\frac{q}{r} r p ​ < r q ​ যখন r > 0 r>0 r > 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "CCC 24",
+      "question": "কোনো গুণোত্তর ধারার ১ম পদ 1 এবং অসীমতক সমষ্টি 2 3 2 3 − 1 \\frac{2 \\sqrt{3}}{2 \\sqrt{3}-1} 2 3 ​ − 1 2 3 ​ ​ হলে, সাধারণ অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 3 \\frac{1}{2 \\sqrt{3}} 2 3 ​ 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 1 2 3 -\\frac{1}{2 \\sqrt{3}} − 2 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 3 − 1 \\frac{1}{2 \\sqrt{3}-1} 2 3 ​ − 1 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 3 \\frac{1}{2 \\sqrt{3}} 2 3 ​ 1 ​",
+      "option_b": "1",
+      "option_c": "− 1 2 3 -\\frac{1}{2 \\sqrt{3}} − 2 3 ​ 1 ​",
+      "option_d": "1 2 3 − 1 \\frac{1}{2 \\sqrt{3}-1} 2 3 ​ − 1 1 ​",
+      "correct": "ক",
+      "explanation": "অসীমতক সমষ্টি, S ∞ = 2 3 2 3 − 1 = 1 1 − r S_{\\infty}=\\frac{2 \\sqrt{3}}{2 \\sqrt{3}-1}=\\frac{1}{1-r} S ∞ ​ = 2 3 ​ − 1 2 3 ​ ​ = 1 − r 1 ​ বা, 1 − r = 2 3 − 1 2 3 1-r=\\frac{2 \\sqrt{3}-1}{2 \\sqrt{3}} 1 − r = 2 3 ​ 2 3 ​ − 1 ​ বা, 1 − r = 1 − 1 2 3 ∴ r = 1 2 3 1-r=1-\\frac{1}{2 \\sqrt{3}} \\therefore r=\\frac{1}{2 \\sqrt{3}} 1 − r = 1 − 2 3 ​ 1 ​ ∴ r = 2 3 ​ 1 ​"
+    },
+    {
+      "number": "12",
+      "tag": "CCC 24",
+      "question": "0.2 + 0.02 + 0.002 +... ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 2 \\frac{9}{2} 2 9 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 9 \\frac{2}{9} 9 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 11 \\frac{2}{11} 11 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 9 \\frac{1}{9} 9 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9 2 \\frac{9}{2} 2 9 ​",
+      "option_b": "2 9 \\frac{2}{9} 9 2 ​",
+      "option_c": "2 11 \\frac{2}{11} 11 2 ​",
+      "option_d": "1 9 \\frac{1}{9} 9 1 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "CCC 24",
+      "question": "cos ⁡ θ = − 1 2 \\cos \\theta=-\\frac{1}{2} cos θ = − 2 1 ​ এবং π < θ ≤ 3 π 2 \\pi<\\theta \\leq \\frac{3 \\pi}{2} π < θ ≤ 2 3 π ​ হলে tan ⁡ θ \\tan \\theta tan θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 3 -\\sqrt{3} − 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 3 -\\sqrt{3} − 3 ​",
+      "option_b": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_c": "1",
+      "option_d": "3 \\sqrt{3} 3 ​",
+      "correct": "ঘ",
+      "explanation": "cos ⁡ θ = − 1 2 = − cos ⁡ π 3 = cos ⁡ ( π + π 3 ) ∴ θ = 4 π 3 ∴ tan ⁡ θ = tan ⁡ ( π + π 3 ) = tan ⁡ π 3 = 3 \\begin{array}{l}\\cos \\theta=-\\frac{1}{2}=-\\cos \\frac{\\pi}{3}=\\cos \\left(\\pi+\\frac{\\pi}{3}\\right) \\therefore \\theta=\\frac{4 \\pi}{3} \\\\ \\therefore \\tan \\theta=\\tan \\left(\\pi+\\frac{\\pi}{3}\\right)=\\tan \\frac{\\pi}{3}=\\sqrt{3}\\end{array} cos θ = − 2 1 ​ = − cos 3 π ​ = cos ( π + 3 π ​ ) ∴ θ = 3 4 π ​ ∴ tan θ = tan ( π + 3 π ​ ) = tan 3 π ​ = 3 ​ ​"
+    },
+    {
+      "number": "14",
+      "tag": "CCC 24",
+      "question": "θ = 45 ∘ \\theta=45^{\\circ} θ = 4 5 ∘ হলে- i. sin ⁡ θ + cos ⁡ θ = 2 \\sin \\theta+\\cos \\theta=\\sqrt{2} sin θ + cos θ = 2 ​ ii. sec ⁡ 2 θ + cos ⁡ 2 θ = 5 2 \\sec ^{2} \\theta+\\cos ^{2} \\theta=\\frac{5}{2} sec 2 θ + cos 2 θ = 2 5 ​ iii. cot ⁡ 2 θ + sin ⁡ 2 θ = 0 \\cot 2 \\theta+\\sin 2 \\theta=0 cot 2 θ + sin 2 θ = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "CCC 24",
+      "question": "8 x = 16 y 8^{x}=16^{y} 8 x = 1 6 y হলে y :x কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 : 2 1: 2 1 : 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 : 4 3: 4 3 : 4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 : 3 4: 3 4 : 3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 : 1 2: 1 2 : 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 : 2 1: 2 1 : 2",
+      "option_b": "3 : 4 3: 4 3 : 4",
+      "option_c": "4 : 3 4: 3 4 : 3",
+      "option_d": "2 : 1 2: 1 2 : 1",
+      "correct": "খ",
+      "explanation": "8 x = 16 y 8^{x}=16^{y} 8 x = 1 6 y বা, 2 3 x = 2 4 y 2^{3 x}=2^{4 y} 2 3 x = 2 4 y বা, 3 x = 4 y ∴ y : x = 3 : 4 3 x=4 y \\therefore y: x=3: 4 3 x = 4 y ∴ y : x = 3 : 4"
+    },
+    {
+      "number": "16",
+      "tag": "CCC 24",
+      "question": "log ⁡ 2 4 × log ⁡ 3 3 \\log _{\\sqrt{2}} 4 \\times \\log _{\\sqrt{3}} 3 lo g 2 ​ ​ 4 × lo g 3 ​ ​ 3 এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "6",
+      "option_c": "8",
+      "option_d": "12",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "CCC 24",
+      "question": "( 1 − 2 x + x 2 ) 4 \\left(1-2 x+x^{2}\\right)^{4} ( 1 − 2 x + x 2 ) 4 এর বিস্তৃতিতে x 2 x^{2} x 2 এর সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-28",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-56",
+          "is_correct": false
+        }
+      ],
+      "option_a": "28",
+      "option_b": "16",
+      "option_c": "-28",
+      "option_d": "-56",
+      "correct": "ক",
+      "explanation": "( 1 − 2 x + x 2 ) 4 = { ( 1 − x 2 } 4 = ( 1 − x ) 8 = 1 − 8 C 1 + 8 C 2 ( − x ) 2 + … . . = 1 − 8 x + 28 x 2 + … . . ∴ x 2  এর সহগ  = 28 \\begin{aligned}\\left(1-2 x+x^{2}\\right)^{4} & =\\left\\{\\left(1-x^{2}\\right\\}^{4}=(1-x)^{8}\\right. \\\\ & =1-{ }^{8} C_{1}+{ }^{8} C_{2}(-x)^{2}+\\ldots . .=1-8 x+28 x^{2}+\\ldots . . \\\\ \\therefore x^{2} \\text { এর সহগ } & =28\\end{aligned} ( 1 − 2 x + x 2 ) 4 ∴ x 2   এর   সহগ   ​ = { ( 1 − x 2 } 4 = ( 1 − x ) 8 = 1 − 8 C 1 ​ + 8 C 2 ​ ( − x ) 2 + … .. = 1 − 8 x + 28 x 2 + … .. = 28 ​"
+    },
+    {
+      "number": "18",
+      "tag": "CCC 24",
+      "question": "( 2 x + 1 x ) 6 \\left(2 x+\\frac{1}{x}\\right)^{6} ( 2 x + x 1 ​ ) 6 এর বিস্তৃতিতে- i. পদসংখ্যা 7 ii. ৪র্থপদ x x x মুক্ত iii. x বর্জিত পদের মান 160 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "CCC 24",
+      "question": "P(5, 6), Q(− 3, 8) এবং R ( -- 3, 2) ঘড়ির কাঁটার বিপরীতে আবর্তিত তিনটি বিন্দু। Δ \\Delta Δ PQR এর ক্ষেত্রফল কত বর্গএকক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "48",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "96",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "24",
+      "option_c": "48",
+      "option_d": "96",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "CCC 24",
+      "question": "P(5, 6), Q(-3, 8) এবং R ( -3, 2) ঘড়ির কাঁটার বিপরীতে আবর্তিত তিনটি বিন্দু। PQ রেখার- i. দৈর্ঘ্য = 2 17 =2 \\sqrt{17} = 2 17 ​ একক ii. ঢাল = − 1 4 =-\\frac{1}{4} = − 4 1 ​ iii. সমীকরণ, 4 x + y ′ = 26 4 x+y^{\\prime}=26 4 x + y ′ = 26 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "PQ রেখার সমীকরণ : x − 5 5 + 3 = y − 6 6 − 8 \\frac{\\mathrm{x}-\\mathrm{5}}{5+3}=\\frac{\\mathrm{y}-6}{6-8} 5 + 3 x − 5 ​ = 6 − 8 y − 6 ​ বা, x − 5 8 = y − 6 − 2 \\frac{\\mathrm{x}-5}{8}=\\frac{\\mathrm{y}-6}{-2} 8 x − 5 ​ = − 2 y − 6 ​  বা,  x − 5 4 = − y + 6  বা,  x − 5 = − 4 y + 24 ∴ x + 4 y = 29 \\begin{array}{l} \\text { বা, } \\frac{x-5}{4}=-y+6 \\text { বা, } x-5=-4 y+24 \\\\ \\therefore x+4 y=29 \\end{array}   বা ,  4 x − 5 ​ = − y + 6   বা ,  x − 5 = − 4 y + 24 ∴ x + 4 y = 29 ​ অতএব, (iii) নং তথ্যটি সঠিক নয়।"
+    },
+    {
+      "number": "21",
+      "tag": "CCC 24",
+      "question": "P ও Q বিন্দুর অবস্থান ভেক্টর যথাক্রমে a ‾ \\underline{a} a ​ ও b ‾ \\underline{b} b ​ হলে, P Q → \\overrightarrow{P Q} PQ ​ নিচের কোনাট?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a ‾ − b ‾ \\underline{a}-\\underline{b} a ​ − b ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "b ‾ − a ‾ \\underline{b}-\\underline{a} b ​ − a ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "a ‾ + b ‾ \\underline{a}+\\underline{b} a ​ + b ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a ‾ b ‾ \\underline{a} \\underline{b} a ​ b ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a ‾ − b ‾ \\underline{a}-\\underline{b} a ​ − b ​",
+      "option_b": "b ‾ − a ‾ \\underline{b}-\\underline{a} b ​ − a ​",
+      "option_c": "a ‾ + b ‾ \\underline{a}+\\underline{b} a ​ + b ​",
+      "option_d": "a ‾ b ‾ \\underline{a} \\underline{b} a ​ b ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "CCC 24",
+      "question": "একটি পিরামিডের ভূমি বর্গাকার, ভূমির দৈর্ঘ্য 15 সে.মি. এবং উচ্চতা 20 সে.মি। পিরামিডটির আয়তন কত ঘনসে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4500",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2250",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1500",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1200",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4500",
+      "option_b": "2250",
+      "option_c": "1500",
+      "option_d": "1200",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "CCC 24",
+      "question": "একটি আয়তাকার ঘনবস্তুর দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে 5, 4 ও 3 সে.মি. হলে, এর সমগ্র পৃষ্ঠের ক্ষেত্রফল কত বর্গসে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "47",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "94",
+          "is_correct": true
+        }
+      ],
+      "option_a": "30",
+      "option_b": "47",
+      "option_c": "60",
+      "option_d": "94",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "CCC 24",
+      "question": "একটি নিরপেক্ষ মুদ্রা তিনবার নিক্ষেপ করা হলে কমপক্ষে একটি হেড পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 8 \\frac{3}{8} 8 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 8 \\frac{7}{8} 8 7 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_b": "3 8 \\frac{3}{8} 8 3 ​",
+      "option_c": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_d": "7 8 \\frac{7}{8} 8 7 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "CCC 24",
+      "question": "MATHEMATICS শব্দটির প্রতিটি অক্ষর একটি বক্সে রাখা হলো। দৈবচয়নে বক্সটি থেকে একটি অক্ষর উঠানো হলে, সেটি T হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 11 \\frac{9}{11} 11 9 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 9 \\frac{2}{9} 9 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 11 \\frac{2}{11} 11 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "9 11 \\frac{9}{11} 11 9 ​",
+      "option_b": "2 9 \\frac{2}{9} 9 2 ​",
+      "option_c": "1 5 \\frac{1}{5} 5 1 ​",
+      "option_d": "2 11 \\frac{2}{11} 11 2 ​",
+      "correct": "ঘ",
+      "explanation": "MATHEMATICS শব্দটিতে মোট বর্ণ 11টি যার মধ্যে T আছে 2টি ∴ \\therefore ∴ দৈবচয়নে একটি অক্ষর বাছাই করা হলে সেটি T হওয়ার সম্ভাবনা = 2 11 =\\frac{2}{11} = 11 2 ​"
+    }
+  ]
+}

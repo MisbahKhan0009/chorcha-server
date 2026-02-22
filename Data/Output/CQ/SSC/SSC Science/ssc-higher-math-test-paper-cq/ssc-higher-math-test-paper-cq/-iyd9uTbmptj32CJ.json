@@ -1,0 +1,160 @@
+{
+  "title": "পাবনা ক্যাডেট কলেজ ২০২৫",
+  "subtitle": "সংক্ষিপ্ত-উত্তর প্রশ্ন (7)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "1 2 x = 5 − 1 4 \\frac{1}{2x} = \\frac{\\sqrt{5}-1}{4} 2 x 1 ​ = 4 5 ​ − 1 ​ একটি বীজগাণিতিক সমীকরণ এবং log ⁡ a a b − c = log ⁡ k b c − a = log ⁡ c c a − b \\frac{\\log_a a}{b-c} = \\frac{\\log_k b}{c-a} = \\frac{\\log_c c}{a-b} b − c l o g a ​ a ​ = c − a l o g k ​ b ​ = a − b l o g c ​ c ​",
+      "tag": "PCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দেখাও যে, x = 5 + 1 2 x = \\frac{\\sqrt{5}+1}{2} x = 2 5 ​ + 1 ​",
+          "explanation": "দেওয়া আছে, 1 2 x = 5 − 1 4 \\frac{1}{2x} = \\frac{\\sqrt{5}-1}{4} 2 x 1 ​ = 4 5 ​ − 1 ​ বা, 2 x = 4 5 − 1 2x = \\frac{4}{\\sqrt{5}-1} 2 x = 5 ​ − 1 4 ​ বা, x = 4 2 × ( 5 + 1 ) ( 5 + 1 ) ( 5 − 1 ) x=\\frac{4}{2} \\times \\frac{(\\sqrt{5}+1)}{(\\sqrt{5}+1)(\\sqrt{5}-1)} x = 2 4 ​ × ( 5 ​ + 1 ) ( 5 ​ − 1 ) ( 5 ​ + 1 ) ​ [হর ও লবকে ( 5 + 1 ) (\\sqrt{5}+1) ( 5 ​ + 1 ) দ্বারা গুণ করে] বা, x = 2 ⋅ ( 5 + 1 ) ( 5 ) 2 − 1 2 x = 2 \\cdot \\frac{(\\sqrt{5}+1)}{(\\sqrt{5})^2-1^2} x = 2 ⋅ ( 5 ​ ) 2 − 1 2 ( 5 ​ + 1 ) ​ বা, x = 2 ⋅ ( 5 + 1 ) 5 − 1 x = 2 \\cdot \\frac{(\\sqrt{5}+1)}{5-1} x = 2 ⋅ 5 − 1 ( 5 ​ + 1 ) ​ ∴ x = 5 + 1 2 \\therefore x = \\frac{\\sqrt{5}+1}{2} ∴ x = 2 5 ​ + 1 ​ (দেখানো হলো)"
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, log ⁡ m ( 1 + x ) log ⁡ m x = 2 \\frac{\\log_m (1+x)}{\\log_m x} = 2 l o g m ​ x l o g m ​ ( 1 + x ) ​ = 2",
+          "explanation": "'ক' হতে পাই, x = 5 + 1 2 x = \\frac{\\sqrt{5}+1}{2} x = 2 5 ​ + 1 ​ বা, 2 x = 5 + 1 2x = \\sqrt{5}+1 2 x = 5 ​ + 1 বা, 2 x − 1 = 5 2x - 1 = \\sqrt{5} 2 x − 1 = 5 ​ বা, ( 2 x − 1 ) 2 = ( 5 ) 2 (2x - 1)^2 = (\\sqrt{5})^2 ( 2 x − 1 ) 2 = ( 5 ​ ) 2 [উভয়পক্ষকে বর্গ করে] বা, ( 2 x ) 2 − 2.2 x .1 + 1 2 = 5 (2x)^2 - 2.2x.1 + 1^2 = 5 ( 2 x ) 2 − 2.2 x .1 + 1 2 = 5 বা, 4 x 2 − 4 x + 1 − 5 = 0 4x^2 - 4x +1-5=0 4 x 2 − 4 x + 1 − 5 = 0 বা, 4 x 2 − 4 x − 4 = 0 4x^2-4x-4=0 4 x 2 − 4 x − 4 = 0 বা, 4 ( x 2 − x − 1 ) = 0 4(x^2-x-1) = 0 4 ( x 2 − x − 1 ) = 0 বা, x 2 − x − 1 = 0 x^2- x - 1 = 0 x 2 − x − 1 = 0 বা, x 2 = 1 + x x^2 = 1 + x x 2 = 1 + x বা, log ⁡ m x 2 = log ⁡ m ( 1 + x ) \\log_m{x^2} = \\log_m{(1+x)} lo g m ​ x 2 = lo g m ​ ( 1 + x ) [উভয়পক্ষে m ভিত্তিক লগ নিয়ে] বা, 2 log ⁡ m x = log ⁡ m ( 1 + x ) 2\\log_m{x} = \\log_m{(1+x)} 2 lo g m ​ x = lo g m ​ ( 1 + x ) ∴ log ⁡ m ( 1 + x ) log ⁡ m x = 2 \\therefore \\frac{\\log_m{(1+x)}}{\\log_m{x}} = 2 ∴ l o g m ​ x l o g m ​ ( 1 + x ) ​ = 2 (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "a a ⋅ b b ⋅ c c a^a \\cdot b^b \\cdot c^c a a ⋅ b b ⋅ c c এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, log ⁡ k a b − c = log ⁡ k b c − a = log ⁡ k c a − b \\frac{\\log_k a}{b - c} = \\frac{\\log_k b}{c - a} = \\frac{\\log_k c}{a - b} b − c l o g k ​ a ​ = c − a l o g k ​ b ​ = a − b l o g k ​ c ​ ধরি, log ⁡ k a b − c = log ⁡ k b c − a = log ⁡ k c a − b = m \\frac{\\log_k a}{b - c} = \\frac{\\log_k b}{c - a} = \\frac{\\log_k c}{a - b} = m b − c l o g k ​ a ​ = c − a l o g k ​ b ​ = a − b l o g k ​ c ​ = m ∴ log ⁡ k a = m ( b − c ) \\therefore \\log_k a = m (b - c) ∴ lo g k ​ a = m ( b − c ) বা, a log ⁡ k a = m a ( b − c ) a \\log_k a = ma(b - c) a lo g k ​ a = ma ( b − c ) [উভয়পক্ষকে a a a দ্বারা গুণ করে] ∴ log ⁡ k a a = m ( a b − c a ) \\therefore \\log_k a^a = m(ab - ca) ∴ lo g k ​ a a = m ( ab − c a ) .......... (i) আবার, log ⁡ k b = m ( c − a ) \\log_k b = m (c - a) lo g k ​ b = m ( c − a ) বা, b log ⁡ k b = m b ( c − a ) b \\log_k b = mb(c - a) b lo g k ​ b = mb ( c − a ) [উভয়পক্ষকে b b b দ্বারা গুণ করে] ∴ log ⁡ k b b = m ( b c − a b ) \\therefore \\log_k b^b = m(bc - ab) ∴ lo g k ​ b b = m ( b c − ab ) ... ... ... (ii) এবং log ⁡ k c = m ( a − b ) \\log_k c = m (a - b) lo g k ​ c = m ( a − b ) বা, c log ⁡ k c = m c ( a − b ) c \\log_k c = mc(a - b) c lo g k ​ c = m c ( a − b ) [উভয়পক্ষকে c c c দ্বারা গুণ করে] ∴ log ⁡ k c c = m ( c a − b c ) \\therefore \\log_k c^c = m(ca - bc) ∴ lo g k ​ c c = m ( c a − b c ) ... ... ... (iii) এখন, (i), (ii) এবং (iii) যোগ করে পাই, log ⁡ k a a + log ⁡ k b b + log ⁡ k c c = m ( a b − c a + b c − a b + c a − b c ) \\log_k a^a + \\log_k b^b + \\log_k c^c = m(ab - ca + bc - ab + ca - bc) lo g k ​ a a + lo g k ​ b b + lo g k ​ c c = m ( ab − c a + b c − ab + c a − b c ) 'বা, log ⁡ k a a b b c c = 0 \\log_k a^a b^b c^c = 0 lo g k ​ a a b b c c = 0 [ log ⁡ k a + log ⁡ k b = log ⁡ k ( a b ) \\log_k a + \\log_k b = \\log_k (ab) lo g k ​ a + lo g k ​ b = lo g k ​ ( ab ) ] বা, log ⁡ k a a b b c c = log ⁡ k 1 \\log_k a^a b^b c^c = \\log_k 1 lo g k ​ a a b b c c = lo g k ​ 1 ∴ a a . b b . c c = 1 \\therefore a^a.b^b.c^c = 1 ∴ a a . b b . c c = 1 (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "( 9 x − 2 ) − 1 + ( 9 x − 2 ) − 2 + ( 9 x − 2 ) − 3 + . . . . . . . . . . (9x - 2)^{-1} + (9x - 2)^{-2} + (9x-2)^{-3} + .......... ( 9 x − 2 ) − 1 + ( 9 x − 2 ) − 2 + ( 9 x − 2 ) − 3 + .......... একটি অসীম ধারা।",
+      "tag": "PCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "3.0 5 ˙ 2 ˙ 3.0\\dot{5}\\dot{2} 3.0 5 ˙ 2 ˙ কে অসীম ধারার সাহায্যে মূলদীয় ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "3.0 5 ˙ 2 ˙ = 3.0525252 3.{0}\\dot{5}\\dot{2} = 3.0525252 3. 0 5 ˙ 2 ˙ = 3.0525252 = 3 + ( 0.052 + 0.00052 + 0.0000052 + … ) =3+(0.052+0.00052+0.0000052 + \\ldots ) = 3 + ( 0.052 + 0.00052 + 0.0000052 + … ) এখানে, বন্ধনীর ভিতরের ধারাটি একটি অসীম গুণোত্তর ধারা। যার ১ম-পদ, a = 0.052 a = 0.052 a = 0.052 সাধারণ অনুপাত, r = 0.00052 0.052 = 0.01 r=\\frac{0.00052}{0.052} = 0.01 r = 0.052 0.00052 ​ = 0.01 যেহেতু ∣ r ∣ = ∣ 0.01 ∣ = 0.01 < 1 |r|=|0.01| = 0.01 < 1 ∣ r ∣ = ∣0.01∣ = 0.01 < 1 সুতরাং ধারাটির অসীমতক সমষ্টি বিদ্যমান। ∴ \\therefore ∴ অসীমতক সমষ্টি, S ∞ = a 1 − r = 0.052 1 − 0.01 S_{\\infty} = \\frac{a}{1-r} = \\frac{0.052}{1-0.01} S ∞ ​ = 1 − r a ​ = 1 − 0.01 0.052 ​ = 0.052 0.99 = 52 × 100 99 × 1000 = 52 99 × 10 = 26 495 = \\frac{0.052}{0.99} = \\frac{52 \\times 100}{99 \\times 1000} = \\frac{52}{99 \\times 10} = \\frac{26}{495} = 0.99 0.052 ​ = 99 × 1000 52 × 100 ​ = 99 × 10 52 ​ = 495 26 ​ ∴ 3. 0 ˙ 5 ˙ 2 ˙ = 3 + 26 495 = 1485 + 26 495 = 1511 495 \\therefore 3.\\dot{0}\\dot{5}\\dot{2}=3+\\frac{26}{495} = \\frac{1485+26}{495} = \\frac{1511}{495} ∴ 3. 0 ˙ 5 ˙ 2 ˙ = 3 + 495 26 ​ = 495 1485 + 26 ​ = 495 1511 ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "x = 1 x = 1 x = 1 হলে, প্রদত্ত ধারাটির ১ম আটটি পদের সমষ্টি নির্ণয় কর।",
+          "explanation": "প্রদত্ত ধারাটি: ( 9 x − 2 ) − 1 + ( 9 x − 2 ) − 2 + ( 9 x − 2 ) − 3 + . . . . . . (9x - 2)^{-1} + (9x-2)^{-2} +(9x - 2)^{-3} + ... ... ( 9 x − 2 ) − 1 + ( 9 x − 2 ) − 2 + ( 9 x − 2 ) − 3 + ...... x = 1 x= 1 x = 1 হলে ধারাটি হবে, ( 9 − 2 ) − 1 + ( 9 − 2 ) − 2 + ( 9 − 2 ) − 3 + . . . . . , . . . (9-2)^{-1}+(9-2)^{-2}+(9-2)^{-3} + ....., ... ( 9 − 2 ) − 1 + ( 9 − 2 ) − 2 + ( 9 − 2 ) − 3 + ..... , ... = 7 − 1 + 7 − 2 + 7 − 3 + . . . . . . . . . . . . =7^{-1} + 7^{-2} + 7^{-3} + ............ = 7 − 1 + 7 − 2 + 7 − 3 + ............ = 1 7 + 1 7 2 + 1 7 3 + . . . =\\frac{1}{7} + \\frac{1}{7^2} + \\frac{1}{7^3} + ... = 7 1 ​ + 7 2 1 ​ + 7 3 1 ​ + ... গুণোত্তর ধারাটির প্রথম পদ, a = 1 7 a=\\frac{1}{7} a = 7 1 ​ এবং সাধারণ অনুপাত, r = 1 7 2 ÷ 1 7 = 1 7 2 × 7 = 1 7 < 1 r = \\frac{1}{7^2} \\div \\frac{1}{7} = \\frac{1}{7^2} \\times 7 = \\frac{1}{7} < 1 r = 7 2 1 ​ ÷ 7 1 ​ = 7 2 1 ​ × 7 = 7 1 ​ < 1 আমরা জানি, গুণোত্তর ধারার প্রথম n-সংখ্যক পদের সমষ্টি, S n = a ( 1 − r n ) 1 − r S_n = \\frac{a(1-r^n)}{1-r} S n ​ = 1 − r a ( 1 − r n ) ​ যখন r < 1 r<1 r < 1 ∴ \\therefore ∴ গুণোত্তর ধারাটির ১ম আটটি পদের সমষ্টি, S 8 = a 1 − r 8 1 − r = 1 7 ⋅ 1 − ( 1 7 ) 8 1 − 1 7 = 1 7 ⋅ 1 − 1 7 8 6 7 S_8 = a \\frac{1-r^8}{1-r} = \\frac{1}{7} \\cdot \\frac{1 - (\\frac{1}{7})^8}{1 - \\frac{1}{7}} = \\frac{1}{7} \\cdot \\frac{1 - \\frac{1}{7^8}}{\\frac{6}{7}} S 8 ​ = a 1 − r 1 − r 8 ​ = 7 1 ​ ⋅ 1 − 7 1 ​ 1 − ( 7 1 ​ ) 8 ​ = 7 1 ​ ⋅ 7 6 ​ 1 − 7 8 1 ​ ​ = 1 7 × 7 8 − 1 7 8 × 7 6 = 7 8 − 1 6 × 7 8 = \\frac{1}{7} \\times \\frac{7^8-1}{7^8} \\times \\frac{7}{6} = \\frac{7^8-1}{6 \\times 7^8} = 7 1 ​ × 7 8 7 8 − 1 ​ × 6 7 ​ = 6 × 7 8 7 8 − 1 ​ (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "x x x -এর উপর কী শর্ত আরোপ করলে প্রদত্ত ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।",
+          "explanation": "উদ্দীপকে উল্লেখিত ধারাটির প্রথম পদ, a = ( 9 x − 2 ) − 1 = 1 9 x − 2 a = (9x-2)^{-1} = \\frac{1}{9x-2} a = ( 9 x − 2 ) − 1 = 9 x − 2 1 ​ এবং সাধারণ অনুপাত, r = ( 9 x − 2 ) − 2 ÷ ( 9 x − 2 ) − 1 r = (9x-2)^{-2} \\div (9x-2)^{-1} r = ( 9 x − 2 ) − 2 ÷ ( 9 x − 2 ) − 1 = ( 9 x − 2 ) − 1 = 1 9 x − 2 = (9x-2)^{-1} = \\frac{1}{9x-2} = ( 9 x − 2 ) − 1 = 9 x − 2 1 ​ ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি ধারাটির সাধারণ অনুপাত ∣ r ∣ < 1 |r| < 1 ∣ r ∣ < 1 হয়। অর্থাৎ, ∣ 1 9 x − 2 ∣ < 1 |\\frac{1}{9x-2}| < 1 ∣ 9 x − 2 1 ​ ∣ < 1 বা, − 1 < 1 9 x − 2 < 1 -1 < \\frac{1}{9x-2} < 1 − 1 < 9 x − 2 1 ​ < 1 হয়। অর্থাৎ, ∣ 1 9 x − 2 ∣ < 1 \\left|\\frac{1}{9x-2}\\right|<1 ​ 9 x − 2 1 ​ ​ < 1 হয়, 1 9 x − 2 < 1 \\frac{1}{9x-2}<1 9 x − 2 1 ​ < 1 বা, 9 x − 2 > 1 9x-2>1 9 x − 2 > 1 বা, 9 x > 3 9x>3 9 x > 3 ∴ x > 1 3 \\therefore x>\\frac{1}{3} ∴ x > 3 1 ​ বা, − 1 < 1 9 x − 2 < 1 -1 < \\frac{1}{9x-2} < 1 − 1 < 9 x − 2 1 ​ < 1 হয়। অথবা, 1 9 x − 2 > − 1 \\frac{1}{9x-2} > -1 9 x − 2 1 ​ > − 1 বা, 9 x − 2 < − 1 9x-2 < -1 9 x − 2 < − 1 বা, 9 x < 1 9x < 1 9 x < 1 ∴ x < 1 9 \\therefore x < \\frac{1}{9} ∴ x < 9 1 ​ ∴ \\therefore ∴ অসীমতক সমষ্টির জন্য শর্ত: x < 1 9 x < \\frac{1}{9} x < 9 1 ​ অথবা x > 1 3 x > \\frac{1}{3} x > 3 1 ​ (Ans.) .:. গুণোত্তর ধারাটির অসীমতক সমষ্টি, S ∞ = a 1 − r = 1 9 x − 2 1 − 1 9 x − 2 S_\\infty = \\frac{a}{1-r} = \\frac{\\frac{1}{9x-2}}{1-\\frac{1}{9x-2}} S ∞ ​ = 1 − r a ​ = 1 − 9 x − 2 1 ​ 9 x − 2 1 ​ ​ = 1 9 x − 2 × 9 x − 2 9 x − 2 − 1 = 1 9 x − 3 = \\frac{1}{9x-2} \\times \\frac{9x-2}{9x-2-1} = \\frac{1}{9x-3} = 9 x − 2 1 ​ × 9 x − 2 − 1 9 x − 2 ​ = 9 x − 3 1 ​ (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "P ( y ) = ( y 2 + 3 ) ( y 2 − 1 ) P(y) = (y^2 + 3)(y^2 - 1) P ( y ) = ( y 2 + 3 ) ( y 2 − 1 )",
+      "tag": "PCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "দেখাও যে,",
+          "explanation": "দেওয়া আছে, p ( x ) = 2 x 3 + x 2 − 6 x − 3 p(x) = 2x^3 + x^2 - 6x - 3 p ( x ) = 2 x 3 + x 2 − 6 x − 3 ∴ p ( − 1 2 ) = 2 ( − 1 2 ) 3 + ( − 1 2 ) 2 − 6 ( − 1 2 ) − 3 \\therefore p\\left(-\\frac{1}{2}\\right) = 2\\left(-\\frac{1}{2}\\right)^3 + \\left(-\\frac{1}{2}\\right)^2 - 6\\left(-\\frac{1}{2}\\right) - 3 ∴ p ( − 2 1 ​ ) = 2 ( − 2 1 ​ ) 3 + ( − 2 1 ​ ) 2 − 6 ( − 2 1 ​ ) − 3 = − 2 ⋅ 1 8 + 1 4 + 3 − 3 = − 1 4 + 1 4 + 0 = 0 = -2 \\cdot \\frac{1}{8} + \\frac{1}{4} + 3 - 3 = -\\frac{1}{4} + \\frac{1}{4} + 0 = 0 = − 2 ⋅ 8 1 ​ + 4 1 ​ + 3 − 3 = − 4 1 ​ + 4 1 ​ + 0 = 0 ∴ x − ( − 1 2 ) \\therefore x - \\left(-\\frac{1}{2}\\right) ∴ x − ( − 2 1 ​ ) বা, ( x + 1 2 ) \\left(x + \\frac{1}{2}\\right) ( x + 2 1 ​ ) বা, ( 2 x + 1 ) (2x + 1) ( 2 x + 1 ) , p ( x ) p(x) p ( x ) এর একটি উৎপাদক। (দেখানো হলো)"
+        },
+        {
+          "label": "খ",
+          "question": "P ( y ) P(y) P ( y ) কে ( y − a ) (y - a) ( y − a ) এবং ( y − b ) (y - b) ( y − b ) দ্বারা ভাগ করলে যদি একই ভাগশেষ থাকে তবে দেখাও যে, a 3 + b 3 + a 2 b + a b 2 + 2 a + 2 b = 0 a^3 + b^3 + a^2b + ab^2 + 2a + 2b = 0 a 3 + b 3 + a 2 b + a b 2 + 2 a + 2 b = 0 [যেখানে a ≠ b a \\ne b a  = b ]",
+          "explanation": "দেওয়া আছে, p ( y ) = ( y 2 + 3 ) ( y 2 − 1 ) = y 4 − y 2 + 3 y 2 − 3 p(y) = (y^2 + 3)(y^2 - 1) = y^4 - y^2 + 3y^2 - 3 p ( y ) = ( y 2 + 3 ) ( y 2 − 1 ) = y 4 − y 2 + 3 y 2 − 3 = y 4 + 2 y 2 − 3 = y^4 + 2y^2 - 3 = y 4 + 2 y 2 − 3 p ( y ) p(y) p ( y ) কে ( y − a ) (y - a) ( y − a ) দ্বারা ভাগ করলে ভাগশেষ হবে p ( a ) = a 4 + 2 a 2 − 3 p(a) = a^4 + 2a^2 - 3 p ( a ) = a 4 + 2 a 2 − 3 p ( y ) p(y) p ( y ) কে ( y − b ) (y - b) ( y − b ) দ্বারা ভাগ করলে ভাগশেষ হবে p ( b ) = b 4 + 2 b 2 − 3 p(b) = b^4 + 2b^2 - 3 p ( b ) = b 4 + 2 b 2 − 3 শর্তানুসারে, p ( a ) = p ( b ) p(a) = p(b) p ( a ) = p ( b ) বা, a 4 + 2 a 2 − 3 = b 4 + 2 b 2 − 3 a^4 + 2a^2 - 3 = b^4 + 2b^2 - 3 a 4 + 2 a 2 − 3 = b 4 + 2 b 2 − 3 বা, a 4 − b 4 + 2 a 2 − 2 b 2 = 0 a^4 - b^4 + 2a^2 - 2b^2 = 0 a 4 − b 4 + 2 a 2 − 2 b 2 = 0 বা, ( a 2 ) 2 − ( b 2 ) 2 + 2 ( a 2 − b 2 ) = 0 (a^2)^2 - (b^2)^2 + 2(a^2 - b^2) = 0 ( a 2 ) 2 − ( b 2 ) 2 + 2 ( a 2 − b 2 ) = 0 বা, ( a 2 − b 2 ) ( a 2 + b 2 ) + 2 ( a 2 − b 2 ) = 0 (a^2 - b^2)(a^2 + b^2) + 2(a^2 - b^2) = 0 ( a 2 − b 2 ) ( a 2 + b 2 ) + 2 ( a 2 − b 2 ) = 0 বা, ( a 2 − b 2 ) ( a 2 + b 2 + 2 ) = 0 (a^2 - b^2)(a^2 + b^2 + 2) = 0 ( a 2 − b 2 ) ( a 2 + b 2 + 2 ) = 0 বা, ( a + b ) ( a − b ) ( a 2 + b 2 + 2 ) = 0 (a + b)(a - b)(a^2 + b^2 + 2) = 0 ( a + b ) ( a − b ) ( a 2 + b 2 + 2 ) = 0 বা, ( a + b ) ( a 2 + b 2 + 2 ) = 0 (a + b)(a^2 + b^2 + 2) = 0 ( a + b ) ( a 2 + b 2 + 2 ) = 0 [ a ≠ b a \\neq b a  = b হওয়ায় ( a − b ) (a - b) ( a − b ) দ্বারা ভাগ করে।] বা, a 3 + a b 2 + 2 a + a 2 b + b 3 + 2 b = 0 a^3 + ab^2 + 2a + a^2b + b^3 + 2b = 0 a 3 + a b 2 + 2 a + a 2 b + b 3 + 2 b = 0 ∴ a 3 + b 3 + a 2 b + a b 2 + 2 a + 2 b = 0 \\therefore a^3 + b^3 + a^2b + ab^2 + 2a + 2b = 0 ∴ a 3 + b 3 + a 2 b + a b 2 + 2 a + 2 b = 0 (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "y 3 P ( y ) \\frac{y^3}{P(y)} P ( y ) y 3 ​ কে আংশিক ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "দেওয়া আছে, p ( y ) = ( y 2 + 3 ) ( y 2 − 1 ) = ( y 2 + 3 ) ( y + 1 ) ( y − 1 ) p(y) = (y^2 + 3)(y^2 - 1) = (y^2 + 3)(y+1)(y-1) p ( y ) = ( y 2 + 3 ) ( y 2 − 1 ) = ( y 2 + 3 ) ( y + 1 ) ( y − 1 ) ধরি, y 3 p ( y ) = y 3 ( y 2 + 3 ) ( y + 1 ) ( y − 1 ) = A y + 1 + B y − 1 + C y + D y 2 + 3 … ( i ) \\frac{y^3}{p(y)} = \\frac{y^3}{(y^2 + 3)(y+1)(y-1)} = \\frac{A}{y+1} + \\frac{B}{y-1} + \\frac{Cy+D}{y^2+3} \\quad \\ldots(i) p ( y ) y 3 ​ = ( y 2 + 3 ) ( y + 1 ) ( y − 1 ) y 3 ​ = y + 1 A ​ + y − 1 B ​ + y 2 + 3 C y + D ​ … ( i ) (i) এর উভয়পক্ষকে ( y 2 + 3 ) ( y + 1 ) ( y − 1 ) (y^2+3)(y+1)(y-1) ( y 2 + 3 ) ( y + 1 ) ( y − 1 ) দ্বারা গুণ করে পাই, y 3 = A ( y 2 + 3 ) ( y − 1 ) + B ( y 2 + 3 ) ( y + 1 ) + ( C y + D ) ( y + 1 ) ( y − 1 ) … ( i i ) y^3 = A(y^2+3)(y-1) + B(y^2+3)(y+1) + (Cy+D)(y+1)(y-1) \\quad \\ldots(ii) y 3 = A ( y 2 + 3 ) ( y − 1 ) + B ( y 2 + 3 ) ( y + 1 ) + ( C y + D ) ( y + 1 ) ( y − 1 ) … ( ii ) (ii) নং এ y = 1 y = 1 y = 1 বসিয়ে পাই, 1 3 = A ⋅ 0 + B ( 1 + 3 ) ( 1 + 1 ) + ( C y + D ) ⋅ 0 1^3 = A \\cdot 0 + B(1+3)(1+1) + (Cy+D) \\cdot 0 1 3 = A ⋅ 0 + B ( 1 + 3 ) ( 1 + 1 ) + ( C y + D ) ⋅ 0 বা, 1 = 0 + 8 B + 0 ∴ B = 1 8 1 = 0 + 8B + 0 \\therefore B = \\frac{1}{8} 1 = 0 + 8 B + 0 ∴ B = 8 1 ​ (ii) নং এ y = − 1 y = -1 y = − 1 বসিয়ে পাই, ( − 1 ) 3 = A ( 1 + 3 ) ( − 1 − 1 ) + B ⋅ 0 + ( C y + D ) ⋅ 0 (-1)^3 = A(1+3)(-1-1) + B \\cdot 0 + (Cy+D) \\cdot 0 ( − 1 ) 3 = A ( 1 + 3 ) ( − 1 − 1 ) + B ⋅ 0 + ( C y + D ) ⋅ 0 বা, − 1 = − 8 A ∴ A = 1 8 -1 = -8A \\therefore A = \\frac{1}{8} − 1 = − 8 A ∴ A = 8 1 ​ (ii) নং এর উভয়পক্ষে y 3 y^3 y 3 ও y 2 y^2 y 2 এর সহগ সমীকৃত করে পাই, 1 = A + B + C 1 = A+B+C 1 = A + B + C বা, C = 1 − 1 8 − 1 8 ∴ C = 3 4 C = 1 - \\frac{1}{8} - \\frac{1}{8} \\therefore C = \\frac{3}{4} C = 1 − 8 1 ​ − 8 1 ​ ∴ C = 4 3 ​ এবং 0 = − A + B + D 0 = -A+B+D 0 = − A + B + D বা, D = A − B = 1 8 − 1 8 = 0 D = A-B = \\frac{1}{8} - \\frac{1}{8} = 0 D = A − B = 8 1 ​ − 8 1 ​ = 0 (i) নং এ A, B, C ও D এর মান বসিয়ে পাই, y 3 ( y 2 + 3 ) ( y + 1 ) ( y − 1 ) = 1 8 y + 1 + 1 8 y − 1 + 3 4 y + 0 y 2 + 3 \\frac{y^3}{(y^2+3)(y+1)(y-1)} = \\frac{\\frac{1}{8}}{y+1} + \\frac{\\frac{1}{8}}{y-1} + \\frac{\\frac{3}{4}y+0}{y^2+3} ( y 2 + 3 ) ( y + 1 ) ( y − 1 ) y 3 ​ = y + 1 8 1 ​ ​ + y − 1 8 1 ​ ​ + y 2 + 3 4 3 ​ y + 0 ​ = 1 8 ( y + 1 ) + 1 8 ( y − 1 ) + 3 y 4 ( y 2 + 3 ) = \\frac{1}{8(y+1)} + \\frac{1}{8(y-1)} + \\frac{3y}{4(y^2+3)} = 8 ( y + 1 ) 1 ​ + 8 ( y − 1 ) 1 ​ + 4 ( y 2 + 3 ) 3 y ​ ইহাই নির্ণেয় আংশিক ভগ্নাংশ। (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "PQRS একটি চতুর্ভুজ যার PQ, QR, RS ও SP বাহ্লগুলোর মধ্যবিন্দু যথাক্রমে E, F, G ও H.",
+      "tag": "PCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "ABCD সামান্তরিকের শীর্ষ বিন্দুগুলোর অবস্থান ভেক্টর যথাক্রমে a, b, c, d হলে, দেখাও যে, b ‾ − a ‾ = c ‾ − d ‾ \\underline{b}-\\underline{a}=\\underline{c}-\\underline{d} b ​ − a ​ = c ​ − d ​",
+          "explanation": "দেওয়া আছে, ABCD সামান্তরিকের A, B, C, D বিন্দুগুলোর অবস্থান ভেক্টর যথাক্রমে a ‾ \\underline{a} a ​ , b ‾ \\underline{b} b ​ , c ‾ \\underline{c} c ​ , d ‾ \\underline{d} d ​ . দেখাতে হবে যে, b ‾ − a ‾ = c ‾ − d ‾ \\underline{b} - \\underline{a} = \\underline{c} - \\underline{d} b ​ − a ​ = c ​ − d ​ প্রমাণ: দেওয়া আছে, ABCD সামান্তরিকের শীর্ষবিন্দুগুলোর অবস্থান ভেক্টর যথাক্রমে a ‾ \\underline{a} a ​ , b ‾ \\underline{b} b ​ , c ‾ \\underline{c} c ​ , d ‾ \\underline{d} d ​ ∴ A B ⃗ = b ‾ − a ‾ \\therefore \\vec{AB} = \\underline{b} - \\underline{a} ∴ A B = b ​ − a ​ এবং D C ⃗ = c ‾ − d ‾ \\vec{DC} = \\underline{c} - \\underline{d} D C = c ​ − d ​ ABCD সামান্তরিক হওয়ায় AB ও DC পরস্পর বিপরীত বাহুদ্বয় সমান ও সমান্তরাল হবে। ∴ AB ⃗ = DC ⃗ \\therefore \\vec{\\text{AB}} = \\vec{\\text{DC}} ∴ AB = DC ∴ b ‾ − a ‾ = c ‾ − d ‾ \\therefore \\underline{\\text{b}} - \\underline{\\text{a}} = \\underline{\\text{c}} - \\underline{\\text{d}} ∴ b ​ − a ​ = c ​ − d ​ (দেখানো হলো)"
+        },
+        {
+          "label": "খ",
+          "question": "ভেক্টরের সাহায্যে প্রমাণ কর যে, EFGH একটি সামান্তরিক।",
+          "explanation": "মনে করি, PQRS চতুর্ভুজের PQ, QR, RS ও SP এর মধ্যবিন্দুসমূহ যথাক্রমে E, F, G ও H। E, F; F, G; G, H ও H, E যোগ করি। প্রমাণ করতে হবে যে, EFGH একটি সামান্তরিক। প্রমাণ: মনে করি, P Q ⃗ = a ⃗ \\vec{PQ} = \\vec{a} PQ ​ = a , Q R ⃗ = b ⃗ \\vec{QR} = \\vec{b} QR ​ = b , R S ⃗ = c ⃗ \\vec{RS} = \\vec{c} RS = c , S P ⃗ = d ⃗ \\vec{SP} = \\vec{d} SP = d তাহলে, E F ⃗ = E Q ⃗ + Q F ⃗ = 1 2 P Q ⃗ + 1 2 Q R ⃗ = 1 2 ( a ⃗ + b ⃗ ) \\vec{EF} = \\vec{EQ} + \\vec{QF} = \\frac{1}{2}\\vec{PQ} + \\frac{1}{2}\\vec{QR} = \\frac{1}{2}(\\vec{a} + \\vec{b}) EF = EQ ​ + QF ​ = 2 1 ​ PQ ​ + 2 1 ​ QR ​ = 2 1 ​ ( a + b ) অনুরূপভাবে, F G ⃗ = 1 2 ( b ⃗ + c ⃗ ) \\vec{FG} = \\frac{1}{2}(\\vec{b} + \\vec{c}) FG = 2 1 ​ ( b + c ) , G H ⃗ = 1 2 ( c ⃗ + d ⃗ ) \\vec{GH} = \\frac{1}{2}(\\vec{c} + \\vec{d}) G H = 2 1 ​ ( c + d ) এবং H E ⃗ = 1 2 ( d ⃗ + a ⃗ ) \\vec{HE} = \\frac{1}{2}(\\vec{d} + \\vec{a}) H E = 2 1 ​ ( d + a ) কিন্তু ( a ⃗ + b ⃗ ) + ( c ⃗ + d ⃗ ) = P R ⃗ + R P ⃗ = P R ⃗ − P R ⃗ = 0 ⃗ (\\vec{a} + \\vec{b}) + (\\vec{c} + \\vec{d}) = \\vec{PR} + \\vec{RP} = \\vec{PR} - \\vec{PR} = \\vec{0} ( a + b ) + ( c + d ) = PR + RP = PR − PR = 0 অর্থাৎ ( a ⃗ + b ⃗ ) = − ( c ⃗ + d ⃗ ) (\\vec{a} + \\vec{b}) = -(\\vec{c} + \\vec{d}) ( a + b ) = − ( c + d ) ∴ E F ⃗ = 1 2 ( a ⃗ + b ⃗ ) = − 1 2 ( c ⃗ + d ⃗ ) = − G H ⃗ = H G ⃗ \\therefore \\vec{EF} = \\frac{1}{2}(\\vec{a} + \\vec{b}) = -\\frac{1}{2}(\\vec{c} + \\vec{d}) = -\\vec{GH} = \\vec{HG} ∴ EF = 2 1 ​ ( a + b ) = − 2 1 ​ ( c + d ) = − G H = H G ∴ E F ⃗ \\therefore \\vec{EF} ∴ EF এবং H G ⃗ \\vec{HG} H G সমান ও সমান্তরাল। অনুরূপভাবে F G ⃗ \\vec{FG} FG এবং E H ⃗ \\vec{EH} E H সমান ও সমান্তরাল। ∴ \\therefore ∴ EFGH একটি সামান্তরিক। (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "",
+          "explanation": "দেওয়া আছে, PQS ত্রিভুজের PQ ও SP বাহুদ্বয়ের মধ্যবিন্দু যথাক্রমে E ও H। E ও H যোগ করি। প্রমাণ করতে হবে যে, H E ∥ S Q HE \\parallel SQ H E ∥ SQ এবং H E = 1 2 S Q HE = \\frac{1}{2} SQ H E = 2 1 ​ SQ প্রমাণ: (১) ভেক্টর বিয়োগের ত্রিভুজবিধি অনুসারে, PH ⃗ \\vec{\\text{PH}} PH - PE ⃗ \\vec{\\text{PE}} PE = EH ⃗ \\vec{\\text{EH}} EH ...... (i) এবং PS ⃗ \\vec{\\text{PS}} PS - PQ ⃗ \\vec{\\text{PQ}} PQ ​ = QS ⃗ \\vec{\\text{QS}} QS ​ (২) PS ⃗ \\vec{\\text{PS}} PS = 2 PH ⃗ \\vec{\\text{PH}} PH , PQ ⃗ \\vec{\\text{PQ}} PQ ​ = 2 PE ⃗ \\vec{\\text{PE}} PE [: E, H বিন্দু যথাক্রমে PQ ও PS এর মধ্যবিন্দু] (৩) PS ⃗ \\vec{\\text{PS}} PS - PQ ⃗ \\vec{\\text{PQ}} PQ ​ = QS ⃗ \\vec{\\text{QS}} QS ​ থেকে পাই, বা, 2 PH ⃗ \\vec{\\text{PH}} PH - 2 PE ⃗ \\vec{\\text{PE}} PE = QS ⃗ \\vec{\\text{QS}} QS ​ , বা, 2( PH ⃗ \\vec{\\text{PH}} PH - PE ⃗ \\vec{\\text{PE}} PE ) = QS ⃗ \\vec{\\text{QS}} QS ​ বা, 2 EH ⃗ \\vec{\\text{EH}} EH = QS ⃗ \\vec{\\text{QS}} QS ​ [(i) নং হতে] বা, EH ⃗ \\vec{\\text{EH}} EH = 1 2 QS ⃗ \\frac{1}{2}\\vec{\\text{QS}} 2 1 ​ QS ​ বা, | EH ⃗ \\vec{\\text{EH}} EH | = 1 2 \\frac{1}{2} 2 1 ​ | QS ⃗ \\vec{\\text{QS}} QS ​ | বা, EH = 1 2 \\frac{1}{2} 2 1 ​ QS ∴ \\therefore ∴ HE = 1 2 \\frac{1}{2} 2 1 ​ SQ সুতরাং, EH ⃗ \\vec{\\text{EH}} EH ও QS ⃗ \\vec{\\text{QS}} QS ​ ভেক্টরদ্বয়ের ধারক রেখা একই বা সমান্তরাল। কিন্তু এখানে ধারক রেখা একই নয়। সুতরাং EH ⃗ \\vec{\\text{EH}} EH ও QS ⃗ \\vec{\\text{QS}} QS ​ ভেক্টরদ্বয়ের ধারক রেখাদ্বয় HE এবং SQ পরস্পর সমান্তরাল। ∴ \\therefore ∴ HE || SQ এবং HE = 1 2 \\frac{1}{2} 2 1 ​ SQ (প্রমাণিত)"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "P(a, a)বিন্দু হতে (যেখানে a> 0) R(3, – 3) বিন্দুর দূরত্ব, y-অক্ষ হতে P বিন্দুর দূরত্বের দ্বিগুণ এবং Q(−a, −a) একই সমতলে অন্য একটি বিন্দু আবার ভিন্ন তিনটি বিন্দু A(p, 0), B(0, q) ও P সমরেখ।",
+      "tag": "PCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "a এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, P ( a , a ) , R ( 3 , − 3 ) P(a, a), R(3, -3) P ( a , a ) , R ( 3 , − 3 ) P ও R বিন্দুর দূরত্ব P R = ( a − 3 ) 2 + ( a + 3 ) 2 PR=\\sqrt{(a-3)^2+(a+3)^2} PR = ( a − 3 ) 2 + ( a + 3 ) 2 ​ একক আবার, y-অক্ষ হতে P বিন্দুর দূরত্ব = ∣ a ∣ = a = |a|= a = ∣ a ∣ = a একক শর্তমতে, 2 a = ( a − 3 ) 2 + ( a + 3 ) 2 2a = \\sqrt{(a - 3)^2 + (a + 3)^2} 2 a = ( a − 3 ) 2 + ( a + 3 ) 2 ​ বা, 4 a 2 = a 2 − 6 a + 9 + a 2 + 6 a + 9 4a^2 = a^2- 6a+9+a^2+6a+9 4 a 2 = a 2 − 6 a + 9 + a 2 + 6 a + 9 বা, 4 a 2 = 2 a 2 + 18 4a^2 = 2a^2 + 18 4 a 2 = 2 a 2 + 18 বা, 2 a 2 = 18 2a^2 = 18 2 a 2 = 18 বা, a 2 = 9 a^2 = 9 a 2 = 9 বা, a = ± 3 a = \\pm 3 a = ± 3 ∴ a = 3 [ ∴ a > 0 ] \\therefore a=3 [\\therefore a>0] ∴ a = 3 [ ∴ a > 0 ] (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "PQR ত্রিভুজের প্রকৃতি ও ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "'ক' হতে a = 3 a = 3 a = 3 হলে, P(3, 3), Q(-3,-3) ও R(3, -3) PQ এর দূরত্ব = ( 3 + 3 ) 2 + ( 3 + 3 ) 2 =\\sqrt{(3 + 3)^2 + (3+3)^2} = ( 3 + 3 ) 2 + ( 3 + 3 ) 2 ​ = 6 2 + 6 2 = 72 = 6 2 =\\sqrt{6^2+6^2}=\\sqrt{72} = 6\\sqrt{2} = 6 2 + 6 2 ​ = 72 ​ = 6 2 ​ একক ∴ \\therefore ∴ PQ 2 = ( 6 2 ) 2 = 72 ^2 = (6\\sqrt{2})^2 = 72 2 = ( 6 2 ​ ) 2 = 72 QR এর দূরত্ব = ( − 3 − 3 ) 2 + ( − 3 + 3 ) 2 =\\sqrt{(-3-3)^2+(-3+3)^2} = ( − 3 − 3 ) 2 + ( − 3 + 3 ) 2 ​ = ( − 6 ) 2 + 0 2 =\\sqrt{(-6)^2+0^2} = ( − 6 ) 2 + 0 2 ​ = 36 = 6 =\\sqrt{36} = 6 = 36 ​ = 6 একক ∴ \\therefore ∴ QR 2 = 6 2 = 36 ^2 = 6^2 = 36 2 = 6 2 = 36 PR এর দূরত্ব = ( 3 − 3 ) 2 + ( 3 + 3 ) 2 =\\sqrt{(3-3)^2 + (3+3)^2} = ( 3 − 3 ) 2 + ( 3 + 3 ) 2 ​ = 0 2 + 6 2 = 6 =\\sqrt{0^2 + 6^2} = 6 = 0 2 + 6 2 ​ = 6 একক ∴ \\therefore ∴ PR 2 = 6 2 = 36 ^2 = 6^2 = 36 2 = 6 2 = 36 ∴ \\therefore ∴ PR 2 ^2 2 + QR 2 = 36 + 36 = 72 = ^2 = 36 +36=72 = 2 = 36 + 36 = 72 = PQ 2 ^2 2 ∴ \\therefore ∴ PQR একটি সমদ্বিবাহু সমকোণী ত্রিভুজ। ∴ \\therefore ∴ △ \\triangle △ PQR এর ক্ষেত্রফল = 1 2 =\\frac{1}{2} = 2 1 ​ × \\times × PR × \\times × QR = ( 1 2 × 6 × 6 ) =\\left(\\frac{1}{2}\\times 6\\times 6\\right) = ( 2 1 ​ × 6 × 6 ) বর্গ একক = 18 = 18 = 18 বর্গ একক (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "ঢাল নির্ণয় করে দেখাও যে, 3 p + 3 q = 1 \\frac{3}{p} + \\frac{3}{q} = 1 p 3 ​ + q 3 ​ = 1",
+          "explanation": "দেওয়া আছে, A(p, 0), B(0, q) এবং P(3, 3) এখন, AB রেখার ঢাল = q − 0 0 − p = q − p = \\frac{q-0}{0-p} = \\frac{q}{-p} = 0 − p q − 0 ​ = − p q ​ আবার, BP রেখার ঢাল = 3 − q 3 − 0 = 3 − q 3 = \\frac{3-q}{3-0} = \\frac{3-q}{3} = 3 − 0 3 − q ​ = 3 3 − q ​ এখন, A, B ও P বিন্দু তিনটি সমরেখ হবে যদি, AB রেখার ঢাল = BP রেখার ঢাল বা, q − p = 3 − q 3 \\frac{q}{-p} = \\frac{3-q}{3} − p q ​ = 3 3 − q ​ বা, 3 q = − 3 p + p q 3q = -3p + pq 3 q = − 3 p + pq বা, 3 p + 3 q = p q 3p+3q=pq 3 p + 3 q = pq বা, 3 p p q + 3 q p q = 1 \\frac{3p}{pq}+\\frac{3q}{pq}=1 pq 3 p ​ + pq 3 q ​ = 1 বা, 3 q + 3 p = 1 \\frac{3}{q}+\\frac{3}{p}=1 q 3 ​ + p 3 ​ = 1 ∴ 3 p + 3 q = 1 \\therefore \\frac{3}{p}+\\frac{3}{q}=1 ∴ p 3 ​ + q 3 ​ = 1 (দেখানো হলো)"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "P = sinA - cosA এবং Q = ysinA - xcosA.",
+      "tag": "PCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "cos ⁡ 9 π 4 + cos ⁡ 5 π 4 + sin ⁡ 3 ⋅ 1 π 36 − sin ⁡ 5 π 36 \\cos \\frac{9\\pi}{4} + \\cos \\frac{5\\pi}{4} + \\sin \\frac{3 \\cdot 1\\pi}{36} - \\sin \\frac{5\\pi}{36} cos 4 9 π ​ + cos 4 5 π ​ + sin 36 3 ⋅ 1 π ​ − sin 36 5 π ​ এর মান নির্ণয় কর।",
+          "explanation": "প্রদত্ত রাশি = cos ⁡ 9 π 4 + cos ⁡ 5 π 4 + sin ⁡ 31 π 36 − sin ⁡ 5 π 36 = \\cos \\frac{9\\pi}{4} + \\cos \\frac{5\\pi}{4} + \\sin \\frac{31\\pi}{36} - \\sin \\frac{5\\pi}{36} = cos 4 9 π ​ + cos 4 5 π ​ + sin 36 31 π ​ − sin 36 5 π ​ = cos ⁡ ( 2 π + π 4 ) + cos ⁡ ( π + π 4 ) + sin ⁡ ( π − 5 π 36 ) − sin ⁡ 5 π 36 = \\cos \\left(2\\pi + \\frac{\\pi}{4}\\right) + \\cos \\left(\\pi + \\frac{\\pi}{4}\\right) + \\sin \\left(\\pi - \\frac{5\\pi}{36}\\right) - \\sin \\frac{5\\pi}{36} = cos ( 2 π + 4 π ​ ) + cos ( π + 4 π ​ ) + sin ( π − 36 5 π ​ ) − sin 36 5 π ​ = cos ⁡ π 4 − cos ⁡ π 4 + sin ⁡ 5 π 36 − sin ⁡ 5 π 36 = 0  (Ans.) = \\cos \\frac{\\pi}{4} - \\cos \\frac{\\pi}{4} + \\sin \\frac{5\\pi}{36} - \\sin \\frac{5\\pi}{36} = 0 \\text{ (Ans.)} = cos 4 π ​ − cos 4 π ​ + sin 36 5 π ​ − sin 36 5 π ​ = 0  (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "P = 7 13 \\frac{7}{13} 13 7 ​ হলে, (sinA + cosA) এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, sin ⁡ A − cos ⁡ A = P \\sin A - \\cos A = P sin A − cos A = P প্রশ্নমতে, P = 7 13 P = \\frac{7}{13} P = 13 7 ​ বা, sin ⁡ A − cos ⁡ A = 7 13 \\sin A - \\cos A = \\frac{7}{13} sin A − cos A = 13 7 ​ বা, ( sin ⁡ A − cos ⁡ A ) 2 = 49 169 (\\sin A - \\cos A)^2 = \\frac{49}{169} ( sin A − cos A ) 2 = 169 49 ​ [বর্গ করে] বা, sin ⁡ 2 A + cos ⁡ 2 A − 2 sin ⁡ A cos ⁡ A = 49 169 \\sin^2 A + \\cos^2 A - 2\\sin A\\cos A = \\frac{49}{169} sin 2 A + cos 2 A − 2 sin A cos A = 169 49 ​ বা, 1 − 2 sin ⁡ A cos ⁡ A = 49 169 ∴ 2 sin ⁡ A cos ⁡ A = 1 − 49 169 = 120 169 1 - 2\\sin A\\cos A = \\frac{49}{169} \\therefore 2\\sin A\\cos A = 1 - \\frac{49}{169} = \\frac{120}{169} 1 − 2 sin A cos A = 169 49 ​ ∴ 2 sin A cos A = 1 − 169 49 ​ = 169 120 ​ এখন, ( sin ⁡ A + cos ⁡ A ) 2 = sin ⁡ 2 A + cos ⁡ 2 A + 2 sin ⁡ A cos ⁡ A (\\sin A + \\cos A)^2 = \\sin^2 A + \\cos^2 A + 2\\sin A \\cos A ( sin A + cos A ) 2 = sin 2 A + cos 2 A + 2 sin A cos A = 1 + 120 169 = 1 + \\frac{120}{169} = 1 + 169 120 ​ [মান বসিয়ে] = 169 + 120 169 = 289 169 = \\frac{169+120}{169} = \\frac{289}{169} = 169 169 + 120 ​ = 169 289 ​ বা, ( sin ⁡ A + cos ⁡ A ) 2 = 289 169 (\\sin A + \\cos A)^2 = \\frac{289}{169} ( sin A + cos A ) 2 = 169 289 ​ বা, sin ⁡ A + cos ⁡ A = ± 289 169 \\sin A + \\cos A = \\pm \\sqrt{\\frac{289}{169}} sin A + cos A = ± 169 289 ​ ​ ∴ sin ⁡ A + cos ⁡ A = ± 17 13 \\therefore \\sin A + \\cos A = \\pm \\frac{17}{13} ∴ sin A + cos A = ± 13 17 ​ (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "Q=০ হলে প্রমাণ কর যে, ( sinA − cosA ) 2 = ( x − y ) 2 x 2 + y 2 (\\text{sinA} - \\text{cosA})^2 = \\frac{(\\text{x} - \\text{y})^2}{\\text{x}^2 + \\text{y}^2} ( sinA − cosA ) 2 = x 2 + y 2 ( x − y ) 2 ​",
+          "explanation": "দেওয়া আছে, Q = y sin ⁡ A − x cos ⁡ A Q = y\\sin A - x\\cos A Q = y sin A − x cos A প্রশ্নমতে, Q = 0 Q = 0 Q = 0 বা, y sin ⁡ A − x cos ⁡ A = 0 y\\sin A - x\\cos A = 0 y sin A − x cos A = 0 বা, y sin ⁡ A = x cos ⁡ A y\\sin A = x\\cos A y sin A = x cos A বা, sin ⁡ A cos ⁡ A = x y ∴ tan ⁡ A = x y \\frac{\\sin A}{\\cos A} = \\frac{x}{y} \\therefore \\tan A = \\frac{x}{y} c o s A s i n A ​ = y x ​ ∴ tan A = y x ​ বামপক্ষ = ( sin ⁡ A − cos ⁡ A ) 2 = { cos ⁡ A ( sin ⁡ A cos ⁡ A − 1 ) } 2 = (\\sin A - \\cos A)^2 = \\left\\{\\cos A\\left(\\frac{\\sin A}{\\cos A} - 1\\right)\\right\\}^2 = ( sin A − cos A ) 2 = { cos A ( c o s A s i n A ​ − 1 ) } 2 = cos ⁡ 2 A ( tan ⁡ A − 1 ) 2 = ( tan ⁡ A − 1 ) 2 sec ⁡ 2 A = \\cos^2 A (\\tan A - 1)^2 = \\frac{(\\tan A - 1)^2}{\\sec^2 A} = cos 2 A ( tan A − 1 ) 2 = s e c 2 A ( t a n A − 1 ) 2 ​ = ( tan ⁡ A − 1 ) 2 1 + tan ⁡ 2 A = ( x y − 1 ) 2 1 + x 2 y 2 = ( x − y ) 2 y 2 y 2 + x 2 y 2 = \\frac{(\\tan A - 1)^2}{1 + \\tan^2 A} = \\frac{\\left(\\frac{x}{y} - 1\\right)^2}{1 + \\frac{x^2}{y^2}} = \\frac{\\frac{(x - y)^2}{y^2}}{\\frac{y^2 + x^2}{y^2}} = 1 + t a n 2 A ( t a n A − 1 ) 2 ​ = 1 + y 2 x 2 ​ ( y x ​ − 1 ) 2 ​ = y 2 y 2 + x 2 ​ y 2 ( x − y ) 2 ​ ​ = ( x − y ) 2 y 2 × y 2 x 2 + y 2 = ( x − y ) 2 x 2 + y 2 = = \\frac{(x - y)^2}{y^2} \\times \\frac{y^2}{x^2 + y^2} = \\frac{(x - y)^2}{x^2 + y^2} = = y 2 ( x − y ) 2 ​ × x 2 + y 2 y 2 ​ = x 2 + y 2 ( x − y ) 2 ​ = ডানপক্ষ ∴ ( sin ⁡ A − cos ⁡ A ) 2 = ( x − y ) 2 x 2 + y 2 \\therefore (\\sin A - \\cos A)^2 = \\frac{(x - y)^2}{x^2 + y^2} ∴ ( sin A − cos A ) 2 = x 2 + y 2 ( x − y ) 2 ​ (প্রমাণিত)"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "(i) একটি ঝুড়িতে- 10টি লাল, 12টি সাদা ও ৪টি কালো মার্বেল আছে। (ii) কোনো একজন লোকের সিলেট হতে ঢাকা ট্রেনে যাওয়ার সম্ভাবনা 3 7 \\frac{3}{7} 7 3 ​ এবং ঢাকা হতে রংপুর বাসে যাওয়ার সম্ভাবনা 4 7 \\frac{4}{7} 7 4 ​ ।",
+      "tag": "PCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি নিরপেক্ষ ছক্কা ও একটি মুদ্রা একত্রে নিক্ষেপ করা হলো নমুনাক্ষেত্রটি লেখ। ছক্কায় 5 এবং মুদ্রায় T আসার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "একটি নিরপেক্ষ ছক্কা ও একটি মুদ্রা একত্রে একবার নিক্ষেপের নমুনাক্ষেত্র, S = {1H, 1T, 2H, 2T, 3H, 3T, 4H, 4T, 5H, 5T, 6H, 6T} ∴ \\therefore ∴ মোট নমুনাবিন্দু = 12টি ছক্কায় 5 ও মুদ্রায় T আসার অনুকূল নমুনাক্ষেত্র = {5T} ∴ \\therefore ∴ অনুকূল নমুনা বিন্দুর সংখ্যা = 1 ∴ \\therefore ∴ ছক্কায় 5 এবং মুদ্রায় T আসার সম্ভাবনা = 1 12 \\frac{1}{12} 12 1 ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "প্রতিস্থাপন না করে একটি করে পর পর চারটি মার্বেল তুলে নেয়া হলে, সবগুলো মার্বেল কালো হওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "সম্ভাব্য ঘটনাটির Probability tree অঙ্কন কর। Probability Tree ব্যবহার করে লোকটিরসিলেট থেকে ঢাকা ট্রেনে নয় কিন্তু রংপুর বাসে যাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

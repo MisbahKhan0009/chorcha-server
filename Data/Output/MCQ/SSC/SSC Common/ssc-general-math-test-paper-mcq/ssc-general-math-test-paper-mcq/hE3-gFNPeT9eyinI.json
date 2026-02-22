@@ -1,0 +1,898 @@
+{
+  "read_id": "hE3-gFNPeT9eyinI",
+  "title": "ক্যান্ট. পাবলিক স্কুল ও কলেজ, রংপুর ২০২৪",
+  "count": 27,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JB 25,DB 24,DB 20,DIN.B 17,CTG.B 17,PCC 24,MCPSC 24,RCPC 24",
+      "question": "0.2 4 ˙ 0.2 \\dot{4} 0.2 4 ˙ এর সাধারণ ভগ্নাংশ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8 33 \\frac{8}{33} 33 8 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "11 45 \\frac{11}{45} 45 11 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 15 \\frac{4}{15} 15 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8 3 \\frac{8}{3} 3 8 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8 33 \\frac{8}{33} 33 8 ​",
+      "option_b": "11 45 \\frac{11}{45} 45 11 ​",
+      "option_c": "4 15 \\frac{4}{15} 15 4 ​",
+      "option_d": "8 3 \\frac{8}{3} 3 8 ​",
+      "correct": "খ",
+      "explanation": "প্রদত্ত দশমিক সংখ্যা হল 0.2 4 ˙ 0.2 \\dot{4} 0.2 4 ˙ , যা লিখতে গেলে 0.244444 … 0.244444\\ldots 0.244444 … । এটি একটি পুনরাবৃত্ত দশমিক সংখ্যা যার পুনরাবৃত্ত অংশ হল 4। এখন এটা সাধারণ ভগ্নাংশে প্রকাশ করতে আমরা নিচের মতো করে সমাধান করতে পারি: ধরি, x = 0.244444 … x = 0.244444\\ldots x = 0.244444 … যেহেতু দশমিকের পর 1 টি সংখ্যার পরে পুনরাবৃত্তি হচ্ছে, আমরা 10 দ্বারা গুণ করব: 10 x = 2.44444 … 10x = 2.44444\\ldots 10 x = 2.44444 … ১০ দিয়ে গুণ করার ফলে দশমিক বিন্দু এক স্থানে ডানে সরেছে। এখন, ১০ দিয়ে আবার গুণ করলে পুনরাবৃত্ত অংশ 4 সংখ্যাটি পূর্ণসংখ্যা হয়ে যাবে: 100 x = 24.44444 … 100x = 24.44444\\ldots 100 x = 24.44444 … এখন এই দুটি সমীকরণ থেকে ( 100 x − 10 x ) (100x - 10x) ( 100 x − 10 x ) পাই: 90 x = 24.44444 … − 2.44444 … 90x = 24.44444\\ldots - 2.44444\\ldots 90 x = 24.44444 … − 2.44444 … 90 x = 22 90x = 22 90 x = 22 এখন আমরা পাই, x = 22 90 = 11 45 x = \\frac{22}{90} = \\frac{11}{45} x = 90 22 ​ = 45 11 ​ অতএব, 0.2 4 ˙ 0.2 \\dot{4} 0.2 4 ˙ এর সাধারণ ভগ্নাংশ হল 11 45 \\frac{11}{45} 45 11 ​ ।"
+    },
+    {
+      "number": "2",
+      "tag": "RCPC 24",
+      "question": "A = { x ∈ R : 0 ≤ x < 5 } \\mathrm{A}=\\{\\mathrm{x} \\in \\mathrm{\\R}: 0 \\leq \\mathrm{x}<5\\} A = { x ∈ R : 0 ≤ x < 5 } হলে, P ( A ) \\mathrm{P}(\\mathrm{A}) P ( A ) এর উপাদান সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "64",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "16",
+      "option_c": "32",
+      "option_d": "64",
+      "correct": "গ",
+      "explanation": "প্রশ্নে দেওয়া আছে, A = { x ∈ R : 0 ≤ x < 5 } \\mathrm{A}=\\{\\mathrm{x} \\in \\mathrm{\\R}: 0 \\leq \\mathrm{x}<5\\} A = { x ∈ R : 0 ≤ x < 5 } । এর অর্থ হলো সেট A \\mathrm{A} A এ 0 থেকে 5 পর্যন্ত সমস্ত বাস্তব সংখ্যা অন্তর্ভুক্ত, কিন্তু 5 অন্তর্ভুক্ত নয়। P ( A ) \\mathrm{P}(\\mathrm{A}) P ( A ) এর মানে হলো সেট A \\mathrm{A} A -এর Power set এবং Power set A \\mathrm{A} A -এর সমস্ত সম্ভাব্য subset এর সেট। যদি একটি সেটে n n n টি উপাদান থাকে, তবে তার Power set এ 2 n 2^n 2 n টি উপাদান থাকবে। প্রশ্ন বিভ্রান্তিকর হতে পারে কারণ এটি বোঝায় যে A \\mathrm{A} A একটি অসীম বাস্তব সংখ্যার সেট। কিন্তু গণিতের প্রশ্নে Power set সাধারণত ডিসক্রিট set (যথা সেটের উপাদান সংখ্যা নির্দিষ্ট সংখ্যা, গণনা করা যাবে এমন) জন্য রয়েছে। এখানে প্রশ্নটি সঠিক না হতে পারে কারণ বাস্তব সংখ্যাগুলির জন্য Power set সংজ্ঞায়িত করা যায় না। যদি ধরি A \\mathrm{A} A এ 5 টি পূর্ণসংখ্যা উপাদান রয়েছে { 0 , 1 , 2 , 3 , 4 } \\{0, 1, 2, 3, 4\\} { 0 , 1 , 2 , 3 , 4 } , তাহলে Power set এর উপাদান সংখ্যা হবে 2 5 = 32 2^5 = 32 2 5 = 32 । তাই, যথেষ্ট তথ্য অভাবের কারনে, এখানে উপযাগী সমাধান সঠিক নিরুপণ করা কঠিন। কিন্তু যদি A \\mathrm{A} A এর উপাদান সংখ্যা 5 ধরা হয় তাহলে উত্তর হবে: 32 ।"
+    },
+    {
+      "number": "3",
+      "tag": "BB 24,DIN.B 22,RCPC 24",
+      "question": "f ( x ) = x 2 + 1 f(x)=\\frac{x}{2}+1 f ( x ) = 2 x ​ + 1 হলে, f ( 1 x ) = f\\left(\\frac{1}{x}\\right)= f ( x 1 ​ ) = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 x + 1 2 x+1 2 x + 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 x + 2 \\frac{1}{\\mathrm{x}}+2 x 1 ​ + 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 x + 1 \\frac{1}{2 x}+1 2 x 1 ​ + 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2 x + 1 \\frac{2}{x}+1 x 2 ​ + 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 x + 1 2 x+1 2 x + 1",
+      "option_b": "1 x + 2 \\frac{1}{\\mathrm{x}}+2 x 1 ​ + 2",
+      "option_c": "1 2 x + 1 \\frac{1}{2 x}+1 2 x 1 ​ + 1",
+      "option_d": "2 x + 1 \\frac{2}{x}+1 x 2 ​ + 1",
+      "correct": "গ",
+      "explanation": "f ( 1 x ) = 1 x 2 + 1 = 1 2 x + 1 f\\left(\\frac{1}{x}\\right)=\\frac{\\frac{1}{x}}{2}+1=\\frac{1}{2 x}+1 f ( x 1 ​ ) = 2 x 1 ​ ​ + 1 = 2 x 1 ​ + 1 এখানে, f ( x ) = x 2 + 1 ∴ f ( 1 x ) = 1 x 2 + 7 = 1 x 2 1 + 1  এখানে 1 / x আছে  লবে এবং হরে কেবল  2  আছে = 1 x × 1 2 + 1 = 1 2 x + 1 \\begin{array}{l} f(x)=\\frac{x}{2}+1 \\\\ \\therefore f\\left(\\frac{1}{x}\\right)=\\frac{\\frac{1}{x}}{2}+7 \\\\ =\\frac{\\frac{1}{x}}{\\frac{2}{1}}+1 \\\\ \\begin{array}{l} \\text { এখানে} 1 / x \\text {আছে} \\\\ \\text { লবে এবং হরে কেবল } \\end{array} \\\\ 2 \\text { আছে} \\\\ =\\frac{1}{x} \\times \\frac{1}{2}+1 \\\\ =\\frac{1}{2 x}+1 \\end{array} f ( x ) = 2 x ​ + 1 ∴ f ( x 1 ​ ) = 2 x 1 ​ ​ + 7 = 1 2 ​ x 1 ​ ​ + 1   এখানে 1/ x আছে   লবে   এবং   হরে   কেবল   ​ 2   আছে = x 1 ​ × 2 1 ​ + 1 = 2 x 1 ​ + 1 ​"
+    },
+    {
+      "number": "5",
+      "tag": "CB 22,DB 20,RCPC 24",
+      "question": "x 3 − 2 x − 4 x^{3}-2 x-4 x 3 − 2 x − 4 রাশির উৎপাদক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( x − 4 ) (x-4) ( x − 4 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( x − 2 ) (x-2) ( x − 2 )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( x + 2 ) (x+2) ( x + 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( x + 4 ) (x+4) ( x + 4 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( x − 4 ) (x-4) ( x − 4 )",
+      "option_b": "( x − 2 ) (x-2) ( x − 2 )",
+      "option_c": "( x + 2 ) (x+2) ( x + 2 )",
+      "option_d": "( x + 4 ) (x+4) ( x + 4 )",
+      "correct": "খ",
+      "explanation": "x 3 − 2 x − 4 x^{3}-2 x-4 x 3 − 2 x − 4 রাশির উৎপাদক নির্ণয় করতে আমরা প্রথমে সম্ভাব্য মূলগুলি পরীক্ষা করব। সশ্তাব্য মূলগুলি হলো ধ্রুবক পদের উৎপাদকগুলি, অর্থাৎ ± 1 , ± 2 , ± 4 \\pm 1, \\pm 2, \\pm 4 ± 1 , ± 2 , ± 4 。 সম্ভাব্য মূল পরীক্ষা করা x = 2 x=2 x = 2 বসিয়ে পরীক্ষা করা যাক: 2 3 − 2 × 2 − 4 = 8 − 4 − 4 = 0 2^{3}-2 \\times 2-4=8-4-4=0 2 3 − 2 × 2 − 4 = 8 − 4 − 4 = 0 সুতরাং, x = 2 x=2 x = 2 হলো রাশিটির একটি মূল। উৎপাদক নির্ণয় যেহেতু x = 2 x=2 x = 2 হলো একটি মূল, সুতরাং ( x − 2 ) (x-2) ( x − 2 ) হলো রাশিটির একটি উৎপাদক। এখন, x 3 − 2 x − 4 x^{3}-2 x-4 x 3 − 2 x − 4 কে ( x − (x- ( x − 2) দ্বারা ভাগ করে অন্যান্য উৎপাদক নির্ণয় করা যাক। ভাগ করার পদ্ধাতি: x 3 − 2 x − 4 = ( x − 2 ) ( x 2 + 2 x + 2 ) x^{3}-2 x-4=(x-2)\\left(x^{2}+2 x+2\\right) x 3 − 2 x − 4 = ( x − 2 ) ( x 2 + 2 x + 2 ) এখন, x 2 + 2 x + 2 x^{2}+2 x+2 x 2 + 2 x + 2 এর উৎপাদক নির্ণয় করা যাক। এই দ্বিঘাত সমীকরণের বৈষম্য (discriminant) হলো: Δ = 2 2 − 4 × 1 × 2 = 4 − 8 = − 4 \\Delta=2^{2}-4 \\times 1 \\times 2=4-8=-4 Δ = 2 2 − 4 × 1 × 2 = 4 − 8 = − 4 যেহেতু বৈষম্য ঋণাত্মক, সুতরাং x 2 + 2 x + 2 x^{2}+2 x+2 x 2 + 2 x + 2 এর বাস্তব উৎপাদক নেই। সুতরাং, x 3 − 2 x − 4 x^{3}-2 x-4 x 3 − 2 x − 4 রাশির উৎপাদক হলো: ( x − 2 ) ( x 2 + 2 x + 2 ) (x-2)\\left(x^{2}+2 x+2\\right) ( x − 2 ) ( x 2 + 2 x + 2 )"
+    },
+    {
+      "number": "6",
+      "tag": "MB 25,MAD 25,SB 23,CB 22,RB 22,DIN.B 20,JB 20,All.B 18,DIN.B 17,PCC 24,SCC 24,BCC 24,RUMC 24,ACPS 24,RGLHS 24,RCPC 24",
+      "question": "i. log ⁡ 9 3 = 1 2 \\log _{9} 3=\\frac{1}{2} lo g 9 ​ 3 = 2 1 ​ ii: 4 2 x + 1 = 2 4^{2 x+1}=2 4 2 x + 1 = 2 হলে, x = − 1 4 x=-\\frac{1}{4} x = − 4 1 ​ iii. ( 3 − 1 + 6 − 1 ) \\left(3^{-1}+6^{-1}\\right) ( 3 − 1 + 6 − 1 ) এর মান 1 2 \\frac{1}{2} 2 1 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "প্রদত্ত বিবৃতিগুলি পরীক্ষা করে দেখা যাক: i. log ⁡ 9 3 = 1 2 \\log _{9} 3=\\frac{1}{2} lo g 9 ​ 3 = 2 1 ​ log ⁡ 9 3 = 1 2 ⟹ 9 1 2 = 3 9 1 2 = 9 = 3 \\begin{array}{c} \\log _{9} 3=\\frac{1}{2} \\Longrightarrow 9^{\\frac{1}{2}}=3 \\\\ 9^{\\frac{1}{2}}=\\sqrt{9}=3 \\end{array} lo g 9 ​ 3 = 2 1 ​ ⟹ 9 2 1 ​ = 3 9 2 1 ​ = 9 ​ = 3 ​ অতএব, বিবৃতিতি সঠিক। ii. 4 2 x + 1 = 2 4^{2 x+1}=2 4 2 x + 1 = 2 इलে, x = − 1 4 x=-\\frac{1}{4} x = − 4 1 ​ 4 2 x + 1 = 2 ⟹ ( 2 2 ) 2 x + 1 = 2 1 2 2 ( 2 x + 1 ) = 2 1 ⟹ 2 4 x + 2 = 2 1 4 x + 2 = 1 ⟹ 4 x = − 1 ⟹ x = − 1 4 \\begin{array}{c} 4^{2 x+1}=2 \\Longrightarrow\\left(2^{2}\\right)^{2 x+1}=2^{1} \\\\ 2^{2(2 x+1)}=2^{1} \\Longrightarrow 2^{4 x+2}=2^{1} \\\\ 4 x+2=1 \\Longrightarrow 4 x=-1 \\Longrightarrow x=-\\frac{1}{4} \\end{array} 4 2 x + 1 = 2 ⟹ ( 2 2 ) 2 x + 1 = 2 1 2 2 ( 2 x + 1 ) = 2 1 ⟹ 2 4 x + 2 = 2 1 4 x + 2 = 1 ⟹ 4 x = − 1 ⟹ x = − 4 1 ​ ​ অতএব, বিবৃতিটি সঠিক। iii. ( 3 − 1 + 6 − 1 ) \\left(3^{-1}+6^{-1}\\right) ( 3 − 1 + 6 − 1 ) এর মান 1 2 \\frac{1}{2} 2 1 ​ 3 − 1 = 1 3 , 6 − 1 = 1 6 1 3 + 1 6 = 2 6 + 1 6 = 3 6 = 1 2 \\begin{aligned} 3^{-1} & =\\frac{1}{3}, \\quad 6^{-1}=\\frac{1}{6} \\\\ \\frac{1}{3}+\\frac{1}{6} & =\\frac{2}{6}+\\frac{1}{6}=\\frac{3}{6}=\\frac{1}{2} \\end{aligned} 3 − 1 3 1 ​ + 6 1 ​ ​ = 3 1 ​ , 6 − 1 = 6 1 ​ = 6 2 ​ + 6 1 ​ = 6 3 ​ = 2 1 ​ ​ অতএব, বিবৃতিটি সঠিক। সরলীকরণ: i, ii এবং iii সঠিক"
+    },
+    {
+      "number": "7",
+      "tag": "RCPC 24",
+      "question": "320.42 ও 0.0931 এর লগের পূর্ণক এর সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5",
+      "option_b": "3",
+      "option_c": "1",
+      "option_d": "0",
+      "correct": "ঘ",
+      "explanation": "320.42 = 3.2042 × 10 2 ; ∴  পূর্ণক  = 2 0.0931 = 9.31 × 10 − 2 ; ∴  পূর্ণক  = − 2 ∴  পূর্ণক দ্বয়ের সমষ্টি  = 2 − 2 = 0 \\begin{array}{l}\\quad 320.42=3.2042 \\times 10^{2} ; \\therefore \\text { পূর্ণক }=2 \\\\ 0.0931=9.31 \\times 10^{-2} ; \\therefore \\text { পূর্ণক }=-2 \\\\ \\therefore \\text { পূর্ণক দ্বয়ের সমষ্টি }=2-2=0\\end{array} 320.42 = 3.2042 × 1 0 2 ; ∴   পূর্ণক   = 2 0.0931 = 9.31 × 1 0 − 2 ; ∴   পূর্ণক   = − 2 ∴   পূর্ণক   দ্বয়ের   সমষ্টি   = 2 − 2 = 0 ​"
+    },
+    {
+      "number": "8",
+      "tag": "RCPC 24",
+      "question": "( x + 3 ) 2 = x 2 + b x + c (x+3)^{2}=x^{2}+b x+c ( x + 3 ) 2 = x 2 + b x + c সমীকরণে b b b ও c c c এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2,9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6,9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3,6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9,6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2,9",
+      "option_b": "6,9",
+      "option_c": "3,6",
+      "option_d": "9,6",
+      "correct": "ঘ",
+      "explanation": "( x + 3 ) 2 = x 2 + b x + c ⇒ x 2 + 6 x + 9 = x 2 + b x + c \\begin{array}{l} (x+3)^{2}=x^{2}+b x+c \\\\ \\Rightarrow x^{2}+6 x+9=x^{2}+b x+c \\end{array} ( x + 3 ) 2 = x 2 + b x + c ⇒ x 2 + 6 x + 9 = x 2 + b x + c ​ সহগ সমীকৃত করে পাই, b = 6 , c = 9 b=6, c=9 b = 6 , c = 9"
+    },
+    {
+      "number": "9",
+      "tag": "RCPC 24",
+      "question": "সমদ্বিবাহু ত্রিভুজের ভূমি সংলগ্ন কোণদ্বয়ের প্রত্যেকটি শীর্ষকোণের দ্বিগুণ হলে শীর্ষ কোণের পরিমাণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "35 ∘ 35^{\\circ} 3 5 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "36 ∘ 36^{\\circ} 3 6 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "38 ∘ 38^{\\circ} 3 8 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "35 ∘ 35^{\\circ} 3 5 ∘",
+      "option_c": "36 ∘ 36^{\\circ} 3 6 ∘",
+      "option_d": "38 ∘ 38^{\\circ} 3 8 ∘",
+      "correct": "খ",
+      "explanation": "সমদ্বিবাহু ত্রিভুজের ভূমি সংলগ্ন কোন দয়ের মান সমান হয়। অর্থাৎ শীর্ষ কোণ x হলে ভূমি সংলগ্ন কোন দ্বয়ের প্রত্যেকটির মান হবে 2x প্রশ্নমতে, x+2x+2x=180° 5x=180° x=36° শীর্ষ কোণের মান হবে = 36°"
+    },
+    {
+      "number": "10",
+      "tag": "RCPC 24",
+      "question": "একটি সরলকোণের সমদ্বিখণ্ডককে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ভূমি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "লম্ব",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উচ্চতা",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ভূমি",
+      "option_b": "লম্ব",
+      "option_c": "উচ্চতা",
+      "option_d": "সূক্ষ্মকোণ",
+      "correct": "গ",
+      "explanation": "একটি সরলরেখার সমদ্বিখণ্ডক কে ওই সরলরেখার লম্ব বলে।"
+    },
+    {
+      "number": "11",
+      "tag": "CB 22,JB 20,RCPC 24",
+      "question": "স্থূলকোণী ত্রিভুজের স্থূলকোণ ছাড়া বাকি কোণ দুইটি কত হলে ত্রিভুজ অঙ্কন সম্ভব?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘ ও 60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘ ও 45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "40 ∘ 40^{\\circ} 4 0 ∘ ও 50 ∘ 50^{\\circ} 5 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "50 ∘ 50^{\\circ} 5 0 ∘ ও 30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘ ও 60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_b": "45 ∘ 45^{\\circ} 4 5 ∘ ও 45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_c": "40 ∘ 40^{\\circ} 4 0 ∘ ও 50 ∘ 50^{\\circ} 5 0 ∘",
+      "option_d": "50 ∘ 50^{\\circ} 5 0 ∘ ও 30 ∘ 30^{\\circ} 3 0 ∘",
+      "correct": "খ",
+      "explanation": "স্থূলকোণী ত্রিভুজের স্থূলকোণ ব্যতীত অপুর দুই কোণের সমষ্টি এক সমকোণ হতে ক্ষুদ্র হলে স্থূলকোণী ত্রিভুজটা অংকন করা সম্ভব। এখানে,30+50<90 সঠিক উত্তর (ঘ)"
+    },
+    {
+      "number": "12",
+      "tag": "MB 23,BB 22,MB 20,All.B 18,RCC 24,JGCC 24,ISCM 24,SJHSS 24,RCPC 24",
+      "question": "ত্রিভুজের ক্ষেত্রে- i. যেকোনো দুই বাহুর মধ্যকার পার্থক্য এর তৃতীয় বাহু অপেক্ষা ক্ষুদ্রতর ii. যেকোনো দুই বাহুর মধ্যবিন্দুর সংযোগ রেখাংশ তৃতীয় বাহুর সমান্তরাল iii. সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয় পরস্পর সম্পূরক কোণ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i)ত্রিভুজের যেকোনো দুই বাহুর দৈর্ঘ্যের অন্তর এর তৃতীয় বাহুর দৈর্ঘ্য অপেক্ষা ক্ষুদ্রতর [অনুসিদ্ধান্ত ৫] ii)ত্রিভুজের যেকোনো দুই বাহুর মধ্যবিন্দুর সংযোজক রেখাংশ তৃতীয় বাহুর সমান্তরাল [উপপাদ্য ১৫] iii)সমকোণী ত্রিভুজের সূক্ষ্মকোণ দ্বয় পরস্পর পূরককোন হয় সঠিক উত্তর i,ii"
+    },
+    {
+      "number": "13",
+      "tag": "DB 22,CB 22,RB 20,RCPC 24",
+      "question": "দুইটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করে। এদের একটির ব্যাস 10 সে.মি. এবং অপরটির ব্যাসার্ধ 4 সে.মি.। বৃত্তদ্বয়ের কেন্দ্রের মধ্যবর্তী দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "14 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 সে.মি.",
+      "option_b": "6 সে.মি.",
+      "option_c": "9 সে.মি.",
+      "option_d": "14 সে.মি.",
+      "correct": "ক",
+      "explanation": "আমরা জানি, দুইটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে, কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব বৃত্তদ্বয়ের ব্যাসার্ধের সমষ্টির সমান । ∴ \\therefore ∴ বৃত্তদ্বয়ের কেন্দ্রের মধ্যবর্তী দূরত্ব = ( 10 2 + 4 ) =\\left(\\frac{10}{2}+4\\right) = ( 2 10 ​ + 4 ) সে. মি: = 9 =9 = 9 সে. মি."
+    },
+    {
+      "number": "15",
+      "tag": "DC 25,RB 20,BB 20,SB 17,RCPC 24",
+      "question": "একটি দ্রব্য 25 2 % \\frac{25}{2} \\% 2 25 ​ % ক্ষতিতে বিক্রয় করলে বিক্রয়মূল্য ও ক্রয়মূল্যের অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7 : 8 7: 8 7 : 8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8 : 9 8: 9 8 : 9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9 : 8 9: 8 9 : 8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8 : 7 8: 7 8 : 7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7 : 8 7: 8 7 : 8",
+      "option_b": "8 : 9 8: 9 8 : 9",
+      "option_c": "9 : 8 9: 8 9 : 8",
+      "option_d": "8 : 7 8: 7 8 : 7",
+      "correct": "গ",
+      "explanation": "ধরি, ক্রয়মূল্য 100 টাকা ∴  বিক্রয়মূল্য = ( 100 − 25 2 ) = 175 2  টাকা ∴ বিক্রয়মূল্য: ক্রয়মূল্য  = 175 2 : 100 = 175 200 = 7 8 = 7 : 8 \\begin{array}{l} \\therefore \\text { বিক্রয়মূল্য}=\\left(100-\\frac{25}{2}\\right)=\\frac{175}{2} \\text { টাকা} \\\\ \\begin{aligned} \\therefore \\text {বিক্রয়মূল্য: ক্রয়মূল্য } & =\\frac{175}{2}: 100 \\\\ & =\\frac{175}{200} \\\\ & =\\frac{7}{8}=7: 8 \\end{aligned} \\end{array} ∴   বিক্রয়মূল্য = ( 100 − 2 25 ​ ) = 2 175 ​   টাকা ∴ বিক্রয়মূল্য :  ক্রয়মূল্য   ​ = 2 175 ​ : 100 = 200 175 ​ = 8 7 ​ = 7 : 8 ​ ​"
+    },
+    {
+      "number": "16",
+      "tag": "RCPC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: θ \\theta θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "15 ∘ 15^{\\circ} 1 5 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "15 ∘ 15^{\\circ} 1 5 ∘",
+      "option_b": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_c": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_d": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "correct": "ক",
+      "explanation": "ত্রিভুজ EDG এ D G ⊥ E F ⇒ ∠ E G D = 90 ∘ DG \\perp EF \\Rightarrow \\angle EGD = 90^\\circ D G ⊥ EF ⇒ ∠ EG D = 9 0 ∘ , E D = 2 2 ED = 2\\sqrt{2} E D = 2 2 ​ , D G = 2 DG = \\sqrt{2} D G = 2 ​ . এখন, ∠ D E G = 2 θ \\angle DEG = 2\\theta ∠ D EG = 2 θ . ডানকোণী ত্রিভুজে sin ⁡ ( 2 θ ) = বিপরীত বাহু অতিভুজ = D G E D = 2 2 2 = 1 2 . \\sin(2\\theta) = \\frac{\\text{বিপরীত বাহু}}{\\text{অতিভুজ}} = \\frac{DG}{ED} = \\frac{\\sqrt{2}}{2\\sqrt{2}} = \\frac{1}{2}. sin ( 2 θ ) = অতিভুজ বিপরীত   বাহু ​ = E D D G ​ = 2 2 ​ 2 ​ ​ = 2 1 ​ . অতএব, 2 θ = 30 ∘ ⇒ θ = 15 ∘ . 2\\theta = 30^\\circ \\Rightarrow \\theta = 15^\\circ. 2 θ = 3 0 ∘ ⇒ θ = 1 5 ∘ ."
+    },
+    {
+      "number": "17",
+      "tag": "DB 22,RCPC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: Δ \\Delta Δ DGF-এ i. F G = 6 \\mathrm{FG}=\\sqrt{6} FG = 6 ​ ii. cos ⁡ F = 3 2 \\cos \\mathrm{F}=\\frac{\\sqrt{3}}{2} cos F = 2 3 ​ ​ iii. sin ⁡ ( ∠ G D F + ∠ D F G ) = 1 \\sin (\\angle \\mathrm{GDF}+\\angle \\mathrm{DFG})=1 sin ( ∠ GDF + ∠ DFG ) = 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i , ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i , ii ও iii",
+      "correct": "ক",
+      "explanation": "(i)  △ D G F  এ  tan ⁡ 60 ∘ = G F D G ⇒ 3 = F G 2 ∴ F G = 6 \\begin{array}{l} \\text { (i) } \\triangle D G F \\text { এ } \\\\ \\tan 60^{\\circ}=\\frac{G F}{D G} \\\\ \\Rightarrow \\sqrt{3}=\\frac{F G}{\\sqrt{2}} \\\\ \\therefore F G=\\sqrt{6} \\end{array}  (i)  △ D GF   এ   tan 6 0 ∘ = D G GF ​ ⇒ 3 ​ = 2 ​ FG ​ ∴ FG = 6 ​ ​ (ii) △ D G F \\triangle D G F △ D GF এ cos ⁡ F = cos ⁡ 30 ∘ [ F = 30 ∘ ] = 3 2 \\begin{array}{l} \\cos F=\\cos 30^{\\circ}\\left[F=30^{\\circ}\\right] \\\\ =\\frac{\\sqrt{3}}{2} \\end{array} cos F = cos 3 0 ∘ [ F = 3 0 ∘ ] = 2 3 ​ ​ ​  (iii)  sin ⁡ ( ∠ G D F + ∠ D F G ) = sin ⁡ 90 ∘ [ ∠ G D F + ∠ D F G = 90 ∘ ] = 1 \\begin{array}{l} \\text { (iii) } \\sin (\\angle G D F+\\angle D F G) \\\\ =\\sin 90^{\\circ}\\left[\\angle G D F+\\angle D F G=90^{\\circ}\\right] \\\\ =1 \\end{array}  (iii)  sin ( ∠ G D F + ∠ D FG ) = sin 9 0 ∘ [ ∠ G D F + ∠ D FG = 9 0 ∘ ] = 1 ​"
+    },
+    {
+      "number": "18",
+      "tag": "RCPC 24",
+      "question": "একটি লাঠির ছায়া এর দৈর্ঘ্যের কতগুণ হলে, উন্নতি কোণ 60 ∘ 60^{\\circ} 6 0 ∘ হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_b": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+      "option_c": "2 \\sqrt{2} 2 ​",
+      "option_d": "3 \\sqrt{3} 3 ​",
+      "correct": "ক",
+      "explanation": "সমাধান: ধরি, লাঠির দৈর্ঘ্য h h h এবং ছায়ার দৈর্ঘ্য s s s । উন্নতি কোণ θ = 60 ∘ \\theta = 60^{\\circ} θ = 6 0 ∘ । আমরা জানি, tan ⁡ θ = লম্ব ভূমি \\tan \\theta = \\frac{\\text{লম্ব}}{\\text{ভূমি}} tan θ = ভূমি লম্ব ​ । এখানে, লম্ব হলো লাঠির দৈর্ঘ্য h h h এবং ভূমি হলো ছায়ার দৈর্ঘ্য s s s । সুতরাং, tan ⁡ 60 ∘ = h s \\tan 60^{\\circ} = \\frac{h}{s} tan 6 0 ∘ = s h ​ । আমরা জানি tan ⁡ 60 ∘ = 3 \\tan 60^{\\circ} = \\sqrt{3} tan 6 0 ∘ = 3 ​ । অতএব, 3 = h s \\sqrt{3} = \\frac{h}{s} 3 ​ = s h ​ । প্রশ্ন অনুযায়ী, ছায়ার দৈর্ঘ্য লাঠির দৈর্ঘ্যের কতগুণ হবে, অর্থাৎ আমরা s h \\frac{s}{h} h s ​ এর মান নির্ণয় করব। 3 = h s \\sqrt{3} = \\frac{h}{s} 3 ​ = s h ​ সমীকরণটিকে উল্টালে পাই: 1 3 = s h \\frac{1}{\\sqrt{3}} = \\frac{s}{h} 3 ​ 1 ​ = h s ​ । সুতরাং, লাঠির ছায়ার দৈর্ঘ্য এর দৈর্ঘ্যের 1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​ গুণ হলে, উন্নতি কোণ 60 ∘ 60^{\\circ} 6 0 ∘ হবে। সঠিক উত্তরটি হলো ক: 1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​ । The final answer is \\boxed{\\text{ক: \\( \\frac{1}{\\sqrt{3}} }}\\)"
+    },
+    {
+      "number": "19",
+      "tag": "DC 25,MB 25,RB 25,CB 25,DIN.B 25,MAD 25,DB 24,CB 24,DIN.B 24,MB 24,CTG.B 24,DB 24,BB 24,DB 23,SB 23,CB 23,RB 23,DB 22,CB 22,DIN.B 22,RB 22,DB 20,CB 20,SB 20,JB 20,BB 20,RB 19,CB 19,DIN.B 19,BB 19,All.B 18,DB 17,DIN.B 17,CB 17,CTG.B 17,JB 17,SB 17,BB 17,MCC 24,FCC 24,FGCC 24,RCC 24,PCC 24,CCC 24,RUMC 24,BCC 24,RUMC 24,GLHSD 24,BAFSC 24,ACPS 24,CSC 24,MCPSC 24,RCPC 24",
+      "question": "x + 1 x = 5  হলে  − x+\\frac{1}{x}=5 \\text { হলে }- x + x 1 ​ = 5   হলে   − i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ ii. x 3 + 1 x 3 = 110 \\mathrm{x}^{3}+\\frac{1}{\\mathrm{x}^{3}}=110 x 3 + x 3 1 ​ = 110 iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত সমীকরণ: x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 ধাপ 1: x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ এর মান নির্ণয় প্রথমে x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ গর মান বের করব। আমরা জানি: ( x + 1 x ) 2 = x 2 + 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 + 2 + 1 x 2 \\left(x+\\frac{1}{x}\\right)^{2}=x^{2}+2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}+2+\\frac{1}{x^{2}} ( x + x 1 ​ ) 2 = x 2 + 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 + 2 + x 2 1 ​ অতএব: x 2 + 1 x 2 = ( x + 1 x ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 x^{2}+\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)^{2}-2=5^{2}-2=25-2=23 x 2 + x 2 1 ​ = ( x + x 1 ​ ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 ধাপ 2: x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান नির্ণয় x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান নির্ণয় করতে হলে: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right) x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) এখানে x − 1 x x-\\frac{1}{x} x − x 1 ​ এর মান নির্ণয় করতে হবে। আমরা জানি: ( x − 1 x ) 2 = x 2 − 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 − 2 + 1 x 2 \\left(x-\\frac{1}{x}\\right)^{2}=x^{2}-2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}-2+\\frac{1}{x^{2}} ( x − x 1 ​ ) 2 = x 2 − 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 − 2 + x 2 1 ​ অতএব: ( x − 1 x ) 2 = x 2 + 1 x 2 − 2 = 23 − 2 = 21 x − 1 x = 21 \\begin{aligned} \\left(x-\\frac{1}{x}\\right)^{2}= & x^{2}+\\frac{1}{x^{2}}-2=23-2=21 \\\\ & x-\\frac{1}{x}=\\sqrt{21} \\end{aligned} ( x − x 1 ​ ) 2 = ​ x 2 + x 2 1 ​ − 2 = 23 − 2 = 21 x − x 1 ​ = 21 ​ ​ অতএব: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) = 5 × 21 = 5 21 x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right)=5 \\times \\sqrt{21}=5 \\sqrt{21} x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) = 5 × 21 ​ = 5 21 ​ x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় করতে হলে: x 3 + 1 x 3 = ( x + 1 x ) 3 − 3 ⋅ x ⋅ 1 x ( x + 1 x ) x^{3}+\\frac{1}{x^{3}}=\\left(x+\\frac{1}{x}\\right)^{3}-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right) x 3 + x 3 1 ​ = ( x + x 1 ​ ) 3 − 3 ⋅ x ⋅ x 1 ​ ( x + x 1 ​ ) অতএব: x 3 + 1 x 3 = 5 3 − 3 × 5 = 125 − 15 = 110 x^{3}+\\frac{1}{x^{3}}=5^{3}-3 \\times 5=125-15=110 x 3 + x 3 1 ​ = 5 3 − 3 × 5 = 125 − 15 = 110 x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 এর সত্যতা যাচাই প্রদত্ত সমীকরণ x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 কে x x x দ্বারা গুণ করে পাই: x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 \\begin{array}{c} x^{2}+1=5 x \\\\ x^{2}-5 x+1=0 \\end{array} x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 ​ অত,এব, x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক। উত্তর: i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ সঠিক ii. x 3 + 1 x 3 = 110 x^{3}+\\frac{1}{x^{3}}=110 x 3 + x 3 1 ​ = 110 সঠিক iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক অত,এব, i, ii, এবং iii সবগুলি সঠিক।"
+    },
+    {
+      "number": "20",
+      "tag": "RCPC 24",
+      "question": "3 x − 3 x + 3 x − 3 x + 3 x − … . . . 3 x-3 x+3 x-3 x+3 x-\\ldots . . . 3 x − 3 x + 3 x − 3 x + 3 x − … ... . ধারাটির ১২ পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "36 x 36 x 36 x",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6 x 6 x 6 x",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 x",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "36 x 36 x 36 x",
+      "option_b": "6 x 6 x 6 x",
+      "option_c": "3 x",
+      "option_d": "0",
+      "correct": "ক",
+      "explanation": "ধারাটির প্রথম কয়েকটি পদ বিশ্লেষণ করলে পাওয়া যায়: 3 x − 3 x + 3 x − 3 x + 3 x − … 3x - 3x + 3x - 3x + 3x - \\ldots 3 x − 3 x + 3 x − 3 x + 3 x − … প্রত্যেক ( 3 x ) (3x) ( 3 x ) এর পরেই ( − 3 x ) (-3x) ( − 3 x ) আছে, যা হলে যোগফল দেবার সময় দুটো পদ একে অপরকে বাতিল করবে। ধারাটি পর্যায়ক্রমে পজিটিভ ও নেগেটিভ হয়, যা একে অপরকে বাতিল করে। ১২টি পদের ক্ষেত্রে, প্রতিটি এমন একটি জোড়া হিসাবে গণনা হবে: ( 3 x − 3 x = 0 ) (3x - 3x = 0) ( 3 x − 3 x = 0 ) । সেখানে ১২টি পদের মধ্যে ৬টি জোড়া থাকবে। সুতরাং, ১২ পদের সমষ্টি হবে 0 0 0 , কারণ প্রত্যেকটি জোড়া ০ সমান।"
+    },
+    {
+      "number": "21",
+      "tag": "DB 25, DC 25,MB 24,CTG.B 20,DB 19,RCC 24,RUMC 24,BNMPC 24,MCPSC 24,RCPC 24",
+      "question": "রম্বসের প্রতিসাম্য রেখা কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 টি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 টি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 টি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 টি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 টি",
+      "option_b": "2 টি",
+      "option_c": "3 টি",
+      "option_d": "4 টি",
+      "correct": "ঘ",
+      "explanation": "এই প্রতিসাম্য রেখাগুলি হলো রম্বসের দুটি কর্ণ। প্রতিটি কর্ণই রম্বসকে দুটি অভিন্ন অংশে বিভক্ত করে।"
+    },
+    {
+      "number": "22",
+      "tag": "SB 22,RCPC 24",
+      "question": "a r + a r 3 + a r 5 + … . a r+a r^{3}+a r^{5}+\\ldots . a r + a r 3 + a r 5 + … . . ধারাটির n-তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a r n \\mathrm{{a r^{n}}} a r n",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a r n − 1 \\mathrm{a r^{n-1}} a r n − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a r 2 n − 1 \\mathrm{ar}^{2 \\mathrm{n}-1} ar 2 n − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a r 2 n − 2 \\mathrm{ar}^{2 \\mathrm{n}-2} ar 2 n − 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "a r n \\mathrm{{a r^{n}}} a r n",
+      "option_b": "a r n − 1 \\mathrm{a r^{n-1}} a r n − 1",
+      "option_c": "a r 2 n − 1 \\mathrm{ar}^{2 \\mathrm{n}-1} ar 2 n − 1",
+      "option_d": "a r 2 n − 2 \\mathrm{ar}^{2 \\mathrm{n}-2} ar 2 n − 2",
+      "correct": "ঘ",
+      "explanation": "প্রথম পদ, a = a r a=a r a = a r সাধারণ অনুপাত, n = a r 3 a r n=\\frac{a r^{3}}{a r} n = a r a r 3 ​ = r 2 =r^{2} = r 2 ∴ n  তম পদ  = a r n − 1 = a × ( r 2 ) n − 1 = a × r 2 n − 2 = a r 2 n − 2 \\begin{array}{l} \\therefore n \\text { তম পদ }=a r^{n-1} \\\\ =a \\times\\left(r^{2}\\right)^{n-1} \\\\ =a \\times r^{2 n-2} \\\\ =a r^{2 n-2} \\end{array} ∴ n   তম   পদ   = a r n − 1 = a × ( r 2 ) n − 1 = a × r 2 n − 2 = a r 2 n − 2 ​"
+    },
+    {
+      "number": "23",
+      "tag": "RCPC 24",
+      "question": "দুইটি সংখ্যার অনুপাত 2 : 5 2:5 2 : 5 এবং এদের অন্তর 36 হলে, ক্ষুদ্রতম সংখ্যাটি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "36",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12",
+      "option_b": "24",
+      "option_c": "36",
+      "option_d": "60",
+      "correct": "খ",
+      "explanation": "ধরি, সংখ্যা দুটি 2 × 35 x 2 \\times 35 x 2 × 35 x প্রশ্নমতে , 5 x − 2 x = 36 ⇒ 3 x = 36 ⇒ x = 12 \\begin{aligned} & 5 x-2 x=36 \\\\ \\Rightarrow & 3 x=36 \\\\ \\Rightarrow & x=12 \\end{aligned} ⇒ ⇒ ​ 5 x − 2 x = 36 3 x = 36 x = 12 ​ ∴ ক্ষুদ্রতমসংখ্যা = 2 x = 2 × 12 = 24 \\begin{aligned} \\therefore ক্ষুদ্রতম সংখ্যা =2 x \\\\ & =2 \\times 12 \\\\ & =24 \\end{aligned} ∴ ক্ষুদ্রতমসংখ্যা = 2 x ​ = 2 × 12 = 24 ​"
+    },
+    {
+      "number": "",
+      "tag": "RB 25,BB 25,RB 23,SB 22,DIN.B 20,ACPS 24,MCPSC 24,RCPC 24",
+      "question": "শ্রেণিব্যাপ্তি 11-20 21-30 31-40 41-50 51-60 গণসংখ্যা 4 15 20 10 7 মধ্যক নির্ণয়ের ক্ষেত্রে F c এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "19",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "28",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "39",
+          "is_correct": false
+        }
+      ],
+      "option_a": "19",
+      "option_b": "20",
+      "option_c": "28",
+      "option_d": "39",
+      "correct": "গ",
+      "explanation": "এখানে, η = 56 ; n 2 = 56 2 = 28 , যা  ( 31 − 40 )  শ্রেনিতে  বিদ্যামান।  \\begin{array}{l} \\eta=56 ; \\frac{n}{2}=\\frac{56}{2}=28 \\text {, যা }(31-40) \\text { শ্রেনিতে} \\\\ \\text { বিদ্যামান। } \\end{array} η = 56 ; 2 n ​ = 2 56 ​ = 28 ,  যা   ( 31 − 40 )   শ্রেনিতে   বিদ্যামান।   ​ মধ্যক শ্রেণী = (31-40) t c = মধ্যবকশ্রেণীর পূর্বের শ্রেণীর যোজীত গনসংখ্যা =(4+15)=19."
+    },
+    {
+      "number": "25",
+      "tag": "BB 25,RB 23,DB 20,ACPS 24,RCPC 24",
+      "question": "শ্রেণিব্যাপ্তি 11-20 21-30 31-40 41-50 51-60 গণসংখ্যা 4 15 20 10 7 প্রচুরক নির্ণয়ের ক্ষেত্রে f 1 f 1 + f 2 \\frac{f_{1}}{f_{1}+f_{2}} f 1 ​ + f 2 ​ f 1 ​ ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.08",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.16",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.25",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.33",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.08",
+      "option_b": "0.16",
+      "option_c": "0.25",
+      "option_d": "0.33",
+      "correct": "খ",
+      "explanation": "f 1 = প্রচুরক শ্রেণীর গণসংখ্যা  −  পূর্ববর্তী শ্রেণীর গণসংখ্যা  f_{1}=প ্ র চ ু র ক ~ শ ্ র ে ণ ী র ~ গ ণ স ং খ ্ য া ~-~ প ূ র ্ ব ব র ্ ত ী ~ শ ্ র ে ণ ী র ~ গ ণ স ং খ ্ য া ~ f 1 ​ = প্রচুরক   শ্রেণীর   গণসংখ্যা   −   পূর্ববর্তী   শ্রেণীর   গণসংখ্যা   f 2 = প্রচুরক শ্রেণীর গণসংখ্যা  −  পরবর্তী শ্রেণীর গণসংখ্যা  f_{2}=প ্ র চ ু র ক ~ শ ্ র ে ণ ী র ~ গ ণ স ং খ ্ য া ~-~ পরবর্তী ~ শ ্ র ে ণ ী র ~ গ ণ স ং খ ্ য া ~ f 2 ​ = প্রচুরক   শ্রেণীর   গণসংখ্যা   −   পরবর্তী   শ্রেণীর   গণসংখ্যা   f 1 f 1 + f 2 = ( 20 − 15 ) ( 20 − 15 ) + ( 20 − 10 ) = 5 5 + 10 = 0.33 \\frac{f_{1}}{f_{1}+f_{2}}=\\frac{(20-15)}{(20-15)+(20-10)}=\\frac{5}{5+10}=0.33 f 1 ​ + f 2 ​ f 1 ​ ​ = ( 20 − 15 ) + ( 20 − 10 ) ( 20 − 15 ) ​ = 5 + 10 5 ​ = 0.33"
+    },
+    {
+      "number": "26",
+      "tag": "RB 23,CB 22,BB 19,RCPC 24",
+      "question": "একটি বর্গের অন্তর্বৃত্তের ব্যাসার্ধ 3 সে.মি. হলে, বর্গের বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 \\sqrt{6} 6 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 \\sqrt{3} 3 ​",
+      "option_b": "3",
+      "option_c": "6",
+      "option_d": "6 \\sqrt{6} 6 ​",
+      "correct": "ক",
+      "explanation": "বর্গের অন্তর্বৃত্তের ব্যাসার্ধ হল বর্গের বাহুর দৈর্ঘ্যের অর্ধেক, অর্থাৎ বর্গের বাহুর অর্ধেক। ধরা যাক, বর্গের বাহুর দৈর্ঘ্য x x x সেমি। তাহলে, অন্তর্বৃত্তের ব্যাসার্ধ হবে x 2 \\frac{x}{2} 2 x ​ সেমি। প্রশ্নে অন্তর্বৃত্তের ব্যাসার্ধ 3 সেমি দেওয়া আছে। অর্থাৎ, x 2 = 3 \\frac{x}{2} = 3 2 x ​ = 3 বা, x = 3 × 2 = 6 x = 3 \\times 2 = 6 x = 3 × 2 = 6 সুতরাং, বর্গের বাহুর দৈর্ঘ্য হল 6 সেমি।"
+    },
+    {
+      "number": "27",
+      "tag": "MB 22,RCPC 24",
+      "question": "একটি সিলিন্ডারের ভূমির ব্যাসার্ধ 3 সে.মি. ও উচ্চতা 7 সে.মি. হলে, বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 π 9 \\pi 9 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "21 π 21 \\pi 21 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "42 π 42 \\pi 42 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "63 π 63 \\pi 63 π .",
+          "is_correct": true
+        }
+      ],
+      "option_a": "9 π 9 \\pi 9 π",
+      "option_b": "21 π 21 \\pi 21 π",
+      "option_c": "42 π 42 \\pi 42 π",
+      "option_d": "63 π 63 \\pi 63 π .",
+      "correct": "ঘ",
+      "explanation": "এখানে, r = 3   c m h = 7   c m \\begin{array}{l} r=3 \\mathrm{~cm} \\\\ h=7 \\mathrm{~cm} \\end{array} r = 3   cm h = 7   cm ​ ∴ \\therefore ∴ বক্তপৃষ্ঠের ক্ষেত্রফল = 2 π r h = 2 × 3 × 7 × π = 42 π   c m 2 \\begin{array}{l} =2 \\pi r h \\\\ =2 \\times 3 \\times 7 \\times \\pi \\\\ =42 \\pi \\mathrm{~cm}^{2} \\end{array} = 2 π r h = 2 × 3 × 7 × π = 42 π   cm 2 ​"
+    },
+    {
+      "number": "29",
+      "tag": "MB 22,BAFSC 24,RCPC 24",
+      "question": "কোন ধরনের ত্রিভুজের পরিবৃত্তের কেন্দ্র ত্রিভুজটির বৃহত্তম বাহুর উপর অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমবাহু",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সূক্ষ্মকোণী",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণী",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সমকোণী",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমবাহু",
+      "option_b": "সূক্ষ্মকোণী",
+      "option_c": "স্থূলকোণী",
+      "option_d": "সমকোণী",
+      "correct": "গ",
+      "explanation": "সমকোণী ত্রিভুজের পরিবৃত্তের কেন্দ্র ত্রিভুজের বৃহত্তম বাহুর উপর অবস্থিত।"
+    },
+    {
+      "number": "30",
+      "tag": "DC 25,MB 25,RB 25,DIN.B 25,JB 25,BB 25,MAD 25,DB 24,RB 24,CB 24,DIN.B 24,MB 24,DB 24,JB 24,BB 24,DB 20,MB 20,DIN.B 20,BB 20,DB 19,RB 19,CB 19,DIN.B 19,JB 19,SB 19,DB 17,JB 17,FCC 24,JGCC 24,BCC 24,VNSC 24,GLHSD 24,ACPS 24,NISD 24,MCPSC 24,RCPC 24,CCS 24,RCPC 24,BCPC 24",
+      "question": "2 x − 3 + 5 = 2 \\sqrt{2 x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণ- i. একটি এক চলকবিশিষ্ট সমীকরণ ii. এর সমাধান সেট S = { } \\mathrm{S}=\\{ \\} S = { } iii. এর সমাধান x = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "গ",
+      "explanation": "2 x − 3 + 5 = 2 \\sqrt{2x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণটি সমাধান করা যাক। প্রথমত, সমীকরণটি সরল করার জন্য আমরা উভয় পাশে 5 5 5 বিয়োগ করব: 2 x − 3 = 2 − 5 \\sqrt{2x-3} = 2 - 5 2 x − 3 ​ = 2 − 5 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 পুরুত্ব বর্গমূলের মান কখনোই ঋণাত্মক হতে পারে না, তাই 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 সমাধায় কোন সমর্থন বা সঠিক সমাধান নেই। অতএব, এর সমাধান সেট হল S = { } S = \\{\\} S = { } , যা একটি খালি সেট নির্দেশ করে। তাহলে, নিচের বস্তুগুলি সঠিক: i. একটি এক চলকবিশিষ্ট সমীকরণ কারণ এটি শুধু x x x -এর উপর নির্ভর করে। ii. এর সমাধান সেট S = { } \\mathrm{S} = \\{ \\} S = { } হল খালি সেট। iii. এর সমাধান x = 6 x = 6 x = 6 ভুল কারণ উক্ত সমীকরণ থেকে এমন কোন সমাধান পাওয়া যায় না। সঠিক উত্তর হল: i ও ii"
+    }
+  ]
+}

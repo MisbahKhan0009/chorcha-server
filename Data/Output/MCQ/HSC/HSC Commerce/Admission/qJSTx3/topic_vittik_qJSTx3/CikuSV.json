@@ -1,0 +1,5155 @@
+{
+  "read_id": "CikuSV",
+  "title": "",
+  "count": 156,
+  "questions": [
+    {
+      "number": "3",
+      "tag": "DU A 21-22",
+      "question": "কোন বিন্দুর পোলার স্থানাঙ্ক ( c , π c,\\pi c , π ) হলে বিন্দুটির কার্তেসীয় স্থানাঙ্ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( c , − c ) (c,-c) ( c , − c )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( − c , 0 ) (-c,0) ( − c , 0 )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( − c , c ) (-c,c) ( − c , c )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( − 1 , 0 ) (-1,0) ( − 1 , 0 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( c , − c ) (c,-c) ( c , − c )",
+      "option_b": "( − c , 0 ) (-c,0) ( − c , 0 )",
+      "option_c": "( − c , c ) (-c,c) ( − c , c )",
+      "option_d": "( − 1 , 0 ) (-1,0) ( − 1 , 0 )",
+      "correct": "খ",
+      "explanation": "পোলার স্থানাঙ্ক (C, π ) \\pi) π ) এখানে, x = c cos ⁡ π = − C \\mathrm{x}=\\mathrm{c} \\cos \\pi=-\\mathrm{C} x = c cos π = − C ∴ ( x , y ) = ( − C , 0 ) \\therefore(\\mathrm{x}, \\mathrm{y})=(-\\mathrm{C}, 0) ∴ ( x , y ) = ( − C , 0 ) এবং, y = c sin ⁡ π = 0 \\begin{aligned} y & =c \\sin \\pi =0\\end{aligned} y ​ = c sin π = 0 ​"
+    },
+    {
+      "number": "5",
+      "tag": "DU A 13-14,অসীম স্যার,কেতাব স্যার",
+      "question": "ধনাত্বক x এর জন্য  F ( x ) = ∫ 1 x ln ⁡ t d t \\mathrm{F}(\\mathrm{x})=\\int_{1}^{x} \\ln t d t F ( x ) = ∫ 1 x ​ ln t d t হলে F'(x)=?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 x 2 - \\frac{1}{x^{2}} − x 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "lnx",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "x lnx",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x lnx-x",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 1 x 2 - \\frac{1}{x^{2}} − x 2 1 ​",
+      "option_b": "lnx",
+      "option_c": "x lnx",
+      "option_d": "x lnx-x",
+      "correct": "খ",
+      "explanation": "ধনাত্মক x \\mathrm{x} x এর জন্য F ( x ) = ∫ 1 x ln ⁡ t d t \\mathrm{F}(\\mathrm{x})=\\int_{1}^{x} \\ln t d t F ( x ) = ∫ 1 x ​ ln t d t হলে F ′ ( x ) = d d x ( ∫ 1 x ln ⁡ t d t ) = ln ⁡ x − ln ⁡ 1 = ln ⁡ x F^{\\prime}(x)=\\frac{d}{d x}\\left(\\int_{1}^{x} \\ln t d t\\right)=\\ln x-\\ln 1=\\ln x F ′ ( x ) = d x d ​ ( ∫ 1 x ​ ln t d t ) = ln x − ln 1 = ln x"
+    },
+    {
+      "number": "6",
+      "tag": "AGRI GST 20-21",
+      "question": "1 3 i \\frac{1}{3} i 3 1 ​ i  এর বর্গমূল কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "± 1 3 ( 1 + i ) \\pm \\frac{1}{\\sqrt{3}} \\left ( 1 + i \\right ) ± 3 ​ 1 ​ ( 1 + i )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "± 1 3 ( 1 − i ) \\pm \\frac{1}{\\sqrt{3}} \\left ( 1 - i \\right ) ± 3 ​ 1 ​ ( 1 − i )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "± 1 6 ( 1 + i ) \\pm \\frac{1}{\\sqrt{6}} \\left ( 1 + i \\right ) ± 6 ​ 1 ​ ( 1 + i )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "± 1 6 ( 1 − i ) \\pm \\frac{1}{\\sqrt{6}} \\left ( 1 - i \\right ) ± 6 ​ 1 ​ ( 1 − i )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "± 1 3 ( 1 + i ) \\pm \\frac{1}{\\sqrt{3}} \\left ( 1 + i \\right ) ± 3 ​ 1 ​ ( 1 + i )",
+      "option_b": "± 1 3 ( 1 − i ) \\pm \\frac{1}{\\sqrt{3}} \\left ( 1 - i \\right ) ± 3 ​ 1 ​ ( 1 − i )",
+      "option_c": "± 1 6 ( 1 + i ) \\pm \\frac{1}{\\sqrt{6}} \\left ( 1 + i \\right ) ± 6 ​ 1 ​ ( 1 + i )",
+      "option_d": "± 1 6 ( 1 − i ) \\pm \\frac{1}{\\sqrt{6}} \\left ( 1 - i \\right ) ± 6 ​ 1 ​ ( 1 − i )",
+      "correct": "গ",
+      "explanation": "প্রদত্ত: z = 1 3 i z=\\frac{1}{3} i z = 3 1 ​ i বর্গমূল নির্ণয়: z = ± ( ∣ z ∣ + Re ⁡ ( z ) 2 + i ⋅ sgn ⁡ ( Im ⁡ ( z ) ) ∣ z ∣ − Re ⁡ ( z ) 2 ) \\sqrt{z}= \\pm\\left(\\sqrt{\\frac{|z|+\\operatorname{Re}(z)}{2}}+i \\cdot \\operatorname{sgn}(\\operatorname{Im}(z)) \\sqrt{\\frac{|z|-\\operatorname{Re}(z)}{2}}\\right) z ​ = ± ( 2 ∣ z ∣ + Re ( z ) ​ ​ + i ⋅ sgn ( Im ( z )) 2 ∣ z ∣ − Re ( z ) ​ ​ ) মান বসিয়ে: ∣ z ∣ = 1 3 , Re ⁡ ( z ) = 0 , Im ⁡ ( z ) = 1 3 1 3 i = ± ( 1 / 3 2 + i 1 / 3 2 ) = ± 1 6 ( 1 + i ) \\begin{array}{c} |z|=\\frac{1}{3}, \\operatorname{Re}(z)=0, \\operatorname{Im}(z)=\\frac{1}{3} \\\\ \\sqrt{\\frac{1}{3}} i= \\pm\\left(\\sqrt{\\frac{1 / 3}{2}}+i \\sqrt{\\frac{1 / 3}{2}}\\right)= \\pm \\frac{1}{\\sqrt{6}}(1+i) \\end{array} ∣ z ∣ = 3 1 ​ , Re ( z ) = 0 , Im ( z ) = 3 1 ​ 3 1 ​ ​ i = ± ( 2 1/3 ​ ​ + i 2 1/3 ​ ​ ) = ± 6 ​ 1 ​ ( 1 + i ) ​"
+    },
+    {
+      "number": "8",
+      "tag": "CU-A 22-23 (Shift-4)",
+      "question": "2 x − x 2 + k = 0 2x-x^2+k=0 2 x − x 2 + k = 0 একটি দ্বিঘাত সমীকরণ ।  সমীকরণটির মূলদ্বয় বাস্তব হলে -",
+      "options": [
+        {
+          "label": "ক",
+          "text": "k < 1 / 8 k < 1/8 k < 1/8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "k ≥ − 1 k\\ge-1 k ≥ − 1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "k < − 1 / 8 k<-1/8 k < − 1/8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "k > − 8 k>-8 k > − 8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "k < 1 / 8 k < 1/8 k < 1/8",
+      "option_b": "k ≥ − 1 k\\ge-1 k ≥ − 1",
+      "option_c": "k < − 1 / 8 k<-1/8 k < − 1/8",
+      "option_d": "k > − 8 k>-8 k > − 8",
+      "correct": "খ",
+      "explanation": "প্রদত্ত দ্বিঘাত সমীকরণ: 2 x − x 2 + k = 0 2x - x^2 + k = 0 2 x − x 2 + k = 0 এটিকে আদর্শ দ্বিঘাত আকারে লিখি: − x 2 + 2 x + k = 0 -x^2 + 2x + k = 0 − x 2 + 2 x + k = 0 x 2 − 2 x − k = 0 x^2 - 2x - k = 0 x 2 − 2 x − k = 0 এখানে: a = 1 , b = − 2 , c = − k a = 1, b = -2, c = -k a = 1 , b = − 2 , c = − k মূলদ্বয় বাস্তব হওয়ার শর্ত: D ≥ 0 D \\geq 0 D ≥ 0 b 2 − 4 a c ≥ 0 b^2 - 4ac \\geq 0 b 2 − 4 a c ≥ 0 ( − 2 ) 2 − 4 ( 1 ) ( − k ) ≥ 0 (-2)^2 - 4(1)(-k) \\geq 0 ( − 2 ) 2 − 4 ( 1 ) ( − k ) ≥ 0 4 + 4 k ≥ 0 4 + 4k \\geq 0 4 + 4 k ≥ 0 4 k ≥ − 4 4k \\geq -4 4 k ≥ − 4 k ≥ − 1 k \\geq -1 k ≥ − 1"
+    },
+    {
+      "number": "9",
+      "tag": "DU A 11-12",
+      "question": "( x + 4 ) 2 100 + ( y − 2 ) 2 64 = 1 \\frac{\\left(x+4\\right)^2}{100}+\\frac{\\left(y-2\\right)^2}{64}=1 100 ( x + 4 ) 2 ​ + 64 ( y − 2 ) 2 ​ = 1 , হলে e = ? e=? e = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 1 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 5 \\frac{4}{5} 5 4 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 1 1",
+      "option_b": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_c": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_d": "4 5 \\frac{4}{5} 5 4 ​",
+      "correct": "খ",
+      "explanation": "e = 1 − b 2 a 2 = 1 − 64 100 = 36 100 = 6 10 = 3 5 e=\\sqrt{1-\\frac{b^2}{a^2}}=\\sqrt{1-\\frac{64}{100}}=\\sqrt{\\frac{36}{100}}=\\frac{6}{10}=\\frac{3}{5} e = 1 − a 2 b 2 ​ ​ = 1 − 100 64 ​ ​ = 100 36 ​ ​ = 10 6 ​ = 5 3 ​"
+    },
+    {
+      "number": "10",
+      "tag": "RU C 22-23 (SHIFT 2)",
+      "question": "y = k − 2 x y=k-2 x y = k − 2 x সরলরেখাটি x y = 1 x y=1 x y = 1 অধিবৃত্তকে স্পর্শ",
+      "options": [
+        {
+          "label": "ক",
+          "text": "± 2 \\pm \\sqrt{2} ± 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "± 5 2 \\pm 5 \\sqrt{2} ± 5 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "± 2 2 \\pm 2 \\sqrt{2} ± 2 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "± 3 2 \\pm 3 \\sqrt{2} ± 3 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "± 2 \\pm \\sqrt{2} ± 2 ​",
+      "option_b": "± 5 2 \\pm 5 \\sqrt{2} ± 5 2 ​",
+      "option_c": "± 2 2 \\pm 2 \\sqrt{2} ± 2 2 ​",
+      "option_d": "± 3 2 \\pm 3 \\sqrt{2} ± 3 2 ​",
+      "correct": "গ",
+      "explanation": "Add details about condition.. x y = 1 ⇒ x ( k − 2 x ) = 1 ⇒ k x − 2 x 2 − 1 = 0 ⇒ 2 x 2 − k x + 1 = 0  শর্তমতে,  ( − k ) 2 − 4.2.1 = 0 ⇒ k 2 = 8 ∴ k = ± 2 2 \\begin{array}{l} x y=1 \\Rightarrow x(k-2 x)=1 \\\\ \\Rightarrow \\mathrm{kx}-2 \\mathrm{x}^{2}-1=0 \\Rightarrow 2 \\mathrm{x}^{2}-\\mathrm{kx}+1=0 \\\\ \\text { শর্তমতে, }(-\\mathrm{k})^{2}-4.2 .1=0 \\Rightarrow \\mathrm{k}^{2}=8 \\therefore \\mathrm{k}= \\pm 2 \\sqrt{2}\\end{array} x y = 1 ⇒ x ( k − 2 x ) = 1 ⇒ kx − 2 x 2 − 1 = 0 ⇒ 2 x 2 − kx + 1 = 0   শর্তমতে ,  ( − k ) 2 − 4.2.1 = 0 ⇒ k 2 = 8 ∴ k = ± 2 2 ​ ​"
+    },
+    {
+      "number": "11",
+      "tag": "CVASU 18-19",
+      "question": "lim ⁡ x → 0 1 − cos ⁡ x sin ⁡ 2 2 x \\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x} lim x → 0 ​ s i n 2 2 x 1 − c o s x ​ - এর মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 25 \\frac{2}{25} 25 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "49 6 \\frac{49}{6} 6 49 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "tan x",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 25 \\frac{2}{25} 25 2 ​",
+      "option_b": "49 6 \\frac{49}{6} 6 49 ​",
+      "option_c": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_d": "tan x",
+      "correct": "গ",
+      "explanation": "lim ⁡ x → 0 1 − cos ⁡ x sin ⁡ 2 2 x \\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x} lim x → 0 ​ s i n 2 2 x 1 − c o s x ​ প্রথমে সূত্র: 1 − cos ⁡ x = 2 sin ⁡ 2 x 2 1 - \\cos x = 2 \\sin^2 \\frac{x}{2} 1 − cos x = 2 sin 2 2 x ​ এবং sin ⁡ 2 x = 2 sin ⁡ x cos ⁡ x → sin ⁡ 2 2 x = 4 sin ⁡ 2 x cos ⁡ 2 x \\sin 2x = 2 \\sin x \\cos x \\to \\sin^2 2x = 4 \\sin^2 x \\cos^2 x sin 2 x = 2 sin x cos x → sin 2 2 x = 4 sin 2 x cos 2 x তাহলে: 1 − cos ⁡ x sin ⁡ 2 2 x = 2 sin ⁡ 2 x 2 4 sin ⁡ 2 x cos ⁡ 2 x = sin ⁡ 2 x 2 2 sin ⁡ 2 x cos ⁡ 2 x \\frac{1 - \\cos x}{\\sin^2 2x} = \\frac{2 \\sin^2 \\frac{x}{2}}{4 \\sin^2 x \\cos^2 x} = \\frac{\\sin^2 \\frac{x}{2}}{2 \\sin^2 x \\cos^2 x} s i n 2 2 x 1 − c o s x ​ = 4 s i n 2 x c o s 2 x 2 s i n 2 2 x ​ ​ = 2 s i n 2 x c o s 2 x s i n 2 2 x ​ ​ এখন sin ⁡ x = 2 sin ⁡ x 2 cos ⁡ x 2 → sin ⁡ 2 x = 4 sin ⁡ 2 x 2 cos ⁡ 2 x 2 \\sin x = 2 \\sin \\frac{x}{2} \\cos \\frac{x}{2} \\to \\sin^2 x = 4 \\sin^2 \\frac{x}{2} \\cos^2 \\frac{x}{2} sin x = 2 sin 2 x ​ cos 2 x ​ → sin 2 x = 4 sin 2 2 x ​ cos 2 2 x ​ প্রতিস্থাপন: sin ⁡ 2 x 2 2 ⋅ 4 sin ⁡ 2 x 2 cos ⁡ 2 x 2 ⋅ cos ⁡ 2 x \\frac{\\sin^2 \\frac{x}{2}}{2 \\cdot 4 \\sin^2 \\frac{x}{2} \\cos^2 \\frac{x}{2} \\cdot \\cos^2 x} 2 ⋅ 4 s i n 2 2 x ​ c o s 2 2 x ​ ⋅ c o s 2 x s i n 2 2 x ​ ​ = 1 8 cos ⁡ 2 x 2 cos ⁡ 2 x = \\frac{1}{8 \\cos^2 \\frac{x}{2} \\cos^2 x} = 8 c o s 2 2 x ​ c o s 2 x 1 ​ সীমা x → 0 x \\to 0 x → 0 নিলে: cos ⁡ 0 = 1 , cos ⁡ 0 = 1 \\cos 0 = 1, \\cos 0 = 1 cos 0 = 1 , cos 0 = 1 lim ⁡ x → 0 1 8 cos ⁡ 2 x 2 cos ⁡ 2 x = 1 8 ⋅ 1 ⋅ 1 = 1 8 \\lim_{x \\to 0} \\frac{1}{8 \\cos^2 \\frac{x}{2} \\cos^2 x} = \\frac{1}{8 \\cdot 1 \\cdot 1} = \\frac{1}{8} lim x → 0 ​ 8 c o s 2 2 x ​ c o s 2 x 1 ​ = 8 ⋅ 1 ⋅ 1 1 ​ = 8 1 ​"
+    },
+    {
+      "number": "12",
+      "tag": "MBSTU A 15-16,FET 23-24",
+      "question": "P মানের দুইটি বলের লব্ধি P 2 + 2 P \\sqrt{2+\\sqrt{2}} P 2 + 2 ​ ​ এদের যেকোন একটি বলের সাথে লব্ধির নতি কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "22.5°",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "22.5°",
+      "option_b": "45°",
+      "option_c": "120°",
+      "option_d": "90°",
+      "correct": "ক",
+      "explanation": "প্রশ্নমতে ( p 2 + 2 ) 2 = p 2 + p 2 + 2 p 2 cos ⁡ α ⇒ p 2 ( 2 + 2 ) = 2 p 2 + 2 p 2 cos ⁡ α ⇒ 2 + 2 = 2 + 2 cos ⁡ α ⇒ cos ⁡ α = 1 2 = cos ⁡ 45 ∘ ⇒ α = 45 ∘ \\begin{array}{l}\\text { প্রশ্নমতে}(p \\sqrt{2+\\sqrt{2}})^{2}=p^{2}+p^{2}+2 p^{2} \\cos \\alpha \\\\ \\Rightarrow p^{2}(2+\\sqrt{2})=2 p^{2}+2 p^{2} \\cos \\alpha \\\\ \\Rightarrow \\sqrt{2}+2=2+2 \\cos \\alpha \\\\ \\Rightarrow \\cos \\alpha=\\frac{1}{\\sqrt{2}}=\\cos 45^{\\circ} \\\\ \\Rightarrow \\alpha=45^{\\circ}\\end{array}   প্রশ্নমতে ( p 2 + 2 ​ ​ ) 2 = p 2 + p 2 + 2 p 2 cos α ⇒ p 2 ( 2 + 2 ​ ) = 2 p 2 + 2 p 2 cos α ⇒ 2 ​ + 2 = 2 + 2 cos α ⇒ cos α = 2 ​ 1 ​ = cos 4 5 ∘ ⇒ α = 4 5 ∘ ​ লব্ধির সাথে একটি বলের মধ্যবর্তী কোণ ϕ হলে, আমরা নিম্নলিখিত সূত্র ব্যবহার করি: tan ⁡ ϕ = P sin ⁡ θ P + P cos ⁡ θ = sin ⁡ θ 1 + cos ⁡ θ \\tan \\phi=\\frac{P \\sin \\theta}{P+P \\cos \\theta}=\\frac{\\sin \\theta}{1+\\cos \\theta} tan ϕ = P + P c o s θ P s i n θ ​ = 1 + c o s θ s i n θ ​ θ = 45 ∘ \\theta=45^{\\circ} θ = 4 5 ∘ হলেঃ sin ⁡ 45 ∘ = 2 2 , cos ⁡ 45 ∘ = 2 2 tan ⁡ ϕ = 2 2 1 + 2 2 = 2 2 2 + 2 2 = 2 2 + 2 \\begin{array}{c} \\sin 45^{\\circ}=\\frac{\\sqrt{2}}{2}, \\quad \\cos 45^{\\circ}=\\frac{\\sqrt{2}}{2} \\\\ \\tan \\phi=\\frac{\\frac{\\sqrt{2}}{2}}{1+\\frac{\\sqrt{2}}{2}}=\\frac{\\frac{\\sqrt{2}}{2}}{\\frac{2+\\sqrt{2}}{2}}=\\frac{\\sqrt{2}}{2+\\sqrt{2}} \\end{array} sin 4 5 ∘ = 2 2 ​ ​ , cos 4 5 ∘ = 2 2 ​ ​ tan ϕ = 1 + 2 2 ​ ​ 2 2 ​ ​ ​ = 2 2 + 2 ​ ​ 2 2 ​ ​ ​ = 2 + 2 ​ 2 ​ ​ ​ tan ⁡ ϕ = 2 2 + 2 ⋅ 2 − 2 2 − 2 = 2 ( 2 − 2 ) ( 2 ) 2 − ( 2 ) 2 = 2 2 − 2 4 − 2 = 2 2 − 2 2 = 2 − 1 \\tan \\phi=\\frac{\\sqrt{2}}{2+\\sqrt{2}} \\cdot \\frac{2-\\sqrt{2}}{2-\\sqrt{2}}=\\frac{\\sqrt{2}(2-\\sqrt{2})}{(2)^{2}-(\\sqrt{2})^{2}}=\\frac{2 \\sqrt{2}-2}{4-2}=\\frac{2 \\sqrt{2}-2}{2}=\\sqrt{2}-1 tan ϕ = 2 + 2 ​ 2 ​ ​ ⋅ 2 − 2 ​ 2 − 2 ​ ​ = ( 2 ) 2 − ( 2 ​ ) 2 2 ​ ( 2 − 2 ​ ) ​ = 4 − 2 2 2 ​ − 2 ​ = 2 2 2 ​ − 2 ​ = 2 ​ − 1 ϕ = tan ⁡ − 1 ( 2 − 1 ) \\phi=\\tan ^{-1}(\\sqrt{2}-1) ϕ = tan − 1 ( 2 ​ − 1 ) ϕ =22.5∘"
+    },
+    {
+      "number": "13",
+      "tag": "DU A 16-17,অসীম স্যার,কেতাব স্যার",
+      "question": "একটি সমবাহু ত্রিভুজের বাহুত্রয়ের সমান্তরালে একইক্রমে সমবিন্দুতে কার্যরত 6, 10, 14 একক মানের তিনটি বেগের লব্ধির মান হবে -",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4√3 একক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "7√3 একক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10√3 একক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15√3 একক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4√3 একক",
+      "option_b": "7√3 একক",
+      "option_c": "10√3 একক",
+      "option_d": "15√3 একক",
+      "correct": "ক",
+      "explanation": "14 − 10 = 10 − 6 = 4 14-10=10-6=4 14 − 10 = 10 − 6 = 4 বাহুর সংখ্যা = 3    ∴ =3\\ \\ \\therefore = 3     ∴ লব্ধির মান = 3 × 4 = 4 3 =\\sqrt{3}\\times4=4\\sqrt{3} = 3 ​ × 4 = 4 3 ​ একক অথবা, সমান্তর ধারাভূক্ত হলে, লব্ধি = √3 x সাধারণ অন্তর"
+    },
+    {
+      "number": "15",
+      "tag": "JUST 18-19",
+      "question": "ভূমি  হতে u আদিবেগে একটি বস্তু উলম্বভাবে উপরের দিকে নিক্ষেপ করলে বস্তুটি সর্বাধিক কত উপরে উঠবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "u 2 g \\frac{u^{2}}{g} g u 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "u 2 2 g \\frac{u^{2}}{2 g} 2 g u 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "u g \\frac{u}{g} g u ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 u g \\frac{2 u}{g} g 2 u ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "u 2 g \\frac{u^{2}}{g} g u 2 ​",
+      "option_b": "u 2 2 g \\frac{u^{2}}{2 g} 2 g u 2 ​",
+      "option_c": "u g \\frac{u}{g} g u ​",
+      "option_d": "2 u g \\frac{2 u}{g} g 2 u ​",
+      "correct": "খ",
+      "explanation": "U আদিবেগে একটি বস্তুকণাকে ভূমি থেকে খাড়া উপরের দিকে নিক্ষেপ করলে অভিকর্ষজ ত্বরণ প্রতিকূলে কারে বের বলে g মন্দনের সৃষ্টি হয় ফলে বস্তুকণাটির বেগ ক্রমশঃ কমতে থাকে। T₁ সময়ে সর্বাধিক H উচ্চতায় বস্তুকণাটির বেগ শূন্য হবে। ∴ 0 = u 2 − 2 g H [ v 2 = u 2 − 2 g h  সূত্রের সাহায্যে]   বা,  2 g H = u 2 ∴ H = u 2 2   g =  সর্বাধিক উচ্চতা  \\begin{array}{l} \\therefore 0=\\mathrm{u}^{2}-2 \\mathrm{gH}\\left[\\mathrm{v}^{2}=\\mathrm{u}^{2}-2 \\mathrm{gh}\\right. \\text { সূত্রের সাহায্যে] } \\\\ \\text { বা, } 2 \\mathrm{gH}=\\mathrm{u}^{2} \\\\ \\therefore \\mathrm{H}=\\frac{\\mathrm{u}^{2}}{2 \\mathrm{~g}}=\\text { সর্বাধিক উচ্চতা } \\end{array} ∴ 0 = u 2 − 2 gH [ v 2 = u 2 − 2 gh   সূত্রের   সাহায্যে ]    বা ,  2 gH = u 2 ∴ H = 2   g u 2 ​ =   সর্বাধিক   উচ্চতা   ​"
+    },
+    {
+      "number": "16",
+      "tag": "",
+      "question": "QR code এর full form কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Quickly Reply Code",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Quick Response Company",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Quick Refference Cooperation",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Quick Response Code",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Quickly Reply Code",
+      "option_b": "Quick Response Company",
+      "option_c": "Quick Refference Cooperation",
+      "option_d": "Quick Response Code",
+      "correct": "ঘ",
+      "explanation": "QR কোড-এর পূর্ণরূপ হল কুইক রেসপন্স কোড (Quick Response Code)। এই কোডগুলো দ্রুত এবং সহজে তথ্য অ্যাক্সেস করার জন্য ডিজাইন করা হয়েছে।"
+    },
+    {
+      "number": "18",
+      "tag": "",
+      "question": "কোন প্রযুক্তির সাহায্যে মানুষকে অদ্বিতীয়ভাবে শনাক্ত করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ন্যানোটেকনোলজি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বায়োমেট্রিক্স",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "জেনেটিক ইঞ্জিনিয়ারিং",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বায়োইনফরমেটিক্স",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ন্যানোটেকনোলজি",
+      "option_b": "বায়োমেট্রিক্স",
+      "option_c": "জেনেটিক ইঞ্জিনিয়ারিং",
+      "option_d": "বায়োইনফরমেটিক্স",
+      "correct": "খ",
+      "explanation": "মানুষকে তার অদ্বিতীয় শারীরিক বা আচরণগত বৈশিষ্ট্যের ভিত্তিতে শনাক্ত করার প্রযুক্তি হলো বায়োমেট্রিক্স। এই প্রযুক্তিতে আঙ্গুলের ছাপ, চোখের আইরিশ বা কণ্ঠস্বরের মতো বৈশিষ্ট্য পরিমাপ ও বিশ্লেষণ করা হয়। ন্যানোটেকনোলজি, জেনেটিক ইঞ্জিনিয়ারিং ও বায়োইনফরমেটিক্স ভিন্ন বৈজ্ঞানিক ক্ষেত্র।"
+    },
+    {
+      "number": "20",
+      "tag": "",
+      "question": "রেডিও ওয়েভের ডেটা প্রেরণের গতি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "14 Kbps",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "24 Kbps",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "34 Kbps",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "44 Kbps",
+          "is_correct": false
+        }
+      ],
+      "option_a": "14 Kbps",
+      "option_b": "24 Kbps",
+      "option_c": "34 Kbps",
+      "option_d": "44 Kbps",
+      "correct": "খ",
+      "explanation": "রেডিও ওয়েভের গতি 24Kbps.।"
+    },
+    {
+      "number": "21",
+      "tag": "",
+      "question": "নিচের কোনটি ব্লুটুথ অপারেশনে ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ম্যাগনেটিক প্রযুক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অপটিক্যাল প্রযুক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "লেজার প্রযুক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "রেডিও প্রযুক্তি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ম্যাগনেটিক প্রযুক্তি",
+      "option_b": "অপটিক্যাল প্রযুক্তি",
+      "option_c": "লেজার প্রযুক্তি",
+      "option_d": "রেডিও প্রযুক্তি",
+      "correct": "ঘ",
+      "explanation": "ব্লুটুথ অপারেশনে প্রধানত রেডিও প্রযুক্তি ব্যবহৃত হয়। এটি ২.৪ গিগাহার্জের (GHz) ISM ফ্রিকোয়েন্সি ব্যান্ডে কাজ করে। রেডিও তরঙ্গের সাহায্যে ব্লুটুথ স্বল্প পাল্লার মধ্যে ডিভাইসগুলোর মধ্যে তারবিহীন (ওয়্যারলেস) সংযোগ স্থাপন করে। এই প্রযুক্তির মাধ্যমেই মোবাইল ফোন, হেডফোন ও অন্যান্য ডিভাইস সহজে ডেটা আদান-প্রদান করতে পারে।"
+    },
+    {
+      "number": "23",
+      "tag": "",
+      "question": "Wi-Fi কোন স্ট্যান্ডার্ডের ওপর ভিত্তি করে কাজ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "IEEE 806.11",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "IEEE 804.11",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "IEEE 802.15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "IEEE 802.11",
+          "is_correct": true
+        }
+      ],
+      "option_a": "IEEE 806.11",
+      "option_b": "IEEE 804.11",
+      "option_c": "IEEE 802.15",
+      "option_d": "IEEE 802.11",
+      "correct": "ঘ",
+      "explanation": "Wi-Fi (Wireless Fidelity) প্রযুক্তি আন্তর্জাতিকভাবে স্বীকৃত IEEE 802.11 স্ট্যান্ডার্ডের ওপর ভিত্তি করে কাজ করে। ২. এই স্ট্যান্ডার্ডটি ওয়্যারলেস লোকাল এরিয়া নেটওয়ার্ক (WLAN)-এর জন্য প্রয়োজনীয় যোগাযোগ প্রোটোকলগুলি নির্ধারণ করে। ৩. এটি ডেটা আদান-প্রদানের জন্য রেডিও ফ্রিকোয়েন্সি ব্যবহার করে এবং ওয়্যারলেস ডিভাইসের মধ্যে সংযোগ স্থাপন নিশ্চিত করে। ৪. 802.11 এর বিভিন্ন উপ-সংস্করণ (যেমন: a, b, g, n, ac, ax) সময়ের সাথে সাথে ডেটা গতি ও কার্যকারিতা বৃদ্ধি করেছে।"
+    },
+    {
+      "number": "24",
+      "tag": "",
+      "question": "নিচের কোনটি কম্পিউটরের স্মৃতির ধারণক্ষমতা নির্দেশ করে না?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কিলোবাইট",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মেগাহার্টজ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "মেগাবাইট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "গিগাবাইট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কিলোবাইট",
+      "option_b": "মেগাহার্টজ",
+      "option_c": "মেগাবাইট",
+      "option_d": "গিগাবাইট",
+      "correct": "খ",
+      "explanation": "কম্পিউটারে কোনো স্মৃতি বা মেমরি ডিভাইসে কী পরিমাণ তথ্য সংরক্ষণ করা যাবে, তা বোঝানোর জন্য বাইট (Byte)-এর বিভিন্ন গুণিতক, যেমন কিলোবাইট (KB), মেগাবাইট (MB), এবং গিগাবাইট (GB) ব্যবহার করা হয়। এই এককগুলিই স্মৃতির ধারণক্ষমতা নির্দেশ করে। অন্যদিকে, মেগাহার্টজ (MHz) হলো ফ্রিকোয়েন্সির একক। এটি মূলত সেন্ট্রাল প্রসেসিং ইউনিট (CPU) বা প্রসেসরের কাজের গতি পরিমাপ করতে ব্যবহৃত হয়। এটি নির্দেশ করে যে প্রতি সেকেন্ডে প্রসেসর কতবার তার অভ্যন্তরীণ কার্যচক্র সম্পন্ন করতে পারে। সহজ কথায়, এটি একটি গতির একক, স্মৃতির পরিমাণের একক নয়। অতএব, মেগাহার্টজ এককটি স্মৃতির ধারণক্ষমতা নির্দেশ করে না।"
+    },
+    {
+      "number": "25",
+      "tag": "",
+      "question": "ব্রডব্যান্ডের ব্যান্ডউইত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১ mbps বা অধিক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৯৬০০ bps",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪৫-৩০০ bps এর মধ্যে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৪৫ bps-এর কম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১ mbps বা অধিক",
+      "option_b": "৯৬০০ bps",
+      "option_c": "৪৫-৩০০ bps এর মধ্যে",
+      "option_d": "৪৫ bps-এর কম",
+      "correct": "ক",
+      "explanation": "সাধারণত কমপক্ষে ১ মেগাবিট প্রতি সেকেন্ড (Mbps) ডেটা স্থানান্তরের হারকে ব্রডব্যান্ড হিসেবে গণ্য করা হয় এবং এর থেকে বেশি গতিসম্পন্ন ইন্টারনেটও ব্রডব্যান্ডের অন্তর্ভুক্ত।"
+    },
+    {
+      "number": "26",
+      "tag": "",
+      "question": "ক্লাউড কম্পিউটিং এর জন্য অপরিহার্য কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ইন্টারনেট",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "কম্পিউটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ব্লুটুথ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রিন্টার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ইন্টারনেট",
+      "option_b": "কম্পিউটার",
+      "option_c": "ব্লুটুথ",
+      "option_d": "প্রিন্টার",
+      "correct": "ক",
+      "explanation": "ক্লাউড কম্পিউটিং-এর জন্য অপরিহার্য হলো ইন্টারনেট। ক্লাউড পরিষেবাগুলি (যেমন স্টোরেজ, সফটওয়্যার বা সার্ভার) ব্যবহারকারীর কাছে পৌঁছে দিতে স্থিতিশীল ইন্টারনেট সংযোগের প্রয়োজন হয়। ইন্টারনেট ছাড়া দূরবর্তী সার্ভার অ্যাক্সেস করা এবং ক্লাউড থেকে ডেটা ডাউনলোড বা আপলোড করা সম্ভব নয়।"
+    },
+    {
+      "number": "27",
+      "tag": "",
+      "question": "ASCII এর পূর্ণনাম কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Australian Standard Code for Information Interchange",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "American Standard Code for Information Interchange",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "American Standard Code for Information Institute",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Australian Standard Code for Information Institute",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Australian Standard Code for Information Interchange",
+      "option_b": "American Standard Code for Information Interchange",
+      "option_c": "American Standard Code for Information Institute",
+      "option_d": "Australian Standard Code for Information Institute",
+      "correct": "খ",
+      "explanation": "ASCII-এর পূর্ণরূপ হলো আমেরিকান স্ট্যান্ডার্ড কোড ফর ইনফরমেশন ইন্টারচেঞ্জ (American Standard Code for Information Interchange)। এটি একটি অক্ষর সংকেতায়ন পদ্ধতি যা কম্পিউটার এবং ইলেকট্রনিক যোগাযোগে অক্ষর, সংখ্যা এবং প্রতীককে ডিজিটাল কোডে রূপান্তর করতে ব্যবহৃত হয়।"
+    },
+    {
+      "number": "28",
+      "tag": "",
+      "question": "SIM এর পূর্ণনাম কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Subscribe Identity Module",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Subscriber Identity Module",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Subscribe Identification.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Subscriber Identification Module",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Subscribe Identity Module",
+      "option_b": "Subscriber Identity Module",
+      "option_c": "Subscribe Identification.",
+      "option_d": "Subscriber Identification Module",
+      "correct": "খ",
+      "explanation": "SIM এর পূর্ণনাম হলো Subscriber Identity Module।"
+    },
+    {
+      "number": "29",
+      "tag": "",
+      "question": "সিমপ্লেক্স সিস্টেমে ডেটা পাঠানোর উপায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A → B \\mathrm{A} \\rightarrow \\mathrm{B} A → B",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "A ⇄ B \\mathrm{A} \\rightleftarrows \\mathrm{B} A ⇄ B",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A ⇒ B \\mathrm{A} \\Rightarrow \\mathrm{B} A ⇒ B",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A ≈ B \\mathrm{A} \\approx \\mathrm{B} A ≈ B",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A → B \\mathrm{A} \\rightarrow \\mathrm{B} A → B",
+      "option_b": "A ⇄ B \\mathrm{A} \\rightleftarrows \\mathrm{B} A ⇄ B",
+      "option_c": "A ⇒ B \\mathrm{A} \\Rightarrow \\mathrm{B} A ⇒ B",
+      "option_d": "A ≈ B \\mathrm{A} \\approx \\mathrm{B} A ≈ B",
+      "correct": "ক",
+      "explanation": "সিমপ্লেক্স (Simplex) ডেটা ট্রান্সমিশন সিস্টেমে ডেটা কেবল একটি দিকেই বা একমুখীভাবে (Unidirectionally) প্রবাহিত হতে পারে। প্রেরক (Sender) কেবল ডেটা পাঠাতে পারে, কিন্তু গ্রহণ করতে পারে না, এবং গ্রাহক (Receiver) কেবল ডেটা গ্রহণ করতে পারে, কিন্তু পাঠাতে পারে না।"
+    },
+    {
+      "number": "30",
+      "tag": "FET 22-23",
+      "question": "Which generation of mobiles includes IP data network? (কোন প্রজন্মের মোবাইলে IP ডাটা নেটওয়ার্ক অন্তর্ভুক্ত করা হয়েছে?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১ম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "২য়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৩য়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৪র্থ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "১ম",
+      "option_b": "২য়",
+      "option_c": "৩য়",
+      "option_d": "৪র্থ",
+      "correct": "ঘ",
+      "explanation": "চতুর্থ প্রজন্মঃ 4G এর LTE (Long Term Evalution) প্রযুক্তি স্টান্ডার্ড । এই প্রজন্মে সুইচিং বা প্যাকেট সুইচিং এর পরিবর্তে ইন্টারনেট প্রটোকল (IP) নির্ভর নেটওয়ার্ক ব্যবহার করে।"
+    },
+    {
+      "number": "31",
+      "tag": "",
+      "question": "Which network engineering requires the most cable? (কোন নেটওয়ার্ক ইঞ্জিনিয়ারিং এ সবেচেয়ে বেশি ক্যাবল দরকার হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বাস টপোলজি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "রিং টপোলজি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্টার টপোলজি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মেশ টপোলজি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বাস টপোলজি",
+      "option_b": "রিং টপোলজি",
+      "option_c": "স্টার টপোলজি",
+      "option_d": "মেশ টপোলজি",
+      "correct": "ঘ",
+      "explanation": "নেটওয়ার্ক ইঞ্জিনিয়ারিং-এ মেশ টপোলজি (Mesh Topology) -তে সবচেয়ে বেশি ক্যাবল দরকার হয়, কারণ এতে প্রতিটি ডিভাইস অন্য প্রতিটি ডিভাইসের সাথে সরাসরি সংযুক্ত থাকে, যা প্রচুর সংযোগ ও ক্যাবলিং তৈরি করে, যদিও এটি সবচেয়ে নির্ভরযোগ্য (fault-tolerant) সমাধান, কারণ একটি সংযোগ ব্যর্থ হলেও অন্য পথ দিয়ে ডেটা চলাচল করতে পারে।"
+    },
+    {
+      "number": "32",
+      "tag": "",
+      "question": "একই ধরনের দুটি LAN এর মধ্যে তথ্য আদান প্রদানের জন্য কোন ডিভাইস ব্যবহার করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "হাব",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সুইচ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ব্রিজ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "রাউটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "হাব",
+      "option_b": "সুইচ",
+      "option_c": "ব্রিজ",
+      "option_d": "রাউটার",
+      "correct": "গ",
+      "explanation": "একই ধরনের (অর্থাৎ, একই প্রোটোকল ব্যবহার করে) দুটি লোকাল এরিয়া নেটওয়ার্ক (LAN) এর মধ্যে তথ্য আদান প্রদানের জন্য প্রধানত ব্রিজ (Bridge) বা রাউটার (Router) ব্যবহার করা হয়।"
+    },
+    {
+      "number": "33",
+      "tag": "",
+      "question": "CPU ও বিভিন্ন ইনপুট-আউটপুট যন্ত্রের সংযোগ পদ্ধতিকে কী বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ইন্টারফেস",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "টার্মিনাল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্লটার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইন্টারপ্লেটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ইন্টারফেস",
+      "option_b": "টার্মিনাল",
+      "option_c": "প্লটার",
+      "option_d": "ইন্টারপ্লেটার",
+      "correct": "ক",
+      "explanation": "ইন্টারফেস হলো সেই পদ্ধতি বা সার্কিট যার মাধ্যমে সিপিইউ (CPU) ও বিভিন্ন ইনপুট-আউটপুট (I/O) যন্ত্রাংশ (যেমন: কীবোর্ড, মাউস, প্রিন্টার) একে অপরের সাথে ডেটা আদান-প্রদান করতে পারে এবং কার্যকরভাবে সংযুক্ত হতে পারে। ইন্টারফেস মূলত একটি যোগাযোগ সেতু হিসেবে কাজ করে, যা বিভিন্ন ডিভাইসের মধ্যে বৈদ্যুতিক এবং ডেটা সংক্রান্ত সামঞ্জস্যতা নিশ্চিত করে।"
+    },
+    {
+      "number": "34",
+      "tag": "",
+      "question": "ওয়াইম্যাক্স ব্যবহৃত হয় —— এর ক্ষেত্রে।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "PAN",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "LAN",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "MAN",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "WAN",
+          "is_correct": false
+        }
+      ],
+      "option_a": "PAN",
+      "option_b": "LAN",
+      "option_c": "MAN",
+      "option_d": "WAN",
+      "correct": "গ",
+      "explanation": "ওয়াইম্যাক্স (WiMAX) মূলত ব্যবহৃত হয় MAN (Metropolitan Area Network) এর ক্ষেত্রে।"
+    },
+    {
+      "number": "35",
+      "tag": "",
+      "question": "তারবিহীন মাধ্যম কত ধরনের?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "খ",
+      "explanation": "তারবিহীন মাধ্যম বা Wireless Media প্রধানত তিন ধরনের। এগুলি হলো: রেডিও ওয়েভ (Radio Wave), মাইক্রোওয়েভ (Microwave) এবং ইনফ্রারেড (Infrared)।"
+    },
+    {
+      "number": "36",
+      "tag": "",
+      "question": "The number 173 is an example of which number system? (173 সংখ্যাটি কোন সংখ্যা পদ্ধতির উদাহরণ?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অক্টাল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ডেসিমাল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "হেক্সাডেসিমাল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সবগুলো",
+          "is_correct": true
+        }
+      ],
+      "option_a": "অক্টাল",
+      "option_b": "ডেসিমাল",
+      "option_c": "হেক্সাডেসিমাল",
+      "option_d": "সবগুলো",
+      "correct": "ঘ",
+      "explanation": "১. বাইনারি সংখ্যা পদ্ধতিঃ বাইনারি সংখ্যা পদ্ধতির বেজ হচ্ছে 2। কারণ এ পদ্ধতিতে 0 ও 1 মোট দুটি মৌলিক অঙ্ক আছে। ২. দশমিক বা ডেসিমাল সংখ্যা পদ্ধতিঃ দশমিক সংখ্যা পদ্ধতির বেজ হচ্ছে 10। কারণ এ পদ্ধতিতে 0 থেকে 9 পর্যন্ত মোট 10 টি মৌলিক অঙ্ক আছে। যথা- 0,1,2,3,4,5,6,7,8,9 ৩. অক্টাল সংখ্যা পদ্ধতিঃ অক্টাল সংখ্যা পদ্ধতির বেজ হচ্ছে 8 (আট)। কারণ এ পদ্ধতিতে 0 থেকে 7 পর্যন্ত মোট 8 (আট) টি মৌলিক অঙ্ক আছে। ৪. হেক্সাডেসিমাল সংখ্যা পদ্ধতিঃ হেক্সাডেসিমাল সংখ্যা পদ্ধতির বেজ হচ্ছে 16। কারণ এ পদ্ধতিতে মোট 16 টি মৌলিক চিহ্ন বা অঙ্ক আছে। যথা = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, E (10=A, 11 = B, 12=C, 13=D, 14=E, 15=E) অতএব, প্রশ্নের 173 সংখ্যাটি অক্টাল, ডেসিমাল এবং হেক্সাডেসিমাল উভয়।"
+    },
+    {
+      "number": "37",
+      "tag": "",
+      "question": "What is the sum if 1 is added to ( 1 F ) 16 (1 F)_{16} ( 1 F ) 16 ​ ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( H F ) 16 (\\mathrm{HF})_{16} ( HF ) 16 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 2   F ) 16 (2 \\mathrm{~F})_{16} ( 2   F ) 16 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 20 ) 16 (20)_{16} ( 20 ) 16 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "21 16 21_{16} 2 1 16 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( H F ) 16 (\\mathrm{HF})_{16} ( HF ) 16 ​",
+      "option_b": "( 2   F ) 16 (2 \\mathrm{~F})_{16} ( 2   F ) 16 ​",
+      "option_c": "( 20 ) 16 (20)_{16} ( 20 ) 16 ​",
+      "option_d": "21 16 21_{16} 2 1 16 ​",
+      "correct": "গ",
+      "explanation": "F = ( 15 ) 10 \\mathrm{F}=(15)_{10} F = ( 15 ) 10 ​ 15 + 1 15+1 15 + 1 is greater than ( F ) 16 (F)_{16} ( F ) 16 ​ 1   F + 1 20 \\begin{array}{r}1 \\mathrm{~F} \\\\ +1 \\\\ \\hline 20\\end{array} 1   F + 1 20 ​ ​ 15 + 1 16 \\begin{array}{r}15 \\\\ +1 \\\\ \\hline 16\\end{array} 15 + 1 16 ​ ​ (এই 16 থেকে Hexadecimal এর বেজ বিয়োগ করলে পাওয়া যায়) 16 16 0 ⇒  Carry  1. \\begin{array}{l}16 \\\\ \\frac{16}{0} \\quad \\Rightarrow \\text { Carry } 1 .\\end{array} 16 0 16 ​ ⇒  Carry  1. ​ সুতরাং উত্তর অপশন C সঠিক।"
+    },
+    {
+      "number": "38",
+      "tag": "",
+      "question": "দশমিক সংখ্যা ৯১ এর বাইনারি রূপ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১০১১০১১",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "১১০১০১০",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১১১০০১১",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১১০১১০১",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১০১১০১১",
+      "option_b": "১১০১০১০",
+      "option_c": "১১১০০১১",
+      "option_d": "১১০১১০১",
+      "correct": "ক",
+      "explanation": "দশমিক সংখ্যা ৯১ (decimal number 91) এর বাইনারি রূপ (binary equivalent) হলো 1011011_2।"
+    },
+    {
+      "number": "39",
+      "tag": "",
+      "question": "Robin's current age is ( 19 ) 10 (19)_{10} ( 19 ) 10 ​ , how many years later will he be ( 100110 ) 2 (100110)_{2} ( 100110 ) 2 ​ ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 10010 ) 2 (10010)_{2} ( 10010 ) 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 10011 ) 2 (10011)_{2} ( 10011 ) 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( 100110 ) 2 (100110)_{2} ( 100110 ) 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 10111 ) 2 (10111)_{2} ( 10111 ) 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 10010 ) 2 (10010)_{2} ( 10010 ) 2 ​",
+      "option_b": "( 10011 ) 2 (10011)_{2} ( 10011 ) 2 ​",
+      "option_c": "( 100110 ) 2 (100110)_{2} ( 100110 ) 2 ​",
+      "option_d": "( 10111 ) 2 (10111)_{2} ( 10111 ) 2 ​",
+      "correct": "খ",
+      "explanation": "রবিনের বর্তমান বয়স = ( 19 ) 10 =(19)_{10} = ( 19 ) 10 ​ রবিনের বর্তমান বয়স বাইনারিতে রূপান্তর; সুতরাং ( 10011 ) 2 (10011)_{2} ( 10011 ) 2 ​ বছর পর তার বয়স ( 100110 ) 2 (100110)_{2} ( 100110 ) 2 ​ হবে।"
+    },
+    {
+      "number": "40",
+      "tag": "",
+      "question": "Which number is the largest? (কোন সংখ্যাটি সবচেয়ে বড়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 10000 ) 2 (10000)_{2} ( 10000 ) 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 32 ) 10 (32)_{10} ( 32 ) 10 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 40 ) 8 (40)_{8} ( 40 ) 8 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 24 ) 16 (24)_{16} ( 24 ) 16 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "( 10000 ) 2 (10000)_{2} ( 10000 ) 2 ​",
+      "option_b": "( 32 ) 10 (32)_{10} ( 32 ) 10 ​",
+      "option_c": "( 40 ) 8 (40)_{8} ( 40 ) 8 ​",
+      "option_d": "( 24 ) 16 (24)_{16} ( 24 ) 16 ​",
+      "correct": "ঘ",
+      "explanation": "অপশন “ঘ” এর সংখ্যা টি সবচেয়ে বড়।"
+    },
+    {
+      "number": "41",
+      "tag": "",
+      "question": "2's Complement পদ্ধতিতে বিয়োগ করা হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "যোগ করে",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "বিয়োগ করে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ভাগ করে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "গুণ করে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "যোগ করে",
+      "option_b": "বিয়োগ করে",
+      "option_c": "ভাগ করে",
+      "option_d": "গুণ করে",
+      "correct": "ক",
+      "explanation": "২ এর পরিপূরক পদ্ধতিতে যোগের সাহায্যে বিয়োগের কাজ করা হয়। যে সংখ্যাটি থেকে বিয়োগ করা হয় তাকে বিয়োজক (Minuend) এবং যে সংখ্যাটিকে বিয়োগ করা হবে তাকে বিয়োজ্য (Subtrahend) বলা হয়।"
+    },
+    {
+      "number": "42",
+      "tag": "DB 24,DIN.B 24,RB 24,MC 24,GECP 24,BCC 23,VNSC 23,MGCC 23,RCC 23,FCC 23,DRMC 23,RB 19,MAD.B 18,SB 17,RU B 20-21 (অ-বাণিজ্য),RU B 19-20 (অ-বাণিজ্য),GST B 21-22,FET 21-22",
+      "question": "নিউমেরিক কোড কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "BCD",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ASCII",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "EBCDIC",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Unicode",
+          "is_correct": false
+        }
+      ],
+      "option_a": "BCD",
+      "option_b": "ASCII",
+      "option_c": "EBCDIC",
+      "option_d": "Unicode",
+      "correct": "ক",
+      "explanation": "নিউমেরিক কোড এমন কোড যা শুধুমাত্র সংখ্যা বা ডিজিটস ব্যবহার করে তথ্যকে উপস্থাপন করে। BCD (Binary-Coded Decimal), ASCII (American Standard Code for Information Interchange), EBCDIC (Extended Binary Coded Decimal Interchange Code), এবং UNICODE সবগুলোই কোডিং স্কিম, তবে তারা ভিন্ন ভিন্ন উদ্দেশ্যে ব্যবহৃত হয়। নিউমেরিক কোডের মধ্যে: BCD (Binary-Coded Decimal): এটি একটি নিউমেরিক কোড যেটি দশমিক সংখ্যাগুলিকে বাইনারি সংখ্যা দিয়ে উপস্থাপন করে। প্রতিটি দশমিক ডিজিট চারটি বাইনারি বিট দ্বারা প্রতিনিধিত্ব করা হয়। অন্য কোডিং স্কিমগুলো: ASCII: এটি একটি ক্যারেক্টার এনকোডিং স্কিম যা ইংরেজি বর্ণমালা, সংখ্যা, এবং অন্যান্য চরিত্রগুলির জন্য ৭-বিটের কোড ব্যবহার করে। EBCDIC: এটি একটি ক্যারেক্টার এনকোডিং স্কিম যা ৮-বিটের কোড ব্যবহার করে, মূলত IBM কম্পিউটারগুলিতে ব্যবহৃত হয়। UNICODE: এটি একটি ক্যারেক্টার এনকোডিং স্কিম যা বিশ্বজুড়ে সব ভাষার চরিত্রগুলিকে কোড করতে ব্যবহৃত হয়, এবং এটি বিভিন্ন সংস্করণে (যেমন UTF-8, UTF-16) উপস্থিত। সঠিক উত্তর: BCD (Binary-Coded Decimal) হল নিউমেরিক কোড।"
+    },
+    {
+      "number": "43",
+      "tag": "",
+      "question": "How many characters can be written using Unicode? (ইউনিকোড ব্যবহার করে কতগুলো অক্ষর লেখা সম্ভব?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 8 2^{8} 2 8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 16 − 1 2^{16}-1 2 16 − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 15 2^{15} 2 15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 16 2^{16} 2 16",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 8 2^{8} 2 8",
+      "option_b": "2 16 − 1 2^{16}-1 2 16 − 1",
+      "option_c": "2 15 2^{15} 2 15",
+      "option_d": "2 16 2^{16} 2 16",
+      "correct": "ঘ",
+      "explanation": "ইউনিকোডঃ বিশ্বের সকল ভাষাকে কম্পিউটারে কোউ ভুক্ত করার জন্য বড় বড় কোম্পানিগুলো একটি মান তৈরি করেছে যাকে ইউনিকোড বলা হয়। সুতরাং বাংলা বর্ণমাল এর UNICODE অর্ন্তভুক্ত।"
+    },
+    {
+      "number": "44",
+      "tag": "",
+      "question": "বাংলা বর্ণমালা কোন কোডভুক্ত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "BCD",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ASCII",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "UNICODE",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "EBCDIC",
+          "is_correct": false
+        }
+      ],
+      "option_a": "BCD",
+      "option_b": "ASCII",
+      "option_c": "UNICODE",
+      "option_d": "EBCDIC",
+      "correct": "গ",
+      "explanation": "বাংলা বর্ণমালা ইউনিকোড (Unicode) কোডভুক্ত। ইউনিকোড হলো একটি ক্যারেক্টার এনকোডিং স্ট্যান্ডার্ড যা বিশ্বের প্রায় সকল লেখার সিস্টেমের অক্ষরকে সমর্থন করার জন্য ডিজাইন করা হয়েছে।"
+    },
+    {
+      "number": "45",
+      "tag": "",
+      "question": "Home Economics College-কে HEC লিখা হলে তা কোন ধরনের",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নিউমেরিক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আলফা নিউমেরিক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "নেমোনিক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অ্যাক্রোনিম",
+          "is_correct": true
+        }
+      ],
+      "option_a": "নিউমেরিক",
+      "option_b": "আলফা নিউমেরিক",
+      "option_c": "নেমোনিক",
+      "option_d": "অ্যাক্রোনিম",
+      "correct": "ঘ",
+      "explanation": "Home Economics College-এর প্রতিটি শব্দের প্রথম অক্ষর নিয়ে গঠিত সংক্ষেপ HEC হলো এক ধরনের অ্যাক্রোনিম (Acronym) ।"
+    },
+    {
+      "number": "46",
+      "tag": "",
+      "question": "AND এবং NOT গেইট মিলে কোন গেইট হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "NOR",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "NAND",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "OR",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "X-OR",
+          "is_correct": false
+        }
+      ],
+      "option_a": "NOR",
+      "option_b": "NAND",
+      "option_c": "OR",
+      "option_d": "X-OR",
+      "correct": "খ",
+      "explanation": "AND এবং NOT গেইট মিলে NAND গেইট হয়। NAND গেইটকে একটি ইউনিভার্সাল গেইট (Universal Gate) বলা হয়, কারণ শুধুমাত্র এই একটি গেইট ব্যবহার করেই অন্যান্য সকল মৌলিক গেইট (AND, OR, NOT) তৈরি করা সম্ভব।"
+    },
+    {
+      "number": "47",
+      "tag": "",
+      "question": "নিচের কোনটি মৌলিক লজিক গেইট নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অর (OR) গেইট",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অ্যান্ড (AND) গেইট",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "নট (NOT) গেইট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ন্যান্ড (NAND) গেইট",
+          "is_correct": true
+        }
+      ],
+      "option_a": "অর (OR) গেইট",
+      "option_b": "অ্যান্ড (AND) গেইট",
+      "option_c": "নট (NOT) গেইট",
+      "option_d": "ন্যান্ড (NAND) গেইট",
+      "correct": "ঘ",
+      "explanation": "লজিক গেইট মূলত তিন প্রকার মৌলিক গেইট নিয়ে গঠিত: OR, AND, এবং NOT। ২. ন্যান্ড (NAND) গেইট হলো একটি যৌগিক বা সার্বজনীন গেইট, যা AND এবং NOT গেইটের সমন্বয়ে তৈরি হয়। ৩. যেহেতু ন্যান্ড গেইট অন্য দুটি মৌলিক গেইটের সমন্বয়ে গঠিত, তাই এটি নিজে কোনো মৌলিক লজিক গেইট নয়। ৪. অতএব, প্রশ্নোক্ত বিকল্পগুলোর মধ্যে ন্যান্ড গেইটটিই মৌলিক লজিক গেইটের অন্তর্ভুক্ত নয়।"
+    },
+    {
+      "number": "48",
+      "tag": "",
+      "question": "চিত্রটি কোন গেইটের?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "NAND",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Ex-OR",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "OR",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Ex-NOR",
+          "is_correct": false
+        }
+      ],
+      "option_a": "NAND",
+      "option_b": "Ex-OR",
+      "option_c": "OR",
+      "option_d": "Ex-NOR",
+      "correct": "খ",
+      "explanation": "এই প্রতীকে একটি OR গেটের চিহ্নের সামনে অতিরিক্ত একটি বাঁকা রেখা রয়েছে, যা এটিকে একটি এক্সক্লুসিভ-অর গেট হিসাবে চিহ্নিত করে। ২. এক্স-অর গেট কেবলমাত্র তখনই হাই (১) আউটপুট দেয় যখন এর ইনপুটগুলো পরস্পর ভিন্ন হয় (যেমন: একটি ০ এবং অন্যটি ১)। ৩. যদি ইনপুটগুলি একই হয় (উভয়ই ০ অথবা উভয়ই ১), তবে আউটপুট লো (০) হবে।"
+    },
+    {
+      "number": "49",
+      "tag": "",
+      "question": "XOR সার্কিট তৈরি হয় কোন লজিক গেইট দিয়ে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "OR",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "AND, OR",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "AND, NOT",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "AND, NOT ও OR",
+          "is_correct": true
+        }
+      ],
+      "option_a": "OR",
+      "option_b": "AND, OR",
+      "option_c": "AND, NOT",
+      "option_d": "AND, NOT ও OR",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "50",
+      "tag": "",
+      "question": "নিচের কোনটি Central Processing Unit (CPU)-এর অংশ নয়",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Control Unit",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Memory Unit",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Logic Unit",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "System Unit",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Control Unit",
+      "option_b": "Memory Unit",
+      "option_c": "Logic Unit",
+      "option_d": "System Unit",
+      "correct": "ঘ",
+      "explanation": "সিস্টেম ইউনিট হলো কম্পিউটারের প্রধান ক্যাবিনেট বা বক্স, যার ভেতরে CPU, মেমরি এবং অন্যান্য ইলেকট্রনিক যন্ত্রাংশ থাকে। অন্যদিকে, CPU-এর অভ্যন্তরে তিনটি প্রধান কার্যকরী অংশ থাকে: Control Unit (CU), Arithmetic Logic Unit (ALU) (এখানে Logic Unit), এবং Memory Unit (বা Register Unit)। সুতরাং, CPU-এর অভ্যন্তরীণ কাজের অংশ নয় হলো সিস্টেম ইউনিট।"
+    },
+    {
+      "number": "51",
+      "tag": "",
+      "question": "নিচের কোনটি নিউমেরিক সংখ্যাকে বাইনারিতে রূপান্তরিত করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "এনকোডার",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ডিকোডার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ফ্লিপ ফ্লপ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "রেজিস্টার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "এনকোডার",
+      "option_b": "ডিকোডার",
+      "option_c": "ফ্লিপ ফ্লপ",
+      "option_d": "রেজিস্টার",
+      "correct": "ক",
+      "explanation": "এনকোডার হলো একটি লজিক সার্কিট যা নিউমেরিক (দশমিক) ইনপুটকে গ্রহণ করে সেগুলোকে বাইনারি কোডেড আউটপুটে রূপান্তর করে। এই ডিভাইসটি সাধারণত 2^n সংখ্যক ইনপুট লাইনকে n সংখ্যক আউটপুট লাইনে এনকোড করার মাধ্যমে ডিজিটাল সিস্টেমে ডেটা সংকোচন ও প্রক্রিয়াকরণের কাজ করে।"
+    },
+    {
+      "number": "52",
+      "tag": "",
+      "question": "বাইনারি বিটের যোগের বর্তনীকে কী বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যাডার সার্কিট",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "কাউন্টার রেজিস্টার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বাইনারি রিপল কাউন্টার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "শিফট রেজিস্টার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অ্যাডার সার্কিট",
+      "option_b": "কাউন্টার রেজিস্টার",
+      "option_c": "বাইনারি রিপল কাউন্টার",
+      "option_d": "শিফট রেজিস্টার",
+      "correct": "ক",
+      "explanation": "বাইনারি বিটের যোগের বর্তনীকে বলা হয় অ্যাডার সার্কিট।অ্যাডার সার্কিট হলো একটি ডিজিটাল লজিক বর্তনী যা দুটি বাইনারি বিট বা সংখ্যাকে যোগ করার জন্য ব্যবহৃত হয়। ডিজিটাল কম্পিউটারে গাণিতিক ও লজিক অপারেশনের জন্য এটি মৌলিক বিল্ডিং ব্লক হিসেবে কাজ করে।"
+    },
+    {
+      "number": "53",
+      "tag": "",
+      "question": "নিচের কোনটিকে কম্পিউটারের মস্তিষ্কের সাথে তুলনা করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বাস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "প্রসেসর",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "র‍্যাম",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "রম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বাস",
+      "option_b": "প্রসেসর",
+      "option_c": "র‍্যাম",
+      "option_d": "রম",
+      "correct": "খ",
+      "explanation": "কম্পিউটারের প্রসেসর (Processor)-কেই সাধারণত মস্তিষ্কের (Brain) সাথে তুলনা করা হয়।"
+    },
+    {
+      "number": "54",
+      "tag": "",
+      "question": "What is the sequential circuit that can calculate the number of input pulses called? (যে সিকুয়েন্সিয়াল সার্কিট ইনপুট পালসের সংখ্যা গণনা করতে পারে তাকে কী বলে?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রেজিস্টার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শিফট রেজিস্টার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অ্যাডার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কাউন্টার",
+          "is_correct": true
+        }
+      ],
+      "option_a": "রেজিস্টার",
+      "option_b": "শিফট রেজিস্টার",
+      "option_c": "অ্যাডার",
+      "option_d": "কাউন্টার",
+      "correct": "ঘ",
+      "explanation": "কাউন্টার হল একটি সিকুয়েন্সিয়াল সার্কিট যা ইনপুট পালসের সংখ্যা গণনা করতে পারে। এটি ক্লক পালস ব্যবহার করে ইনপুট পালস গণনা করে। কাউন্টার বিভিন্ন ধরণের হতে পারে, যেমন আপ-কাউন্টার, ডাউন-কাউন্টার, আপ-ডাউন কাউন্টার ইত্যাদি। কাউন্টার বিভিন্ন ইলেকট্রনিক ডিভাইসে ব্যবহৃত হয়, যেমন ডিজিটাল ঘড়ি, ফ্রিকোয়েন্সি মিটার, কম্পিউটার ইত্যাদি।"
+    },
+    {
+      "number": "55",
+      "tag": "",
+      "question": "ওয়েবসাইটের পূর্ণ ঠিকানা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "http:www.ictd.gov.bd",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "http/www.ictd.gov.bd",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "http://www.ictd.gov.bd",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "http:/www.ictdgov",
+          "is_correct": false
+        }
+      ],
+      "option_a": "http:www.ictd.gov.bd",
+      "option_b": "http/www.ictd.gov.bd",
+      "option_c": "http://www.ictd.gov.bd",
+      "option_d": "http:/www.ictdgov",
+      "correct": "গ",
+      "explanation": "একটি ওয়েবসাইটের পূর্ণ ঠিকানা বা URL (Uniform Resource Locator) সাধারণত একটি প্রোটোকল দিয়ে শুরু হয় (যেমন: http: বা https: ), যার পরে ডাবল স্ল্যাশ (//) থাকে।"
+    },
+    {
+      "number": "56",
+      "tag": "",
+      "question": "শিক্ষাপ্রতিষ্ঠানে ব্যবহৃত টপ লেভেল ডোমেইনের নাম কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": ".gov",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": ".com",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": ".edu",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": ".org",
+          "is_correct": false
+        }
+      ],
+      "option_a": ".gov",
+      "option_b": ".com",
+      "option_c": ".edu",
+      "option_d": ".org",
+      "correct": "গ",
+      "explanation": "শিক্ষাপ্রতিষ্ঠানে ব্যবহৃত প্রধান টপ লেভেল ডোমেইন (Top Level Domain - TLD) এর নাম হলো .edu ।"
+    },
+    {
+      "number": "58",
+      "tag": "",
+      "question": "HTML এর উদ্ভাবক কে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Steve Jobs",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Tim Burners Lee",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Bill Gates",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Mark Zuckerberg",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Steve Jobs",
+      "option_b": "Tim Burners Lee",
+      "option_c": "Bill Gates",
+      "option_d": "Mark Zuckerberg",
+      "correct": "খ",
+      "explanation": "HTML (HyperText Markup Language)-এর উদ্ভাবক হলেন টিম বার্নার্স-লি (Tim Berners-Lee)।"
+    },
+    {
+      "number": "59",
+      "tag": "",
+      "question": "Which protocol is used to browse internet web pages? (ইন্টারনেটে ওয়েবপেজ ব্রাউজ করতে কোন প্রটোকল ব্যবহার হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "FTP",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "IP",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "TCP",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "HTTP",
+          "is_correct": true
+        }
+      ],
+      "option_a": "FTP",
+      "option_b": "IP",
+      "option_c": "TCP",
+      "option_d": "HTTP",
+      "correct": "ঘ",
+      "explanation": "HTTP হলো Hypertext Markup Language ওয়েবপেজ তৈরির জন্য বহুল ব্যবহৃত একটি প্রোগ্রামিং ল্যাংগুয়েজ। এটি মূলত টেক্সটভিত্তিক প্রোগাম ভাষা। ইন্টারনেটে যে প্রোটোকল ওয়েব সার্ভার ও ক্লায়েন্ট-এর মধ্যে ডেটা আদান-প্রদান করে তাকে HTTP বলে। ক্লায়েন্ট বিভিন্ন ব্রাউজারের মাধ্যমে ওয়েবপেইজের জন্য সার্ভারকে অনুরোধ পাঠাতে পারে। সার্ভার ক্লায়েন্টের চাহিদা অনুযায়ী ওয়েবপেইজকে ক্লায়েন্টের কাছে পাঠিয়ে দেয়। ক্লায়েন্ট বিভিন্ন ব্রাউজারের মাধ্যমে তা দেখতে পায়।"
+    },
+    {
+      "number": "60",
+      "tag": "",
+      "question": "What is the result of HTML code-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "C H 3 C H \\mathrm{CH} 3 \\mathrm{CH} CH 3 CH",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "C H 3 C H \\mathrm{CH}^{3} \\mathrm{CH} CH 3 CH",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "C H 3 C H \\mathrm{CH}_{3} \\mathrm{CH} CH 3 ​ CH",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "C H − C H \\mathrm{CH}-\\mathrm{CH} CH − CH",
+          "is_correct": false
+        }
+      ],
+      "option_a": "C H 3 C H \\mathrm{CH} 3 \\mathrm{CH} CH 3 CH",
+      "option_b": "C H 3 C H \\mathrm{CH}^{3} \\mathrm{CH} CH 3 CH",
+      "option_c": "C H 3 C H \\mathrm{CH}_{3} \\mathrm{CH} CH 3 ​ CH",
+      "option_d": "C H − C H \\mathrm{CH}-\\mathrm{CH} CH − CH",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "61",
+      "tag": "",
+      "question": "(C) সুডো কোড কখন করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রোগ্রাম কোডিং এর পূর্বে",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "প্রোগ্রাম কোডিং এর পরে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ব্লক অপারেশনের পূর্বে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ব্লক অপারেশনের পরে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রোগ্রাম কোডিং এর পূর্বে",
+      "option_b": "প্রোগ্রাম কোডিং এর পরে",
+      "option_c": "ব্লক অপারেশনের পূর্বে",
+      "option_d": "ব্লক অপারেশনের পরে",
+      "correct": "ক",
+      "explanation": "সুডো কোড হলো একটি প্রোগ্রামের চূড়ান্ত কোডিং শুরু করার ঠিক আগে লিখিত একটি ছদ্ম বা নকল কোড , যা কোনো নির্দিষ্ট প্রোগ্রামিং ভাষার ব্যাকরণ (syntax) অনুসরণ না করে সাধারণ মানুষের বোধগম্য ভাষায় লেখা হয়। এটি মূলত অ্যালগরিদমের যৌক্তিক কাঠামোকে একটি সুস্পষ্ট টেক্সট রূপে উপস্থাপন করে, যার ফলে প্রোগ্রামার ও দলের সদস্যরা খুব সহজে পুরো প্রোগ্রামের কার্যপ্রণালী বুঝতে এবং যাচাই করতে পারে।"
+    },
+    {
+      "number": "62",
+      "tag": "",
+      "question": "Which of the following is used to store homogeneous data in C language? (C ভাষায় সমজাতীয় ডাটা সংরক্ষণের জন্য কোনটি ব্যবহৃত হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ফাইল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "পয়েন্টার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্ট্রাকচার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "এ্যারে",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ফাইল",
+      "option_b": "পয়েন্টার",
+      "option_c": "স্ট্রাকচার",
+      "option_d": "এ্যারে",
+      "correct": "ঘ",
+      "explanation": "অ্যারেঃ অ্যারে হলো ধারাবাহিক মেমোরি লোকেশনের সমষ্টি যেখানে একই ধরনের ডেটা সংরক্ষণ করা হয় একটি মাত্র ভেরিয়েবলের দ্বারা। প্রতিটি মেমোরি লোকেশন একটি পূর্ণসংখ্যা দ্বারা নির্দিষ্ট করা হয়। প্রথম মেমোরি লোকেশন 0 দ্বারা শুরু হয়। অ্যারে ভেরিয়েবল একই নামে, একই টাইপের একাধিক ডেটা সংরক্ষণে সক্ষম। অ্যারে একটি ডিরাইভড ডেটা টাইপ। সাধারণ ভেরিয়েবল ঘোষণার মতো ব্যবহারের পূর্বে ডেটাটাইপসহ অ্যারে ভেরিয়েবল ঘোষণার প্রয়োজন হয়। অ্যারে ঘোষণার সাধারণ ফরম্যাট হলো: data_type Array_name [size];"
+    },
+    {
+      "number": "63",
+      "tag": "",
+      "question": "নিচের কোনটি প্রোগ্রামিং ভাষার বৈশিষ্ট্য নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আনস্ট্রাকচার্ড",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "মেশিননির্ভর",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পোর্টেবল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সিনট্যাক্সভিত্তিক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "আনস্ট্রাকচার্ড",
+      "option_b": "মেশিননির্ভর",
+      "option_c": "পোর্টেবল",
+      "option_d": "সিনট্যাক্সভিত্তিক",
+      "correct": "ক",
+      "explanation": "প্রোগ্রামিং ভাষার অন্যতম গুরুত্বপূর্ণ বৈশিষ্ট্য হলো এটি সুগঠিত (Structured), তাই আনস্ট্রাকচার্ড হওয়া এর বৈশিষ্ট্য নয়। অধিকাংশ উচ্চস্তরের প্রোগ্রামিং ভাষা মেশিন-স্বাধীন ও পোর্টেবল হয়, অর্থাৎ এক মেশিনের কোড অন্য মেশিনে চালানো যায়। সকল প্রোগ্রামিং ভাষা একটি নির্দিষ্ট সিনট্যাক্স (ব্যাকরণ) অনুসরণ করে লেখা হয়, যা এর আবশ্যিক বৈশিষ্ট্য। সুতরাং, ক. আনস্ট্রাকচার্ড হলো প্রোগ্রামিং ভাষার বৈশিষ্ট্য নয়।"
+    },
+    {
+      "number": "64",
+      "tag": "",
+      "question": "Which is the wrong data type in C programming? (C প্রোগ্রামিংয়ে কোনটি ভুল ডাটা টাইপ?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "short int",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "long double",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "signed float",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "signed char",
+          "is_correct": false
+        }
+      ],
+      "option_a": "short int",
+      "option_b": "long double",
+      "option_c": "signed float",
+      "option_d": "signed char",
+      "correct": "গ",
+      "explanation": "সি প্রোগ্রামিংয়ে signed float বলতে কোনো বৈধ ডেটা টাইপ নেই। float ডেটা টাইপ নিজে থেকেই সাইনড (signed) হয়, অর্থাৎ এটি ধনাত্মক এবং ঋণাত্মক উভয় সংখ্যাই সংরক্ষণ করতে পারে। তাই, signed কীওয়ার্ডটি float -এর সাথে ব্যবহার করা অপ্রয়োজনীয় এবং ভুল।"
+    },
+    {
+      "number": "65",
+      "tag": "",
+      "question": "জাম্পিং স্টেটমেন্ট কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "goto",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "switch",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "if-else",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "do-while",
+          "is_correct": false
+        }
+      ],
+      "option_a": "goto",
+      "option_b": "switch",
+      "option_c": "if-else",
+      "option_d": "do-while",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "66",
+      "tag": "",
+      "question": "কম্পিউটার দ্বারা পুনরাবৃত্তিমূলক কাজ করার পদ্ধতিকে কী বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্টেটমেন্ট",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সর্টিং",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "লুপিং",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সাবরুটিন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "স্টেটমেন্ট",
+      "option_b": "সর্টিং",
+      "option_c": "লুপিং",
+      "option_d": "সাবরুটিন",
+      "correct": "গ",
+      "explanation": "কম্পিউটার প্রোগ্রামিংয়ে, একই নির্দেশনা বা নির্দেশের সেটকে বারবার বা একটি নির্দিষ্ট সংখ্যকবার সম্পন্ন করার পদ্ধতিকে লুপিং বলা হয়।"
+    },
+    {
+      "number": "67",
+      "tag": "DIN.B 24,CB 24,BNMPC 24,SB 17,RU B 23-24 (অ-বাণিজ্য)",
+      "question": "প্রোগ্রামের ত্রুটি সংশোধনের পদ্ধতিকে কী বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Encoding",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Amending",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Debugging",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Correction",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Encoding",
+      "option_b": "Amending",
+      "option_c": "Debugging",
+      "option_d": "Correction",
+      "correct": "গ",
+      "explanation": "ডিবাগিং (Debugging) প্রোগ্রামের ভুলত্রুটি খুঁজে বের করে তা দূর করাকে বলে ডিবাগিং, এর আক্ষরিক অর্থ পোকা বাছা। 1945 সালে মার্ক 1 কম্পিউটারটির ভিতরে একটি মথপোকা ঢোকায় কম্পিউটারটি হঠাৎ বন্ধ হয়ে যায়। এ থেকেই ডিবাগিং কথাটির উৎপত্তি। সব ভুলত্রুটি দূর না হওয়া পর্যন্ত কোন প্রোগ্রামই ব্যবহার করা যায় না।"
+    },
+    {
+      "number": "68",
+      "tag": "",
+      "question": "Which converts source code into machine code? (কোনটি সোর্স কোডকে মেশিন কোডে রূপান্তরিত করে?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কম্পাইলার",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ইন্টারপ্রেটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "এ্যাসেম্বলার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সবকটি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কম্পাইলার",
+      "option_b": "ইন্টারপ্রেটার",
+      "option_c": "এ্যাসেম্বলার",
+      "option_d": "সবকটি",
+      "correct": "ক",
+      "explanation": "কম্পাইলার (Compiler): কম্পাইলার প্রথমে পুরো প্রোগ্রামটি পরীক্ষা করে দেখে যে এর ভাষার নিয়মকানুন (যাকে ইংরেজিতে বলে সিনট্যাক্স Syntax) ঠিক আছে কি না। যদি ঠিক থাকে, তখন সে পুরো প্রোগ্রামটি কম্পাইল করে মেশিন কোডে রূপান্তর করে। যেহেতু পুরো প্রোগামটি একবারে কম্পাইল করা হয় তাই প্রোগ্রামে কোনো ভুল থাকলে সব একসাথে দেখানো হয়। সে কারণে ভুলগুলো শুদ্ধ করা একটু জটিল। তবে কম্পাইল করার পর এই প্রোগ্রামগুলো অনেক দ্রুতগতিতে কাজ করে।"
+    },
+    {
+      "number": "69",
+      "tag": "",
+      "question": "অ্যারে কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৪",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১",
+      "option_b": "২",
+      "option_c": "৩",
+      "option_d": "৪",
+      "correct": "খ",
+      "explanation": "অ্যারে দুই প্রকার। যথা : ১) একমাত্রিক অ্যারে (One Dimensional Array) । ২) বহুমাত্রিক অ্যারে (Multi Dimensional Array ।"
+    },
+    {
+      "number": "70",
+      "tag": "",
+      "question": "Which is the next step of the design step in creating the program? (প্রোগ্রাম তৈরিতে ডিজাইন ধাপের পরবর্তী ধাপ কোনটি?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমস্যা বিশ্লেষণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "প্রোগ্রাম কোডিং",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "প্রোগ্রাম চালানো",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রোগ্রাম রক্ষণাবেক্ষণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমস্যা বিশ্লেষণ",
+      "option_b": "প্রোগ্রাম কোডিং",
+      "option_c": "প্রোগ্রাম চালানো",
+      "option_d": "প্রোগ্রাম রক্ষণাবেক্ষণ",
+      "correct": "খ",
+      "explanation": "কম্পিউটারের সাহায্যে কোনো সমস্যা সমাধানের জন্য প্রোগ্রাম তৈরির পাঁচটি ধাপ রয়েছে, যথা- ধাপ-১ঃ সমাস বিশ্লেষণ ধাপ-২ঃ প্রোগ্রাম ডিজাইন ধাপ-৩ঃ প্রোগ্রাম ডেভেলপমেন্ট বা কোডিং ধাপ-৪ঃ প্রোগ্রাম বাস্তবায়ন (টেস্টিং ও প্রোগ্রামের ডিবাগিং) ধাপ-৫ঃ প্রোগ্রাম রক্ষণাবেক্ষণ প্রোগ্রাম ডেভেলপমেন্ট বা কোডিং : অ্যালগোরিদম, ফ্লোচার্ট ও সুডোকোড থেকে সুবিধামত কোন প্রোগ্রামিং ভাষায় প্রোগ্রাম লিখতে হয়। এ হল প্রোগ্রামিং এর সবচেয়ে সহজ অংশ-একে প্রোগ্রাম কোডিং বলে ।"
+    },
+    {
+      "number": "71",
+      "tag": "",
+      "question": "Which method is used to find the data from the database? (কোন পদ্ধতিটি ডাটাবেজ থেকে ডাটা খুঁজে বের করতে ব্যবহার করা হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সটিং",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সিলেক্টিং",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "জয়েনিং",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইনডেক্সিং",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সটিং",
+      "option_b": "সিলেক্টিং",
+      "option_c": "জয়েনিং",
+      "option_d": "ইনডেক্সিং",
+      "correct": "খ",
+      "explanation": "ডাটাবেজ থেকে ডাটা খুঁজে বের করতে সাধারণত \"সিলেক্টিং\" পদ্ধতি ব্যবহার করা হয়। এটি SQL ভাষায় SELECT কমান্ডের মাধ্যমে সম্পন্ন হয়, যা ডাটাবেজ থেকে নির্দিষ্ট তথ্য নির্বাচন করতে সাহায্য করে। সঠিক উত্তর: সিলেক্টিং"
+    },
+    {
+      "number": "72",
+      "tag": "",
+      "question": "What technology is used to ensure data privacy? (ডাটার গোপনীয়তা নিশ্চিতে কোন প্রযুক্তি ব্যবহৃত হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ইনডেক্সিং",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "এনক্রিপশান",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ডিক্রিপশান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইনফরমাটিক্স",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ইনডেক্সিং",
+      "option_b": "এনক্রিপশান",
+      "option_c": "ডিক্রিপশান",
+      "option_d": "ইনফরমাটিক্স",
+      "correct": "খ",
+      "explanation": "ডেটা এনক্রিপশন (Data encryption): ডেটা এনক্রিপশন হলো ডেটা সিকিউরটির সাথে জড়িত। 'হার্ড ডিস্কে যখন ডেটা সংরক্ষণ করা হয়, কিংবা নেটওয়ার্কের মাধ্যমে ডেটা আদান-প্রদান করা হয়, তখন সেই ডেটার গোপনীয়তা রক্ষা করতে হলে ডেটা এনক্রিপ্ট (encrypt) করতে হয়। তা না হলে অনাকাঙ্ক্ষিত ব্যক্তি কিংবা সিস্টেম সেই ডেটা পড়ে ফেলতে পারে। ডেটা এনক্রিপ্ট করার ধারণা কিন্তু নতুন নয়, বা এটা যে কেবল কম্পিউটারের সঙ্গে সম্পর্কিত, এমনটি নয়। হাজার বছর আগেও মানুষ ডেটা এনক্রিপ্ট করত, যেন যাকে ডেটা পাঠানো হচ্ছে সে ছাড়া অন্য কেউ সেই ডেটার মর্মোদ্ধার করতে না পারে।"
+    },
+    {
+      "number": "73",
+      "tag": "",
+      "question": "What kind of statement are the UPDATE and ALTER commands, respectively? (UPDATE এবং ALTER কমান্ডদ্বয় যথাক্রমে কোন ধরনের স্টেটমেন্ট?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "DML ও DDL",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "DDL ও DDL",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "DDL ও DML",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "DML ও DML",
+          "is_correct": false
+        }
+      ],
+      "option_a": "DML ও DDL",
+      "option_b": "DDL ও DDL",
+      "option_c": "DDL ও DML",
+      "option_d": "DML ও DML",
+      "correct": "ক",
+      "explanation": "UPDATE কমান্ড : UPDATE কমান্ড ডাটাবেজের মধ্যে বিদ্যমান তথ্য পরিবর্তন করতে ব্যবহৃত হয়। এটি ডাটাবেজ টেবিলের এক বা একাধিক রেকর্ড আপডেট করে। UPDATE কমান্ডটি Data Manipulation Language (DML) এর অংশ। ALTER কমান্ড : ALTER কমান্ড ডাটাবেজের স্ট্রাকচার বা স্কিমা পরিবর্তন করতে ব্যবহৃত হয়। এটি টেবিলের কলাম যোগ করা, মুছে ফেলা, বা পরিবর্তন করা, এবং অন্যান্য স্ট্রাকচারাল পরিবর্তন করার জন্য ব্যবহৃত হয়। ALTER কমান্ডটি Data Definition Language (DDL) এর অংশ।"
+    },
+    {
+      "number": "74",
+      "tag": "",
+      "question": "ডেটার সুসংগঠিত সংগ্রহ, সংরক্ষণ ও উপস্থাপন পদ্ধতিকে কী বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডেটা প্রসেসিং",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ইনফরমেশন সিস্টেম",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ডেটা কোডিং",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সিস্টেম উন্নয়ন চক্র",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ডেটা প্রসেসিং",
+      "option_b": "ইনফরমেশন সিস্টেম",
+      "option_c": "ডেটা কোডিং",
+      "option_d": "সিস্টেম উন্নয়ন চক্র",
+      "correct": "খ",
+      "explanation": "ইনফরমেশন সিস্টেম (IS) বলতে একটি সুসংগঠিত পদ্ধতিকে বোঝায় যেখানে ডেটা সংগ্রহ, সংরক্ষণ, পুনরুদ্ধার, প্রক্রিয়া এবং বিতরণের জন্য মানুষ, হার্ডওয়্যার, সফটওয়্যার, ডেটা এবং পদ্ধতি বা প্রক্রিয়া (procedures) একত্রে কাজ করে।"
+    },
+    {
+      "number": "75",
+      "tag": "",
+      "question": "ডেটা এন্ট্রি, পেজ মেকআপ, এডিটিং- এ বিষয়গুলো কিসের সাথে সম্পর্কিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডিজিটাল লজিক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কম্পিউটার আর্কিটেকচার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্রোগ্রাম ডিজাইন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ডকুমেন্ট প্রসেসিং",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ডিজিটাল লজিক",
+      "option_b": "কম্পিউটার আর্কিটেকচার",
+      "option_c": "প্রোগ্রাম ডিজাইন",
+      "option_d": "ডকুমেন্ট প্রসেসিং",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "76",
+      "tag": "",
+      "question": "ডেটা এনক্রিপশন ও ডিক্রিপশনের নিয়ম কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সাইবারনট্রিক্স",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ক্রিপ্টোগ্রাফি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ইনফরমেট্রিক্স",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সাইট্রেকগ্রাফি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সাইবারনট্রিক্স",
+      "option_b": "ক্রিপ্টোগ্রাফি",
+      "option_c": "ইনফরমেট্রিক্স",
+      "option_d": "সাইট্রেকগ্রাফি",
+      "correct": "খ",
+      "explanation": "ডেটা এনক্রিপশন ও ডিক্রিপশনের নিয়ম হলো ক্রিপ্টোগ্রাফি। ক্রিপ্টোগ্রাফি হলো এমন একটি কৌশল যা ডেটাকে একটি গোপন কোডে (Ciphertext) রূপান্তর করে তথ্যকে সুরক্ষিত রাখে। এই প্রক্রিয়ার মাধ্যমে ডেটা যাতে শুধু অনুমোদিত ব্যক্তিই পড়তে পারে তা নিশ্চিত করা হয়।"
+    },
+    {
+      "number": "79",
+      "tag": "",
+      "question": "বঙ্গবন্ধু তাঁর 'অসমাপ্ত আত্মজীবনী' লেখা শুরু করেন কোন সালে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১৯৫২",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "১৯৬৬",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১৯৬৭",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "১৯৭১",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১৯৫২",
+      "option_b": "১৯৬৬",
+      "option_c": "১৯৬৭",
+      "option_d": "১৯৭১",
+      "correct": "গ",
+      "explanation": "জাতির জনক বঙ্গবন্ধু শেখ মুজিবর রহমানের “অসমাপ্ত আত্মজীবনী” ১৯৬৭ সাল থেকে লেখা শুরু করে। “অসমাপ্ত আত্মজীবনী” শেখ মুজিবুর রহমানের আত্মজীবনী সংকলন, ২০১২ সালে বইটি প্রকাশিত হয়। এই বইটি ইংরেজি, উর্দু, জাপানি, চীনা, আরবি, ফরাসি, হিন্দী, তুর্কি, স্প্যানিশ, অসমীয়া ও মালয় ভাষায় অনূদিত হয়েছে।"
+    },
+    {
+      "number": "81",
+      "tag": "DU B 19-20",
+      "question": "সভ্যতার বিস্তারের সাথে সাথে যা বিলুপ্ত হয়েছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পণ্য",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কৃষকের দারিদ্র্য",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "দেশি শিল্প",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "কৃষি-অর্থনীতি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "পণ্য",
+      "option_b": "কৃষকের দারিদ্র্য",
+      "option_c": "দেশি শিল্প",
+      "option_d": "কৃষি-অর্থনীতি",
+      "correct": "গ",
+      "explanation": "রোকেয়া সাখাওয়াত হোসেন রচিত 'চাষার দুক্ষু' প্রবন্ধে সভ্যতা বিস্তারের কথা বলতে গিয়ে বলেছেন- সভ্যতা বিস্তারের সঙ্গে সঙ্গে দেশি শিল্পসমূহ ক্রমশ বিলুপ্ত হইয়াছে ।"
+    },
+    {
+      "number": "82",
+      "tag": "",
+      "question": "‘লোক-লোকান্তর' কবিতায় চেতনার তুল্যরূপ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সত্যিকার পাখি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সবুজ অরণ্য",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "নক্ষত্র",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কৃষ্ণচূড়া",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সত্যিকার পাখি",
+      "option_b": "সবুজ অরণ্য",
+      "option_c": "নক্ষত্র",
+      "option_d": "কৃষ্ণচূড়া",
+      "correct": "ক",
+      "explanation": "আমার চেতনা যেন একটি শাদা সত্যিকার পাখি, বসে আছে সবুজ অরণ্যে এক চন্দনের ডালে; মাথার ওপরে নিচে বনচারী বাতাসের তালে দোলে বন্য পানলতা, সুগন্ধ পরাগে মাখামাখি।"
+    },
+    {
+      "number": "83",
+      "tag": "DU B 19-20",
+      "question": "ইতিহাসের একজন সামন্ত নবাব হয়েও সিরাজউদ্দৌলা নাটকে সিরাজ চরিত্রটি হয়ে উঠেছে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "দেশপ্রেমিক নেতা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ষড়যন্ত্র-জাল ছিন্নকারী",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "লড়াকু বীর",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "জনদরদি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "দেশপ্রেমিক নেতা",
+      "option_b": "ষড়যন্ত্র-জাল ছিন্নকারী",
+      "option_c": "লড়াকু বীর",
+      "option_d": "জনদরদি",
+      "correct": "ক",
+      "explanation": "সিরাজ চরিত্রের সবচেয়ে গুরুত্বপূর্ণ দিক হলো একজন সামন্ত নবাব থেকে জনতার শক্তিতে জাগ্রত হবার বিশ্বাস নিয়ে দেশপ্রেমিক নেতায় পরিণত হওয়া । নাটকের উপান্তে লক্ষ করা যায় যে, সিরাজ আর জনতা একই কাতারে এসে দাঁড়িয়েছে"
+    },
+    {
+      "number": "85",
+      "tag": "RU A 20-21 Group-3,RU A 18-19 Group-2",
+      "question": "‘পর্বতের মুষিক প্রসব' কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বিরাট সম্ভাবনা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "কল্পনার আধার আধার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কণ্ঠরোধ করা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কন্যাদান",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বিরাট সম্ভাবনা",
+      "option_b": "কল্পনার আধার আধার",
+      "option_c": "কণ্ঠরোধ করা",
+      "option_d": "কন্যাদান",
+      "correct": "ক",
+      "explanation": "কতিপয় গুরুত্বপূর্ণ বাগ্‌ধারা : পয়লানম্বর (অতি চমৎকার), পঞ্চত্ব প্রাপ্ত (মারা যাওয়া), পই পই করে (বার বার স্মরণ করিয়ে দেওয়া), পরঘড়ি পান্তা মারি (হাড়হাভাতে লোক), পঞ্চমুখ হওয়া (প্রশংসায় মুখর হওয়া)।"
+    },
+    {
+      "number": "86",
+      "tag": "DU B 19-20",
+      "question": "\"যিনি ন্যায়শাস্ত্র জানেন' এর এককথায় প্রকাশিত রূপ হলো-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ন্যায়বাগীশ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নৈয়ায়িক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ন্যায়পাল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ন্যায়বদ্ধ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ন্যায়বাগীশ",
+      "option_b": "নৈয়ায়িক",
+      "option_c": "ন্যায়পাল",
+      "option_d": "ন্যায়বদ্ধ",
+      "correct": "খ",
+      "explanation": "কতিপয় এক কথায় প্রকাশ : ন্যায়শাস্ত্রে সুপণ্ডিত = ন্যায়বাগীশ, নাগরিকদের ন্যায়সঙ্গত অধিকারের প্রতিপালক = ন্যায়পাল্, ন্যায়শাস্ত্রে বিশিষ্ট জ্ঞান লাভজ্ঞাপক উপাধি = ন্যায়ালঙ্কার, যিনি বিচার করেন = ন্যাষ্ট্রকর্তা, ন্যায় মেনে চলে এমন = ন্যায়নিষ্ঠ । যিনি ন্যায়শাস্ত্র জানেন-নৈয়ায়িক"
+    },
+    {
+      "number": "87",
+      "tag": "DU B 19-20",
+      "question": "প্রৌঢ়' শব্দটির যথাযথ সন্ধিবিচ্ছেদ হলো-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্র +ঊঢ়",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "প্রো + উঢ়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্র + ওঢ়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রো + ঔঢ়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্র +ঊঢ়",
+      "option_b": "প্রো + উঢ়",
+      "option_c": "প্র + ওঢ়",
+      "option_d": "প্রো + ঔঢ়",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "88",
+      "tag": "BUP FSSS 20-21",
+      "question": "‘বকধার্মিক’ কোন সমাসের উদাহরণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মধ্যপদলোপী কর্মধারয়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "উপমান কর্মধারয়",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "উপমিত কর্মধারয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "রূপক কর্মধারয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মধ্যপদলোপী কর্মধারয়",
+      "option_b": "উপমান কর্মধারয়",
+      "option_c": "উপমিত কর্মধারয়",
+      "option_d": "রূপক কর্মধারয়",
+      "correct": "খ",
+      "explanation": "প্রত্যক্ষ কোনো বস্তুর সাথে পরোক্ষ কোনো বস্তুর তুলনা করলে প্রত্যক্ষ বস্তুটিকে বলা হয় উপমেয় এবং যার সঙ্গে তুলনা করা হয় তাকে উপমান বলে। সাধারন কর্মবাচক ‘পদের সাথে উপমান বাচক পদের যে সমাস হয় তাকে উপমান কর্মধারয় সমাস বলে। যেমনঃ- “বকধার্মিক: বকের ন্যায় ধার্মিক”; বক মাছ ধরার জন্য ধ্যান করে, ঠিক তেমনি ধার্মিকরা একাগ্রচিত্তে/এক মনে নামাজ পড়ে। ভাবগত মিল আছে।"
+    },
+    {
+      "number": "89",
+      "tag": "DU B 19-20",
+      "question": "‘নয়নকমল’ এর যথার্থ ব্যাসবাক্য হলো—",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নয়নের ন্যায় কমল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নয়ন কমলের ন্যায়",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "নয়নে কমল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "নয়ন ও কমল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নয়নের ন্যায় কমল",
+      "option_b": "নয়ন কমলের ন্যায়",
+      "option_c": "নয়নে কমল",
+      "option_d": "নয়ন ও কমল",
+      "correct": "খ",
+      "explanation": "সাধারণ ধর্ম বা গুণ উল্লেখ না করে যখন উপমেয় পদের সাথে উপমান পদের সমাস সাধিত হয় তখন তাকে উপমিত কর্মধারয় সমাস বলে। এ ক্ষেত্রে সাধারণ ধর্ম বা গুণ কল্পনা করে নিতে হয়। যেমন- মুখ চন্দ্রের ন্যায় = মুখচন্দ্ৰ, পুরুষ সিংহের ন্যায় = পুরুষসিংহ, অধর পলবের ন্যায় = অধরপলব, কর পল্লবের ন্যায় = করপল্লব।"
+    },
+    {
+      "number": "90",
+      "tag": "BUP FASS 21-22,DU D 19-20",
+      "question": "‘মানানসই' শব্দের 'সই' কোন ধরনের প্রত্যয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বাংলা কৃৎ প্রত্যয়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বাংলা তদ্ধিত প্রত্যয়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সংস্কৃত তদ্ধিত প্রত্যয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বিদেশি প্রত্যয়",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বাংলা কৃৎ প্রত্যয়",
+      "option_b": "বাংলা তদ্ধিত প্রত্যয়",
+      "option_c": "সংস্কৃত তদ্ধিত প্রত্যয়",
+      "option_d": "বিদেশি প্রত্যয়",
+      "correct": "ঘ",
+      "explanation": "'সই' প্রত্যয়টি ফারসি তদ্ধিত প্রত্যয় যা বিদেশি প্রত্যয় এর অন্তর্ভুক্ত। কয়েকটি ফারসি তদ্ধিত প্রত্যয় এর উদাহরণ দার (দোকানদার), বাজি/বাজ (বাজিগর), খোর (সুদখোর), গিরি (বাবুগিরি), তর (যেমনতর), সই (মানানসই, টেকসই), দান/ দানি (মোমদানি), বন্দি/বন্দু (নজরবন্দি), খানা (জেলখানা)। বিশেষ দ্রষ্টব্যঃ টিপসই এবং নামসই শব্দ দুটোতে 'সই' প্রত্যয় নয়। এটি 'সহি’ (অর্থ – স্বাক্ষর) শব্দ থেকে উৎপন্ন।"
+    },
+    {
+      "number": "93",
+      "tag": "CU B 16-17 SET-3",
+      "question": "Which of the following has a metaphor?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "He is the star of the family.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "He is as good as his brother.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "He sang like a cuckoo.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "The boy takes after his father.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "He is the star of the family.",
+      "option_b": "He is as good as his brother.",
+      "option_c": "He sang like a cuckoo.",
+      "option_d": "The boy takes after his father.",
+      "correct": "ক",
+      "explanation": "Metaphor রূপক। যেখানে ২টি আলাদা বস্তুর মধ্যে Common কিছু নিয়ে কথা বলা হয়। metaphor এ As বা Like উহ্য থাকবে।"
+    },
+    {
+      "number": "94",
+      "tag": "",
+      "question": "The figure of speech found in \"I have known the eyes already, known them all\" is-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Synecdoche",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Personification",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Irony",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Eulogy",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Synecdoche",
+      "option_b": "Personification",
+      "option_c": "Irony",
+      "option_d": "Eulogy",
+      "correct": "ক",
+      "explanation": "Synecdoche (সিনেকডকি) দ্বারা কোনো দল বা ব্যক্তি বা বস্তুর কোনো অংশের দ্বারা পুরো ব্যক্তি বা বস্তুকে তুলে ধরা হয়। এখানে কবিতার পঙ্ক্তিটি T.S Eliot এর Pruforck কবিতা থেকে নেওয়া হয়েছে। এখানে কবি The eyes দ্বারা Women কে বুঝিয়েছেন।"
+    },
+    {
+      "number": "95",
+      "tag": "",
+      "question": "Had I known her, I —— her.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "would meet",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "would had meet",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "would have met",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "would met",
+          "is_correct": false
+        }
+      ],
+      "option_a": "would meet",
+      "option_b": "would had meet",
+      "option_c": "would have met",
+      "option_d": "would met",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "96",
+      "tag": "RU B 15-16,DU C 08-09,JKKNIU C 18-19",
+      "question": "It costs about TK. 1000 to have a tooth______",
+      "options": [
+        {
+          "label": "ক",
+          "text": "filling",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "to fill",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "filled",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "fill",
+          "is_correct": false
+        }
+      ],
+      "option_a": "filling",
+      "option_b": "to fill",
+      "option_c": "filled",
+      "option_d": "fill",
+      "correct": "গ",
+      "explanation": "have এর পরে ব্যক্তিবাচক object থাকলে present form এ হয়। এবং বস্তুবাচক object থাকলে past participle হয়। tooth শব্দটি বস্তুবাচক হওয়ায় verb টি past participle হবে।"
+    },
+    {
+      "number": "97",
+      "tag": "",
+      "question": "I saw a man —— on a rope.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "walking",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "walked",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "to walk",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "walk",
+          "is_correct": false
+        }
+      ],
+      "option_a": "walking",
+      "option_b": "walked",
+      "option_c": "to walk",
+      "option_d": "walk",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "98",
+      "tag": "",
+      "question": "Gradually all of us______ the Internet.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "are getting accustomed to use",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "are becoming accustomed to use",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "are getting accustomed to using",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "are getting used to use.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "are getting accustomed to use",
+      "option_b": "are becoming accustomed to use",
+      "option_c": "are getting accustomed to using",
+      "option_d": "are getting used to use.",
+      "correct": "গ",
+      "explanation": "be used to/ get used to/ accustomed to / look forward to/ with a view to + ( v + i n g ) +(\\mathrm{v}+\\mathrm{ing}) + ( v + ing ) ."
+    },
+    {
+      "number": "99",
+      "tag": "",
+      "question": "A drowning man will —— at a straw.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "throw",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "bite",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "hide",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "catch",
+          "is_correct": true
+        }
+      ],
+      "option_a": "throw",
+      "option_b": "bite",
+      "option_c": "hide",
+      "option_d": "catch",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "100",
+      "tag": "",
+      "question": "I —— a reply to my letter in the next few days.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "write",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "expect",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "wait",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "get",
+          "is_correct": false
+        }
+      ],
+      "option_a": "write",
+      "option_b": "expect",
+      "option_c": "wait",
+      "option_d": "get",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "101",
+      "tag": "",
+      "question": "Which would you —— have, Ice or coffee?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "rather",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "prefer",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "could",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "better",
+          "is_correct": false
+        }
+      ],
+      "option_a": "rather",
+      "option_b": "prefer",
+      "option_c": "could",
+      "option_d": "better",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "102",
+      "tag": "",
+      "question": "Three-fourths of the work —— finished.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "have been",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "had",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "has been",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "were",
+          "is_correct": false
+        }
+      ],
+      "option_a": "have been",
+      "option_b": "had",
+      "option_c": "has been",
+      "option_d": "were",
+      "correct": "গ",
+      "explanation": ". ভগ্নাংশের নিয়ম: বাক্যে যদি ভগ্নাংশ (যেমন: Three-fourths, One-third) বা শতাংশ থাকে, তবে তার পরের Noun-টি যদি Uncountable (গণনা করা যায় না এমন) হয়, তাহলে ভার্বটি সবসময় Singular হয়। ২. এখানে প্রয়োগ: 'Work' শব্দটি একটি Uncountable Noun । তাই 'Three-fourths of the work' অংশটি একটি একক পরিমাণ হিসেবে বিবেচিত হয়। ৩. টেন্স ও ভয়েস: কাজটি শেষ করা হয়েছে (কারো দ্বারা)—এই প্যাসিভ অর্থ প্রকাশ করতে Present Perfect Passive রূপে 'has been' ব্যবহৃত হয়েছে।"
+    },
+    {
+      "number": "103",
+      "tag": "",
+      "question": "Everyone ate snake soup —— Halima",
+      "options": [
+        {
+          "label": "ক",
+          "text": "and",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "so",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "but",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Or",
+          "is_correct": false
+        }
+      ],
+      "option_a": "and",
+      "option_b": "so",
+      "option_c": "but",
+      "option_d": "Or",
+      "correct": "গ",
+      "explanation": "সঠিক উত্তর হলো— গ) but সঠিক বাক্য: Everyone ate snake soup but Halima. কারণ: এখানে “but” ব্যবহার করে বোঝানো হচ্ছে যে সবাই খেয়েছে, হালিমা ছাড়া।"
+    },
+    {
+      "number": "104",
+      "tag": "",
+      "question": "The professor —— Australia amazed the students with her stories. Fill in the blank with -",
+      "options": [
+        {
+          "label": "ক",
+          "text": "of",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "in",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "at",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "from",
+          "is_correct": true
+        }
+      ],
+      "option_a": "of",
+      "option_b": "in",
+      "option_c": "at",
+      "option_d": "from",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "105",
+      "tag": "",
+      "question": "What kind of noun is 'cattle'?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Proper",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Common",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Collective",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Material",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Proper",
+      "option_b": "Common",
+      "option_c": "Collective",
+      "option_d": "Material",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "106",
+      "tag": "",
+      "question": "What is the noun form of the word 'waste\"?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "wastess",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "wasting",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "wastage",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "wasteful",
+          "is_correct": false
+        }
+      ],
+      "option_a": "wastess",
+      "option_b": "wasting",
+      "option_c": "wastage",
+      "option_d": "wasteful",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "107",
+      "tag": "",
+      "question": "Stockings are —-socks.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "long",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "small",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "loose",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "short",
+          "is_correct": false
+        }
+      ],
+      "option_a": "long",
+      "option_b": "small",
+      "option_c": "loose",
+      "option_d": "short",
+      "correct": "ক",
+      "explanation": "Stockings এবং Socks -এর মধ্যে প্রধান পার্থক্য হলো এদের দৈর্ঘ্য বা লম্বা হওয়ার পরিমাণ। Stockings: এগুলো সাধারণত পায়ের পাতা থেকে শুরু করে হাঁটু বা উরু (thigh) পর্যন্ত লম্বা হয়। এগুলো বেশ আঁটসাঁট (tight-fitting) হয়ে থাকে। Socks: এগুলো সাধারণত পায়ের গোড়ালি (ankle) বা বড়জোর বাছুরের (calf) মাঝামঝি পর্যন্ত লম্বা হয়।"
+    },
+    {
+      "number": "108",
+      "tag": "",
+      "question": "The word ‘vital' is _____.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a noun",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "an adverb",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "an adjective",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a verb",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a noun",
+      "option_b": "an adverb",
+      "option_c": "an adjective",
+      "option_d": "a verb",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "109",
+      "tag": "",
+      "question": "The girl in green is my cousin. Functionally, the underlined phrase is a/an:",
+      "options": [
+        {
+          "label": "ক",
+          "text": "noun phrase",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "adjective phrase",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "adverbial phrase",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "prepositional phrase",
+          "is_correct": false
+        }
+      ],
+      "option_a": "noun phrase",
+      "option_b": "adjective phrase",
+      "option_c": "adverbial phrase",
+      "option_d": "prepositional phrase",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "110",
+      "tag": "DU B 16-17",
+      "question": "Choose the correct sentence:",
+      "options": [
+        {
+          "label": "ক",
+          "text": "The announcer awarded the prize to Jamil and myself.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "The announcer awarded the prize to Jamil and me.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "The announcer awarded the prize to Jamil and I.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "The announcer awarded the prize to I and Jamil.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "The announcer awarded the prize to Jamil and myself.",
+      "option_b": "The announcer awarded the prize to Jamil and me.",
+      "option_c": "The announcer awarded the prize to Jamil and I.",
+      "option_d": "The announcer awarded the prize to I and Jamil.",
+      "correct": "খ",
+      "explanation": "The correct sentence is: খ The announcer awarded the prize to Jamil and me. Explanation: \"Me\" is the correct pronoun to use in this sentence because it is the object of the verb \"awarded.\" \"Myself\" is a reflexive pronoun used for emphasis or to reflect the subject, and \"I\" is incorrect in this context because it should be the object."
+    },
+    {
+      "number": "112",
+      "tag": "",
+      "question": "Which one in the following sentences is correct?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "The flower had lost its freshness",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "The flower has lost its life",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "The flower has lost its beauty",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "The flower has lost its glamour",
+          "is_correct": false
+        }
+      ],
+      "option_a": "The flower had lost its freshness",
+      "option_b": "The flower has lost its life",
+      "option_c": "The flower has lost its beauty",
+      "option_d": "The flower has lost its glamour",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "113",
+      "tag": "",
+      "question": "_____ more help, I could call my neighbor.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "has she been driving",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "was she driving",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "she had driven",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "she drove",
+          "is_correct": false
+        }
+      ],
+      "option_a": "has she been driving",
+      "option_b": "was she driving",
+      "option_c": "she had driven",
+      "option_d": "she drove",
+      "correct": "খ",
+      "explanation": "Adverb of order sequence (পর্যায়ক্রমে বুঝাতে) এর শুরুতে বসলে Sentence টিতে Auxiliary Verb এমনকি main verb (Auxiliary verb না থাকলে) Subject এর পূর্বে আসবে। Auxiliary Verb + Subj. + Main verb. Inversion এর নিয়মে।"
+    },
+    {
+      "number": "115",
+      "tag": "",
+      "question": "I wish I —— English fluently. The right expression for the gap is:",
+      "options": [
+        {
+          "label": "ক",
+          "text": "will speak",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "could speak",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "can speak",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "speak",
+          "is_correct": false
+        }
+      ],
+      "option_a": "will speak",
+      "option_b": "could speak",
+      "option_c": "can speak",
+      "option_d": "speak",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "116",
+      "tag": "",
+      "question": "I wanted the poster ___.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "hang",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "to be hanged",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "to be hunged",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "to be hung",
+          "is_correct": true
+        }
+      ],
+      "option_a": "hang",
+      "option_b": "to be hanged",
+      "option_c": "to be hunged",
+      "option_d": "to be hung",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "118",
+      "tag": "",
+      "question": "Passive from of \"Who will decorate the house\" is?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "By whom the house will be decorated?",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "By whom the house will being decorated?",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "By whom will the house be decorated?",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "By whom will the house being decorated?",
+          "is_correct": false
+        }
+      ],
+      "option_a": "By whom the house will be decorated?",
+      "option_b": "By whom the house will being decorated?",
+      "option_c": "By whom will the house be decorated?",
+      "option_d": "By whom will the house being decorated?",
+      "correct": "গ",
+      "explanation": "Who যুক্ত interrogative sentence এর Active voice to Passive Voice করার নিয়ম- i) Who এর পরিবর্তে By whom বসে। ii) Tense ও Person অনুযায়ী auxiliary verb (be verb) বসে। iii) Object টির Subjective form বসে। iv) অনেক সময় tense অনুযায়ী Sub এর পরে be/being/been বসে। v) মূল verb এর past participle form বসে। vi) প্রশ্নবোধক চিহ্ন বসে।"
+    },
+    {
+      "number": "119",
+      "tag": "DU B 16-17",
+      "question": "Choose the correct sentence :",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Irom Sharmila is on hunger strike since the year 2000.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Irom Sharmila is being on hunger strike since the year 2000.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Irom Sharmila was on hunger strike since the year 2000.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Irom Sharmila has been on hunger strike since the year 2000.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Irom Sharmila is on hunger strike since the year 2000.",
+      "option_b": "Irom Sharmila is being on hunger strike since the year 2000.",
+      "option_c": "Irom Sharmila was on hunger strike since the year 2000.",
+      "option_d": "Irom Sharmila has been on hunger strike since the year 2000.",
+      "correct": "ঘ",
+      "explanation": "since + নির্দিষ্ট সময় থাকায় has been on hunger strike (২০০০ সাল থেকে অনশন ধর্মঘটে থাকা) হবে ।"
+    },
+    {
+      "number": "121",
+      "tag": "",
+      "question": "The antonym for 'inimical' is ___.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "friendly",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "hostile",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "indifferent",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "angry",
+          "is_correct": false
+        }
+      ],
+      "option_a": "friendly",
+      "option_b": "hostile",
+      "option_c": "indifferent",
+      "option_d": "angry",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "122",
+      "tag": "",
+      "question": "Choose the word which is similar to 'Election-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Friendship",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Selection",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Enemy",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Choose",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Friendship",
+      "option_b": "Selection",
+      "option_c": "Enemy",
+      "option_d": "Choose",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "123",
+      "tag": "",
+      "question": "What is the antonym for 'honorary\"?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Salaried",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Official",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Honorable",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Literary",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Salaried",
+      "option_b": "Official",
+      "option_c": "Honorable",
+      "option_d": "Literary",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "124",
+      "tag": "",
+      "question": "Choose the correct antonym of \"Decay\"",
+      "options": [
+        {
+          "label": "ক",
+          "text": "flourish",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "wither",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "to decline",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Waste away",
+          "is_correct": false
+        }
+      ],
+      "option_a": "flourish",
+      "option_b": "wither",
+      "option_c": "to decline",
+      "option_d": "Waste away",
+      "correct": "ক",
+      "explanation": "Decay (ডিক্যে): ক্ষয় হওয়া, পচে যাওয়া বা অবনতি ঘটা। Flourish (ফ্লাওরিশ): উন্নতি করা, সমৃদ্ধ হওয়া বা বিকশিত হওয়া।"
+    },
+    {
+      "number": "125",
+      "tag": "",
+      "question": "\"Euphemism\" is-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A direct expression of admiration",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A witty remark.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "An indirect expression for a harsh one.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "An unpleasant expression.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A direct expression of admiration",
+      "option_b": "A witty remark.",
+      "option_c": "An indirect expression for a harsh one.",
+      "option_d": "An unpleasant expression.",
+      "correct": "গ",
+      "explanation": "Euphemism অর্থ হলো শ্রুতি কটু (Harsh) শব্দের পরিবর্তে কোমলময় শব্দ সুভাষণ ।"
+    },
+    {
+      "number": "126",
+      "tag": "",
+      "question": "‘Blockhead' means-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Stupid person",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "A quite person",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Clever",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A dangerous person",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Stupid person",
+      "option_b": "A quite person",
+      "option_c": "Clever",
+      "option_d": "A dangerous person",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "127",
+      "tag": "",
+      "question": "The room is untidy. Here untidy means -",
+      "options": [
+        {
+          "label": "ক",
+          "text": "tight",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "messy",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "mess",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "loose",
+          "is_correct": false
+        }
+      ],
+      "option_a": "tight",
+      "option_b": "messy",
+      "option_c": "mess",
+      "option_d": "loose",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "128",
+      "tag": "",
+      "question": "The synonym of the word \"Zenith' is-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Absolute",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Top",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Lowest",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Zend",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Absolute",
+      "option_b": "Top",
+      "option_c": "Lowest",
+      "option_d": "Zend",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "129",
+      "tag": "",
+      "question": "We were surprised —— his failure.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "in",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "out",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "at",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "for",
+          "is_correct": false
+        }
+      ],
+      "option_a": "in",
+      "option_b": "out",
+      "option_c": "at",
+      "option_d": "for",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "130",
+      "tag": "",
+      "question": "When they had their first child, they put……….. a large sum for his education.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "aside",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "beside",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "outside",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "under",
+          "is_correct": false
+        }
+      ],
+      "option_a": "aside",
+      "option_b": "beside",
+      "option_c": "outside",
+      "option_d": "under",
+      "correct": "ক",
+      "explanation": "Put aside: এর অর্থ হলো ভবিষ্যতে কোনো বিশেষ প্রয়োজনে টাকা বা সময় সঞ্চয় করা বা আলাদা করে রাখা (to save or keep something for a particular purpose)। বাক্যের অর্থ: \"যখন তাদের প্রথম সন্তান হয়েছিল, তারা তার শিক্ষার জন্য একটি বড় অঙ্কের টাকা সঞ্চয় করে রেখেছিল ।\""
+    },
+    {
+      "number": "131",
+      "tag": "",
+      "question": "In spite of my requests, he did not ___.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "give in",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "fall in",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "get off",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "give forth",
+          "is_correct": false
+        }
+      ],
+      "option_a": "give in",
+      "option_b": "fall in",
+      "option_c": "get off",
+      "option_d": "give forth",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "132",
+      "tag": "MAT 23-24,CU D 17-18",
+      "question": "Let's call it a day means____.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "isn’t it day time?",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "let’s stop work now",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "let’s presume it to be a day",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "let’s compare it with a day",
+          "is_correct": false
+        }
+      ],
+      "option_a": "isn’t it day time?",
+      "option_b": "let’s stop work now",
+      "option_c": "let’s presume it to be a day",
+      "option_d": "let’s compare it with a day",
+      "correct": "খ",
+      "explanation": "Let's call it a day decide on agree to stop doing somethings. • Run into debt- ঋণী হওয়া • Play truant- পণায়ন করা • Man of mark- বিখ্যাত ব্যক্তি • Out and out-পুরোপুরি • Brawn Study- অন্যমনস্ক"
+    },
+    {
+      "number": "133",
+      "tag": "",
+      "question": "'A bird in the hand is worth two in the bush' means:",
+      "options": [
+        {
+          "label": "ক",
+          "text": "to feel restricted with less",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "to be content with what one has",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "to have greed for more",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "to capture and control",
+          "is_correct": false
+        }
+      ],
+      "option_a": "to feel restricted with less",
+      "option_b": "to be content with what one has",
+      "option_c": "to have greed for more",
+      "option_d": "to capture and control",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "134",
+      "tag": "",
+      "question": "'Hard-drinking' means:",
+      "options": [
+        {
+          "label": "ক",
+          "text": "drinking a lot of alcohol",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "drinking hard",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "drinking too much",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "drinking with difficulty",
+          "is_correct": false
+        }
+      ],
+      "option_a": "drinking a lot of alcohol",
+      "option_b": "drinking hard",
+      "option_c": "drinking too much",
+      "option_d": "drinking with difficulty",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "135",
+      "tag": "",
+      "question": "'Few and far between’ means",
+      "options": [
+        {
+          "label": "ক",
+          "text": "rarely",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "not very far",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "in between",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "long distance",
+          "is_correct": false
+        }
+      ],
+      "option_a": "rarely",
+      "option_b": "not very far",
+      "option_c": "in between",
+      "option_d": "long distance",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "136",
+      "tag": "",
+      "question": "'Leave no stone unturned’ means -",
+      "options": [
+        {
+          "label": "ক",
+          "text": "heavy stone",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "impossible",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "rare stone",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "try every possible means",
+          "is_correct": true
+        }
+      ],
+      "option_a": "heavy stone",
+      "option_b": "impossible",
+      "option_c": "rare stone",
+      "option_d": "try every possible means",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "137",
+      "tag": "",
+      "question": "The expression 'take into account' means ——.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "count numbers",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "consider",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "think seriously",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "assess",
+          "is_correct": false
+        }
+      ],
+      "option_a": "count numbers",
+      "option_b": "consider",
+      "option_c": "think seriously",
+      "option_d": "assess",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "138",
+      "tag": "RU A 22-23 (Group-4)",
+      "question": "The man wants something to eat . The underlined phrase is-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "prepositional phrase",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "adverbial phrase",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "adjective phrase",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "noun phrase",
+          "is_correct": true
+        }
+      ],
+      "option_a": "prepositional phrase",
+      "option_b": "adverbial phrase",
+      "option_c": "adjective phrase",
+      "option_d": "noun phrase",
+      "correct": "ঘ",
+      "explanation": "Principal clause এর verb কে what দ্বারা প্রশ্ন করলে যে উত্তর পাওয়া যায় তা Noun clause / phrase এখানে wants কে what দ্বারা প্রশ্ন করলে something to eat উত্তর পাওয়া যায়। তাই something to eat phrase টি Noun phrase."
+    },
+    {
+      "number": "139",
+      "tag": "",
+      "question": "Which one is correctly spelt?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "walkee-talkee",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "walkie-talkie",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "wackee-tackee",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "wakie-takie",
+          "is_correct": false
+        }
+      ],
+      "option_a": "walkee-talkee",
+      "option_b": "walkie-talkie",
+      "option_c": "wackee-tackee",
+      "option_d": "wakie-takie",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "140",
+      "tag": "",
+      "question": "Choose the correct one:",
+      "options": [
+        {
+          "label": "ক",
+          "text": "mispel",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "misspell",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "mispell",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "misspel",
+          "is_correct": false
+        }
+      ],
+      "option_a": "mispel",
+      "option_b": "misspell",
+      "option_c": "mispell",
+      "option_d": "misspel",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "141",
+      "tag": "RU A 21-22 (Group-2)",
+      "question": "A person who draws maps is a____________.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "lexicographer",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "cartographer",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "geologist",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "topographer",
+          "is_correct": false
+        }
+      ],
+      "option_a": "lexicographer",
+      "option_b": "cartographer",
+      "option_c": "geologist",
+      "option_d": "topographer",
+      "correct": "খ",
+      "explanation": "Cartographer (মানচিত্রকর) One who draws maps Sculptor (ভাস্কর)One who carves on stone Architect (স্থপতি)One who plans and draws the designs of building Geologist (ভূতত্ত্ববিদ)One who studies rocks and soil Meteorologist (আবহাওয়াবিদ)One who studies meteorology"
+    },
+    {
+      "number": "142",
+      "tag": "",
+      "question": "'Ring master' is a person in charge of-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A bus counter.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A circus performance",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "A cinema hall",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A dramatic performance",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A bus counter.",
+      "option_b": "A circus performance",
+      "option_c": "A cinema hall",
+      "option_d": "A dramatic performance",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "143",
+      "tag": "",
+      "question": "“Malignancy\" is-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "the feeling of hatred.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "the state of a disease likely to cause death",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "the science of maleness",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "the belief in life after death",
+          "is_correct": false
+        }
+      ],
+      "option_a": "the feeling of hatred.",
+      "option_b": "the state of a disease likely to cause death",
+      "option_c": "the science of maleness",
+      "option_d": "the belief in life after death",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "144",
+      "tag": "",
+      "question": "Select the pair that best expresses a relationship similar to that expressed in the pair- FISH: SCALES",
+      "options": [
+        {
+          "label": "ক",
+          "text": "plane: wings",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "cat : claws",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "snake: fangs",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "bird : feathers",
+          "is_correct": true
+        }
+      ],
+      "option_a": "plane: wings",
+      "option_b": "cat : claws",
+      "option_c": "snake: fangs",
+      "option_d": "bird : feathers",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "145",
+      "tag": "",
+      "question": "Which is the Correct tanslation of the sencence \"এই বইখানি আমি খুঁজছি\"।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "This book I am looking for.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "I am looking for this book.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "The book which I am looking for is this.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "The book for which I am looking for is this.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "This book I am looking for.",
+      "option_b": "I am looking for this book.",
+      "option_c": "The book which I am looking for is this.",
+      "option_d": "The book for which I am looking for is this.",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "148",
+      "tag": "BUP FSSS 20-21",
+      "question": "When did Bangabandhu return Bangladesh? (বঙ্গবন্ধু কবে স্বদেশে প্রত্যাবর্তন করেন?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 January, 1971",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8 January, 1972",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16 December 1971",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10 January, 1972",
+          "is_correct": true
+        }
+      ],
+      "option_a": "10 January, 1971",
+      "option_b": "8 January, 1972",
+      "option_c": "16 December 1971",
+      "option_d": "10 January, 1972",
+      "correct": "ঘ",
+      "explanation": "২৬ মার্চ, ১৯৭১ সালে স্বাধীনতা ঘোষণার পরপরই বঙ্গবন্ধু শেখ মুজিবুর রহমানকে পাক বাহিনী গ্রেফতার করে পাকিস্তানে নিয়ে যায়। তিনি স্বাধীনতার পর ৮ জানুয়ারী ১৯৭২ সালে পাকিস্তানের কারাগার থেকে মুক্তি লাভ করে লন্ডনে পৌছেন। ১০ জানুয়ারি দিল্লি হয়ে ঢাকায় প্রত্যাবর্তন করেন যা স্বদেশ প্রত্যাবর্তন দিবস হিসেবে পরিচিত।"
+    },
+    {
+      "number": "149",
+      "tag": "",
+      "question": "Ratargul Forest is situated in? ( রাতারগুল কোথায় অবস্থিত?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কলাগাছি (Kollagachi )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শ্রীমঙ্গল (Sremongol)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "গোয়াইনঘাট (Gowainghat)",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "খালিসপুর (Kalispur)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কলাগাছি (Kollagachi )",
+      "option_b": "শ্রীমঙ্গল (Sremongol)",
+      "option_c": "গোয়াইনঘাট (Gowainghat)",
+      "option_d": "খালিসপুর (Kalispur)",
+      "correct": "গ",
+      "explanation": "রাতারগুল জলাবন সিলেটের গোয়াইনঘাটে অবস্থিত বাংলাদেশের একমাত্র মিঠাপানির জলাবন। পৃথিবীতে মিঠাপানির যে ২২টি মাত্র জলাবন আছে “রাতারগুল জলাবন” তার মধ্যে একটি। এই জলাবনের আয়তন ৩৩২৫.৬১ একর। একে রাতারগুল সোয়াম্প ফরেস্ট হিসেবেও অভিহিত করা হয়ে থাকে। এর ৫০৪ একর এলাকাকে বাংলাদেশ সরকার ১৯৭৩ সালে বন্যপ্রাণীর অভয়ারণ্য হিসেবে ঘোষণা করে।"
+    },
+    {
+      "number": "150",
+      "tag": "BUP FSSS 20-21,DU B 15-16,DU D 09-10,DU D 07-08",
+      "question": "বাংলাদেশের সংবিধান কতবার সংশোধন করা হয়েছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১২",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "১৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১৭",
+          "is_correct": true
+        }
+      ],
+      "option_a": "১২",
+      "option_b": "১৩",
+      "option_c": "১৪",
+      "option_d": "১৭",
+      "correct": "ঘ",
+      "explanation": "বাংলাদেশের সংবিধান এ যাবৎ ১৭ বার সংশোধন করা হয়েছে । গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান স্বাধীন ও সার্বভৌম বাংলাদেশ রাষ্ট্রের সর্বোচ্চ আইন। এটি একটি লিখিত দলিল। ১৯৭২ খ্রিষ্টাব্দের ৪ঠা নভেম্বর তারিখে বাংলাদেশের জাতীয় সংসদে এই সংবিধান গৃহীত হয় এবং একই বছরের ১৬ই ডিসেম্বর অর্থাৎ বাংলাদেশের বিজয় দিবসের প্রথম বার্ষিকী হতে এটি কার্যকর হয়। মূল সংবিধান ইংরেজি ভাষায় রচিত হয় এবং একে বাংলায় অনুবাদ করা হয়। তাই এটি বাংলা ও ইংরেজি উভয় ভাষায় বিদ্যমান। তবে ইংরেজি ও বাংলার মধ্যে অর্থগত বিরোধ দৃশ্যমান হলে বাংলা রূপ অনুসরণীয় হবে । ১০ই এপ্রিল ২০১৮ সালের সপ্তদশ সংশোধনী সহ বাংলাদেশের সংবিধান সর্বমোট ১৭ বার সংশোধীত হয়েছে। এই সংবিধান সংশোধনের জন্য জাতীয় সংসদের সদস্যদের মোট সংখ্যার দুই তৃতীয়াংশ ভোটের প্রয়োজন হয়। তবে পঞ্চম সংশোধনী , সপ্তম সংশোধনী , ত্রয়োদশ সংশোধনী ও পঞ্চদশ সংশোধনী বাতিলের আদেশে বাংলাদেশ সুপ্রীম কোর্ট রায় দিয়েছে যে, সংবিধানের মূল কাঠামো পরিবর্তন হয়ে যায় এরূপ কোনো সংশোধনী এতে আনা যাবে না; আনা হলে তা হবে এখতিয়ার বহির্ভূত ।"
+    },
+    {
+      "number": "151",
+      "tag": "",
+      "question": "Which river of Bangladesh is famous for hauliang eggs of carp- like fish. (বাংলাদেশের কোন নদী প্রাকৃতিক মৎস্য প্রজনের জন্য পরিচিত)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মেঘনা (Meghna)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "যমুনা (Jamuna)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "হালদা (Halda)",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "পশুর (Poshur)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মেঘনা (Meghna)",
+      "option_b": "যমুনা (Jamuna)",
+      "option_c": "হালদা (Halda)",
+      "option_d": "পশুর (Poshur)",
+      "correct": "গ",
+      "explanation": "বাংলাদেশের একমাত্র প্রাকৃতিক মৎস্য প্রজনন কেন্দ্র হালদা নদী (চট্টগ্রাম)। সামুদ্রিক মাছ শিকারের জন্য বিখ্যাত সোনাদিয়া দ্বীপ। বাংলাদেশের মিঠাপানির মাছের প্রধান উৎস চলন বিল।"
+    },
+    {
+      "number": "152",
+      "tag": "",
+      "question": "The Pulitzer Prize in an award for achievements in the field of ----. (পুলিৎজার পুরস্কার কোন ক্ষেত্রে দেওয়া হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সাংবাদিকতা (Journalism)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "আইন (Law)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আন্তর্জাতিক সম্পর্ক (International Relations)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয় (None )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সাংবাদিকতা (Journalism)",
+      "option_b": "আইন (Law)",
+      "option_c": "আন্তর্জাতিক সম্পর্ক (International Relations)",
+      "option_d": "কোনটিই নয় (None )",
+      "correct": "ক",
+      "explanation": "পুলিৎজার সাংবাদিকতার নোবেল পুরস্কার হিসেবে পরিচিত বর্তমানে মোট ২২টি ক্যাটাগরিতে এই পুরস্কার দেওয়া হয়।"
+    },
+    {
+      "number": "153",
+      "tag": "",
+      "question": "What is the name of the stategic water way that Turkey's largest City and separates Europe form Asia? (তুরষ্কের মধ্য দিয়ে প্রবাহিত হয়ে এশিয়া ও ইউরোপকে পৃথক করেছে কোন প্রণালি?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জিব্রাল্টার (Gibraltar)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বসফোরাস ( Bosphorus)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "দার্দানেলিস (Dardanalies)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সুয়েজ চ্যানেল (Suez Canel)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "জিব্রাল্টার (Gibraltar)",
+      "option_b": "বসফোরাস ( Bosphorus)",
+      "option_c": "দার্দানেলিস (Dardanalies)",
+      "option_d": "সুয়েজ চ্যানেল (Suez Canel)",
+      "correct": "খ",
+      "explanation": "বসফরাস একটি জলপ্রণালী যা এশিয়া ও ইউরোপের মধ্যবর্তী অঞ্চলের একটি অংশে সীমানা নির্দেশ করে। এটিকে অনেক সময় ইস্তানবুল প্রণালীও বলা হয়। বসফরাস, মারমারা উপসাগর এবং দক্ষিণ পশ্চিমের দার্দেনেলাস প্রণালী মিলে তুর্কি প্রণালী গঠিত। বসফরাস প্রণালী বিশ্বের নৌ চলাচলে ব্যবহৃত সবচেয়ে সরু জলপথ। এটি কৃষ্ণ সাগরকে মারমারা উপসাগরের সাথে যুক্ত করেছে। বসফরাস প্রণালীর দুপাশে দু’টি করে চারটি বাতঘর দ্বারা এর সীমানা চিহ্নিত করা হয়েছে। এই সীমানার মধ্যে বসফরাস প্রণালীর দৈর্ঘ্য ৩১ কিলোমিটার। উত্তরের অংশে এর প্রস্থ ৩৩২৯ মিটার এবং দক্ষিণের অংশে প্রস্থ ২৮২৬ মিটার। বসফরাসের সর্বোচ্চ প্রস্থ ৩৪২০ মিটার এবং সর্বনিম্ন প্রস্থ ৭০০ মিটার। সর্বনিম্ন প্রস্থের অংশে নৌ ও ফেরি চলাচল খুবই বিপজ্জনক। কারণ এখানে জলযানের দিক বাক নেয়ার সময় বিপরীত দিক থেকে আগত জলযান দেখা যায় না। এ সমস্যাটি এখানে আরও বেশি প্রকট কারণ বসফরাস দিয়ে প্রচুর জলযান যাতায়াত করে। বসফরাসের গভীরতা ১৩ থেকে ১১০ মিটারের মধ্যে পরিবর্তিত হয়। এর গড় গভীরতা ৬৫ মিটার।গোল্ডেন হর্ন বসফরাস প্রণালীর একটি মোহনা। এটি অতীতে ইস্তানবুলের পুরোনো অংশকে আক্রমণের হাত থেকে রক্ষা করতে দুর্গপরিখা হিসেবে কাজ করতো। এছাড়া এখানে উসমানীয় সাম্রাজ্যের নৌবাহিনীর জলযান নোঙ্গর বাঁধার স্থান হিসেবে ব্যবহৃত হত। বসফরাস নামটি গ্রীক Bosporos (Βόσπορος) থেকে এসেছে। বিংশ শতকের পূর্ব থেকেই এটি মানুষের জানা ছিল যে, কৃষ্ণ সাগর এবং মারমারা উপসাগর পরস্পর একটি গভীর পানিপথ দ্বারা যুক্ত। এই পানিপথটি ভূপৃষ্ঠের থেকে দৃশ্যমান জলের নিচ দিয়ে প্রবাহিত হয়েছে। ২০১০ এর আগস্টে জানা যায় যে পানির নিচ দিয়ে প্রবাহিত এই চ্যানেলটি বিশ্বের ষষ্ঠ বৃহত্তম নদী হতে পারতো যদি এটি ভূমির উপর দিয়ে প্রবাহিত হত। বসফরাসের তীরবর্তি কিছু অংশে কংক্রীট দিয়ে শক্ত করা হয়েছে এবং যে সমস্ত জায়গায় মাটির অবক্ষেপ পড়ে, সেখানে নিয়মিত ড্রেজিং করা হয়।"
+    },
+    {
+      "number": "154",
+      "tag": "",
+      "question": "Between which two countries 'First Opium War' was fought? (কোন দেশের মধ্যে ‘প্রথম আফিম যুদ্ধ‘ হয়েছিল?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "চীন-যুক্তরাষ্ট্র (China - USA)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "চীন-রাশিয়া (China-Russia)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "চীন-জাপান (China - Japan)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চীন-যুক্তরাজ্য (China-UK)",
+          "is_correct": true
+        }
+      ],
+      "option_a": "চীন-যুক্তরাষ্ট্র (China - USA)",
+      "option_b": "চীন-রাশিয়া (China-Russia)",
+      "option_c": "চীন-জাপান (China - Japan)",
+      "option_d": "চীন-যুক্তরাজ্য (China-UK)",
+      "correct": "ঘ",
+      "explanation": "আফিম যুদ্ধ যুক্তরাজ্য ও চীন এর মধ্যকার সংঘটিত যুদ্ধ এটি দুইধাপে সংঘটিত হয়েছিল প্রথম আফিম যুদ্ধ হয় ১৮৩৯ থেকে ১৮৪২ সালে এবং দ্বিতীয় আফিম যুদ্ধ হয় ১৮৫৬ থেকে ১৮৬০ পর্যন্ত।"
+    },
+    {
+      "number": "155",
+      "tag": "BUP FSSS 20-21",
+      "question": "Paris agreement signed on April 22, 2016 was on--? (২২ এপ্রিল, ২০১৬ এ স্বাক্ষরিত প্যারিস চুক্তি ছিল-----?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Counter Terrorism",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Arms limitations",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Climate Change",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Copy Right",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Counter Terrorism",
+      "option_b": "Arms limitations",
+      "option_c": "Climate Change",
+      "option_d": "Copy Right",
+      "correct": "গ",
+      "explanation": "প্যারিস চুক্তি হলো বৈশ্বিক তাপমাত্রা নিয়ন্ত্রন সম্পৰ্কীত চুক্তি। ১৯৫ টি দেশের অংশগ্রহনে প্যারিস চুক্তিতে তাপমাত্রা বৃদ্ধি ২ ডিগ্রি বা তার নিচে রাখার সীমা নির্ধারণ করা হয় ২১০০ সাল পর্যন্ত। এটি ফ্রান্সের প্যারিসে ২০১৫ সালে স্বাক্ষরিত হয়।"
+    },
+    {
+      "number": "156",
+      "tag": "",
+      "question": "এ পর্যন্ত কোন ব্যক্তি অলিম্পিকে সর্বোচ্চ গোল্ড মেডেল পায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "উসাইন বোল্ট (Usain Bolt)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "রাফায়েল নাদাল (Rafael Nadal)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মাইকেল ফেলপ্‌স (Michael Phelps)",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "কার্ল লুইস (Carl Lewis)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "উসাইন বোল্ট (Usain Bolt)",
+      "option_b": "রাফায়েল নাদাল (Rafael Nadal)",
+      "option_c": "মাইকেল ফেলপ্‌স (Michael Phelps)",
+      "option_d": "কার্ল লুইস (Carl Lewis)",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "157",
+      "tag": "",
+      "question": "Which country was the first to approve Pfizer vaccine? (ফাইজার টিকার অনুমোদন দেয় প্রথম কোন দেশ?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "যুক্তরাষ্ট্র (USA)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ইংল্যান্ড (England)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "চীন (China)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইন্ডিয়া (India)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "যুক্তরাষ্ট্র (USA)",
+      "option_b": "ইংল্যান্ড (England)",
+      "option_c": "চীন (China)",
+      "option_d": "ইন্ডিয়া (India)",
+      "correct": "খ",
+      "explanation": "ব্রিটেনের নিয়ন্ত্রক সংস্থা এমএইচআরএ সর্বপ্রথম ফাইজারের টিকা অনুমোদন দেয়।"
+    },
+    {
+      "number": "158",
+      "tag": "",
+      "question": "টোকিও বিচারে বিচারক হিসেবে কে বাংলা থেকে ছিলেন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "এ. কে. মাথুর ( A.K.Mathur)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "রাধা বিনোদ পাল (Radha Binod Pal)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ফানি ভূষণ চক্রবর্তী (Phani Bhushan Chakrabarti)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয় (None)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "এ. কে. মাথুর ( A.K.Mathur)",
+      "option_b": "রাধা বিনোদ পাল (Radha Binod Pal)",
+      "option_c": "ফানি ভূষণ চক্রবর্তী (Phani Bhushan Chakrabarti)",
+      "option_d": "কোনটিই নয় (None)",
+      "correct": "খ",
+      "explanation": "ডঃ রাধা বিনোদ পাল (২৭ জানুয়ারি ১৮৮৬ ১০ জানুয়ারি ১৯৬৭) একজন বাঙালি আইনবিদ এবং কলকাতা বিশ্ববিদ্যালয়ের সাবেক উপাচার্য ছিলেন। তিনি দ্বিতীয় বিশ্বযুদ্ধের পর দূরপ্রাচ্যে সংঘটিত যুদ্ধাপরাধের বিচারার্থে স্থাপিত আন্তর্জাতিক সামরিক আদালতের বিচারক হিসাবে দায়িত্ব পালন করেন। “জাপান বন্ধু ভারতীয়” বলে খ্যাতি রয়েছে তার। জাপানের ইতিহাসে রাধা বিনোদের নাম শ্রদ্ধার সাথে স্মরণ করা হয়। জাপানের টোকিও শহরে তার নামে জাদুঘর, সড়ক ও স্ট্যাচু রয়েছে।"
+    },
+    {
+      "number": "159",
+      "tag": "BUP FSSS 20-21",
+      "question": "Of which organisation Bangladesh is not a member?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "IMF",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "OIC",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "NAM",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ASEAN",
+          "is_correct": true
+        }
+      ],
+      "option_a": "IMF",
+      "option_b": "OIC",
+      "option_c": "NAM",
+      "option_d": "ASEAN",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "160",
+      "tag": "BUP FSSS 20-21",
+      "question": "Which of the following is not a GI product?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Hilsha Fish",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Jamdani Saree",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Amrupali Mango",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Rajshahi Silk",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Hilsha Fish",
+      "option_b": "Jamdani Saree",
+      "option_c": "Amrupali Mango",
+      "option_d": "Rajshahi Silk",
+      "correct": "গ",
+      "explanation": "১৭ আগস্ট ২০১৭ পেটেন্ট, ডিজাইন ও ট্রেডমার্কস অধিদপ্তর বাংলাদেশের জাতীয় মাছ ইলিশকে বাংলাদেশী পণ্য হিসাবে বিশ্ব স্বীকৃতি অর্জনের কথা ঘোষণা করে। এর ফলে ইলিশ বাংলাদেশের দ্বিতীয় ভৌগোলিক নির্দেশক পণ্য হিসেবে নিবন্ধিত হয়। ২৭ জানুয়ারি ২০১৯ তারিখে খিরসাপাত আমকে বাংলাদেশের ৩য় ভৌগোলিক নির্দেশক পণ্য (খাদ্যদ্রব্য) হিসেবে ঘোষণা করা হয়। ২০২০ সালের ২৮ ডিসেম্বর মসলিনকে বাংলাদেশের চতুর্থ ভৌগোলিক নির্দেশক পণ্য বলে স্বীকৃতি দেওয়া হয়। ২০২১ সালের ২৬ এপ্রিল রাজশাহী সিল্ককে ৫ম, রংপুরের ৭০০ বছরের ঐতিহ্যের ধারক বাহক শতরঞ্জিকে ৬ষ্ট, চিনিগুঁড়া চালকে ৭ম, দিনাজপুরের কাটারিভোগকে ৮ম এবং বিজয়পুরের সাদা মাটিকে ৯ম জিআই পণ্য বলে স্বীকৃতি দেওয়া হয়। ২০২২ সালের ২৪ এপ্রিল বাগদা চিংড়িকে বাংলাদেশের ভৌগোলিক নির্দেশক পণ্য বলে আনুষ্ঠানিকভাবে নিবন্ধন সনদ দেওয়া হয়। এটি বাংলাদেশের দশম জিআই পন্য। বাংলাদেশের একাদশতম ভৌগোলিক নির্দেশক জিআই পণ্য রাজশাহীর বিখ্যাত ফজলি আম ( ১১ তম জিআই পণ্য,২০২২) ২০২৩ সালের ৫ই জুলাই আরোও ৪টি পণ্যকে জি আই পণ্য হিসাবে স্বীকৃতি দেওয়া হয়। পণ্যগুলা যথাক্রমে, বগুড়ার বিখ্যাত দই, শেরপুরের তুলসীমালা ধান, চাঁপাইনবাবগঞ্জের ল্যাংড়া আম ও চাঁপাইনবাবগঞ্জের আশ্বিনা আম। ১৬ তম জি আই পণ্যের স্বীকৃতি পায় বাংলাদেশের সিলেটের শীতলপাটি।(২০ জুলাই ২০২৩) ১৭ তম জি আই পণ্যের স্বীকৃতি পায়- নাটোরের কাঁচাগোল্লা। (৮ আগস্ট ২০২৩) সর্বশেষ ৯ জানুয়ারি ২০২৪ জি আই পণ্য হিসেবে টাংগাইলের চমচম, কুমিল্লার রসমালাই, কুষ্টিয়ার তিলের খাজা, বাংলাদেশের ব্ল্যাক বেঙ্গল ছাগল কে স্বীকৃতি দেয়া হয়েছে।"
+    },
+    {
+      "number": "161",
+      "tag": "BUP FSSS 21-22,BUP FSSS 20-21",
+      "question": "hich country suit against Myanmar on Rohingya issue? (মিয়ানমারের বিরুদ্ধে কোন দেশ রোহিঙ্গা ইস্যুতে মামলা করে?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Bangladesh",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Netherlands",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Canada",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Gambia",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Bangladesh",
+      "option_b": "Netherlands",
+      "option_c": "Canada",
+      "option_d": "Gambia",
+      "correct": "ঘ",
+      "explanation": "১১ নভেম্বর ২০১৯ আফ্রিকার দেশ গাম্বিয়া রোহিঙ্গা গণহত্যার অভিযোগে মিয়ানমারের বিরুদ্ধে জাতিসংঘের আন্তর্জাতিক বিচার আদালতে (ICJ) মামলা করে। ইসলামি সহযোগিতা সংস্থার (OIC) সমর্থনে মিয়ানমারের বিরুদ্ধে এই মামলা করে গাম্বিয়া। ১০-১২ ডিসেম্বর ২০১৯ এ মামলার শুনানিতে গাম্বিয়ার পক্ষে নেতৃত্ব দেন দেশটির আইন মন্ত্রী ও অ্যাটর্নি জেনারেল আবুবকর মারি তাম্বাদু আর মিয়ানমারের পক্ষে নেতৃত্ব দেন অং সান সুচি।"
+    },
+    {
+      "number": "162",
+      "tag": "BUP FSSS 20-21",
+      "question": "Who is the fastest 100 wicket taker (in Test format) in Bangladesh?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Mostafiz",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Shakib Al Hasan",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Abdul Razzak",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Mehidy Hasan Miraz",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Mostafiz",
+      "option_b": "Shakib Al Hasan",
+      "option_c": "Abdul Razzak",
+      "option_d": "Mehidy Hasan Miraz",
+      "correct": "ঘ",
+      "explanation": "Mehidy Hasan became the fastest Bangladeshi bowler to take 100 Test wickets, when he removed Shayne Moseley on the third evening of the Dhaka Test against West Indies."
+    },
+    {
+      "number": "163",
+      "tag": "BUP FSSS 20-21",
+      "question": "What is the name of China's Vast infrastructure effort intended to connect countries through out Eurasia? (এশিয়া ও ইউরোপে চীনের প্রভাব বিস্তারে অবকাঠামো উন্নয়ন প্রকল্পের নাম কি?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "New ASEAN infrastructure intiative",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Belt and Road initiative",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Silk Road Development campaign",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Shanghai Cooperation Plan",
+          "is_correct": false
+        }
+      ],
+      "option_a": "New ASEAN infrastructure intiative",
+      "option_b": "Belt and Road initiative",
+      "option_c": "Silk Road Development campaign",
+      "option_d": "Shanghai Cooperation Plan",
+      "correct": "খ",
+      "explanation": "চীনের বেল্ট অ্যান্ড রোড ইনিশিয়েটিভ (বিআরআই) হল সমুদ্রবন্দর রেলপথ রাস্তাঘাট এবং শিল্প নেটওয়ার্কের মাধ্যমে চীনকে আফ্রিকা এশিয়া ইউরোপ এবং আমেরিকার সাথে সংযুক্ত করার চিন্তাভাবনা। চীন ২০১৩ সালে বেল্ট অ্যান্ড রোড ইনিশিয়েটিভ চালু করেছে। এখনও অবধি ১২৬টি দেশ এবং ২৯টি আন্তর্জাতিক সংস্থাগুলি যৌথভাবে বেল্ট অ্যান্ড রোড নির্মাণে চীনের সাথে সহযোগিতা চুক্তি করেছে। বাংলাদেশও বিআরআই উদ্যোগের সাথে সংযুক্ত।"
+    },
+    {
+      "number": "164",
+      "tag": "BUP FSSS 20-21",
+      "question": "What is the name of the Liberation war Museum located in Dhaka Cantonment?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Vijayketan",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Cactus",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Jagrat Chowrangi",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Sansaptaka",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Vijayketan",
+      "option_b": "Cactus",
+      "option_c": "Jagrat Chowrangi",
+      "option_d": "Sansaptaka",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "165",
+      "tag": "BUP FSSS 20-21",
+      "question": "Padma Bridge is a-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Tilt Bridge",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Supersion Bridge",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Pontoon Bridge",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Truss Bridge",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Tilt Bridge",
+      "option_b": "Supersion Bridge",
+      "option_c": "Pontoon Bridge",
+      "option_d": "Truss Bridge",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "166",
+      "tag": "",
+      "question": "There are four toys and they are of the same price. They worth $4.80. If the price for one is decreased by the fourth of the sum of other three toys, and two items of original price are added, then how much will six of them worth?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "$6.30",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "$6.10",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "$5.90",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "$5.70",
+          "is_correct": false
+        }
+      ],
+      "option_a": "$6.30",
+      "option_b": "$6.10",
+      "option_c": "$5.90",
+      "option_d": "$5.70",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "167",
+      "tag": "",
+      "question": "A train takes 10 seconds to cross a pole and 20 seconds to cross a platform of length 200 m. What is the length of train?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "400 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "500m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "200m",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "800m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "400 m",
+      "option_b": "500m",
+      "option_c": "200m",
+      "option_d": "800m",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "168",
+      "tag": "",
+      "question": "The last digit of 133 45 ^{45} 45 (133 to the power 45) is?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9",
+      "option_b": "7",
+      "option_c": "3",
+      "option_d": "1",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "170",
+      "tag": "",
+      "question": "Circle P is inside Circle Q, and the two circles share the same center X. If the circumference of Q is four times the circumference of P, and the redius of Circle P is three, what is the difference between Circle Q's diameter and Circle P's diameter?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6",
+      "option_b": "9",
+      "option_c": "12",
+      "option_d": "18",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "172",
+      "tag": "",
+      "question": "What are all the values of x so that x ² ² ² -3x-4 is negative?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x-1 or x>4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-1<x<4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "x<-4 or x>4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1<x<4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x-1 or x>4",
+      "option_b": "-1<x<4",
+      "option_c": "x<-4 or x>4",
+      "option_d": "1<x<4",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "173",
+      "tag": "",
+      "question": "If the restrictions on appointments apply also to a four-members committee appointed from the same group of executives, which of the following will be true?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "if F is appointed, M must also be appointed",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "if G is appointed, K must also be appointed",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "if H is appointed, F must also be appointed",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "if H is appointed, F must also be appointed",
+          "is_correct": false
+        }
+      ],
+      "option_a": "if F is appointed, M must also be appointed",
+      "option_b": "if G is appointed, K must also be appointed",
+      "option_c": "if H is appointed, F must also be appointed",
+      "option_d": "if H is appointed, F must also be appointed",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "174",
+      "tag": "",
+      "question": "If appointees from operations are in the majority on a committee, that committee must include.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "F",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "G",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "K",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "M",
+          "is_correct": true
+        }
+      ],
+      "option_a": "F",
+      "option_b": "G",
+      "option_c": "K",
+      "option_d": "M",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "175",
+      "tag": "",
+      "question": "If appointees from Finance are in the majority on a committee, that committee must include",
+      "options": [
+        {
+          "label": "ক",
+          "text": "F",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "G",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "K",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "L",
+          "is_correct": true
+        }
+      ],
+      "option_a": "F",
+      "option_b": "G",
+      "option_c": "K",
+      "option_d": "L",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "176",
+      "tag": "",
+      "question": "Which of the following is an acceptable committee?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "F, H, and M",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "G, L, and M",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "H, K, and L",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "H, L, and M",
+          "is_correct": true
+        }
+      ],
+      "option_a": "F, H, and M",
+      "option_b": "G, L, and M",
+      "option_c": "H, K, and L",
+      "option_d": "H, L, and M",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "177",
+      "tag": "",
+      "question": "If E appointed to the same committee as M, which of the following will be true of that committee?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Appointees from Finance are in the majority",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Appointees from operations are in the majority.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "G is a committee member.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "L is a committee member",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Appointees from Finance are in the majority",
+      "option_b": "Appointees from operations are in the majority.",
+      "option_c": "G is a committee member.",
+      "option_d": "L is a committee member",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "179",
+      "tag": "",
+      "question": "In a race of 10 km A beats B by 1 km and B beats C by 1 km. So by how many meters A beats C?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2000",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1900",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2100",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1800",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2000",
+      "option_b": "1900",
+      "option_c": "2100",
+      "option_d": "1800",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "180",
+      "tag": "",
+      "question": "If n is a positive integer, then n (n+1) (n-1) is?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Even only when n is even",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Odd only when n is even",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Odd only when n is odd",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Always divisible by 3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Even only when n is even",
+      "option_b": "Odd only when n is even",
+      "option_c": "Odd only when n is odd",
+      "option_d": "Always divisible by 3",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

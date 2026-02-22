@@ -1,0 +1,832 @@
+{
+  "read_id": "Wxe63vWMr8kh_7hW",
+  "title": "ময়মনসিংহ বোর্ড ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "MB 25",
+      "question": "একটি গোলকের পরিধি 4 সে.মি. হলে, গোলকটির পৃষ্ঠতলের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 π 4 \\pi 4 π বর্গ সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16 π 3 \\frac{16 \\pi}{3} 3 16 π ​ বর্গ সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "32 π 3 \\frac{32 \\pi}{3} 3 32 π ​ বর্গ সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16 π 16 \\pi 16 π বর্গ সে.মি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4 π 4 \\pi 4 π বর্গ সে.মি",
+      "option_b": "16 π 3 \\frac{16 \\pi}{3} 3 16 π ​ বর্গ সে.মি",
+      "option_c": "32 π 3 \\frac{32 \\pi}{3} 3 32 π ​ বর্গ সে.মি",
+      "option_d": "16 π 16 \\pi 16 π বর্গ সে.মি",
+      "correct": "ঘ",
+      "explanation": "গোলকের পরিধি C = 2 π r C=2\\pi r C = 2 π r । দেওয়া আছে পরিধি C = 4 π  .. C=4\\pi \\text{\\ ..} C = 4 π  .. । সুতরাং, 2 π r = 4 π 2\\pi r=4\\pi 2 π r = 4 π । r = 4 π 2 π r=\\frac{4\\pi }{2\\pi } r = 2 π 4 π ​ । r = 2  .. r=2\\text{\\ ..} r = 2  .. । পৃষ্ঠতলের ক্ষেত্রফল নির্ণয়: গোলকের পৃষ্ঠতলের ক্ষেত্রফল A = 4 π r 2 A=4\\pi r^{2} A = 4 π r 2 । r = 2  .. r=2\\text{\\ ..} r = 2  .. বসিয়ে পাই। A = 4 π ( 2 ) 2 A=4\\pi (2)^{2} A = 4 π ( 2 ) 2 । A = 4 π × 4 A=4\\pi \\times 4 A = 4 π × 4 । A = 16 π   .. A=16\\pi \\text{\\ \\ ..} A = 16 π   .. ।"
+    },
+    {
+      "number": "2",
+      "tag": "MB 25",
+      "question": "12 সে.মি. বাহুবিশিষ্ট বর্গাকার ভূমির উপর অবস্থিত পিরামিডের উচ্চতা 15 সে.মি. হলে পিরামিডের আয়তন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "60 ঘন সেমি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "720 ঘন সেমি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1000 ঘন সেমি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2160 ঘন সেমি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "60 ঘন সেমি.",
+      "option_b": "720 ঘন সেমি.",
+      "option_c": "1000 ঘন সেমি.",
+      "option_d": "2160 ঘন সেমি",
+      "correct": "খ",
+      "explanation": ". ভূমির ক্ষেত্রফল: একটি বর্গাকার ভূমি, যার বাহুর দৈর্ঘ্য 12 সেমি, তার ক্ষেত্রফল = 12 ×12 = 144 বর্গ সেমি। 2. পিরামিডের আয়তন: পিরামিডের আয়তন = (1/3)× ভূমির ক্ষেত্রফল × উচ্চতা। এখানে, উচ্চতা 15 সেমি। সুতরাং, পিরামিডের আয়তন = (1/3) × 144 ×15 = 720 ঘন সেমি। সুতরাং, পিরামিডের আয়তন 720 ঘন সেমি।"
+    },
+    {
+      "number": "3",
+      "tag": "MB 25",
+      "question": "( 2 − x 2 3 ) 7 \\left(2-\\frac{x^{2}}{3}\\right)^{7} ( 2 − 3 x 2 ​ ) 7 এর বিস্তৃতিতে x মুক্ত পদের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2187 \\frac{1}{2187} 2187 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "128",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "448 3 \\frac{448}{3} 3 448 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2187",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2187 \\frac{1}{2187} 2187 1 ​",
+      "option_b": "128",
+      "option_c": "448 3 \\frac{448}{3} 3 448 ​",
+      "option_d": "2187",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "CB 20,DIN.B 19",
+      "question": "একটি মুদ্রা তিন বার নিক্ষেপ করা হল। দুটি T ও একটি H পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 8 \\frac{3}{8} 8 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 8 \\frac{5}{8} 8 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_c": "3 8 \\frac{3}{8} 8 3 ​",
+      "option_d": "5 8 \\frac{5}{8} 8 5 ​",
+      "correct": "গ",
+      "explanation": "একটি মুদ্রা তিনবার নিক্ষেপ করলে মোট সম্ভাব্য ফলাফল ৮টি: HHH, HHT, HTH, HTT, THH, THT, TTH, TTT।  এর মধ্যে দুটি টেল ও একটি হেড আছে এমন ফলাফল হলো: HTT, THT, TTH।  সুতরাং, দুটি টেল ও একটি হেড পাওয়ার সম্ভাবনা = (দুটি টেল ও একটি হেড আছে এমন ফলাফলের সংখ্যা) / (মোট সম্ভাব্য ফলাফল) = 3/8"
+    },
+    {
+      "number": "5",
+      "tag": "MB 25",
+      "question": "একটি মুদ্রা তিন বার নিক্ষেপ করা হল। বড়জোর 2H পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7/8",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5/8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3/8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1/8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7/8",
+      "option_b": "5/8",
+      "option_c": "3/8",
+      "option_d": "1/8",
+      "correct": "ক",
+      "explanation": "এখানে, তিনটি মুদ্রা নিক্ষেপ করলে মোট সম্ভাব্য ফলাফল হতে পারে: HHH, HHT, HTH, HTT, THH, THT, TTH, TTT। এর মধ্যে, ২টি হেড অথবা তার কম হেড (অর্থাৎ, ১টি হেড বা ০টি হেড) আছে এমন ফলাফল হলো: HHT, HTH, HTT, THH, THT, TTH, TTT। মোট ৭টি ফলাফল। আর মোট সম্ভাব্য ফলাফল ৮টি (2x2x2=8)। সুতরাং, সম্ভাবনা = (অনুকূল ফলাফল) / (মোট ফলাফল) = 7/8।"
+    },
+    {
+      "number": "6",
+      "tag": "CB 20,SB 20,JB 20,DB 19,CB 19,DIN.B 19,CTG.B 19,SB 19,BB 19,ACC 24",
+      "question": "f ( x ) = 4 − 2 x f(\\mathbf{x})=\\sqrt{4-2 \\mathrm{x}} f ( x ) = 4 − 2 x ​ এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+      "option_b": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+      "option_c": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+      "option_d": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+      "correct": "গ",
+      "explanation": "f ( x ) = 4 − 2 x f(x) = \\sqrt{4-2x} f ( x ) = 4 − 2 x ​ বর্গমূলের ভিতরের রাশি অঋণাত্মক হতে হবে: 4 − 2 x ≥ 0 4-2x \\ge 0 4 − 2 x ≥ 0 − 2 x ≥ − 4 -2x \\ge -4 − 2 x ≥ − 4 x ≤ 2 x \\le 2 x ≤ 2 তাই ডোমেন: { x ∈ R ∣ x ≤ 2 } \\{x \\in \\mathbb{R} \\mid x \\le 2\\} { x ∈ R ∣ x ≤ 2 } ইন্টারভাল আকারে: ( − ∞ , 2 ] (-\\infty, 2] ( − ∞ , 2 ]"
+    },
+    {
+      "number": "7",
+      "tag": "MB 25",
+      "question": "Δ \\Delta Δ DEF এর মধ্যমাত্রয়ের বর্গের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "32 বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "36 বর্গ সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "72 বর্গ সে.মি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "144 বর্গ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "32 বর্গ সে.মি.",
+      "option_b": "36 বর্গ সে.মি",
+      "option_c": "72 বর্গ সে.মি",
+      "option_d": "144 বর্গ সে.মি.",
+      "correct": "গ",
+      "explanation": "মধ্যামাত্রয়ের সমষ্টি  = 3 4 × ( D E 2 + E F 2 + D F 2 ) = 3 4 × ( ( 4 3 ) 2 + ( 2 3 ) 2 + 6 2 ) = 3 4 × 96 = 72 \\begin{array}{l}\\text { মধ্যামাত্রয়ের সমষ্টি }=\\frac{3}{4} \\times\\left(D E^{2}+E F^{2}+D F^{2}\\right) \\\\ =\\frac{3}{4} \\times\\left((4 \\sqrt{3})^{2}+(2 \\sqrt{3})^{2}+6^{2}\\right) \\\\ =\\frac{3}{4} \\times 96 \\\\ =72\\end{array}   মধ্যামাত্রয়ের   সমষ্টি   = 4 3 ​ × ( D E 2 + E F 2 + D F 2 ) = 4 3 ​ × ( ( 4 3 ​ ) 2 + ( 2 3 ​ ) 2 + 6 2 ) = 4 3 ​ × 96 = 72 ​"
+    },
+    {
+      "number": "8",
+      "tag": "MB 25",
+      "question": "P ( x ) = x 3 − 2 x − 1 P(x)=x^{3}-2 x-1 P ( x ) = x 3 − 2 x − 1 i. এর একটি উৎপাদক ii. এর মুখ্য সহগ -1 iii. এর মাত্রা 3 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "(i) (x+1), P(x) এর একটি উৎপাদক: যদি (x+1), P(x) এর একটি উৎপাদক হয়, তবে P(-1) = 0 হবে। প্রদত্ত P(x) এ x এর বদলে -1 বসিয়ে পাই, P(-1) = (-1)³ - 2(-1) - 1 = -1 + 2 - 1 = 0। সুতরাং, (x+1), P(x) এর একটি উৎপাদক।  (ii) P(x) এর মুখ্য সহগ -1: P(x) এর সর্বোচ্চ ঘাতের পদ x³ এবং এর সহগ 1। তাই মুখ্য সহগ 1 হবে, -1 নয়। সুতরাং, এই তথ্যটি ভুল। (iii) P(x) এর মাত্রা 3. একটি বহুপদীর মাত্রা হল তার সর্বোচ্চ ঘাতের সূচক। P(x) এর সর্বোচ্চ ঘাত x³ , তাই এর মাত্রা 3। এই তথ্যটি সঠিক। সুতরাং, শুধুমাত্র (i) এবং (iii) সঠিক। অতএব, সঠিক উত্তর হল: (i) এবং (iii) সঠিক।"
+    },
+    {
+      "number": "9",
+      "tag": "MB 25",
+      "question": "6 সে.মি., 7 সে.মি, ও 8 সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে কেন্দ্রত্রয় দ্বারা উৎপন্ন ত্রিভুজের পরিসীমা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10.5 সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "21 সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "42 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "63 সে.মি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10.5 সে.মি",
+      "option_b": "21 সে.মি",
+      "option_c": "42 সে.মি.",
+      "option_d": "63 সে.মি",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "MB 25",
+      "question": "3 + 9 x − 2 x 2 = 0 3+9x-2x^2=0 3 + 9 x − 2 x 2 = 0 সমীকরণটির মূলের প্রকৃতি- i. বাস্তব ও অমূলদ ii. বাস্তব ও মূলদ iii.বাস্তব ও অসমান নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "প্রদত্ত দ্বিঘাত সমীকরণটির মূলের প্রকৃতি নির্ণয়ের জন্য, প্রথমে এর নিরূপক (discriminant) বের করতে হবে। প্রদত্ত সমীকরণটি হল: 3 + 9x - 2x² = 0, যা হলো -2x² + 9x + 3 = 0। এই সমীকরণের a = -2, b = 9, এবং c = 3। নিরূপক (D) = b² - 4ac = (9)² - 4(-2)(3) = 81 + 24 = 105। যেহেতু নিরূপক (D) > 0 এবং একটি পূর্ণবর্গ সংখ্যা নয়, তাই সমীকরণটির মূলগুলি বাস্তব, অসমান এবং অমূলদ হবে। সঠিক উত্তর i,iii"
+    },
+    {
+      "number": "11",
+      "tag": "MB 25,VNSC 24,RUMC 24,ISCM 24,BCPC ,DB 23,SB 23,JB 23,RB 22,BB 22,JB 21,RB 20",
+      "question": "1 2 , 1 10 , 1 30 , … . . \\frac{1}{2}, \\frac{1}{10}, \\frac{1}{30}, \\ldots . . 2 1 ​ , 10 1 ​ , 30 1 ​ , … .. . অনুক্রমটির 10-তম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 1010 \\frac{1}{1010} 1010 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 1100 \\frac{1}{1100} 1100 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 1011 \\frac{1}{1011} 1011 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 1001 \\frac{1}{1001} 1001 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 1010 \\frac{1}{1010} 1010 1 ​",
+      "option_b": "1 1100 \\frac{1}{1100} 1100 1 ​",
+      "option_c": "1 1011 \\frac{1}{1011} 1011 1 ​",
+      "option_d": "1 1001 \\frac{1}{1001} 1001 1 ​",
+      "correct": "ক",
+      "explanation": "প্রদত্ত অনুক্রম: 1 2 , 1 10 , 1 30 , … \\frac{1}{2}, \\frac{1}{10}, \\frac{1}{30}, \\ldots 2 1 ​ , 10 1 ​ , 30 1 ​ , … হরগুলির প্যাটার্ন নির্ণয় হরগুলি হলো: 2 , 10 , 30 , … 2,10,30, \\ldots 2 , 10 , 30 , … এগুলিকে নিম্নরূপে লেখা যায়: 2 = 1 × 2 , 10 = 2 × 5 , 30 = 3 × 10 , … 2=1 \\times 2, \\quad 10=2 \\times 5, \\quad 30=3 \\times 10, \\ldots 2 = 1 × 2 , 10 = 2 × 5 , 30 = 3 × 10 , … এখানে দ্বিতীয় গুণনীয়কগুলি হলো: 2 , 5 , 10 , … (  এlট  n 2 + 1  অনুসরণ করে:  1 2 + 1 = 2 , 2 2 + 1 = 5 , 3 2 + 1 = 10 , ইত্যাদি)  2,5,10, \\ldots \\quad\\left(\\text { এlট } n^{2}+1 \\text { অনুসরণ করে: } 1^{2}+1=2,2^{2}+1=5,3^{2}+1=10\\right. \\text {, ইত্যাদি) } 2 , 5 , 10 , … (   এ l ট   n 2 + 1   অনুসরণ   করে :  1 2 + 1 = 2 , 2 2 + 1 = 5 , 3 2 + 1 = 10 ,  ইত্যাদি )  সাধারণ পদ নির্ণয় n n n -তম পদের হর: n × ( n 2 + 1 ) n \\times\\left(n^{2}+1\\right) n × ( n 2 + 1 ) ∴ n \\therefore n ∴ n -তম পদ: a n = 1 n ( n 2 + 1 ) a_{n}=\\frac{1}{n\\left(n^{2}+1\\right)} a n ​ = n ( n 2 + 1 ) 1 ​ 10-তম পদ গণনা a 10 = 1 10 × ( 10 2 + 1 ) = 1 10 × 101 = 1 1010 a_{10}=\\frac{1}{10 \\times\\left(10^{2}+1\\right)}=\\frac{1}{10 \\times 101}=\\frac{1}{1010} a 10 ​ = 10 × ( 1 0 2 + 1 ) 1 ​ = 10 × 101 1 ​ = 1010 1 ​"
+    },
+    {
+      "number": "12",
+      "tag": "MB 25",
+      "question": "tan ⁡ ( − 570 ° ) \\tan(-570\\degree) tan ( − 570° ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 3 -\\sqrt{3} − 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 3 -\\frac{1}{\\sqrt{3}} − 3 ​ 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 3 -\\sqrt{3} − 3 ​",
+      "option_b": "− 1 3 -\\frac{1}{\\sqrt{3}} − 3 ​ 1 ​",
+      "option_c": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_d": "3 \\sqrt{3} 3 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "MB 25",
+      "question": "60 ° 60\\degree 60° কোণের সম্পূরক কোণকে বৃত্তীয় পদ্ধতিতে প্রকাশ করলে নিচের কোনটি হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π 6 \\frac{\\pi}{6} 6 π ​ রেডিয়ান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "π 3 \\frac{\\pi}{3} 3 π ​ রেডিয়ান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 π 3 \\frac{2 \\pi}{3} 3 2 π ​ রেডিয়ান",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 π 3 \\frac{5 \\pi}{3} 3 5 π ​ রেডিয়ান",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π 6 \\frac{\\pi}{6} 6 π ​ রেডিয়ান",
+      "option_b": "π 3 \\frac{\\pi}{3} 3 π ​ রেডিয়ান",
+      "option_c": "2 π 3 \\frac{2 \\pi}{3} 3 2 π ​ রেডিয়ান",
+      "option_d": "5 π 3 \\frac{5 \\pi}{3} 3 5 π ​ রেডিয়ান",
+      "correct": "গ",
+      "explanation": "সম্পূরক কোণ: দুটি কোণের সমষ্টি ১৮০ ডিগ্রি হলে, একটি কোণকে অপরটির সম্পূরক কোণ বলা হয়। 2. ৬০ ডিগ্রি কোণের সম্পূরক কোণ: সুতরাং, ৬০ ডিগ্রি কোণের সম্পূরক কোণ হবে ১৮০ - ৬০ = ১২০ ডিগ্রি। 3. বৃত্তীয় পদ্ধতিতে প্রকাশ: বৃত্তীয় পদ্ধতিতে কোণ প্রকাশ করার জন্য রেডিয়ান ব্যবহার করা হয়। 4. ডিগ্রি থেকে রেডিয়ানে রূপান্তর: একটি কোণকে ডিগ্রিতে (degree) দেওয়া থাকলে, তাকে রেডিয়ানে রূপান্তর করার জন্য π 180 \\frac{\\pi}{180} 180 π ​ দিয়ে গুণ করতে হয়। 5. গণনা: সুতরাং, ১২০ ডিগ্রি কোণকে রেডিয়ানে রূপান্তর করতে হলে, 120 × π 180 \\frac{120 \\times \\pi}{180} 180 120 × π ​ হবে, যা 2 π 3 \\frac{2\\pi}{3} 3 2 π ​ এর সমান।"
+    },
+    {
+      "number": "14",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "15",
+      "tag": "MB 25",
+      "question": "y a + c > b \\frac{y}{a}+c>b a y ​ + c > b যেখানে অসমতার সমাধান কোনটি",
+      "options": [
+        {
+          "label": "ক",
+          "text": "y > a b − a c y>a b-a c y > ab − a c",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "y > a b − c y>a b-c y > ab − c",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "y < a b − c y<a b-c y < ab − c",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "y < a b − a c y<a b-ac y < ab − a c",
+          "is_correct": true
+        }
+      ],
+      "option_a": "y > a b − a c y>a b-a c y > ab − a c",
+      "option_b": "y > a b − c y>a b-c y > ab − c",
+      "option_c": "y < a b − c y<a b-c y < ab − c",
+      "option_d": "y < a b − a c y<a b-ac y < ab − a c",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "MB 25",
+      "question": "p = 2 − 2 log ⁡ a ( a b ) p=2-2 \\log _{a}(a b) p = 2 − 2 lo g a ​ ( ab ) হলে 2 p \\frac{2}{p} p 2 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "log ⁡ b a \\log _{b} a lo g b ​ a",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "log ⁡ a b \\log _{a} b lo g a ​ b",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− log ⁡ a b -\\log _{a} b − lo g a ​ b",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− log ⁡ b a -\\log _{b} a − lo g b ​ a",
+          "is_correct": true
+        }
+      ],
+      "option_a": "log ⁡ b a \\log _{b} a lo g b ​ a",
+      "option_b": "log ⁡ a b \\log _{a} b lo g a ​ b",
+      "option_c": "− log ⁡ a b -\\log _{a} b − lo g a ​ b",
+      "option_d": "− log ⁡ b a -\\log _{b} a − lo g b ​ a",
+      "correct": "ঘ",
+      "explanation": "এখানে, P = 2 − 2 log ⁡ a a b P=2-2\\log_a ab P = 2 − 2 lo g a ​ ab = 2 ( 1 − log ⁡ a a b ) =2(1-\\log_a ab) = 2 ( 1 − lo g a ​ ab ) P = 2 ( log ⁡ a a − log ⁡ a a b ) P=2(\\log_a a-\\log_a ab) P = 2 ( lo g a ​ a − lo g a ​ ab ) ⇒ P 2 = ( log ⁡ a a a b ) \\Rightarrow \\frac{P}{2}=(\\log_a \\frac{a}{ab}) ⇒ 2 P ​ = ( lo g a ​ ab a ​ ) ⇒ P 2 = log ⁡ a 1 b = log ⁡ a b − 1 \\Rightarrow \\frac{P}{2}=\\log_a \\frac{1}{b}=\\log_a b^{-1} ⇒ 2 P ​ = lo g a ​ b 1 ​ = lo g a ​ b − 1 ⇒ P 2 = − 1 log ⁡ a b \\Rightarrow \\frac{P}{2}=-1\\log_a b ⇒ 2 P ​ = − 1 lo g a ​ b ⇒ P 2 = − 1. 1 log ⁡ b a \\Rightarrow \\frac{P}{2}=-1.\\frac{1}{\\log_b a} ⇒ 2 P ​ = − 1. l o g b ​ a 1 ​ ⇒ 2 P = − log ⁡ b a \\Rightarrow \\boxed{\\frac{2}{P}=-\\log_b a} ⇒ P 2 ​ = − lo g b ​ a ​"
+    },
+    {
+      "number": "17",
+      "tag": "MB 25",
+      "question": "( a + b ) 5 \\left(a+b\\right)^5 ( a + b ) 5 এর বিস্তৃতিতে দ্বিপদী সহগগুলো হল-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 , 5 , 10 , 5 , 1 1,5,10,5,1 1 , 5 , 10 , 5 , 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 , 5 , 5 , 10 , 1 1,5,5,10,1 1 , 5 , 5 , 10 , 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 , 5 , 5 , 10 , 10 , 1 1,5,5,10,10,1 1 , 5 , 5 , 10 , 10 , 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 , 5 , 10 , 10 , 5 , 1 1,5,10,10,5,1 1 , 5 , 10 , 10 , 5 , 1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 , 5 , 10 , 5 , 1 1,5,10,5,1 1 , 5 , 10 , 5 , 1",
+      "option_b": "1 , 5 , 5 , 10 , 1 1,5,5,10,1 1 , 5 , 5 , 10 , 1",
+      "option_c": "1 , 5 , 5 , 10 , 10 , 1 1,5,5,10,10,1 1 , 5 , 5 , 10 , 10 , 1",
+      "option_d": "1 , 5 , 10 , 10 , 5 , 1 1,5,10,10,5,1 1 , 5 , 10 , 10 , 5 , 1",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "MB 25",
+      "question": "A B → = a ‾ \\overrightarrow{A B}=\\underline{a} A B = a ​ হলে + B A = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 a ‾ 2 \\underline{a} 2 a ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 2 a ‾ -2 \\underline{a} − 2 a ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0 ‾ \\underline{0} 0 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2 2 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 a ‾ 2 \\underline{a} 2 a ​",
+      "option_b": "− 2 a ‾ -2 \\underline{a} − 2 a ​",
+      "option_c": "0 ‾ \\underline{0} 0 ​",
+      "option_d": "2 2 2",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "MB 25",
+      "question": "P ও Q বিন্দু দুটির অবস্থান ভেক্টর যথাক্রমে 6 a ‾ − 8 b ‾ 6 \\underline{a}-8 \\underline{b} 6 a ​ − 8 b ​ এবং 3 a ‾ − 7 b ‾ 3 \\underline{a}-7 \\underline{b} 3 a ​ − 7 b ​ হলে, P Q → = \\overrightarrow{P Q}= PQ ​ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 a ‾ − 15 b ‾ 9 \\underline{a}-15 \\underline{b} 9 a ​ − 15 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 a ‾ − b ‾ 3 \\underline{a}-\\underline{b} 3 a ​ − b ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9 a ‾ − b ‾ 9 \\underline{a}-\\underline{b} 9 a ​ − b ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 3 a ‾ + b ‾ -3 \\underline{a}+\\underline{b} − 3 a ​ + b ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "9 a ‾ − 15 b ‾ 9 \\underline{a}-15 \\underline{b} 9 a ​ − 15 b ​",
+      "option_b": "3 a ‾ − b ‾ 3 \\underline{a}-\\underline{b} 3 a ​ − b ​",
+      "option_c": "9 a ‾ − b ‾ 9 \\underline{a}-\\underline{b} 9 a ​ − b ​",
+      "option_d": "− 3 a ‾ + b ‾ -3 \\underline{a}+\\underline{b} − 3 a ​ + b ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "MB 25",
+      "question": "EF এর দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 3 \\frac{1}{6 \\sqrt{3}} 6 3 ​ 1 ​ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 3 \\frac{1}{2 \\sqrt{3}} 2 3 ​ 1 ​ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 2 \\sqrt{3} 2 3 ​ সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6 3 6 \\sqrt{3} 6 3 ​ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 3 \\frac{1}{6 \\sqrt{3}} 6 3 ​ 1 ​ সে.মি.",
+      "option_b": "1 2 3 \\frac{1}{2 \\sqrt{3}} 2 3 ​ 1 ​ সে.মি.",
+      "option_c": "2 3 2 \\sqrt{3} 2 3 ​ সে.মি.",
+      "option_d": "6 3 6 \\sqrt{3} 6 3 ​ সে.মি.",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "MB 25",
+      "question": "f ( x ) = x 2 + 2 x + 6 f(x)=x^{2}+2 x+6 f ( x ) = x 2 + 2 x + 6 সমীকরণটির লেখচিত্রের আকার কীরূপ হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পরাবৃত্ত",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "বৃত্ত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উপবৃত্ত",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সরলরেখা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "পরাবৃত্ত",
+      "option_b": "বৃত্ত",
+      "option_c": "উপবৃত্ত",
+      "option_d": "সরলরেখা",
+      "correct": "ক",
+      "explanation": "(x) = x² + 2x + 6 সমীকরণটির লেখচিত্র একটি পরাবৃত্ত (parabola) হবে।  কারণ: এই সমীকরণটি একটি দ্বিঘাত সমীকরণ, যেখানে x এর সর্বোচ্চ ঘাত ২। দ্বিঘাত সমীকরণের লেখচিত্র সর্বদা পরাবৃত্তাকার হয়। প্রদত্ত সমীকরণে x² এর সহগ ধনাত্মক (১), তাই পরাবৃত্তটির মুখ উপরের দিকে থাকবে।"
+    },
+    {
+      "number": "2",
+      "tag": "MB 25",
+      "question": "f ( y ) = 5 y f(y)=5^{y} f ( y ) = 5 y এর বিপরীত ফাংশন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "log ⁡ 5 y \\log _{5} y lo g 5 ​ y",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "log ⁡ 5 x \\log _{5} x lo g 5 ​ x",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "log ⁡ y 5 \\log _{y} 5 lo g y ​ 5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "log ⁡ x 5 \\log _{x} 5 lo g x ​ 5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "log ⁡ 5 y \\log _{5} y lo g 5 ​ y",
+      "option_b": "log ⁡ 5 x \\log _{5} x lo g 5 ​ x",
+      "option_c": "log ⁡ y 5 \\log _{y} 5 lo g y ​ 5",
+      "option_d": "log ⁡ x 5 \\log _{x} 5 lo g x ​ 5",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "MB 25",
+      "question": "3 x + 2 y = 5 3x+2y=5 3 x + 2 y = 5 সরলরেখাটির- ঢাল ii. x-অক্ষের ছেদবিন্দু iii. y y y -অক্ষের ছেদক 2 5 \\frac{2}{5} 5 2 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "3 x + 2 y = 5 y = − 3 2 x + 5 2 \\begin{array}{l} 3 x+2 y=5 \\\\ y=-\\frac{3}{2} x+\\frac{5}{2} \\end{array} 3 x + 2 y = 5 y = − 2 3 ​ x + 2 5 ​ ​ (i) ঢাল, m = − 3 2 m=-\\frac{3}{2} m = − 2 3 ​ (ii) x x x - অক্ষের y = 0 y=0 y = 0 y = 0 y=0 y = 0 হলে x = 5 3 x=\\frac{5}{3} x = 3 5 ​ ছেদবিন্দু ( 5 3 , 0 ) \\left(\\frac{5}{3}, 0\\right) ( 3 5 ​ , 0 ) (iii) Y Y Y - অক্ষে x = 0 x=0 x = 0 x = 0 x=0 x = 0 হলে . y = 5 2 y=\\frac{5}{2} y = 2 5 ​ ছেদবিন্দু ( 0 , 5 2 ) \\left(0, \\frac{5}{2}\\right) ( 0 , 2 5 ​ )"
+    },
+    {
+      "number": "4",
+      "tag": "MB 25",
+      "question": "P(-8, 6) বিন্দু থেকে y অক্ষের দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-8 একক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 একক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 একক",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "10 একক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-8 একক",
+      "option_b": "6 একক",
+      "option_c": "8 একক",
+      "option_d": "10 একক",
+      "correct": "গ",
+      "explanation": "(-8, 6) বিন্দুটির y অক্ষ থেকে দূরত্ব 8 একক। কোনো বিন্দুর y অক্ষ থেকে দূরত্ব মানে x-স্থানাঙ্কের পরম মান। যেহেতু x-স্থানাঙ্ক -8, তাই এর পরম মান |-8| = 8 ।  সুতরাং, বিন্দু P(-8, 6) এর y অক্ষ থেকে দূরত্ব 8 একক।"
+    },
+    {
+      "number": "5",
+      "tag": "MB 25",
+      "question": "ঢাল = − 1 5 =-\\frac{1}{5} = − 5 1 ​ এবং y ছেদক 3 হলে সমীকরণ হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 y − x = 3 5 y-x=3 5 y − x = 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 y − x = 15 5 y-x=15 5 y − x = 15",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 y + x = 3 5 y+x=3 5 y + x = 3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 y + x = 15 5 y+x=15 5 y + x = 15",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5 y − x = 3 5 y-x=3 5 y − x = 3",
+      "option_b": "5 y − x = 15 5 y-x=15 5 y − x = 15",
+      "option_c": "5 y + x = 3 5 y+x=3 5 y + x = 3",
+      "option_d": "5 y + x = 15 5 y+x=15 5 y + x = 15",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

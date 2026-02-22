@@ -1,0 +1,832 @@
+{
+  "read_id": "o8CdFkIWtT846SIs",
+  "title": "ঢাকা বোর্ড ২০২০",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "2",
+      "tag": "CB 20",
+      "question": "log ⁡ 27 y = 1 1 3 \\log _{\\sqrt{27}} y=1 \\frac{1}{3} lo g 27 ​ ​ y = 1 3 1 ​ হলে y y y এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 1 3 3^{\\frac{1}{3}} 3 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 3 2 3^{\\frac{3}{2}} 3 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 1 3 3^{\\frac{1}{3}} 3 3 1 ​",
+      "option_b": "3 3 2 3^{\\frac{3}{2}} 3 2 3 ​",
+      "option_c": "9",
+      "option_d": "36",
+      "correct": "গ",
+      "explanation": "log ⁡ 27 x = 1 1 3 = 4 3 ⇒ ( 27 ) 4 3 = x ⇒ ( 27 ) 1 2 × 4 3 = x ⇒ ( 3 3 ) 2 3 = x ⇒ 3 2 = x 2 x = 9 \\begin{aligned} & \\log _{\\sqrt{27}} x=1 \\frac{1}{3}=\\frac{4}{3} \\\\ \\Rightarrow & (\\sqrt{27})^{\\frac{4}{3}}=x \\\\ \\Rightarrow & (27)^{\\frac{1}{2}} \\times \\frac{4}{3}=x \\\\ \\Rightarrow & \\left(3^{3}\\right)^{\\frac{2}{3}}=x \\\\ \\Rightarrow & 3^{2}=x \\\\ 2 x & =9\\end{aligned} ⇒ ⇒ ⇒ ⇒ 2 x ​ lo g 27 ​ ​ x = 1 3 1 ​ = 3 4 ​ ( 27 ​ ) 3 4 ​ = x ( 27 ) 2 1 ​ × 3 4 ​ = x ( 3 3 ) 3 2 ​ = x 3 2 = x = 9 ​"
+    },
+    {
+      "number": "3",
+      "tag": "DB 20",
+      "question": "4 x + 1 = 4.6 y = 4.9 z 4^{x+1}=4.6^{y}=4.9^{z} 4 x + 1 = 4. 6 y = 4. 9 z যেখানে x ≠ 0 , y ≠ 0 x \\neq 0, y \\neq 0 x  = 0 , y  = 0 , z ≠ 0 \\mathrm{z} \\neq 0 z  = 0 . উদ্দীপকের আলোকে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 = 9 z x + 1 4=9^{\\frac{z}{x+1}} 4 = 9 x + 1 z ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 = 9 2 x 4=9^{\\frac{2}{x}} 4 = 9 x 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 = 6 y x + 1 4=6^{\\frac{y}{x+1}} 4 = 6 x + 1 y ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 = 6 x + 1 y 4=6^{\\frac{x+1}{y}} 4 = 6 y x + 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 = 9 z x + 1 4=9^{\\frac{z}{x+1}} 4 = 9 x + 1 z ​",
+      "option_b": "4 = 9 2 x 4=9^{\\frac{2}{x}} 4 = 9 x 2 ​",
+      "option_c": "4 = 6 y x + 1 4=6^{\\frac{y}{x+1}} 4 = 6 x + 1 y ​",
+      "option_d": "4 = 6 x + 1 y 4=6^{\\frac{x+1}{y}} 4 = 6 y x + 1 ​",
+      "correct": "খ",
+      "explanation": "প্রদত্ত সমীকরণটি হলো: 4 x + 1 = 4.6 y = 4.9 z 4^{x+1}=4.6^{y}=4.9^{z} 4 x + 1 = 4. 6 y = 4. 9 z এই সমীকরণটিকে দুটি অংশে বিভক্ত করা যেতে পারে: ১. 4 x + 1 = 4.9 z 4^{x+1} = 4.9^{z} 4 x + 1 = 4. 9 z ২. 4 x + 1 = 4.6 y 4^{x+1} = 4.6^{y} 4 x + 1 = 4. 6 y আমরা প্রথম অংশটি বিবেচনা করি, যেহেতু অপশনগুলিতে 4 এবং 9 এর সম্পর্ক দেখা যাচ্ছে: 4 x + 1 = 4.9 z 4^{x+1} = 4.9^{z} 4 x + 1 = 4. 9 z উভয় পক্ষকে 4 দ্বারা ভাগ করে: 4 x + 1 4 = 9 z \\frac{4^{x+1}}{4} = 9^{z} 4 4 x + 1 ​ = 9 z 4 x + 1 − 1 = 9 z 4^{x+1-1} = 9^{z} 4 x + 1 − 1 = 9 z 4 x = 9 z 4^{x} = 9^{z} 4 x = 9 z এখন, এই সমীকরণ থেকে 4 এর মান বের করতে, উভয় পক্ষের পাওয়ারকে 1 x \\frac{1}{x} x 1 ​ দ্বারা গুণ করি: ( 4 x ) 1 x = ( 9 z ) 1 x (4^{x})^{\\frac{1}{x}} = (9^{z})^{\\frac{1}{x}} ( 4 x ) x 1 ​ = ( 9 z ) x 1 ​ 4 x x = 9 z x 4^{\\frac{x}{x}} = 9^{\\frac{z}{x}} 4 x x ​ = 9 x z ​ 4 = 9 z x 4 = 9^{\\frac{z}{x}} 4 = 9 x z ​ এখন প্রদত্ত অপশনগুলো মিলিয়ে দেখি: ক: 4 = 9 z x + 1 4=9^{\\frac{z}{x+1}} 4 = 9 x + 1 z ​ (এটি ভুল) খ: 4 = 9 z x 4=9^{\\frac{z}{x}} 4 = 9 x z ​ (এটি সঠিক) গ: 4 = 6 y x + 1 4=6^{\\frac{y}{x+1}} 4 = 6 x + 1 y ​ (এটি ভুল) ঘ: 4 = 6 x + 1 y 4=6^{\\frac{x+1}{y}} 4 = 6 y x + 1 ​ (এটি ভুল) সুতরাং, সঠিক বিকল্প হলো খ। The final answer is খ \\boxed{\\text{খ}} খ ​"
+    },
+    {
+      "number": "4",
+      "tag": "CB 21,BMARPC 24,CTG.B 21,DB 20,RB 20,BB 19",
+      "question": "p x = q y = r z p^{x}=q^{y}=r^{z} p x = q y = r z এবং q 2 = p r q^{2}=p r q 2 = p r হলে, নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 x + 1 Z = y 2 \\frac{1}{\\mathrm{x}}+\\frac{1}{\\mathrm{Z}}=\\frac{\\mathrm{y}}{2} x 1 ​ + Z 1 ​ = 2 y ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 x + 1 y = 2 z \\frac{1}{x}+\\frac{1}{y}=\\frac{2}{z} x 1 ​ + y 1 ​ = z 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 x + 1 z = 2 y \\frac{1}{\\mathrm{x}}+\\frac{1}{\\mathrm{z}}=\\frac{2}{\\mathrm{y}} x 1 ​ + z 1 ​ = y 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 x + 1 z = 1 y \\frac{1}{x}+\\frac{1}{z}=\\frac{1}{y} x 1 ​ + z 1 ​ = y 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 x + 1 Z = y 2 \\frac{1}{\\mathrm{x}}+\\frac{1}{\\mathrm{Z}}=\\frac{\\mathrm{y}}{2} x 1 ​ + Z 1 ​ = 2 y ​",
+      "option_b": "1 x + 1 y = 2 z \\frac{1}{x}+\\frac{1}{y}=\\frac{2}{z} x 1 ​ + y 1 ​ = z 2 ​",
+      "option_c": "1 x + 1 z = 2 y \\frac{1}{\\mathrm{x}}+\\frac{1}{\\mathrm{z}}=\\frac{2}{\\mathrm{y}} x 1 ​ + z 1 ​ = y 2 ​",
+      "option_d": "1 x + 1 z = 1 y \\frac{1}{x}+\\frac{1}{z}=\\frac{1}{y} x 1 ​ + z 1 ​ = y 1 ​",
+      "correct": "গ",
+      "explanation": "প্রদত্ত সমীকরণগুলি: p x = q y = r z = k p^{x}=q^{y}=r^{z}=k p x = q y = r z = k (ধরি) q 2 = p r q^{2}=p r q 2 = p r প্রতিটি রাশিকে k k k এর মাধ্যমে প্রকাশ করি: p = k 1 / x , q = k 1 / y , r = k 1 / z p=k^{1 / x}, \\quad q=k^{1 / y}, \\quad r=k^{1 / z} p = k 1/ x , q = k 1/ y , r = k 1/ z q 2 = p r q^{2}=p r q 2 = p r সমীকরণে মানগুলি বসাই: ( k 1 / y ) 2 = k 1 / x ⋅ k 1 / z k 2 / y = k 1 / x + 1 / z \\begin{array}{c} \\left(k^{1 / y}\\right)^{2}=k^{1 / x} \\cdot k^{1 / z} \\\\ k^{2 / y}=k^{1 / x+1 / z} \\end{array} ( k 1/ y ) 2 = k 1/ x ⋅ k 1/ z k 2/ y = k 1/ x + 1/ z ​ সূচকগুলির সমতা থেকে পাই: 2 y = 1 x + 1 z 2 y = x + z x z 2 x z = y ( x + z ) 2 y = 1 x + 1 z \\begin{aligned} \\frac{2}{y} & =\\frac{1}{x}+\\frac{1}{z} \\\\ \\frac{2}{y} & =\\frac{x+z}{x z} \\\\ 2 x z & =y(x+z) \\\\ \\frac{2}{y} & =\\frac{1}{x}+\\frac{1}{z} \\end{aligned} y 2 ​ y 2 ​ 2 x z y 2 ​ ​ = x 1 ​ + z 1 ​ = x z x + z ​ = y ( x + z ) = x 1 ​ + z 1 ​ ​ বিকল্প পদ্ধতি (লগারিদম ব্যবহার করে): p x = q y = r z = k p^{x}=q^{y}=r^{z}=k p x = q y = r z = k এর প্রাকৃতিক লগারিদম নিলে: x ln ⁡ p = y ln ⁡ q = z ln ⁡ r = ln ⁡ k ln ⁡ p = ln ⁡ k x , ln ⁡ q = ln ⁡ k y , ln ⁡ r = ln ⁡ k z \\begin{array}{c} x \\ln p=y \\ln q=z \\ln r=\\ln k \\\\ \\ln p=\\frac{\\ln k}{x}, \\quad \\ln q=\\frac{\\ln k}{y}, \\quad \\ln r=\\frac{\\ln k}{z} \\end{array} x ln p = y ln q = z ln r = ln k ln p = x l n k ​ , ln q = y l n k ​ , ln r = z l n k ​ ​ q 2 = p r q^{2}=p r q 2 = p r এর লগারিদম: 2 ln ⁡ q = ln ⁡ p + ln ⁡ r 2 ⋅ ln ⁡ k y = ln ⁡ k x + ln ⁡ k z 2 y = 1 x + 1 z \\begin{aligned} 2 \\ln q & =\\ln p+\\ln r \\\\ 2 \\cdot \\frac{\\ln k}{y} & =\\frac{\\ln k}{x}+\\frac{\\ln k}{z} \\\\ \\frac{2}{y} & =\\frac{1}{x}+\\frac{1}{z} \\end{aligned} 2 ln q 2 ⋅ y ln k ​ y 2 ​ ​ = ln p + ln r = x ln k ​ + z ln k ​ = x 1 ​ + z 1 ​ ​"
+    },
+    {
+      "number": "5",
+      "tag": "DB 20",
+      "question": "রাশিগুলোর জন্য- i. 6 ! = 720 6!=720 6 ! = 720 ii. 6 C 1 = 6 C 5 = 6 { }^{6} \\mathrm{C}_{1}={ }^{6} \\mathrm{C}_{5}=6 6 C 1 ​ = 6 C 5 ​ = 6 iii. 6 C 0 = 0 { }^{6} \\mathrm{C}_{0}=0 6 C 0 ​ = 0 ! নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i , i i \\mathrm{i}, \\mathrm{ii} i , ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i , i i \\mathrm{i}, \\mathrm{ii} i , ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত রাশিগুলো পরীক্ষা করা যাক: (i) 6 ! = 720 6!=720 6 ! = 720 6 ! = 6 × 5 × 4 × 3 × 2 × 1 = 720 6!=6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1=720 6 ! = 6 × 5 × 4 × 3 × 2 × 1 = 720 ∴ \\therefore ∴ বিবৃতি (i) সঠিক। (ii) 6 C 1 = 6 C 5 = 6 { }^{6} \\mathrm{C}_{1}={ }^{6} \\mathrm{C}_{5}=6 6 C 1 ​ = 6 C 5 ​ = 6 6 C 1 = 6 ! 1 ! ( 6 − 1 ) ! = 6 1 = 6 6 C 5 = 6 ! 5 ! ( 6 − 5 ) ! = 6 1 = 6 \\begin{aligned} { }^{6} \\mathrm{C}_{1} & =\\frac{6!}{1!(6-1)!}=\\frac{6}{1}=6 \\\\ { }^{6} \\mathrm{C}_{5} & =\\frac{6!}{5!(6-5)!}=\\frac{6}{1}=6 \\end{aligned} 6 C 1 ​ 6 C 5 ​ ​ = 1 ! ( 6 − 1 )! 6 ! ​ = 1 6 ​ = 6 = 5 ! ( 6 − 5 )! 6 ! ​ = 1 6 ​ = 6 ​ ∴ \\therefore ∴ বিবৃতি (ii) সঠিক। (iii) 6 C 0 = 0 ! { }^{6} \\mathrm{C}_{0}=0! 6 C 0 ​ = 0 ! 6 C 0 = 6 ! 0 ! ( 6 − 0 ) ! = 1 1 = 1 { }^{6} \\mathrm{C}_{0}=\\frac{6!}{0!(6-0)!}=\\frac{1}{1}=1 6 C 0 ​ = 0 ! ( 6 − 0 )! 6 ! ​ = 1 1 ​ = 1 আবার, 0! = 1 ∴ \\therefore ∴ বিবৃতি (iii) সঠিক।"
+    },
+    {
+      "number": "6",
+      "tag": "RUMC 24,DB 20",
+      "question": "( 1 − 2 x + x 2 ) 4 \\left(1-2 x+x^{2}\\right)^{4} ( 1 − 2 x + x 2 ) 4 এর বিস্তৃতিতে x 2 x^{2} x 2 এর সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-28",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-56",
+          "is_correct": false
+        }
+      ],
+      "option_a": "28",
+      "option_b": "16",
+      "option_c": "-28",
+      "option_d": "-56",
+      "correct": "ক",
+      "explanation": "এখন, ( 1 − 2 x + x 2 ) 4 = ( ( 1 − x ) 2 ) 4 = ( 1 − x ) 8 (1 - 2x + x^2)^4 = ((1 - x)^2)^4 = (1 - x)^8 ( 1 − 2 x + x 2 ) 4 = (( 1 − x ) 2 ) 4 = ( 1 − x ) 8 x r = 8 C r 1 8 − r ( − x ) r x^r = {}^8 C_r 1^{8-r} (-x)^r x r = 8 C r ​ 1 8 − r ( − x ) r এখানে x 2 x^2 x 2 এর জন্য r = 2 r = 2 r = 2 . তাই x 2 x^2 x 2 এর সহগ: 8 C 2 ⋅ ( − 1 ) 2 = 8 C 2 {}^8 C_2 \\cdot (-1)^2 = {}^8 C_2 8 C 2 ​ ⋅ ( − 1 ) 2 = 8 C 2 ​ 8 C 2 = 8 ⋅ 7 2 ⋅ 1 = 28 {}^8 C_2 = \\frac{8 \\cdot 7}{2 \\cdot 1} = 28 8 C 2 ​ = 2 ⋅ 1 8 ⋅ 7 ​ = 28"
+    },
+    {
+      "number": "7",
+      "tag": "BB 24,CPSCR 24,DB 20",
+      "question": "যদি",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "6",
+      "option_c": "8",
+      "option_d": "10",
+      "correct": "গ",
+      "explanation": "স্বতন্ত্র সেটের জন্য: n ( A ∪ B ) = n ( A ) + n ( B ) n(A \\cup B)=n(A)+n(B) n ( A ∪ B ) = n ( A ) + n ( B ) মান বসিয়ে: 10 = 2 + n ( B ) 10=2+n(B) 10 = 2 + n ( B ) সমাধান: n ( B ) = 10 − 2 = 8 n(B)=10-2=8 n ( B ) = 10 − 2 = 8 উত্তর: 8"
+    },
+    {
+      "number": "8",
+      "tag": "DB 20",
+      "question": "সেট A n = { n , 2 n , 3 n , … … } \\mathrm{A}_{\\mathrm{n}}=\\{\\mathrm{n}, \\mathbf{2 n}, \\mathbf{3 n}, \\ldots \\ldots\\} A n ​ = { n , 2n , 3n , …… } এর জন্য一 i. A 1 ∼   A 1 \\mathrm{A}_{1} \\sim \\mathrm{~A}_{1} A 1 ​ ∼   A 1 ​ ii. A 1 ∼   A 2 \\mathrm{A}_{1} \\sim \\mathrm{~A}_{2} A 1 ​ ∼   A 2 ​ iii. A 1 ∼   A 3 \\mathrm{A}_{1} \\sim \\mathrm{~A}_{3} A 1 ​ ∼   A 3 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "সেট A n \\mathrm{A}_{\\mathrm{n}} A n ​ এর সংজ্ঞা: A 1 = { 1 , 2 , 3 , 4 , … } → \\mathrm{A}_{1}=\\{1,2,3,4, \\ldots\\} \\rightarrow A 1 ​ = { 1 , 2 , 3 , 4 , … } → সমন্ত ধনাত্মক পৃর্ণসংখ্যার সেট (প্রাকৃতিক সংখ্যার সেট N \\mathbb{N} N ) A 2 = { 2 , 4 , 6 , 8 , … } → \\mathrm{A}_{2}=\\{2,4,6,8, \\ldots\\} \\rightarrow A 2 ​ = { 2 , 4 , 6 , 8 , … } → সমন্ত জোড় ধনাত্মক পৃর্ণসংখ্যার সেট A 3 = { 3 , 6 , 9 , 12 , … } → \\mathrm{A}_{3}=\\{3,6,9,12, \\ldots\\} \\rightarrow A 3 ​ = { 3 , 6 , 9 , 12 , … } → সমস্ত 3 এর গুণিতকের সেট i. A 1 ∼   A 1 \\mathrm{A}_{1} \\sim \\mathrm{~A}_{1} A 1 ​ ∼   A 1 ​ - যেকোনো সেট নিজের সাথে সমকার্ডিনাল (কারণ f ( x ) = x f(x)=x f ( x ) = x একটি বাইজেকশন)। - সঠিক ii. A 1 ∼   A 2 \\mathrm{A}_{1} \\sim \\mathrm{~A}_{2} A 1 ​ ∼   A 2 ​ - A 1 \\mathrm{A}_{1} A 1 ​ (প্রাকৃতিক সংখ্যা) এবং A 2 \\mathrm{A}_{2} A 2 ​ (জোড় সংখ্যা) উভয়েই গণনাযোগ্য অসীম। - একটি বাইজেকশন হলো f : A 1 →   A 2 f: \\mathrm{A}_{1} \\rightarrow \\mathrm{~A}_{2} f : A 1 ​ →   A 2 ​ যেখানে f ( n ) = 2 n f(n)=2 n f ( n ) = 2 n । - সঠিক iii. A 1 ∼   A 3 \\mathrm{A}_{1} \\sim \\mathrm{~A}_{3} A 1 ​ ∼   A 3 ​ - A 1 \\mathrm{A}_{1} A 1 ​ (প্রাকৃতিক সংখ্যা) এবং A 3 \\mathrm{A}_{3} A 3 ​ (3 এর গুণিতক) উভয়েই গণনাযোগ্য অসীম। - একটি বাইজেকশন হলো f : A 1 →   A 3 f: \\mathrm{A}_{1} \\rightarrow \\mathrm{~A}_{3} f : A 1 ​ →   A 3 ​ যেখানে f ( n ) = 3 n f(n)=3 n f ( n ) = 3 n । - সঠিক"
+    },
+    {
+      "number": "9",
+      "tag": "DB 20",
+      "question": "P n = { 2 n , 2 2 n , 2 3 n , … … } \\mathrm{P}_{\\mathrm{n}}=\\left\\{2^{\\mathrm{n}}, 2^{2 \\mathrm{n}}, 2^{3 \\mathrm{n}}, \\ldots \\ldots\\right\\} P n ​ = { 2 n , 2 2 n , 2 3 n , …… } সকল n ∈ R \\mathrm{n} \\in \\R n ∈ R . P 2 \\mathrm{P}_{2} P 2 ​ এর উপসেট কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "P 1 \\mathrm{P}_{1} P 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "P 3 \\mathrm{P}_{3} P 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "P 4 \\mathrm{P}_{4} P 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "P 5 \\mathrm{P}_{5} P 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "P 1 \\mathrm{P}_{1} P 1 ​",
+      "option_b": "P 3 \\mathrm{P}_{3} P 3 ​",
+      "option_c": "P 4 \\mathrm{P}_{4} P 4 ​",
+      "option_d": "P 5 \\mathrm{P}_{5} P 5 ​",
+      "correct": "গ",
+      "explanation": "প্রশ্ন অনুযায়ী, আমরা দেখতে পাচ্ছি যে P n \\mathrm{P}_{\\mathrm{n}} P n ​ সেটটি হল { 2 n , 2 2 n , 2 3 n , … } \\left\\{2^{\\mathrm{n}}, 2^{2\\mathrm{n}}, 2^{3\\mathrm{n}}, \\ldots \\right\\} { 2 n , 2 2 n , 2 3 n , … } যেখানে সকল n ∈ R \\mathrm{n} \\in \\R n ∈ R । এটি বুঝায় যে, সেটের প্রত্যেক উপাদান হচ্ছে 2 2 2 উর্ধ্বগামীভাবে গণনা করা ফাংশনের ভিন্ন ভিন্ন এক্সপোনেন্টের মান। আমাদের প্রশ্ন হলো, P 2 \\mathrm{P}_{2} P 2 ​ এর উপসেট কোনটি? প্রথমে, P 2 \\mathrm{P}_{2} P 2 ​ সেট খুঁজে বের করি: P 2 = { 2 2 , 2 4 , 2 6 , 2 8 , … } = { 4 , 16 , 64 , 256 … } \\mathrm{P}_{2} = \\left\\{ 2^2, 2^{4}, 2^{6}, 2^{8}, \\ldots \\right\\} = \\left\\{ 4, 16, 64, 256 \\ldots \\right\\} P 2 ​ = { 2 2 , 2 4 , 2 6 , 2 8 , … } = { 4 , 16 , 64 , 256 … } এখন, প্রতিটি অপশন পরীক্ষা করে দেখি: অপশন A: P 1 = { 2 1 , 2 2 , 2 3 , … } = { 2 , 4 , 8 , … } \\mathrm{P}_{1} = \\left\\{ 2^1, 2^2, 2^3, \\ldots \\right\\} = \\left\\{ 2, 4, 8, \\ldots \\right\\} P 1 ​ = { 2 1 , 2 2 , 2 3 , … } = { 2 , 4 , 8 , … } P 1 \\mathrm{P}_{1} P 1 ​ এর মধ্যে শুধু উপাদান তুলনা করলে দেখা যায় যে অধিকাংশ ক্ষেত্রে সেটটি P 2 \\mathrm{P}_{2} P 2 ​ এর সমান নয়। অপশন B: P 3 = { 2 3 , 2 6 , 2 9 , … } = { 8 , 64 , 512 , … } \\mathrm{P}_{3} = \\left\\{ 2^3, 2^{6}, 2^{9}, \\ldots \\right\\} = \\left\\{ 8, 64, 512, \\ldots \\right\\} P 3 ​ = { 2 3 , 2 6 , 2 9 , … } = { 8 , 64 , 512 , … } P 3 \\mathrm{P}_{3} P 3 ​ বিভিন্ন উপাদান সমন্বিত, যা P 2 \\mathrm{P}_{2} P 2 ​ এর উপসেট হতে পারে না। অপশন C: P 4 = { 2 4 , 2 8 , … } = { 16 , 256 , … } \\mathrm{P}_{4} = \\left\\{ 2^4, 2^{8}, \\ldots \\right\\} = \\left\\{ 16, 256, \\ldots \\right\\} P 4 ​ = { 2 4 , 2 8 , … } = { 16 , 256 , … } P 4 \\mathrm{P}_{4} P 4 ​ সম্পূর্ণ P 2 \\mathrm{P}_{2} P 2 ​ সেটের অংশ। অপশন D: P 5 = { 2 5 , 2 10 , 2 15 , … } = { 32 , 1024 , 32768 , … } \\mathrm{P}_{5} = \\left\\{ 2^5, 2^{10}, 2^{15}, \\ldots \\right\\} = \\left\\{ 32, 1024, 32768, \\ldots \\right\\} P 5 ​ = { 2 5 , 2 10 , 2 15 , … } = { 32 , 1024 , 32768 , … } P 5 \\mathrm{P}_{5} P 5 ​ তৈরির উপাদানগুলো P 2 \\mathrm{P}_{2} P 2 ​ এর মধ্যে নেই। উত্তর : P 4 \\mathrm{P}_{4} P 4 ​"
+    },
+    {
+      "number": "10",
+      "tag": "DB 20",
+      "question": "P n = { 2 n , 2 2 n , 2 3 n , … … } \\mathrm{P}_{\\mathrm{n}}=\\left\\{2^{\\mathrm{n}}, 2^{2 \\mathrm{n}}, 2^{3 \\mathrm{n}}, \\ldots \\ldots\\right\\} P n ​ = { 2 n , 2 2 n , 2 3 n , …… } সকল n ∈ R \\mathrm{n} \\in \\R n ∈ R . P 2 \\mathrm{P}_{2} P 2 ​ এর উপসেট কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "P 1 \\mathrm{P}_{1} P 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "P 3 \\mathrm{P}_{3} P 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "P 4 \\mathrm{P}_{4} P 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "P 5 \\mathrm{P}_{5} P 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "P 1 \\mathrm{P}_{1} P 1 ​",
+      "option_b": "P 3 \\mathrm{P}_{3} P 3 ​",
+      "option_c": "P 4 \\mathrm{P}_{4} P 4 ​",
+      "option_d": "P 5 \\mathrm{P}_{5} P 5 ​",
+      "correct": "ক",
+      "explanation": "প্রশ্ন অনুযায়ী, আমরা দেখতে পাচ্ছি যে P n \\mathrm{P}_{\\mathrm{n}} P n ​ সেটটি হল { 2 n , 2 2 n , 2 3 n , … } \\left\\{2^{\\mathrm{n}}, 2^{2\\mathrm{n}}, 2^{3\\mathrm{n}}, \\ldots \\right\\} { 2 n , 2 2 n , 2 3 n , … } যেখানে সকল n ∈ R \\mathrm{n} \\in \\R n ∈ R । এটি বুঝায় যে, সেটের প্রত্যেক উপাদান হচ্ছে 2 2 2 উর্ধ্বগামীভাবে গণনা করা ফাংশনের ভিন্ন ভিন্ন এক্সপোনেন্টের মান। আমাদের প্রশ্ন হলো, P 2 \\mathrm{P}_{2} P 2 ​ এর উপসেট কোনটি? প্রথমে, P 2 \\mathrm{P}_{2} P 2 ​ সেট খুঁজে বের করি: P 2 = { 2 2 , 2 4 , 2 6 , 2 8 , … } = { 4 , 16 , 64 , 256 … } \\mathrm{P}_{2} = \\left\\{ 2^2, 2^{4}, 2^{6}, 2^{8}, \\ldots \\right\\} = \\left\\{ 4, 16, 64, 256 \\ldots \\right\\} P 2 ​ = { 2 2 , 2 4 , 2 6 , 2 8 , … } = { 4 , 16 , 64 , 256 … } এখন, প্রতিটি অপশন পরীক্ষা করে দেখি: অপশন A: P 1 = { 2 1 , 2 2 , 2 3 , … } = { 2 , 4 , 8 , … } \\mathrm{P}_{1} = \\left\\{ 2^1, 2^2, 2^3, \\ldots \\right\\} = \\left\\{ 2, 4, 8, \\ldots \\right\\} P 1 ​ = { 2 1 , 2 2 , 2 3 , … } = { 2 , 4 , 8 , … } P 1 \\mathrm{P}_{1} P 1 ​ এর মধ্যে শুধু উপাদান তুলনা করলে দেখা যায় যে অধিকাংশ ক্ষেত্রে সেটটি P 2 \\mathrm{P}_{2} P 2 ​ এর সমান নয়। অপশন B: P 3 = { 2 3 , 2 6 , 2 9 , … } = { 8 , 64 , 512 , … } \\mathrm{P}_{3} = \\left\\{ 2^3, 2^{6}, 2^{9}, \\ldots \\right\\} = \\left\\{ 8, 64, 512, \\ldots \\right\\} P 3 ​ = { 2 3 , 2 6 , 2 9 , … } = { 8 , 64 , 512 , … } P 3 \\mathrm{P}_{3} P 3 ​ বিভিন্ন উপাদান সমন্বিত, যা P 2 \\mathrm{P}_{2} P 2 ​ এর উপসেট হতে পারে না। অপশন C: P 4 = { 2 4 , 2 8 , … } = { 16 , 256 , … } \\mathrm{P}_{4} = \\left\\{ 2^4, 2^{8}, \\ldots \\right\\} = \\left\\{ 16, 256, \\ldots \\right\\} P 4 ​ = { 2 4 , 2 8 , … } = { 16 , 256 , … } P 4 \\mathrm{P}_{4} P 4 ​ সম্পূর্ণ P 2 \\mathrm{P}_{2} P 2 ​ সেটের অংশ। অপশন D: P 5 = { 2 5 , 2 10 , 2 15 , … } = { 32 , 1024 , 32768 , … } \\mathrm{P}_{5} = \\left\\{ 2^5, 2^{10}, 2^{15}, \\ldots \\right\\} = \\left\\{ 32, 1024, 32768, \\ldots \\right\\} P 5 ​ = { 2 5 , 2 10 , 2 15 , … } = { 32 , 1024 , 32768 , … } P 5 \\mathrm{P}_{5} P 5 ​ তৈরির উপাদানগুলো P 2 \\mathrm{P}_{2} P 2 ​ এর মধ্যে নেই। উত্তর : P 4 \\mathrm{P}_{4} P 4 ​"
+    },
+    {
+      "number": "11",
+      "tag": "DB 20",
+      "question": "XY এর উপর A A ′ \\mathrm{AA}^{\\prime} AA ′ এর লম্ব অভিক্ষেপ হল-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A ′ \\mathrm{A}^{\\prime} A ′",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A A ′ \\mathrm{AA}^{\\prime} AA ′",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A ′ B ′ \\mathrm{A}^{\\prime} \\mathrm{B}^{\\prime} A ′ B ′",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "B ′ C \\mathrm{B}^{\\prime} \\mathrm{C} B ′ C",
+          "is_correct": true
+        }
+      ],
+      "option_a": "A ′ \\mathrm{A}^{\\prime} A ′",
+      "option_b": "A A ′ \\mathrm{AA}^{\\prime} AA ′",
+      "option_c": "A ′ B ′ \\mathrm{A}^{\\prime} \\mathrm{B}^{\\prime} A ′ B ′",
+      "option_d": "B ′ C \\mathrm{B}^{\\prime} \\mathrm{C} B ′ C",
+      "correct": "ঘ",
+      "explanation": "কোন রেখার উপর কোন বিন্দু থেকে অঙ্কিত লম্বের প্রান্তবিন্দুই ঐ বিন্দুর লম্ব অভিক্ষেপ।"
+    },
+    {
+      "number": "12",
+      "tag": "DB 20",
+      "question": "c x 2 + b x + a = 0 \\mathrm{cx}^{2}+\\mathrm{bx}+\\mathrm{a}=0 cx 2 + bx + a = 0 সমীকরণের সাথে 2 x 2 + 3 x + 5 = 7 x + 1 2 x^{2}+3 x+5=7 x+1 2 x 2 + 3 x + 5 = 7 x + 1 সমীকরণ তুলনা করলে 'a' এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "1. প্রথম কোয়াড্রাটিক সমীকরণটি: c x 2 + b x + a = 0 c x^{2}+b x+a=0 c x 2 + b x + a = 0 2. দ্বিতীয় সমীকরণটি দেওয়া হয়েছে: 2 x 2 + 3 x + 5 = 7 x + 1 2 x^{2}+3 x+5=7 x+1 2 x 2 + 3 x + 5 = 7 x + 1 3. দ্বিতীয় সমীকরণটি সরলীকরণ করলে পাই: 2 x 2 + 3 x + 5 − 7 x − 1 = 0 2 x 2 − 4 x + 4 = 0 \\begin{array}{c} 2 x^{2}+3 x+5-7 x-1=0 \\\\ 2 x^{2}-4 x+4=0 \\end{array} 2 x 2 + 3 x + 5 − 7 x − 1 = 0 2 x 2 − 4 x + 4 = 0 ​ তাই সরলীকৃত সমীকরণটি: 2 x 2 − 4 x + 4 = 0 2 x^{2}-4 x+4=0 2 x 2 − 4 x + 4 = 0 4. এখন প্রথম সমীকরণ ( c x 2 + b x + a = 0 ) \\left(c x^{2}+b x+a=0\\right) ( c x 2 + b x + a = 0 ) এবং সরলীকৃত সমীকরণটির x 2 , x x^{2}, x x 2 , x , এবং ধ্রুবাংশের সহগগুলো তুলনা করলে পাই: c = 2 c=2 c = 2 b = − 4 b=-4 b = − 4 a = 4 a=4 a = 4"
+    },
+    {
+      "number": "13",
+      "tag": "CB 25,CB 24,DB 20,DIN.B 19",
+      "question": "5 সে.মি. ব্যাসার্ধবিশিষ্ট একটি নিরেট ধাতব কঠিন গোলককে গলিয়ে 4 সে.মি. ভূমির ব্যাসার্ধবিশিষ্ট একটি সমবৃত্তভূমিক সিলিন্ডার তৈরি করা হল। সিলিন্ডারটির উচ্চতা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "41.67 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "23.44 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10.42 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5.86 সে.মি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "41.67 সে.মি.",
+      "option_b": "23.44 সে.মি.",
+      "option_c": "10.42 সে.মি.",
+      "option_d": "5.86 সে.মি",
+      "correct": "ঘ",
+      "explanation": "গোলকের আয়তনের সূত্র: V গোলক  = 4 3 π r 3 V_{\\text {গোলক }}=\\frac{4}{3} \\pi r^{3} V গোলক   ​ = 3 4 ​ π r 3 যেখানে, r r r হল গোলকের ব্যাসার্ধ। প্রদত্ত, গোলকের ব্যাসার্ধ r = 5 r=5 r = 5 সে.মি. V গোলক  = 4 3 π ( 5 ) 3 = 4 3 π × 125 = 500 3 π  ঘন সে.মি.  V_{\\text {গোলক }}=\\frac{4}{3} \\pi(5)^{3}=\\frac{4}{3} \\pi \\times 125=\\frac{500}{3} \\pi \\text { ঘন সে.মি. } V গোলক   ​ = 3 4 ​ π ( 5 ) 3 = 3 4 ​ π × 125 = 3 500 ​ π   ঘন   সে . মি .  ধাপ 2: সিলিন্ডারের আয়তন নির্ণয় সিলিন্ডারের আয়তনের সূত্র: V  সিলিল্ডার  = π R 2 h V \\text { সিলিল্ডার }=\\pi R^{2} h V   সিলিল্ডার   = π R 2 h যেখানে, R R R হল সিলিন্ডারের ভূমির ব্যাসার্ধ এবং h h h হল উচ্চতা। প্রদত্ত, সিলিন্ডারের ভূমির ব্যাসার্ধ R = 4 R=4 R = 4 সে.মি. V  সিলিন্ডার  = π ( 4 ) 2 h = 16 π h  ঘন সে.মি. V \\text { সিলিন্ডার }=\\pi(4)^{2} h=16 \\pi h \\text { ঘন সে.মি.} V   সিলিন্ডার   = π ( 4 ) 2 h = 16 πh   ঘন   সে . মি . ধাপ 3: আয়তন সমান করে উচ্চতা নির্ণয় যেহেতু গোলক এবং সিলিন্ডারের আয়তন সমান, 500 3 π = 16 π h \\frac{500}{3} \\pi=16 \\pi h 3 500 ​ π = 16 πh উভয় পক্ষ থেকে π \\pi π বাদ দিয়ে, 500 3 = 16 h \\frac{500}{3}=16 h 3 500 ​ = 16 h h h h এর জন্য সমাধান করলে, h = 500 3 × 16 = 500 48 = 125 12  সে.মি.  h=\\frac{500}{3 \\times 16}=\\frac{500}{48}=\\frac{125}{12} \\text { সে.মি. } h = 3 × 16 500 ​ = 48 500 ​ = 12 125 ​   সে . মি .  সরলীকরণ: h = 10.4167  সে.মি.  h=10.4167 \\text { সে.মি. } h = 10.4167   সে . মি .  অত,গব, সিলিন্ডারটির উচ্চতা হল: 125 12  সে.মি.  \\frac{125}{12} \\text { সে.মি. } 12 125 ​   সে . মি .  অথবা, দশমিকে প্রকাশ করলে: 10.42 সে.মম."
+    },
+    {
+      "number": "14",
+      "tag": "CB 25,CB 24,DB 20,DIN.B 19",
+      "question": "5 সে.মি. ব্যাসার্ধবিশিষ্ট একটি নিরেট ধাতব কঠিন গোলককে গলিয়ে 4 সে.মি. ভূমির ব্যাসার্ধবিশিষ্ট একটি সমবৃত্তভূমিক সিলিন্ডার তৈরি করা হল। সিলিন্ডারটির উচ্চতা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "41.67 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "23.44 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10.42 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5.86 সে.মি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "41.67 সে.মি.",
+      "option_b": "23.44 সে.মি.",
+      "option_c": "10.42 সে.মি.",
+      "option_d": "5.86 সে.মি",
+      "correct": "ক",
+      "explanation": "গোলকের আয়তনের সূত্র: V গোলক  = 4 3 π r 3 V_{\\text {গোলক }}=\\frac{4}{3} \\pi r^{3} V গোলক   ​ = 3 4 ​ π r 3 যেখানে, r r r হল গোলকের ব্যাসার্ধ। প্রদত্ত, গোলকের ব্যাসার্ধ r = 5 r=5 r = 5 সে.মি. V গোলক  = 4 3 π ( 5 ) 3 = 4 3 π × 125 = 500 3 π  ঘন সে.মি.  V_{\\text {গোলক }}=\\frac{4}{3} \\pi(5)^{3}=\\frac{4}{3} \\pi \\times 125=\\frac{500}{3} \\pi \\text { ঘন সে.মি. } V গোলক   ​ = 3 4 ​ π ( 5 ) 3 = 3 4 ​ π × 125 = 3 500 ​ π   ঘন   সে . মি .  ধাপ 2: সিলিন্ডারের আয়তন নির্ণয় সিলিন্ডারের আয়তনের সূত্র: V  সিলিল্ডার  = π R 2 h V \\text { সিলিল্ডার }=\\pi R^{2} h V   সিলিল্ডার   = π R 2 h যেখানে, R R R হল সিলিন্ডারের ভূমির ব্যাসার্ধ এবং h h h হল উচ্চতা। প্রদত্ত, সিলিন্ডারের ভূমির ব্যাসার্ধ R = 4 R=4 R = 4 সে.মি. V  সিলিন্ডার  = π ( 4 ) 2 h = 16 π h  ঘন সে.মি. V \\text { সিলিন্ডার }=\\pi(4)^{2} h=16 \\pi h \\text { ঘন সে.মি.} V   সিলিন্ডার   = π ( 4 ) 2 h = 16 πh   ঘন   সে . মি . ধাপ 3: আয়তন সমান করে উচ্চতা নির্ণয় যেহেতু গোলক এবং সিলিন্ডারের আয়তন সমান, 500 3 π = 16 π h \\frac{500}{3} \\pi=16 \\pi h 3 500 ​ π = 16 πh উভয় পক্ষ থেকে π \\pi π বাদ দিয়ে, 500 3 = 16 h \\frac{500}{3}=16 h 3 500 ​ = 16 h h h h এর জন্য সমাধান করলে, h = 500 3 × 16 = 500 48 = 125 12  সে.মি.  h=\\frac{500}{3 \\times 16}=\\frac{500}{48}=\\frac{125}{12} \\text { সে.মি. } h = 3 × 16 500 ​ = 48 500 ​ = 12 125 ​   সে . মি .  সরলীকরণ: h = 10.4167  সে.মি.  h=10.4167 \\text { সে.মি. } h = 10.4167   সে . মি .  অত,গব, সিলিন্ডারটির উচ্চতা হল: 125 12  সে.মি.  \\frac{125}{12} \\text { সে.মি. } 12 125 ​   সে . মি .  অথবা, দশমিকে প্রকাশ করলে: 10.42 সে.মম."
+    },
+    {
+      "number": "15",
+      "tag": "RB 24,CSCD 24,ISCM 24,MC 24,BCPC ,RB 23,BB 23,RB 22,DIN.B 22,CB 22,BB 22,DB 21,MB 21,CB 21,JB 21,DB 20,DIN.B 20,CB 19,CTG.B 19",
+      "question": "2x – 2y + 1 = 0 সমীকরণটির— i. ঢাল = 1 ii. y-অঙ্কের ছেদক = ½ iii. x-অক্ষের সাথে ধনাত্মক দিকে উৎপন্ন কোণ সূক্ষ্মকোণ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "সরল রেখার মানক রূপ হলো y = m x + c y=m x+c y = m x + c , যেখানে m m m হলো রেখার ঢাল এবং c c c হলো y y y -অক্ষের ছেদক। দেওয়া সমীকরণকে আমরা এই রূপে নিয়ে আসি: 2 x − 2 y + 1 = 0 2 x-2 y+1=0 2 x − 2 y + 1 = 0 − 2 y = − 2 x − 1 y = x + 1 2 -2 y=-2 x-1 y=x+\\frac{1}{2} − 2 y = − 2 x − 1 y = x + 2 1 ​ তাহলে রেখার ঢাল m = 1 । m=1 । m = 1 । y -অক্ষের ছেদক c = 1 2   c=\\frac{1}{2} \\ c = 2 1 ​   ধাপ ৩: x-অক্ষের সাথে তৈরি কোন নির্ণয় যেহেতু রেখার ঢাল m = 1 m=1 m = 1 , এবং ঢাল ধনাত্মক, তাই রেখাটি x x x -অক্ষের সাথে ধন্নাতক দিকে সুক্ষ কোন তৈরি করে ।"
+    },
+    {
+      "number": "16",
+      "tag": "CB 20,CTG.B 20,SB 20,BB 20,DB 19,RB 19,CB 19,JB 19,BB 19,All.B 18,ACC 24",
+      "question": "যদি Δ \\Delta Δ PQR-এ PQ ও PR এর মধ্যবিন্দু যথাক্রমে M ও N হয়, তবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+      "option_b": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+      "option_c": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+      "option_d": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+      "correct": "গ",
+      "explanation": "△ P Q R \\triangle P Q R △ PQR হতে পাই P Q → + Q R → = P R → ⇒ Q R → = P R → − P Q → \\begin{aligned} & \\overrightarrow{P Q}+\\overrightarrow{Q R}=\\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{Q R}=\\overrightarrow{P R}-\\overrightarrow{P Q} \\end{aligned} ⇒ ​ PQ ​ + QR ​ = PR QR ​ = PR − PQ ​ ​ △ P M N \\triangle P M N △ PMN হতে পাই M N → = P N → − P M → \\overrightarrow{M N}=\\overrightarrow{P N}-\\overrightarrow{P M} MN = PN − PM P M → + M N → = P N → ↑ ⇒ 1 2 P Q → + M N → = 1 2 P R → ⇒ M N → = 1 2 P R → − 1 2 P Q → ⇒ M N → = 1 2 Q R → ⇒ P N → − P M → = 1 2 Q R → ∴ Q R → = 2 ( P N → − P M → ) \\begin{aligned} & \\overrightarrow{P M}+\\overrightarrow{M N}=\\overrightarrow{P N} \\uparrow \\\\ \\Rightarrow & \\frac{1}{2} \\overrightarrow{P Q}+\\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R}-\\frac{1}{2} \\overrightarrow{P Q} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\Rightarrow & \\overrightarrow{P N}-\\overrightarrow{P M}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\therefore & \\overrightarrow{Q R}=2(\\overrightarrow{P N}-\\overrightarrow{P M}) \\end{aligned} ⇒ ⇒ ⇒ ⇒ ∴ ​ PM + MN = PN ↑ 2 1 ​ PQ ​ + MN = 2 1 ​ PR MN = 2 1 ​ PR − 2 1 ​ PQ ​ MN = 2 1 ​ QR ​ PN − PM = 2 1 ​ QR ​ QR ​ = 2 ( PN − PM ) ​"
+    },
+    {
+      "number": "17",
+      "tag": "DB 20",
+      "question": "50 জন লোকের রক্তের গ্রুপ নিম্নরূপ: 10 জনের আছে A প্রকারের রক্ত, 12 জনের আছে B প্রকারের রক্ত, 13 জনের আছে O প্রকারের রক্ত এবং 15 জনের আছে AB প্রকারের রক্ত। একজন লোকের AB প্রকারের রক্ত না থাকার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 5 \\frac{4}{5} 5 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 10 \\frac{3}{10} 10 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 10 \\frac{7}{10} 10 7 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_b": "4 5 \\frac{4}{5} 5 4 ​",
+      "option_c": "3 10 \\frac{3}{10} 10 3 ​",
+      "option_d": "7 10 \\frac{7}{10} 10 7 ​",
+      "correct": "ঘ",
+      "explanation": "মোট লোক = ৫০ =৫০ = ৫০ A B A B A B রক্ত নেই এমন লোক = ৫ O − ১৫ = ৩৫ =৫ O-১ ৫=৩ ৫ = ৫ O − ১৫ = ৩৫ A B A B A B রক্ত না থাকার সম্ভাবনা = ৩৫ ৫০ = ৭ ১০ =\\frac{৩৫}{৫০}=\\frac{৭}{১০} = ৫০ ৩৫ ​ = ১০ ৭ ​ উত্তর: ৭ ১০ \\frac{৭}{১ ০} ১০ ৭ ​"
+    },
+    {
+      "number": "18",
+      "tag": "DB 20",
+      "question": "50 জন লোকের রক্তের গ্রুপ নিম্নরূপ: 10 জনের আছে A প্রকারের রক্ত, 12 জনের আছে B প্রকারের রক্ত, 13 জনের আছে O প্রকারের রক্ত এবং 15 জনের আছে AB প্রকারের রক্ত। একজন লোকের AB প্রকারের রক্ত না থাকার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 5 \\frac{4}{5} 5 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 10 \\frac{3}{10} 10 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 10 \\frac{7}{10} 10 7 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_b": "4 5 \\frac{4}{5} 5 4 ​",
+      "option_c": "3 10 \\frac{3}{10} 10 3 ​",
+      "option_d": "7 10 \\frac{7}{10} 10 7 ​",
+      "correct": "খ",
+      "explanation": "মোট লোক = ৫০ =৫০ = ৫০ A B A B A B রক্ত নেই এমন লোক = ৫ O − ১৫ = ৩৫ =৫ O-১ ৫=৩ ৫ = ৫ O − ১৫ = ৩৫ A B A B A B রক্ত না থাকার সম্ভাবনা = ৩৫ ৫০ = ৭ ১০ =\\frac{৩৫}{৫০}=\\frac{৭}{১০} = ৫০ ৩৫ ​ = ১০ ৭ ​ উত্তর: ৭ ১০ \\frac{৭}{১ ০} ১০ ৭ ​"
+    },
+    {
+      "number": "19",
+      "tag": "DB 20",
+      "question": "a x + 3 = a y ⋅ a − 4 a^{x+3}=a^{y} \\cdot a^{-4} a x + 3 = a y ⋅ a − 4 এবং x + y = 1 +y=1 + y = 1 একটি সমীকরণ জোট। y এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "-3",
+      "option_c": "4",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "প্রথম সমীকরণ: a x + 3 = a y ⋅ a − 4 a^{x+3}=a^{y} \\cdot a^{-4} a x + 3 = a y ⋅ a − 4 সূচকের সূত্র প্রয়োগ করে a y ⋅ a − 4 a^{y} \\cdot a^{-4} a y ⋅ a − 4 কে এ্রকত্রিত করলে পাই: a x + 3 = a y − 4 a^{x+3}=a^{y-4} a x + 3 = a y − 4 এখন সূচকগুলি সমান করে দিলে: x + 3 = y − 4 x+3=y-4 x + 3 = y − 4 x − y = − 7 x-y=-7 x − y = − 7 এখন দুইটি সমীকরণ আছে: 1. x + y = 1 x+y=1 x + y = 1 2. x − y = − 7 x-y=-7 x − y = − 7 ধাপ ৩: y y y -এর মান বের ৫ন্রা উভয় সমীকরণ যোগ করুন: ( x + y ) + ( x − y ) = 1 + ( − 7 ) 2 x = − 6 x = − 3 \\begin{array}{l} (x+y)+(x-y)=1+(-7) \\\\ 2 x=-6 \\\\ x=-3 \\end{array} ( x + y ) + ( x − y ) = 1 + ( − 7 ) 2 x = − 6 x = − 3 ​ এখন x = − 3 x=-3 x = − 3 ব্যবহার করে প্রথম সমীকরণে y y y -এর মান বের করুন: − 3 + y = 1 y = 4 \\begin{array}{c} -3+y=1 \\\\ y=4 \\end{array} − 3 + y = 1 y = 4 ​"
+    },
+    {
+      "number": "20",
+      "tag": "DB 20",
+      "question": "a x + 3 = a y ⋅ a − 4 a^{x+3}=a^{y} \\cdot a^{-4} a x + 3 = a y ⋅ a − 4 এবং x + y = 1 +y=1 + y = 1 একটি সমীকরণ জোট। y এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "-3",
+      "option_c": "4",
+      "option_d": "6",
+      "correct": "ঘ",
+      "explanation": "প্রথম সমীকরণ: a x + 3 = a y ⋅ a − 4 a^{x+3}=a^{y} \\cdot a^{-4} a x + 3 = a y ⋅ a − 4 সূচকের সূত্র প্রয়োগ করে a y ⋅ a − 4 a^{y} \\cdot a^{-4} a y ⋅ a − 4 কে এ্রকত্রিত করলে পাই: a x + 3 = a y − 4 a^{x+3}=a^{y-4} a x + 3 = a y − 4 এখন সূচকগুলি সমান করে দিলে: x + 3 = y − 4 x+3=y-4 x + 3 = y − 4 x − y = − 7 x-y=-7 x − y = − 7 এখন দুইটি সমীকরণ আছে: 1. x + y = 1 x+y=1 x + y = 1 2. x − y = − 7 x-y=-7 x − y = − 7 ধাপ ৩: y y y -এর মান বের ৫ন্রা উভয় সমীকরণ যোগ করুন: ( x + y ) + ( x − y ) = 1 + ( − 7 ) 2 x = − 6 x = − 3 \\begin{array}{l} (x+y)+(x-y)=1+(-7) \\\\ 2 x=-6 \\\\ x=-3 \\end{array} ( x + y ) + ( x − y ) = 1 + ( − 7 ) 2 x = − 6 x = − 3 ​ এখন x = − 3 x=-3 x = − 3 ব্যবহার করে প্রথম সমীকরণে y y y -এর মান বের করুন: − 3 + y = 1 y = 4 \\begin{array}{c} -3+y=1 \\\\ y=4 \\end{array} − 3 + y = 1 y = 4 ​"
+    },
+    {
+      "number": "21",
+      "tag": "DB 20,CB 19",
+      "question": "p , q p, q p , q এবং r বাস্তব সংখ্যা যেখানে p ≠ 0 p \\neq 0 p  = 0 , q > r q>r q > r এর জন্য- i. p + q > p + r p+q>p+r p + q > p + r যখন p > 0 p>0 p > 0 ii. p q < p r \\mathrm{pq}<\\mathrm{pr} pq < pr যখন p < 0 \\mathrm{p}<0 p < 0 iii. q p > r p \\frac{\\mathrm{q}}{\\mathrm{p}}>\\frac{\\mathrm{r}}{\\mathrm{p}} p q ​ > p r ​ যখন p > 0 \\mathrm{p}>0 p > 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "q > r q>r q > r p > 0  হলে  p>0 \\text { হলে } p > 0   হলে   p + q p+q p + q এর মান বেশি হয় এবং p q > p r p q>p r pq > p r ⇒ q p > r p \\Rightarrow \\frac{q}{p}>\\frac{r}{p} ⇒ p q ​ > p r ​ এবং p < 0 p<0 p < 0 হলে p q p q pq এর মান ঋণাত্মক দিকে চলে যায় তাই p q < p r p q<pr pq < p r"
+    },
+    {
+      "number": "22",
+      "tag": "BMARPC 24,CB 21,DB 20",
+      "question": "7 + 5 + 3 + ...... ধারাটির n তম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2n-9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9 - 2n",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 + 2n",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 - 2n",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2n-9",
+      "option_b": "9 - 2n",
+      "option_c": "5 + 2n",
+      "option_d": "5 - 2n",
+      "correct": "খ",
+      "explanation": "প্রদত্ত ধারাটি হল: 7 + 5 + 3 + ....... এটি একটি সিরিজ যে প্রতি পদে ২ করে কমছে। যার পদ পার্থক্য d = − 2 d = -2 d = − 2 । প্রথম পদ (a) হলো 7। ধারার n তম পদ বের করার সাধারণ সূত্র হল: a n = a + ( n − 1 ) × d a_n = a + (n-1) \\times d a n ​ = a + ( n − 1 ) × d এখানে, a = 7 a = 7 a = 7 , d = − 2 d = -2 d = − 2 তাহলে, n তম পদ হবে: a n = 7 + ( n − 1 ) × ( − 2 ) a_n = 7 + (n-1) \\times (-2) a n ​ = 7 + ( n − 1 ) × ( − 2 ) = 7 − 2 ( n − 1 ) = 7 - 2(n-1) = 7 − 2 ( n − 1 ) = 7 − 2 n + 2 = 7 - 2n + 2 = 7 − 2 n + 2 = 9 − 2 n = 9 - 2n = 9 − 2 n তাহলে, n তম পদ হল 9 − 2 n 9 - 2n 9 − 2 n"
+    },
+    {
+      "number": "23",
+      "tag": "DB 20",
+      "question": "1 + 2 3 + 4 3 + 8 3 3 + 16 9 + … … 1+\\frac{2}{\\sqrt{3}}+\\frac{4}{3}+\\frac{8}{3 \\sqrt{3}}+\\frac{16}{9}+\\ldots \\ldots 1 + 3 ​ 2 ​ + 3 4 ​ + 3 3 ​ 8 ​ + 9 16 ​ + …… একটি ধারা। প্রদত্ত ধারার ৭ম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "32 9 3 \\frac{32}{9 \\sqrt{3}} 9 3 ​ 32 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "32 27 \\frac{32}{27} 27 32 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "64 27 \\frac{64}{27} 27 64 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "64 27 3 \\frac{64}{27 \\sqrt{3}} 27 3 ​ 64 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "32 9 3 \\frac{32}{9 \\sqrt{3}} 9 3 ​ 32 ​",
+      "option_b": "32 27 \\frac{32}{27} 27 32 ​",
+      "option_c": "64 27 \\frac{64}{27} 27 64 ​",
+      "option_d": "64 27 3 \\frac{64}{27 \\sqrt{3}} 27 3 ​ 64 ​",
+      "correct": "গ",
+      "explanation": "প্রদত্ত ধারাটি হলো: 1 + 2 3 + 4 3 + 8 3 3 + 16 9 + … 1+\\frac{2}{\\sqrt{3}}+\\frac{4}{3}+\\frac{8}{3 \\sqrt{3}}+\\frac{16}{9}+\\ldots 1 + 3 ​ 2 ​ + 3 4 ​ + 3 3 ​ 8 ​ + 9 16 ​ + … পদগুলিকে সাজ্জিয়ে প্যাটার্ন নির্ণয় প্রতিটি পদকে নিম্নরূপে লেখা যায়: 1 ⋅ ( 2 3 ) 0 , 2 3 ⋅ ( 2 3 ) 0 , 4 3 ⋅ ( 2 3 ) 0 , … 1 \\cdot\\left(\\frac{2}{\\sqrt{3}}\\right)^{0}, \\quad \\frac{2}{\\sqrt{3}} \\cdot\\left(\\frac{2}{\\sqrt{3}}\\right)^{0}, \\quad \\frac{4}{3} \\cdot\\left(\\frac{2}{\\sqrt{3}}\\right)^{0}, \\quad \\ldots 1 ⋅ ( 3 ​ 2 ​ ) 0 , 3 ​ 2 ​ ⋅ ( 3 ​ 2 ​ ) 0 , 3 4 ​ ⋅ ( 3 ​ 2 ​ ) 0 , … এটি একটি গুণোত্তর ধারা যেখানে: - প্রথম পদ (a): 1 - সাধারণ অনুপাত ( r ) : 2 3 (r): \\frac{2}{\\sqrt{3}} ( r ) : 3 ​ 2 ​ গুণোত্তর ধারার সাধারণ পদ গুণোত্তর ধারার n n n -তম পদের সূত্র: a n = a ⋅ r n − 1 = 1 ⋅ ( 2 3 ) n − 1 a_{n}=a \\cdot r^{n-1}=1 \\cdot\\left(\\frac{2}{\\sqrt{3}}\\right)^{n-1} a n ​ = a ⋅ r n − 1 = 1 ⋅ ( 3 ​ 2 ​ ) n − 1 ধাপ 3: ৭ম পদ ( a 7 ) \\left(a_{7}\\right) ( a 7 ​ ) গণনা a 7 = ( 2 3 ) 6 = 2 6 ( 3 ) 6 = 64 27 a_{7}=\\left(\\frac{2}{\\sqrt{3}}\\right)^{6}=\\frac{2^{6}}{(\\sqrt{3})^{6}}=\\frac{64}{27} a 7 ​ = ( 3 ​ 2 ​ ) 6 = ( 3 ​ ) 6 2 6 ​ = 27 64 ​"
+    },
+    {
+      "number": "24",
+      "tag": "DB 20",
+      "question": "1 + 2 3 + 4 3 + 8 3 3 + 16 9 + … … 1+\\frac{2}{\\sqrt{3}}+\\frac{4}{3}+\\frac{8}{3 \\sqrt{3}}+\\frac{16}{9}+\\ldots \\ldots 1 + 3 ​ 2 ​ + 3 4 ​ + 3 3 ​ 8 ​ + 9 16 ​ + …… একটি ধারা। প্রদত্ত ধারার ৭ম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "32 9 3 \\frac{32}{9 \\sqrt{3}} 9 3 ​ 32 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "32 27 \\frac{32}{27} 27 32 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "64 27 \\frac{64}{27} 27 64 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "64 27 3 \\frac{64}{27 \\sqrt{3}} 27 3 ​ 64 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "32 9 3 \\frac{32}{9 \\sqrt{3}} 9 3 ​ 32 ​",
+      "option_b": "32 27 \\frac{32}{27} 27 32 ​",
+      "option_c": "64 27 \\frac{64}{27} 27 64 ​",
+      "option_d": "64 27 3 \\frac{64}{27 \\sqrt{3}} 27 3 ​ 64 ​",
+      "correct": "গ",
+      "explanation": "প্রদত্ত ধারাটি হলো: 1 + 2 3 + 4 3 + 8 3 3 + 16 9 + … 1+\\frac{2}{\\sqrt{3}}+\\frac{4}{3}+\\frac{8}{3 \\sqrt{3}}+\\frac{16}{9}+\\ldots 1 + 3 ​ 2 ​ + 3 4 ​ + 3 3 ​ 8 ​ + 9 16 ​ + … পদগুলিকে সাজ্জিয়ে প্যাটার্ন নির্ণয় প্রতিটি পদকে নিম্নরূপে লেখা যায়: 1 ⋅ ( 2 3 ) 0 , 2 3 ⋅ ( 2 3 ) 0 , 4 3 ⋅ ( 2 3 ) 0 , … 1 \\cdot\\left(\\frac{2}{\\sqrt{3}}\\right)^{0}, \\quad \\frac{2}{\\sqrt{3}} \\cdot\\left(\\frac{2}{\\sqrt{3}}\\right)^{0}, \\quad \\frac{4}{3} \\cdot\\left(\\frac{2}{\\sqrt{3}}\\right)^{0}, \\quad \\ldots 1 ⋅ ( 3 ​ 2 ​ ) 0 , 3 ​ 2 ​ ⋅ ( 3 ​ 2 ​ ) 0 , 3 4 ​ ⋅ ( 3 ​ 2 ​ ) 0 , … এটি একটি গুণোত্তর ধারা যেখানে: - প্রথম পদ (a): 1 - সাধারণ অনুপাত ( r ) : 2 3 (r): \\frac{2}{\\sqrt{3}} ( r ) : 3 ​ 2 ​ গুণোত্তর ধারার সাধারণ পদ গুণোত্তর ধারার n n n -তম পদের সূত্র: a n = a ⋅ r n − 1 = 1 ⋅ ( 2 3 ) n − 1 a_{n}=a \\cdot r^{n-1}=1 \\cdot\\left(\\frac{2}{\\sqrt{3}}\\right)^{n-1} a n ​ = a ⋅ r n − 1 = 1 ⋅ ( 3 ​ 2 ​ ) n − 1 ধাপ 3: ৭ম পদ ( a 7 ) \\left(a_{7}\\right) ( a 7 ​ ) গণনা a 7 = ( 2 3 ) 6 = 2 6 ( 3 ) 6 = 64 27 a_{7}=\\left(\\frac{2}{\\sqrt{3}}\\right)^{6}=\\frac{2^{6}}{(\\sqrt{3})^{6}}=\\frac{64}{27} a 7 ​ = ( 3 ​ 2 ​ ) 6 = ( 3 ​ ) 6 2 6 ​ = 27 64 ​"
+    },
+    {
+      "number": "25",
+      "tag": "NISD 24,DIN.B 21,DB 20,SB 19",
+      "question": "cos ⁡ ( − 35 π 6 ) \\cos \\left(-\\frac{35 \\pi}{6}\\right) cos ( − 6 35 π ​ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 3 2 -\\frac{\\sqrt{3}}{2} − 2 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 3 2 -\\frac{\\sqrt{3}}{2} − 2 3 ​ ​",
+      "option_b": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+      "correct": "ঘ",
+      "explanation": "cos ⁡ ( − 35 π 6 ) = cos ⁡ ( 35 π 6 ) [ ∵ cos ⁡ ( − θ ) = cos ⁡ θ ] 35 π 6 = 6 π − π 6 [ ∵ 6 π = 36 π 6 ] cos ⁡ ( 6 π − π 6 ) = cos ⁡ ( π 6 ) [ ∵ cos ⁡ ( 2 π n ± θ ) = cos ⁡ θ ] cos ⁡ ( π 6 ) = 3 2 \\begin{array}{c}\\cos \\left(-\\frac{35 \\pi}{6}\\right)=\\cos \\left(\\frac{35 \\pi}{6}\\right) \\quad[\\because \\cos (-\\theta)=\\cos \\theta] \\\\ \\frac{35 \\pi}{6}=6 \\pi-\\frac{\\pi}{6} \\quad\\left[\\because 6 \\pi=\\frac{36 \\pi}{6}\\right] \\\\ \\cos \\left(6 \\pi-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{\\pi}{6}\\right) \\quad[\\because \\cos (2 \\pi n \\pm \\theta)=\\cos \\theta] \\\\ \\cos \\left(\\frac{\\pi}{6}\\right)=\\frac{\\sqrt{3}}{2}\\end{array} cos ( − 6 35 π ​ ) = cos ( 6 35 π ​ ) [ ∵ cos ( − θ ) = cos θ ] 6 35 π ​ = 6 π − 6 π ​ [ ∵ 6 π = 6 36 π ​ ] cos ( 6 π − 6 π ​ ) = cos ( 6 π ​ ) [ ∵ cos ( 2 πn ± θ ) = cos θ ] cos ( 6 π ​ ) = 2 3 ​ ​ ​"
+    }
+  ]
+}

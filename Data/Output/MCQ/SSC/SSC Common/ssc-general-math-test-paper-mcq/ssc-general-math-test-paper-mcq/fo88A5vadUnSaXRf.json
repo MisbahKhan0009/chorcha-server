@@ -1,0 +1,964 @@
+{
+  "read_id": "fo88A5vadUnSaXRf",
+  "title": "যশোর বোর্ড ২০১৯",
+  "count": 29,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JB 19",
+      "question": "0.27 ÷ 0.5 = ? 0.27 \\div 0.5=? 0.27 ÷ 0.5 = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5.4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.54",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.50",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.17",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5.4",
+      "option_b": "0.54",
+      "option_c": "0.50",
+      "option_d": "0.17",
+      "correct": "খ",
+      "explanation": "To solve 0.27 ÷ 0.5 0.27 \\div 0.5 0.27 ÷ 0.5 , we can rewrite the division with fractions: 0.27 0.5 = 27 100 ÷ 5 10 \\frac{0.27}{0.5} = \\frac{27}{100} \\div \\frac{5}{10} 0.5 0.27 ​ = 100 27 ​ ÷ 10 5 ​ Dividing two fractions means multiplying the first fraction by the reciprocal of the second one: 27 100 × 10 5 \\frac{27}{100} \\times \\frac{10}{5} 100 27 ​ × 5 10 ​ Simplifying, 27 × 10 100 × 5 = 270 500 \\frac{27 \\times 10}{100 \\times 5} = \\frac{270}{500} 100 × 5 27 × 10 ​ = 500 270 ​ Simplify the fraction by dividing the numerator and the denominator by the greatest common divisor, which is 50: 270 500 = 27 ÷ 5 50 ÷ 5 = 54 100 = 0.54 \\frac{270}{500} = \\frac{27 \\div 5}{50 \\div 5} = \\frac{54}{100} = 0.54 500 270 ​ = 50 ÷ 5 27 ÷ 5 ​ = 100 54 ​ = 0.54 So, 0.27 ÷ 0.5 = 0.54 0.27 \\div 0.5 = 0.54 0.27 ÷ 0.5 = 0.54 ."
+    },
+    {
+      "number": "2",
+      "tag": "JB 19",
+      "question": "a + 1 a = 5 \\mathrm{a}+\\frac{1}{\\mathrm{a}}=5 a + a 1 ​ = 5 হলে a 3 + 1 a 3 \\mathrm{a}^{3}+\\frac{1}{\\mathrm{a}^{3}} a 3 + a 3 1 ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "21",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "23",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "110",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "140",
+          "is_correct": false
+        }
+      ],
+      "option_a": "21",
+      "option_b": "23",
+      "option_c": "110",
+      "option_d": "140",
+      "correct": "গ",
+      "explanation": "a + 1 a = 5 ∴ a 3 + 1 a 3 = ∴ ( a + 1 a ) 3 − 3 ⋅ a ⋅ 1 a ( a + 1 a ) = 5 3 − 3 ⋅ 5 = 125 − 15 = 110  Ans  \\begin{array}{l} a+\\frac{1}{a}=5 \\\\ \\therefore \\quad a^{3}+\\frac{1}{a^{3}} =\\\\ \\therefore\\left(a+\\frac{1}{a}\\right)^{3}-3 \\cdot a \\cdot \\frac{1}{a}\\left(a+\\frac{1}{a}\\right) \\\\ =5^{3}-3 \\cdot 5 \\\\ =125-15 \\\\ =110 \\quad \\text { Ans } \\end{array} a + a 1 ​ = 5 ∴ a 3 + a 3 1 ​ = ∴ ( a + a 1 ​ ) 3 − 3 ⋅ a ⋅ a 1 ​ ( a + a 1 ​ ) = 5 3 − 3 ⋅ 5 = 125 − 15 = 110  Ans  ​"
+    },
+    {
+      "number": "3",
+      "tag": "JB 19",
+      "question": "শ্রেণি বিস্তৃতি 21-30 31-40 41-50 51-60 61-70 গণসংখ্যা 6 10 12 15 7 F c \\mathbf{F}_{\\mathrm{c}} F c ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "28",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12",
+      "option_b": "15",
+      "option_c": "16",
+      "option_d": "28",
+      "correct": "গ",
+      "explanation": "শ্রেণি বিস্তৃতি গণসংখ্যা F c F_c F c ​ 21-30 6 6 31-40 10 6 + 10 = 16 41-50 12 16 + 12 = 28 51-60 15 28 + 15 = 43 61-70 7 43 + 7 = 50 যেহেতু প্রশ্নের উত্তর F c = 16 F_c = 16 F c ​ = 16 দেওয়া হয়েছে, তাই এটি শ্রেণি 31-40 এর জন্য ক্রমযোজিত সংখ্যা।"
+    },
+    {
+      "number": "4",
+      "tag": "JB 19",
+      "question": "মধ্যক শ্রেণির উচ্চসীমা নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "50",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "40",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30",
+          "is_correct": false
+        }
+      ],
+      "option_a": "60",
+      "option_b": "50",
+      "option_c": "40",
+      "option_d": "30",
+      "correct": "খ",
+      "explanation": "মোট ফ্রিকোয়েন্সি (∑f) হলো: 6 + 10 + 12 + 15 + 7 = 50 মোট ফ্রিকোয়েন্সির অর্ধেক = 50 ÷ 2 = 25 এখন cumulative frequency যোগ করে দেখতে হবে: ২৮ যেহেতু ২৫ এর বেশি, তাই ৪১-৫০ হলো মিডিয়ান শ্রেণি। এর উপরের সীমা হলো ৫০।"
+    },
+    {
+      "number": "",
+      "tag": "JB 19",
+      "question": "শ্রেণি ব্যাপ্তি গণসংখ্যা 21 - 30 6 31 - 40 10 41 - 50 12 51 - 60 15 61 - 70 7 প্রদত্ত উপাত্তের প্রচুরক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "62.73",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "54",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "53.73",
+          "is_correct": true
+        }
+      ],
+      "option_a": "62.73",
+      "option_b": "60",
+      "option_c": "54",
+      "option_d": "53.73",
+      "correct": "ঘ",
+      "explanation": "এখানে, প্রচুরক শ্রেণি = ( 51 − 60 ) =(51-60) = ( 51 − 60 ) L = 51 , f 1 = ( 15 − 12 ) = 3 , f 2 = ( 15 − 7 ) = 8 , h = 10 ∴  প্রচুরক  = L + f 1 f 1 + f 2 × h = 51 + 3 × 10 3 + 8 = 51 + 30 11 = 53.73 \\begin{array}{l} L=51, f_{1}=(15-12)=3, f_{2}=(15-7)=8, h=10 \\\\ \\therefore \\text { প্রচুরক }=L+\\frac{f_{1}}{f_{1}+f_{2}} \\times h \\\\ =51+\\frac{3 \\times 10}{3+8} \\\\ =51+\\frac{30}{11} \\\\ =53.73 \\end{array} L = 51 , f 1 ​ = ( 15 − 12 ) = 3 , f 2 ​ = ( 15 − 7 ) = 8 , h = 10 ∴   প্রচুরক   = L + f 1 ​ + f 2 ​ f 1 ​ ​ × h = 51 + 3 + 8 3 × 10 ​ = 51 + 11 30 ​ = 53.73 ​"
+    },
+    {
+      "number": "6",
+      "tag": "MAD 25,CTG.B 20,JB 20,DIN.B 19,JB 19,JB 17,GLHSD 24,CSC 24",
+      "question": "S = { ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 ) } \\mathrm{S}=\\{(\\mathbf{3}, \\mathbf{1}),(\\mathbf{3}, \\mathbf{2}),(4,2)\\} S = {( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 )} অন্বয়ের রেঞ্জ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 1 , 2 } \\{1,2\\} { 1 , 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "{ 3 , 4 } \\{3,4\\} { 3 , 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 1 , 2 ) (1,2) ( 1 , 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 3 , 4 ) (3,4) ( 3 , 4 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ 1 , 2 } \\{1,2\\} { 1 , 2 }",
+      "option_b": "{ 3 , 4 } \\{3,4\\} { 3 , 4 }",
+      "option_c": "( 1 , 2 ) (1,2) ( 1 , 2 )",
+      "option_d": "( 3 , 4 ) (3,4) ( 3 , 4 )",
+      "correct": "ক",
+      "explanation": "S = { ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 ) } \\mathrm{S}=\\{(3,1),(3,2),(4,2)\\} S = {( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 )} অন্বয়ের রেঞ্জ নির্ণয় করতে হলে, আমাদের অন্বয়ের দ্বিতীয় উপাদানগুলি (যেগুলি হল y y y -মান) চিহ্নিত করতে হবে। অন্বয় S এর উপাদানগুলি হল: ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 ) (3,1), \\quad(3,2), \\quad(4,2) ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 ) এখানে দ্বিতীয় উপাদানগুলি হল 1 , 2 , 2 1,2,2 1 , 2 , 2 । রেঞ্জ হল অন্বয়ের দ্বিতীয় উপাদানগুলির সেঁট, অর্থাৎ { 1 , 2 } \\{1,2\\} { 1 , 2 } । অতএব, S অন্বয়ের রেঞ্জ হল: { 1 , 2 } \\{1,2\\} { 1 , 2 }"
+    },
+    {
+      "number": "7",
+      "tag": "MB 24,JB 24,DB 22,CB 22,CTG.B 22,MB 20,CTG.B 20,BB 19,JB 19,FCC 24,CSC 24,BCPC 24",
+      "question": "U সার্বিক সেট এবং A সেটটি U এর উপসেট হলে— i. A C ∪ A = U A^{C} \\cup A=U A C ∪ A = U ii. A C ∩ A = ϕ \\mathrm{A}^{\\mathrm{C}} \\cap \\mathrm{A}=\\phi A C ∩ A = ϕ iii. A ∪ U = A C A \\cup U=A^{\\mathrm{C}} A ∪ U = A C নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "এখানে, U U U সার্বিক সেট এবং A A A সেটটি U U U এর একটি উপসেট। আমরা প্রতিটি বিবৃতি বিশ্লেষণ করি: i. A C ∪ A = U A^{C} \\cup A=U A C ∪ A = U A C A^C A C হল A A A সেটের পূরক সেট, অর্থাৎ U U U এর যে সকল উপাদান A A A এ নেই। A A A এবং A C A^C A C এর সংযোগ সেট (union) সর্বদা সার্বিক সেট U U U হবে। এটি সেটের একটি মৌলিক ধর্ম। সুতরাং, বিবৃতি (i) সঠিক। ii. A C ∩ A = ϕ A^{C} \\cap A=\\phi A C ∩ A = ϕ A C A^C A C এবং A A A এর ছেদ সেট (intersection) সর্বদা ফাঁকা সেট ( ϕ \\phi ϕ ) হবে, কারণ A A A এবং A C A^C A C এর মধ্যে কোনো সাধারণ উপাদান নেই। এটিও সেটের একটি মৌলিক ধর্ম। সুতরাং, বিবৃতি (ii) সঠিক। iii. A ∪ U = A C A \\cup U=A^{\\mathrm{C}} A ∪ U = A C যেহেতু A A A সেটটি সার্বিক সেট U U U এর একটি উপসেট, তাই A A A এবং U U U এর সংযোগ সেট সর্বদা U U U হবে, অর্থাৎ A ∪ U = U A \\cup U = U A ∪ U = U । কিন্তু বিবৃতিতে বলা হয়েছে A ∪ U = A C A \\cup U = A^C A ∪ U = A C । এটি সাধারণত ভুল, কারণ U U U এবং A C A^C A C শুধুমাত্র তখনই সমান হতে পারে যদি A A A একটি ফাঁকা সেট হয়। এটি সেটের একটি সাধারণ ধর্ম নয়। সুতরাং, বিবৃতি (iii) ভুল। উপরিউক্ত বিশ্লেষণ থেকে দেখা যায়, বিবৃতি (i) এবং (ii) সঠিক। সঠিক বিকল্পটি হল ক। The final answer is ক \\boxed{\\text{ক}} ক ​"
+    },
+    {
+      "number": "8",
+      "tag": "JB 19",
+      "question": "△ A B F \\triangle \\mathrm{ABF} △ ABF এর পরিসীমা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40 cm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "22.43 cm",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "20 cm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18.43 cm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "40 cm",
+      "option_b": "22.43 cm",
+      "option_c": "20 cm",
+      "option_d": "18.43 cm",
+      "correct": "খ",
+      "explanation": "BF= 10 2 \\frac{10}{2} 2 10 ​ =5cm AF= 8 2 + 5 2 \\sqrt{8^2+5^2} 8 2 + 5 2 ​ = 9.43 cm পরিসীমা= (8+5+9.43)= 22.43 cm"
+    },
+    {
+      "number": "9",
+      "tag": "JB 19",
+      "question": "△ A F C \\triangle \\mathrm{AFC} △ AFC এর ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20   c m 2 20 \\mathrm{~cm}^{2} 20   cm 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "40   c m 2 40 \\mathrm{~cm}^{2} 40   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60   c m 2 60 \\mathrm{~cm}^{2} 60   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "80   c m 2 80 \\mathrm{~cm}^{2} 80   cm 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20   c m 2 20 \\mathrm{~cm}^{2} 20   cm 2",
+      "option_b": "40   c m 2 40 \\mathrm{~cm}^{2} 40   cm 2",
+      "option_c": "60   c m 2 60 \\mathrm{~cm}^{2} 60   cm 2",
+      "option_d": "80   c m 2 80 \\mathrm{~cm}^{2} 80   cm 2",
+      "correct": "ক",
+      "explanation": "এখানে, △ A F C  এর ক্ষেত্রফল  = △ A B C − △ A B F = 1 2 × 8 × 10 − 1 2 × 8 × 5 = 1 2 × 8 × ( 10 − 5 ) = 20   c m 2 \\begin{aligned} \\triangle A F C \\text { এর ক্ষেত্রফল } & =\\triangle A B C-\\triangle A B F \\\\ & =\\frac{1}{2} \\times 8 \\times 10-\\frac{1}{2} \\times 8 \\times 5 \\\\ & =\\frac{1}{2} \\times 8 \\times(10-5) \\\\ & =20 \\mathrm{~cm}^{2} \\end{aligned} △ A FC   এর   ক্ষেত্রফল   ​ = △ A BC − △ A BF = 2 1 ​ × 8 × 10 − 2 1 ​ × 8 × 5 = 2 1 ​ × 8 × ( 10 − 5 ) = 20   cm 2 ​"
+    },
+    {
+      "number": "10",
+      "tag": "RB 25",
+      "question": "নিচের কোনটি অমূলদ সংখ্যা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0. 4 ˙ 0 . \\dot{4} 0. 4 ˙",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "25 64 \\sqrt{\\frac{25}{64}} 64 25 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 64 3 \\sqrt[3]{\\frac{8}{64}} 3 64 8 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 3 \\sqrt{\\frac{25}{3}} 3 25 ​ ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0. 4 ˙ 0 . \\dot{4} 0. 4 ˙",
+      "option_b": "25 64 \\sqrt{\\frac{25}{64}} 64 25 ​ ​",
+      "option_c": "8 64 3 \\sqrt[3]{\\frac{8}{64}} 3 64 8 ​ ​",
+      "option_d": "25 3 \\sqrt{\\frac{25}{3}} 3 25 ​ ​",
+      "correct": "ঘ",
+      "explanation": "0. 4 ˙ 0 . \\dot{4} 0. 4 ˙ = 4 − 0 9 \\frac{4-0}{9} 9 4 − 0 ​ = 4 9 \\frac{4}{9} 9 4 ​ ; 25 64 \\sqrt{\\frac{25}{64}} 64 25 ​ ​ = 5 9 \\frac{5}{9} 9 5 ​ ; 8 64 3 \\sqrt[3]{\\frac{8}{64}} 3 64 8 ​ ​ = 2 4 =   1 2 \\frac{2}{4}=\\ \\frac{1}{2} 4 2 ​ =   2 1 ​ ∴ \\therefore ∴ 4 9 \\frac{4}{9} 9 4 ​ , 5 9 \\frac{5}{9} 9 5 ​ , 1 2 \\frac{1}{2} 2 1 ​ ভগ্নাংশ সংখ্যা। সকল পূর্ণসংখ্যা ও ভগ্নাংশই মূলদ সংখ্যা। কিন্তু 25 3 \\sqrt{\\frac{25}{3}} 3 25 ​ ​ = 5 3 \\frac{5}{\\sqrt{3}} 3 ​ 5 ​ একটি অমূলদ সংখ্যা।   ( ∵ \\because ∵ পূর্ণবর্গ নয় এরূপ যে কোনো স্বাভাবিক সংখ্যার বর্গমূল কিংবা তার ভগ্নাংশ একটি অমূলদ সংখ্যা  )"
+    },
+    {
+      "number": "11",
+      "tag": "JB 19",
+      "question": "শতকরা বার্ষিক 7 টাকা সরল মুনাফায় কোনো মূলধন 2 বছরে স্ববৃদ্ধি মূল 912 টাকা হলে মূলধন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "894.11 টাকা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "852.33 টাকা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "796.57 টাকা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "800.00 টাকা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "894.11 টাকা",
+      "option_b": "852.33 টাকা",
+      "option_c": "796.57 টাকা",
+      "option_d": "800.00 টাকা",
+      "correct": "ঘ",
+      "explanation": "যেখানে, I = n 'সময় পরে মুনাফা n = নির্দিষ্ট সময় P = মূলধন r = একক সময়ে একক মূলধনের মুনাফা সরল মুনাফার ক্ষেত্রে সবৃদ্ধি মূল, C = P + I = P + Pnr = P(1 + nr) প্রশ্নমতে, 912 = P ( 1 + 2 × 7 100 ) 912=P\\left(1+2 \\times \\frac{7}{100}\\right) 912 = P ( 1 + 2 × 100 7 ​ ) বा, 912 = P ( 1 + 7 50 ) 912=\\mathrm{P}\\left(1+\\frac{7}{50}\\right) 912 = P ( 1 + 50 7 ​ ) বा, 912 = P × 57 50 912=\\mathrm{P} \\times \\frac{57}{50} 912 = P × 50 57 ​ ∴ P = 800 \\therefore \\mathrm{P}=800 ∴ P = 800 টাকা ∴ \\therefore ∴ মূলধন = 800 =800 = 800 টाका"
+    },
+    {
+      "number": "12",
+      "tag": "JB 19",
+      "question": "( p − 1 + q − 1 ) − 2 \\left(p^{-1}+q^{-1}\\right)^{-2} ( p − 1 + q − 1 ) − 2 এর সরল মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "p + q p q \\frac{\\mathrm{p}+\\mathrm{q}}{\\mathrm{pq}} pq p + q ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "p q ( p + q ) 2 \\frac{p q}{(p+q)^{2}} ( p + q ) 2 pq ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "p q p + q \\frac{\\mathrm{pq}}{\\mathrm{p}+\\mathrm{q}} p + q pq ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "p 2 q 2 ( p + q ) 2 \\frac{p^{2} q^{2}}{(p+q)^{2}} ( p + q ) 2 p 2 q 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "p + q p q \\frac{\\mathrm{p}+\\mathrm{q}}{\\mathrm{pq}} pq p + q ​",
+      "option_b": "p q ( p + q ) 2 \\frac{p q}{(p+q)^{2}} ( p + q ) 2 pq ​",
+      "option_c": "p q p + q \\frac{\\mathrm{pq}}{\\mathrm{p}+\\mathrm{q}} p + q pq ​",
+      "option_d": "p 2 q 2 ( p + q ) 2 \\frac{p^{2} q^{2}}{(p+q)^{2}} ( p + q ) 2 p 2 q 2 ​",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত রাশি  = ( p − 1 + q − 1 ) − 2 = ( 1 p + 1 q ) − 2 = ( p + q p q ) − 2 = 1 ( p + q p q ) 2 = 1 ( p + q ) 2 × p 2 q 2 \\begin{aligned} \\text { প্রদত্ত রাশি } & =\\left(p^{-1}+q^{-1}\\right)^{-2} \\\\ & =\\left(\\frac{1}{p}+\\frac{1}{q}\\right)^{-2} \\\\ & =\\left(\\frac{p+q}{p q}\\right)^{-2} \\\\ & =\\frac{1}{\\left(\\frac{p+q}{p q}\\right)^{2}} \\\\ & =\\frac{1}{(p+q)^{2}} \\times p^{2}{q}^{2} \\end{aligned}   প্রদত্ত   রাশি   ​ = ( p − 1 + q − 1 ) − 2 = ( p 1 ​ + q 1 ​ ) − 2 = ( pq p + q ​ ) − 2 = ( pq p + q ​ ) 2 1 ​ = ( p + q ) 2 1 ​ × p 2 q 2 ​ ∴ \\therefore ∴ সরলীকৃত মান = p 2 q 2 ( p + q ) 2 =\\frac{p^{2} q^{2}}{(p+q)^{2}} = ( p + q ) 2 p 2 q 2 ​"
+    },
+    {
+      "number": "13",
+      "tag": "JB 19",
+      "question": "p − 1 p = 7 p-\\frac{1}{p}=7 p − p 1 ​ = 7 ( p + 1 p ) 2 = \\left(p+\\frac{1}{p}\\right)^{2}= ( p + p 1 ​ ) 2 = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "53",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "51",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "47",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "45",
+          "is_correct": false
+        }
+      ],
+      "option_a": "53",
+      "option_b": "51",
+      "option_c": "47",
+      "option_d": "45",
+      "correct": "ক",
+      "explanation": "আমরা জানি: ( p + 1 p ) 2 = ( p − 1 p ) 2 + 4 \\left(p + \\frac{1}{p}\\right)^2 = \\left(p - \\frac{1}{p}\\right)^2 + 4 ( p + p 1 ​ ) 2 = ( p − p 1 ​ ) 2 + 4 কারণ: ( p + 1 p ) 2 = p 2 + 2 + 1 p 2 \\left(p + \\frac{1}{p}\\right)^2 = p^2 + 2 + \\frac{1}{p^2} ( p + p 1 ​ ) 2 = p 2 + 2 + p 2 1 ​ ( p − 1 p ) 2 = p 2 − 2 + 1 p 2 \\left(p - \\frac{1}{p}\\right)^2 = p^2 - 2 + \\frac{1}{p^2} ( p − p 1 ​ ) 2 = p 2 − 2 + p 2 1 ​ বিয়োগ করলে: ( p + 1 p ) 2 − ( p − 1 p ) 2 = 4 \\left(p + \\frac{1}{p}\\right)^2 - \\left(p - \\frac{1}{p}\\right)^2 = 4 ( p + p 1 ​ ) 2 − ( p − p 1 ​ ) 2 = 4 সুতরাং: ( p + 1 p ) 2 = ( 7 ) 2 + 4 = 49 + 4 = 53 \\left(p + \\frac{1}{p}\\right)^2 = (7)^2 + 4 = 49 + 4 = 53 ( p + p 1 ​ ) 2 = ( 7 ) 2 + 4 = 49 + 4 = 53"
+    },
+    {
+      "number": "14",
+      "tag": "JB 19",
+      "question": "p − 1 p = 7 p-\\frac{1}{p}=7 p − p 1 ​ = 7 p p 2 − 6 p − 1 \\frac{p}{p^{2}-6 p-1} p 2 − 6 p − 1 p ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 12 \\frac{1}{12} 12 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 12 \\frac{1}{12} 12 1 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "ঘ",
+      "explanation": "We are given the equation: p − 1 p = 7 p-\\frac{1}{p}=7 p − p 1 ​ = 7 We need to determine the value of: p p 2 − 6 p − 1 {\\frac{p}{p^2 - 6p - 1}} p 2 − 6 p − 1 p ​ . Step 1: Express p 2 p^{2} p 2 in terms of p p p Squaring both sides of the given equation: p − 1 p 2 = 7 2 p 2 − 2 + 1 p 2 = 49 p 2 + 1 p 2 = 51 \\begin{array}{c} p-\\frac{1}{p}^{2}=7^{2} \\\\ p^{2}-2+\\frac{1}{p^{2}}=49 \\\\ p^{2}+\\frac{1}{p^{2}}=51 \\end{array} p − p 1 ​ 2 = 7 2 p 2 − 2 + p 2 1 ​ = 49 p 2 + p 2 1 ​ = 51 ​ Multiplying both sides of the given equation p − 1 p = 7 p-\\frac{1}{p}=7 p − p 1 ​ = 7 by p p p : p 2 − 1 = 7 p p 2 − 7 p − 1 = 0 \\begin{array}{c} p^{2}-1=7 p \\\\ p^{2}-7 p-1=0 \\end{array} p 2 − 1 = 7 p p 2 − 7 p − 1 = 0 ​ Step 2: Compute the denominator p 2 − 6 p − 1 p^{2}-6 p-1 p 2 − 6 p − 1 We rewrite: p 2 − 6 p − 1 = ( p 2 − 7 p − 1 ) + p p^{2}-6 p-1=\\left(p^{2}-7 p-1\\right)+p p 2 − 6 p − 1 = ( p 2 − 7 p − 1 ) + p Since p 2 − 7 p − 1 = 0 p^{2}-7 p-1=0 p 2 − 7 p − 1 = 0 , replacing it: 0 + p = p 0+p=p 0 + p = p Step 3: Compute the given expression p p 2 − 6 p − 1 = p p = 1 \\frac{p}{p^{2}-6 p-1}=\\frac{p}{p}=1 p 2 − 6 p − 1 p ​ = p p ​ = 1"
+    },
+    {
+      "number": "15",
+      "tag": "CB 25",
+      "question": "log ⁡ x 4 = − 2  হলে,  x =  কত?  \\log _{x} 4=-2 \\text { হলে, } x=\\text { কত? } lo g x ​ 4 = − 2   হলে ,  x =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_d": "-2",
+      "correct": "খ",
+      "explanation": "log꜀ x 4 = −2 এই লগারিদমিক সমীকরণটিকে সূচকীয় আকারে প্রকাশ করলে পাই, x⁻² = 4 1/x² = 4 x² = 1/4 x = √(1/4)"
+    },
+    {
+      "number": "16",
+      "tag": "DIN.B 24,CB 22,JB 19",
+      "question": "tan y এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 \\sqrt{3} 3 ​",
+      "option_b": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_c": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+      "option_d": "1 2 \\frac{1}{2} 2 1 ​",
+      "correct": "ক",
+      "explanation": "চিত্র হতে পাই, △ A B C − এ \\triangle A B C-এ △ A BC − এ B C 2 = A C 2 + A B 2 ⇒ ( 2 ) 2 = ( 1 ) 2 + A B 2 \\begin{array}{l} B C^{2}=A C^{2}+A B^{2} \\\\ \\Rightarrow(2)^{2} =(1)^{2}+A B^{2} \\end{array} B C 2 = A C 2 + A B 2 ⇒ ( 2 ) 2 = ( 1 ) 2 + A B 2 ​ ⇒ A B 2 = 4 − 1 \\Rightarrow A B^{2}=4-1 ⇒ A B 2 = 4 − 1 ⇒ A B 2 = 3 \\Rightarrow A B^{2}=3 ⇒ A B 2 = 3 ∴ A B = 3 \\therefore A B=\\sqrt{3} ∴ A B = 3 ​ ∴ tan ⁡ y = লম্ব ভুমি = A B A C = 3 1 = 3 \\begin{aligned} \\therefore \\tan y & =\\frac{ লম্ব } { ভুমি } =\\frac{A B}{A C} \\\\ & =\\frac{\\sqrt{3}}{1} \\\\ & =\\sqrt{3} \\end{aligned} ∴ tan y ​ = ভুমি লম্ব ​ = A C A B ​ = 1 3 ​ ​ = 3 ​ ​"
+    },
+    {
+      "number": "17",
+      "tag": "CB 22,JB 19",
+      "question": "sin ⁡ 2 y − tan ⁡ 2 x \\sin ^{2} \\mathrm{y}-\\tan ^{2} \\mathrm{x} sin 2 y − tan 2 x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 12 \\frac{5}{12} 12 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 4 \\frac{5}{4} 4 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 6 \\frac{7}{6} 6 7 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 12 \\frac{5}{12} 12 5 ​",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "5 4 \\frac{5}{4} 4 5 ​",
+      "option_d": "7 6 \\frac{7}{6} 6 7 ​",
+      "correct": "ক",
+      "explanation": "চিত্র হতে পাই, △ A B C  এ  B C 2 = A C 2 + A B 2 ⇒ A B = B C 2 − A C 2 = ( 2 ) 2 − ( 1 ) 2 = 4 − 1 = 3 sin ⁡ y = A B B C = 3 2 tan ⁡ x = A C A B = 1 3 sin ⁡ 2 y − tan ⁡ 2 x = ( 3 2 ) 2 − ( 1 3 ) 2 = 3 4 − 1 3 = 9 − 4 12 = 5 12 \\begin{array}{l} \\triangle A B C \\text { এ } \\\\ B C^{2}=A C^{2}+A B^{2} \\\\ \\Rightarrow A B=\\sqrt{B C^{2}-A C^{2}} \\\\ =\\sqrt{(2)^{2}-(1)^{2}} \\\\ =\\sqrt{4-1} \\\\ =\\sqrt{3} \\\\ \\sin y=\\frac{A B}{B C}=\\frac{\\sqrt{3}}{2} \\\\ \\tan x=\\frac{A C}{A B}=\\frac{1}{\\sqrt{3}} \\\\ \\sin ^{2} y-\\tan ^{2} x \\\\ =\\left(\\frac{\\sqrt{3}}{2}\\right)^{2}-\\left(\\frac{1}{\\sqrt{3}}\\right)^{2} \\\\ =\\frac{3}{4}-\\frac{1}{3} \\\\ =\\frac{9-4}{12} \\\\ =\\frac{5}{12} \\end{array} △ A BC   এ   B C 2 = A C 2 + A B 2 ⇒ A B = B C 2 − A C 2 ​ = ( 2 ) 2 − ( 1 ) 2 ​ = 4 − 1 ​ = 3 ​ sin y = BC A B ​ = 2 3 ​ ​ tan x = A B A C ​ = 3 ​ 1 ​ sin 2 y − tan 2 x = ( 2 3 ​ ​ ) 2 − ( 3 ​ 1 ​ ) 2 = 4 3 ​ − 3 1 ​ = 12 9 − 4 ​ = 12 5 ​ ​"
+    },
+    {
+      "number": "18",
+      "tag": "JB 19,ISCM 24,BAFSC 24,MC 24",
+      "question": "এটি সমবাহু ত্রিভুজের প্রতিসম মাত্রা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "সমবাহু ত্রিভুজের প্রতিসম মাত্রা থাকে ৩টি। কারণ: সমবাহু ত্রিভুজের তিনটি বাহুই সমান, তিনটি কোণও সমান (৬০°), তাই প্রতিটি শীর্ষবিন্দু থেকে বিপরীত বাহুর মধ্যবিন্দু পর্যন্ত একটি করে প্রতিসম রেখা আঁকা যায়।"
+    },
+    {
+      "number": "19",
+      "tag": "JB 19",
+      "question": "2 3 x + 2 = 16 2^{3 x+2}=16 2 3 x + 2 = 16 হলে x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4 3 \\frac{4}{3} 3 4 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "4 3 \\frac{4}{3} 3 4 ​",
+      "correct": "গ",
+      "explanation": "2 3 x + 2 = 16 ⇒ 2 3 x + 2 = 2 4 ⇒ 3 x + 2 = 4 ⇒ 3 x = 4 − 2 ⇒ x = 2 / 3 \\begin{aligned} & 2^{3 x+2}=16 \\\\ \\Rightarrow & 2^{3 x+2}=2^{4} \\\\ \\Rightarrow & 3 x+2=4 \\\\ \\Rightarrow & 3 x=4-2 \\\\ \\Rightarrow & x=2 / 3\\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ 2 3 x + 2 = 16 2 3 x + 2 = 2 4 3 x + 2 = 4 3 x = 4 − 2 x = 2/3 ​"
+    },
+    {
+      "number": "20",
+      "tag": "DC 25,MB 25,RB 25,DIN.B 25,JB 25,BB 25,MAD 25,DB 24,RB 24,CB 24,DIN.B 24,MB 24,DB 24,JB 24,BB 24,DB 20,MB 20,DIN.B 20,BB 20,DB 19,RB 19,CB 19,DIN.B 19,JB 19,SB 19,DB 17,JB 17,FCC 24,JGCC 24,BCC 24,VNSC 24,GLHSD 24,ACPS 24,NISD 24,MCPSC 24,RCPC 24,CCS 24,RCPC 24,BCPC 24",
+      "question": "2 x − 3 + 5 = 2 \\sqrt{2 x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণ- i. একটি এক চলকবিশিষ্ট সমীকরণ ii. এর সমাধান সেট S = { } \\mathrm{S}=\\{ \\} S = { } iii. এর সমাধান x = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "ক",
+      "explanation": "2 x − 3 + 5 = 2 \\sqrt{2x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণটি সমাধান করা যাক। প্রথমত, সমীকরণটি সরল করার জন্য আমরা উভয় পাশে 5 5 5 বিয়োগ করব: 2 x − 3 = 2 − 5 \\sqrt{2x-3} = 2 - 5 2 x − 3 ​ = 2 − 5 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 পুরুত্ব বর্গমূলের মান কখনোই ঋণাত্মক হতে পারে না, তাই 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 সমাধায় কোন সমর্থন বা সঠিক সমাধান নেই। অতএব, এর সমাধান সেট হল S = { } S = \\{\\} S = { } , যা একটি খালি সেট নির্দেশ করে। তাহলে, নিচের বস্তুগুলি সঠিক: i. একটি এক চলকবিশিষ্ট সমীকরণ কারণ এটি শুধু x x x -এর উপর নির্ভর করে। ii. এর সমাধান সেট S = { } \\mathrm{S} = \\{ \\} S = { } হল খালি সেট। iii. এর সমাধান x = 6 x = 6 x = 6 ভুল কারণ উক্ত সমীকরণ থেকে এমন কোন সমাধান পাওয়া যায় না। সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "21",
+      "tag": "JB 19",
+      "question": "( x + 4 ) ( x − 4 ) = 9 (x+4)(x-4)=9 ( x + 4 ) ( x − 4 ) = 9 হলে x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "± 5 \\pm 5 ± 5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "± 3 \\pm 3 ± 3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "± 5 \\pm 5 ± 5",
+      "option_b": "± 3 \\pm 3 ± 3",
+      "option_c": "5",
+      "option_d": "3",
+      "correct": "ক",
+      "explanation": "এখানে, ( x + 4 ) ( x − 4 ) = 9 ⇒ x 2 − 16 = 9 ⇒ x 2 = 25 ⇒ x = ± 5 \\begin{aligned} & (x+4)(x-4)=9 \\\\ \\Rightarrow & x^{2}-16=9 \\\\ \\Rightarrow & x^{2}=25 \\\\ \\Rightarrow & x= \\pm 5 \\end{aligned} ⇒ ⇒ ⇒ ​ ( x + 4 ) ( x − 4 ) = 9 x 2 − 16 = 9 x 2 = 25 x = ± 5 ​ Ans"
+    },
+    {
+      "number": "22",
+      "tag": "JB 19",
+      "question": "A C = 16   c m . , B D = 12   c m \\mathrm{AC}=16 \\mathrm{~cm} ., \\mathrm{BD}=12 \\mathrm{~cm} AC = 16   cm . , BD = 12   cm AB বাহুর দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 cm",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "8 cm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7 cm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 cm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 cm",
+      "option_b": "8 cm",
+      "option_c": "7 cm",
+      "option_d": "6 cm",
+      "correct": "ক",
+      "explanation": "A C = 16   c m O A = A C 2 = 8   c m \\begin{array}{l} A C=16 \\mathrm{~cm} \\\\ O A=\\frac{A C}{2}=8 \\mathrm{~cm} \\end{array} A C = 16   cm O A = 2 A C ​ = 8   cm ​ B D = 12   c m O B = 12 2 = 6   c m \\begin{array}{l} B D=12 \\mathrm{~cm} \\\\ O B=\\frac{12}{2}=6 \\mathrm{~cm} \\end{array} B D = 12   cm OB = 2 12 ​ = 6   cm ​ △ O A B \\triangle O A B △ O A B একটি সমকোণী ত্রিভুজ। ∴ A B = O A 2 + O B 2 = ( 8 ) 2 + ( 6 ) 2 = 10   c m \\begin{array}{l} \\therefore A B=\\sqrt{O A^{2}+O B^{2}} \\\\ =\\sqrt{(8)^{2}+(6)^{2}} \\\\ =10 \\mathrm{~cm} \\end{array} ∴ A B = O A 2 + O B 2 ​ = ( 8 ) 2 + ( 6 ) 2 ​ = 10   cm ​"
+    },
+    {
+      "number": "23",
+      "tag": "JB 19",
+      "question": "A C = 16   c m . , B D = 12   c m \\mathrm{AC}=16 \\mathrm{~cm} ., \\mathrm{BD}=12 \\mathrm{~cm} AC = 16   cm . , BD = 12   cm AB বাহুর দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 cm",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "8 cm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7 cm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 cm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 cm",
+      "option_b": "8 cm",
+      "option_c": "7 cm",
+      "option_d": "6 cm",
+      "correct": "ক",
+      "explanation": "A C = 16   c m O A = A C 2 = 8   c m \\begin{array}{l} A C=16 \\mathrm{~cm} \\\\ O A=\\frac{A C}{2}=8 \\mathrm{~cm} \\end{array} A C = 16   cm O A = 2 A C ​ = 8   cm ​ B D = 12   c m O B = 12 2 = 6   c m \\begin{array}{l} B D=12 \\mathrm{~cm} \\\\ O B=\\frac{12}{2}=6 \\mathrm{~cm} \\end{array} B D = 12   cm OB = 2 12 ​ = 6   cm ​ △ O A B \\triangle O A B △ O A B একটি সমকোণী ত্রিভুজ। ∴ A B = O A 2 + O B 2 = ( 8 ) 2 + ( 6 ) 2 = 10   c m \\begin{array}{l} \\therefore A B=\\sqrt{O A^{2}+O B^{2}} \\\\ =\\sqrt{(8)^{2}+(6)^{2}} \\\\ =10 \\mathrm{~cm} \\end{array} ∴ A B = O A 2 + O B 2 ​ = ( 8 ) 2 + ( 6 ) 2 ​ = 10   cm ​"
+    },
+    {
+      "number": "25",
+      "tag": "JB 20,JB 19,CTG.B 17",
+      "question": "a 2 − a − 6 a^{2}-a-6 a 2 − a − 6 এর উৎপাদক বিশ্লেষিত রূপ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( a + 2 ) ( a − 3 ) (a+2)(a-3) ( a + 2 ) ( a − 3 )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "( a − 2 ) ( a − 3 ) (a-2)(a-3) ( a − 2 ) ( a − 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( a − 2 ) ( a + 3 ) (a-2)(a+3) ( a − 2 ) ( a + 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( a + 2 ) ( a + 3 ) (a+2)(a+3) ( a + 2 ) ( a + 3 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( a + 2 ) ( a − 3 ) (a+2)(a-3) ( a + 2 ) ( a − 3 )",
+      "option_b": "( a − 2 ) ( a − 3 ) (a-2)(a-3) ( a − 2 ) ( a − 3 )",
+      "option_c": "( a − 2 ) ( a + 3 ) (a-2)(a+3) ( a − 2 ) ( a + 3 )",
+      "option_d": "( a + 2 ) ( a + 3 ) (a+2)(a+3) ( a + 2 ) ( a + 3 )",
+      "correct": "ক",
+      "explanation": "প্রদত্ত বীজগাণিতিক প্রকাশটি হল a 2 − a − 6 a^2 - a - 6 a 2 − a − 6 । আমাদের কাজ হল এটি উৎপাদক বিশ্লেষণ করা। প্রথমে আমরা a 2 − a − 6 a^2 - a - 6 a 2 − a − 6 কে ( a + p ) ( a + q ) (a+p)(a+q) ( a + p ) ( a + q ) রূপে বিশ্লেষণ করব, যেখানে p + q = − 1 p+q = -1 p + q = − 1 এবং p q = − 6 pq = -6 pq = − 6 । এখন, দুটি সংখ্যার যোগফল হবে − 1 -1 − 1 এবং গুণফল হবে − 6 -6 − 6 । উপযুক্ত p p p এবং q q q খুঁজতে: - p = 2 p = 2 p = 2 এবং q = − 3 q = -3 q = − 3 , কারণ 2 + ( − 3 ) = − 1 2 + (-3) = -1 2 + ( − 3 ) = − 1 এবং 2 × ( − 3 ) = − 6 2 \\times (-3) = -6 2 × ( − 3 ) = − 6 । তাহলে, উৎপাদক বিশ্লেষণ হবে ( a + 2 ) ( a − 3 ) (a+2)(a-3) ( a + 2 ) ( a − 3 ) ।"
+    },
+    {
+      "number": "26",
+      "tag": "BB 24,JB 19,RUMC 24",
+      "question": "একটি ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল 150 বর্গ মি.। এর পৃষ্ঠতলের কর্ণের দৈর্ঘ্য কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 2 5 \\sqrt{2} 5 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 3 5 \\sqrt{3} 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "125",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "5 2 5 \\sqrt{2} 5 2 ​",
+      "option_c": "5 3 5 \\sqrt{3} 5 3 ​",
+      "option_d": "125",
+      "correct": "খ",
+      "explanation": "ঘনকের ধার a a a হলে, সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল, 6 a 2 = 150 6 a^{2}=150 6 a 2 = 150 বা, a 2 = 25 a^{2}=25 a 2 = 25 ∴ a = 5 \\therefore a=5 ∴ a = 5 ∴ \\therefore ∴ পৃষ্ঠতলের কর্ণের দৈর্ষ্য = a 2 = 5 2 =a \\sqrt{2}=5 \\sqrt{2} = a 2 ​ = 5 2 ​ মিটার"
+    },
+    {
+      "number": "27",
+      "tag": "JB 19,BB 17,JGCC 24",
+      "question": "y = 2x + 1 একটি ফাংশন হলে- i. এর লেখচিত্র একটি সরলরেখা ii. (1, 3) লেখচিত্রটির একটি বিন্দু iii. y একটি স্বাধীন চলক নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "y = 2 x + 1 y=2 x+1 y = 2 x + 1 একটি সমীকরণ হলে (i) এর লেখচিত্র একটি সরলরেখা। (ii) x = 1 x=1 x = 1 হলে y = 2 ⋅ 1 + 1 = 3 \\begin{array}{l} y=2 \\cdot 1+1 \\\\ =3 \\end{array} y = 2 ⋅ 1 + 1 = 3 ​ ∴ ( 1 , 3 ) \\therefore(1,3) ∴ ( 1 , 3 ) লেখচিত্রের একটি বিন্দু। (iii) y y y একটি অধীন চলক।"
+    },
+    {
+      "number": "28",
+      "tag": "CTG.B 24,JB 19",
+      "question": "3 m + n n − m = 9 \\frac{3 m+n}{n-m}=9 n − m 3 m + n ​ = 9 হলে m : n = ? m: n=? m : n = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 : 3 2: 3 2 : 3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 : 2 3: 2 3 : 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 : 1 5: 1 5 : 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 : 5 1: 5 1 : 5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 : 3 2: 3 2 : 3",
+      "option_b": "3 : 2 3: 2 3 : 2",
+      "option_c": "5 : 1 5: 1 5 : 1",
+      "option_d": "1 : 5 1: 5 1 : 5",
+      "correct": "ক",
+      "explanation": "দেওয়া আছে, 3 m + n n − m = 9 \\frac{3 m+n}{n-m}=9 n − m 3 m + n ​ = 9 ⇒ 3 m + n = 9 n − 9 m ⇒ 3 m + 9 m = 9 n − n ⇒ 12 m = 8 n ⇒ m n = 8 12 = 2 3 ∴ m : n = 2 : 3 \\begin{array}{l} \\Rightarrow 3 m+n=9 n-9 m \\\\ \\Rightarrow 3 m+9 m=9 n-n \\\\ \\Rightarrow 12 m=8 n \\\\ \\Rightarrow \\frac{m}{n}=\\frac{8}{12}=\\frac{2}{3} \\\\ \\therefore m: n=2: 3 \\end{array} ⇒ 3 m + n = 9 n − 9 m ⇒ 3 m + 9 m = 9 n − n ⇒ 12 m = 8 n ⇒ n m ​ = 12 8 ​ = 3 2 ​ ∴ m : n = 2 : 3 ​"
+    },
+    {
+      "number": "29",
+      "tag": "JB 19,NISD 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: O কেন্দ্রবিশিষ্ট বৃত্তে AC= 12 cm. বৃত্তকলার AOB এর ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "150.80   c m 2 150.80 \\mathrm{~cm}^{2} 150.80   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "75.40   c m 2 75.40 \\mathrm{~cm}^{2} 75.40   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "40.84   c m 2 40.84 \\mathrm{~cm}^{2} 40.84   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18.85   c m 2 18.85 \\mathrm{~cm}^{2} 18.85   cm 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "150.80   c m 2 150.80 \\mathrm{~cm}^{2} 150.80   cm 2",
+      "option_b": "75.40   c m 2 75.40 \\mathrm{~cm}^{2} 75.40   cm 2",
+      "option_c": "40.84   c m 2 40.84 \\mathrm{~cm}^{2} 40.84   cm 2",
+      "option_d": "18.85   c m 2 18.85 \\mathrm{~cm}^{2} 18.85   cm 2",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত তথ্য অনুযায়ী, AC এর দৈর্ঘ্য হল 12 সেমি এবং AC হল দিয়াোমিটার। অর্থাৎ, AD হল একটি সোজা রেখা যা বৃত্তকে দুই সমান অংশে ভাগ করে। সুতরাং, বৃত্তের ব্যাসার্ধ r = A C 2 = 12 2 = 6 r = \\frac{AC}{2} = \\frac{12}{2} = 6 r = 2 A C ​ = 2 12 ​ = 6 সেমি। বৃত্ত ঠিকে ছবিতে পৃথিবী সমকোণী ত্রিভুজ দ্বারা বিভক্ত করা হয়েছে যা কেন্দ্রের কোণ ∠ A O B = 60 ∘ \\angle AOB = 60^\\circ ∠ A OB = 6 0 ∘ । বৃত্তকলার ক্ষেত্রফল θ \\theta θ হলে, বৃত্তকলার ক্ষেত্রফল নির্ণয় করতে নিম্নোক্ত সূত্র প্রয়োগ করা যায়: বৃত্তকলার ক্ষেত্রফল = θ 360 ∘ × π r 2 \\text{বৃত্তকলার ক্ষেত্রফল} = \\frac{\\theta}{360^\\circ} \\times \\pi r^2 বৃত্তকলার   ক্ষেত্রফল = 36 0 ∘ θ ​ × π r 2 এখানে অত্যুক্ত উপস্থাপনা করলে: θ = 60 ∘ \\theta = 60^\\circ θ = 6 0 ∘ , r = 6 r = 6 r = 6 সেমি। বৃত্তকলার ক্ষেত্রফল = 60 360 × π × 6 2 = 1 6 × π × 36 \\text{বৃত্তকলার ক্ষেত্রফল} = \\frac{60}{360} \\times \\pi \\times 6^2 = \\frac{1}{6} \\times \\pi \\times 36 বৃত্তকলার   ক্ষেত্রফল = 360 60 ​ × π × 6 2 = 6 1 ​ × π × 36 যদি π ≈ 3.14 \\pi \\approx 3.14 π ≈ 3.14 ধরি, তাহলে: বৃত্তকলার ক্ষেত্রফল = 1 6 × 3.14 × 36 ≈ 18.84 cm 2 \\text{বৃত্তকলার ক্ষেত্রফল} = \\frac{1}{6} \\times 3.14 \\times 36 \\approx 18.84 \\, \\text{cm}^2 বৃত্তকলার   ক্ষেত্রফল = 6 1 ​ × 3.14 × 36 ≈ 18.84 cm 2 তাই, বৃত্তকলার ক্ষেত্রফল প্রায় 18.85 cm 2 18.85 \\, \\text{cm}^2 18.85 cm 2 । সঠিক উত্তর: 18.85 cm 2 18.85 \\, \\text{cm}^2 18.85 cm 2 (Option D)"
+    },
+    {
+      "number": "30",
+      "tag": "JB 19,NISD 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: O কেন্দ্রবিশিষ্ট বৃত্তে AC= 12 cm. বৃত্তকলার AOB এর ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "150.80   c m 2 150.80 \\mathrm{~cm}^{2} 150.80   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "75.40   c m 2 75.40 \\mathrm{~cm}^{2} 75.40   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "40.84   c m 2 40.84 \\mathrm{~cm}^{2} 40.84   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18.85   c m 2 18.85 \\mathrm{~cm}^{2} 18.85   cm 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "150.80   c m 2 150.80 \\mathrm{~cm}^{2} 150.80   cm 2",
+      "option_b": "75.40   c m 2 75.40 \\mathrm{~cm}^{2} 75.40   cm 2",
+      "option_c": "40.84   c m 2 40.84 \\mathrm{~cm}^{2} 40.84   cm 2",
+      "option_d": "18.85   c m 2 18.85 \\mathrm{~cm}^{2} 18.85   cm 2",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত তথ্য অনুযায়ী, AC এর দৈর্ঘ্য হল 12 সেমি এবং AC হল দিয়াোমিটার। অর্থাৎ, AD হল একটি সোজা রেখা যা বৃত্তকে দুই সমান অংশে ভাগ করে। সুতরাং, বৃত্তের ব্যাসার্ধ r = A C 2 = 12 2 = 6 r = \\frac{AC}{2} = \\frac{12}{2} = 6 r = 2 A C ​ = 2 12 ​ = 6 সেমি। বৃত্ত ঠিকে ছবিতে পৃথিবী সমকোণী ত্রিভুজ দ্বারা বিভক্ত করা হয়েছে যা কেন্দ্রের কোণ ∠ A O B = 60 ∘ \\angle AOB = 60^\\circ ∠ A OB = 6 0 ∘ । বৃত্তকলার ক্ষেত্রফল θ \\theta θ হলে, বৃত্তকলার ক্ষেত্রফল নির্ণয় করতে নিম্নোক্ত সূত্র প্রয়োগ করা যায়: বৃত্তকলার ক্ষেত্রফল = θ 360 ∘ × π r 2 \\text{বৃত্তকলার ক্ষেত্রফল} = \\frac{\\theta}{360^\\circ} \\times \\pi r^2 বৃত্তকলার   ক্ষেত্রফল = 36 0 ∘ θ ​ × π r 2 এখানে অত্যুক্ত উপস্থাপনা করলে: θ = 60 ∘ \\theta = 60^\\circ θ = 6 0 ∘ , r = 6 r = 6 r = 6 সেমি। বৃত্তকলার ক্ষেত্রফল = 60 360 × π × 6 2 = 1 6 × π × 36 \\text{বৃত্তকলার ক্ষেত্রফল} = \\frac{60}{360} \\times \\pi \\times 6^2 = \\frac{1}{6} \\times \\pi \\times 36 বৃত্তকলার   ক্ষেত্রফল = 360 60 ​ × π × 6 2 = 6 1 ​ × π × 36 যদি π ≈ 3.14 \\pi \\approx 3.14 π ≈ 3.14 ধরি, তাহলে: বৃত্তকলার ক্ষেত্রফল = 1 6 × 3.14 × 36 ≈ 18.84 cm 2 \\text{বৃত্তকলার ক্ষেত্রফল} = \\frac{1}{6} \\times 3.14 \\times 36 \\approx 18.84 \\, \\text{cm}^2 বৃত্তকলার   ক্ষেত্রফল = 6 1 ​ × 3.14 × 36 ≈ 18.84 cm 2 তাই, বৃত্তকলার ক্ষেত্রফল প্রায় 18.85 cm 2 18.85 \\, \\text{cm}^2 18.85 cm 2 । সঠিক উত্তর: 18.85 cm 2 18.85 \\, \\text{cm}^2 18.85 cm 2 (Option D)"
+    }
+  ]
+}

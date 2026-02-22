@@ -1,0 +1,832 @@
+{
+  "read_id": "w06JdwTLkeyt64Tz",
+  "title": "রাজশাহী কলেজিয়েট স্কুল ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CB 20,SB 20,JB 20,DB 19,CB 19,DIN.B 19,CTG.B 19,SB 19,BB 19,ACC 24",
+      "question": "f ( x ) = 4 − 2 x f(\\mathbf{x})=\\sqrt{4-2 \\mathrm{x}} f ( x ) = 4 − 2 x ​ এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+      "option_b": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+      "option_c": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+      "option_d": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+      "correct": "গ",
+      "explanation": "f ( x ) = 4 − 2 x f(x) = \\sqrt{4-2x} f ( x ) = 4 − 2 x ​ বর্গমূলের ভিতরের রাশি অঋণাত্মক হতে হবে: 4 − 2 x ≥ 0 4-2x \\ge 0 4 − 2 x ≥ 0 − 2 x ≥ − 4 -2x \\ge -4 − 2 x ≥ − 4 x ≤ 2 x \\le 2 x ≤ 2 তাই ডোমেন: { x ∈ R ∣ x ≤ 2 } \\{x \\in \\mathbb{R} \\mid x \\le 2\\} { x ∈ R ∣ x ≤ 2 } ইন্টারভাল আকারে: ( − ∞ , 2 ] (-\\infty, 2] ( − ∞ , 2 ]"
+    },
+    {
+      "number": "2",
+      "tag": "CB 23,MB 22,SB 22,JB 22,MB 21,BB 20,JB 19,All.B 18",
+      "question": "x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটি- i. সমমাত্রিক ii. চক্রক্রমিক iii. প্রতিসম নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "প্রদত্ত রাশি: x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটিকে প্রসারিত করে সরলীকরণ প্রথমে প্রতিতি বন্ধনীকে প্রসারিত করি: = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 =x y^{2}-x z^{2}+y z^{2}-y x^{2}+z x^{2}-z y^{2} = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 পদগুলিকে পুনর্বিন্যাস করি: = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 =-x^{2} y+x y^{2}-y^{2} z+y z^{2}-z^{2} x+z x^{2} = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 এখন, আমরা লক্ষ্য করি যে এটি একটি চক্রক্রমিক রাশি, কারণ x , y x, y x , y , এবং z z z কে চক্রাকারে পরিবর্তন করলে রাশির গঠন অপরিবর্তিত থাকে। উদাহরণস্বরূপ: x → y , y → z , z → x x \\rightarrow y, y \\rightarrow z, z \\rightarrow x x → y , y → z , z → x প্রতিস্থাপন করলে: − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 -y^{2} z+y z^{2}-z^{2} x+z x^{2}-x^{2} y+x y^{2} − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 যা মূল রাশির সমান। সমমাত্রিকতা পরীক্ষা প্রর্তিটি পদের মোট ঘাত (ডিগ্রি) গণনা করি: − x 2 y : 2 + 1 = 3 -x^{2} y: 2+1=3 − x 2 y : 2 + 1 = 3 x y 2 : 1 + 2 = 3 x y^{2}: 1+2=3 x y 2 : 1 + 2 = 3 − y 2 z : 2 + 1 = 3 -y^{2} z: 2+1=3 − y 2 z : 2 + 1 = 3 y z 2 : 1 + 2 = 3 y z^{2}: 1+2=3 y z 2 : 1 + 2 = 3 − z 2 x : 2 + 1 = 3 -z^{2} x: 2+1=3 − z 2 x : 2 + 1 = 3 সকল পদের ডিগ্রি 3, তাই রাশিটি সমমাত্রিক । প্রতিসমতা পরীক্ষা রাশিটি প্রতিসম (Symmetric) নয়, কারণ যেকোনো দুটি চলক অদলবদল করলে রাশিটি অপরিবর্তিত থাকে না। উদাহরণস্বরূপ: x x x ও y y y অদলবদল করলে: y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) y\\left(x^{2}-z^{2}\\right)+x\\left(z^{2}-y^{2}\\right)+z\\left(y^{2}-x^{2}\\right) y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) যা মূল রাশির সমান নয়। সঠিক উত্তর: রাশিটি সমমাত্রিক এবং চক্রক্রমিক, কিন্তু প্রতিসম নয়। ∴ i \\therefore \\mathbf{i} ∴ i ও ii সঠিক।"
+    },
+    {
+      "number": "3",
+      "tag": "BMARPC 24,CSCD 24,RCS 24,DIN.B 23",
+      "question": "ত্রিভুজের তিনটি শীর্ষবিন্দুগামী বৃত্তের কেন্দ্রকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ভরকেন্দ্র",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শীর্ষকেন্দ্ৰ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পরিকেন্দ্র",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "অন্তঃকেন্দ্র",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ভরকেন্দ্র",
+      "option_b": "শীর্ষকেন্দ্ৰ",
+      "option_c": "পরিকেন্দ্র",
+      "option_d": "অন্তঃকেন্দ্র",
+      "correct": "গ",
+      "explanation": "ত্রিভুজের তিনটি শীর্ষবিন্দুগামী বৃত্তের কেন্দ্রকে পরিকেন্দ্র বলে।"
+    },
+    {
+      "number": "4",
+      "tag": "JCC 24,RCS 24",
+      "question": "যদি A = { x : x ∈ N , 8 < 2 x < 17 } \\mathrm{A}=\\{\\mathrm{x}: \\mathrm{x} \\in \\mathbb{N}, 8<2 \\mathrm{x}<17 \\} A = { x : x ∈ N , 8 < 2 x < 17 } হয়, তবে P ( A ) \\mathrm{P}(\\mathrm{A}) P ( A ) এর, উপাদান সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "5",
+      "option_c": "15",
+      "option_d": "16",
+      "correct": "ঘ",
+      "explanation": "অসমতাটি সমাধান করে প্রাকৃতিক সংখ্যা x x x -এর মান বের করি: যেহেতু x x x একটি প্রাকৃতিক সংখ্যা (N), তাই x x x -এর সম্ভাব্য মান: x = 5 , 6 , 7 , 8 x=5,6,7,8 x = 5 , 6 , 7 , 8 সুতরাং, A = { 5 , 6 , 7 , 8 } A=\\{5,6,7,8\\} A = { 5 , 6 , 7 , 8 } P ( A ) P(A) P ( A ) হলো A A A -এর সমস্ত উপসেটের সেট। যদি একটি সেটের উপাদান সংখ্যা n n n হয়, তবে তার পাওয়ার সেটের উপাদান সংখ্যা 2 n 2^{n} 2 n । এখানে, A A A -এর উপাদান সংখ্যা: n = 4 n=4 n = 4 অতএব, ∣ P ( A ) ∣ = 2 4 = 16 |P(A)|=2^{4}=16 ∣ P ( A ) ∣ = 2 4 = 16"
+    },
+    {
+      "number": "5",
+      "tag": "CTG.B 25,JB 24,GLHSD 24,RCS 24,ACC 24",
+      "question": "A, B, C এর অবস্থান ভেক্টর a, b, c C যদি AB এর মধ্যবিন্দু হয়, তাহলে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "c ‾ = 1 2 ( a ‾ + b ‾ ) \\underline{\\mathrm{c}}=\\frac{1}{2}(\\underline{\\mathrm{a}}+\\underline{b}) c ​ = 2 1 ​ ( a ​ + b ​ )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "c = 3 ( a − b ) \\mathrm{c}=3(\\mathrm{a}-\\mathrm{b}) c = 3 ( a − b )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "c ‾ = 2 ( a ‾ + b ‾ ) \\underline{c}=2(\\underline{a}+\\underline{b}) c ​ = 2 ( a ​ + b ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "C = 1 2 ( a ‾ − b ‾ ) \\underset{\\mathrm{}}{\\mathrm{C}}=\\frac{1}{2}(\\underline{\\mathrm{a}}-\\underline{\\mathrm{b}}) C ​ = 2 1 ​ ( a ​ − b ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "c ‾ = 1 2 ( a ‾ + b ‾ ) \\underline{\\mathrm{c}}=\\frac{1}{2}(\\underline{\\mathrm{a}}+\\underline{b}) c ​ = 2 1 ​ ( a ​ + b ​ )",
+      "option_b": "c = 3 ( a − b ) \\mathrm{c}=3(\\mathrm{a}-\\mathrm{b}) c = 3 ( a − b )",
+      "option_c": "c ‾ = 2 ( a ‾ + b ‾ ) \\underline{c}=2(\\underline{a}+\\underline{b}) c ​ = 2 ( a ​ + b ​ )",
+      "option_d": "C = 1 2 ( a ‾ − b ‾ ) \\underset{\\mathrm{}}{\\mathrm{C}}=\\frac{1}{2}(\\underline{\\mathrm{a}}-\\underline{\\mathrm{b}}) C ​ = 2 1 ​ ( a ​ − b ​ )",
+      "correct": "ক",
+      "explanation": "A বিন্দুর অবস্থান ভেক্টর  = a B  বিন্দুর অবস্থান ভেক্টর  = b \\begin{aligned} \\text { A বিন্দুর অবস্থান ভেক্টর } & =a \\\\ B \\text { বিন্দুর অবস্থান ভেক্টর } & =b \\end{aligned}  A  বিন্দুর   অবস্থান   ভেক্টর   B   বিন্দুর   অবস্থান   ভেক্টর   ​ = a = b ​ C C C বিন্দুতে A , B 1 : 1 A, B \\quad 1: 1 A , B 1 : 1 অনুপাতে অন্তর্বিভক্ত হয়। ∴ C  বিন্দুর অবস্থান ভেক্টর  = b × 1 + 1 × a 1 + 1 = b + a 2 = a + b 2 = 1 2 ( a ‾ + b ‾ ) \\begin{aligned} \\therefore C \\text { বিন্দুর অবস্থান ভেক্টর } & =\\frac{b \\times 1+1 \\times a}{1+1} \\\\ & =\\frac{b+a}{2} \\\\ & =\\frac{a+b}{2} \\\\ & =\\frac{1}{2}(\\underline{a}+\\underline{b}) \\end{aligned} ∴ C   বিন্দুর   অবস্থান   ভেক্টর   ​ = 1 + 1 b × 1 + 1 × a ​ = 2 b + a ​ = 2 a + b ​ = 2 1 ​ ( a ​ + b ​ ) ​"
+    },
+    {
+      "number": "6",
+      "tag": "CTG.B 25,JB 24,GLHSD 24,RCS 24,ACC 24",
+      "question": "A, B, C এর অবস্থান ভেক্টর a, b, c C যদি AB এর মধ্যবিন্দু হয়, তাহলে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "c ‾ = 1 2 ( a ‾ + b ‾ ) \\underline{\\mathrm{c}}=\\frac{1}{2}(\\underline{\\mathrm{a}}+\\underline{b}) c ​ = 2 1 ​ ( a ​ + b ​ )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "c = 3 ( a − b ) \\mathrm{c}=3(\\mathrm{a}-\\mathrm{b}) c = 3 ( a − b )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "c ‾ = 2 ( a ‾ + b ‾ ) \\underline{c}=2(\\underline{a}+\\underline{b}) c ​ = 2 ( a ​ + b ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "C = 1 2 ( a ‾ − b ‾ ) \\underset{\\mathrm{}}{\\mathrm{C}}=\\frac{1}{2}(\\underline{\\mathrm{a}}-\\underline{\\mathrm{b}}) C ​ = 2 1 ​ ( a ​ − b ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "c ‾ = 1 2 ( a ‾ + b ‾ ) \\underline{\\mathrm{c}}=\\frac{1}{2}(\\underline{\\mathrm{a}}+\\underline{b}) c ​ = 2 1 ​ ( a ​ + b ​ )",
+      "option_b": "c = 3 ( a − b ) \\mathrm{c}=3(\\mathrm{a}-\\mathrm{b}) c = 3 ( a − b )",
+      "option_c": "c ‾ = 2 ( a ‾ + b ‾ ) \\underline{c}=2(\\underline{a}+\\underline{b}) c ​ = 2 ( a ​ + b ​ )",
+      "option_d": "C = 1 2 ( a ‾ − b ‾ ) \\underset{\\mathrm{}}{\\mathrm{C}}=\\frac{1}{2}(\\underline{\\mathrm{a}}-\\underline{\\mathrm{b}}) C ​ = 2 1 ​ ( a ​ − b ​ )",
+      "correct": "ক",
+      "explanation": "A বিন্দুর অবস্থান ভেক্টর  = a B  বিন্দুর অবস্থান ভেক্টর  = b \\begin{aligned} \\text { A বিন্দুর অবস্থান ভেক্টর } & =a \\\\ B \\text { বিন্দুর অবস্থান ভেক্টর } & =b \\end{aligned}  A  বিন্দুর   অবস্থান   ভেক্টর   B   বিন্দুর   অবস্থান   ভেক্টর   ​ = a = b ​ C C C বিন্দুতে A , B 1 : 1 A, B \\quad 1: 1 A , B 1 : 1 অনুপাতে অন্তর্বিভক্ত হয়। ∴ C  বিন্দুর অবস্থান ভেক্টর  = b × 1 + 1 × a 1 + 1 = b + a 2 = a + b 2 = 1 2 ( a ‾ + b ‾ ) \\begin{aligned} \\therefore C \\text { বিন্দুর অবস্থান ভেক্টর } & =\\frac{b \\times 1+1 \\times a}{1+1} \\\\ & =\\frac{b+a}{2} \\\\ & =\\frac{a+b}{2} \\\\ & =\\frac{1}{2}(\\underline{a}+\\underline{b}) \\end{aligned} ∴ C   বিন্দুর   অবস্থান   ভেক্টর   ​ = 1 + 1 b × 1 + 1 × a ​ = 2 b + a ​ = 2 a + b ​ = 2 1 ​ ( a ​ + b ​ ) ​"
+    },
+    {
+      "number": "7",
+      "tag": "CTG.B 25,SB 25,CB 24,CTG.B 24,SB 24,HC 24,BNMPC 24,NISD 24,CPSCR 24,RCS 24,MB 23,RB 21,DIN.B 21,CB 21,SB 21,BB 21,DB 19,CTG.B 19,SB 19",
+      "question": "f ( x ) = x 2  হলে-  f(x)=x^{2} \\text { হলে- } f ( x ) = x 2   হলে -  i. ডোম f = R f=\\mathbb{R} f = R ii. রেঞ্জ f = { y ∈ R : y ≥ 0 } f=\\{y \\in \\mathbb{R}: y \\geq 0\\} f = { y ∈ R : y ≥ 0 } iii. f এক-এক ফাংশন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "প্রদত্ত f ( x ) = x 2 f(x) = x^2 f ( x ) = x 2 একটি স্কয়ার ফাংশন যা আমাদের বাস্তব সংখ্যাগুলি থেকে বাস্তব সংখ্যাগুলিতে ম্যাপ করে। i. ডোমেইন f = R f = \\mathbb{R} f = R : এই ব্যাপারটি সঠিক কারণ আমরা যে কোনও বাস্তব সংখ্যাকে ইনপুট হিসাবে ব্যবহার করতে পারি। ii. রেঞ্জ f = { y ∈ R : y ≥ 0 } f = \\{y \\in \\mathbb{R} : y \\geq 0\\} f = { y ∈ R : y ≥ 0 } : এই ব্যাপারটি সঠিক যেহেতু ফাংশন f ( x ) = x 2 f(x) = x^2 f ( x ) = x 2 এর আউটপুট কখনোই নেতিবাচক হয় না, কারণ x 2 x^2 x 2 সর্বদা ধনাত্মক বা শূণ্য হয়। iii. f এক-এক ফাংশন না: একটি এক-এক ফাংশন হবে কেবল তখনই যখন ভিন্ন ইনপুটের জন্য আলাদা আউটপুট তৈরি করবে। এখানে x 2 x^2 x 2 ফাংশন একাধিক ইনপুটের জন্য একই আউটপুট প্রদানে সক্ষম যেমন, f ( 1 ) = 1 f(1) = 1 f ( 1 ) = 1 এবং f ( − 1 ) = 1 f(-1) = 1 f ( − 1 ) = 1 । সুতরাং এটি এক-এক ফাংশন নয়। অতএব, সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "8",
+      "tag": "BMARPC 24,RCS 24,MB 22,BB 20,BB 19",
+      "question": "cos ⁡ 2 π 3 − sin ⁡ 2 π 3 =  কত?  \\cos ^{2} \\frac{\\pi}{3}-\\sin ^{2} \\frac{\\pi}{3}=\\text { কত? } cos 2 3 π ​ − sin 2 3 π ​ =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 4 -\\frac{1}{4} − 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_b": "− 1 4 -\\frac{1}{4} − 4 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "1",
+      "correct": "গ",
+      "explanation": "cos ⁡ π 3 = 1 2  এবং  sin ⁡ π 3 = 3 2 \\cos \\frac{\\pi}{3}=\\frac{1}{2} \\quad \\text { এবং } \\quad \\sin \\frac{\\pi}{3}=\\frac{\\sqrt{3}}{2} cos 3 π ​ = 2 1 ​   এবং   sin 3 π ​ = 2 3 ​ ​ এখন, মানগুলি বসিয়ে পাই: cos ⁡ 2 π 3 − sin ⁡ 2 π 3 = ( 1 2 ) 2 − ( 3 2 ) 2 = 1 4 − 3 4 = − 2 4 = − 1 2 \\cos ^{2} \\frac{\\pi}{3}-\\sin ^{2} \\frac{\\pi}{3}=\\left(\\frac{1}{2}\\right)^{2}-\\left(\\frac{\\sqrt{3}}{2}\\right)^{2}=\\frac{1}{4}-\\frac{3}{4}=-\\frac{2}{4}=-\\frac{1}{2} cos 2 3 π ​ − sin 2 3 π ​ = ( 2 1 ​ ) 2 − ( 2 3 ​ ​ ) 2 = 4 1 ​ − 4 3 ​ = − 4 2 ​ = − 2 1 ​ অথবা, কোসাইনের দ্বিকোণ সূত্র ব্যবহার করে: cos ⁡ 2 A − sin ⁡ 2 A = cos ⁡ 2 A \\cos ^{2} A-\\sin ^{2} A=\\cos 2 A cos 2 A − sin 2 A = cos 2 A এখানে A = π 3 A=\\frac{\\pi}{3} A = 3 π ​ বসিয়ে পাই: cos ⁡ 2 π 3 − sin ⁡ 2 π 3 = cos ⁡ ( 2 × π 3 ) = cos ⁡ 2 π 3 = − 1 2 \\cos ^{2} \\frac{\\pi}{3}-\\sin ^{2} \\frac{\\pi}{3}=\\cos \\left(2 \\times \\frac{\\pi}{3}\\right)=\\cos \\frac{2 \\pi}{3}=-\\frac{1}{2} cos 2 3 π ​ − sin 2 3 π ​ = cos ( 2 × 3 π ​ ) = cos 3 2 π ​ = − 2 1 ​ উত্তর: − 1 2 -\\frac{1}{2} − 2 1 ​"
+    },
+    {
+      "number": "9",
+      "tag": "CB 23",
+      "question": "( 3 + x ) ( 1 − x ) 8 (3+x)(1-x)^{8} ( 3 + x ) ( 1 − x ) 8 এর বিস্তৃতিতে x এর সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-7",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "-23",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-25",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "-7",
+      "option_c": "-23",
+      "option_d": "-25",
+      "correct": "খ",
+      "explanation": "= ( 3 + x ) ( 1 − x ) 8 =(3+x)(1-x)^{8} = ( 3 + x ) ( 1 − x ) 8 = ( 3 + x ) { 1 + ( 8 1 ) ( − x ) 1 + ( 8 2 ) ( − x ) 2 + ⋯ =(3+x)\\left\\{1+\\binom{8}{1}(-x)^{1}+\\binom{8}{2}(-x)^{2}+\\cdots\\right. = ( 3 + x ) { 1 + ( 1 8 ​ ) ( − x ) 1 + ( 2 8 ​ ) ( − x ) 2 + ⋯ গুন করে x যুক্ত পদ নিয়ে পাই 3 × ( 8 1 ) ( − x ) + x × 1 = 3 × 8 × ( − x ) + x = − 23 x ∴  সহগ  − 23 \\begin{array}{c} 3 \\times\\binom{ 8}{1}(-x)+x \\times 1=3 \\times 8 \\times(-x)+x=-23 x \\\\ \\therefore \\text { সহগ } -23 \\end{array} 3 × ( 1 8 ​ ) ( − x ) + x × 1 = 3 × 8 × ( − x ) + x = − 23 x ∴   সহগ   − 23 ​"
+    },
+    {
+      "number": "10",
+      "tag": "VNSC 24,RCS 24",
+      "question": "60° কোণের সম্পূরক কোণের অর্ধেক কোণের মান কত ডিগ্রি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "120",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "option_a": "120",
+      "option_b": "60",
+      "option_c": "30",
+      "option_d": "15",
+      "correct": "ক",
+      "explanation": "৬০ ডিগ্রি কোণের সম্পূরক কোণ হলো ১২০ ডিগ্রি এবং এর অর্ধেক হলো ৬০ ডিগ্রি ।   ৬০ ডিগ্রি কোণের সম্পূরক কোণ বের করার জন্য, আমরা জানি যে দুটি কোণের সমষ্টি ১৮০ ডিগ্রি হলে তারা একে অপরের সম্পূরক হয়। সুতরাং, ৬০ ডিগ্রি কোণের সম্পূরক কোণ হবে: ১৮০ - ৬০ = ১২০ ডিগ্রি।   এখন, এই ১২০ ডিগ্রির অর্ধেক বের করতে হবে। ১২০ / ২ = ৬০ ডিগ্রি।   সুতরাং, ৬০ ডিগ্রি কোণের সম্পূরক কোণের অর্ধেক হলো ৬০ ডিগ্রি।"
+    },
+    {
+      "number": "11",
+      "tag": "RCS 24",
+      "question": "3 x = 2 y + 4 3 x=2 y+4 3 x = 2 y + 4 সমীকরণের ঢাল কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 5 \\frac{2}{5} 5 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_b": "1 5 \\frac{1}{5} 5 1 ​",
+      "option_c": "2 5 \\frac{2}{5} 5 2 ​",
+      "option_d": "2 3 \\frac{2}{3} 3 2 ​",
+      "correct": "খ",
+      "explanation": "3 x − 4 = 2 y ⇒ 2 y = 3 x − 4 y = 3 2 x − 2 y = m x + c  ঢাল,  m = 3 2 \\begin{aligned} 3 x-4 & =2 y \\\\ \\Rightarrow \\quad 2 y & =3 x-4 \\\\ y & =\\frac{3}{2} x-2 \\\\ y & =m x+c \\\\ \\text { ঢাল, } m & =\\frac{3}{2}\\end{aligned} 3 x − 4 ⇒ 2 y y y   ঢাল ,  m ​ = 2 y = 3 x − 4 = 2 3 ​ x − 2 = m x + c = 2 3 ​ ​"
+    },
+    {
+      "number": "12",
+      "tag": "RCS 24",
+      "question": "ব্যাসার্ধ π \\pi π হলে গোলকের পৃষ্ঠতোলের ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 π r 4 \\pi r 4 π r",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 π 3 4 \\pi^{3} 4 π 3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 π π 2 4 \\pi \\pi^{2} 4 π π 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π π 2 \\pi \\pi^{2} π π 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 π r 4 \\pi r 4 π r",
+      "option_b": "4 π 3 4 \\pi^{3} 4 π 3",
+      "option_c": "4 π π 2 4 \\pi \\pi^{2} 4 π π 2",
+      "option_d": "π π 2 \\pi \\pi^{2} π π 2",
+      "correct": "ক",
+      "explanation": "ব্যাসার্ধ, r = π r=\\pi r = π গোলকের পৃষ্ঠতলের ক্ষেত্রফল = 4 π r 2 = 4 π ⋅ π 2 = 4 π 3 \\begin{array}{l} =4 \\pi r^{2} \\\\ =4 \\pi \\cdot \\pi^{2} \\\\ =4 \\pi^{3} \\end{array} = 4 π r 2 = 4 π ⋅ π 2 = 4 π 3 ​"
+    },
+    {
+      "number": "13",
+      "tag": "JGCC 24,BNMPC 24,PCC 24,RCS 24,RB 20",
+      "question": "3 সে.মি. ব্যাসের একটি গোলক আকৃতির বল একটি সিলিন্ডার আকৃতির বাক্সে ঠিকভাবে এটে যায়। সিলিন্ডারটির অনধিকৃত অংশের আয়তন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.25 π 2.25 \\pi 2.25 π ঘন সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 π 3 \\pi 3 π ঘন সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4.5 π 4.5 \\pi 4.5 π ঘন সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9 π 9 \\pi 9 π ঘন সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2.25 π 2.25 \\pi 2.25 π ঘন সে.মি.",
+      "option_b": "3 π 3 \\pi 3 π ঘন সে.মি.",
+      "option_c": "4.5 π 4.5 \\pi 4.5 π ঘন সে.মি.",
+      "option_d": "9 π 9 \\pi 9 π ঘন সে.মি.",
+      "correct": "খ",
+      "explanation": "প্রথমে, গোলকের আয়তন বের করতে হবে। গোলকের ব্যাস ৩ সে.মি., সুতরাং তার ব্যাসার্ধ হবে ১.৫ সে.মি। গোলকের আয়তন এর সূত্র অনুযায়ী: ( V = 4 3 π r 3 ) ( V = \\frac{4}{3} \\pi r^3 ) ( V = 3 4 ​ π r 3 ) এখানে, r = 1.5 r = 1.5 r = 1.5 সে.মি., তাই গোলকের আয়তন হবে: ( V = 4 3 π ( 1.5 ) 3 = 4 3 π × 3.375 = 4.5 π ) ( V = \\frac{4}{3} \\pi (1.5)^3 = \\frac{4}{3} \\pi \\times 3.375 = 4.5 \\pi ) ( V = 3 4 ​ π ( 1.5 ) 3 = 3 4 ​ π × 3.375 = 4.5 π ) এবার সিলিন্ডারের আয়তন বের করতে হবে। গোলক হুবহু সিলিন্ডারের ভেতরে এটে যায়, তাই সিলিন্ডারের ব্যাস ও উচ্চতা উভয়ই হবে ৩ সে.মি। সিলিন্ডারের আয়তনের সূত্র অনুযায়ী: ( V = π r 2 h ) ( V = \\pi r^2 h ) ( V = π r 2 h ) এখানে, r = 1.5 r = 1.5 r = 1.5 সে.মি. এবং h = 3 h = 3 h = 3 সে.মি। সুতরাং: ( V = π ( 1.5 ) 2 × 3 = π × 2.25 × 3 = 6.75 π ) ( V = \\pi (1.5)^2 \\times 3 = \\pi \\times 2.25 \\times 3 = 6.75 \\pi ) ( V = π ( 1.5 ) 2 × 3 = π × 2.25 × 3 = 6.75 π ) অনধিকৃত অংশের আয়তন হবে সিলিন্ডারের আয়তন হতে গোলকের আয়তন বাদ দিলে যা থাকে: ( 6.75 π − 4.5 π = 2.25 π ) ( 6.75 \\pi - 4.5 \\pi = 2.25 \\pi ) ( 6.75 π − 4.5 π = 2.25 π ) সুতরাং, সিলিন্ডারের অনধিকৃত অংশের আয়তন হবে 2.25 π 2.25 \\pi 2.25 π ঘন সে.মি. সঠিক উত্তর: 2.25 π 2.25 \\pi 2.25 π ঘন সে.মি."
+    },
+    {
+      "number": "14",
+      "tag": "JGCC 24,BNMPC 24,PCC 24,RCS 24,RB 20",
+      "question": "3 সে.মি. ব্যাসের একটি গোলক আকৃতির বল একটি সিলিন্ডার আকৃতির বাক্সে ঠিকভাবে এটে যায়। সিলিন্ডারটির অনধিকৃত অংশের আয়তন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.25 π 2.25 \\pi 2.25 π ঘন সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 π 3 \\pi 3 π ঘন সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4.5 π 4.5 \\pi 4.5 π ঘন সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "9 π 9 \\pi 9 π ঘন সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2.25 π 2.25 \\pi 2.25 π ঘন সে.মি.",
+      "option_b": "3 π 3 \\pi 3 π ঘন সে.মি.",
+      "option_c": "4.5 π 4.5 \\pi 4.5 π ঘন সে.মি.",
+      "option_d": "9 π 9 \\pi 9 π ঘন সে.মি.",
+      "correct": "গ",
+      "explanation": "প্রথমে, গোলকের আয়তন বের করতে হবে। গোলকের ব্যাস ৩ সে.মি., সুতরাং তার ব্যাসার্ধ হবে ১.৫ সে.মি। গোলকের আয়তন এর সূত্র অনুযায়ী: ( V = 4 3 π r 3 ) ( V = \\frac{4}{3} \\pi r^3 ) ( V = 3 4 ​ π r 3 ) এখানে, r = 1.5 r = 1.5 r = 1.5 সে.মি., তাই গোলকের আয়তন হবে: ( V = 4 3 π ( 1.5 ) 3 = 4 3 π × 3.375 = 4.5 π ) ( V = \\frac{4}{3} \\pi (1.5)^3 = \\frac{4}{3} \\pi \\times 3.375 = 4.5 \\pi ) ( V = 3 4 ​ π ( 1.5 ) 3 = 3 4 ​ π × 3.375 = 4.5 π ) এবার সিলিন্ডারের আয়তন বের করতে হবে। গোলক হুবহু সিলিন্ডারের ভেতরে এটে যায়, তাই সিলিন্ডারের ব্যাস ও উচ্চতা উভয়ই হবে ৩ সে.মি। সিলিন্ডারের আয়তনের সূত্র অনুযায়ী: ( V = π r 2 h ) ( V = \\pi r^2 h ) ( V = π r 2 h ) এখানে, r = 1.5 r = 1.5 r = 1.5 সে.মি. এবং h = 3 h = 3 h = 3 সে.মি। সুতরাং: ( V = π ( 1.5 ) 2 × 3 = π × 2.25 × 3 = 6.75 π ) ( V = \\pi (1.5)^2 \\times 3 = \\pi \\times 2.25 \\times 3 = 6.75 \\pi ) ( V = π ( 1.5 ) 2 × 3 = π × 2.25 × 3 = 6.75 π ) অনধিকৃত অংশের আয়তন হবে সিলিন্ডারের আয়তন হতে গোলকের আয়তন বাদ দিলে যা থাকে: ( 6.75 π − 4.5 π = 2.25 π ) ( 6.75 \\pi - 4.5 \\pi = 2.25 \\pi ) ( 6.75 π − 4.5 π = 2.25 π ) সুতরাং, সিলিন্ডারের অনধিকৃত অংশের আয়তন হবে 2.25 π 2.25 \\pi 2.25 π ঘন সে.মি. সঠিক উত্তর: 2.25 π 2.25 \\pi 2.25 π ঘন সে.মি."
+    },
+    {
+      "number": "15",
+      "tag": "RCS 24",
+      "question": "সকাল 8:20 টায় ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটার অন্তর্গত কোণ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "140",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "130",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "115",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "110",
+          "is_correct": false
+        }
+      ],
+      "option_a": "140",
+      "option_b": "130",
+      "option_c": "115",
+      "option_d": "110",
+      "correct": "ক",
+      "explanation": "মধ্যবর্তী কোণ  = ∣ 30 H − 5.5 M ∣ = ∣ 30 × 8 − 5.5 × 20 ∣ H = 8 = 130 ∘ M = 20 \\begin{aligned} \\text { মধ্যবর্তী কোণ } & =|30 \\mathrm{H}-5.5 \\mathrm{M}| & \\\\ & =|30 \\times 8-5.5 \\times 20| & \\mathrm{H}=8 \\\\ & =130^{\\circ} & \\mathrm{M}=20\\end{aligned}   মধ্যবর্তী   কোণ   ​ = ∣30 H − 5.5 M ∣ = ∣30 × 8 − 5.5 × 20∣ = 13 0 ∘ ​ H = 8 M = 20 ​"
+    },
+    {
+      "number": "16",
+      "tag": "RCS 24",
+      "question": "y অক্ষের সমান্তরাল রেখার সমীকরণ—",
+      "options": [
+        {
+          "label": "ক",
+          "text": "y= 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x = 0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "x = a",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "y=b",
+          "is_correct": false
+        }
+      ],
+      "option_a": "y= 0",
+      "option_b": "x = 0",
+      "option_c": "x = a",
+      "option_d": "y=b",
+      "correct": "খ",
+      "explanation": "Y অক্ষের সমান্তরাল রেখার সমীকরণ x=a."
+    },
+    {
+      "number": "17",
+      "tag": "RCS 24",
+      "question": "S = { ( x , y ) : x 2 + y 2 = 9 S=\\left\\{(x, y): x^{2}+y^{2}=9\\right. S = { ( x , y ) : x 2 + y 2 = 9 এবং y ≥ 0 } \\left.y \\geq 0\\right\\} y ≥ 0 } অন্বয়টির লেখচিত্র নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অর্ধবৃত্ত",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অধিবৃত্ত",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "উপবৃত্ত",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বৃত্ত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অর্ধবৃত্ত",
+      "option_b": "অধিবৃত্ত",
+      "option_c": "উপবৃত্ত",
+      "option_d": "বৃত্ত",
+      "correct": "খ",
+      "explanation": "x 2 + y 2 = 9 x^{2}+y^{2}=9 x 2 + y 2 = 9 পূর্ণবৃত্ত y ≥ 0 y \\geq 0 y ≥ 0 হলে কেবল উপরের অংশ হয় যা অর্ধবৃত্ত।"
+    },
+    {
+      "number": "18",
+      "tag": "RCS 24",
+      "question": "কোনো রেখার উপর লম্ব রেখার লম্ব অভিক্ষেপ— i. একটি বিন্দু ii. উক্ত রেখাটির সমান্তরাল iii. উত্ত রেখার দৈর্ঘ্যের গুণফল শূন্য নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "লম্ব অভিক্ষেপের মান = ∣ L cos ⁡ θ ∣ = |L \\cos\\theta| = ∣ L cos θ ∣ . এখানে রেখা দুটি পরস্পর লম্ব, তাই θ = 90 ∘ ⇒ cos ⁡ 90 ∘ = 0 \\theta = 90^\\circ \\Rightarrow \\cos 90^\\circ = 0 θ = 9 0 ∘ ⇒ cos 9 0 ∘ = 0 . ফলে অভিক্ষেপের দৈর্ঘ্য 0 ⇒ 0 \\Rightarrow 0 ⇒ এটি একটি বিন্দু। ✓ \\checkmark ✓ (i) সমান্তরাল হয় না। × \\times × (ii) অভিক্ষেপের দৈর্ঘ্য 0 ⇒ 0 \\Rightarrow 0 ⇒ উক্ত রেখার উপর প্রক্ষিপ্ত দৈর্ঘ্য শূন্য। ✓ \\checkmark ✓ (iii) সঠিক: i এবং iii."
+    },
+    {
+      "number": "19",
+      "tag": "RCS 24",
+      "question": "log ⁡ 125 \\log125 lo g 125 এর পূর্ণক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "2",
+      "option_c": "1",
+      "option_d": "0",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "RCS 24,JB 23,BB 21",
+      "question": "(3, 5) বিন্দুগামী ও 2 ঢালবিশিষ্ট সরলরেখার সমীকরণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "y = 2x + 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "y = 2x – 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "y = 2x + 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2y = x + 7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "y = 2x + 2",
+      "option_b": "y = 2x – 1",
+      "option_c": "y = 2x + 1",
+      "option_d": "2y = x + 7",
+      "correct": "ক",
+      "explanation": "(3, 5) বিন্দুগামী 2 ঢালবিশিষ্ট সরলরেখার সমীকরণ y − 5 = 2 ( x − 3 ) ⇒ y − 5 = 2 x − 6 ⇒ y = 2 x − 6 + 5 ∴ y = 2 x − 1 \\begin{aligned} & y-5=2(x-3) \\\\ \\Rightarrow & y-5=2 x-6 \\\\ \\Rightarrow & y=2 x-6+5 \\\\ \\therefore & y=2 x-1\\end{aligned} ⇒ ⇒ ∴ ​ y − 5 = 2 ( x − 3 ) y − 5 = 2 x − 6 y = 2 x − 6 + 5 y = 2 x − 1 ​"
+    },
+    {
+      "number": "21",
+      "tag": "CTG.B 25,MB 24,SB 24,JGCC 24,CPSCR 24,BMARPC 24,RCS 24,DB 23,MB 23,CTG.B 23,DB 22,CB 22,SB 22,JB 22,MB 20,RB 20,RB 19,CB 19,All.B 18",
+      "question": "একটি নিরপেক্ষ ছক্কা একবার নিক্ষেপ করা হলে প্রাপ্ত সংখ্যাটি জোড় কিন্তু 6 দ্বারা বিভাজ্য না হওয়ার সম্ভাবনা কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "5 6 \\frac{5}{6} 6 5 ​",
+      "correct": "ঘ",
+      "explanation": "প্রথমে, ছক্কার সম্ভাব্য ফলাফল: S = { 1 , 2 , 3 , 4 , 5 , 6 } S = \\{1, 2, 3, 4, 5, 6\\} S = { 1 , 2 , 3 , 4 , 5 , 6 } মোট সম্ভাব্য ফলাফলের সংখ্যা n ( S ) = 6 n(S) = 6 n ( S ) = 6 জোড় সংখ্যাগুলো হলো: { 2 , 4 , 6 } \\{2, 4, 6\\} { 2 , 4 , 6 } । এদের মধ্যে 6 হলো 6 দ্বারা বিভাজ্য। তাই জোড় কিন্তু 6 দ্বারা বিভাজ্য নয় এমন সংখ্যাগুলো হলো: { 2 , 4 } \\{2, 4\\} { 2 , 4 } । অনুকূল ফলাফলের সংখ্যা n ( A ) = 2 n(A) = 2 n ( A ) = 2 সুতরাং সম্ভাবনা: P ( A ) = n ( A ) n ( S ) = 2 6 = 1 3 P(A) = \\frac{n(A)}{n(S)} = \\frac{2}{6} = \\frac{1}{3} P ( A ) = n ( S ) n ( A ) ​ = 6 2 ​ = 3 1 ​"
+    },
+    {
+      "number": "22",
+      "tag": "CTG.B 25,MB 24,SB 24,JGCC 24,CPSCR 24,BMARPC 24,RCS 24,DB 23,MB 23,CTG.B 23,DB 22,CB 22,SB 22,JB 22,MB 20,RB 20,RB 19,CB 19,All.B 18",
+      "question": "একটি নিরপেক্ষ ছক্কা একবার নিক্ষেপ করা হলে প্রাপ্ত সংখ্যাটি জোড় কিন্তু 6 দ্বারা বিভাজ্য না হওয়ার সম্ভাবনা কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 6 \\frac{5}{6} 6 5 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "5 6 \\frac{5}{6} 6 5 ​",
+      "correct": "ঘ",
+      "explanation": "প্রথমে, ছক্কার সম্ভাব্য ফলাফল: S = { 1 , 2 , 3 , 4 , 5 , 6 } S = \\{1, 2, 3, 4, 5, 6\\} S = { 1 , 2 , 3 , 4 , 5 , 6 } মোট সম্ভাব্য ফলাফলের সংখ্যা n ( S ) = 6 n(S) = 6 n ( S ) = 6 জোড় সংখ্যাগুলো হলো: { 2 , 4 , 6 } \\{2, 4, 6\\} { 2 , 4 , 6 } । এদের মধ্যে 6 হলো 6 দ্বারা বিভাজ্য। তাই জোড় কিন্তু 6 দ্বারা বিভাজ্য নয় এমন সংখ্যাগুলো হলো: { 2 , 4 } \\{2, 4\\} { 2 , 4 } । অনুকূল ফলাফলের সংখ্যা n ( A ) = 2 n(A) = 2 n ( A ) = 2 সুতরাং সম্ভাবনা: P ( A ) = n ( A ) n ( S ) = 2 6 = 1 3 P(A) = \\frac{n(A)}{n(S)} = \\frac{2}{6} = \\frac{1}{3} P ( A ) = n ( S ) n ( A ) ​ = 6 2 ​ = 3 1 ​"
+    },
+    {
+      "number": "23",
+      "tag": "RCS 24,DB 22,MB 21",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির 15 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 5 13 \\frac{1}{5^{13}} 5 13 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 5 14 \\frac{1}{5^{14}} 5 14 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 5 15 \\frac{1}{5^{15}} 5 15 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 5 16 \\frac{1}{5^{16}} 5 16 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 5 13 \\frac{1}{5^{13}} 5 13 1 ​",
+      "option_b": "1 5 14 \\frac{1}{5^{14}} 5 14 1 ​",
+      "option_c": "1 5 15 \\frac{1}{5^{15}} 5 15 1 ​",
+      "option_d": "1 5 16 \\frac{1}{5^{16}} 5 16 1 ​",
+      "correct": "ক",
+      "explanation": "প্রদ্ত্ত গুণোত্তর ধারাটি: 5 − 1 + 1 5 − 1 25 + … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + … সাধারণ পদ নির্ণয় প্রথম পদ ( a ) = 5 (a)=5 ( a ) = 5 সাধারণ অনুপাত ( r ) = − 1 5 (r)=\\frac{-1}{5} ( r ) = 5 − 1 ​ (যেহেতু − 1 / 5 = − 1 5 -1 / 5=\\frac{-1}{5} − 1/5 = 5 − 1 ​ এবং 1 / 5 − 1 = − 1 5 \\frac{1 / 5}{-1}=-\\frac{1}{5} − 1 1/5 ​ = − 5 1 ​ ) গুণোত্তর ধারার সাধারণ পদ: a n = a ⋅ r n − 1 a_{n}=a \\cdot r^{n-1} a n ​ = a ⋅ r n − 1 15তম পদ গণনা a 15 = 5 ⋅ ( − 1 5 ) 15 − 1 = 5 ⋅ ( − 1 5 ) 14 = 5 ⋅ 1 5 14 [ ∵ ( − 1 ) 14 = 1 ] = 5 5 14 = 1 5 13 \\begin{aligned} a_{15} & =5 \\cdot\\left(-\\frac{1}{5}\\right)^{15-1} \\\\ & =5 \\cdot\\left(-\\frac{1}{5}\\right)^{14} \\\\ & =5 \\cdot \\frac{1}{5^{14}} \\quad\\left[\\because(-1)^{14}=1\\right] \\\\ & =\\frac{5}{5^{14}} \\\\ & =\\frac{1}{5^{13}} \\end{aligned} a 15 ​ ​ = 5 ⋅ ( − 5 1 ​ ) 15 − 1 = 5 ⋅ ( − 5 1 ​ ) 14 = 5 ⋅ 5 14 1 ​ [ ∵ ( − 1 ) 14 = 1 ] = 5 14 5 ​ = 5 13 1 ​ ​"
+    },
+    {
+      "number": "24",
+      "tag": "RCS 24,DB 21,RB 21,CTG.B 21,BB 21,RB 20,ACC 24",
+      "question": "একটি গুণোত্তর ধারার ১ম পদ 1 5 \\frac{1}{5} 5 1 ​ এবং অসীমতক সমষ্টি 1 7 \\frac{1}{7} 7 1 ​ হলে ধারাটির সাধারণ অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 5 \\frac{2}{5} 5 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 1 5 \\frac{-1}{5} 5 − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 2 5 \\frac{-2}{5} 5 − 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 5 \\frac{2}{5} 5 2 ​",
+      "option_b": "1 5 \\frac{1}{5} 5 1 ​",
+      "option_c": "− 1 5 \\frac{-1}{5} 5 − 1 ​",
+      "option_d": "− 2 5 \\frac{-2}{5} 5 − 2 ​",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত তথ্য: প্রথম পদ, a = 1 5 a=\\frac{1}{5} a = 5 1 ​ অসীমতক সমষ্টি , S ∞ = 1 7 S_{\\infty}=\\frac{1}{7} S ∞ ​ = 7 1 ​ অসীম গুণোত্তর ধারার সমষ্টি সূত্র: S ∞ = a 1 − r S_{\\infty}=\\frac{a}{1-r} S ∞ ​ = 1 − r a ​ প্রদত্ত মানগুলি বসিয়ে পাই: 1 7 = 1 5 1 − r \\frac{1}{7}=\\frac{\\frac{1}{5}}{1-r} 7 1 ​ = 1 − r 5 1 ​ ​ সমীকরণটি সমাধান করে সাধারণ অনুপাত r r r নির্ণয়: 1. সমীকরণকে সরলীকরণ: 1 7 = 1 5 ( 1 − r ) \\frac{1}{7}=\\frac{1}{5(1-r)} 7 1 ​ = 5 ( 1 − r ) 1 ​ বা, 5 ( 1 − r ) = 7 5(1-r)=7 5 ( 1 − r ) = 7 বা, 5 − 5 r = 7 5-5 r=7 5 − 5 r = 7 বা , − 5 r = 7 − 5 বা , − 5 r = 2 বা , r = − 2 5 \\begin{array}{c} বা,-5 r=7-5 \\\\বা, -5 r=2 \\\\ বা,r=-\\frac{2}{5} \\end{array} বা , − 5 r = 7 − 5 বা , − 5 r = 2 বা , r = − 5 2 ​ ​"
+    },
+    {
+      "number": "25",
+      "tag": "RCS 24,RCC 24",
+      "question": "প্রদত্ত উপাত্তগুলো যদি একটি ত্রিভুজের তিনবাহুর দৈর্ঘ্য হয় তবে কোনটি দ্বারা একটি স্থূলকোণী ত্রিভুজ আঁকা যাবে ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3,3,4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3,4,4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3, 4, 5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3, 4, 6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3,3,4",
+      "option_b": "3,4,4",
+      "option_c": "3, 4, 5",
+      "option_d": "3, 4, 6",
+      "correct": "ঘ",
+      "explanation": "△ A B C  এ  A C 2 > A B 2 + B C 2 \\triangle \\mathrm{ABC}~এ~ \\mathrm{AC}^{2}>\\mathrm{AB}^{2}+\\mathrm{BC}^{2} △ ABC   এ   AC 2 > AB 2 + BC 2 হলে; ∠ A B C \\angle \\mathrm{ABC} ∠ ABC স্থূলকোণ হয়। এখানে, 3 2 + 4 2 = 25 3^{2}+4^{2}=25 3 2 + 4 2 = 25 এবং 6 2 = 36 6^{2}=36 6 2 = 36 6 2 > 3 2 + 4 2 6^{2}>3^{2}+4^{2} 6 2 > 3 2 + 4 2 হওয়ায় ত্রিভুজটি স্থূলকোণী হবে।"
+    }
+  ]
+}

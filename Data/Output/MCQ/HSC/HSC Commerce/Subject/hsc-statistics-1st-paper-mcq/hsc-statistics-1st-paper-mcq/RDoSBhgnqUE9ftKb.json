@@ -1,0 +1,832 @@
+{
+  "read_id": "RDoSBhgnqUE9ftKb",
+  "title": "আইডিয়াল কলেজ, মতিঝিল ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "ISCM 25",
+      "question": "একটি উপাত্তের গাণিতিক গড়, মধ্যমা ও প্রচুরক ক্রম অনুযায়ী দেওয়া হলো। নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১০, ২০, ১৫",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "১০, ১৫, ২০",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "২০, ১০, ১৫",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১৫, ২০, ১৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১০, ২০, ১৫",
+      "option_b": "১০, ১৫, ২০",
+      "option_c": "২০, ১০, ১৫",
+      "option_d": "১৫, ২০, ১৫",
+      "correct": "খ",
+      "explanation": "একটি উপাত্তের গাণিতিক গড় (Mean), মধ্যমা (Median) এবং প্রচুরক (Mode) যদি ক্রম অনুযায়ী দেওয়া থাকে, তবে সাধারণত সঠিক ক্রমানুসারে হবে গাণিতিক গড়, মধ্যমা, প্রচুরক। অর্থাৎ, গাণিতিক গড় = ১০ , মধ্যমা = ১৫ , প্রচুরক = ২০"
+    },
+    {
+      "number": "2",
+      "tag": "ISCM 25",
+      "question": "-৫, -৬, ০, -১, ৮ তথ্যসারির মধ্যমা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-১",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "০",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-৫",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-৬",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-১",
+      "option_b": "০",
+      "option_c": "-৫",
+      "option_d": "-৬",
+      "correct": "ক",
+      "explanation": "মধ্যমা (মিডিয়ান) নির্ণয় করার জন্য প্রথমে সংখ্যা গুলোকে শৃঙ্খলভাবে সাজাতে হবে। শৃঙ্খলভাবে সাজালে সংখ্যা গুলো হবে: -৬, -৫, -১, ০, ৮। এখন যেহেতু সংখ্যা গুলোর সংখ্যা বিজোড় (৫টি সংখ্যা), তাই মাঝখানের সংখ্যাই মধ্যমা। সেই হিসেবে, মধ্যম সংখ্যা হল -১।"
+    },
+    {
+      "number": "3",
+      "tag": "ISCM 25",
+      "question": "সরকারী চাকুরীর প্রবেশের সর্বোচ্চ বয়স ৩২ বছর কোনটির উদাহরণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "চলক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ধ্রুবক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "নমুনা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সমগ্রক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "চলক",
+      "option_b": "ধ্রুবক",
+      "option_c": "নমুনা",
+      "option_d": "সমগ্রক",
+      "correct": "খ",
+      "explanation": "সরকারি চাকুরির জন্য প্রবেশের সর্বোচ্চ বয়স ৩২ বছর ধ্রুবক একটি মান বা ফ্যাক্টর যা পরিবর্তন হয় না। এটি একটি নির্দিষ্ট সংখ্যা যা পরিবর্তন করে না, তাই এটি ধ্রুবক (Constant) হিসেবে বিবেচিত হয়।"
+    },
+    {
+      "number": "4",
+      "tag": "ISCM 25",
+      "question": "x 1 = 1 , x 2 = ৩ , x 3 = ৫ , f 1 = 1 , f 2 = ২ , f 3 = ৩  Σ f 1 ( x 1 − 1 ) 2   \\begin{array}{l} x_{1}=1, x_{2}=৩, x_{3}=৫, f_{1}=1, f_{2}=২, f_{3}=৩ \\text { } \\Sigma f_{1}\\left(x_{1}-1\\right)^{2} \\text { } \\end{array} x 1 ​ = 1 , x 2 ​ = ৩ , x 3 ​ = ৫ , f 1 ​ = 1 , f 2 ​ = ২ , f 3 ​ = ৩   Σ f 1 ​ ( x 1 ​ − 1 ) 2   ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৪০",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৪৫",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৫০",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫৬",
+          "is_correct": true
+        }
+      ],
+      "option_a": "৪০",
+      "option_b": "৪৫",
+      "option_c": "৫০",
+      "option_d": "৫৬",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "ISCM 25",
+      "question": "বিচ্ছিন্ন চলকের মানের প্রকৃতি কী রূপ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অনির্দিষ্ট",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নির্দিষ্ট",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ভগ্নাংশ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "দৈব",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অনির্দিষ্ট",
+      "option_b": "নির্দিষ্ট",
+      "option_c": "ভগ্নাংশ",
+      "option_d": "দৈব",
+      "correct": "খ",
+      "explanation": "বিচ্ছিন্ন চলক (Discrete Variable) হলো সেই চলক যার মানগুলো নির্দিষ্ট এবং গণনাযোগ্য মান ধারণ করে। এদের মানগুলি সাধারণত পুরো সংখ্যা হয়, যা গোনা সম্ভব। উদাহরণস্বরূপ, একটি পকেটে কয়টি কলম আছে তা একটি বিচ্ছিন্ন চলক।"
+    },
+    {
+      "number": "6",
+      "tag": "ISCM 25",
+      "question": "পদমর্যাদা কোন ধরনের পরিমাপন স্কেল?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নামসূচক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ক্রমসূচক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "শ্রেণিসূচক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনুপাত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নামসূচক",
+      "option_b": "ক্রমসূচক",
+      "option_c": "শ্রেণিসূচক",
+      "option_d": "অনুপাত",
+      "correct": "খ",
+      "explanation": "পদমর্যাদা ক্রম অনুযায়ী পরিমাপ করা হয়, যেখানে একটি আদর্শ বা স্তরের ভিত্তিতে সাজানো হয়। এটি মূলত ক্রমসূচক স্কেল হিসেবে পরিচিত।"
+    },
+    {
+      "number": "7",
+      "tag": "ISCM 25",
+      "question": "গুণবাচক চলকের উদাহরণ নিচের কোনটি? i. মামুন মাসে অনেক টাকা আয় করেন ii. প্রথম শ্রেণির ভর্তির বয়স কমপক্ষে ৫ বছর iii. ক্রিস্টিয়ানো রোনালদো প্রায়ই হ্যাট্রিক করেন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i. মামুন মাসে অনেক টাকা আয় করেন - এখানে \"অনেক\" হল গুণবাচক। ii. প্রথম শ্রেণির ভর্তির বয়স কমপক্ষে ৫ বছর - এখানে \"কমপক্ষে\" হল গুণবাচক। iii. ক্রিস্টিয়ানো রোনালদো প্রায়ই হ্যাট্রিক করেন - এখানে \"প্রায়ই\" হল গুণবাচক।"
+    },
+    {
+      "number": "8",
+      "tag": "ISCM 25",
+      "question": "নিচের কোনটি বাংলাদেশে প্রকাশিত পরিসংখ্যানের সীমাবদ্ধতা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কসঠিক সংগ্রহ পদ্ধতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "তথ্যের পর্যাপ্ততা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উপযুক্ত প্রশিক্ষণের অভাব",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "দ্রুত রিপোর্ট প্রকাশ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কসঠিক সংগ্রহ পদ্ধতি",
+      "option_b": "তথ্যের পর্যাপ্ততা",
+      "option_c": "উপযুক্ত প্রশিক্ষণের অভাব",
+      "option_d": "দ্রুত রিপোর্ট প্রকাশ",
+      "correct": "গ",
+      "explanation": "বাংলাদেশে প্রকাশিত পরিসংখ্যানের কিছু সীমাবদ্ধতা রয়েছে, যার মধ্যে অন্যতম হচ্ছে উপযুক্ত প্রশিক্ষণের অভাব।"
+    },
+    {
+      "number": "9",
+      "tag": "ISCM 25",
+      "question": "আধা সরকারি পরিসংখ্যানের উৎস কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "BBS",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ILO",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "BARI",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "BIDS",
+          "is_correct": true
+        }
+      ],
+      "option_a": "BBS",
+      "option_b": "ILO",
+      "option_c": "BARI",
+      "option_d": "BIDS",
+      "correct": "ঘ",
+      "explanation": "আধা সরকারি পরিসংখ্যানের উৎস হলো BIDS (Bangladesh Institute of Development Studies)। এটি একটি স্বাধীন গবেষণা প্রতিষ্ঠান যা বাংলাদেশের উন্নয়ন এবং অর্থনৈতিক নীতি নিয়ে কাজ করে।"
+    },
+    {
+      "number": "10",
+      "tag": "ISCM 25",
+      "question": "২০১১ সালের আদমশুমারি অনুযায়ী পুরুষ ও মহিলার অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১০০.১",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "১০০.২",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১০০.৩",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "১০০.৪",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১০০.১",
+      "option_b": "১০০.২",
+      "option_c": "১০০.৩",
+      "option_d": "১০০.৪",
+      "correct": "গ",
+      "explanation": "২০১১ সালের আদমশুমারি অনুযায়ী পুরুষ ও মহিলার অনুপাত ১০০.৩।"
+    },
+    {
+      "number": "11",
+      "tag": "ISCM 25",
+      "question": "মূল্য পরিসংখ্যান কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "ক",
+      "explanation": "মূল্য পরিসংখ্যান সাধারণত ২ প্রকারের হয়ে থাকে: ১) খুচরা মূল্য সূচক এবং ২) পাইকারি মূল্য সূচক।"
+    },
+    {
+      "number": "12",
+      "tag": "ISCM 25",
+      "question": "নিচের কোনটি পাঁচ সংখ্যার সারের মধ্যে পড়ে।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "গড়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মধ্যমা",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "প্রচুরক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "২য় দশমক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "গড়",
+      "option_b": "মধ্যমা",
+      "option_c": "প্রচুরক",
+      "option_d": "২য় দশমক",
+      "correct": "খ",
+      "explanation": "পাঁচ সংখ্যার সারের মধ্যে মধ্যমা (median) পাঁচটি সংখ্যাকে ক্রম অনুযায়ী সাজালে মাঝখানের সংখ্যাটি হয়। সুতরাং, উত্তরটি হল মধ্যমা।"
+    },
+    {
+      "number": "13",
+      "tag": "ISCM 25",
+      "question": "বঙ্কিমতা কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "ক",
+      "explanation": "বঙ্কিমতা মূলত ২ প্রকার। ১. ধনাত্মক বঙ্কিমতা (Positive Skewness)২. ঋণাত্মক বঙ্কিমতা (Negative Skewness)"
+    },
+    {
+      "number": "14",
+      "tag": "ISCM 25",
+      "question": "মৃত্যুকালের বয়সের বিন্যাসটির বঙ্কিমতা কেমন হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ধনাত্মক বঙ্কিম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ঋণাত্মক বঙ্কিম",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "অতিসূঁচাল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সুষম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ধনাত্মক বঙ্কিম",
+      "option_b": "ঋণাত্মক বঙ্কিম",
+      "option_c": "অতিসূঁচাল",
+      "option_d": "সুষম",
+      "correct": "খ",
+      "explanation": "মৃত্যুকালের বয়সের বিন্যাস সাধারণত ঋণাত্মক বঙ্কিম হয়ে থাকে, কারণ বেশিরভাগ মানুষের মৃত্যু তাদের জীবনের শেষের দিকে হয় এবং কম বয়সে মৃত্যুর হার তুলনামূলকভাবে কম। তাই, মৃত্যুকালের বয়সের বিন্যাসটি সাধারণত ঋণাত্মক বঙ্কিম হয়।"
+    },
+    {
+      "number": "15",
+      "tag": "ISCM 25",
+      "question": "প্রান্তীয় মান থাকলে কোন পদ্ধতিতে সাধারণ ধারা নির্ণয় করা যায় না?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মুক্তহস্ত পদ্ধতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "নূন্যতম বর্গ পদ্ধতি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আধাগড় পদ্ধতি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চলিষ্ণু গড় পদ্ধতি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "মুক্তহস্ত পদ্ধতি",
+      "option_b": "নূন্যতম বর্গ পদ্ধতি",
+      "option_c": "আধাগড় পদ্ধতি",
+      "option_d": "চলিষ্ণু গড় পদ্ধতি",
+      "correct": "ঘ",
+      "explanation": "প্রান্তীয় মান (Outliers) থাকলে চলিষ্ণু গড় পদ্ধতি ব্যবহার করা সম্ভব হয় না। এই পদ্ধতিতে প্রান্তীয় মানের প্রভাব খুবই বেশী পড়ে এবং সঠিক ধারা নির্ণয় ব্যাহত হয়।"
+    },
+    {
+      "number": "16",
+      "tag": "ISCM 25",
+      "question": "৪ বছর ভিত্তিক চলিষ্ণু গড়ের সাহায্যে চলিষ্ণু গড় নির্ণয়ের ক্ষেত্রে তথ্যমান জোড় সংখ্যা হলে কত বছরের জন্য কোনো চলিষ্ণু গড় পাওয়া যাবে না।",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৫",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২",
+      "option_b": "৩",
+      "option_c": "৪",
+      "option_d": "৫",
+      "correct": "ক",
+      "explanation": "৪ বছর ভিত্তিক চলিষ্ণু গড় নির্ণয়ের ক্ষেত্রে, যদি তথ্যমানের সংখ্যা জোড় হয় তবে চালিশ্ণু গড় নির্ণয় করতে হয় একটি কম সংখ্যক তথ্যের উপর ভিত্তি করে। এরফলে ৪ বছরের চলিষ্ণু গড় তৈরির সময় প্রথম এবং শেষের ২টি তথ্যের জন্য চলিষ্ণু গড় পাওয়া যায় না।"
+    },
+    {
+      "number": "17",
+      "tag": "ISCM 25",
+      "question": "কালীন সারির মূল মানকে তার উপাদানের সমূহের প্রভাবে কিরূপে প্রকাশ করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "+",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "log",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "÷",
+          "is_correct": false
+        }
+      ],
+      "option_a": "+",
+      "option_b": "-",
+      "option_c": "log",
+      "option_d": "÷",
+      "correct": "ক",
+      "explanation": "কালীন সারির মূল মানকে তার উপাদানের সমূহের প্রভাবে প্রকাশ করা যায় যোগ (+) চিহ্ন দিয়ে। প্রতিটি উপাদানের মানকে সমগ্র গড়ের সাথে যোগ করে মোট মান নির্ধারণ করা হয়।"
+    },
+    {
+      "number": "18",
+      "tag": "ISCM 25",
+      "question": "গণসংখ্যা রেখার কোথায় প্রচুরক অবস্থান করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "শীর্ষ বিন্দুতে",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "পাদ বিন্দুতে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মাঝ বিন্দুতে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রান্ত বিন্দুতে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "শীর্ষ বিন্দুতে",
+      "option_b": "পাদ বিন্দুতে",
+      "option_c": "মাঝ বিন্দুতে",
+      "option_d": "প্রান্ত বিন্দুতে",
+      "correct": "ক",
+      "explanation": "গণসংখ্যা রেখার শীর্ষ বিন্দুতে (প্রধানত মাঝখানে) প্রচুরক অবস্থান করে থাকে।"
+    },
+    {
+      "number": "19",
+      "tag": "ISCM 25",
+      "question": "পরিসংখ্যানিক বিশ্লেষণের মূল ভিত্তি কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বিস্তার পরিমাপ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কেন্দ্রিয় পরিমাপ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বঙ্কিমতা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সূচালতা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বিস্তার পরিমাপ",
+      "option_b": "কেন্দ্রিয় পরিমাপ",
+      "option_c": "বঙ্কিমতা",
+      "option_d": "সূচালতা",
+      "correct": "খ",
+      "explanation": "পরিসংখ্যানিক বিশ্লেষণের মূল ভিত্তি হল কেন্দ্রীয় পরিমাপ। সেট হল গড় (mean), মধ্যমা (median) এবং মোড (mode)। এই পরিমাপগুলি ডেটার কেন্দ্রীয় প্রবণতা বোঝাতে ব্যবহৃত হয়।"
+    },
+    {
+      "number": "20",
+      "tag": "ISCM 25",
+      "question": "অস্বাভাবিক বড় বা ছোট মান দ্বারা কোনটি প্রভাবিত হয় না?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জ্যামিতিক গড়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "গাণিতক গড়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তরঙ্গ গড়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মধ্যমা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "জ্যামিতিক গড়",
+      "option_b": "গাণিতক গড়",
+      "option_c": "তরঙ্গ গড়",
+      "option_d": "মধ্যমা",
+      "correct": "ঘ",
+      "explanation": "অস্বাভাবিক বড় বা ছোট মান দ্বারা কোনটি প্রভাবিত হয় না তা হলো \"মধ্যমা\"। অন্য গড়গুলি যেমন গাণিতিক গড় এবং জ্যামিতিক গড় অস্বাভাবিক বড় বা ছোট মান দ্বারা প্রভাবিত হতে পারে, কিন্তু মধ্যমা গড় মান বরাবর থাকে।"
+    },
+    {
+      "number": "21",
+      "tag": "ISCM 25",
+      "question": "প্রথম ১৭টি স্বাভাবিক সংখ্যার- i. যোজিত গড় ৯ ii. জ্যামিতিক গড় ৯ iii. মধ্যমা ৯ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "প্রথম ১৭টি স্বাভাবিক সংখ্যা হল ১ থেকে ১৭ পর্যন্ত সমস্ত সংখ্যা। এই সকল সংখ্যার গাণিতিক গড়, জ্যামিতিক গড় এবং মধ্যমা বের করতে হবে। প্রথমে, যোজন গড় (Arithmetic Mean) নির্ণয় করি: (1 + 2 + 3 + \\ldots + 17) / 17 গাণিতিক পদ্ধতিতে, প্রথম n স্বাভাবিক সংখ্যার যোগফল S n = n ( n + 1 ) 2 S_n = \\frac{n(n+1)}{2} S n ​ = 2 n ( n + 1 ) ​ অর্থাৎ, S 17 = 17 × 18 2 = 153 S_{17} = \\frac{17 \\times 18}{2} = 153 S 17 ​ = 2 17 × 18 ​ = 153 তাহলে, যোজন গড় = 153 17 = 9 \\frac{153}{17} = 9 17 153 ​ = 9 তারপর, জ্যামিতিক গড় (Geometric Mean) নির্ণয় করি: জ্যামিতিক গড় = 1 × 2 × 3 × … × 17 17 \\sqrt[17]{1 \\times 2 \\times 3 \\times \\ldots \\times 17} 17 1 × 2 × 3 × … × 17 ​ এই গড় ব্যবহার করে ৯ পাওয়া সম্ভব নয় কারণ এরূপ সংখ্যাটি ৯-এর সমান হবে না। জ্যামিতিক গড় ৯ ঠিক নয়। এরপর, মধ্যমা (Median) নির্ণয় করি: প্রথম ১৭টি স্বাভাবিক সংখ্যার মধ্যে মধ্যম সংখ্যাটি হবে ৯, যা ক্রম অনুসারে ৯ম স্থানীয়। তাহলে, প্রথম ১৭টি স্বাভাবিক সংখ্যার জন্য সঠিক হবে: i ও iii অর্থাৎ যোজন গড় ও মধ্যমা ৯।"
+    },
+    {
+      "number": "22",
+      "tag": "ISCM 25",
+      "question": "দুটি ধনাত্মক সংখ্যার গাণিতিক গড় ও জ্যামিতিক গড় যথাক্রমে ১০ ও ৮। সংখ্যা দুটির তরঙ্গ গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১.২৫",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "০.৮",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "০.১৬",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৬.৪",
+          "is_correct": true
+        }
+      ],
+      "option_a": "১.২৫",
+      "option_b": "০.৮",
+      "option_c": "০.১৬",
+      "option_d": "৬.৪",
+      "correct": "ঘ",
+      "explanation": "দুটি ধনাত্মক সংখ্যার গাণিতিক গড় = ১০ জ্যামিতিক গড় = ৮ তরঙ্গ গড় কত? তরঙ্গ গড়ের সূত্র হলো:HM=2ab÷a+b গানিতিক গড় : AM =a+b÷2 = 10 a+b= 20 জ্যামিতিক গড় : GM = √ab=8 ab =64 HM = 2ab÷a+b =2×64÷ 20 =6.4"
+    },
+    {
+      "number": "23",
+      "tag": "ISCM 25",
+      "question": "দুটি ধনাত্মক সংখ্যার গাণিতিক গড় ও জ্যামিতিক গড় যথাক্রমে ১০ ও ৮। সংখ্যাগুলোর যোগফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "১৬",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "২০",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "৬৪",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৪",
+      "option_b": "১৬",
+      "option_c": "২০",
+      "option_d": "৬৪",
+      "correct": "গ",
+      "explanation": "ধরা যাক দুটি ধনাত্মক সংখ্যা হলো a a a এবং b b b । গাণিতিক গড় = a + b 2 = 10 \\frac{a + b}{2} = 10 2 a + b ​ = 10 ⇒ a + b = 20 a + b = 20 a + b = 20"
+    },
+    {
+      "number": "1",
+      "tag": "ISCM 25",
+      "question": "কোনো মধ্যম সূঁচাল নিবেশনের বংকিমতাংক -০.০২ এবং তার তৃতীয় শোধিত পরিঘাত -৮। ẞ 1 এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "০,০০০৪",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৬৪",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "২৯৪৭.২",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৮৮৪১",
+          "is_correct": false
+        }
+      ],
+      "option_a": "০,০০০৪",
+      "option_b": "৬৪",
+      "option_c": "২৯৪৭.২",
+      "option_d": "৮৮৪১",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "ISCM 25",
+      "question": "কোনো মধ্যম সূঁচাল নিবেশনের বংকিমতাংক -০.০২ এবং তার তৃতীয় শোধিত পরিঘাত -৮। ৪র্থ শোধিত পরিঘাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৬৪",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৫১২",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "২৯৪৭.২",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৩৭৩১১",
+          "is_correct": true
+        }
+      ],
+      "option_a": "৬৪",
+      "option_b": "৫১২",
+      "option_c": "২৯৪৭.২",
+      "option_d": "৩৭৩১১",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

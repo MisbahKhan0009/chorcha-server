@@ -1,0 +1,832 @@
+{
+  "read_id": "spJjDObggQB29hVR",
+  "title": "ঢাকা বোর্ড ২০২২",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RCC 24,DB 22,MB 22,MB 21,DIN.B 20",
+      "question": "আপেক্ষিক রোধের একক-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Ω m \\Omega \\mathrm{m} Ω m",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Ω / m \\Omega / \\mathrm{m} Ω/ m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "m / Ω \\mathrm{m} / \\Omega m /Ω",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Ω − 1   m − 1 \\Omega^{-1} \\mathrm{~m}^{-1} Ω − 1   m − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Ω m \\Omega \\mathrm{m} Ω m",
+      "option_b": "Ω / m \\Omega / \\mathrm{m} Ω/ m",
+      "option_c": "m / Ω \\mathrm{m} / \\Omega m /Ω",
+      "option_d": "Ω − 1   m − 1 \\Omega^{-1} \\mathrm{~m}^{-1} Ω − 1   m − 1",
+      "correct": "ক",
+      "explanation": "আপেক্ষিক রোধ (Resistivity) একটি পদার্থের বৈশিষ্ট্য যা নির্দেশ করে কতটুকু রোধ করা হয় যখন একটি বৈদ্যুতিক কারেন্ট কোনো নির্দিষ্ট দৈর্ঘ্য এবং ক্রস-সেকশন এরিয়া বিশিষ্ট কন্ডাক্টরের মধ্য দিয়ে প্রবাহিত হয়। আপেক্ষিক রোধের একক নির্ণয় করা হয় নিম্নলিখিত সম্পর্ক অনুযায়ী: R = ρ L A R = \\rho \\frac{L}{A} R = ρ A L ​ এখানে, R R R হল সম্মুখধারার রোধ (Resistance) যার একক ওম ( Ω \\Omega Ω ), L L L হল কন্ডাক্টরের দৈর্ঘ্য যার একক মিটার (m), A A A হল কন্ডাক্টরের ক্রস-সেকশন এরিয়া (Cross-sectional area) যার একক বর্গ মিটার ( m 2 \\mathrm{m}^2 m 2 ), এবং ρ \\rho ρ হল আপেক্ষিক রোধ (Resistivity)। তাহলে ρ = R A L \\rho = R \\frac{A}{L} ρ = R L A ​ হবে। ফলস্বরূপ আপেক্ষিক রোধের একক হবে: Resistivity ( ρ ) = Ω ⋅ m \\text{Resistivity} (\\rho) = \\Omega \\cdot \\mathrm{m} Resistivity ( ρ ) = Ω ⋅ m অতএব, আপেক্ষিক রোধের একক হবে Ω m \\Omega \\mathrm{m} Ω m এবং সঠিক উত্তর A \\textbf{A} A Ω m \\Omega \\mathrm{m} Ω m ।"
+    },
+    {
+      "number": "2",
+      "tag": "DB 22,RB 19",
+      "question": "রিওস্টেট কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সার্কিট ব্রেকার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "পরিবর্তিত রোধক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ফিউজ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ধারক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সার্কিট ব্রেকার",
+      "option_b": "পরিবর্তিত রোধক",
+      "option_c": "ফিউজ",
+      "option_d": "ধারক",
+      "correct": "খ",
+      "explanation": "প্রশ্নের সমাধানঃ রিওস্টেট হলো একটি পরিবর্তিত রোধক। এটি এমন একটি ডিভাইস যার সাহায্যে বৈদ্যুতিক সার্কিটে প্রবাহ এবং ভোল্টেজকে নিয়ন্ত্রণ করা যায়। রিওস্টেটকে সাধারণত ভোলিউম কন্ট্রোল, ডিমার সুইচ, এবং অন্যান্য পরিবর্তনশীল বৈদ্যুতিক অ্যাপ্লিকেশনে ব্যবহার করা হয়। তাই, সঠিক উত্তর হবে বিকল্প B: পরিবর্তিত রোধক"
+    },
+    {
+      "number": "3",
+      "tag": "CTG.B 24,JB 24,DB 23,SB 23,JB 23,DB 22,DIN.B 22,BB 22",
+      "question": "শব্দের তীব্রতার একক-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Wm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "W m − 1 \\mathrm{Wm}^{-1} Wm − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "W m − 2 \\mathrm{Wm}^{-2} Wm − 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "W − 1   m \\mathrm{W}^{-1} \\mathrm{~m} W − 1   m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Wm",
+      "option_b": "W m − 1 \\mathrm{Wm}^{-1} Wm − 1",
+      "option_c": "W m − 2 \\mathrm{Wm}^{-2} Wm − 2",
+      "option_d": "W − 1   m \\mathrm{W}^{-1} \\mathrm{~m} W − 1   m",
+      "correct": "গ",
+      "explanation": "সুরেলা শব্দকে ব্যাখ্যা করার জন্য অনেকগুলো বৈশিষ্ট্য সংজ্ঞায়িত করা হয়েছে তার মাঝে গুরুত্বপূর্ণ তিনটি হচ্ছে, তীব্রতা (Intensity): একটি সুরেলা শব্দ কত জোরে শোনা যাচ্ছে তার পরিমাপ হচ্ছে তীব্রতা। অর্থাৎ একক ক্ষেত্রফল দিয়ে প্রতি সেকেন্ডে যে পরিমাণ শব্দ শন্তি যায় তাকে শব্দের তীব্রতা বলে। শব্দের তীব্রতার একক হচ্ছে Wm -2 তীক্ষ্ণতা (Pitch): সুরযুক্ত শব্দের যে বৈশিষ্ট্য দিয়ে একই তীব্রাকার শব্দকে কখনো মোটা কখনো তীক্ষ্ণ শোনা যায় তাকে তীক্ষ্ণতা বা পিচ বলে। তীক্ষ্ণতার একক হচ্ছে Hz। টিম্বার (Timbre): ভিন্ন ভিন্ন বাদ্যযন্ত্র থেকে আসা শব্দের পার্থক্য যে বৈশিষ্ট্য দিয়ে বোঝা যায় সেটা হচ্ছে টিম্বার বা সুরের গুণ। সুরেলা শব্দ তৈরি করার জন্য নানা ধরনের বাদ্যযন্ত্রের ব্যবহার করা হয়, সেগুলোকে মোটামুটি তিন ভাগে ভাগ করা যায়:"
+    },
+    {
+      "number": "4",
+      "tag": "DB 22",
+      "question": "বর্তনীতে অ্যামিটারের পাঠ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 Amp",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 Amp",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4 Amp",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 Amp",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 Amp",
+      "option_b": "2 Amp",
+      "option_c": "4 Amp",
+      "option_d": "6 Amp",
+      "correct": "খ",
+      "explanation": "রোধদ্বয় শ্রেণিতে যুক্ত থাকায় বর্তনীর তুল্যরোধ, R 5 = 3 Ω + 3 Ω = 6 Ω \\mathrm{R}_{5}=3 \\Omega+3 \\Omega=6 \\Omega R 5 ​ = 3Ω + 3Ω = 6Ω ∴ \\therefore ∴ বর্তনীতে অ্যামিটারের পাঠ = = = তড়িৎ প্রবাহ, I = V R 5 = 12   V 6 Ω = 2 A m p \\mathrm{I}=\\frac{\\mathrm{V}}{\\mathrm{R}_{5}}=\\frac{12 \\mathrm{~V}}{6 \\Omega}=2 \\mathrm{Amp} I = R 5 ​ V ​ = 6Ω 12   V ​ = 2 Amp"
+    },
+    {
+      "number": "5",
+      "tag": "RB 23,DB 22",
+      "question": "পদার্থবিজ্ঞানীরা বিশ্ব ব্রহ্মান্ডের দৃশ্যমান গ্রহ, নক্ষত্র ও গ্যালাক্সির কত শতাংশ ব্যাখ্যা করতে পারেন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4%",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4%",
+      "option_b": "5%",
+      "option_c": "6%",
+      "option_d": "7%",
+      "correct": "ক",
+      "explanation": "বিজ্ঞানীরা দেখান প্রায় চৌদ্দ বিলিয়ন বছর আগে 'বিগ ব্যাং' নামে একটি প্রচন্ড বিস্ফোরণে বিশ্বব্রহ্মাণ্ড তৈরি হওয়ার পর সেটি প্রসারিত হতে থাকে। অতি সম্প্রতি বিজ্ঞানীরা দেখিয়েছেন, এই প্রসারণ কখনোই থেমে যাবে না এবং বিশ্বব্রহ্মাণ্ডের সবকিছুই একটি অন্যটি থেকে দূরে সরে যাবে। পদার্থবিজ্ঞানীরা আরো দেখিয়েছেন, তারা বিশ্বব্রহ্মাণ্ডের দৃশ্যমান গ্রহ নক্ষত্র গ্যালাক্সির মাত্র এ শতাংশ ব্যাখ্যা করতে পারেন, বাকি ব্যাখ্যা করতে হলে রহস্যময় ডার্ক ম্যাটার ও ডার্ক এনার্জির ধারণা মেনে নিতে হয়। যার গঠন নিয়ে বিজ্ঞানীরা গবেষণা করে যাচ্ছেন ।"
+    },
+    {
+      "number": "6",
+      "tag": "DB 22",
+      "question": "'ইলেকট্রো উইক ফোর্স' কোন দুইটি বলের সমন্বিত রূপ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বিদ্যুৎ চৌম্বকীয় বল এবং মহাকর্ষ বল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বিদ্যুৎ চৌম্বকীয় বল এবং দুর্বল নিউক্লিয় বল",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বিদ্যুৎ চৌম্বকীয় বল এবং সবল নিউক্লিয় বল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4সবল নিউক্লিয় বল এবং দুর্বল নিউক্লিয় বল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বিদ্যুৎ চৌম্বকীয় বল এবং মহাকর্ষ বল",
+      "option_b": "বিদ্যুৎ চৌম্বকীয় বল এবং দুর্বল নিউক্লিয় বল",
+      "option_c": "বিদ্যুৎ চৌম্বকীয় বল এবং সবল নিউক্লিয় বল",
+      "option_d": "4সবল নিউক্লিয় বল এবং দুর্বল নিউক্লিয় বল",
+      "correct": "খ",
+      "explanation": "তড়িৎ চৌম্বক (বিদ্যুৎ চৌম্বকীয়) বল এবং দুর্বল নিউক্লিয় বলকে একই সূত্র দিয়ে ব্যাখ্যা করা সম্ভব হয়েছে বিধায় এদেরকে ইলেক্ট্রো উইক ফোর্স বলে। বিজ্ঞানীরা ধারণা করেন, এই চার ধরনের বলের মূল এক জায়গায় এবং তাঁরা সবগুলোকে এক সূত্র দিয়ে ব্যাখ্যা করার চেষ্টা করছেন। তড়িৎ চৌম্বক (বিদ্যুৎ চৌম্বকীয়) এবং দুর্বল নিউক্লিয়ার বলকে এর মাঝে একই সূত্র দিয়ে ব্যাখ্যা করা সম্ভব হয়েছে এবং সেটি তাত্ত্বিক পদার্থবিজ্ঞানের একটি আকাশছোঁয়া সাফল্য! (কাজেই তুমি ইচ্ছে করলে বলতে পারো বল তিন ধরনের: মহাকর্ষ, ইলেকট্রো উইক (Electro-weak) এবং নিউক্লিয়ার বল। কেউ এটাকে ভুল বলতে পারবে না!) অন্যগুলোকেও এক সূত্রে গাঁথার জন্য বিজ্ঞানীরা কাজ করে যাচ্ছেন।"
+    },
+    {
+      "number": "7",
+      "tag": "DB 22",
+      "question": "কোন সূত্রের সাহায্যে বস্তুর ভরকে শক্তিতে রূপান্তর করা সম্ভব?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "E = 1 2 m v 2 \\mathrm{E}=\\frac{1}{2} \\mathrm{mv}^{2} E = 2 1 ​ mv 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "E = m g h \\mathrm{E}=\\mathrm{mgh} E = mgh",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "E = m c 2 \\mathrm{E}=\\mathrm{mc}^{2} E = mc 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "F = m a \\mathrm{F}=\\mathrm{ma} F = ma",
+          "is_correct": false
+        }
+      ],
+      "option_a": "E = 1 2 m v 2 \\mathrm{E}=\\frac{1}{2} \\mathrm{mv}^{2} E = 2 1 ​ mv 2",
+      "option_b": "E = m g h \\mathrm{E}=\\mathrm{mgh} E = mgh",
+      "option_c": "E = m c 2 \\mathrm{E}=\\mathrm{mc}^{2} E = mc 2",
+      "option_d": "F = m a \\mathrm{F}=\\mathrm{ma} F = ma",
+      "correct": "গ",
+      "explanation": "বিজ্ঞানী আইনসটাইন তার যুগান্তরকারী E = m c 2 E=mc^2 E = m c 2 সূত্রের সাহায্যে ব্যাখ্যা করে দেখান যে, বস্তুর ভরকে শক্তিতে রূপান্তর করা যায়।"
+    },
+    {
+      "number": "8",
+      "tag": "DIN.B 24,RCC 24,JGCC 24,DB 23,JB 23,DB 22",
+      "question": "প্রকৃতিতে প্রাপ্ত ইউরেনিয়াম এর পরিমাণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.5%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.6%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.7%",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0.8%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.5%",
+      "option_b": "0.6%",
+      "option_c": "0.7%",
+      "option_d": "0.8%",
+      "correct": "গ",
+      "explanation": "নিউক্লিয়ার শক্তিকেন্দ্রে যেসব জ্বালানি ব্যবহার করা হয় তার একটি হচ্ছে ইউরেনিয়াম 235 এখানে 92টি প্রোটন এবং 143টি নিউট্রন রয়েছে। প্রকৃতিতে এর পরিমাণ খুব কম, মাত্র 0.7%, এর অর্ধায় 703,800,000 (704 মিলিয়ন) বছর। এই ইউরেনিয়াম 235 নিউক্লিয়াস খুব সহজেই আরেকটা নিউট্রনকে গ্রহণ করতে পারে (যদি সে নিউট্রনের গতি কম হয়) তখন ইউরেনিয়াম 235 পুরোপুরি অস্থিতিশীল হয়ে যায়, এটা তখন K r 92 K r^{92} K r 92 এবং B a 141 B a^{141} B a 141 দুটো ছোট নিউক্লিয়াসে ভাগ হয়ে যায়। তার সাথে সাথে আরো তিনটা নিউট্রন বের হয়ে আসে যেটা নিচের সমীকরণে দেখানো হয়েছে। 0 1 n + 92 235 U → 36 92 K r + 56 141 B a + 3 0 1 n { }_{0}^{1} n+{ }_{92}^{235} U \\rightarrow{ }_{36}^{92} K r+{ }_{56}^{141} B a+3{ }_{0}^{1} n 0 1 ​ n + 92 235 ​ U → 36 92 ​ Kr + 56 141 ​ B a + 3 0 1 ​ n"
+    },
+    {
+      "number": "9",
+      "tag": "DB 22",
+      "question": "বিজ্ঞানী গ্যালিলিও এর পড়ন্ত বস্তুর সূত্রগুলো নিচের কোন শর্তগুলো মেনে চলে? i. স্থির অবস্থা থেকে বস্তুগুলো পড়তে হবে ii. একই উচ্চতা থেকে বস্তুগুলো পড়তে হবে iii. বস্তুগুলো মুক্তভাবে পড়তে হবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রথম সূত্র: স্থির অবস্থান ও একই উচ্চতা থেকে বিনা বাধায় পড়ন্ত বস্তু সমান সময়ে সমান পথ অতিক্রম করবে। দ্বিতীয় সূত্র: স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তুর নির্দিষ্ট সময়ে (t) প্রাপ্ত বেগ (v) ঐ সময়ের সমানুপাতিক। অর্থাৎ v ∝ t v \\propto t v ∝ t তৃতীয় সূত্র: স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তু নির্দিষ্ট সময়ে যে দূরত্ব (h) অতিক্রম করে তা ঐ সময়ের (t) বর্গের সমানুপাতিক। অর্থাৎ h ∝ t 2 h \\propto t^{2} h ∝ t 2"
+    },
+    {
+      "number": "10",
+      "tag": "DB 22",
+      "question": "বিদ্যুৎ চৌম্বকীয় বল মাধ্যাকর্ষণ শক্তির তুলনায় কতগুণ শক্তিশালী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 36 10^{36} 1 0 36",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "10 39 10^{39} 1 0 39",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10 63 10^{63} 1 0 63",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10 93 10^{93} 1 0 93",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 36 10^{36} 1 0 36",
+      "option_b": "10 39 10^{39} 1 0 39",
+      "option_c": "10 63 10^{63} 1 0 63",
+      "option_d": "10 93 10^{93} 1 0 93",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "DB 22",
+      "question": "গাড়িটির ত্বরণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.8   m / s 2 0.8 \\mathrm{~m} / \\mathrm{s}^{2} 0.8   m / s 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.6   m / s 2 0.6 \\mathrm{~m} / \\mathrm{s}^{2} 0.6   m / s 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.4   m / s 2 0.4 \\mathrm{~m} / \\mathrm{s}^{2} 0.4   m / s 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0.2   m / s 2 0.2 \\mathrm{~m} / \\mathrm{s}^{2} 0.2   m / s 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.8   m / s 2 0.8 \\mathrm{~m} / \\mathrm{s}^{2} 0.8   m / s 2",
+      "option_b": "0.6   m / s 2 0.6 \\mathrm{~m} / \\mathrm{s}^{2} 0.6   m / s 2",
+      "option_c": "0.4   m / s 2 0.4 \\mathrm{~m} / \\mathrm{s}^{2} 0.4   m / s 2",
+      "option_d": "0.2   m / s 2 0.2 \\mathrm{~m} / \\mathrm{s}^{2} 0.2   m / s 2",
+      "correct": "গ",
+      "explanation": "∴ \\therefore ∴ ত্বরণ, a = v − u t − = 4 − 0 10 = 0.4   m s − 2 \\mathrm{a}=\\frac{\\mathrm{v}-\\mathrm{u}}{\\mathrm{t}^{-}}=\\frac{4-0}{10}=0.4 \\mathrm{~ms}^{-2} a = t − v − u ​ = 10 4 − 0 ​ = 0.4   ms − 2"
+    },
+    {
+      "number": "12",
+      "tag": "DB 22",
+      "question": "সুষম বেগে গাড়িটির অতিক্রান্ত দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40m",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "60 m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "80m",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "100 m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "40m",
+      "option_b": "60 m",
+      "option_c": "80m",
+      "option_d": "100 m",
+      "correct": "ক",
+      "explanation": "∴ \\therefore ∴ অতিক্রান্ত দূরত্ব, s = v t = 4 × 10 = 40   m \\mathrm{s}=\\mathrm{vt}=4 \\times 10=40 \\mathrm{~m} s = vt = 4 × 10 = 40   m"
+    },
+    {
+      "number": "13",
+      "tag": "DB 22",
+      "question": "মহাকর্ষীয় ধ্রুবক G এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6.67 × 10 11 N m 2   k g − 2 6.67 \\times 10^{11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-2} 6.67 × 1 0 11 Nm 2   kg − 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6.67 × 10 − 13 N m − 2   k g − 2 6.67 \\times 10^{-13} \\mathrm{Nm}^{-2} \\mathrm{~kg}^{-2} 6.67 × 1 0 − 13 Nm − 2   kg − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6.67 × 10 − 11 N m 2   k g − 2 6.67 \\times 10^{-11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-2} 6.67 × 1 0 − 11 Nm 2   kg − 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6.67 × 10 − 11 N m 2   k g − 1 6.67 \\times 10^{-11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-1} 6.67 × 1 0 − 11 Nm 2   kg − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6.67 × 10 11 N m 2   k g − 2 6.67 \\times 10^{11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-2} 6.67 × 1 0 11 Nm 2   kg − 2",
+      "option_b": "6.67 × 10 − 13 N m − 2   k g − 2 6.67 \\times 10^{-13} \\mathrm{Nm}^{-2} \\mathrm{~kg}^{-2} 6.67 × 1 0 − 13 Nm − 2   kg − 2",
+      "option_c": "6.67 × 10 − 11 N m 2   k g − 2 6.67 \\times 10^{-11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-2} 6.67 × 1 0 − 11 Nm 2   kg − 2",
+      "option_d": "6.67 × 10 − 11 N m 2   k g − 1 6.67 \\times 10^{-11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-1} 6.67 × 1 0 − 11 Nm 2   kg − 1",
+      "correct": "গ",
+      "explanation": "মহাকর্ষীয় ধ্রুবক G G G এর সঠিক মান হল 6.67 × 10 − 11 N m 2   k g − 2 6.67 \\times 10^{-11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-2} 6.67 × 1 0 − 11 Nm 2   kg − 2 । অতএব, সঠিক উত্তর হল বিকল্প (c): 6.67 × 10 − 11 N m 2   k g − 2 6.67 \\times 10^{-11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-2} 6.67 × 1 0 − 11 Nm 2   kg − 2"
+    },
+    {
+      "number": "14",
+      "tag": "DB 22",
+      "question": "A বিন্দুতে শক্তির পরিমাণ 100J হলে D বিন্দুতে শক্তির পরিমাণ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "50 J",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "200 J",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "300 J",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "400 J",
+          "is_correct": true
+        }
+      ],
+      "option_a": "50 J",
+      "option_b": "200 J",
+      "option_c": "300 J",
+      "option_d": "400 J",
+      "correct": "ঘ",
+      "explanation": "আমরা জানি, সরল ছন্দিত গতিসম্পন্ন কোনো কণার যেকোনো বিন্দুতে মোট শক্তি, বিস্তারের বর্গের সমানুপাতিক। অর্থাৎ E   ∝ A 2 E\\ \\propto A^2 E   ∝ A 2 । সুতরাং A ও D বিন্দুতে শক্তি E A E_A E A ​ ও E D E_D E D ​ হলে, E D E A = A D 2 A A 2 ⇒ E D = A D 2 A A 2 × E A = 100 2 50 2 × 100 = 400   J \\frac{E_{D}}{E_{A}}=\\frac{A_{D}{ }^{2}}{A_{A}{ }^{2}} \\Rightarrow E_{D}=\\frac{A_{D}^{2}}{A_{A}^{2}} \\times E_{A}=\\frac{100^{2}}{50^{2}} \\times 100=400 \\mathrm{~J} E A ​ E D ​ ​ = A A ​ 2 A D ​ 2 ​ ⇒ E D ​ = A A 2 ​ A D 2 ​ ​ × E A ​ = 5 0 2 10 0 2 ​ × 100 = 400   J"
+    },
+    {
+      "number": "15",
+      "tag": "DB 22",
+      "question": "কর্কের ঘনত্ব 0.25   ×   10 3   k g m − 3 0.25\\ \\times\\ 10^3\\ kgm^{-3} 0.25   ×   1 0 3   k g m − 3 হলে, পানিতে ভাসিয়ে দিলে তার কত শতাংশ পানির নিচে থাকবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25%",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "25%",
+      "option_b": "15%",
+      "option_c": "10%",
+      "option_d": "5%",
+      "correct": "ক",
+      "explanation": "ডুবে থাকবে, = (বস্তুর ঘনত্ব/ তরলের ঘনত্ব)X 100%. = 0.25 × 10 3 10 3 × 100 = 25 % \\begin{array}{l}=\\frac{0.25 \\times 10^{3}}{10^{3}} \\times 100 \\\\ =25 \\%\\end{array} = 1 0 3 0.25 × 1 0 3 ​ × 100 = 25% ​"
+    },
+    {
+      "number": "16",
+      "tag": "DB 22",
+      "question": "চাপের একক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "k g m − 1 s − 2 kgm^{-1}s^{-2} k g m − 1 s − 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "k g m − 2 s − 2 kgm^{-2}s^{-2} k g m − 2 s − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "k g m s − 2 kgms^{-2} k g m s − 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "k g m 2 s − 2 kgm^{2}s^{-2} k g m 2 s − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "k g m − 1 s − 2 kgm^{-1}s^{-2} k g m − 1 s − 2",
+      "option_b": "k g m − 2 s − 2 kgm^{-2}s^{-2} k g m − 2 s − 2",
+      "option_c": "k g m s − 2 kgms^{-2} k g m s − 2",
+      "option_d": "k g m 2 s − 2 kgm^{2}s^{-2} k g m 2 s − 2",
+      "correct": "ক",
+      "explanation": "চাপ p = F A p=\\frac{F}{A} p = A F ​ = ভর × ত্বরণ ক্ষেত্রফল = k g × m s − 2 m 2 = k g m − 1 s − 2 \\begin{aligned}=\\frac{ভর \\times ত্বরণ}{ক্ষেত্রফল} & =\\frac{k g \\times m s^{-2}}{m^{2}} \\\\ & =k g m^{-1} s^{-2}\\end{aligned} = ক্ষেত্রফল ভর × ত্বরণ ​ ​ = m 2 k g × m s − 2 ​ = k g m − 1 s − 2 ​"
+    },
+    {
+      "number": "17",
+      "tag": "DB 22",
+      "question": "একটি ম্যাচ বাক্সের কাঠি দিয়ে বাক্সে 3 N বলে ঘষা হলো। কাঠিটিকে 4 cm টানা হলে কাঠি ঘষতে কত শক্তি ব্যয় হলো?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.12 J",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1.2 J",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1.176 J",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12 J",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.12 J",
+      "option_b": "1.2 J",
+      "option_c": "1.176 J",
+      "option_d": "12 J",
+      "correct": "ক",
+      "explanation": "s = 4 cm = o.o4 cm  ব্যায়িত শক্তি = কাজ    ⇒ ω = F S = 3 × 0.04 = 0.12   J \\begin{aligned} \\text { ব্যায়িত শক্তি = কাজ } & \\text { } \\\\ & \\Rightarrow \\omega_{}=F S \\\\ & =3 \\times 0.04 \\\\ & =0.12 \\mathrm{~J}\\end{aligned}   ব্যায়িত   শক্তি  =  কাজ   ​   ⇒ ω ​ = FS = 3 × 0.04 = 0.12   J ​"
+    },
+    {
+      "number": "18",
+      "tag": "DB 22",
+      "question": "N m − 2 Nm^{-2} N m − 2 কোনটির একক? i. চাপ ii. পীড়ন iii. স্থিতিস্থাপক গুণাঙ্ক নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i. চাপের একক = F A =\\frac{\\mathrm{F}}{\\mathrm{A}} = A F ​ এর একক = N m 2 = N m − 2 =\\frac{\\mathrm{N}}{\\mathrm{m}^{2}}=\\mathrm{Nm}^{-2} = m 2 N ​ = Nm − 2 ii. পীড়নের একক = চাপের একক = N m − 2 =\\mathrm{Nm}^{-2} = Nm − 2 iii. স্থিতিস্থাপক গুণাঙ্কের একক =  পীড়ন   বিকৃতি  =\\frac{\\text { পীড়ন }}{\\text { বিকৃতি }} =   বিকৃতি     পীড়ন   ​ এর একক = N m − 2 1 = N m − 2 =\\frac{\\mathrm{Nm}^{-2}}{1}=\\mathrm{Nm}^{-2} = 1 Nm − 2 ​ = Nm − 2"
+    },
+    {
+      "number": "19",
+      "tag": "DB 22",
+      "question": "একটি পুকুরের গভীরতা 3 m হলে উহার তলদেশে চাপ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.94 × 10 4   P a 2.94 \\times 10^{4} \\mathrm{~Pa} 2.94 × 1 0 4   Pa",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2.9 × 10 4   P a 2.9 \\times 10^{4} \\mathrm{~Pa} 2.9 × 1 0 4   Pa",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.29 × 10 4   P a 0.29 \\times 10^{4} \\mathrm{~Pa} 0.29 × 1 0 4   Pa",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2.94 × 10 − 4   P a 2.94 \\times 10^{-4} \\mathrm{~Pa} 2.94 × 1 0 − 4   Pa",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2.94 × 10 4   P a 2.94 \\times 10^{4} \\mathrm{~Pa} 2.94 × 1 0 4   Pa",
+      "option_b": "2.9 × 10 4   P a 2.9 \\times 10^{4} \\mathrm{~Pa} 2.9 × 1 0 4   Pa",
+      "option_c": "0.29 × 10 4   P a 0.29 \\times 10^{4} \\mathrm{~Pa} 0.29 × 1 0 4   Pa",
+      "option_d": "2.94 × 10 − 4   P a 2.94 \\times 10^{-4} \\mathrm{~Pa} 2.94 × 1 0 − 4   Pa",
+      "correct": "ক",
+      "explanation": "উচ্চতা/গভীরতা = 3 m ρ = 10 3 k g m − 3 \\rho =10^{3} \\mathrm{kgm}^{-3} ρ = 1 0 3 kgm − 3 g = 9.8   m s − 2 g=9.8 \\mathrm{~ms}^{-2} g = 9.8   ms − 2 p = h ρ g h\\rho g h ρ g = = = 3 × 10 3 × 9.8 3 \\times 10^{3} \\times 9.8 3 × 1 0 3 × 9.8 & = = = 2.94 × 10 4 p a 2.94 \\times 10^{4} \\mathrm{pa} 2.94 × 1 0 4 pa &"
+    },
+    {
+      "number": "20",
+      "tag": "DB 22",
+      "question": "প্লবতা হলো- i. বস্তু কর্তৃক অপসারিত প্রবাহীর ওজন ii. লম্বি ঊর্ধ্বমুখী বল iii. V ρ g V\\rho g V ρ g নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "কোনো বস্তুকে তরল বা বায়বীয় পদার্থে নিমজ্জিত করলে বস্তুটি যে ঊর্ধ্বমুখী বল লাভ করে, তাকে প্লবতা বলে। ∴ \\therefore ∴ প্লবতা = লম্বি ঊর্ধ্বমুখী বল = বস্তু কর্তৃক অপসারিত তরলের ওজন = m g   =   V ρ g mg\\ =\\ V\\rho g m g   =   V ρ g"
+    },
+    {
+      "number": "21",
+      "tag": "DB 22",
+      "question": "টর্চলাইটে ব্যবহৃত বাল্বটি অবতল আয়নার কোথায় বসানো থাকে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ফোকাস ও মেরুর মধ্যে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফোকাস বিন্দুর বাহিরে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বক্রতার কেন্দ্রে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ফোকাস বিন্দুতে",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ফোকাস ও মেরুর মধ্যে",
+      "option_b": "ফোকাস বিন্দুর বাহিরে",
+      "option_c": "বক্রতার কেন্দ্রে",
+      "option_d": "ফোকাস বিন্দুতে",
+      "correct": "ঘ",
+      "explanation": "টর্চলাইটে ব্যবহৃত বাল্বটি অবতল আয়নার (concave mirror) ফোকাস বিন্দুতে বসানো থাকে। অবতল আয়না এমনভাবে ডিজাইন করা হয় যাতে তার ফোকাসে আলো উৎস (যেমন বাল্ব বা LED) স্থাপন করা যায়। যখন আলো উৎসটি আয়নার ফোকাস বিন্দুতে থাকে, তখন তা থেকে নিঃসৃত আলোকরশ্মি আয়নায় প্রতিফলিত হয়ে সমান্তরাল রশ্মিতে সামনে ছড়িয়ে পড়ে। এর ফলে একটি দূর পর্যন্ত পৌঁছানো শক্তিশালী, সোজা আলোকরশ্মি পাওয়া যায় — যা টর্চলাইটের মূল উদ্দেশ্য।"
+    },
+    {
+      "number": "22",
+      "tag": "DB 22,JB 21,RB 19",
+      "question": "দর্পণ হতে 50 cm দূরে বস্তু রাখলে 50cm দূরেই বাস্তব বিম্ব পাওয়া যায়। দর্পণটির ফোকাস দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.25m",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0.50m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1.00m",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2.50m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.25m",
+      "option_b": "0.50m",
+      "option_c": "1.00m",
+      "option_d": "2.50m",
+      "correct": "ক",
+      "explanation": "যদি , u=V=50 cm হয়, 1 f = 1 u + 1 v \\frac{1}{f}=\\frac{1}{u}+\\frac{1}{v} f 1 ​ = u 1 ​ + v 1 ​ ⇒ 1 f \\Rightarrow \\frac{1}{f} ⇒ f 1 ​ = 1 50 + 1 50 =\\frac{1}{50}+\\frac{1}{50} = 50 1 ​ + 50 1 ​ ⇒ 1 f = 2 50 \\Rightarrow \\frac{1}{f}=\\frac{2}{50} ⇒ f 1 ​ = 50 2 ​ ∴ f \\therefore f ∴ f = 25   c m = 0.25   c m =25 \\mathrm{~cm}=0.25 \\mathrm{~cm} = 25   cm = 0.25   cm"
+    },
+    {
+      "number": "23",
+      "tag": "DB 22",
+      "question": "একটি সমতল দর্পণের 10 সে.মি. সামনে লক্ষ্যবস্তু স্থাপন করলে প্রতিবিম্বটি লক্ষ্যবস্তু থেকে কত সে.মি. দূরে গঠিত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "20",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "5",
+      "option_c": "10",
+      "option_d": "20",
+      "correct": "ঘ",
+      "explanation": "সমতল দর্পণের ক্ষেত্রে, দর্পণ থেকে লক্ষ্যবস্তুর দূরত্ব = দর্পণ থেকে প্রতিবিম্বের দূরত্ব = 10 cm. ∴ \\therefore ∴ লক্ষ্যবস্তু থেকে প্রতিবিম্বের দূরত্ব = ( 10 + 10 ) c m = 20 c m =(10+10)cm=20cm = ( 10 + 10 ) c m = 20 c m"
+    },
+    {
+      "number": "24",
+      "tag": "DB 22",
+      "question": "বর্তনীটির তুল্যরোধ কত ওহম?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "ঘ",
+      "explanation": "এখানে, R 1 \\mathrm{R}_{1} R 1 ​ -ও R 2 \\mathrm{R}_{2} R 2 ​ রোধদ্বয় সমান্তরালে যুক্ত থাকায় তুল্যরোধ R p \\mathrm{R}_{\\mathrm{p}} R p ​ হলে, 1 R P = 1 R 1 + 1 R 2 = 1 3 + 1 6 = 1 2 \\frac{1}{\\mathrm{R}_{\\mathrm{P}}}=\\frac{1}{\\mathrm{R}_{1}}+\\frac{1}{\\mathrm{R}_{2}}=\\frac{1}{3}+\\frac{1}{6}=\\frac{1}{2} R P ​ 1 ​ = R 1 ​ 1 ​ + R 2 ​ 1 ​ = 3 1 ​ + 6 1 ​ = 2 1 ​ বা, R P = 2 Ω \\mathrm{R}_{\\mathrm{P}}=2 \\Omega R P ​ = 2Ω সুতরাং, বর্তনীর তুল্যরোধ, R e q = R P + R 3 = 2 + 4 = 6 Ω \\mathrm{R}_{\\mathrm{eq}}=\\mathrm{R}_{\\mathrm{P}}+\\mathrm{R}_{3}=2+4=6 \\Omega R eq ​ = R P ​ + R 3 ​ = 2 + 4 = 6Ω"
+    },
+    {
+      "number": "25",
+      "tag": "DB 22",
+      "question": "নিচের কোন সম্পর্কটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "I 1 = I 2 \\mathrm{I}_{1}=\\mathrm{I}_{2} I 1 ​ = I 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "I 2 > I 3 \\mathrm{I}_{2}>\\mathrm{I}_{3} I 2 ​ > I 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "I 1 + I 2 = I 3 \\mathrm{I}_{1}+\\mathrm{I}_{2}=\\mathrm{I}_{3} I 1 ​ + I 2 ​ = I 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "I 1 > I 3 \\mathrm{I}_{1}>\\mathrm{I}_{3} I 1 ​ > I 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "I 1 = I 2 \\mathrm{I}_{1}=\\mathrm{I}_{2} I 1 ​ = I 2 ​",
+      "option_b": "I 2 > I 3 \\mathrm{I}_{2}>\\mathrm{I}_{3} I 2 ​ > I 3 ​",
+      "option_c": "I 1 + I 2 = I 3 \\mathrm{I}_{1}+\\mathrm{I}_{2}=\\mathrm{I}_{3} I 1 ​ + I 2 ​ = I 3 ​",
+      "option_d": "I 1 > I 3 \\mathrm{I}_{1}>\\mathrm{I}_{3} I 1 ​ > I 3 ​",
+      "correct": "গ",
+      "explanation": "বর্তনীর মূল প্রবাহ, I = E R e q = 20 6 = 10 3   A \\mathrm{I}=\\frac{\\mathrm{E}}{\\mathrm{R}_{\\mathrm{eq}}}=\\frac{20}{6}=\\frac{10}{3} \\mathrm{~A} I = R eq ​ E ​ = 6 20 ​ = 3 10 ​   A R 3 \\mathrm{R}_{3} R 3 ​ এর প্রবাহ, I 3 = I = 10 3   A \\mathrm{I}_{3}=\\mathrm{I}=\\frac{10}{3} \\mathrm{~A} I 3 ​ = I = 3 10 ​   A V A B = I R p = 10 3 × 2 = 20 3   V V_{A B}=I R_{p}=\\frac{10}{3} \\times 2=\\frac{20}{3} \\mathrm{~V} V A B ​ = I R p ​ = 3 10 ​ × 2 = 3 20 ​   V ∴ I 1 = V A B 3 = 20 3 3 = 20 9 A ′ \\therefore I_{1}=\\frac{V_{\\mathrm{AB}}}{3}=\\frac{\\frac{20}{3}}{3}=\\frac{20}{9} A^{\\prime} ∴ I 1 ​ = 3 V AB ​ ​ = 3 3 20 ​ ​ = 9 20 ​ A ′ এবং I 2 = V A B 6 = 20 3 6 = 10 9 A I_{2}=\\frac{V_{A B}}{6}=\\frac{\\frac{20}{3}}{6}=\\frac{10}{9} A I 2 ​ = 6 V A B ​ ​ = 6 3 20 ​ ​ = 9 10 ​ A ∴ I 1 + I 2 = 20 9 + 10 9 = 30 9 = 10 3   A = I 3 \\therefore \\mathrm{I}_{1}+\\mathrm{I}_{2}=\\frac{20}{9}+\\frac{10}{9}=\\frac{30}{9}=\\frac{10}{3} \\mathrm{~A}=\\mathrm{I}_{3} ∴ I 1 ​ + I 2 ​ = 9 20 ​ + 9 10 ​ = 9 30 ​ = 3 10 ​   A = I 3 ​"
+    }
+  ]
+}

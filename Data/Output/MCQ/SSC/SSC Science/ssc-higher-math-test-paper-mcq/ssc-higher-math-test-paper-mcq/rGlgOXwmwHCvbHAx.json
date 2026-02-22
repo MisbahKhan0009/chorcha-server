@@ -1,0 +1,832 @@
+{
+  "read_id": "rGlgOXwmwHCvbHAx",
+  "title": "জয়পুরহাট গার্লস ক্যাডেট কলেজ ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JGCC 25",
+      "question": "নিচের কোনটি অপ্রকৃত ভগ্নাংশ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x 2 x + 1 \\frac{x}{2x+1} 2 x + 1 x ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 5 x + 2 \\frac{3}{5x+2} 5 x + 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 x + 1 ( x + 1 ) ( x + 2 ) \\frac{2x+1}{(x+1)(x+2)} ( x + 1 ) ( x + 2 ) 2 x + 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 x + 2 ( x − 1 ) ( x − 3 ) \\frac{3x+2}{(x-1)(x-3)} ( x − 1 ) ( x − 3 ) 3 x + 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x 2 x + 1 \\frac{x}{2x+1} 2 x + 1 x ​",
+      "option_b": "3 5 x + 2 \\frac{3}{5x+2} 5 x + 2 3 ​",
+      "option_c": "2 x + 1 ( x + 1 ) ( x + 2 ) \\frac{2x+1}{(x+1)(x+2)} ( x + 1 ) ( x + 2 ) 2 x + 1 ​",
+      "option_d": "3 x + 2 ( x − 1 ) ( x − 3 ) \\frac{3x+2}{(x-1)(x-3)} ( x − 1 ) ( x − 3 ) 3 x + 2 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "JGCC 25",
+      "question": "x 2 y 2 + y 2 z 2 + z 2 x 2 \\frac{x^2}{y^2} + \\frac{y^2}{z^2} + \\frac{z^2}{x^2} y 2 x 2 ​ + z 2 y 2 ​ + x 2 z 2 ​ বীজগাণিতিক রাশিটি- i. চক্রক্রমিক ii. প্রতিসম iii. সমমাত্রিক নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "JGCC 25",
+      "question": "যদি P ( x ) = x 2 + 6 x + 5 P(x) = x^2 + 6x + 5 P ( x ) = x 2 + 6 x + 5 কে ( x + 7 ) (x+7) ( x + 7 ) দ্বারা ভাগ করা হয়, তবে P ( x ) P(x) P ( x ) এর ভাগশেষ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "P(-2)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "P(-1)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "P(1)",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "P(2)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "P(-2)",
+      "option_b": "P(-1)",
+      "option_c": "P(1)",
+      "option_d": "P(2)",
+      "correct": "গ",
+      "explanation": "P(x) = x² + 6x + 5 কে (x + 7) দ্বারা ভাগ করলে ভাগশেষ হবে P(-7)=(-7)²+6(-7)+5=49-42+5=12 আবার, P(1) = 1²+ 6 × 1+5=1+6+5=12"
+    },
+    {
+      "number": "4",
+      "tag": "JGCC 25",
+      "question": "যদি U n = 1 n U_n = \\frac{1}{n} U n ​ = n 1 ​ এবং U n > 10 − 5 U_n > 10^{-5} U n ​ > 1 0 − 5 হয় তবে— i. 1 5 n > 1 10 \\frac{1}{5\\sqrt{n}} > \\frac{1}{10} 5 n ​ 1 ​ > 10 1 ​ ii. n < 10 5 n < 10^5 n < 1 0 5 iii. n > 10 5 n > 10^5 n > 1 0 5 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "U n > 10 − 5 U_n > 10^{-5} U n ​ > 1 0 − 5 বা, 1 n > 1 10 5 \\frac{1}{n} > \\frac{1}{10^5} n 1 ​ > 1 0 5 1 ​ ∴ \\therefore ∴ n < 10 5 n < 10^5 n < 1 0 5 আবার, 1 n > 1 10 5 \\frac{1}{n} > \\frac{1}{10^5} n 1 ​ > 1 0 5 1 ​ বা, ( 1 n ) 1 5 > 1 10 (\\frac{1}{n})^{\\frac{1}{5}} > \\frac{1}{10} ( n 1 ​ ) 5 1 ​ > 10 1 ​ ∴ \\therefore ∴ 1 n 5 > 1 10 \\frac{1}{\\sqrt[5]{n}} > \\frac{1}{10} 5 n ​ 1 ​ > 10 1 ​ ∴ \\therefore ∴ (iii) নং তথ্যটি সঠিক নয়।"
+    },
+    {
+      "number": "5",
+      "tag": "JGCC 25",
+      "question": "1 + 2 3 + 4 3 + 8 3 3 + 16 9 + . . . . . . . . . . . . 1 + \\frac{2}{\\sqrt{3}} + \\frac{4}{3} + \\frac{8}{3\\sqrt{3}} + \\frac{16}{9} + ............ 1 + 3 ​ 2 ​ + 3 4 ​ + 3 3 ​ 8 ​ + 9 16 ​ + ............ ধারাটির সাধারণ অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 − 2 \\sqrt{3}-2 3 ​ − 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 − 3 2-\\sqrt{3} 2 − 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3 − 2 \\sqrt{3}-2 3 ​ − 2",
+      "option_b": "2 − 3 2-\\sqrt{3} 2 − 3 ​",
+      "option_c": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+      "option_d": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "JGCC 25",
+      "question": "( − 1 ) n + 1 + 1 2 \\frac{(-1)^{n+1}+1}{2} 2 ( − 1 ) n + 1 + 1 ​ সাধারণ পদ বিশিষ্ট ধারাটির 18 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "-1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "1",
+      "option_c": "0",
+      "option_d": "-1",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "JGCC 25",
+      "question": "যদি sin ⁡ ( π 2 + θ ) + cos ⁡ ( π 2 + θ ) = 1 \\sin \\left( \\frac{\\pi}{2} + \\theta \\right) + \\cos \\left( \\frac{\\pi}{2} + \\theta \\right) = 1 sin ( 2 π ​ + θ ) + cos ( 2 π ​ + θ ) = 1 হয় তবে— i. θ = 0 ∘ \\theta = 0^{\\circ} θ = 0 ∘ ii. θ = 180 ∘ \\theta = 180^{\\circ} θ = 18 0 ∘ iii. θ = 270 ∘ \\theta = 270^{\\circ} θ = 27 0 ∘ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "sin ⁡ ( π 2 + θ ) + cos ⁡ ( π 2 + θ ) = 1 \\sin (\\frac{\\pi}{2}+\\theta) + \\cos (\\frac{\\pi}{2}+\\theta)=1 sin ( 2 π ​ + θ ) + cos ( 2 π ​ + θ ) = 1 বা, cos ⁡ θ – sin ⁡ θ = 1 \\cos\\theta – \\sin\\theta = 1 cos θ – sin θ = 1 θ = 180 ∘ \\theta = 180^\\circ θ = 18 0 ∘ হলে, cos ⁡ θ = − 1 \\cos\\theta = -1 cos θ = − 1 , sin ⁡ θ = 0 \\sin\\theta = 0 sin θ = 0 ∴ \\therefore ∴ (ii) নং তথ্যটি সঠিক নয়"
+    },
+    {
+      "number": "8",
+      "tag": "JGCC 25",
+      "question": "যদি cos ⁡ ( θ − π 2 ) = 3 2 \\cos \\left( \\theta - \\frac{\\pi}{2} \\right) = \\frac{\\sqrt{3}}{2} cos ( θ − 2 π ​ ) = 2 3 ​ ​ হয়, তবে cosec θ \\text{cosec}\\theta cosec θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 2 3 -\\frac{2}{\\sqrt{3}} − 3 ​ 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 3 2 -\\frac{\\sqrt{3}}{2} − 2 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 2 3 -\\frac{2}{\\sqrt{3}} − 3 ​ 2 ​",
+      "option_b": "− 3 2 -\\frac{\\sqrt{3}}{2} − 2 3 ​ ​",
+      "option_c": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+      "option_d": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+      "correct": "ঘ",
+      "explanation": "cos ⁡ ( θ − π 2 ) = 3 2 \\cos (\\theta-\\frac{\\pi}{2})=\\frac{\\sqrt{3}}{2} cos ( θ − 2 π ​ ) = 2 3 ​ ​ বা, cos ⁡ { − ( π 2 − θ ) } = 3 2 \\cos \\{-(\\frac{\\pi}{2}-\\theta)\\} = \\frac{\\sqrt{3}}{2} cos { − ( 2 π ​ − θ )} = 2 3 ​ ​ বা, cos ⁡ ( π 2 − θ ) = 3 2 \\cos (\\frac{\\pi}{2}-\\theta)=\\frac{\\sqrt{3}}{2} cos ( 2 π ​ − θ ) = 2 3 ​ ​ বা, sin ⁡ θ = 3 2 \\sin\\theta = \\frac{\\sqrt{3}}{2} sin θ = 2 3 ​ ​ ∴ \\therefore ∴ cosec θ = 2 3 \\text{cosec}\\theta = \\frac{2}{\\sqrt{3}} cosec θ = 3 ​ 2 ​"
+    },
+    {
+      "number": "9",
+      "tag": "JGCC 25",
+      "question": "চিত্রে ABC একটি সমকোণী ত্রিভুজ। যদি A C = 2 a AC = \\sqrt{2}a A C = 2 ​ a হয়, তবে sin ⁡ A + cos ⁡ A \\sin A + \\cos A sin A + cos A এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "a 2 \\frac{a}{\\sqrt{2}} 2 ​ a ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 a \\sqrt{2}a 2 ​ a",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+      "option_b": "2 \\sqrt{2} 2 ​",
+      "option_c": "a 2 \\frac{a}{\\sqrt{2}} 2 ​ a ​",
+      "option_d": "2 a \\sqrt{2}a 2 ​ a",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "JGCC 25",
+      "question": "চিত্রে ABC একটি সমকোণী ত্রিভুজ। যদি A C = b AC = b A C = b হয়, তবে sec ⁡ ( π 2 − A ) + cosec ⁡ ( π 2 − C ) \\sec \\left( \\frac{\\pi}{2} - A \\right) + \\cosec \\left( \\frac{\\pi}{2} - C \\right) sec ( 2 π ​ − A ) + cosec ( 2 π ​ − C ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 a b 2 − a 2 \\frac{2a}{\\sqrt{b^2-a^2}} b 2 − a 2 ​ 2 a ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 b 2 − a 2 a \\frac{2\\sqrt{b^2-a^2}}{a} a 2 b 2 − a 2 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 b a \\frac{2b}{a} a 2 b ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2 b 2 − a 2 b \\frac{2\\sqrt{b^2-a^2}}{b} b 2 b 2 − a 2 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 a b 2 − a 2 \\frac{2a}{\\sqrt{b^2-a^2}} b 2 − a 2 ​ 2 a ​",
+      "option_b": "2 b 2 − a 2 a \\frac{2\\sqrt{b^2-a^2}}{a} a 2 b 2 − a 2 ​ ​",
+      "option_c": "2 b a \\frac{2b}{a} a 2 b ​",
+      "option_d": "2 b 2 − a 2 b \\frac{2\\sqrt{b^2-a^2}}{b} b 2 b 2 − a 2 ​ ​",
+      "correct": "গ",
+      "explanation": "sec ⁡ ( π 2 − A ) + cosec ( π 2 − C ) \\sec(\\frac{\\pi}{2}-A)+\\text{cosec}(\\frac{\\pi}{2}-C) sec ( 2 π ​ − A ) + cosec ( 2 π ​ − C ) = cosecA + secC =\\text{cosecA} + \\text{secC} = cosecA + secC = A C B C + A C B C = b a + b a = 2 b a =\\frac{AC}{BC}+\\frac{AC}{BC} = \\frac{b}{a} + \\frac{b}{a} = \\frac{2b}{a} = BC A C ​ + BC A C ​ = a b ​ + a b ​ = a 2 b ​"
+    },
+    {
+      "number": "11",
+      "tag": "JGCC 25",
+      "question": "দুইটি নিরপেক্ষ মুদ্রা ও একটি ছক্কা একত্রে নিক্ষেপ করা হলে, মোট কতগুলো নমুনা বিন্দু পাওয়া যাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "36",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "64",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12",
+      "option_b": "24",
+      "option_c": "36",
+      "option_d": "64",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "JGCC 25",
+      "question": "একটি ছক্কা নিক্ষেপে 7 পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "JGCC 25",
+      "question": "একটি নিরপেক্ষ মুদ্রা একবার নিক্ষেপ করলে হেড অথবা টেইল পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "1",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "JGCC 25",
+      "question": "f ( x ) = − e − 2 x + 3 f(x) = -e^{-2x+3} f ( x ) = − e − 2 x + 3 ফাংশনের রেঞ্জ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "R \\mathbb{R} R",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( − ∞ , 0 ) (-\\infty, 0) ( − ∞ , 0 )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( 0 , ∞ ) (0, \\infty) ( 0 , ∞ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "R − { 3 2 } \\mathbb{R} - \\{ \\frac{3}{2} \\} R − { 2 3 ​ }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "R \\mathbb{R} R",
+      "option_b": "( − ∞ , 0 ) (-\\infty, 0) ( − ∞ , 0 )",
+      "option_c": "( 0 , ∞ ) (0, \\infty) ( 0 , ∞ )",
+      "option_d": "R − { 3 2 } \\mathbb{R} - \\{ \\frac{3}{2} \\} R − { 2 3 ​ }",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "JGCC 25",
+      "question": "ln ⁡ e y + e ln ⁡ y \\ln e^y + e^{\\ln y} ln e y + e l n y এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 y 2y 2 y",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "y 2 y^2 y 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 y 2y 2 y",
+      "option_b": "y 2 y^2 y 2",
+      "option_c": "1",
+      "option_d": "0",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "JGCC 25",
+      "question": "5 a ⃗ − 3 b ⃗ 5\\vec{a} - 3\\vec{b} 5 a − 3 b এর সমান্তরাল ভেক্টর নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 a ⃗ − 5 b ⃗ 3\\vec{a} - 5\\vec{b} 3 a − 5 b",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 a ⃗ + 5 b ⃗ 3\\vec{a} + 5\\vec{b} 3 a + 5 b",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 a ⃗ + 6 b ⃗ 5\\vec{a} + 6\\vec{b} 5 a + 6 b",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 10 a ⃗ + 6 b ⃗ -10\\vec{a} + 6\\vec{b} − 10 a + 6 b",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3 a ⃗ − 5 b ⃗ 3\\vec{a} - 5\\vec{b} 3 a − 5 b",
+      "option_b": "3 a ⃗ + 5 b ⃗ 3\\vec{a} + 5\\vec{b} 3 a + 5 b",
+      "option_c": "5 a ⃗ + 6 b ⃗ 5\\vec{a} + 6\\vec{b} 5 a + 6 b",
+      "option_d": "− 10 a ⃗ + 6 b ⃗ -10\\vec{a} + 6\\vec{b} − 10 a + 6 b",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "JGCC 25",
+      "question": "a ⃗ , b ⃗ , c ⃗ ও d ⃗ {\\vec{a} , \\vec{b} ,\\vec{c} ও \\vec{d}} a , b , c ও d যথাক্রমে A, B, C ও D এর অবস্থান ভেক্টর যদি E বিন্দু AB কে 2: 5 অনুপাতে বহির্বিভক্ত করে, তবে E বিন্দুর অবস্থান ভেক্টর কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 a ⃗ + 5 b ⃗ 5 \\frac{2\\vec{a} + 5\\vec{b}}{5} 5 2 a + 5 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 a ⃗ + 2 b ⃗ 5 \\frac{5\\vec{a} + 2\\vec{b}}{5} 5 5 a + 2 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5 a ⃗ − 2 b ⃗ 3 \\frac{5\\vec{a} - 2\\vec{b}}{3} 3 5 a − 2 b ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2 a ⃗ − 5 b ⃗ 3 \\frac{2\\vec{a} - 5\\vec{b}}{3} 3 2 a − 5 b ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 a ⃗ + 5 b ⃗ 5 \\frac{2\\vec{a} + 5\\vec{b}}{5} 5 2 a + 5 b ​",
+      "option_b": "5 a ⃗ + 2 b ⃗ 5 \\frac{5\\vec{a} + 2\\vec{b}}{5} 5 5 a + 2 b ​",
+      "option_c": "5 a ⃗ − 2 b ⃗ 3 \\frac{5\\vec{a} - 2\\vec{b}}{3} 3 5 a − 2 b ​",
+      "option_d": "2 a ⃗ − 5 b ⃗ 3 \\frac{2\\vec{a} - 5\\vec{b}}{3} 3 2 a − 5 b ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "JGCC 25",
+      "question": "a ⃗ , b ⃗ , c ⃗ ও d ⃗ {\\vec{a} , \\vec{b} ,\\vec{c} ও \\vec{d}} a , b , c ও d যথাক্রমে A, B, C ও D এর অবস্থান ভেক্টর যদি P ও Q যথাক্রমে AC ও BD এর মধ্যবিন্দু হয়, তবে P Q ⃗ = ? \\vec{PQ} = ? PQ ​ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a ⃗ + b ⃗ + c ⃗ + d ⃗ 2 \\frac{\\vec{a} + \\vec{b} + \\vec{c} + \\vec{d}}{2} 2 a + b + c + d ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a ⃗ − b ⃗ + c ⃗ + d ⃗ 2 \\frac{\\vec{a} - \\vec{b} + \\vec{c} + \\vec{d}}{2} 2 a − b + c + d ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− a ⃗ + b ⃗ + c ⃗ − d ⃗ 2 \\frac{-\\vec{a} + \\vec{b} + \\vec{c} - \\vec{d}}{2} 2 − a + b + c − d ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a ⃗ − b ⃗ − c ⃗ − d ⃗ 2 \\frac{\\vec{a} - \\vec{b} - \\vec{c} - \\vec{d}}{2} 2 a − b − c − d ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a ⃗ + b ⃗ + c ⃗ + d ⃗ 2 \\frac{\\vec{a} + \\vec{b} + \\vec{c} + \\vec{d}}{2} 2 a + b + c + d ​",
+      "option_b": "a ⃗ − b ⃗ + c ⃗ + d ⃗ 2 \\frac{\\vec{a} - \\vec{b} + \\vec{c} + \\vec{d}}{2} 2 a − b + c + d ​",
+      "option_c": "− a ⃗ + b ⃗ + c ⃗ − d ⃗ 2 \\frac{-\\vec{a} + \\vec{b} + \\vec{c} - \\vec{d}}{2} 2 − a + b + c − d ​",
+      "option_d": "a ⃗ − b ⃗ − c ⃗ − d ⃗ 2 \\frac{\\vec{a} - \\vec{b} - \\vec{c} - \\vec{d}}{2} 2 a − b − c − d ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "JGCC 25",
+      "question": "b log ⁡ b a − a log ⁡ a b b^{\\log_b a} - a^{\\log_a b} b l o g b ​ a − a l o g a ​ b এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a − b a-b a − b",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "a b ab ab",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a b \\frac{a}{b} b a ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a + b a+b a + b",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a − b a-b a − b",
+      "option_b": "a b ab ab",
+      "option_c": "a b \\frac{a}{b} b a ​",
+      "option_d": "a + b a+b a + b",
+      "correct": "ক",
+      "explanation": "লগারিদমের ক্ষেত্রে সংজ্ঞায়িত যেকোনো বাস্তব সংখ্যা m ও p এর জন্য, p log ⁡ p m = m p^{\\log_p m} = m p l o g p ​ m = m তাহলে, b log ⁡ b a = a b^{\\log_b a} = a b l o g b ​ a = a এবং, a log ⁡ a b = b a^{\\log_a b} = b a l o g a ​ b = b ∴ \\therefore ∴ b log ⁡ b a − a log ⁡ a b = a − b b^{\\log_b a} - a^{\\log_a b} = a - b b l o g b ​ a − a l o g a ​ b = a − b"
+    },
+    {
+      "number": "20",
+      "tag": "JGCC 25",
+      "question": "F ( x ) = x ∣ x ∣ − 3 F(x) = \\frac{x}{|x|} -3 F ( x ) = ∣ x ∣ x ​ − 3 ফাংশনের রেঞ্জ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "R ∖ { 0 } \\mathbb{R} \\setminus \\{0\\} R ∖ { 0 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( − 4 , − 2 ) (-4, -2) ( − 4 , − 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ − 4 , − 2 {-4, -2} − 4 , − 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "( − ∞ , 0 ) (-\\infty, 0) ( − ∞ , 0 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "R ∖ { 0 } \\mathbb{R} \\setminus \\{0\\} R ∖ { 0 }",
+      "option_b": "( − 4 , − 2 ) (-4, -2) ( − 4 , − 2 )",
+      "option_c": "{ − 4 , − 2 {-4, -2} − 4 , − 2 }",
+      "option_d": "( − ∞ , 0 ) (-\\infty, 0) ( − ∞ , 0 )",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "JGCC 25",
+      "question": "যদি 9 C r + 1 = 9 C r − 2 ^9C_{r+1} = ^9C_{r-2} 9 C r + 1 ​ = 9 C r − 2 ​ হয়, তবে r এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "5",
+      "option_c": "7",
+      "option_d": "9",
+      "correct": "খ",
+      "explanation": "এখানে, n C x = n C y ^{n}C_{x} = ^{n}C_{y} n C x ​ = n C y ​ হলে, n = x + y n = x+y n = x + y n C r + 1 = n C r − 2 ^{n}C_{r+1} = ^{n}C_{r-2} n C r + 1 ​ = n C r − 2 ​ হলে, r + 1 + r − 2 = 9 r+1+r-2=9 r + 1 + r − 2 = 9 বা, 2 r − 1 = 9 2r-1=9 2 r − 1 = 9 বা, 2 r = 10 ∴ r = 5 2r = 10 \\therefore r=5 2 r = 10 ∴ r = 5"
+    },
+    {
+      "number": "22",
+      "tag": "JGCC 25",
+      "question": "( x + 1 x ) 4 n \\left( x + \\frac{1}{x} \\right)^{4n} ( x + x 1 ​ ) 4 n এর বিস্তৃতিতে ( r + 1 ) (r+1) ( r + 1 ) তম পদ x x x মুক্ত হলে, r r r এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "n 2 \\frac{n}{2} 2 n ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "n n n",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 n 2n 2 n",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "n 2 \\frac{n}{2} 2 n ​",
+      "option_c": "n n n",
+      "option_d": "2 n 2n 2 n",
+      "correct": "ঘ",
+      "explanation": "( x + 1 x ) 4 n \\left(x+\\frac{1}{x}\\right)^{4n} ( x + x 1 ​ ) 4 n এর বিস্তৃতিতে ( r + 1 ) (r+1) ( r + 1 ) তম পদ = 4 n C r x 4 n − r ( 1 x ) r = ^{4n}C_{r} x^{4n-r} \\left(\\frac{1}{x}\\right)^{r} = 4 n C r ​ x 4 n − r ( x 1 ​ ) r = 4 n C r x 4 n − 2 r = ^{4n}C_{r} x^{4n-2r} = 4 n C r ​ x 4 n − 2 r শর্তমতে, 4 n − 2 r = 0 4n - 2r = 0 4 n − 2 r = 0 বা, 2 r = 4 n ∴ r = 2 n 2r=4n \\therefore r=2n 2 r = 4 n ∴ r = 2 n"
+    },
+    {
+      "number": "23",
+      "tag": "JGCC 25",
+      "question": "যদি ( 2 , 0 ) , ( 0 , 2 ) , ( − 2 , 0 ) (2, 0), (0, 2), (-2, 0) ( 2 , 0 ) , ( 0 , 2 ) , ( − 2 , 0 ) ও ( 0 , − 2 ) (0, -2) ( 0 , − 2 ) কোনো চতুর্ভুজের চারটি শীর্ষবিন্দু হয়, তবে চতুর্ভুজের ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 2 2\\sqrt{2} 2 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 2 2\\sqrt{2} 2 2 ​",
+      "option_b": "8",
+      "option_c": "12",
+      "option_d": "16",
+      "correct": "খ",
+      "explanation": "( 2 , 0 ) , ( 0 , 2 ) ( − 2 , 0 ) (2,0), (0, 2) (-2, 0) ( 2 , 0 ) , ( 0 , 2 ) ( − 2 , 0 ) ও ( 0 , − 2 ) (0, -2) ( 0 , − 2 ) শীর্ষবিশিষ্ট চতুর্ভুজের ক্ষেত্রফল = 1 2 ∣ 2 0 − 2 0 2 0 2 0 − 2 0 ∣ = \\frac{1}{2} \\begin{vmatrix} 2 & 0 & -2 & 0 & 2 \\\\ 0 & 2 & 0 & -2 & 0 \\end{vmatrix} = 2 1 ​ ​ 2 0 ​ 0 2 ​ − 2 0 ​ 0 − 2 ​ 2 0 ​ ​ বর্গ একক = 1 2 { ( 4 + 0 + 4 + 0 ) − ( 0 − 4 + 0 − 4 ) } = \\frac{1}{2} \\{(4+0+4+0)-(0-4+0-4)\\} = 2 1 ​ {( 4 + 0 + 4 + 0 ) − ( 0 − 4 + 0 − 4 )} বর্গ একক = 1 2 { 8 − ( − 8 ) } = 1 2 ( 8 + 8 ) = 1 2 × 16 = 8 = \\frac{1}{2} \\{8-(-8)\\} = \\frac{1}{2} (8+8) = \\frac{1}{2} \\times 16 = 8 = 2 1 ​ { 8 − ( − 8 )} = 2 1 ​ ( 8 + 8 ) = 2 1 ​ × 16 = 8 বর্গ একক"
+    },
+    {
+      "number": "24",
+      "tag": "JGCC 25",
+      "question": "নিচের চিত্রের আলোকে (২৪ ও ২৫) নং প্রশ্নের উত্তর দাও: 4 x − 3 y = 24 4x - 3y = 24 4 x − 3 y = 24 সমীকরণটি x x x -অক্ষ ও y y y -অক্ষকে যথাক্রমে A ও B বিন্দুতে ছেদ করে। 24.1. A B AB A B এর দূরত্ব কত একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5",
+      "option_b": "6",
+      "option_c": "8",
+      "option_d": "10",
+      "correct": "ঘ",
+      "explanation": "4 x − 3 y = 24 4x - 3y = 24 4 x − 3 y = 24 বা, 4 x 24 − 3 y 24 = 1 ∴ x 6 + y − 8 = 1 \\frac{4x}{24} - \\frac{3y}{24} = 1 \\therefore \\frac{x}{6} + \\frac{y}{-8} = 1 24 4 x ​ − 24 3 y ​ = 1 ∴ 6 x ​ + − 8 y ​ = 1 আমরা জানি, x a + y b = 1 \\frac{x}{a} + \\frac{y}{b} = 1 a x ​ + b y ​ = 1 সরলরেখাটির অক্ষদ্বয় দ্বারা খন্ডিত অংশের দৈর্ঘ্য = a 2 + b 2 = \\sqrt{a^{2} + b^{2}} = a 2 + b 2 ​ একক ∴ A B = ( 6 ) 2 + ( − 8 ) 2 = 36 + 64 = 10 \\therefore AB = \\sqrt{(6)^{2} + (-8)^{2}} = \\sqrt{36 + 64} = 10 ∴ A B = ( 6 ) 2 + ( − 8 ) 2 ​ = 36 + 64 ​ = 10 একক"
+    },
+    {
+      "number": "25",
+      "tag": "JGCC 25",
+      "question": "নিচের চিত্রের আলোকে (২৪ ও ২৫) নং প্রশ্নের উত্তর দাও: 4 x − 3 y = 24 4x - 3y = 24 4 x − 3 y = 24 সমীকরণটি x x x -অক্ষ ও y y y -অক্ষকে যথাক্রমে A ও B বিন্দুতে ছেদ করে। 25.1. সরলরেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তার ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6",
+      "option_b": "12",
+      "option_c": "16",
+      "option_d": "24",
+      "correct": "ঘ",
+      "explanation": "আমরা জানি, x a + y b = 1 \\frac{x}{a} + \\frac{y}{b} = 1 a x ​ + b y ​ = 1 সরলরেখা অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তার ক্ষেত্রফল = 1 2 ∣ a b ∣ = \\frac{1}{2} |ab| = 2 1 ​ ∣ ab ∣ বর্গ একক। ∴ \\therefore ∴ সরলরেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তার ক্ষেত্রফল = 1 2 ∣ 6 × ( − 8 ) ∣ = 24 = \\frac{1}{2} |6 \\times (-8)| = 24 = 2 1 ​ ∣6 × ( − 8 ) ∣ = 24 বর্গ একক"
+    }
+  ]
+}

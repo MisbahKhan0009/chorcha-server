@@ -1,0 +1,832 @@
+{
+  "read_id": "NSJHzrgBH606JzRy",
+  "title": "গবর্নমেন্ট ল্যাবরেটরি হাই স্কুল, ঢাকা ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CB 24,GLSC 24",
+      "question": "নিচের কোনটি ডেটাবেজ প্রোগ্রাম?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ম্যাক্রো",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ডিবিএমএস",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ফর্ম",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্যারাডক্স",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ম্যাক্রো",
+      "option_b": "ডিবিএমএস",
+      "option_c": "ফর্ম",
+      "option_d": "প্যারাডক্স",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "JB 24,GLSC 24,RCPC 24",
+      "question": "DBMS এর পূর্ণ রূপ কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Database Management System",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Database Migration System",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Database Minimization System",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Database Matrix Sysetm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Database Management System",
+      "option_b": "Database Migration System",
+      "option_c": "Database Minimization System",
+      "option_d": "Database Matrix Sysetm",
+      "correct": "ক",
+      "explanation": "DBMS এর পূর্ণ রূপ হলো Database Management System. Database Management System (DBMS) হলো একটি সফটওয়্যার যা ডেটাবেসের পরিচালনা করে এবং ব্যবহারকারীর সাথে ডেটাবেসের সাথে যোগাযোগ করে।"
+    },
+    {
+      "number": "3",
+      "tag": "CB 24,GLSC 24",
+      "question": "সিস্টেম অত্যন্ত গরম হয়ে অস্বাভাবিকভাবে কম্পিউটার বন্ধ হয়ে গেলে- i. কেসিংটি খোলতে হবে ii. মাদারবোর্ড থেকে প্রসেসর ফ্যানটি সরাতে হবে iii. নতুন র‍্যাম লাগাতে হবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "i. কেসিংটি খোলা: সিস্টেমের ভেতরে জমে থাকা গরম বাতাস বের করে দেওয়া এবং ভেতরের অবস্থা (ধুলোবালি বা ফ্যান ঘুরছে কি না) দেখার জন্য প্রথমে কেসিং খোলা জরুরি। ii. প্রসেসর ফ্যান সরানো: প্রসেসর এবং ফ্যান বা হিটসিংকের মাঝে যদি ধুলো জমে বা থার্মাল পেস্ট শুকিয়ে যায়, তবে প্রসেসর দ্রুত গরম হয়ে যায়। তাই ফ্যানটি সরিয়ে পরিষ্কার করা বা নতুন করে থার্মাল পেস্ট লাগানো একটি কার্যকর সমাধান। iii. নতুন র‍্যাম লাগানো: কম্পিউটার গরম হওয়ার সাথে র‍্যামের (RAM) সরাসরি কোনো সম্পর্ক নেই। র‍্যাম সাধারণত কম্পিউটার স্লো হওয়া বা ডিসপ্লে না আসার সাথে সম্পর্কিত। সঠিক উত্তর: ক) i ও ii"
+    },
+    {
+      "number": "4",
+      "tag": "CB 24,GLSC 24",
+      "question": "কোনো ডকুমেন্ট প্রথমবার সংরক্ষণ করতে কোনটি ব্যবহার করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নিউ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ওপেন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সেইভ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সেইভ এজ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নিউ",
+      "option_b": "ওপেন",
+      "option_c": "সেইভ",
+      "option_d": "সেইভ এজ",
+      "correct": "গ",
+      "explanation": "সেভ (Save): মাইক্রোসফট ওয়ার্ডে নতুন তৈরি করা কোনো ডকুমেন্ট প্রথমবার সংরক্ষণ করতে Save কমান্ডে ক্লিক করতে হয়। সেড এজ (Save as): মাইক্রোসফট ওয়ার্ডে পূর্বের তৈরি করা কোনো সেভকৃত ডকুমেন্ট ভিন্ন নামে সংরক্ষণ করতে ফাইল মেনু থেকে Save as -এ ক্লিক করতে হয়। নিউ (New): মাইক্রোসফট ওয়ার্ডে নতুন একটি ডকুমেন্ট খুলতে ফাইল মেনু থেকে New কমান্ডে ক্লিক করতে হয়। ওপেন (Open): মাইক্রোসফট ওয়ার্ডে পূর্বে সংরক্ষণ করা কোনো ডকুমেন্ট খুলতে ফাইল মেনু থেকে Open কমান্ডে ক্লিক করতে হয়।"
+    },
+    {
+      "number": "5",
+      "tag": "CB 24,GLSC 24,BCPC 24",
+      "question": "লিখিত অংশ ছাড়াও কোনো বইয়ে অডিও/ভিডিও/এনিমেশন ইত্যাদি সংক্ত থাকলে তাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ই-বুক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ই-বুকের অ্যাপস",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পোর্টেবল ডকুমেন্ট ফরম্যাট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চৌকস ই-বুক",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ই-বুক",
+      "option_b": "ই-বুকের অ্যাপস",
+      "option_c": "পোর্টেবল ডকুমেন্ট ফরম্যাট",
+      "option_d": "চৌকস ই-বুক",
+      "correct": "ঘ",
+      "explanation": "যে বইয়ে লিখিত অংশ ছাড়াও অডিও, ভিডিও, এনিমেশন সমৃদ্ধ ফিচার অন্তর্ভুক্ত থাকে, তাকে \"চৌকস ই-বুক\" বা ইন্টেলিজেন্ট বুক বলা হয়। সঠিক উত্তর: চৌকস ই-বুক"
+    },
+    {
+      "number": "6",
+      "tag": "SB 25,CB 24,CTG.B 23,JB 23,MAD.B 23,MAD.B 18,All.B 17,NMPC 24,GLSC 24,DCC 24,NIS 24",
+      "question": "ডিজিটাল কনটেন্ট কয় প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২ প্রকার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৩ প্রকার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৪ প্রকার",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "৫ প্রকার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২ প্রকার",
+      "option_b": "৩ প্রকার",
+      "option_c": "৪ প্রকার",
+      "option_d": "৫ প্রকার",
+      "correct": "গ",
+      "explanation": "ডিজিটাল মাধ্যমে প্রকাশিত যেকোনাে তথ্য, ছবি, শব্দ কিংবা সবই ডিজিটাল কনটেন্ট। কাজেই নানাভাবে ডিজিটাল কনটেন্টকে শ্রেণিকরণ করা যায়। ডিজিটাল কনটেন্টকে প্রধান চারটি ভাগে ভাগ করা যায়। যথা: টেট বা লিখিত কনটেন্ট, ছবি, শব্দ বা অডিও এবং ভিডিও ও এনিমেশন।"
+    },
+    {
+      "number": "7",
+      "tag": "CB 24,GLSC 24",
+      "question": "প্রচলিত ই-বুক রিডারের মধ্যে কোনটি বেশি জনপ্রিয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কিন্ডল",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ই-পাব",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আইপ্যাড়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ই-অ্যাপস",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কিন্ডল",
+      "option_b": "ই-পাব",
+      "option_c": "আইপ্যাড়",
+      "option_d": "ই-অ্যাপস",
+      "correct": "ক",
+      "explanation": "প্রচলিত ই-বুক রিডারের মধ্যে \"কিন্ডল\" বেশি জনপ্রিয়। এটি অ্যামাজন কর্তৃক নির্মিত একটি ই-বুক রিডার যা বিশ্বজুড়ে ব্যাপক জনপ্রিয়তা অর্জন করেছে।"
+    },
+    {
+      "number": "8",
+      "tag": "CB 24,All.B 17,GLSC 24",
+      "question": "ফ্রিল্যান্সের কাজ করার জন্য বেশি দরকার- i. ফ্রি-ল্যান্সারের ধৈর্য্য ii. ফ্রি-ল্যান্সারের কম্পিউটার ভাষার দক্ষতা iii. ফ্রি-ল্যান্সারের ইংরেজি ভাষার দক্ষতা নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "ফ্রিল্যান্সের মাধ্যমে বর্তমানে ঘরে বসে বিশ্বখ্যাত কোম্পানিগুলোতে কাজ করা যায়। এ কাজ করার জন্য একজন ফ্রিল্যান্সারের ধৈর্য থাকতে হবে, পাশাপাশি যোগাযোগের জন্য ইংরেজি ভাষার ভালো দক্ষতা থাকা প্রয়োজন। তবে ফ্রিল্যান্সিংয়ের জন্য ফ্রিল্যান্সারের প্রোগ্রামিং ভাষায় দক্ষতা আবশ্যক নয়।"
+    },
+    {
+      "number": "9",
+      "tag": "CB 24,GLSC 24",
+      "question": "টুইটারে একটি টুইটে (Tweet) সর্বোচ্চ কত অক্ষরের বার্তা দেয়া যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১৪০",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "১৪৪",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১৫০",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১৫৪",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১৪০",
+      "option_b": "১৪৪",
+      "option_c": "১৫০",
+      "option_d": "১৫৪",
+      "correct": "ক",
+      "explanation": "টুইটগুলি মূলত ১৪০ অক্ষরের মধ্যে সীমাবদ্ধ ছিল, কিন্তু ২০১৭ সালের নভেম্বরে অ-সিজেকে ভাষার জন্য অক্ষরের সীমা দ্বিগুণ করে ২৮০ করা হয়।"
+    },
+    {
+      "number": "",
+      "tag": "GLSC 24",
+      "question": "SI No Name Age District Date of Birth 1 Afif 20 03.01.2004 2 Jarif 25 04.02.1999 3 Tamzid 30 03.03.1994 উপরের ডেটাবেজটিতে কয়টি রেকর্ড রয়েছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৩",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "৪",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৫",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৬",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৩",
+      "option_b": "৪",
+      "option_c": "৫",
+      "option_d": "৬",
+      "correct": "ক",
+      "explanation": "ডেটাবেজের প্রতিটি সারিকে বলা হয় রেকর্ড। উদ্দীপকে ডেটাবেজটিতে যেহেতু তিনটি সারি রয়েছে, সুতরাং ডেটাবেজটিতে ৩টি রেকর্ড রয়েছে। ডেটাবেজটিতে SI No, Age হলো Number ডেটা টাইপ। Name ফিল্ডটি হলো Text ডেটা টাইপ এবং Date of Birth হলো Date/Time ডেটা টাইপের অন্তর্ভুক্ত। সুতরাং, ডেটাবেজটিতে ৩ ধরনের ডেটা টাইপ রয়েছে ।"
+    },
+    {
+      "number": "",
+      "tag": "GLSC 24",
+      "question": "SI No Name Age District Date of Birth 1 Afif 20 03.01.2004 2 Jarif 25 04.02.1999 3 Tamzid 30 03.03.1994 উপরের ডেটাবেজটিতে কয়টি রেকর্ড রয়েছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৪",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "৫",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৬",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৩",
+      "option_b": "৪",
+      "option_c": "৫",
+      "option_d": "৬",
+      "correct": "খ",
+      "explanation": "ডেটাবেজের প্রতিটি সারিকে বলা হয় রেকর্ড। উদ্দীপকে ডেটাবেজটিতে যেহেতু তিনটি সারি রয়েছে, সুতরাং ডেটাবেজটিতে ৩টি রেকর্ড রয়েছে। ডেটাবেজটিতে SI No, Age হলো Number ডেটা টাইপ। Name ফিল্ডটি হলো Text ডেটা টাইপ এবং Date of Birth হলো Date/Time ডেটা টাইপের অন্তর্ভুক্ত। সুতরাং, ডেটাবেজটিতে ৩ ধরনের ডেটা টাইপ রয়েছে ।"
+    },
+    {
+      "number": "",
+      "tag": "CB 24,GLSC 24",
+      "question": "A B C D 1 ক্রয়মূল্য লাভ% ব্রিকয়মূল্য 2 ১৫০০ ১৫ ? 3 '?' চিহ্নিত সেলের ঠিকানা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "C3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "C2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "D3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "D2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "C3",
+      "option_b": "C2",
+      "option_c": "D3",
+      "option_d": "D2",
+      "correct": "ঘ",
+      "explanation": "প্রশ্নে উল্লেখিত “?” চিহ্নটি C কলামের 2 নম্বর সেলে অবস্থিত। তাই ঠিকানাটি হবে C2"
+    },
+    {
+      "number": "",
+      "tag": "CB 24,DIN.B 23,GLSC 24",
+      "question": "A B C D 1 ক্রয়মূল্য লাভ% ব্রিকয়মূল্য 2 ১৫০০ ১৫ ? 3 বিক্রয়মূল্য নির্ণয় করতে কোন সূত্রটি প্রয়োগ করতে হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "= A 2 + B 2 ∗   A 2 % =\\mathrm{A} 2+\\mathrm{B} 2 * \\mathrm{~A} 2 \\% = A 2 + B 2 ∗   A 2%",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "A 2 % + B 2   ∗   A 2 \\mathrm{A} 2 \\%+B 2~{*} \\mathrm{~A} 2 A 2% + B 2   ∗   A 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "= A 2 + B 2 + A 2 % =\\mathrm{A} 2+\\mathrm{B} 2+\\mathrm{A} 2 \\% = A 2 + B 2 + A 2%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "= A 2 ∗ B 2 % + A 2 =\\mathrm{A} 2 * B 2 \\%+\\mathrm{A} 2 = A 2 ∗ B 2% + A 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "= A 2 + B 2 ∗   A 2 % =\\mathrm{A} 2+\\mathrm{B} 2 * \\mathrm{~A} 2 \\% = A 2 + B 2 ∗   A 2%",
+      "option_b": "A 2 % + B 2   ∗   A 2 \\mathrm{A} 2 \\%+B 2~{*} \\mathrm{~A} 2 A 2% + B 2   ∗   A 2",
+      "option_c": "= A 2 + B 2 + A 2 % =\\mathrm{A} 2+\\mathrm{B} 2+\\mathrm{A} 2 \\% = A 2 + B 2 + A 2%",
+      "option_d": "= A 2 ∗ B 2 % + A 2 =\\mathrm{A} 2 * B 2 \\%+\\mathrm{A} 2 = A 2 ∗ B 2% + A 2",
+      "correct": "ক",
+      "explanation": "বিক্রয়মূল্য নির্ণয় করতে সূত্রটি হলো- =A2*B2%+A2 =1500×15%+1500 =225+1500 =1725"
+    },
+    {
+      "number": "14",
+      "tag": "JB 24,MAD.B 20,GLSC 24",
+      "question": "বিশ্বের বেশিরভাগ কম্পিউটারে কোন অপারেটিং সিস্টেম ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Windows",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Linux",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "MAC",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Unix",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Windows",
+      "option_b": "Linux",
+      "option_c": "MAC",
+      "option_d": "Unix",
+      "correct": "ঘ",
+      "explanation": "বিশ্বের বেশিরভাগ কম্পিউটারে Windows অপারেটিং সিস্টেম ব্যবহৃত হয়। এটি বিশ্বব্যাপী কম্পিউটার ব্যবহারকারীদের মধ্যে অত্যন্ত জনপ্রিয় এবং প্রচলিত অপারেটিং সিস্টেম। সঠিক উত্তর: Windows"
+    },
+    {
+      "number": "15",
+      "tag": "CB 24,GLSC 24",
+      "question": "মুদ্রণ প্রকাশনায় গ্রাফিক্স ডিজাইনের ক্ষেত্রে কম্পিউটারের ব্যবহার শুরু হয় কখন থেকে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ষাটের দশক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সত্তরের দশক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আশির দশক",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "নব্বই দশক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ষাটের দশক",
+      "option_b": "সত্তরের দশক",
+      "option_c": "আশির দশক",
+      "option_d": "নব্বই দশক",
+      "correct": "গ",
+      "explanation": "মুদ্রণ প্রকাশনায় গ্রাফিক্স ডিজাইনের ক্ষেত্রে কম্পিউটারের ব্যবহার শুরু হয় নব্বই দশক থেকে।"
+    },
+    {
+      "number": "16",
+      "tag": "CB 24,GLSC 24",
+      "question": "পাওয়ার পয়েন্টের ফাইলকে কী বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্লাইড",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "হ্যান্ড আউটস",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্রেজেন্টেশন",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "স্লাইড লে-আউট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "স্লাইড",
+      "option_b": "হ্যান্ড আউটস",
+      "option_c": "প্রেজেন্টেশন",
+      "option_d": "স্লাইড লে-আউট",
+      "correct": "গ",
+      "explanation": "স্লাইড → \\to → পাওয়ার পয়েন্ট প্রেজেন্টেশনের এক একটি অংশকে স্লাইড বলা হয়। প্রেজেন্টেশন → \\to → পাওয়ার পয়েন্ট ফাইলকে প্রেজেন্টেশন বলে। হ্যান্ড আউটস → \\to → একাধিক স্লাইড বিশিষ্ট একটি পৃষ্ঠাকে হ্যান্ড আউটস বলে।"
+    },
+    {
+      "number": "17",
+      "tag": "GLSC 24",
+      "question": "স্লাইডে ভিডিও যুক্ত করতে হলে কোনটি ব্যবহার করতে হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ফাইল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ভিউ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ইনসার্ট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "স্লাইড শো",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ফাইল",
+      "option_b": "ভিউ",
+      "option_c": "ইনসার্ট",
+      "option_d": "স্লাইড শো",
+      "correct": "খ",
+      "explanation": "স্লাইডে ভিডিও যুক্ত করতে হলে \"ইনসার্ট\" অপশনটি ব্যবহার করতে হয়। ইন্সার্ট অপশন থেকে আপনি ভিডিও ফাইল নির্বাচন করে স্লাইডে যুক্ত করতে পারবেন। সঠিক উত্তর: ইনসার্ট"
+    },
+    {
+      "number": "18",
+      "tag": "CB 24,GLSC 24",
+      "question": "বর্তমানে বিশ্বব্যাপি জনপ্রিয় ছবি সম্পাদনার প্রোগ্রামের নাম কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "এডোবি ইলাস্ট্রেটর",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "এডোবি ফটোশপ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "এডোবি ওয়ার্ড",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "এডোবি এক্সল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "এডোবি ইলাস্ট্রেটর",
+      "option_b": "এডোবি ফটোশপ",
+      "option_c": "এডোবি ওয়ার্ড",
+      "option_d": "এডোবি এক্সল",
+      "correct": "ক",
+      "explanation": "বর্তমানে বিশ্বব্যাপি জনপ্রিয় ছবি সম্পাদনার প্রোগ্রামের নাম হচ্ছে এডোবি ফটোশপ। এটি ছবি সম্পাদনা এবং গ্রাফিক্স ডিজাইনের জন্য বহুল ব্যবহৃত সফটওয়ার। সঠিক উত্তর: এডোবি ফটোশপ"
+    },
+    {
+      "number": "19",
+      "tag": "CTG.B 25,CB 25,CB 24,All.B 18,GLSC 24",
+      "question": "থামনেইলের অর্থ হচ্ছে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বড় ছবির ক্ষুদ্র সংস্করণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ছোট ছবির বড় সংস্করণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বড় ছবির মাঝারি সংস্করণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ছোট ছবির মাঝারি সংস্করণ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বড় ছবির ক্ষুদ্র সংস্করণ",
+      "option_b": "ছোট ছবির বড় সংস্করণ",
+      "option_c": "বড় ছবির মাঝারি সংস্করণ",
+      "option_d": "ছোট ছবির মাঝারি সংস্করণ",
+      "correct": "ঘ",
+      "explanation": "থাম্বনেইল (Thumbnail) হলো বড় ছবির একটি ক্ষুদ্র সংস্করণ। এটি মূলত একটি ছোট আকারের চিত্র যা বড় ছবি বা ভিডিওর পরিচিতি প্রদান করে এবং ব্যবহারকারীকে মূল কনটেন্টের ওপর ক্লিক করার আগ্রহ জাগানোর জন্য ব্যবহার করা হয় । তাই সঠিক উত্তর হলো: বড় ছবির ক্ষুদ্র সংস্করণ।"
+    },
+    {
+      "number": "20",
+      "tag": "CB 24,GLSC 24,RCS 24",
+      "question": "বর্তমানে সরকারি ও বেসরকারি কাজে তথ্য ও যোগাযোগ প্রযুক্তি ব্যবহারের ফলে- i. স্বল্প সময়ে সেবা পাওয়া যায় ii. সেবার মান উন্নত হয়েছে iii. ছুটির দিনেও সেবা পাওয়া যায় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "তথ্য ও যোগাযোগ প্রযুক্তি ব্যবহারের ফলে সরকারি ও বেসরকারি কাজে অনেক সুবিধা হয়েছে। i. স্বল্প সময়ে সেবা পাওয়া যায়: তথ্য প্রযুক্তির মাধ্যমে অনেক দ্রুত সেবা পাওয়া সম্ভব। ii. সেবার মান উন্নত হয়েছে: তথ্য প্রযুক্তি ব্যবহারের ফলে সেবা প্রদান প্রক্রিয়া মানসম্মত এবং উন্নত হয়েছে। iii. ছুটির দিনেও সেবা পাওয়া যায়: তথ্য প্রযুক্তির ব্যবহারের মাধ্যমে অনলাইন সেবা প্রদান করা সম্ভব, যা ছুটির দিনেও পাওয়া যেতে পারে। তাছাড়া, সকল বিবৃতি সঠিক। সুতরাং, সঠিক উত্তর হবে: i, ii ও iii অর্থাৎ, সঠিক উত্তর হলো বিকল্প d ."
+    },
+    {
+      "number": "21",
+      "tag": "GLSC 24",
+      "question": "সফটওয়্যার আনইনস্টল করতে হলে কম্পিউটারে কোথায় যেতে হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্টার্ট বাটন থেকে কন্ট্রোল প্যানেল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ডাবল ক্লিক করে অ্যাড অর রিমুভ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "নির্ধারিত ড্রাইভ থেকে সফটওয়্যারে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "উইন্ডোজ + r চেপে Run Command",
+          "is_correct": true
+        }
+      ],
+      "option_a": "স্টার্ট বাটন থেকে কন্ট্রোল প্যানেল",
+      "option_b": "ডাবল ক্লিক করে অ্যাড অর রিমুভ",
+      "option_c": "নির্ধারিত ড্রাইভ থেকে সফটওয়্যারে",
+      "option_d": "উইন্ডোজ + r চেপে Run Command",
+      "correct": "ঘ",
+      "explanation": "সফটওয়্যার আনইনস্টল করতে হলে প্রথমে 'স্টার্ট বাটন' থেকে 'কন্ট্রোল প্যানেল'-এ যেতে হয়। কন্ট্রোল প্যানেল থেকে প্রোগ্রাম আনইনস্টল করার অপশন পাওয়া যায়।"
+    },
+    {
+      "number": "22",
+      "tag": "CB 24,GLSC 24",
+      "question": "ডেটাবেজে ভুল এড়াতে ফিল্ডে শর্তযুক্ত ডেটা এন্ট্রি সীমাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কুয়েরি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "রেকর্ড রেফারেন্স",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ডিবেজ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইনপুট ভেলিডেশন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কুয়েরি",
+      "option_b": "রেকর্ড রেফারেন্স",
+      "option_c": "ডিবেজ",
+      "option_d": "ইনপুট ভেলিডেশন",
+      "correct": "খ",
+      "explanation": "ডেটাবেজে ভুল এড়ানোর জন্য যখন একটি ফিল্ডের ডেটা এন্ট্রি নির্দিষ্ট শর্তের অধীনে সীমাবদ্ধ করা হয়, তখন এটিকে ইনপুট ভেলিডেশন বলা হয়। এটি নিশ্চিত করে যে প্রবেশকৃত তথ্য পূর্বনির্ধারিত নিয়মগুলি পূরণ করে কিনা। সঠিক উত্তর: ইনপুট ভেলিডেশন"
+    },
+    {
+      "number": "23",
+      "tag": "JB 24,RCC 24,GLSC 24",
+      "question": "আইসিটির যে দক্ষতাগুলো অধিকাংশ চাকরি প্রাপ্তির পূর্বশর্ত— i. অফিস ম্যানেজমেন্ট সফটওয়্যার ব্যবহার ii. প্রোগ্রামিং জ্ঞান iii. ওয়েবসাইট ব্রাউজিং নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "GLSC 24",
+      "question": "ডকুমেন্ট কোনো ছবি যোগ করতে রিবনের কোন ট্যাব ব্যবহার করতে হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "হোম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফাইল",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ভিউ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইনসার্ট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "হোম",
+      "option_b": "ফাইল",
+      "option_c": "ভিউ",
+      "option_d": "ইনসার্ট",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "GLSC 24",
+      "question": "বড় বড় সফটওয়্যার কোম্পানিগুলো তাদের মেধাস্বত্ব সংরক্ষণ ও বিশ্বব্যাপী পাইরেসি নজরদারির জন্য কোন সংস্থা গড়ে তুলেছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ISA",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "BSA",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "VSA",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "CSA",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ISA",
+      "option_b": "BSA",
+      "option_c": "VSA",
+      "option_d": "CSA",
+      "correct": "খ",
+      "explanation": ""
+    }
+  ]
+}

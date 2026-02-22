@@ -1,0 +1,182 @@
+{
+  "title": "দিনাজপুর বোর্ড ২০২১",
+  "subtitle": "উচ্চতর গণিত (8)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "i. r 2 + 8 3 = 5 2 3 + 5 − 2 3 r^{2}+\\sqrt[3]{8}=5^{\\frac{2}{3}}+5^{-\\frac{2}{3}} r 2 + 3 8 ​ = 5 3 2 ​ + 5 − 3 2 ​ ii. a = 5 + log ⁡ x ( y z ) , b = 7 + log ⁡ y ( z x ) , c = 9 + log ⁡ z ( x y ) \\mathrm{a}=5+\\log _{\\mathrm{x}}(\\mathrm{yz}), \\mathrm{b}=7+\\log _{\\mathrm{y}}(\\mathrm{zx}), \\mathrm{c}=9+\\log _{\\mathrm{z}}(\\mathrm{xy}) a = 5 + lo g x ​ ( yz ) , b = 7 + lo g y ​ ( zx ) , c = 9 + lo g z ​ ( xy ) .",
+      "tag": "DIN 23,RB 21,DIN.B 21,BB 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "log ⁡ 27   m = 2 2 3 \\log _{\\sqrt{27}} \\mathrm{~m}=2 \\frac{2}{3} lo g 27 ​ ​   m = 2 3 2 ​ হয়, তবে m এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, log ⁡ 27   m = 2 2 3 \\log _{\\sqrt{27}} \\mathrm{~m}=2 \\frac{2}{3} lo g 27 ​ ​   m = 2 3 2 ​ বা, log ⁡ 27 m = 8 3 \\log _{\\sqrt{27}} m=\\frac{8}{3} lo g 27 ​ ​ m = 3 8 ​ বা, m = ( 27 ) 8 3 = ( 3 3 2 ) 8 3 = 3 4 m=(\\sqrt{27})^{\\frac{8}{3}}=\\left(3^{\\frac{3}{2}}\\right)^{\\frac{8}{3}}=3^{4} m = ( 27 ​ ) 3 8 ​ = ( 3 2 3 ​ ) 3 8 ​ = 3 4 ∴ m = 81 \\therefore \\mathrm{m}=81 ∴ m = 81 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "(i) নং হতে প্রমাণ কর যে, 5 r 3 + 15 r − 24 = 0 5 \\mathrm{r}^{3}+15 \\mathrm{r}-24=0 5 r 3 + 15 r − 24 = 0",
+          "explanation": "দেওয়া আছে, r 2 + 8 3 = 5 2 3 + 5 − 2 3 r^{2}+\\sqrt[3]{8}=5^{\\frac{2}{3}}+5^{\\frac{-2}{3}} r 2 + 3 8 ​ = 5 3 2 ​ + 5 3 − 2 ​ বা, r 2 + ( 2 3 ) 1 3 = 5 2 3 + 5 − 2 3 \\mathrm{r}^{2}+\\left(2^{3}\\right)^{\\frac{1}{3}}=5^{\\frac{2}{3}}+5^{\\frac{-2}{3}} r 2 + ( 2 3 ) 3 1 ​ = 5 3 2 ​ + 5 3 − 2 ​ বা, r 2 + 2 = 5 2 3 + 5 − 2 3 \\mathrm{r}^{2}+2=5^{\\frac{2}{3}}+5^{\\frac{-2}{3}} r 2 + 2 = 5 3 2 ​ + 5 3 − 2 ​ বা, r 2 = ( 5 1 3 ) 2 − 2 ⋅ 5 1 3 ⋅ 5 − 1 3 + ( 5 − 1 3 ) 2 \\mathrm{r}^{2}=\\left(5^{\\frac{1}{3}}\\right)^{2}-2 \\cdot 5^{\\frac{1}{3}} \\cdot 5^{\\frac{-1}{3}}+\\left(5^{-\\frac{1}{3}}\\right)^{2} r 2 = ( 5 3 1 ​ ) 2 − 2 ⋅ 5 3 1 ​ ⋅ 5 3 − 1 ​ + ( 5 − 3 1 ​ ) 2 বা, r 2 = ( 5 1 3 − 5 − 1 3 ) 2 \\mathrm{r}^{2}=\\left(5^{\\frac{1}{3}}-5^{\\frac{-1}{3}}\\right)^{2} r 2 = ( 5 3 1 ​ − 5 3 − 1 ​ ) 2 . বা, r = 5 1 3 − 5 − 1 3 r=5^{\\frac{1}{3}}-5^{\\frac{-1}{3}} r = 5 3 1 ​ − 5 3 − 1 ​ [বর্গমূল করে] ... ... (i) বা, r 3 = ( 5 1 3 − 5 − 1 3 ) 3 r^{3}=\\left(5^{\\frac{1}{3}}-5^{\\frac{-1}{3}}\\right)^{3} r 3 = ( 5 3 1 ​ − 5 3 − 1 ​ ) 3 [ঘন করে] বা, r 3 = ( 5 1 3 ) 3 − ( 5 − 1 3 ) 3 − 3 ⋅ 5 1 3 ⋅ 5 − 1 3 ( 5 1 3 − 5 − 1 3 ) r^{3}=\\left(5^{\\frac{1}{3}}\\right)^{3}-\\left(5^{-\\frac{1}{3}}\\right)^{3}-3 \\cdot 5^{\\frac{1}{3}} \\cdot 5^{\\frac{-1}{3}}\\left(5^{\\frac{1}{3}}-5^{\\frac{-1}{3}}\\right) r 3 = ( 5 3 1 ​ ) 3 − ( 5 − 3 1 ​ ) 3 − 3 ⋅ 5 3 1 ​ ⋅ 5 3 − 1 ​ ( 5 3 1 ​ − 5 3 − 1 ​ ) বা, r 3 = 5 − 5 − 1 − 3.5 0 ⋅ r \\mathrm{r}^{3}=5-5^{-1}-3.5^{0} \\cdot \\mathrm{r} r 3 = 5 − 5 − 1 − 3. 5 0 ⋅ r [(i) থেকে মান বসিয়ে] বা, r 3 = 5 − 1 5 − 3 r r^{3}=5-\\frac{1}{5}-3 r r 3 = 5 − 5 1 ​ − 3 r বা, r 3 = 25 − 1 − 15 r 5 r^{3}=\\frac{25-1-15 r}{5} r 3 = 5 25 − 1 − 15 r ​ বা, 5 r 3 = 24 − 15 r ∴ 5 r 3 + 15 r − 24 = 0 5 r^{3}=24-15 r \\quad \\therefore 5 r^{3}+15 r-24=0 5 r 3 = 24 − 15 r ∴ 5 r 3 + 15 r − 24 = 0 (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "(ii) নং হতে প্রমাণ কর যে, ( a − 4 ) − 1 + ( b − 6 ) − 1 + ( c − 8 ) − 1 = 1 (\\mathrm{a}-4)^{-1}+(\\mathrm{b}-6)^{-1}+(\\mathrm{c}-8)^{-1}=1 ( a − 4 ) − 1 + ( b − 6 ) − 1 + ( c − 8 ) − 1 = 1",
+          "explanation": "দেওয়া আছে, a = 5 + log ⁡ x y z a=5+\\log _{x} y z a = 5 + lo g x ​ yz বা, a − 4 = 1 + log ⁡ x y z a-4=1+\\log _{x} y z a − 4 = 1 + lo g x ​ yz বা, a − 4 = log ⁡ x x + log ⁡ x y z [ ∵ log ⁡ x x = 1 ] a-4=\\log _{x} x+\\log _{x} y z\\left[\\because \\log _{x} x=1\\right] a − 4 = lo g x ​ x + lo g x ​ yz [ ∵ lo g x ​ x = 1 ] বা, a − 4 = log ⁡ x x y z a-4=\\log _{x} x y z a − 4 = lo g x ​ x yz या, 1 a − 4 = 1 log ⁡ x x y z \\frac{1}{a-4}=\\frac{1}{\\log _{x} x y z} a − 4 1 ​ = l o g x ​ x yz 1 ​ [বিপরীতকরণ করে ] বা, ( a − 4 ) − 1 = log ⁡ x y z x … … (\\mathrm{a}-4)^{-1}=\\log _{x y z} x \\ldots \\ldots ( a − 4 ) − 1 = lo g x yz ​ x …… .... (i) আবার্, b = 7 + log ⁡ y z x b=7+\\log _{y} z x b = 7 + lo g y ​ z x হতে অনুরূপভাবে পাই, ( b − 6 ) − 1 = log ⁡ x y z y … … … (b-6)^{-1}=\\log _{x y z} y \\ldots \\ldots \\ldots ( b − 6 ) − 1 = lo g x yz ​ y ……… .. (ii) এবং c = 9 + log ⁡ z x y \\mathrm{c}=9+\\log _{z} \\mathrm{xy} c = 9 + lo g z ​ xy হতে অনুরূপভাবে পাই, ( c − 8 ) − 1 = log ⁡ x y z z … … … (c-8)^{-1}=\\log _{x y z} z \\ldots \\ldots \\ldots ( c − 8 ) − 1 = lo g x yz ​ z ……… .. (iii) সমীকরণ (i), (ii) ও (iii) যোগ করে পাই, ( a − 4 ) − 1 + ( b − 6 ) − 1 + ( c − 8 ) − 1 = log ⁡ x y z x + log ⁡ x y z y + log ⁡ x y z z = log ⁡ x y z x y z = 1 [ ∵ log ⁡ a a = 1 ] ∴ ( a − 4 ) − 1 + ( b − 6 ) − 1 + ( c − 8 ) − 1 = 1  (প্রমাণিত)  \\begin{aligned} & (a-4)^{-1}+(b-6)^{-1}+(c-8)^{-1} \\\\ = & \\log _{x y z} x+\\log _{x y z} y+\\log _{x y z} z=\\log _{x y z} x y z=1\\left[\\because \\log _{a} a=1\\right] \\\\ \\therefore & (a-4)^{-1}+(b-6)^{-1}+(c-8)^{-1}=1 \\text { (প্রমাণিত) } \\end{aligned} = ∴ ​ ( a − 4 ) − 1 + ( b − 6 ) − 1 + ( c − 8 ) − 1 lo g x yz ​ x + lo g x yz ​ y + lo g x yz ​ z = lo g x yz ​ x yz = 1 [ ∵ lo g a ​ a = 1 ] ( a − 4 ) − 1 + ( b − 6 ) − 1 + ( c − 8 ) − 1 = 1  ( প্রমাণিত )  ​"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "i. 1 + 1 3 x − 5 + 1 ( 3 x − 5 ) 2 + 1 ( 3 x − 5 ) 3 + … … … … … … . 1+\\frac{1}{3 x-5}+\\frac{1}{(3 x-5)^{2}}+\\frac{1}{(3 x-5)^{3}}+………………. 1 + 3 x − 5 1 ​ + ( 3 x − 5 ) 2 1 ​ + ( 3 x − 5 ) 3 1 ​ + ……………… . ii. 6 + 66 + 666 + … … … … … 6+66+666+\\ldots \\ldots \\ldots \\ldots \\ldots 6 + 66 + 666 + …………… .",
+      "tag": "CTG.B 23,DIN.B 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "\\mathrm{} কে মূলদীয় ভগ্নাংশে প্রকাশ কর।",
+          "explanation": "3.0 2 ˙ = 302 − 30 90 = 272 90 = 136 45 3.0\\dot{2}=\\frac{302-30}{90}=\\frac{272}{90}=\\frac{136}{45} 3.0 2 ˙ = 90 302 − 30 ​ = 90 272 ​ = 45 136 ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "(ii) নং ধারার আলোকে প্রমাণ কর যে, ধারাটির ১ম n n n পদের সমষ্টি 2 3 { 10 9 ( 10 n − 1 ) − n } \\frac{2}{3}\\left\\{\\frac{10}{9}\\left(10^{\\mathrm{n}}-1\\right)-\\mathrm{n}\\right\\} 3 2 ​ { 9 10 ​ ( 1 0 n − 1 ) − n }",
+          "explanation": "প্রদত্ত ধারা =  6 + 66 + 666 + … … + n  তম পদ  = 6 ( 1 + 11 + 111 + … … + n  তম পদ  ) = 6 9 ( 9 + 99 + 999 + … … + n  তম পদ  ) = 6 9 { ( 10 − 1. ) + ( 100 − 1 ) + ( 1000 − 1 ) + … … + n  তম পদ  } = 6 9 { ( 10 + 10 2 + 10 3 + … + 10 n ) − ( 1 + 1 + 1 + … n  তম পদ  ) } = 6 9 { 10 ⋅ 10 n − 1 10 − 1 − n } = 60 81 ( 10 n − 1 ) − 6 n 9 = 20 27 ( 10 n − 1 ) − 2 3 n \\begin{array}{l}\\text { প্রদত্ত ধারা = } 6+66+666+\\ldots \\ldots+n \\text { তম পদ } \\\\ =6(1+11+111+\\ldots \\ldots+n \\text { তম পদ }) \\\\ =\\frac{6}{9}(9+99+999+\\ldots \\ldots+n \\text { তম পদ }) \\\\ =\\frac{6}{9}\\{(10-1 .)+(100-1)+(1000-1)+\\ldots \\ldots+n \\text { তম পদ }\\} \\\\ =\\frac{6}{9}\\left\\{\\left(10+10^{2}+10^{3}+\\ldots+10^{\\mathrm{n}}\\right)-(1+1+1+\\ldots n \\text { তম পদ })\\right\\} \\\\ =\\frac{6}{9}\\left\\{10 \\cdot \\frac{10^{n}-1}{10-1}-n\\right\\}=\\frac{60}{81}\\left(10^{n}-1\\right)-\\frac{6 n}{9} \\\\ =\\frac{20}{27}\\left(10^{n}-1\\right)-\\frac{2}{3} n\\end{array}   প্রদত্ত   ধারা  =  6 + 66 + 666 + …… + n   তম   পদ   = 6 ( 1 + 11 + 111 + …… + n   তম   পদ   ) = 9 6 ​ ( 9 + 99 + 999 + …… + n   তম   পদ   ) = 9 6 ​ {( 10 − 1. ) + ( 100 − 1 ) + ( 1000 − 1 ) + …… + n   তম   পদ   } = 9 6 ​ { ( 10 + 1 0 2 + 1 0 3 + … + 1 0 n ) − ( 1 + 1 + 1 + … n   তম   পদ   ) } = 9 6 ​ { 10 ⋅ 10 − 1 1 0 n − 1 ​ − n } = 81 60 ​ ( 1 0 n − 1 ) − 9 6 n ​ = 27 20 ​ ( 1 0 n − 1 ) − 3 2 ​ n ​ ∴  ধারাটির n-সংখ্যক পদের সমষ্টি  = 20 27 ( 10 n − 1 ) − 2 3 n = 2 3 { 10 9 ( 10 n − 1 ) − n }  (প্রমাণিত)  \\begin{array}{l}\\therefore \\text { ধারাটির n-সংখ্যক পদের সমষ্টি }=\\frac{20}{27}\\left(10^{n}-1\\right)-\\frac{2}{3} \\mathrm{n} \\\\ \\qquad \\\\ \\quad=\\frac{2}{3}\\left\\{\\frac{10}{9}\\left(10^{\\mathrm{n}}-1\\right)-\\mathrm{n}\\right\\} \\text { (প্রমাণিত) }\\end{array} ∴   ধারাটির  n- সংখ্যক   পদের   সমষ্টি   = 27 20 ​ ( 1 0 n − 1 ) − 3 2 ​ n = 3 2 ​ { 9 10 ​ ( 1 0 n − 1 ) − n }  ( প্রমাণিত )  ​"
+        },
+        {
+          "label": "গ",
+          "question": "x এর উপর কী শর্ত আরোপ করলে (i) নং অনন্ত গুণোত্তর ধারাটির অসীমতক সমষ্টি থাকবে এবং সেই সমষ্টি নির্ণয় কর।",
+          "explanation": "প্রদত্ত ধারা: 1 + 1 3 x − 5 + 1 ( 3 x − 5 ) 2 + 1 ( 3 x − 5 ) 3 + … . . 1+\\frac{1}{3 x-5}+\\frac{1}{(3 x-5)^{2}}+\\frac{1}{(3 x-5)^{3}}+\\ldots . . 1 + 3 x − 5 1 ​ + ( 3 x − 5 ) 2 1 ​ + ( 3 x − 5 ) 3 1 ​ + … .. . ধারাটির প্রথম পদ, a=1 সাধারণ অনুপাত, r = 1 3 x − 5 ÷ I = 1 3 x − 5 r=\\frac{1}{3 \\mathrm{x}-5} \\div \\mathrm{I}=\\frac{1}{3 \\mathrm{x}-5} r = 3 x − 5 1 ​ ÷ I = 3 x − 5 1 ​ ধারাটির অসীমতক সমষ্টি থাকবে যদি ও কেবল যদি ∣ r ∣ < 1 |\\mathrm{r}|<1 ∣ r ∣ < 1 হয় অর্থাৎ, ∣ 1 3 x − 5 ∣ < 1 \\left|\\frac{1}{3 x-5}\\right|<1 ​ 3 x − 5 1 ​ ​ < 1 বা, ∣ 3 x − 5 ∣ > 1 |3 x-5|>1 ∣3 x − 5∣ > 1 ∴ 3 x − 5 > 1 \\therefore 3 x-5>1 ∴ 3 x − 5 > 1 অথবা, 3 x − 5 < − 1 3 x-5<-1 3 x − 5 < − 1 বা, 3 x > 6 3 x>6 3 x > 6 বা, 3 x < − 1 + 5 3 x<-1+5 3 x < − 1 + 5 ∴ x > 2 \\therefore x>2 ∴ x > 2 বা, 3 x < 4 ∴ x < 4 3 3 x<4 \\therefore x<\\frac{4}{3} 3 x < 4 ∴ x < 3 4 ​ ∴ \\therefore ∴ নির্ণেয় শর্ত: x > 2 x>2 x > 2 অথবা, x < 4 3 x<\\frac{4}{3} x < 3 4 ​ অসীমতক সমষ্টি, S ∞ = a 1 − r = 1 1 − 1 3 x − 5 \\mathrm{S}_{\\infty}=\\frac{\\mathrm{a}}{1-\\mathrm{r}}=\\frac{1}{1-\\frac{1}{3 \\mathrm{x}-5}} S ∞ ​ = 1 − r a ​ = 1 − 3 x − 5 1 ​ 1 ​ = 1 3 x − 5 − 1 3 x − 5 = 3 x − 5 3 x − 6 =\\frac{1}{\\frac{3 x-5-1}{3 x-5}}=\\frac{3 x-5}{3 x-6} = 3 x − 5 3 x − 5 − 1 ​ 1 ​ = 3 x − 6 3 x − 5 ​ (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "(i) A = log ⁡ k ( 1 + 3 x ) − 2 log ⁡ k x A=\\log _{\\mathrm{k}}(1+3 \\mathrm{x})-2 \\log _{\\mathrm{k}} \\mathrm{x} A = lo g k ​ ( 1 + 3 x ) − 2 lo g k ​ x (ii) Y = ( 14 − x 14 + x ) Y=\\left(\\frac{14-x}{14+x}\\right) Y = ( 14 + x 14 − x ​ ) একটি ফাংশন।",
+      "tag": "DIN.B 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "a a a = ( a a ) a a^{a \\sqrt{a}}=(a \\sqrt{a})^{a} a a a ​ = ( a a ​ ) a হলে, a a a এর মান নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "A = 0 \\mathrm{A}=0 A = 0 হলে, দেখাও যে, x = 3 + 13 2 . \\mathrm{x}=\\frac{3+\\sqrt{13}}{2} . x = 2 3 + 13 ​ ​ .",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "g ( x ) = ln ⁡ y \\mathrm{g}(\\mathrm{x})=\\ln \\mathrm{y} g ( x ) = ln y হলে, g ( x ) \\mathrm{g}(\\mathrm{x}) g ( x ) এর ডোমেন নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "D(2, -1), E(-4, 2) এবং F(2, 5) একই সমতলে অবস্থিত তিনটি বিন্দু এবং EF রেখাটি y-অক্ষকে Q বিন্দুতে ছেদ করে।",
+      "tag": "DIN.B 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "P ( 4 , 4 ) , Q ( 5 , − 3 ) , R ( − 4 , − 6 ) P(4,4), Q(5,-3), R(-4,-6) P ( 4 , 4 ) , Q ( 5 , − 3 ) , R ( − 4 , − 6 ) এবং S ( − 5 , 3 ) S(-5,3) S ( − 5 , 3 ) বিন্দু গুলো একটি চতুর্ভুজের চারটি শীর্ষবিন্দু।",
+      "tag": "DB 24,CTG.B 23,CB 22,CTG.B 21,DIN.B 21,CTG.B 20,BB 20,BB 23",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "R বিন্দুগামী এবং 3 ঢ়ালবিশিষ্ট সরলরেখার সমীকরণ নির্ণয় কর।",
+          "explanation": "R ( − 4 , − 6 ) R(-4,-6) R ( − 4 , − 6 ) ও 3 ঢালবিশিষ্ট সরলরেখার সমীকরণ, y − ( − 6 ) = 3 { x − ( − 4 ) } y-(-6)=3\\{x-(-4)\\} y − ( − 6 ) = 3 { x − ( − 4 )} বা, y + 6 = 3 ( x + 4 ) y+6=3(x+4) y + 6 = 3 ( x + 4 ) বা, y + 6 = 3 x + 12 y+6=3 x+12 y + 6 = 3 x + 12 ∴ 3 x − y + 6 = 0 \\therefore 3 x-y+6=0 ∴ 3 x − y + 6 = 0 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "PR এবং QS কর্ণদ্বয়ের ছেদবিন্দুর স্থানাঙ্ক নির্ণয় কর।",
+          "explanation": "Per C(4,4) ও R(- 4, - 6) বিন্দুদ্বয় দিয়ে যায় এরূপ কর্ণ PR এর সমীকরণ x − 4 4 + 4 = y − 4 4 + 6 \\frac{x-4}{4+4}=\\frac{y-4}{4+6} 4 + 4 x − 4 ​ = 4 + 6 y − 4 ​ বা, x − 4 8 = y − 4 10 \\frac{x-4}{8}=\\frac{y-4}{10} 8 x − 4 ​ = 10 y − 4 ​ বা, x − 4 4 = y − 4 5 \\frac{x-4}{4}=\\frac{y-4}{5} 4 x − 4 ​ = 5 y − 4 ​ বা, 5 x − 20 = 4 y − 16 5 x-20=4 y-16 5 x − 20 = 4 y − 16 ∴ 5 x − 4 y − 4 = 0 … … …  (i)  \\therefore 5 x-4 y-4=0 \\ldots \\ldots \\ldots \\text { (i) } ∴ 5 x − 4 y − 4 = 0 ………  (i)  Q(5,-3) ও S(- 5, 3) বিন্দুদ্বয় দিয়ে যায় এরূপ কর্ণ QS এর সমীকরণ, x − 5 5 + 5 = y + 3 − 3 − 3 \\frac{x-5}{5+5}=\\frac{y+3}{-3-3} 5 + 5 x − 5 ​ = − 3 − 3 y + 3 ​ বা, x − 5 10 = y + 3 − 6 \\frac{x-5}{10}=\\frac{y+3}{-6} 10 x − 5 ​ = − 6 y + 3 ​ বা, x − 5 5 = y + 3 − 3 \\frac{x-5}{5}=\\frac{y+3}{-3} 5 x − 5 ​ = − 3 y + 3 ​ বা, − 3 x + 15 = 5 y + 15 -3 x+15=5 y+15 − 3 x + 15 = 5 y + 15 বা, − 3 x = 5 y -3 x=5 y − 3 x = 5 y ∴ x = − 5 3 y … … \\therefore x=-\\frac{5}{3} y \\ldots \\ldots ∴ x = − 3 5 ​ y …… (ii) (ii) হতে x এর মান (i) নং এ বসিয়ে পাই, 5. ( − 5 3 y ) − 4 y − 4 = 0 \\left(-\\frac{5}{3} y\\right)-4 y-4=0 ( − 3 5 ​ y ) − 4 y − 4 = 0 বা, − 25 y 3 − 4 y − 4 = 0 \\frac{-25 y}{3}-4 y-4=0 3 − 25 y ​ − 4 y − 4 = 0 বা, − 25 y − 12 y 3 = 4 \\frac{-25 y-12 y}{3}=4 3 − 25 y − 12 y ​ = 4 বা, − 37 y = 12 ∴ y = − 12 37 -37 y=12 \\quad \\therefore y=-\\frac{12}{37} − 37 y = 12 ∴ y = − 37 12 ​ y y y এর মান (ii) এ বসিয়ে, x = − 5 3 ⋅ ( − 12 37 ) = 20 37 x=-\\frac{5}{3} \\cdot\\left(-\\frac{12}{37}\\right)=\\frac{20}{37} x = − 3 5 ​ ⋅ ( − 37 12 ​ ) = 37 20 ​ ∴ \\therefore ∴ নির্ণেয় ছেদবিন্দুর স্থানাঙ্ক ( 20 37 , − 12 37 ) \\left(\\frac{20}{37},-\\frac{12}{37}\\right) ( 37 20 ​ , − 37 12 ​ ) (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "PQRS চতুর্ভুজের যে অংশ প্রথম চতুর্ভাগে অবস্থান করে তারর ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "ছক কাগজে বিন্দুগুলো স্থাপন করে চতুর্ভুজ, গঠন করি। চিত্র হতে লক্ষ করি, PQRS চতুর্ভুজের PQ বাহু x অক্ষকে E বিন্দুতে এবং PS বাহু y অক্ষকে F বিন্দুতে ছেদ করে। মূলবিন্দু হলে PQRS চতুর্ভুজের PEOF অংশটি প্রথম চতুর্ভাগে অবস্থান করে। PQ সরলরেখার সমীকরণ, x − 4 4 − 5 = y − 4 4 + 3  বা,  x − 4 − 1 = y − 4 7  বা,  7 x − 28 = − y + 4 ∴ 7 x + y − 32 = 0 … …  (i)  \\begin{array}{l}\\quad \\frac{x-4}{4-5}=\\frac{y-4}{4+3} \\text { বা, } \\frac{x-4}{-1}=\\frac{y-4}{7} \\text { বা, } 7 x-28=-y+4 \\\\ \\therefore 7 x+y-32=0 \\ldots \\ldots \\text { (i) }\\end{array} 4 − 5 x − 4 ​ = 4 + 3 y − 4 ​   বা ,  − 1 x − 4 ​ = 7 y − 4 ​   বা ,  7 x − 28 = − y + 4 ∴ 7 x + y − 32 = 0 ……  (i)  ​ (i) নং রেখাটি x-অক্ষকে যে বিন্দুতে ছেদ করে ঐ বিন্দুর কোটি শূন্য। ∴ 7 x + 0 − 32 = 0 \\therefore 7 \\mathrm{x}+0-32=0 ∴ 7 x + 0 − 32 = 0 বা, 7 x = 32 ∴ x = 32 7 7 \\mathrm{x}=32 \\therefore \\mathrm{x}=\\frac{32}{7} 7 x = 32 ∴ x = 7 32 ​ ∴ E \\therefore \\mathrm{E} ∴ E বিন্দুর স্থানাঙ্ক ( 32 7 , 0 ) \\left(\\frac{32}{7}, 0\\right) ( 7 32 ​ , 0 ) PS সরলরেখার সমীকরণ, x − 4 4 + 5 = y − 4 4 − 3  বা,  x − 4 9 = y − 4 1 \\frac{x-4}{4+5}=\\frac{y-4}{4-3} \\text { বা, } \\frac{x-4}{9}=\\frac{y-4}{1} 4 + 5 x − 4 ​ = 4 − 3 y − 4 ​   বা ,  9 x − 4 ​ = 1 y − 4 ​ বা, x − 4 = 9 y − 36 x-4=9 y-36 x − 4 = 9 y − 36 ∴ x − 9 y + 32 = 0 … … … \\therefore x-9 y+32=0 \\ldots \\ldots \\ldots ∴ x − 9 y + 32 = 0 ……… (ii) (ii) নং রেখাটি y y y -অক্ষকে যে বিন্দুতে ছেদ করে ঐ বিন্দুর ভুজ শূন্য। ∴ 0 − 9 y + 32 = 0  hf,  − 9 y = − 32 ∴ y = 32 9 \\therefore 0-9 y+32=0 \\text { hf, }-9 y=-32 \\quad \\therefore y=\\frac{32}{9} ∴ 0 − 9 y + 32 = 0  hf,  − 9 y = − 32 ∴ y = 9 32 ​ ∴ F \\therefore \\mathrm{F} ∴ F বিন্দুর স্থানাঙ্ক ( 0 , 32 9 ) \\left(0, \\frac{32}{9}\\right) ( 0 , 9 32 ​ ) ∴ \\therefore ∴ PQRS চতুর্ভুজের প্রথম চতুর্ভাগে অবস্থানকারী অংশ OEPF চতুর্ভুজের ক্ষেত্রফল = 1 2 ∣ 0 32 7 4 0 0 0 0 4 32 9 0 ∣  বর্গএকক  = 1 2 ∣ 0 + 128 7 + 128 9 + 0 − 0 − 0 − 0 − 0 ∣  বর্গ একক  = 1 2 ∣ 2048 63 ∣  বর্গ একক  = 1024 63  বর্গ একক (Ans.)  \\begin{array}{l}=\\frac{1}{2}\\left|\\begin{array}{lllll}0 & \\frac{32}{7} & 4 & 0 & 0 \\\\ 0 & 0 & 4 & \\frac{32}{9} & 0\\end{array}\\right| \\text { বর্গএকক } \\\\ =\\frac{1}{2}\\left|0+\\frac{128}{7}+\\frac{128}{9}+0-0-0-0-0\\right| \\text { বর্গ একক } \\\\ =\\frac{1}{2}\\left|\\frac{2048}{63}\\right| \\text { বর্গ একক }=\\frac{1024}{63} \\text { বর্গ একক (Ans.) }\\end{array} = 2 1 ​ ​ 0 0 ​ 7 32 ​ 0 ​ 4 4 ​ 0 9 32 ​ ​ 0 0 ​ ​   বর্গএকক   = 2 1 ​ ​ 0 + 7 128 ​ + 9 128 ​ + 0 − 0 − 0 − 0 − 0 ​   বর্গ   একক   = 2 1 ​ ​ 63 2048 ​ ​   বর্গ   একক   = 63 1024 ​   বর্গ   একক  (Ans.)  ​"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "একটি চতুর্ভুজের চারটি শীর্ষবিন্দুর স্থানাঙ্ক যথাক্রমে U(2, -3), V(3, 0), W(0, 1) এবং X (-1,-2).",
+      "tag": "DIN.B 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "(i) cot ⁡ A + cosec ⁡ A = m \\cot \\mathrm{A}+\\operatorname{cosec} \\mathrm{A}=\\mathrm{m} cot A + cosec A = m . (ii) পৃথিবীর উপরের দুইটি স্থান পৃথিবীর কেন্দ্রে 5 ∘ 6 ′ 36 ′ ′ 5^{\\circ} 6^{\\prime} 36^{\\prime \\prime} 5 ∘ 6 ′ 3 6 ′′ কোণ উৎপন্ন করে।",
+      "tag": "DIN.B 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "cos ⁡ ( − 35 π 6 ) \\cos \\left(-\\frac{35 \\pi}{6}\\right) cos ( − 6 35 π ​ ) এর মান নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, cos ⁡ A = m 2 − 1   m 2 + 1 \\cos \\mathrm{A}=\\frac{\\mathrm{m}^{2}-1}{\\mathrm{~m}^{2}+1} cos A =   m 2 + 1 m 2 − 1 ​ .",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "পৃথিবীর ব্যাসার্ধ 6440 কি.মি. হলে স্থানদ্বয়ের মধ্যবর্তী দূরত্ব নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "A = cos ⁡ θ \\mathrm{A}=\\cos \\theta A = cos θ এবং B = sin ⁡ θ \\mathrm{B}=\\sin \\theta B = sin θ",
+      "tag": "DIN.B 21",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "0.5273 রেডিয়ানকে ডিগ্রি এককে রূপান্তর কর।",
+          "explanation": "রেডিয়ানকে ডিগ্রি এককে রূপান্তর করার জন্য আমরা নিম্নলিখিত ফর্মুলা ব্যবহার করি: 1  রেডিয়ান  = ( 180 π )  ডিগ্রি 1 \\text{ রেডিয়ান } = \\left(\\frac{180}{\\pi}\\right) \\text{ ডিগ্রি} 1   রেডিয়ান   = ( π 180 ​ )   ডিগ্রি অতএব, 0.5273  রেডিয়ান 0.5273 \\text{ রেডিয়ান} 0.5273   রেডিয়ান কে ডিগ্রিতে রূপান্তর করতে হবে, তাই: 0.5273 × ( 180 π ) ≈ 0.5273 × 57.2958 0.5273 \\times \\left(\\frac{180}{\\pi}\\right) \\approx 0.5273 \\times 57.2958 0.5273 × ( π 180 ​ ) ≈ 0.5273 × 57.2958 ≈ 30.21  ডিগ্রি \\approx 30.21 \\text{ ডিগ্রি} ≈ 30.21   ডিগ্রি অতএব, 0.5273  রেডিয়ান  ≈ 30.21  ডিগ্রি 0.5273 \\text{ রেডিয়ান } \\approx 30.21 \\text{ ডিগ্রি} 0.5273   রেডিয়ান   ≈ 30.21   ডিগ্রি ।"
+        },
+        {
+          "label": "খ",
+          "question": "X A − Y B = Z , XA-YB=Z, X A − Y B = Z , হলে প্রমাণ কর যে, X B + Y A = ± X 2 + Y 2 − Z 2 \\mathrm{XB}+\\mathrm{YA}= \\pm \\sqrt{\\mathrm{X}^{2}+\\mathrm{Y}^{2}-\\mathrm{Z}^{2}} XB + YA = ± X 2 + Y 2 − Z 2 ​",
+          "explanation": "প্রথমে আমাদের দেওয়া আছে: X A − Y B = Z XA - YB = Z X A − Y B = Z এখন আমাদের প্রমাণ করতে হবে: X B + Y A = ± X 2 + Y 2 − Z 2 XB + YA = \\pm \\sqrt{X^2 + Y^2 - Z^2} XB + Y A = ± X 2 + Y 2 − Z 2 ​ আমরা A = cos ⁡ θ A = \\cos \\theta A = cos θ এবং B = sin ⁡ θ B = \\sin \\theta B = sin θ ব্যবহার করব: প্রথম পদক্ষেপে, স্কোয়ার যোগ করে দেখি: ( X A − Y B ) 2 + ( X B + Y A ) 2 (XA - YB)^2 + (XB + YA)^2 ( X A − Y B ) 2 + ( XB + Y A ) 2 চলুন প্রথম পদ ( X A − Y B ) 2 (XA - YB)^2 ( X A − Y B ) 2 এর বর্গফল দেখি : ( X A − Y B ) 2 = X 2 A 2 − 2 X A Y B + Y 2 B 2 (XA - YB)^2 = X^2A^2 - 2XAYB + Y^2B^2 ( X A − Y B ) 2 = X 2 A 2 − 2 X A Y B + Y 2 B 2 এখন A 2 + B 2 = cos ⁡ 2 θ + sin ⁡ 2 θ = 1 A^2 + B^2 = \\cos^2 \\theta + \\sin^2 \\theta = 1 A 2 + B 2 = cos 2 θ + sin 2 θ = 1 কারণ এটি একটি মৌলিক ত্রিকোণমিতিক সূত্র। অতএব, ( X A ) 2 = X 2 A 2 = X 2 cos ⁡ 2 θ (XA)^2 = X^2A^2 = X^2\\cos^2 \\theta ( X A ) 2 = X 2 A 2 = X 2 cos 2 θ এবং ( Y B ) 2 = Y 2 B 2 = Y 2 sin ⁡ 2 θ (YB)^2 = Y^2B^2 = Y^2\\sin^2 \\theta ( Y B ) 2 = Y 2 B 2 = Y 2 sin 2 θ লোপ X 2 cos ⁡ 2 θ + Y 2 sin ⁡ 2 θ − 2 X A Y B X^2\\cos^2 \\theta + Y^2\\sin^2 \\theta - 2XAYB X 2 cos 2 θ + Y 2 sin 2 θ − 2 X A Y B কে পূর্ণাঙ্গ নিম্নোক্ত সূচকতা হিসাবে পুনর্লিখন আসে: ( X A − Y B ) 2 = ( X 2 cos ⁡ 2 θ ) + ( Y 2 sin ⁡ 2 θ ) − 2 ( X cos ⁡ θ ) ( Y sin ⁡ θ ) (XA - YB)^2 = (X^2 \\cos^2 \\theta) + (Y^2 \\sin^2 \\theta) - 2(X \\cos \\theta)(Y \\sin \\theta) ( X A − Y B ) 2 = ( X 2 cos 2 θ ) + ( Y 2 sin 2 θ ) − 2 ( X cos θ ) ( Y sin θ ) দ্বিতীয়তঃ পদ ( X B + Y A ) 2 = ( X sin ⁡ θ + Y cos ⁡ θ ) 2 (XB + YA)^2 = (X \\sin \\theta + Y \\cos \\theta)^2 ( XB + Y A ) 2 = ( X sin θ + Y cos θ ) 2 ( X B + Y A ) 2 = ( X sin ⁡ θ + Y cos ⁡ θ ) 2 (XB + YA)^2 = (X \\sin \\theta + Y \\cos \\theta)^2 ( XB + Y A ) 2 = ( X sin θ + Y cos θ ) 2 = ( X sin ⁡ θ ) 2 + 2 ( X sin ⁡ θ ) ( Y cos ⁡ θ ) + ( Y cos ⁡ θ ) 2 (X \\sin \\theta)^2 + 2(X \\sin \\theta)(Y \\cos \\theta) + (Y \\cos \\theta)^2 ( X sin θ ) 2 + 2 ( X sin θ ) ( Y cos θ ) + ( Y cos θ ) 2 = X 2 sin ⁡ 2 θ + 2 X Y sin ⁡ θ cos ⁡ θ + Y 2 cos ⁡ 2 θ X^2 \\sin^2 \\theta + 2XY \\sin \\theta \\cos \\theta + Y^2 \\cos^2 \\theta X 2 sin 2 θ + 2 X Y sin θ cos θ + Y 2 cos 2 θ এখন যোগ করি: ( X A − Y B ) 2 + ( X B + Y A ) 2 = X 2 cos ⁡ 2 θ + Y 2 sin ⁡ 2 θ − 2 X Y cos ⁡ θ sin ⁡ θ + X 2 sin ⁡ 2 θ + Y 2 cos ⁡ 2 θ + 2 X Y sin ⁡ θ cos ⁡ θ (XA - YB)^2 + (XB + YA)^2 = X^2 \\cos^2 \\theta + Y^2 \\sin^2 \\theta - 2XY \\cos \\theta \\sin \\theta + X^2 \\sin^2 \\theta + Y^2 \\cos^2 \\theta + 2XY \\sin \\theta \\cos \\theta ( X A − Y B ) 2 + ( XB + Y A ) 2 = X 2 cos 2 θ + Y 2 sin 2 θ − 2 X Y cos θ sin θ + X 2 sin 2 θ + Y 2 cos 2 θ + 2 X Y sin θ cos θ আমরা পাই: = X 2 ( cos ⁡ 2 θ + sin ⁡ 2 θ ) + Y 2 ( sin ⁡ 2 θ + cos ⁡ 2 θ ) X^2 (\\cos^2 \\theta + \\sin^2 \\theta) + Y^2 (\\sin^2 \\theta + \\cos^2 \\theta) X 2 ( cos 2 θ + sin 2 θ ) + Y 2 ( sin 2 θ + cos 2 θ ) = X 2 + Y 2 X^2 + Y^2 X 2 + Y 2 অতএব, ( X A − Y B ) 2 + ( X B + Y A ) 2 = X 2 + Y 2 (XA - YB)^2 + (XB + YA)^2 = X^2 + Y^2 ( X A − Y B ) 2 + ( XB + Y A ) 2 = X 2 + Y 2 X A − Y B = Z XA - YB = Z X A − Y B = Z সুতরাং ( X A − Y B ) 2 = Z 2 (XA - YB)^2 = Z^2 ( X A − Y B ) 2 = Z 2 অতএব, ( X B + Y A ) 2 = X 2 + Y 2 − Z 2 (XB + YA)^2 = X^2 + Y^2 - Z^2 ( XB + Y A ) 2 = X 2 + Y 2 − Z 2 X B + Y A = ± X 2 + Y 2 − Z 2 XB + YA = \\pm \\sqrt{X^2 + Y^2 - Z^2} XB + Y A = ± X 2 + Y 2 − Z 2 ​ এ কারণে প্রমাণটি সত্য।"
+        },
+        {
+          "label": "গ",
+          "question": "1   A 2 + B 2   A 2 = 5 3 \\frac{1}{\\mathrm{~A}^{2}}+\\frac{\\mathrm{B}^{2}}{\\mathrm{~A}^{2}}=\\frac{5}{3}   A 2 1 ​ +   A 2 B 2 ​ = 3 5 ​ হলে, θ \\theta θ এর মান নির্ণয় কর, যেখানে 0 < θ < 2 π 0<\\theta<2 \\pi 0 < θ < 2 π .",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

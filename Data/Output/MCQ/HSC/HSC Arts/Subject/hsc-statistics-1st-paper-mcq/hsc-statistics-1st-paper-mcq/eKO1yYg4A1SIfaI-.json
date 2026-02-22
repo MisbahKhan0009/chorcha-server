@@ -1,0 +1,832 @@
+{
+  "read_id": "eKO1yYg4A1SIfaI-",
+  "title": "রাজশাহী কলেজ ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RC 25",
+      "question": "নিচের কোনটি অবিচ্ছিন্ন চলক নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ওজন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বৃষ্টিপাতের পরিমাণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উচ্চতা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "শিক্ষার্থীর সংখ্যা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ওজন",
+      "option_b": "বৃষ্টিপাতের পরিমাণ",
+      "option_c": "উচ্চতা",
+      "option_d": "শিক্ষার্থীর সংখ্যা",
+      "correct": "ঘ",
+      "explanation": "অবিচ্ছিন্ন চলক হলো যেসব চলকের মান ভগ্নাংশ হিসেবে থাকতে পারে, অর্থাৎ প্রয়োজন অনুযায়ী মান ধারাবাহিকভাবে পরিবর্তিত হতে পারে। যেমন: ওজন, বৃষ্টিপাতের পরিমাণ, উচ্চতা । অবিচ্ছিন্ন নয় এমন চলক হলো যেগুলোর মান সুনির্দিষ্ট এবং গোনা যায়, অর্থাৎ তাদের মান ভগ্নাংশে প্রকাশ করা যায় না। এখানে শিক্ষার্থীর সংখ্যা একটি অবিচ্ছিন্ন চলক নয় কারণ শিক্ষার্থীর সংখ্যা দশমিক বা ভগ্নাংশ আকারে হতে পারে না; এটি একটি পূর্ণসংখ্যা হবে।"
+    },
+    {
+      "number": "2",
+      "tag": "RC 25",
+      "question": "10, 11, 12, 15, 16 সংখ্যাগুলোর প্রথম কেন্দ্রীয় পরিঘাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "5",
+      "option_c": "10",
+      "option_d": "15",
+      "correct": "ক",
+      "explanation": "গণিতিক ভাবে, যদি x₁, x₂, ..., xₙ একটি তথ্যসারির মান হয়, তবে এর গড় (mean) হবে: μ = (x₁ + x₂ + ... + xₙ) / n এবং r-তম কেন্দ্রীয় পরিঘাত (r-th central moment) হবে: mᵣ = (1/n) * Σᵢ₌₁(ⁿ) (xᵢ - μ)ʳ এখানে, r=1 হলে, প্রথম কেন্দ্রীয় পরিঘাত পাওয়া যায়: m₁ = (1/n) * Σᵢ₌₁(ⁿ) (xᵢ - μ) যেহেতু Σᵢ₌₁(ⁿ) (xᵢ - μ) = 0, তাই m₁ = 0। সুতরাং, প্রদত্ত সংখ্যাগুলোর প্রথম কেন্দ্রীয় পরিঘাত 0 হবে।"
+    },
+    {
+      "number": "3",
+      "tag": "RC 25",
+      "question": "দুটি অশূন্য ধনাত্মক সংখ্যার গাণিতিক গড় 13 এবং জ্যামিতিক গড় ৪ হলে তরঙ্গ গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.92",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "8.92",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "13.92",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "21.92",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4.92",
+      "option_b": "8.92",
+      "option_c": "13.92",
+      "option_d": "21.92",
+      "correct": "ক",
+      "explanation": "এখানে, গাণিতিক গড় (AM) = ১৩, জ্যামিতিক গড় (GM) = ৪. তরঙ্গ গড় (HM) বের করার সূত্রটি হল: HM = (GM * GM) / AM সুতরাং, HM = (৪ * ৪) / ১৩ = ১৬ / ১৩ ≈ ৪.৯২ অতএব, তরঙ্গ গড় ৪.৯২।"
+    },
+    {
+      "number": "4",
+      "tag": "RC 25",
+      "question": "কোন তথ্যসারির সর্বনিম্ন ও সর্বোচ্চ মানের গাণিতিক গড় নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মিডহিঞ্জ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মিডরেঞ্জ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "মধ্যমা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পরিসর",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মিডহিঞ্জ",
+      "option_b": "মিডরেঞ্জ",
+      "option_c": "মধ্যমা",
+      "option_d": "পরিসর",
+      "correct": "খ",
+      "explanation": "তথ্যসারির সর্বনিম্ন ও সর্বোচ্চ মানের গাণিতিক গড়কে মিডরেঞ্জ (Midrange) বলে। এটি সর্বনিম্ন এবং সর্বোচ্চ মানের যোগফলকে দুই দ্বারা ভাগ করে পাওয়া যায়। সঠি"
+    },
+    {
+      "number": "5",
+      "tag": "RC 25",
+      "question": "2, 1, 0, 5, 6, 7,-4 নিবেশনের প্রথম চতুর্থক কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-4",
+      "option_b": "4",
+      "option_c": "0",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "প্রশ্নে প্রদত্ত সংখ্যাগুলোর মধ্যে প্রথম চতুর্থক নির্ধারণ করতে হলে প্রথমে সংখ্যা গুলোকে সাজাতে হবে ঊর্ধ্বক্রম অনুযায়ী, যা হবে: -4, 0, 1, 2, 5, 6, 7। প্রথম চতুর্থক (Q1) হলো সেই পয়েন্ট যেখানে ডেটাসেটের ২৫% মান তার নিচে অবস্থান করে। 7টি মানের ডেটাসেটের ক্ষেত্রে, প্রথম চতুর্থকের অবস্থান গণনা করা যায় নিচের সূত্র দিয়ে: (n + 1) / 4 = (7 + 1) / 4 = 8/4 = 2 ফলে, প্রথম চতুর্থক হল দ্বিতীয় মানটি যা হল 0।"
+    },
+    {
+      "number": "6",
+      "tag": "RC 25",
+      "question": "কখন জ্যামিতিক গড় নির্ণয় করা যায় না? i. মান শূন্য থাকলে ii. ঋণাত্মক হলে iii. ধনাত্মক হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "জ্যামিতিক গড় নির্ণায়কালে যদি কোন মান শূন্য থাকে বা ঋণাত্মক হয় তবে জ্যামিতিক গড় নির্ণয় করা যায় না। কারণ জ্যামিতিক গড় নির্ণয়ের জন্য সমস্ত উপাদান ধনাত্মক হওয়া আবশ্যক।"
+    },
+    {
+      "number": "7",
+      "tag": "RC 25",
+      "question": "১ম শ্রেণির সর্বনিম্ন মান ও শেষ শ্রেণির সর্বোচ্চ মান অজানা থাকলে নির্ণয় করা যায় না- i. গাণিতিক গড় ii. জ্যামিতিক গড় iii. প্রচুরক নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "যদি ১ম শ্রেণির সর্বনিম্ন মান ও শেষ শ্রেণির সর্বোচ্চ মান অজানা থাকে তাহলে গাণিতিক গড়, জ্যামিতিক গড় এবং প্রচুরক হিসাব করা সম্ভব নয়। কারণ: গাণিতিক গড়: গাণিতিক গড় নির্ণয়ের জন্য ডাটা সেটের সকল মানের সমষ্টি প্রয়োজন যা ১ম ও শেষ শ্রেণির তথ্য ছাড়া পাওয়া সম্ভব নয়। জ্যামিতিক গড়: জ্যামিতিক গড় হিসাব করার জন্য সকল উপাদানের গুণফল এবং তাদের সংখ্যা প্রয়োজন যা ১ম ও শেষ শ্রেণির তথ্য ছাড়া পাওয়া সম্ভব নয়। প্রচুরক: প্রচুরক নির্ণয়ের জন্য ফ্রিকোয়েন্সি ডিস্ট্রিবিউশনে সর্বোচ্চ ফ্রিকোয়েন্সি সম্পন্ন শ্রেণি নির্ণয় করতে হয়, যা সর্বোচ্চ মান জানা ছাড়া সম্ভব নয়।"
+    },
+    {
+      "number": "8",
+      "tag": "RC 25",
+      "question": "কালীন সারির উপাদান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সাধারণ ধারা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "চক্রক্রমিক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ঋতুগত ভেদ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সবই",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সাধারণ ধারা",
+      "option_b": "চক্রক্রমিক",
+      "option_c": "ঋতুগত ভেদ",
+      "option_d": "সবই",
+      "correct": "ঘ",
+      "explanation": "কালীন সারির উপাদান বলতে বোঝানো হয় কোন সময়ের সঙ্গে সংশ্লিষ্ট বিভিন্ন উপাদানগুলিকে, যা একটি সময়ের উপর ভিত্তি করে পরিবর্তিত হয়। যেমন, মৌসুমি পরিবর্তন, চক্রক্রমিক পরিবর্তন, এবং সাধারণ ধারা পরিবর্তন।"
+    },
+    {
+      "number": "9",
+      "tag": "RC 25",
+      "question": "কালীন সারির উপাদান কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "খ",
+      "explanation": "কালীন সারির উপাদান সংখ্যা হচ্ছে 4। ১. ধারা বা প্রবণতা (Trend) ২. ঋতুগত ভেদ (Seasonal Variation) ৩. চক্রাকার ভেদ (Cyclical Variation) ৪. অসামান্য ভেদ বা দৈব ভেদ (Irregular or Random Variation)"
+    },
+    {
+      "number": "10",
+      "tag": "RC 25",
+      "question": "কালীন সারির সাধারণ ধারা নির্ণয়ের পদ্ধতি কোনটি? i. আধা গড় পদ্ধতি ii. চলিষ্ণু গড় পদ্ধতি iii. জ্যামিতিক গড় পদ্ধতি নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "কালীন সারির সাধারণ ধারা নির্ণয়ের জন্য প্রধানত আধা গড় পদ্ধতি এবং চলিষ্ণু গড় পদ্ধতি ব্যবহৃত হয়। এই পদ্ধতিগুলো সময়ের সাথে সাথে ডেটা পয়েন্টগুলির গড় নির্ণয় করে থাকে, যা কোনো নির্দিষ্ট প্রবণতা বা প্যাটার্নের চিহ্নিত করতে সাহায্য করে।"
+    },
+    {
+      "number": "11",
+      "tag": "RC 25",
+      "question": "কালীন সারির কয় ধরনের মডেল আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": "কালীন সারির দুই ধরনের মডেল বিদ্যমান। যোজন মডেল। গুণন মডেল।"
+    },
+    {
+      "number": "12",
+      "tag": "RC 25",
+      "question": "বাংলাদেশের পরিসংখ্যানের প্রধান উৎস কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পরিসংখ্যান ব্যুরো",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "পরিসংখ্যান বোর্ড",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পরিসংখ্যান অধিদপ্তর",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পরিসংখ্যান পরিদপ্তর",
+          "is_correct": false
+        }
+      ],
+      "option_a": "পরিসংখ্যান ব্যুরো",
+      "option_b": "পরিসংখ্যান বোর্ড",
+      "option_c": "পরিসংখ্যান অধিদপ্তর",
+      "option_d": "পরিসংখ্যান পরিদপ্তর",
+      "correct": "ক",
+      "explanation": "বাংলাদেশের পরিসংখ্যানের প্রধান উৎস হলো \"পরিসংখ্যান ব্যুরো\"। এটি মূল পরিসংখ্যান সংস্থা যা দেশের বিভিন্ন ধরনের পরিসংখ্যান তথ্য সংগ্রহ, প্রক্রিয়াজাতকরণ এবং প্রকাশ করে।"
+    },
+    {
+      "number": "13",
+      "tag": "RC 25",
+      "question": "কোন প্রতিষ্ঠান কৃষিশুমারি পরিচালনা করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কৃষি মন্ত্রণালয়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "BARI",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "BRRI",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পরিসংখ্যান ব্যুরো",
+          "is_correct": true
+        }
+      ],
+      "option_a": "কৃষি মন্ত্রণালয়",
+      "option_b": "BARI",
+      "option_c": "BRRI",
+      "option_d": "পরিসংখ্যান ব্যুরো",
+      "correct": "ঘ",
+      "explanation": "কৃষিশুমারি পরিচালনা করে পরিসংখ্যান ব্যুরো। পরিসংখ্যান ব্যুরো (Bangladesh Bureau of Statistics) বিভিন্ন ধরনের শুমারি ও জরিপ পরিচালনা করে থাকে, যার মধ্যে কৃষিশুমারি অন্যতম।"
+    },
+    {
+      "number": "14",
+      "tag": "RC 25",
+      "question": "উৎস বিবেচনায় বাংলাদেশের প্রকাশিত পরিসংখ্যান কত প্রকার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "5",
+      "option_d": "7",
+      "correct": "ক",
+      "explanation": "বাংলাদেশের প্রকাশিত পরিসংখ্যান উৎসের ভিত্তিতে প্রধানত ২ প্রকার। প্রাথমিক (Primary) পরিসংখ্যান: যা সরাসরি তথ্য সংগ্রহের মাধ্যমে সংগৃহীত হয়। মাধ্যমিক (Secondary) পরিসংখ্যান: যা অন্য উৎস থেকে সংগৃহীত ও সঙ্কলিত হয়।"
+    },
+    {
+      "number": "15",
+      "tag": "RC 25",
+      "question": "2011- সালের আদম শুমারি অনুযায়ী জনসংখ্যা বৃদ্ধির হার হলো-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.22%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1.34%",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1.37%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1.48%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.22%",
+      "option_b": "1.34%",
+      "option_c": "1.37%",
+      "option_d": "1.48%",
+      "correct": "খ",
+      "explanation": "২০১১ সালের আদম শুমারি অনুযায়ী বাংলাদেশের জনসংখ্যা বৃদ্ধির হার ছিল ১.৩৪% ।"
+    },
+    {
+      "number": "16",
+      "tag": "RC 25",
+      "question": "বাংলাদেশে ২য় আদমশুমারি হয় কত সালে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1971",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1974",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1981",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2011",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1971",
+      "option_b": "1974",
+      "option_c": "1981",
+      "option_d": "2011",
+      "correct": "গ",
+      "explanation": "বাংলাদেশে ২য় আদমশুমারি হয় ১৯৮১ সালে।"
+    },
+    {
+      "number": "17",
+      "tag": "RC 25",
+      "question": "10, 12, 14........ 24 ধারাটির গাণিতিক গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "17",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24",
+          "is_correct": false
+        }
+      ],
+      "option_a": "14",
+      "option_b": "17",
+      "option_c": "18",
+      "option_d": "24",
+      "correct": "খ",
+      "explanation": "প্রদত্ত ধারাটি একটি সমান্তর ধারার (Arithmetic Sequence) উদাহরণ, যেখানে প্রথম সংখ্যা a = 10 a = 10 a = 10 এবং সাধারণ পার্থক্য d = 2 d = 2 d = 2 । ধারাটির শেষ সংখ্যা l = 24 l = 24 l = 24 । সমান্তর ধারার গাণিতিক গড় বের করার জন্য আমরা প্রথম ও শেষ সংখ্যার গড় হিসাব করি: গড় = a + l 2 \\text{গড়} = \\frac{a + l}{2} গড় = 2 a + l ​ গড় = 10 + 24 2 = 34 2 = 17 \\text{গড়} = \\frac{10 + 24}{2} = \\frac{34}{2} = 17 গড় = 2 10 + 24 ​ = 2 34 ​ = 17"
+    },
+    {
+      "number": "18",
+      "tag": "RC 25",
+      "question": "পরিমাপন স্কেল কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "২টি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3টি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4টি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5টি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "২টি",
+      "option_b": "3টি",
+      "option_c": "4টি",
+      "option_d": "5টি",
+      "correct": "গ",
+      "explanation": "পরিমাপনের জন্য সাধারণত চারটি স্কেল ব্যবহৃত হয়: নামিক (Nominal), ক্রমানুসারী (Ordinal), অন্তরক (Interval), এবং অনুপাত (Ratio)।"
+    },
+    {
+      "number": "19",
+      "tag": "RC 25,DCC 24,DRMC 24,BNSC 24,CTGC.C 24,All.B 22",
+      "question": "নিচের কোনটি পরিসংখ্যানের বৈশিষ্ট্য?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তথ্যের সমষ্টি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "তথ্য সংগ্রহ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তথ্য উপস্থাপন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "তথ্য বিশ্লেষণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "তথ্যের সমষ্টি",
+      "option_b": "তথ্য সংগ্রহ",
+      "option_c": "তথ্য উপস্থাপন",
+      "option_d": "তথ্য বিশ্লেষণ",
+      "correct": "ক",
+      "explanation": "সঠিক উত্তর: ক. তথ্যের সমষ্টি পরিসংখ্যানের বৈশিষ্ট্যসমূহের মধ্যে অন্যতম হলো: এটি তথ্যের সমষ্টি নিয়ে কাজ করে — যেমন সংখ্যাগত বা বর্ণনামূলক তথ্য। এই তথ্য সংগ্রহ, বিশ্লেষণ, উপস্থাপন ও ব্যাখ্যার মাধ্যমে সিদ্ধান্ত গ্রহণে সহায়তা করে। পরিসংখ্যান পরিমাপযোগ্য ও তুলনামূলক তথ্যের ভিত্তিতে কাজ করে। এটি উপসংহার টানার একটি বৈজ্ঞানিক পদ্ধতি । উদাহরণ: একটি স্কুলে ছাত্রদের পরীক্ষার নম্বর সংগ্রহ করে গড় নির্ণয় করা — এটি পরিসংখ্যানের ব্যবহার, যেখানে \"তথ্যের সমষ্টি\" হলো নম্বরগুলো। আপনি চাইলে আমি পরিসংখ্যানের সংজ্ঞা, বৈশিষ্ট্য ও কার্যাবলী নিয়ে একটি তুলনামূলক চার্ট বানিয়ে দিতে পারি শিক্ষার্থীদের বোঝার সুবিধার্থে। আগ্রহী?"
+    },
+    {
+      "number": "20",
+      "tag": "RC 25",
+      "question": "প্রথম স্বাভাবিক n সংখ্যক বিজোড় সংখ্যার গড় কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "n+1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "n+1/2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "n-1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "n",
+          "is_correct": true
+        }
+      ],
+      "option_a": "n+1",
+      "option_b": "n+1/2",
+      "option_c": "n-1",
+      "option_d": "n",
+      "correct": "ঘ",
+      "explanation": "প্রথম স্বাভাবিক n n n সংখ্যক বিজোড় সংখ্যার গড় নির্ণয়ের জন্য প্রথম বিজোড় সংখ্যাগুলি হচ্ছে 1, 3, 5, ..., (2n - 1) পর্যন্ত। এদের সমষ্টি হল - 1 + 3 + 5 + ⋯ + ( 2 n − 1 ) = n 2 1 + 3 + 5 + \\cdots + (2n - 1) = n^2 1 + 3 + 5 + ⋯ + ( 2 n − 1 ) = n 2 (কারণ প্রথম n n n সংখ্যক বিজোড় সংখ্যার সমষ্টি সমান n 2 n^2 n 2 )। এখন, গড় নির্ণয় করার জন্য - গড় = সমস্ত সংখ্যার সমষ্টি সংখ্যার সংখ্যা = n 2 n = n \\frac{\\text{সমস্ত সংখ্যার সমষ্টি}}{\\text{সংখ্যার সংখ্যা}} = \\frac{n^2}{n} = n সংখ্যার   সংখ্যা সমস্ত   সংখ্যার   সমষ্টি ​ = n n 2 ​ = n সুতরাং, প্রথম স্বাভাবিক n n n সংখ্যক বিজোড় সংখ্যার গড় হলো n n n ।"
+    },
+    {
+      "number": "21",
+      "tag": "RC 25",
+      "question": "প্রথম n স্বাভাবিক সংখ্যার মধ্যমা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "n 2 \\frac{n}{2} 2 n ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "n + 1 2 \\frac{n+1}{2} 2 n + 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "n ( n + 1 ) 2 \\frac{n(n+1)}{2} 2 n ( n + 1 ) ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "n 2 − 1 12 \\frac{n^{2}-1}{12} 12 n 2 − 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "n 2 \\frac{n}{2} 2 n ​",
+      "option_b": "n + 1 2 \\frac{n+1}{2} 2 n + 1 ​",
+      "option_c": "n ( n + 1 ) 2 \\frac{n(n+1)}{2} 2 n ( n + 1 ) ​",
+      "option_d": "n 2 − 1 12 \\frac{n^{2}-1}{12} 12 n 2 − 1 ​",
+      "correct": "খ",
+      "explanation": "প্রথম n n n স্বাভাবিক সংখ্যা হল 1 , 2 , 3 , … , n 1, 2, 3, \\ldots, n 1 , 2 , 3 , … , n । তাদের মধ্যমা, বা মিডিয়ান নির্ণয়ের জন্য আমরা প্রথমে দেখতে হবে যে n n n বিজোড় নাকি জোড় সংখ্যা। যদি n n n বিজোড় সংখ্যা হয়: মধ্যম সংখ্যাটি হবে n + 1 2 \\frac{n+1}{2} 2 n + 1 ​ তম সংখ্যা। যদি n n n জোড় সংখ্যা হয়: মধ্য দুটি সংখ্যার গড় হিসেব করতে হবে। অর্থাৎ n 2 \\frac{n}{2} 2 n ​ তম এবং n 2 + 1 \\frac{n}{2} + 1 2 n ​ + 1 তম সংখ্যার গড়।"
+    },
+    {
+      "number": "22",
+      "tag": "RC 25",
+      "question": "1, 2, 3........ 11 এর দ্বিতীয় কেন্দ্রীয় পরিঘাতের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5",
+      "option_b": "7",
+      "option_c": "9",
+      "option_d": "10",
+      "correct": "ঘ",
+      "explanation": "প্রথমে সংখ্যা ১ থেকে ১১ এর গড় বা মধ্যক বের করতে হবে। সংখ্যাগুলোর গড় বা মধ্যক (Mean): (গড়) x ˉ = 1 + 2 + 3 + … + 11 11 = 66 11 = 6 \\bar{x} = \\frac{{1 + 2 + 3 + \\ldots + 11}}{11} = \\frac{66}{11} = 6 x ˉ = 11 1 + 2 + 3 + … + 11 ​ = 11 66 ​ = 6 এখন, দ্বিতীয় কেন্দ্রীয় পরিঘাত বোঝাতে বোঝানো হচ্ছে গড় থেকে প্রতিটি সংখ্যার বর্গযুক্ত বিচ্যুতি মানের গড়: Second central moment = 1 n ∑ i = 1 n ( x i − x ˉ ) 2 \\text{Second central moment} = \\frac{1}{n}\\sum_{i=1}^{n} (x_i - \\bar{x})^2 Second central moment = n 1 ​ ∑ i = 1 n ​ ( x i ​ − x ˉ ) 2 এখানে x i x_i x i ​ হল প্রতিটি সংখ্যা এবং x ˉ \\bar{x} x ˉ হল গড়। = 1 11 ( ( 1 − 6 ) 2 + ( 2 − 6 ) 2 + ( 3 − 6 ) 2 + … + ( 11 − 6 ) 2 ) = \\frac{1}{11}\\left((1 - 6)^2 + (2 - 6)^2 + (3 - 6)^2 + \\ldots + (11 - 6)^2\\right) = 11 1 ​ ( ( 1 − 6 ) 2 + ( 2 − 6 ) 2 + ( 3 − 6 ) 2 + … + ( 11 − 6 ) 2 ) = 1 11 ( 25 + 16 + 9 + 4 + 1 + 0 + 1 + 4 + 9 + 16 + 25 ) = \\frac{1}{11} \\left( 25 + 16 + 9 + 4 + 1 + 0 + 1 + 4 + 9 + 16 + 25 \\right) = 11 1 ​ ( 25 + 16 + 9 + 4 + 1 + 0 + 1 + 4 + 9 + 16 + 25 ) = 1 11 × 110 = \\frac{1}{11} \\times 110 = 11 1 ​ × 110 = 10 = 10 = 10"
+    },
+    {
+      "number": "23",
+      "tag": "RC 25",
+      "question": "সুষম নিবেশনের ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x ‾ = M e = M o \\overline{\\mathrm{x}}=\\mathrm{Me}=\\mathrm{Mo} x = Me = Mo",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x ˉ < M e < M o \\bar{x}<\\mathrm{Me}<\\mathrm{Mo} x ˉ < Me < Mo",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x ‾ > M e > M o \\overline{\\mathrm{x}}>\\mathrm{Me}>\\mathrm{Mo} x > Me > Mo",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x ˉ ≤ M e ≤ M o \\bar{x} \\leq M e \\leq M o x ˉ ≤ M e ≤ M o",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x ‾ = M e = M o \\overline{\\mathrm{x}}=\\mathrm{Me}=\\mathrm{Mo} x = Me = Mo",
+      "option_b": "x ˉ < M e < M o \\bar{x}<\\mathrm{Me}<\\mathrm{Mo} x ˉ < Me < Mo",
+      "option_c": "x ‾ > M e > M o \\overline{\\mathrm{x}}>\\mathrm{Me}>\\mathrm{Mo} x > Me > Mo",
+      "option_d": "x ˉ ≤ M e ≤ M o \\bar{x} \\leq M e \\leq M o x ˉ ≤ M e ≤ M o",
+      "correct": "ক",
+      "explanation": "সুষম নিবেশনের ক্ষেত্রে গাণিতিক গড় ( x ‾ \\overline{x} x ), মধ্যক ( M e \\mathrm{Me} Me ) এবং মোড ( M o \\mathrm{Mo} Mo ) সমান হয়ে থাকে। অর্থাৎ x ‾ = M e = M o \\overline{x} = \\mathrm{Me} = \\mathrm{Mo} x = Me = Mo । কারণ, সুষম নিবেশনে তথ্যগুলি সমানভাবে বিতরণ করা থাকে এবং কোনরূপ পক্ষপাতিত্ব নেই।"
+    },
+    {
+      "number": "24",
+      "tag": "RC 25",
+      "question": "একটি মধ্যম সূঁচাল নিবেশনের আদর্শ বিচ্যুতি 2 হলে চতুর্থ কেন্দ্রীয় পরিঘাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "48",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "8",
+      "option_c": "16",
+      "option_d": "48",
+      "correct": "ঘ",
+      "explanation": "এখানে, আদর্শ বিচ্যুতি (σ) = 2 চতুর্থ কেন্দ্রীয় পরিঘাত (μ₄) = 3σ⁴ = 3 * (2⁴) = 3 * 16 = 48।"
+    },
+    {
+      "number": "1",
+      "tag": "RC 25",
+      "question": "2, 1, 0, 5, 6, 7,-4 উদ্দীপকের আলোকে তথ্যগুলো লক্ষ করো- i. নিবেশনের তৃতীয় চতুর্থক ১ ii. নিবেশনের মিডরেঞ্জ 0.5 iii. নিবেশনের মিডহিঞ্জ 0.5 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

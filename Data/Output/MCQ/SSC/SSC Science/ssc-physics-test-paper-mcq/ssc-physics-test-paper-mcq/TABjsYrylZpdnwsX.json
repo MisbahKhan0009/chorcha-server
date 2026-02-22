@@ -1,0 +1,832 @@
+{
+  "read_id": "TABjsYrylZpdnwsX",
+  "title": "দিনাজপুর বোর্ড ২০১৭",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CPSCM 24,DIN.B 17",
+      "question": "আপতন কোণ i এবং ক্রান্তি কোণ θ c \\theta_{c} θ c ​ হলে, নিচের কোনটি পূর্ণ অভ্যন্তরীণ প্রতিফলনের শর্ত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ≤ θ c \\mathrm{i} \\leq \\theta_{\\mathrm{c}} i ≤ θ c ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i > θ c \\mathrm{i}>\\theta_{\\mathrm{c}} i > θ c ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "i < θ c \\mathrm{i}<\\theta_{\\mathrm{c}} i < θ c ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i = θ c \\mathrm{i}=\\theta_{\\mathrm{c}} i = θ c ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ≤ θ c \\mathrm{i} \\leq \\theta_{\\mathrm{c}} i ≤ θ c ​",
+      "option_b": "i > θ c \\mathrm{i}>\\theta_{\\mathrm{c}} i > θ c ​",
+      "option_c": "i < θ c \\mathrm{i}<\\theta_{\\mathrm{c}} i < θ c ​",
+      "option_d": "i = θ c \\mathrm{i}=\\theta_{\\mathrm{c}} i = θ c ​",
+      "correct": "খ",
+      "explanation": "∎ পূর্ণ অভ্যন্তরীণ প্রতিফলনের শর্ত: আলোকরশ্মিকে অবশ্যই ঘন মাধ্যম থেকে হালকা মাধ্যমের অভিমুখে যেতে হবে এবং দুই মাধ্যমের বিভেদতলে আপতিত হতে হবে। ঘন মাধ্যমে আপাতন কোণ ক্রান্তি কোণের চেয়ে বড় হতে হবে। অর্থাৎ, আপাতন কোণ > ক্রান্তিকোণ। দ্বিতীয় শর্তানুসারে এখানে আপাতন কোণ i, ক্রান্তি কোণ Qc এর চেয়ে বড় হবে।"
+    },
+    {
+      "number": "2",
+      "tag": "DIN.B 17",
+      "question": "একটি তারের রোধ 5 Ω 5 \\Omega 5Ω হলে এর পরিবাহিতা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.1 Ω − 1 0.1 \\Omega^{-1} 0.1 Ω − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.2   m Ω − 1 0.2 \\mathrm{~m} \\Omega^{-1} 0.2   m Ω − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.2 Ω − 1 0.2 \\Omega^{-1} 0.2 Ω − 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4 Ω − 1 4 \\Omega^{-1} 4 Ω − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.1 Ω − 1 0.1 \\Omega^{-1} 0.1 Ω − 1",
+      "option_b": "0.2   m Ω − 1 0.2 \\mathrm{~m} \\Omega^{-1} 0.2   m Ω − 1",
+      "option_c": "0.2 Ω − 1 0.2 \\Omega^{-1} 0.2 Ω − 1",
+      "option_d": "4 Ω − 1 4 \\Omega^{-1} 4 Ω − 1",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "DIN.B 17",
+      "question": "অর্ধ পরিবাহী পদার্থ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সিজিয়াম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "জার্মেনিয়াম",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "কাঁচ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্লাস্টিক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সিজিয়াম",
+      "option_b": "জার্মেনিয়াম",
+      "option_c": "কাঁচ",
+      "option_d": "প্লাস্টিক",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "DIN.B 17",
+      "question": "ফটোকপিয়ার মেশিনে সাদা অংশ থেকে প্রতিফলিত আলো কোনটির উপর কেন্দ্রীভূত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ড্রামের",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "টোনারের",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কাঁচের",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কার্বন পাউডারের",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ড্রামের",
+      "option_b": "টোনারের",
+      "option_c": "কাঁচের",
+      "option_d": "কার্বন পাউডারের",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "DIN.B 17",
+      "question": "নিচের কোন রশ্মির দ্রুতি 3 × 10 8   m s − 1 3 \\times 10^{8} \\mathrm{~ms}^{-1} 3 × 1 0 8   ms − 1 ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আলফা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "গামা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "এক্সরে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "খ ও গ উভয়ই",
+          "is_correct": true
+        }
+      ],
+      "option_a": "আলফা",
+      "option_b": "গামা",
+      "option_c": "এক্সরে",
+      "option_d": "খ ও গ উভয়ই",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "DIN.B 17",
+      "question": "শপিংমলে নিরাপত্তার কাজে কোনটি ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমতল দর্পণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অবতল দর্পণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উত্তল দর্পণ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "গোলীয় দর্পণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমতল দর্পণ",
+      "option_b": "অবতল দর্পণ",
+      "option_c": "উত্তল দর্পণ",
+      "option_d": "গোলীয় দর্পণ",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "DIN.B 17",
+      "question": "50 cm ফোকাস দূরত্ববিশিষ্ট উত্তল লেন্সের ক্ষমতা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2D",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-0.2D",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.2D",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2D",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-2D",
+      "option_b": "-0.2D",
+      "option_c": "0.2D",
+      "option_d": "2D",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "DIN.B 17",
+      "question": "npn কি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডায়োড",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ট্রায়োড",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "রেকটিফায়ার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ট্রানজিস্টর",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ডায়োড",
+      "option_b": "ট্রায়োড",
+      "option_c": "রেকটিফায়ার",
+      "option_d": "ট্রানজিস্টর",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "DIN.B 17",
+      "question": "একটি ট্রান্সফরমারের মূখ্য ও গৌণ কুণ্ডলীর পাকসংখ্যা যথাক্রমে 10 ও 75। মূখ্য কুণ্ডলীর তড়িৎ প্রবাহ 5A হলে, গৌণ কুণ্ডলীর প্রবাহ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.67",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0.73",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.69",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "37.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.67",
+      "option_b": "0.73",
+      "option_c": "0.69",
+      "option_d": "37.5",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "DIN.B 17",
+      "question": "অপটিক্যাল ফাইবারের পদার্থের প্রতিসরণাঙ্ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.75",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1.33",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1.5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1.7",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0.75",
+      "option_b": "1.33",
+      "option_c": "1.5",
+      "option_d": "1.7",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "DIN.B 17",
+      "question": "টাংস্টেন এর রোধকত্ব নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.7 × 10 − 8 Ω m 1.7 \\times 10^{-8} \\Omega \\mathrm{m} 1.7 × 1 0 − 8 Ω m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1.6 × 10 − 8 Ω m 1.6 \\times 10^{-8} \\Omega \\mathrm{m} 1.6 × 1 0 − 8 Ω m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5.5 × 10 − 8 Ω m 5.5 \\times 10^{-8} \\Omega \\mathrm{m} 5.5 × 1 0 − 8 Ω m",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "100 × 10 − 8 Ω m 100 \\times 10^{-8} \\Omega \\mathrm{m} 100 × 1 0 − 8 Ω m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.7 × 10 − 8 Ω m 1.7 \\times 10^{-8} \\Omega \\mathrm{m} 1.7 × 1 0 − 8 Ω m",
+      "option_b": "1.6 × 10 − 8 Ω m 1.6 \\times 10^{-8} \\Omega \\mathrm{m} 1.6 × 1 0 − 8 Ω m",
+      "option_c": "5.5 × 10 − 8 Ω m 5.5 \\times 10^{-8} \\Omega \\mathrm{m} 5.5 × 1 0 − 8 Ω m",
+      "option_d": "100 × 10 − 8 Ω m 100 \\times 10^{-8} \\Omega \\mathrm{m} 100 × 1 0 − 8 Ω m",
+      "correct": "গ",
+      "explanation": "পদার্থ রোধকত্ব /আপেক্ষিক রোধ রূপা 1.59 × 10 − 8 Ω m 1.5 9\\times 10^{-8} \\Omega \\mathrm{m} 1.59 × 1 0 − 8 Ω m তামা 1.68 × 10 − 8 Ω m 1.68 \\times 10^{-8} \\Omega \\mathrm{m} 1.68 × 1 0 − 8 Ω m টাংস্টেন 5.5 × 10 − 8 Ω m 5.5 \\times 10^{-8} \\Omega \\mathrm{m} 5.5 × 1 0 − 8 Ω m"
+    },
+    {
+      "number": "12",
+      "tag": "DIN.B 17",
+      "question": "হ্রস্ব দৃষ্টির কারণ হলো- i. চক্ষু লেন্সের অভিসারী ক্ষমতা বেড়ে যাওয়া ii. অক্ষি গোলকের ব্যাসার্ধ কমে যাওয়া iii. চক্ষু লেন্সের ফোকাস দূরত্ব কমে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "DIN.B 17",
+      "question": "d ব্যাস ও h উচ্চতাবিশিষ্ট কোনো সিলিন্ডারের আয়তন নির্ণয়ের সূত্র কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π d 2 h \\pi \\mathrm{d}^{2} h π d 2 h",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 π d h \\frac{1}{4} \\pi \\mathrm{dh} 4 1 ​ π dh",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 4 π d 2 h \\frac{1}{4} \\pi \\mathrm{d}^{2} \\mathrm{h} 4 1 ​ π d 2 h",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 6 π d 2 h \\frac{1}{6} \\pi \\mathrm{d}^{2} \\mathrm{h} 6 1 ​ π d 2 h",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π d 2 h \\pi \\mathrm{d}^{2} h π d 2 h",
+      "option_b": "1 4 π d h \\frac{1}{4} \\pi \\mathrm{dh} 4 1 ​ π dh",
+      "option_c": "1 4 π d 2 h \\frac{1}{4} \\pi \\mathrm{d}^{2} \\mathrm{h} 4 1 ​ π d 2 h",
+      "option_d": "1 6 π d 2 h \\frac{1}{6} \\pi \\mathrm{d}^{2} \\mathrm{h} 6 1 ​ π d 2 h",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "DIN.B 17",
+      "question": "কোন পদার্থের ঘনত্ব বেশি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পানি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বরফ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "গ্লিসারিন",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "কেরোসিন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "পানি",
+      "option_b": "বরফ",
+      "option_c": "গ্লিসারিন",
+      "option_d": "কেরোসিন",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "DIN.B 17",
+      "question": "লেন্সের বক্রতার কেন্দ্র কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "একটি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দুইটি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "তিনটি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "চারটি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "একটি",
+      "option_b": "দুইটি",
+      "option_c": "তিনটি",
+      "option_d": "চারটি",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "DIN.B 17",
+      "question": "সুস্থ মানুষের দেহের তাপমাত্রা কত কেলভিন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "36.89 K",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "98.4 K",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "136.89 K",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "309.89 K",
+          "is_correct": true
+        }
+      ],
+      "option_a": "36.89 K",
+      "option_b": "98.4 K",
+      "option_c": "136.89 K",
+      "option_d": "309.89 K",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "DIN.B 17",
+      "question": "চিত্রে 100g বস্তুর গতির অবস্থা দেখানো হয়েছে A বিন্দুতে বস্তুটির গতিশক্তি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 J",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20 J",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "30 J",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40 J",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 J",
+      "option_b": "20 J",
+      "option_c": "30 J",
+      "option_d": "40 J",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "DIN.B 17",
+      "question": "চিত্রে 100g বস্তুর গতির অবস্থা দেখানো হয়েছে। বস্তুটির— i. বেগ সুষম ii. ত্বরণ সুষম iii. উপর প্রযুক্ত বল সুষম নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "ii",
+      "option_c": "iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "DIN.B 17",
+      "question": "তূল্য রোধের মান কত ওহম?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.083",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1.83",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1.00",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.923",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1.083",
+      "option_b": "1.83",
+      "option_c": "1.00",
+      "option_d": "0.923",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "DIN.B 17",
+      "question": "যদি সকল রোধ শ্রেণি সন্নিবেশে সংযুক্ত করা হয় তবে বর্তনীর প্রবাহ- i. হ্রাস পাবে ii. বৃদ্ধি পাবে iii. অপরিবর্তীত থাকবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "ii",
+      "option_c": "i ও ii",
+      "option_d": "i ও iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "DIN.B 17",
+      "question": "30NC − 1 { }^{-1} − 1 তড়িৎ তীব্রতার তড়িৎক্ষেত্রে 10C এর আহিত বস্তু স্থাপন করলে সেটি কত বল লাভ করবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3N",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20N",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "200N",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "300N",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3N",
+      "option_b": "20N",
+      "option_c": "200N",
+      "option_d": "300N",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "DIN.B 17",
+      "question": "q 1 \\mathrm{q}_{1} q 1 ​ ও q 2 \\mathrm{q}_{2} q 2 ​ দুইটি আধানের মধ্যবত্তী দূরত্ব d হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "F = C q 1 q 2   d 2 \\mathrm{F}=\\frac{\\mathrm{Cq}_{1} \\mathrm{q}_{2}}{\\mathrm{~d}^{2}} F =   d 2 Cq 1 ​ q 2 ​ ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "F = C q 1 q 2   d \\mathrm{F}=\\frac{\\mathrm{Cq}_{1} \\mathrm{q}_{2}}{\\mathrm{~d}} F =   d Cq 1 ​ q 2 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "F ∝ q 1 q 2 d F \\propto \\frac{q_{1} q_{2}}{d} F ∝ d q 1 ​ q 2 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "F ∝ d 2 q 1 q 2 \\mathrm{F} \\propto \\frac{\\mathrm{d}^{2}}{\\mathrm{q}_{1} \\mathrm{q}_{2}} F ∝ q 1 ​ q 2 ​ d 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "F = C q 1 q 2   d 2 \\mathrm{F}=\\frac{\\mathrm{Cq}_{1} \\mathrm{q}_{2}}{\\mathrm{~d}^{2}} F =   d 2 Cq 1 ​ q 2 ​ ​",
+      "option_b": "F = C q 1 q 2   d \\mathrm{F}=\\frac{\\mathrm{Cq}_{1} \\mathrm{q}_{2}}{\\mathrm{~d}} F =   d Cq 1 ​ q 2 ​ ​",
+      "option_c": "F ∝ q 1 q 2 d F \\propto \\frac{q_{1} q_{2}}{d} F ∝ d q 1 ​ q 2 ​ ​",
+      "option_d": "F ∝ d 2 q 1 q 2 \\mathrm{F} \\propto \\frac{\\mathrm{d}^{2}}{\\mathrm{q}_{1} \\mathrm{q}_{2}} F ∝ q 1 ​ q 2 ​ d 2 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "DIN.B 17",
+      "question": "40 kg ভরের এক বালক 12s এ 6m উঁচু সিড়ি অতিক্রম করলে তার ক্ষমতা কত ওয়াট হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "32.66",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "196",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "786",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20",
+      "option_b": "32.66",
+      "option_c": "196",
+      "option_d": "786",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "DIN.B 17",
+      "question": "গাড়ির ইঞ্জিনে শক্তির রূপান্তরের ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "যান্ত্রিক শক্তি → \\rightarrow → রাসায়নিক শক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "রাসায়নিক শক্তি → \\rightarrow → যান্ত্রিক শক্তি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "তাপ শক্তি → \\rightarrow → রাসায়নিক শক্তি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "রাসায়নিক শক্তি → \\rightarrow → তড়িৎ শক্তি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "যান্ত্রিক শক্তি → \\rightarrow → রাসায়নিক শক্তি",
+      "option_b": "রাসায়নিক শক্তি → \\rightarrow → যান্ত্রিক শক্তি",
+      "option_c": "তাপ শক্তি → \\rightarrow → রাসায়নিক শক্তি",
+      "option_d": "রাসায়নিক শক্তি → \\rightarrow → তড়িৎ শক্তি",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "DIN.B 17",
+      "question": "চিত্রে OA লক্ষ্যবস্তুর বিম্বের অবস্থান কোথায় হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অসীমে",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ফোকাস ও মেরুর মাঝে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্রধান ফোকাসে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বক্রতার কেন্দে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অসীমে",
+      "option_b": "ফোকাস ও মেরুর মাঝে",
+      "option_c": "প্রধান ফোকাসে",
+      "option_d": "বক্রতার কেন্দে",
+      "correct": "ক",
+      "explanation": ""
+    }
+  ]
+}

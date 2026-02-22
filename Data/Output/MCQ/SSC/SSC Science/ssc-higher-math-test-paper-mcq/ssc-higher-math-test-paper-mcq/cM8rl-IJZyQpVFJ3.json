@@ -1,0 +1,822 @@
+{
+  "read_id": "cM8rl-IJZyQpVFJ3",
+  "title": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DRMC 24,GLHSD 24,BMARPC 24,JB 19,ACC 24",
+      "question": "নিচের কোনটি এক-এক ফাংশন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "F ( x ) = ( x + 4 ) 2 F(x)=(x+4)^{2} F ( x ) = ( x + 4 ) 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "F ( x ) = ∣ x − 3 ∣ F(x)=|x-3| F ( x ) = ∣ x − 3∣",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "F ( x ) = e x F(x)=e^{x} F ( x ) = e x",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "F ( x ) = 5 ∣ x ∣ , x ≠ 0 F(x)=\\frac{5}{|x|}, x \\neq 0 F ( x ) = ∣ x ∣ 5 ​ , x  = 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "F ( x ) = ( x + 4 ) 2 F(x)=(x+4)^{2} F ( x ) = ( x + 4 ) 2",
+      "option_b": "F ( x ) = ∣ x − 3 ∣ F(x)=|x-3| F ( x ) = ∣ x − 3∣",
+      "option_c": "F ( x ) = e x F(x)=e^{x} F ( x ) = e x",
+      "option_d": "F ( x ) = 5 ∣ x ∣ , x ≠ 0 F(x)=\\frac{5}{|x|}, x \\neq 0 F ( x ) = ∣ x ∣ 5 ​ , x  = 0",
+      "correct": "গ",
+      "explanation": "একটি ফাংশন এক এক হবে যদি তার ডোমেইনের (input) ভিন্ন ভিন্ন মানের জন্য কোডোমেইনে (output) ভিন্ন ভিন্ন মান পাওয়া যায়। অর্থাৎ, কোনো দুটি ভিন্ন ইনপুটের জন্য একই আউটপুট পাওয়া যাবে না। ক) দুটি ভিন্ন ইনপুট নেওয়া যাক যাদের আউটপুট একই: - x 1 = − 5 x_{1}=-5 x 1 ​ = − 5 रলে, F ( − 5 ) = ( − 5 + 4 ) 2 = ( − 1 ) 2 = 1 F(-5)=(-5+4)^{2}=(-1)^{2}=1 F ( − 5 ) = ( − 5 + 4 ) 2 = ( − 1 ) 2 = 1 - x 2 = − 3 x_{2}=-3 x 2 ​ = − 3 रलে, F ( − 3 ) = ( − 3 + 4 ) 2 = ( 1 ) 2 = 1 F(-3)=(-3+4)^{2}=(1)^{2}=1 F ( − 3 ) = ( − 3 + 4 ) 2 = ( 1 ) 2 = 1 এখানে x 1 ≠ x 2 x_{1} \\neq x_{2} x 1 ​  = x 2 ​ কিন্তু F ( x 1 ) = F ( x 2 ) = 1 F\\left(x_{1}\\right)=F\\left(x_{2}\\right)=1 F ( x 1 ​ ) = F ( x 2 ​ ) = 1 , যা এক-এক ফাংশনের শর্ত লঙঘন করে। যেহেতু F ( x ) = ( x + 4 ) 2 F(x)=(x+4)^{2} F ( x ) = ( x + 4 ) 2 -এর জন্য একাধিক ভিন্ন x x x -এর মান একই আউটপুট দেয়, তাই এটি এক-এক ফাংশন নয়। খ) ও ঘ ) একটি ফাংশন এক-এক হবে যদি প্রতিটি ভিন্ন ইনপুটের জন্য আউটপুটও ভিন্ন হয়। কিন্তু মডুলাস ফাংশনের ক্ষেত্রে: - f ( 1 ) = ∣ 1 ∣ = 1 f(1)=|1|=1 f ( 1 ) = ∣1∣ = 1 - f ( − 1 ) = ∣ − 1 ∣ = 1 f(-1)=|-1|=1 f ( − 1 ) = ∣ − 1∣ = 1 এখানে ভিন্ন ইনপুট 1 এবং - 1-এর জন্য আউটপুট একই (1)। তাই, মডুলাস ফাংশন এক-এক নয়। গ ) ধরি, F ( x 1 ) = F ( x 2 ) F\\left(x_{1}\\right)=F\\left(x_{2}\\right) F ( x 1 ​ ) = F ( x 2 ​ ) , অর্থাৎ e x 1 = e x 2 e^{x_{1}}=e^{x_{2}} e x 1 ​ = e x 2 ​ লগারিদম নিলে: ln ⁡ ( e x 1 ) = ln ⁡ ( e x 2 ) \\ln \\left(e^{x_{1}}\\right)=\\ln \\left(e^{x_{2}}\\right) ln ( e x 1 ​ ) = ln ( e x 2 ​ ) সুতরাং, x 1 = x 2 x_{1}=x_{2} x 1 ​ = x 2 ​ এর মানে ভিন্ন ইনপুটের জন্য আউটপুট কখনোই একই হয় না, তাই e x e^{x} e x এক-এক। সঠিক উত্তর (গ)"
+    },
+    {
+      "number": "2",
+      "tag": "DRMC 24",
+      "question": "নববিন্দু বৃত্তে- i. ভরকেন্দ্র মধ্যমাকে 2 : 1 অনুপাতে অন্তর্বিভক্ত করে ii. ত্রিভুজের লম্বকেন্দ্র এবং পরিকেন্দ্রের সংযোজক রেখার মধ্যবিন্দুই হলো নববিন্দুবৃত্তের কেন্দ্র iii. নববিন্দু বৃত্তের ব্যাসার্ধ ত্রিভুজের পরিব্যাসার্ধের দ্বিগুণ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "নববিন্দু বৃত্তে- i. ভরকেন্দ্র মধ্যমাকে 2 : 1 অনুপাতে অন্তর্বিভক্ত করে ii. ত্রিভুজের লম্বকেন্দ্র এবং পরিকেন্দ্রের সংযোজক রেখার মধ্যবিন্দুই হলো নববিন্দুবৃত্তের কেন্দ্র iii. নববিন্দু বৃত্তের ব্যাসার্ধ ত্রিভুজের পরিব্যাসার্ধের অর্ধেক সঠিক উত্তর- (ক)"
+    },
+    {
+      "number": "3",
+      "tag": "DRMC 24",
+      "question": "XY এর উপর AC এর লম্ব অভিক্ষেপ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "XY",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "AB",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "BC",
+          "is_correct": false
+        }
+      ],
+      "option_a": "XY",
+      "option_b": "0",
+      "option_c": "AB",
+      "option_d": "BC",
+      "correct": "খ",
+      "explanation": "XY এর উপর AC রেখার ছায়া নেই। সুতরাং লম্ব অভিক্ষেপের মান শূন্য হবে।"
+    },
+    {
+      "number": "4",
+      "tag": "DRMC 24",
+      "question": "ত্রিভুজের লম্বকেন্দ্র, ভরকেন্দ্র এবং পরিকেন্দ্র এর ক্ষেত্রে নিচের কোন শতটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমানুপাতিক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সদৃশ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমতলীয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "একই সরলরেখায় অবস্থিত",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সমানুপাতিক",
+      "option_b": "সদৃশ",
+      "option_c": "সমতলীয়",
+      "option_d": "একই সরলরেখায় অবস্থিত",
+      "correct": "ঘ",
+      "explanation": "শর্ত: ত্রিভুজের লম্বকেন্দ্র, ভরকেন্দ্র এবং পরিকেন্দ্র একই সরলরেখায় অবস্থান করে।"
+    },
+    {
+      "number": "5",
+      "tag": "CB 23,CB 22,BB 20,DIN.B 19,All.B 18,ACC 24",
+      "question": "একটি সমবাহু ত্রিভুজের প্রতিটি মধ্যমার দৈর্ঘ্য 3 সে.মি. হলে প্রতিটি বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 2 \\sqrt{3} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 2 3 \\sqrt{2} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 3 4 \\sqrt{3} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9 2 9 \\sqrt{2} 9 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 2 \\sqrt{3} 2 3 ​",
+      "option_b": "3 2 3 \\sqrt{2} 3 2 ​",
+      "option_c": "4 3 4 \\sqrt{3} 4 3 ​",
+      "option_d": "9 2 9 \\sqrt{2} 9 2 ​",
+      "correct": "ক",
+      "explanation": "একটি সমবাহু ত্রিভুজে প্রতিটি মধ্যমার দৈর্ঘ্য d = 3 d = 3 d = 3 সেমি হলে, সমবাহু ত্রিভুজের প্রতিটি বাহুর দৈর্ঘ্য a a a হবে । সমবাহু ত্রিভুজের মধ্যমার দৈর্ঘ্য ও বাহুর দৈর্ঘ্যের সম্পর্ক d = 3 2 a d = \\frac{\\sqrt{3}}{2}a d = 2 3 ​ ​ a । দেয়া নিয়ে সমীকরণে মান বসাই: 3 2 a = 3 \\frac{\\sqrt{3}}{2}a = 3 2 3 ​ ​ a = 3 অতএব, a = 2 × 3 3 a = \\frac{2 \\times 3}{\\sqrt{3}} a = 3 ​ 2 × 3 ​ a = 6 3 a = \\frac{6}{\\sqrt{3}} a = 3 ​ 6 ​ a = 2 3 a = 2\\sqrt{3} a = 2 3 ​ সেমি সুতরাং, প্রতিটি বাহুর দৈর্ঘ্য হল 2 3 2\\sqrt{3} 2 3 ​ সেমি।"
+    },
+    {
+      "number": "6",
+      "tag": "DRMC 24,ISCM 24,RB 20,JB 19,ACC 24",
+      "question": "13 সে.মি., 16 সে.মি. এবং 17 সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি বৃত্ত পরস্পরকে বহিঃ স্পর্শ করলে কেন্দ্রত্রয় দ্বারা উৎপন্ন ত্রিভুজের অর্ধ পরিসীমা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "92 সেমি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "46 সেমি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "42 সেমি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "38 সেমি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "92 সেমি",
+      "option_b": "46 সেমি",
+      "option_c": "42 সেমি.",
+      "option_d": "38 সেমি.",
+      "correct": "খ",
+      "explanation": "ধরা যাক বৃত্ত তিনটির কেন্দ্র A, B এবং C। তাদের ব্যাসার্ধ যথাক্রমে r1 = 13 সেমি, r2 = 16 সেমি এবং r3 = 17 সেমি। যেহেতু বৃত্ত তিনটি পরস্পরকে বহিঃস্পর্শ করে, তাই ত্রিভুজ ABC-এর বাহুগুলির দৈর্ঘ্য হবে: AB = r1 + r2 = 13 + 16 = 29 সেমি BC = r2 + r3 = 16 + 17 = 33 সেমি CA = r3 + r1 = 17 + 13 = 30 সেমি ত্রিভুজ ABC-এর পরিসীমা (Perimeter) = AB + BC + CA = 29 + 33 + 30 = 92 সেমি ত্রিভুজ ABC-এর অর্ধ-পরিসীমা (Semi-perimeter) = (29 + 33 + 30) / 2 = 92 / 2 = 46 সেমি।"
+    },
+    {
+      "number": "7",
+      "tag": "DRMC 24",
+      "question": "(–1, 2) এবং (4, −3) বিন্দুদ্বয়ের সংযোজক রেখা x-অক্ষের ধনাত্মক দিকের সহিত যে কোণ উৎপন্ন করে তার পরিমাণ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "135°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "90°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "168°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "45°",
+      "option_b": "135°",
+      "option_c": "90°",
+      "option_d": "168°",
+      "correct": "খ",
+      "explanation": "(–1, 2) ও ( 4, −3) বিন্দুদ্বয়ের সংযোজক রেখাংশের ঢাল। = − 3 − 2 4 − ( − 1 ) = − 5 5 = − 1 =\\frac{-3-2}{4-(-1)}=-\\frac{5}{5}=-1 = 4 − ( − 1 ) − 3 − 2 ​ = − 5 5 ​ = − 1 ধনাত্মক x-অক্ষের সাথে উৎপন্ন কোণের মান θ \\theta θ হলে। = tan ⁡ θ = − 1 = tan ⁡ 135 ∘ ∴ θ = 135 ∘ =\\tan \\theta=-1=\\tan 135^{\\circ} \\therefore \\theta=135^{\\circ} = tan θ = − 1 = tan 13 5 ∘ ∴ θ = 13 5 ∘"
+    },
+    {
+      "number": "8",
+      "tag": "DRMC 24",
+      "question": "নিচের তথ্যগুলো লক্ষ্য কর: i. A A → \\overrightarrow{\\mathrm{AA}} AA হলো শূন্য ভেক্টর যাকে 0 ‾ \\underline{0} 0 ​ দ্বারা প্রকাশ করা হয় এবং যার কোনো নির্দিষ্ট দিক ও ধারক রেখা নেই ii. a ^ = a ∣ a ∣ \\hat{a}=\\frac{a}{|a|} a ^ = ∣ a ∣ a ​ একটি একক ভেক্টর যার দিক a ‾ \\underline{a} a ​ ভেষ্টরের দিকে iii.  OP  → \\overrightarrow{\\text { OP }}  OP  ক O O O বিন্দুর সাপেক্ষে P P P বিন্দুর অবস্থান ভেক্টর বলে যেখানে O ভেক্টর মূলবিন্দু নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "ভেক্টরের মান শূন্য হলে কোন এর কোনো ধারক রেখা থাকে না a একক ভেক্টর OP ভেক্টর Oথেকে P এর দিকে গমন করে তাই O ভেক্টর মূলবিন্দু"
+    },
+    {
+      "number": "9",
+      "tag": "DRMC 24",
+      "question": "যদি একটি সমবৃত্তভূমিক কোণক, একটি অর্ধগোলক এবং একটি বেলন একই উচ্চতা ও একই ভূমির উপর অবস্থিত হলে আয়তনের ক্ষেত্রে নিচের কোন অনুপাতটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3:2:1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1:3:2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1:2:3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3:1:2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3:2:1",
+      "option_b": "1:3:2",
+      "option_c": "1:2:3",
+      "option_d": "3:1:2",
+      "correct": "গ",
+      "explanation": "প্রদত্ত যে উচ্চতা ( h ) (h) ( h ) এবং ভূমির ব্যাসার্ধ ( r r r ) সমান, তাই: 1. কোণকের আয়তন: V কোণক  = 1 3 π r 2 h V_{\\text {কোণক }}=\\frac{1}{3} \\pi r^{2} h V কোণক   ​ = 3 1 ​ π r 2 h 2. অর্ধগোলকের আয়তন: V অর্ধগোলক  = 2 3 π r 3 (  এখाনে  h = r ) V_{\\text {অর্ধগোলক }}=\\frac{2}{3} \\pi r^{3} \\quad(\\text { এখाনে } h=r) V অর্ধগোলক   ​ = 3 2 ​ π r 3 (   এখाনে   h = r ) 3. বেলনের আয়তন: V বেলন  = π r 2 h V_{\\text {বেলন }}=\\pi r^{2} h V বেলন   ​ = π r 2 h অনুপাত: V কোণক  : V অর্ধগোলক  : V বেলন  = 1 3 π r 2 h : 2 3 π r 3 : π r 2 h V_{\\text {কোণক }}: V_{\\text {অর্ধগোলক }}: V_{\\text {বেলন }}=\\frac{1}{3} \\pi r^{2} h: \\frac{2}{3} \\pi r^{3}: \\pi r^{2} h V কোণক   ​ : V অর্ধগোলক   ​ : V বেলন   ​ = 3 1 ​ π r 2 h : 3 2 ​ π r 3 : π r 2 h যদি h = r h=r h = r ধরি (অর্ধগোলকের জন্য), তাহলে: = 1 3 π r 3 : 2 3 π r 3 : π r 3 = 1 3 : 2 3 : 1 = 1 : 2 : 3 =\\frac{1}{3} \\pi r^{3}: \\frac{2}{3} \\pi r^{3}: \\pi r^{3}=\\frac{1}{3}: \\frac{2}{3}: 1=1: 2: 3 = 3 1 ​ π r 3 : 3 2 ​ π r 3 : π r 3 = 3 1 ​ : 3 2 ​ : 1 = 1 : 2 : 3"
+    },
+    {
+      "number": "10",
+      "tag": "DRMC 24,CSCD 24,JB 23,RB 22,SB 20",
+      "question": "1 হতে 10 পর্যন্ত সংখ্যাগুলোর মধ্যে একটি বেছে নিলে সংখ্যাটি মৌলিক হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 5 \\frac{2}{5} 5 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 10 \\frac{3}{10} 10 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 5 \\frac{2}{5} 5 2 ​",
+      "option_b": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_c": "3 10 \\frac{3}{10} 10 3 ​",
+      "option_d": "1 5 \\frac{1}{5} 5 1 ​",
+      "correct": "ক",
+      "explanation": "1  থেকে10 এ মৌলিক সংখ্যা   = 2 , 3 , 5 , 7 = 4 টিবিন্দু  ∴  সম্ভবনা  = 4 10 = 2 5 \\begin{array}{l}\\text { } 1 \\text { থেকে10 এ মৌলিক সংখ্যা } \\text { }=2,3,5,7=4 টি বিন্দু \\text { } \\\\ \\therefore \\text { সম্ভবনা }=\\frac{4}{10}=\\frac{2}{5}\\end{array}   1   থেকে 10  এ   মৌলিক   সংখ্যা     = 2 , 3 , 5 , 7 = 4 টিবিন্দু   ∴   সম্ভবনা   = 10 4 ​ = 5 2 ​ ​"
+    },
+    {
+      "number": "11",
+      "tag": "DRMC 24",
+      "question": "আগামীকাল প্রত্যুষে সূর্য পূর্বদিকে উদিত হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_d": "1",
+      "correct": "ঘ",
+      "explanation": "নিশ্চিত ঘটনায় বা Universal trouth এ সম্ভোবনা 1"
+    },
+    {
+      "number": "12",
+      "tag": "DRMC 24",
+      "question": "− 27 3 =  কত?  \\sqrt[3]{-27}=\\text { কত? } 3 − 27 ​ =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 3 3 -3 \\sqrt{3} − 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 3 3 \\sqrt{3} 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 3 3 -3 \\sqrt{3} − 3 3 ​",
+      "option_b": "3",
+      "option_c": "3 3 3 \\sqrt{3} 3 3 ​",
+      "option_d": "-3",
+      "correct": "ঘ",
+      "explanation": "যেখানে x 3 = − 27 x^{3}=-27 x 3 = − 27 I धाश २: जसाधान আমরা জানি: 3 3 = 27 3^{3}=27 3 3 = 27 তাহলে, ( − 3 ) 3 = − 27 । (-3)^{3}=-27 । ( − 3 ) 3 = − 27 । অতএব: − 27 3 = − 3 \\sqrt[3]{-27}=-3 3 − 27 ​ = − 3 চূড়ান্ত উন্তর − 27 3 = − 3 \\sqrt[3]{-27}=-3 3 − 27 ​ = − 3"
+    },
+    {
+      "number": "13",
+      "tag": "DRMC 24,BCPC ,BB 23,CB 22,MB 21,CB 21,CTG.B 21,BB 21,MB 20,DIN.B 19,SB 19",
+      "question": "3 2 x + 3.27 x = 4 3^{2 x}+3.27^{x}=4 3 2 x + 3.2 7 x = 4 হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_b": "1",
+      "option_c": "3 5 \\frac{3}{5} 5 3 ​",
+      "option_d": "0",
+      "correct": "ঘ",
+      "explanation": "3 2 x + 3 ⋅ 2 2 x = 4 ⇒ 3 2 x + 3 ⋅ 3 3 x = 4 ⇒ ( 3 x ) 2 + ( 3 x ) 3 ⋅ 3 = 4 3 x = a → a 2 + 3 a 3 = 4 ⇒ 3 a 3 + a 2 − 4 = 0 ⇒ 3 a 3 − 3 a 2 + 4 a 2 − 4 a + 4 a − 4 = 0 ⇒ 3 a 2 ( a − 1 ) + 4 a ( a − 1 ) + 4 ( a − 1 ) = 0 ⇒ ( a − 1 ) ( 3 a 2 + 4 a + 4 ) = 0 a − 1 = 0 ⇒ 3 x − 1 = 0 ⇒ 3 x = 1 = 3 0 ∴ x = 0 \\begin{array}{l}3^{2 x}+3 \\cdot 2^{2 x}=4 \\\\ \\Rightarrow 3^{2 x}+3 \\cdot 3^{3 x}=4 \\\\ \\Rightarrow\\left(3^{x}\\right)^{2}+\\left(3^{x}\\right)^{3} \\cdot 3=4 \\\\ 3^{x}=a \\rightarrow \\\\ a^{2}+3 a^{3}=4 \\\\ \\Rightarrow 3 a^{3}+a^{2}-4=0 \\\\ \\Rightarrow 3 a^{3}-3 a^{2}+4 a^{2}-4 a+4 a-4=0 \\\\ \\Rightarrow 3 a^{2}(a-1)+4 a(a-1)+4(a-1)=0 \\\\ \\Rightarrow(a-1)\\left(3 a^{2}+4 a+4\\right)=0 \\\\ a-1=0 \\\\ \\Rightarrow 3^{x}-1=0 \\\\ \\Rightarrow 3^{x}=1=3^{0} \\\\ \\therefore x=0\\end{array} 3 2 x + 3 ⋅ 2 2 x = 4 ⇒ 3 2 x + 3 ⋅ 3 3 x = 4 ⇒ ( 3 x ) 2 + ( 3 x ) 3 ⋅ 3 = 4 3 x = a → a 2 + 3 a 3 = 4 ⇒ 3 a 3 + a 2 − 4 = 0 ⇒ 3 a 3 − 3 a 2 + 4 a 2 − 4 a + 4 a − 4 = 0 ⇒ 3 a 2 ( a − 1 ) + 4 a ( a − 1 ) + 4 ( a − 1 ) = 0 ⇒ ( a − 1 ) ( 3 a 2 + 4 a + 4 ) = 0 a − 1 = 0 ⇒ 3 x − 1 = 0 ⇒ 3 x = 1 = 3 0 ∴ x = 0 ​"
+    },
+    {
+      "number": "14",
+      "tag": "DRMC 24,BMARPC 24,BAFSC 24,RCPC 24,BCPC ,DB 23,BB 23,DB 22,DIN.B 22,CB 22,CTG.B 21,BB 21,MB 20,DIN.B 20,CTG.B 20,RB 19",
+      "question": "log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x=3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ , হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "32",
+      "option_b": "16",
+      "option_c": "8",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": "দেয়া আছে log ⁡ 8 x = 3 1 3 \\log _{\\sqrt{8}} x = 3 \\frac{1}{3} lo g 8 ​ ​ x = 3 3 1 ​ প্রথমে ভগ্নাংশকে অপরিমেয় ভগ্নাংশের আকারে প্রকাশ করি: 3 1 3 = 10 3 3 \\frac{1}{3} = \\frac{10}{3} 3 3 1 ​ = 3 10 ​ অতএব, সমীকরণটি হবে: log ⁡ 8 x = 10 3 \\log _{\\sqrt{8}} x = \\frac{10}{3} lo g 8 ​ ​ x = 3 10 ​ এটি থেকে পাওয়া যায়: x = ( 8 ) 10 3 x = (\\sqrt{8})^{\\frac{10}{3}} x = ( 8 ​ ) 3 10 ​ 8 = 8 1 2 \\sqrt{8} = 8^{\\frac{1}{2}} 8 ​ = 8 2 1 ​ হিসাবে লিখতে পারি। তাহলে সমীকরণটি হবে: x = ( 8 1 2 ) 10 3 x = (8^{\\frac{1}{2}})^{\\frac{10}{3}} x = ( 8 2 1 ​ ) 3 10 ​ শক্তি হিসাব করে নেওয়া যাক: x = 8 1 2 × 10 3 = 8 5 3 x = 8^{\\frac{1}{2} \\times \\frac{10}{3}} = 8^{\\frac{5}{3}} x = 8 2 1 ​ × 3 10 ​ = 8 3 5 ​ এখন, এটিকে প্রাথমিক হিসাব করে বের করতে পারি: 8 = 2 3 8 = 2^3 8 = 2 3 সুতরাং, 8 5 3 = ( 2 3 ) 5 3 = 2 3 × 5 3 = 2 5 8^{\\frac{5}{3}} = (2^3)^{\\frac{5}{3}} = 2^{3 \\times \\frac{5}{3}} = 2^5 8 3 5 ​ = ( 2 3 ) 3 5 ​ = 2 3 × 3 5 ​ = 2 5 অতএব, x = 2 5 = 32 x = 2^5 = 32 x = 2 5 = 32"
+    },
+    {
+      "number": "15",
+      "tag": "DRMC 24",
+      "question": "y = ( 2 x − 1 ) 2 y=(2 x-1)^{2} y = ( 2 x − 1 ) 2 ফাংশনটির লেখচিত্র নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "",
+          "is_correct": true
+        }
+      ],
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "correct": "গ",
+      "explanation": "লেখচিত্রের সঠিক বিকল্প: - সঠিক গ্রাফে নিম্নলিখিত বৈশিষ্ট্য থাকবে: 1. শীর্ষবিন্দু ( 1 2 , 0 ) । \\left(\\frac{1}{2}, 0\\right) । ( 2 1 ​ , 0 ) । 2. y y y -অক্ষকে ( 0 , 1 ) (0,1) ( 0 , 1 ) বিন্দুতে ছেদ করে। 3. উর্ধ্বমুখী প্যারাবোলা।"
+    },
+    {
+      "number": "16",
+      "tag": "CB 23",
+      "question": "দুপুর 2 : 40 টায় ঘড়ির ঘণ্টা ও মিনিটের কাটার মধ্যবর্তী কোণ কত ডিগ্রি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "90°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "110°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "140°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "160°",
+          "is_correct": true
+        }
+      ],
+      "option_a": "90°",
+      "option_b": "110°",
+      "option_c": "140°",
+      "option_d": "160°",
+      "correct": "ঘ",
+      "explanation": "এখানে. H = 2 m = 40 \\begin{array}{l} H=2 \\\\ m=40 \\end{array} H = 2 m = 40 ​ মর্ধ্যবতী কোণ   = ∣ 30 H − 5.5 M ∣ = 130 × 2 − 5.5 × 40 ∣ = ∣ − 160 ∣ = 160 ∘ \\begin{array}{l} \\text { }=|30 \\mathrm{H}-5.5 \\mathrm{M}| \\\\ =130 \\times 2-5.5 \\times 40 \\mid \\\\ =|-160| \\\\ =160^{\\circ} \\end{array}   = ∣30 H − 5.5 M ∣ = 130 × 2 − 5.5 × 40 ∣ = ∣ − 160∣ = 16 0 ∘ ​"
+    },
+    {
+      "number": "17",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "18",
+      "tag": "DRMC 24",
+      "question": "যদি কোনো দ্বিঘাত সমীকরণের একটি মূল − 2 + 7 -2+\\sqrt{7} − 2 + 7 ​ হয়, তাহলে খর অপর মূলটি কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 2 − 7 -2-\\sqrt{7} − 2 − 7 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 − 7 2-\\sqrt{7} 2 − 7 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 7 + 2 -7+\\sqrt{2} − 7 + 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 − 2 7-\\sqrt{2} 7 − 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 2 − 7 -2-\\sqrt{7} − 2 − 7 ​",
+      "option_b": "2 − 7 2-\\sqrt{7} 2 − 7 ​",
+      "option_c": "− 7 + 2 -7+\\sqrt{2} − 7 + 2 ​",
+      "option_d": "7 − 2 7-\\sqrt{2} 7 − 2 ​",
+      "correct": "ক",
+      "explanation": "কোনো দ্বিঘাত সমীকরণের অমূলদ মূলদ্বয় পরস্পর অনুবন্ধী অর্থাৎ, একটি মূল a + b a+\\sqrt{b} a + b ​ হলে অপরটি a − b a-\\sqrt{b} a − b ​ ∴ \\therefore ∴ একটি মূল − 2 + 7 -2+\\sqrt{7} − 2 + 7 ​ হলে অপরটি হবে − 2 − 7 -2-\\sqrt{7} − 2 − 7 ​"
+    },
+    {
+      "number": "19",
+      "tag": "DRMC 24,BMARPC 24,BCPC ,DIN.B 21,JB 21,BB 21",
+      "question": "0. 5 ˙ 3 ˙ 0 . \\dot{5} \\dot{3} 0. 5 ˙ 3 ˙ হতে প্রাপ্ত গুণোত্তর ধারার সাধারণ অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.01",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.001",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.0001",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.1",
+      "option_b": "0.01",
+      "option_c": "0.001",
+      "option_d": "0.0001",
+      "correct": "খ",
+      "explanation": "1. 0. 5 ˙ 3 ˙ 0.\\dot{5}\\dot{3} 0. 5 ˙ 3 ˙ কে ভগ্নাংশে রূপান্তর করা হলো: x = 0. 5 ˙ 3 ˙ = 0.535353 … x = 0.\\dot{5}\\dot{3} = 0.535353\\ldots x = 0. 5 ˙ 3 ˙ = 0.535353 … 2. যেহেতু \"53\" দুই অঙ্কের পুনরাবৃত্তি হচ্ছে, তাই আমরা x x x কে 100 দ্বারা গুণ করি: 100 x = 53.535353 … 100x = 53.535353\\ldots 100 x = 53.535353 … 3. এখন, মূল সংখ্যা x = 0.535353 … x = 0.535353\\ldots x = 0.535353 … থেকে এটি বিয়োগ করুন: 100 x − x = 53.535353 … − 0.535353 … 100x - x = 53.535353\\ldots - 0.535353\\ldots 100 x − x = 53.535353 … − 0.535353 … 99 x = 53 99x = 53 99 x = 53 4. x x x এর মান বের করুন: x = 53 99 x = \\frac{53}{99} x = 99 53 ​ 5. গুণোত্তর ধারার সাধারণ অনুপাত নির্ণয়: 0. 5 ˙ 3 ˙ = 53 99 0.\\dot{5}\\dot{3} = \\frac{53}{99} 0. 5 ˙ 3 ˙ = 99 53 ​ এই ধারার সাধারণ অনুপাত (common ratio) হলো পুনরাবৃত্ত অংশের অনুপাত। যেহেতু \"53\" পুনরাবৃত্ত হচ্ছে, সাধারণ অনুপাত r r r হলো: r = 1 100 r = \\frac{1}{100} r = 100 1 ​ উত্তর: গুণোত্তর ধারার সাধারণ অনুপাত হলো 1 100 \\boxed{\\dfrac{1}{100}} 100 1 ​ ​ ।"
+    },
+    {
+      "number": "20",
+      "tag": "DRMC 24,DB 23,DIN.B 23,SB 23",
+      "question": "n , r ∈ N \\mathbf{n}, \\mathbf{r} \\in \\mathbb{N} n , r ∈ N হলে- i. n C n = 1 { }^{n} C_{n}=1 n C n ​ = 1 ii. n C r = n ! r ! ( n − r ) ! { }^{n} \\mathrm{C}_{\\mathrm{r}}=\\frac{\\mathrm{n!}}{\\mathrm{r}!(\\mathrm{n}-\\mathrm{r})!} n C r ​ = r ! ( n − r )! n ! ​ iii. n C 0 = 1 { }^{n} \\mathrm{C}_{0}=1 n C 0 ​ = 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "(i) n c n = 1 n_{c_{n}}=1 n c n ​ ​ = 1 (ii) n C 0 = 1 n_{C_{0}}=1 n C 0 ​ ​ = 1 6 C 3 = 6 × 5 × 4 3 × 2 × 1 × 3 × 2 × 1 3 × 2 × 1 = 6 × 5 × 4 × 3 × 2 × 1 ( 3 × 2 × 1 ) ( 3 × 2 × 1 ) = 6 ! 3 ! ( 6 − 3 ) ! 6 C r = 7 ! r ! ( n − r ) ! \\begin{aligned} 6_{C_{3}} & =\\frac{6 \\times 5 \\times 4}{3 \\times 2 \\times 1} \\times \\frac{3 \\times 2 \\times 1}{3 \\times 2 \\times 1} \\\\ & =\\frac{6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1}{(3 \\times 2 \\times 1)(3 \\times 2 \\times 1)} \\\\ & =\\frac{6!}{3!(6-3)!} \\\\ { }^{6} C_{r} & =\\frac{7!}{r!(n-r)!} \\end{aligned} 6 C 3 ​ ​ 6 C r ​ ​ = 3 × 2 × 1 6 × 5 × 4 ​ × 3 × 2 × 1 3 × 2 × 1 ​ = ( 3 × 2 × 1 ) ( 3 × 2 × 1 ) 6 × 5 × 4 × 3 × 2 × 1 ​ = 3 ! ( 6 − 3 )! 6 ! ​ = r ! ( n − r )! 7 ! ​ ​"
+    },
+    {
+      "number": "21",
+      "tag": "DRMC 24",
+      "question": "যদি n C 2 = 3 2 × n P 1 { }^{n} C_{2}=\\frac{3}{2} \\times{ }^{n} P_{1} n C 2 ​ = 2 3 ​ × n P 1 ​ হয়, তাহলে n = n= n = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9",
+      "option_b": "8",
+      "option_c": "4",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "n C 2 = 3 2 × n P 1 { }^{n} C_{2}=\\frac{3}{2} \\times{ }^{n} P_{1} n C 2 ​ = 2 3 ​ × n P 1 ​ হয়, তাহলে n ( n − 1 ) 2 = 3 2 × n ⟹ n = 4 \\frac{n(n-1)}{2}=\\frac{3}{2} \\times n \\Longrightarrow n=4 2 n ( n − 1 ) ​ = 2 3 ​ × n ⟹ n = 4"
+    },
+    {
+      "number": "22",
+      "tag": "DRMC 24",
+      "question": "নিচের তথ্যগুলো লক্ষ কর: i. সার্বিক সেট U এর দুটি উপসেট A A A এবং B B B হলে ( A ∩ B ) ′ = A ′ ∪ B ′ (A \\cap B)^{\\prime}=A^{\\prime} \\cup B^{\\prime} ( A ∩ B ) ′ = A ′ ∪ B ′ ii. বাস্তুর সংখ্যা R \\mathbb{R} R , স্বাভাবিক সংখ্যা N N N , পূর্ণসংখ্যা Z \\mathbb{Z} Z এবং মূলদ সংখ্যার সেট Q \\mathbb{Q} Q হলে N ⊂ Z ⊂ Q ⊂ R \\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R} N ⊂ Z ⊂ Q ⊂ R iii.   ( a , b ) = a < x < b \\ (a, b) =a<x<b   ( a , b ) = a < x < b যেখানে a এবং b বাস্তব সংখ্যা নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i. ডি মরগানের সূত্র প্রযোজ্য: - বিবৃতিটি হল: ( A ∩ B ) ′ = A ′ ∪ B ′ (A \\cap B)^{\\prime}=A^{\\prime} \\cup B^{\\prime} ( A ∩ B ) ′ = A ′ ∪ B ′ - এটি ডি মরগানের সূত্রের একটি অংশ এবং সম্পূর্ণ সঠিক। ii. সংখ্যা সেটগুলির সঠিক অন্তর্ভুক্তি: - বিবৃতিটি হল: N ⊂ Z ⊂ Q ⊂ R \\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R} N ⊂ Z ⊂ Q ⊂ R - স্বাভাবিক সংখ্যা (N) পৃর্ণসংখ্যার ( Z \\mathbb{Z} Z ) উপসেট। - পূর্ণসংখ্যা মৃলদ সংখ্যার (Q) উপসেট। - মূলদ সংখ্যা বাস্তব সংখ্যার ( R \\mathbb{R} R ) উপসেট। iii. ব্যবধানের সঠিক সংজ্ঞা: - বিবৃতিটি হল: ( (a, b) - এটি খোলা ব্যবধান (open interval)-এর সম্পূর্ণ সঠিক সংজ্ঞা। - সঠিক"
+    },
+    {
+      "number": "23",
+      "tag": "DRMC 24",
+      "question": "যদি f ( x ) = 4 x − 9 x − 2 ( x ≠ 2 ) f(x)=\\frac{4 x-9}{x-2}(x \\neq 2) f ( x ) = x − 2 4 x − 9 ​ ( x  = 2 ) হয়, তাহলে f − 1 ( − 1 ) = \\mathrm{f}^{-1}(-1)= f − 1 ( − 1 ) = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "11 5 \\frac{11}{5} 5 11 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 12 5 -\\frac{12}{5} − 5 12 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12 5 \\frac{12}{5} 5 12 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 13 5 -\\frac{13}{5} − 5 13 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "11 5 \\frac{11}{5} 5 11 ​",
+      "option_b": "− 12 5 -\\frac{12}{5} − 5 12 ​",
+      "option_c": "12 5 \\frac{12}{5} 5 12 ​",
+      "option_d": "− 13 5 -\\frac{13}{5} − 5 13 ​",
+      "correct": "ক",
+      "explanation": "প্রশ্নে দেওয়া আছে, f ( x ) = 4 x − 9 x − 2 f(x)=\\frac{4x-9}{x-2} f ( x ) = x − 2 4 x − 9 ​ এবং আমাদেরকে f − 1 ( − 1 ) f^{-1}(-1) f − 1 ( − 1 ) এর মান বের করতে হবে। এই ক্ষেত্রে, আমাদের প্রথমে f ( x ) = − 1 f(x)=-1 f ( x ) = − 1 সমীকরণের জন্য x x x বের করতে হবে। তাহলে, f(x)=−1⟹4x−9x−2=−1 f (x)=−1⟹ x−24x−9​=−1 f ( x ) = − 1 ⟹ 4 x − 9 x − 2 = − 1 f(x) = -1 \\implies \\frac{4x-9}{x-2} = -1 f ( x ) = − 1 ⟹ x − 2 4 x − 9 ​ = − 1 এই সমীকরণ সমাধান করে দেখি: প্রথমে দুপাশকে x − 2 x-2 x − 2 দিয়ে গুণ করি: 4 x − 9 = − 1 ( x − 2 ) 4x - 9 = -1(x - 2) 4 x − 9 = − 1 ( x − 2 ) এখন, রাইট সাইডটি খুলে ফেলি: 4 x − 9 = − x + 2 4x - 9 = -x + 2 4 x − 9 = − x + 2 এখন দুই দিকে x x x সঙ্গে সম্পূর্ণ টার্ম্‌ যোগ করি: 4 x + x = 2 + 9 4x + x = 2 + 9 4 x + x = 2 + 9 এখন তাদের সমাধান করি: 5 x = 11 5x = 11 5 x = 11 অর্থাৎ, x = 11 5 x = \\frac{11}{5} x = 5 11 ​ তাহলে, f ( x ) = − 1 f(x) = -1 f ( x ) = − 1 এর জন্য উত্তরের মান x = 11 5 x = \\frac{11}{5} x = 5 11 ​ অতএব, f − 1 ( − 1 ) = 11 5 f^{-1}(-1) = \\frac{11}{5} f − 1 ( − 1 ) = 5 11 ​ সঠিক উত্তর হলো বিকল্প a \\text{a} a : 11 5 \\frac{11}{5} 5 11 ​"
+    },
+    {
+      "number": "24",
+      "tag": "DRMC 24,DIN.B 20",
+      "question": "শূন্য বহুপদীর মাত্রা কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অসংজ্ঞায়িত",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "x",
+      "option_d": "অসংজ্ঞায়িত",
+      "correct": "ঘ",
+      "explanation": "0 ⋅ x ∞ 0 \\cdot x^{\\infty} 0 ⋅ x ∞ x এর মতো অসংজ্ঞায়িত"
+    },
+    {
+      "number": "25",
+      "tag": "DRMC 24,CTG.B 23",
+      "question": "p ( x , y , z ) = x 3 + y 3 + z 3 + 3 x y z p(x, y, z)=x^{3}+y^{3}+z^{3}+3 x y z p ( x , y , z ) = x 3 + y 3 + z 3 + 3 x yz হলে p ( 1 , − 1 , 2 ) p(1,-1,2) p ( 1 , − 1 , 2 ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "12",
+      "option_b": "6",
+      "option_c": "4",
+      "option_d": "2",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত বহুপদী রাশিটি হলো: p ( x , y , z ) = x 3 + y 3 + z 3 + 3 x y z p(x, y, z)=x^{3}+y^{3}+z^{3}+3 x y z p ( x , y , z ) = x 3 + y 3 + z 3 + 3 x yz আমাদের p ( 1 , − 1 , 2 ) p(1,-1,2) p ( 1 , − 1 , 2 ) এর মান নির্ণয় করতে হবে। ধাপে ধাপে সমাধান: প্রদত্ত মানগুলি বসানো: x = 1 , y = − 1 , z = 2 x=1, \\quad y=-1, \\quad z=2 x = 1 , y = − 1 , z = 2 প্রতিটি পদ আলাদাভাবে গণনা করা: x 3 = ( 1 ) 3 = 1 y 3 = ( − 1 ) 3 = − 1 z 3 = ( 2 ) 3 = 8 3 x y z = 3 × 1 × ( − 1 ) × 2 = − 6 \\begin{array}{c} x^{3}=(1)^{3}=1 \\\\ y^{3}=(-1)^{3}=-1 \\\\ z^{3}=(2)^{3}=8 \\\\ 3 x y z=3 \\times 1 \\times(-1) \\times 2=-6 \\end{array} x 3 = ( 1 ) 3 = 1 y 3 = ( − 1 ) 3 = − 1 z 3 = ( 2 ) 3 = 8 3 x yz = 3 × 1 × ( − 1 ) × 2 = − 6 ​ সকল পদ যোগ করা: p ( 1 , − 1 , 2 ) = x 3 + y 3 + z 3 + 3 x y z = 1 + ( − 1 ) + 8 + ( − 6 ) p ( 1 , − 1 , 2 ) = ( 1 − 1 ) + ( 8 − 6 ) = 0 + 2 = 2 \\begin{array}{c} p(1,-1,2)=x^{3}+y^{3}+z^{3}+3 x y z=1+(-1)+8+(-6) \\\\ p(1,-1,2)=(1-1)+(8-6)=0+2=2 \\end{array} p ( 1 , − 1 , 2 ) = x 3 + y 3 + z 3 + 3 x yz = 1 + ( − 1 ) + 8 + ( − 6 ) p ( 1 , − 1 , 2 ) = ( 1 − 1 ) + ( 8 − 6 ) = 0 + 2 = 2 ​"
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "read_id": "ujM9iHSi2JfZ_nAE",
+  "title": "যশোর বোর্ড ২০২০",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CB 23,BB 22,RB 21,DIN.B 21,MB 20,JB 20",
+      "question": "f ( x ) = 1 − 4 − x f(x)=1-4^{-x} f ( x ) = 1 − 4 − x এর বিপরীত ফাংশন নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "log ⁡ 4 ( x − 1 ) \\log _{4}(x-1) lo g 4 ​ ( x − 1 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "log ⁡ 4 ( 1 − x ) \\log _{4}(1-x) lo g 4 ​ ( 1 − x )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "log ⁡ 4 ( 1 1 − x ) \\log _{4}\\left(\\frac{1}{1-\\mathrm{x}}\\right) lo g 4 ​ ( 1 − x 1 ​ )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "log ⁡ 4 ( 1 x − 1 ) \\log _{4}\\left(\\frac{1}{x-1}\\right) lo g 4 ​ ( x − 1 1 ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "log ⁡ 4 ( x − 1 ) \\log _{4}(x-1) lo g 4 ​ ( x − 1 )",
+      "option_b": "log ⁡ 4 ( 1 − x ) \\log _{4}(1-x) lo g 4 ​ ( 1 − x )",
+      "option_c": "log ⁡ 4 ( 1 1 − x ) \\log _{4}\\left(\\frac{1}{1-\\mathrm{x}}\\right) lo g 4 ​ ( 1 − x 1 ​ )",
+      "option_d": "log ⁡ 4 ( 1 x − 1 ) \\log _{4}\\left(\\frac{1}{x-1}\\right) lo g 4 ​ ( x − 1 1 ​ )",
+      "correct": "গ",
+      "explanation": "ধাপ 1: y = f ( x ) y=f(x) y = f ( x ) ধরে বিপরীত ফাংশন বের করতে হবে। y = 1 − 4 − x y=1-4^{-x} y = 1 − 4 − x ধাপ 2: y y y এর জন্য সমীকরণটি সমাধান করে x x x কে y y y এর ফাংশন হিসেবে প্রকাশ করুন। y = 1 − 4 − x ⇒ 4 − x = 1 − y \\begin{array}{c} y=1-4^{-x} \\\\ \\Rightarrow 4^{-x}=1-y \\end{array} y = 1 − 4 − x ⇒ 4 − x = 1 − y ​ ধাপ 3: উভয় পক্ষে লগারিদম প্রয়োগ করুন (ভিত্তি 4)। log ⁡ 4 ( 4 − x ) = log ⁡ 4 ( 1 − y ) ⇒ − x = log ⁡ 4 ( 1 − y ) ⇒ x = − log ⁡ 4 ( 1 − y ) \\begin{array}{c} \\log _{4}\\left(4^{-x}\\right)=\\log _{4}(1-y) \\\\ \\Rightarrow-x=\\log _{4}(1-y) \\\\ \\Rightarrow x=-\\log _{4}(1-y) \\end{array} lo g 4 ​ ( 4 − x ) = lo g 4 ​ ( 1 − y ) ⇒ − x = lo g 4 ​ ( 1 − y ) ⇒ x = − lo g 4 ​ ( 1 − y ) ​ ধাপ 4: x x x এবং y y y অদলবদল করে বিপরীত ফাংশন লিখুন। f − 1 ( y ) = − log ⁡ 4 ( 1 − y ) f^{-1}(y)=-\\log _{4}(1-y) f − 1 ( y ) = − lo g 4 ​ ( 1 − y ) অথবা, y y y এর পরিবর্তে x x x লিখলে: f − 1 ( x ) = − log ⁡ 4 ( 1 − x ) f^{-1}(x)=-\\log _{4}(1-x) f − 1 ( x ) = − lo g 4 ​ ( 1 − x ) উত্তর: f − 1 ( x ) = − log ⁡ 4 ( 1 − x ) f^{-1}(x)=-\\log _{4}(1-x) f − 1 ( x ) = − lo g 4 ​ ( 1 − x )"
+    },
+    {
+      "number": "2",
+      "tag": "CB 20,SB 20,JB 20,DB 19,CB 19,DIN.B 19,CTG.B 19,SB 19,BB 19,ACC 24",
+      "question": "f ( x ) = 4 − 2 x f(\\mathbf{x})=\\sqrt{4-2 \\mathrm{x}} f ( x ) = 4 − 2 x ​ এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+      "option_b": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+      "option_c": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+      "option_d": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+      "correct": "গ",
+      "explanation": "f ( x ) = 4 − 2 x f(x) = \\sqrt{4-2x} f ( x ) = 4 − 2 x ​ বর্গমূলের ভিতরের রাশি অঋণাত্মক হতে হবে: 4 − 2 x ≥ 0 4-2x \\ge 0 4 − 2 x ≥ 0 − 2 x ≥ − 4 -2x \\ge -4 − 2 x ≥ − 4 x ≤ 2 x \\le 2 x ≤ 2 তাই ডোমেন: { x ∈ R ∣ x ≤ 2 } \\{x \\in \\mathbb{R} \\mid x \\le 2\\} { x ∈ R ∣ x ≤ 2 } ইন্টারভাল আকারে: ( − ∞ , 2 ] (-\\infty, 2] ( − ∞ , 2 ]"
+    },
+    {
+      "number": "3",
+      "tag": "JB 20",
+      "question": "( p 3 + 1 p 3 ) 2 n \\left(\\mathrm{p}^{3}+\\frac{1}{\\mathrm{p}^{3}}\\right)^{2 \\mathrm{n}} ( p 3 + p 3 1 ​ ) 2 n ; যেখানে n একটি ধনাত্মক পূর্ণসংখ্যা। যদি n = 2 হয় তাহলে প্রদত্ত বিস্তৃতির p মুক্ত পদের মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "12",
+      "option_c": "24",
+      "option_d": "2",
+      "correct": "ক",
+      "explanation": "( p 3 + 1 p 3 ) 4 \\left(p^{3}+\\frac{1}{p^{3}}\\right)^{4} ( p 3 + p 3 1 ​ ) 4 ধরি পদটি, 4 c p ( p 3 ) 4 − r ⋅ ( 1 p 3 ) p = 4 c p p 12 − 3 r ⋅ p 1 p 3 r = 4 c p p 12 − 6 r \\begin{aligned} & 4_{c_{p}}\\left(p^{3}\\right)^{4-r} \\cdot\\left(\\frac{1}{p^{3}}\\right)^{p} \\\\ = & 4_{c_{p}} p^{12-3 r} \\cdot \\frac{p 1}{p^{3 r}} \\\\ = & 4_{c_{p}} p^{12-6 r} \\end{aligned} = = ​ 4 c p ​ ​ ( p 3 ) 4 − r ⋅ ( p 3 1 ​ ) p 4 c p ​ ​ p 12 − 3 r ⋅ p 3 r p 1 ​ 4 c p ​ ​ p 12 − 6 r ​ P P P মুক্ত পদের জন্য 12 ⋅ 6 r = 0 12 \\cdot 6 r=0 12 ⋅ 6 r = 0 r = 2 r=2 r = 2 ∴ \\therefore ∴ পদটি 4 C 2 = 4 × 3 2 × 1 = 6 4_{C_{2}}=\\frac{4 \\times 3}{2 \\times 1}=6 4 C 2 ​ ​ = 2 × 1 4 × 3 ​ = 6"
+    },
+    {
+      "number": "4",
+      "tag": "JB 20",
+      "question": "( p 3 + 1 p 3 ) 2 n \\left(\\mathrm{p}^{3}+\\frac{1}{\\mathrm{p}^{3}}\\right)^{2 \\mathrm{n}} ( p 3 + p 3 1 ​ ) 2 n ; যেখানে n একটি ধনাত্মক পূর্ণসংখ্যা। যদি n = 2 হয় তাহলে প্রদত্ত বিস্তৃতির p মুক্ত পদের মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "12",
+      "option_c": "24",
+      "option_d": "2",
+      "correct": "ক",
+      "explanation": "( p 3 + 1 p 3 ) 4 \\left(p^{3}+\\frac{1}{p^{3}}\\right)^{4} ( p 3 + p 3 1 ​ ) 4 ধরি পদটি, 4 c p ( p 3 ) 4 − r ⋅ ( 1 p 3 ) p = 4 c p p 12 − 3 r ⋅ p 1 p 3 r = 4 c p p 12 − 6 r \\begin{aligned} & 4_{c_{p}}\\left(p^{3}\\right)^{4-r} \\cdot\\left(\\frac{1}{p^{3}}\\right)^{p} \\\\ = & 4_{c_{p}} p^{12-3 r} \\cdot \\frac{p 1}{p^{3 r}} \\\\ = & 4_{c_{p}} p^{12-6 r} \\end{aligned} = = ​ 4 c p ​ ​ ( p 3 ) 4 − r ⋅ ( p 3 1 ​ ) p 4 c p ​ ​ p 12 − 3 r ⋅ p 3 r p 1 ​ 4 c p ​ ​ p 12 − 6 r ​ P P P মুক্ত পদের জন্য 12 ⋅ 6 r = 0 12 \\cdot 6 r=0 12 ⋅ 6 r = 0 r = 2 r=2 r = 2 ∴ \\therefore ∴ পদটি 4 C 2 = 4 × 3 2 × 1 = 6 4_{C_{2}}=\\frac{4 \\times 3}{2 \\times 1}=6 4 C 2 ​ ​ = 2 × 1 4 × 3 ​ = 6"
+    },
+    {
+      "number": "5",
+      "tag": "ISCM 24,JB 20",
+      "question": "4y + x – 5 = 0 এবং 4y + 3x – 12 = 0 দুইটি সরলরেখার সমীকরণ । প্রদত্ত রেখাদ্বয়ের ঢালদ্বয়ের গুণফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 16 \\frac{3}{16} 16 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "16 3 \\frac{16}{3} 3 16 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 16 \\frac{3}{16} 16 3 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_d": "16 3 \\frac{16}{3} 3 16 ​",
+      "correct": "গ",
+      "explanation": "a x + b y + c = 0  আকারের সরলরেখার ঢাল  = − a b ∴ 4 y + x − 5 = 0  রেখার ঢাল  = − 1 4  এবং  4 y + 3 x − 12 = 0  রেখার ঢাল  = − 3 4 ∴  ঢালদ্বয়ের গুলফল  = ( − 1 4 ) × ( − 3 4 ) = 3 16 \\begin{array}{l}a x+b y+c=0 \\text { আকারের সরলরেখার ঢাল }=-\\frac{a}{b} \\\\ \\therefore 4 y+x-5=0 \\text { রেখার ঢাল }=-\\frac{1}{4} \\text { এবং } 4 y+3 x-12=0 \\text { রেখার ঢাল }=-\\frac{3}{4} \\\\ \\therefore \\text { ঢালদ্বয়ের গুলফল }=\\left(-\\frac{1}{4}\\right) \\times\\left(-\\frac{3}{4}\\right)=\\frac{3}{16}\\end{array} a x + b y + c = 0   আকারের   সরলরেখার   ঢাল   = − b a ​ ∴ 4 y + x − 5 = 0   রেখার   ঢাল   = − 4 1 ​   এবং   4 y + 3 x − 12 = 0   রেখার   ঢাল   = − 4 3 ​ ∴   ঢালদ্বয়ের   গুলফল   = ( − 4 1 ​ ) × ( − 4 3 ​ ) = 16 3 ​ ​"
+    },
+    {
+      "number": "6",
+      "tag": "ISCM 24,CTG.B 22,JB 20",
+      "question": "3 x + 4 y = 12 3 x+4 y=12 3 x + 4 y = 12 রেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ গঠন করে তার ক্ষেত্রফল কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8 বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6 বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 বর্গ একক",
+          "is_correct": true
+        }
+      ],
+      "option_a": "10 বর্গ একক",
+      "option_b": "8 বর্গ একক",
+      "option_c": "6 বর্গ একক",
+      "option_d": "4 বর্গ একক",
+      "correct": "ঘ",
+      "explanation": "3 x + 4 y = 12 x = 0  হলে  y = 3 y = 0  হলে  x = 4 X    অক্ষের ছেদক  ( 4 , 0 ) Y  অক্ষের ছেদক ( 0 , 3 ) O A = 4 O B = 3 △ O A B = 1 2 × O A × O B = 1 2 × 4 × 3 = 6  বর্গএকক  \\begin{array}{l}3 x+4 y=12 \\\\ x=0 \\text { হলে } y=3 \\\\ y=0 \\text { হলে } x=4 \\\\ X \\text { ~ অক্ষের ছেদক }(4,0) \\\\ Y \\text { অক্ষের ছেদক}(0,3) \\\\ O A=4 \\quad O B=3 \\\\ \\triangle O A B=\\frac{1}{2} \\times O A \\times O B \\\\ =\\frac{1}{2} \\times 4 \\times 3=6 \\text { বর্গএকক }\\end{array} 3 x + 4 y = 12 x = 0   হলে   y = 3 y = 0   হলে   x = 4 X       অক্ষের   ছেদক   ( 4 , 0 ) Y   অক্ষের   ছেদক ( 0 , 3 ) O A = 4 OB = 3 △ O A B = 2 1 ​ × O A × OB = 2 1 ​ × 4 × 3 = 6   বর্গএকক   ​"
+    },
+    {
+      "number": "7",
+      "tag": "BAFSC 24,JB 20",
+      "question": "চিত্রে P ও Q যথাক্রমে BD ও AC এর মধ্যবিন্দু, যেখানে AB || CD এবং AB = 5 cm, CD = 7 cm তাহলে PQ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 cm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 cm",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 cm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 cm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 cm",
+      "option_b": "4 cm",
+      "option_c": "2 cm",
+      "option_d": "1 cm",
+      "correct": "খ",
+      "explanation": "ABCD ট্রাপিজিয়ামের BD ও AC কর্ণের মধ্যবিন্দুদ্বয় যথাক্রমে P ও Q P ও Q P ও Q হলে, ∣ P Q → ∣ = 1 2 ∣ D C → − A B → ∣ = 1 2 ( 7 − 5 ) c m = 1 2 × 2   c m = 1   c m |\\overrightarrow{\\mathrm{PQ}}|=\\frac{1}{2}|\\overrightarrow{\\mathrm{DC}}-\\overrightarrow{\\mathrm{AB}}|=\\frac{1}{2}(7-5) \\mathrm{cm}=\\frac{1}{2} \\times 2 \\mathrm{~cm}=1 \\mathrm{~cm} ∣ PQ ​ ∣ = 2 1 ​ ∣ DC − AB ∣ = 2 1 ​ ( 7 − 5 ) cm = 2 1 ​ × 2   cm = 1   cm"
+    },
+    {
+      "number": "8",
+      "tag": "JB 20",
+      "question": "চিত্রে, AB = CD = 6 cm এবং ইহার সিলিন্ডার আকৃতির অংশের ব্যাসার্ধ 2cm হলে ক্যাপসুলের আয়তন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "92.15 cc",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "108.90 cc",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "152.66 cm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "180.90 cc",
+          "is_correct": true
+        }
+      ],
+      "option_a": "92.15 cc",
+      "option_b": "108.90 cc",
+      "option_c": "152.66 cm",
+      "option_d": "180.90 cc",
+      "correct": "ঘ",
+      "explanation": "মোট আয়তন = সিলিন্ডারের আয়তন + অর্ধগোলক দুইটির আয়তন = π r 2 h + 4 3 π r 3 = π × 2 2 × 6 + 4 3 × π × 2 3 = 108.90 c c \\begin{array}{l}=\\pi r^{2} h+\\frac{4}{3} \\pi r^{3} \\\\ =\\pi \\times 2^{2} \\times 6+\\frac{4}{3} \\times \\pi \\times 2^{3} \\\\ =108.90 \\mathrm{cc}\\end{array} = π r 2 h + 3 4 ​ π r 3 = π × 2 2 × 6 + 3 4 ​ × π × 2 3 = 108.90 cc ​"
+    },
+    {
+      "number": "9",
+      "tag": "CB 23,JB 20",
+      "question": "10টি কালো ও 5 টি লাল বল হতে দৈবভারে একটি বল নির্বাচন করা হলে, বলটি- i. লাল হওয়ার সম্ভাবনা 1 3 \\frac{1}{3} 3 1 ​ ii. লাল না হওয়ার সম্ভাবনা 2 3 \\frac{2}{3} 3 2 ​ iii. লাল অথবা কালো হওয়ার সম্ভাবনা 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "মোট বল = ( 10 + 5 ) = 15 =(10+5)=15 = ( 10 + 5 ) = 15 লাল হবার সম্ভাবনা = 5 15 = 1 3 =\\frac{5}{15}=\\frac{1}{3} = 15 5 ​ = 3 1 ​ লাল না হবার সম্ভাবনা T = 15 − 5 15 = 10 12 = 2 3 T=\\frac{15-5}{15}\\frac{}{}=\\frac{10}{12}=\\frac{2}{3} T = 15 15 − 5 ​ ​ = 12 10 ​ = 3 2 ​ লাল অথবা কালো হবার সম্ভবনা = 15 15 = 1 =\\frac{15}{15}=1 = 15 15 ​ = 1"
+    },
+    {
+      "number": "10",
+      "tag": "JB 20",
+      "question": "আবহাওয়া দপ্তর হতে পাওয়া রিপোর্ট অনুযায়ী সেপ্টেম্বর মাসে 19 দিন বৃষ্টি হয়েছে। তাহলে 8ই সেপ্টেম্বর বৃষ্টি হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8 30 \\frac{8}{30} 30 8 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "19 31 \\frac{19}{31} 31 19 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "19 30 \\frac{19}{30} 30 19 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8 31 \\frac{8}{31} 31 8 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "8 30 \\frac{8}{30} 30 8 ​",
+      "option_b": "19 31 \\frac{19}{31} 31 19 ​",
+      "option_c": "19 30 \\frac{19}{30} 30 19 ​",
+      "option_d": "8 31 \\frac{8}{31} 31 8 ​",
+      "correct": "ঘ",
+      "explanation": "প্রশ্নের বিবরণ অনুযায়ী, সেপ্টেম্বর মাসে মোট 30 দিন আছে এবং 19 দিন বৃষ্টি হয়েছে। 8ই সেপ্টেম্বর বৃষ্টি হওয়ার সম্ভাবনা নির্ণয়ের জন্য আমরা নিম্নরূপ ক্যালকুলেশন করতে পারি: বৃষ্টি হওয়ার অন্তর্ভুক্তি দিন: 19 দিন মোট দিন: 30 দিন তাহলে, 8ই সেপ্টেম্বর বৃষ্টি হওয়ার সম্ভাবনা হবে - 19 30 \\frac{19}{30} 30 19 ​"
+    },
+    {
+      "number": "11",
+      "tag": "JB 20",
+      "question": "যদি f ( x ) = 4 x − 1 f(\\mathrm{x})=4 \\mathrm{x}-1 f ( x ) = 4 x − 1 এবং 0 ≤ x ≤ 3 0 \\leq \\mathrm{x} \\leq 3 0 ≤ x ≤ 3 হয় তাহলে f f f ফাংশনের রেঞ্জ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ y ∈ R : 0 ≤ y ≤ 3 } \\{\\mathrm{y} \\in \\R: 0 \\leq \\mathrm{y} \\leq 3\\} { y ∈ R : 0 ≤ y ≤ 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ y ∈ R : 1 ≤ y ≤ 11 } \\{\\mathrm{y} \\in \\R: 1 \\leq \\mathrm{y} \\leq 11\\} { y ∈ R : 1 ≤ y ≤ 11 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ y ∈ R : − 1 ≤ y ≤ 13 } \\{\\mathrm{y} \\in \\R:-1 \\leq \\mathrm{y} \\leq 13\\} { y ∈ R : − 1 ≤ y ≤ 13 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ y ≤ R : − 1 ≤ y ≤ 11 } \\{\\mathrm{y} \\leq \\R:-1 \\leq \\mathrm{y} \\leq 11\\} { y ≤ R : − 1 ≤ y ≤ 11 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ y ∈ R : 0 ≤ y ≤ 3 } \\{\\mathrm{y} \\in \\R: 0 \\leq \\mathrm{y} \\leq 3\\} { y ∈ R : 0 ≤ y ≤ 3 }",
+      "option_b": "{ y ∈ R : 1 ≤ y ≤ 11 } \\{\\mathrm{y} \\in \\R: 1 \\leq \\mathrm{y} \\leq 11\\} { y ∈ R : 1 ≤ y ≤ 11 }",
+      "option_c": "{ y ∈ R : − 1 ≤ y ≤ 13 } \\{\\mathrm{y} \\in \\R:-1 \\leq \\mathrm{y} \\leq 13\\} { y ∈ R : − 1 ≤ y ≤ 13 }",
+      "option_d": "{ y ≤ R : − 1 ≤ y ≤ 11 } \\{\\mathrm{y} \\leq \\R:-1 \\leq \\mathrm{y} \\leq 11\\} { y ≤ R : − 1 ≤ y ≤ 11 }",
+      "correct": "গ",
+      "explanation": "ধাপ 2: ডোমেনের প্রান্তিক বিন্দুতে মান নির্ণয় যখন x = 0 x=0 x = 0 : f ( 0 ) = 4 ( 0 ) − 1 = − 1 f(0)=4(0)-1=-1 f ( 0 ) = 4 ( 0 ) − 1 = − 1 যখন x = 3 x=3 x = 3 : f ( 3 ) = 4 ( 3 ) − 1 = 12 − 1 = 11 f(3)=4(3)-1=12-1=11 f ( 3 ) = 4 ( 3 ) − 1 = 12 − 1 = 11 ধাপ 3: রেঞ্জ নির্ধারণ যেহেতু ফাংশনটি ঊর্ধ্বমুখী একঘেয়ে, তাই: ন্যূনতম মান (Minimum): f ( 0 ) = − 1 f(0)=-1 f ( 0 ) = − 1 সর্বোচ্চ মান (Maximum): f ( 3 ) = 11 f(3)=11 f ( 3 ) = 11 সুতরাং, ফাংশনের রেঞ্জ হলো −1 থেকে 11 পর্যন্ত সকল বাস্তব সংখ্যা। সুতরাং সঠিক উত্তরঃ ঘ) { y ≤ R : − 1 ≤ y ≤ 11 } \\{\\mathrm{y} \\leq \\R:-1 \\leq \\mathrm{y} \\leq 11\\} { y ≤ R : − 1 ≤ y ≤ 11 }"
+    },
+    {
+      "number": "12",
+      "tag": "JB 20",
+      "question": "U = P ∪ Q U=P \\cup Q U = P ∪ Q এবং n ( U ) = 90 n(U)=90 n ( U ) = 90 হলে উপরের ভেনচিত্র অনুসারে P\\Q এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "35",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "50",
+          "is_correct": false
+        }
+      ],
+      "option_a": "15",
+      "option_b": "20",
+      "option_c": "35",
+      "option_d": "50",
+      "correct": "খ",
+      "explanation": "ভেন চিত্রের অংশগুলি : P সেটে রয়েছে: 40− x P এবং Q এর ছেদ অংশে রয়েছে: 3 x Q সেটে রয়েছে: 30+2 x সেটের মোট উপাদান সংখ্যা : U = P ∪ Q এর মোট উপাদান সংখ্যা হলো: n ( U )=(40− x )+3 x +(30+2 x ) n ( U )=40− x +3 x +30+2 x =70+4 x প্রদত্ত তথ্য ব্যবহার করে সমীকরণ তৈরি : প্রশ্নে দেওয়া হয়েছে, n ( U )=90 : 70+4 x =90 সমীকরণ সমাধান : 4 x =90−70 4 x =20 x =5 P ∖ Q এর মান নির্ণয় : P ∖ Q হলো P সেটে যে উপাদানগুলি Q সেটে নেই, অর্থাৎ 40− x : P ∖ Q =40− x =40−5=35 উত্তর: P ∖ Q এর মান হলো 35​ ।"
+    },
+    {
+      "number": "13",
+      "tag": "CSCD 24,JB 20",
+      "question": "P ( x ) = x 3 − m x 2 + 3 x − 1 P(x)=x^{3}-m x^{2}+3 x-1 P ( x ) = x 3 − m x 2 + 3 x − 1 একটি বহুপদী। (x – 1), P(x) এর একটি উৎপাদক হলে, m এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "- 5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5",
+      "option_b": "3",
+      "option_c": "-3",
+      "option_d": "- 5",
+      "correct": "ঘ",
+      "explanation": "(x-1), P (x) এর একটি উতপাদক হলে , x -1 = 0 => x = 1 সুতরাং, x 3 − m x 2 + 3 x − 1 = 0 x = 1  বসিয়ে পাই ,  1 − m + 3 − 1 = 0 m = 3 \\begin{array}{l}x^{3}-m x^{2}+3 x-1=0 \\\\ x=1 \\text { বসিয়ে পাই , } \\\\ 1-m+3-1=0 \\\\ m=3\\end{array} x 3 − m x 2 + 3 x − 1 = 0 x = 1   বসিয়ে   পাই  ,  1 − m + 3 − 1 = 0 m = 3 ​"
+    },
+    {
+      "number": "14",
+      "tag": "CB 25,SB 24,JB 24,CPSCR 24,MC 24,DB 23,MB 23,SB 23,RB 22,DIN.B 22,CTG.B 22,JB 20",
+      "question": "যদি 5 x − 7 ( x − 1 ) ( x − 2 ) ≡ A x − 1 + B x − 2 \\frac{5 x-7}{(x-1)(x-2)} \\equiv \\frac{A}{x-1}+\\frac{B}{x-2} ( x − 1 ) ( x − 2 ) 5 x − 7 ​ ≡ x − 1 A ​ + x − 2 B ​ হয়, যেখানে A ও B মূলদ সংখ্যা, তবে B এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "-2",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": "প্রদত্ত সমীকরণটি হলো: 5 x − 7 ( x − 1 ) ( x − 2 ) ≡ A x − 1 + B x − 2 \\frac{5x-7}{(x-1)(x-2)} \\equiv \\frac{A}{x-1}+\\frac{B}{x-2} ( x − 1 ) ( x − 2 ) 5 x − 7 ​ ≡ x − 1 A ​ + x − 2 B ​ এখানে, A এবং B মূলদ সংখ্যা। এদের মান নির্ণয় করতে আমাদের প্রভাজক (partial fraction) পদ্ধতি প্রয়োগ করতে হবে। প্রথমে, সমীকরণকে সাধারণ জানা অংশে নির্ণয় করি: ( 5x - 7 = A(x-2) + B(x-1) ) এটি সহজ করার জন্য আমরা সমীকরণটি দুই পাশে প্রসারণ করব: ( 5x - 7 = Ax - 2A + Bx - B ) এরপর আমরা লাইক টার্মগুলো একত্রিত করি: ( 5x - 7 = (A + B)x - (2A + B) ) এখন, x এর সহগের তুলনা করে পাই: ( A + B = 5 ) এবং ধ্রুবক টার্মের তুলনা করে পাই: ( 2A + B = 7 ) এখন, প্রথম সমীকরণ থেকে B এর মান বের করি: ( B = 5 - A ) এটি দ্বিতীয় সমীকরণে প্রতিস্থাপন করি: ( 2A + (5 - A) = 7 ) সরলীকরণ করে পাই: ( A + 5 = 7 ) ( A = 2 ) এখন B এর মান বের করি: ( B = 5 - A = 5 - 2 = 3 ) সুতরাং, B এর মান 3।"
+    },
+    {
+      "number": "15",
+      "tag": "JB 20",
+      "question": "PQRS বৃত্তস্থ চতুর্ভুজে PR কেন্দ্রগামী এবং P T ⊥ Q S . P Q = 8 , P S = 5 , P T = 4 \\mathrm{PT} \\perp \\mathrm{QS} . \\mathrm{PQ}=8, \\mathrm{PS}=5, \\mathrm{PT}=4 PT ⊥ QS . PQ = 8 , PS = 5 , PT = 4 বৃত্তটির ব্যাসার্ধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "20",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "5",
+      "option_c": "10",
+      "option_d": "20",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "JB 20",
+      "question": "PQRS বৃত্তস্থ চতুর্ভুজে PR কেন্দ্রগামী এবং P T ⊥ Q S . P Q = 8 , P S = 5 , P T = 4 \\mathrm{PT} \\perp \\mathrm{QS} . \\mathrm{PQ}=8, \\mathrm{PS}=5, \\mathrm{PT}=4 PT ⊥ QS . PQ = 8 , PS = 5 , PT = 4 OR = 6 হলে PQR ত্রিভুজের নববিন্দুবৃত্তের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 π 3 \\pi 3 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 π 6 \\pi 6 π",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "9 π 9 \\pi 9 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "36 π 36 \\pi 36 π",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 π 3 \\pi 3 π",
+      "option_b": "6 π 6 \\pi 6 π",
+      "option_c": "9 π 9 \\pi 9 π",
+      "option_d": "36 π 36 \\pi 36 π",
+      "correct": "খ",
+      "explanation": "নববিন্দ বৃত্তের ব্যাসার্ধ্য  = R 2 ⇒  ব্যাসার্ধ্য  = O R 2 = 6 2 = 3 ∴ r = 3 ∴  নববিন্দু বৃত্তের ক্ষেত্রফল  = π × r 2 = π × 3 2 = 9 π .  \\begin{array}{l} \\text { নববিন্দ বৃত্তের ব্যাসার্ধ্য }=\\frac{R}{2} \\\\ \\Rightarrow \\text { ব্যাসার্ধ্য }=\\frac{O R}{2}=\\frac{6}{2}=3 \\\\ \\therefore r=3 \\\\ \\therefore \\text { নববিন্দু বৃত্তের ক্ষেত্রফল } =\\pi \\times r^{2} \\\\ =\\pi \\times 3^{2} \\\\ =9 \\pi \\text {. } \\end{array}   নববিন্দ   বৃত্তের   ব্যাসার্ধ্য   = 2 R ​ ⇒   ব্যাসার্ধ্য   = 2 OR ​ = 2 6 ​ = 3 ∴ r = 3 ∴   নববিন্দু   বৃত্তের   ক্ষেত্রফল   = π × r 2 = π × 3 2 = 9 π .  ​"
+    },
+    {
+      "number": "17",
+      "tag": "JB 20",
+      "question": "△ L M N  এ  ∠ L O M = 130 ∘ , L O = 10 \\triangle \\mathrm{LMN} ~\\text{এ}~\\angle \\mathrm{LOM}=130^{\\circ}, \\mathrm{LO}=10 △ LMN   এ   ∠ LOM = 13 0 ∘ , LO = 10 , M O = 7 , N O = 5 \\mathrm{MO}=7, \\mathrm{NO}=5 MO = 7 , NO = 5 হলে LM এর দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8.88",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "14.79",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "79",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "219",
+          "is_correct": true
+        }
+      ],
+      "option_a": "8.88",
+      "option_b": "14.79",
+      "option_c": "79",
+      "option_d": "219",
+      "correct": "ঘ",
+      "explanation": "△ L O N \\triangle L O N △ L ON থেকে, N = O L 2 − ( N 0 ) 2 = 10 2 − 5 2 = 5 3 \\begin{aligned} N & =\\sqrt{O L^{2}-\\left(N^{0}\\right)^{2}} \\\\ & =\\sqrt{10^{2}-5^{2}}=5 \\sqrt{3} \\end{aligned} N ​ = O L 2 − ( N 0 ) 2 ​ = 1 0 2 − 5 2 ​ = 5 3 ​ ​ △ L M N এ \\triangle L M N \\quadএ △ L MN এ , L M = L N 2 + M N 2 = ( 5 3 ) 2 + ( 5 + 7 ) 2 = 14.79 \\begin{aligned} L M & =\\sqrt{L N^{2}+M N^{2}}=\\sqrt{(5 \\sqrt{3})^{2}+(5+7)^{2}} \\\\ & =14.79 \\end{aligned} L M ​ = L N 2 + M N 2 ​ = ( 5 3 ​ ) 2 + ( 5 + 7 ) 2 ​ = 14.79 ​"
+    },
+    {
+      "number": "18",
+      "tag": "ISCM 24,CTG.B 20,JB 20,BB 20",
+      "question": "a x 2 + b x + c = 0 a x^{2}+b x+c=0 a x 2 + b x + c = 0 এর- i. a ও b এর মান ঋণাত্মক হতে পারে ii. নিশ্চায়ক b 2 − 4 a c b^{2}-4 a c b 2 − 4 a c iii. b 2 − 4 a c > 0 \\mathrm{b}^{2}-4 \\mathrm{ac}>0 b 2 − 4 ac > 0 কিন্তু পূর্ণবর্গ না হলে সমীকরণের মূলদ্বয় বাস্তব, অসমান ও অমূলদ হবে। নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "প্রদত্ত সমীকরণ a x 2 + b x + c = 0 ax^2 + bx + c = 0 a x 2 + b x + c = 0 (i) a a a ও b b b এর মান ঋণাত্মক হতে পারে হ্যাঁ, পারে — কারণ সাধারণ দ্বিঘাত সমীকরণে a , b , c a, b, c a , b , c বাস্তব যেকোনো সংখ্যা হতে পারে, শুধু a ≠ 0 a \\neq 0 a  = 0 হতে হবে। সঠিক (ii) নিশ্চয়ক (Discriminant) = b 2 − 4 a c = b^2 - 4ac = b 2 − 4 a c এটাই মানক সংজ্ঞা। সঠিক (iii) b 2 − 4 a c > 0 b^2 - 4ac > 0 b 2 − 4 a c > 0 কিন্তু পূর্ণবর্গ না হলে, মূলদ্বয় বাস্তব, অসমান ও অমূলদ হয় ঠিক তাই— যদি b 2 − 4 a c > 0 b^2 - 4ac > 0 b 2 − 4 a c > 0 হয় — দুইটি ভিন্ন বাস্তব মূল থাকে। যদি সেটি পূর্ণবর্গ না হয়, তবে মূলদ্বয় অমূলদ হয়। সঠিক"
+    },
+    {
+      "number": "19",
+      "tag": "HC 24,JB 20",
+      "question": "x y = y 2 \\mathrm{x}^{y}=\\mathrm{y}^{2} x y = y 2 এবং y 2 y = x 4 \\mathrm{y}^{2 \\mathrm{y}}=\\mathrm{x}^{4} y 2 y = x 4 সমীকরণ দুইটির সমাধান নিচের কোনটি? যেখানে x ≠ 1 x \\neq 1 x  = 1",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 2 , − 2 ) (2,-2) ( 2 , − 2 )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "( 2 , 1 ) (2,1) ( 2 , 1 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 2 , 2 ) (2,2) ( 2 , 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( − 2 , − 2 ) (-2,-2) ( − 2 , − 2 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 2 , − 2 ) (2,-2) ( 2 , − 2 )",
+      "option_b": "( 2 , 1 ) (2,1) ( 2 , 1 )",
+      "option_c": "( 2 , 2 ) (2,2) ( 2 , 2 )",
+      "option_d": "( − 2 , − 2 ) (-2,-2) ( − 2 , − 2 )",
+      "correct": "ক",
+      "explanation": "x = y 2 y ∴ y 2 y = x 4 y 2 y = ( y 2 4 ) 4 y 2 = y 8 9 y 2 y = 8 y ⇒ y 2 = 4 y = 2 \\begin{array}{l}x=y^{\\frac{2}{y}} \\\\ \\therefore y^{2 y}=x^{4} \\\\ y^{2 y}=\\left(y^{\\frac{2}{4}}\\right)^{4} \\\\ y^{2}=y^{\\frac{8}{9 y}} \\\\ 2 y=\\frac{8}{y} \\\\ \\Rightarrow y^{2}=4 \\\\ y=2\\end{array} x = y y 2 ​ ∴ y 2 y = x 4 y 2 y = ( y 4 2 ​ ) 4 y 2 = y 9 y 8 ​ 2 y = y 8 ​ ⇒ y 2 = 4 y = 2 ​ সুতরাং , x = y 2 y = 2 ′ = 2 ( x , y ) ≡ ( 2 , 2 ) \\begin{array}{l}x=y^{\\frac{2}{y}}=2^{\\prime}=2 \\\\ (x, y) \\equiv(2,2)\\end{array} x = y y 2 ​ = 2 ′ = 2 ( x , y ) ≡ ( 2 , 2 ) ​"
+    },
+    {
+      "number": "20",
+      "tag": "JB 20",
+      "question": "আলিফ 7 টাকা দরে y টি পেন্সিল এবং 9 টাকা দরে (y + 3)টি খাতা কিনেছে। মোট মূল্য অনূর্ধ্ব 171 টাকা হলে আলিফ সর্বাধিক কয়টি পেন্সিল কিনেছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10.50",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10.80",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12.40",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9",
+      "option_b": "10.50",
+      "option_c": "10.80",
+      "option_d": "12.40",
+      "correct": "গ",
+      "explanation": "আলিফের মোট ব্যয়: - পেন্সিলের জন্য: 7 y 7 y 7 y টাকা - খাতার জন্য: 9 ( y + 3 ) 9(y+3) 9 ( y + 3 ) টাকা প্রশ্মানুসারে, মোট মূল্য অনূর্ধ্ব 171 টাকা: 7 y + 9 ( y + 3 ) ≤ 171 7 y+9(y+3) \\leq 171 7 y + 9 ( y + 3 ) ≤ 171 সমীকরণটি সমাধান করা যাক: 7 y + 9 y + 27 ≤ 171 16 y + 27 ≤ 171 16 y ≤ 171 − 27 16 y ≤ 144 y ≤ 144 16 y ≤ 9 \\begin{array}{c} 7 y+9 y+27 \\leq 171 \\\\ 16 y+27 \\leq 171 \\\\ 16 y \\leq 171-27 \\\\ 16 y \\leq 144 \\\\ y \\leq \\frac{144}{16} \\\\ y \\leq 9 \\end{array} 7 y + 9 y + 27 ≤ 171 16 y + 27 ≤ 171 16 y ≤ 171 − 27 16 y ≤ 144 y ≤ 16 144 ​ y ≤ 9 ​ উত্তর: আলিফ সর্বাধিক 9টি পেন্সিল কিনেছে।"
+    },
+    {
+      "number": "21",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "ঘ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "22",
+      "tag": "JB 20",
+      "question": "7 : 35 am এ ঘন্টার কাঁটা এবং মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-17.5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-15.5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15.5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "17.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-17.5",
+      "option_b": "-15.5",
+      "option_c": "15.5",
+      "option_d": "17.5",
+      "correct": "ক",
+      "explanation": "মধ্যবর্তী কোণ -- θ = ∣ 30 H − 5.5 M ∣ = ∣ 30 × 7 − 5.5 × 35 ∣ = ∣ 17.5 ∘ \\begin{aligned} \\theta & =|30 H-5.5 M| \\\\ & =|30 \\times 7-5.5 \\times 35| \\\\ & =\\mid 17.5^{\\circ}\\end{aligned} θ ​ = ∣30 H − 5.5 M ∣ = ∣30 × 7 − 5.5 × 35∣ =∣ 17. 5 ∘ ​"
+    },
+    {
+      "number": "23",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "24",
+      "tag": "RB 21,JB 20",
+      "question": "যদি cot ⁡ ( n π 2 + θ ) = 1 \\cot \\left(\\frac{\\mathrm{n} \\pi}{2}+\\theta\\right)=1 cot ( 2 n π ​ + θ ) = 1 এবং θ = − π 4 \\theta=-\\frac{\\pi}{4} θ = − 4 π ​ হয় তবে n এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "4",
+      "option_d": "0",
+      "correct": "ঘ",
+      "explanation": "cot ⁡ ( n π 2 + θ ) = 1 ⇒ cot ⁡ ( n π 2 − π 4 ) = cot ⁡ π 4 ⇒ n π 2 − π 4 = π 4 ⇒ n π 2 = π 4 + π 4 = π 2 = n π 2 = π 2 ∴ n = 1. \\begin{aligned} & \\cot \\left(\\frac{n \\pi}{2}+\\theta\\right)=1 \\\\ \\Rightarrow & \\cot \\left(\\frac{n \\pi}{2}-\\frac{\\pi}{4}\\right)=\\cot \\frac{\\pi}{4} \\\\ \\Rightarrow & \\frac{n \\pi}{2}-\\frac{\\pi}{4}=\\frac{\\pi}{4} \\\\ \\Rightarrow & \\frac{n \\pi}{2}=\\frac{\\pi}{4}+\\frac{\\pi}{4}=\\frac{\\pi}{2} \\\\ = & \\frac{n \\pi}{2}=\\frac{\\pi}{2} \\\\ \\therefore & n=1 .\\end{aligned} ⇒ ⇒ ⇒ = ∴ ​ cot ( 2 nπ ​ + θ ) = 1 cot ( 2 nπ ​ − 4 π ​ ) = cot 4 π ​ 2 nπ ​ − 4 π ​ = 4 π ​ 2 nπ ​ = 4 π ​ + 4 π ​ = 2 π ​ 2 nπ ​ = 2 π ​ n = 1. ​"
+    },
+    {
+      "number": "1",
+      "tag": "JB 20",
+      "question": "p ( x ) = x 3 − m x 2 + 3 x − 1 \\mathrm{p}(\\mathrm{x})=\\mathrm{x}^{3}-\\mathrm{mx}^{2}+3 \\mathrm{x}-1 p ( x ) = x 3 − mx 2 + 3 x − 1 একটি বহুপদী। বহুপদীটিতে- i. মুখ্য সহগ ও ধ্রুবপদের সমষ্টি শূন্য ii. বহুপদীর মাত্রা 3 iii. শূন্য মাত্রাযুক্ত পদকে ধ্রুবপদ বলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "read_id": "qATkylTKNd-2XCPc",
+  "title": "যশোর বোর্ড ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JB 24,ACPS 24",
+      "question": "কোনো ইমেজের ক্ষুদ্রতম বর্গকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "mm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "cm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "pixel",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "point",
+          "is_correct": false
+        }
+      ],
+      "option_a": "mm",
+      "option_b": "cm",
+      "option_c": "pixel",
+      "option_d": "point",
+      "correct": "গ",
+      "explanation": "কোনো ইমেজের ক্ষুদ্রতম বর্গকে পিক্সেল (pixel) বলা হয়। এটি একটি ডিজিটাল ইমেজের ক্ষুদ্রতম একক যা একটি নির্দিষ্ট রং ধারণ করে। সঠিক উত্তর: pixel"
+    },
+    {
+      "number": "2",
+      "tag": "JB 24",
+      "question": "কোন ছবির রেজুলেশন ১৯৬০০ হলে পিক্সেলের ঘরে কত সংখ্যা টাইপ করতে হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১১০",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "১২০",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১৩০",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১৪০",
+          "is_correct": true
+        }
+      ],
+      "option_a": "১১০",
+      "option_b": "১২০",
+      "option_c": "১৩০",
+      "option_d": "১৪০",
+      "correct": "ঘ",
+      "explanation": "ফটোশপে ছবি তৈরি করা হয় পিক্সেলের মাধ্যমে। প্রতি বর্গ ইঞ্চিতে মোট পিক্সেলের পরিমাণকে বলা হয় রেজুলেশন। অথবা বলা যায়, পিক্সেল হলো রেজুলেশনের বর্গমূলের সমান। অর্থাৎ কোনো ছবির রেজুলেশন ১৯৬০০ হলে পিক্সেল হবে । ১৯৬০০ = ১৪০।"
+    },
+    {
+      "number": "3",
+      "tag": "JB 24",
+      "question": "ডেটাবেজের 'Student' টেবিলের একজন শিক্ষার্থীর Id, Name, Class, Roll, Section ফিল্ডের সমন্বয়কে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সেল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "রেকর্ড",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "টেবিল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ডেটাবেজ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সেল",
+      "option_b": "রেকর্ড",
+      "option_c": "টেবিল",
+      "option_d": "ডেটাবেজ",
+      "correct": "খ",
+      "explanation": "~¾q²¥¨"
+    },
+    {
+      "number": "4",
+      "tag": "CTG.B 25,JB 24,All.B 18,CCC 24,SCC 24",
+      "question": "শর্তসাপেক্ষে তথ্য অনুসন্ধান, সংরক্ষণ ও প্রদর্শন করাকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কুয়েরি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সার্চ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "রিলেশন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "লিংক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কুয়েরি",
+      "option_b": "সার্চ",
+      "option_c": "রিলেশন",
+      "option_d": "লিংক",
+      "correct": "ক",
+      "explanation": "শর্তসাপেক্ষে তথ্য অনুসন্ধান, সংরক্ষণ ও প্রদর্শন করার পদ্ধতিকে কুয়েরি (Query) বলে। এটি একটি ডেটাবেজ অপারেশন যা ব্যবহারকারীকে নির্দিষ্ট শর্ত অনুসারে ডেটা খুঁজে পেতে সহায়তা করে। সঠিক উত্তর: কুয়েরি"
+    },
+    {
+      "number": "5",
+      "tag": "JB 24,JB 19",
+      "question": "প্যালেটে রয়েছে- i. লেয়ার ii. পাথ iii. চ্যানেল নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "গ্রাফিক ডিজাইন সফটওয়্যারে যেমন ফটোশপে, প্যালেট বলতে এমন এলিমেন্ট বা ট্যাবের সেট বুঝায় যা নির্দিষ্ট ফাংশন বা তথ্য প্রদান করে। সাধারণত প্যালেটে লেয়ার, পাথ এবং চ্যানেল এই তিনটি বিষয় পাওয়া যায় যা বিভিন্ন গ্রাফিক ডিজাইন অপারেশনে ব্যবহৃত হয়। সুতরাং, সঠিক উত্তর হলো: i, ii ও iii"
+    },
+    {
+      "number": "6",
+      "tag": "JB 24",
+      "question": "তোমার My Profile নামের ডকুমেন্টটি অন্য নামে সংরক্ষণ করতে হলে নিচের কোনটি ব্যবহার করবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Open",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "New",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Save",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Save as",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Open",
+      "option_b": "New",
+      "option_c": "Save",
+      "option_d": "Save as",
+      "correct": "ঘ",
+      "explanation": "তোমার \"My Profile\" নামের ডকুমেন্টটি অন্য নামে সংরক্ষণ করতে হলে \"Save as\" অপশনটি ব্যবহার করতে হবে। \"Save as\" কমান্ডটি ব্যবহার করে তুমি ডকুমেন্টটির একটি নতুন কপি নতুন নামে বা নতুন স্থানে সংরক্ষণ করতে পারো। সঠিক উত্তর: Save as"
+    },
+    {
+      "number": "7",
+      "tag": "DB 25,DIN.B 25,RB 24,JB 24,MAD.B 20,JB 19,All.B 18,RCC 24,RUMC 24,ACPS 24,MC 24,DRMC 24,NIS 24,RGLHS 24,CTG.GHS 24",
+      "question": "ডিজিটাল কন্টেন্ট হলো- i. ভিডিও এবং অডিও ii. ছবি এবং লেখা iii. এনিমেশন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "ডিজিটাল কন্টেন্ট হলো এমন কন্টেন্ট বা উপাত্ত যা কম্পিউটার বা মোবাইল ডিভাইসের মাধ্যমে তৈরি, সংরক্ষণ, বিতরণ বা উপভোগ করা হয় । এটিতে বিভিন্ন ধরনের ডিজিটাল মিডিয়া কন্টেন্ট অন্তর্ভুক্ত থাকতে পারে, যেমন: টেক্সট, ছবি, ভিডিও,এনিমেশন এবং অডিও। Digital Content ও ডাটা আমাদের জীবনের বিভিন্ন ক্ষেত্রে গুরুত্বপূর্ণ ভূমিকা পালন করে।"
+    },
+    {
+      "number": "8",
+      "tag": "JB 24,GLSC 24,RCPC 24",
+      "question": "DBMS এর পূর্ণ রূপ কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Database Management System",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Database Migration System",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Database Minimization System",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Database Matrix Sysetm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Database Management System",
+      "option_b": "Database Migration System",
+      "option_c": "Database Minimization System",
+      "option_d": "Database Matrix Sysetm",
+      "correct": "ক",
+      "explanation": "DBMS এর পূর্ণ রূপ হলো Database Management System. Database Management System (DBMS) হলো একটি সফটওয়্যার যা ডেটাবেসের পরিচালনা করে এবং ব্যবহারকারীর সাথে ডেটাবেসের সাথে যোগাযোগ করে।"
+    },
+    {
+      "number": "9",
+      "tag": "JB 24,RCC 24",
+      "question": "Student ও Result নামক দুটি টেবিলের মধ্যে ডেটা আদান-প্রদানের জন্য কিসের ভিত্তিতে রিলেশন তৈরি করা যাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রেকর্ড",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফিল্ড",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ফর্ম",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "রিপোর্ট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রেকর্ড",
+      "option_b": "ফিল্ড",
+      "option_c": "ফর্ম",
+      "option_d": "রিপোর্ট",
+      "correct": "খ",
+      "explanation": "Student এবং Result নামক দুটি টেবিলের মধ্যে ডেটা আদান-প্রদানের জন্য সাধারণত ফিল্ডের ভিত্তিতে রিলেশন তৈরি করা হয়। এর অর্থ হলো দুটি টেবিলের মধ্যে কমন একটি বা একাধিক ফিল্ড থাকবে যার মাধ্যমে ডেটা সংযুক্ত হবে। তাই সঠিক উত্তরটি হলো: ফিল্ড"
+    },
+    {
+      "number": "10",
+      "tag": "JB 24",
+      "question": "তোমার প্রস্তুতকৃত ডকুমেন্টের প্রতি পৃষ্ঠার উপরে ডকুমেন্ট টাইটেল স্বয়ংক্রিয়ভাবে লেখার জন্য ইনসার্ট ট্যাবের কোনটি ব্যবহার করবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Header",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Footer",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Page Number",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Book mark",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Header",
+      "option_b": "Footer",
+      "option_c": "Page Number",
+      "option_d": "Book mark",
+      "correct": "ক",
+      "explanation": "~¾q²¥¨"
+    },
+    {
+      "number": "11",
+      "tag": "JB 24",
+      "question": "= B1 + B2 + B3 + B4 + C5 ফরমুলাটির ফাংশন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "= SUM (BI: B4, C5)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "SUM = (B1: B4, C5)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "= SUM (B1: B4: C5)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "=SUM (B1: C5)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "= SUM (BI: B4, C5)",
+      "option_b": "SUM = (B1: B4, C5)",
+      "option_c": "= SUM (B1: B4: C5)",
+      "option_d": "=SUM (B1: C5)",
+      "correct": "ক",
+      "explanation": "ফরমুলা = B1 + B2 + B3 + B4 + C5 এ পাঁচটি সেলের মান যোগ করা হচ্ছে। স্প্রেডশিটে এই ধরনের যোগফল সহজে বের করার জন্য SUM ফাংশন ব্যবহার করা হয়। যেহেতু B1, B2, B3, B4 সেলগুলো ধারাবাহিক (B1 থেকে B4), তাই এগুলোকে B1:B4 হিসেবে লেখা যায়। তবে C5 সেল আলাদা অবস্থানে থাকায় একে কমা দিয়ে আলাদাভাবে উল্লেখ করতে হবে। সুতরাং সঠিক ফাংশন হবে =SUM(B1:B4, C5) যেখানে B1:B4 একটি রেঞ্জ এবং C5 একটি পৃথক সেল। এই ফাংশনটি B1 থেকে B4 পর্যন্ত সব সেলের মান এবং C5 সেলের মান একসাথে যোগ করবে।"
+    },
+    {
+      "number": "",
+      "tag": "JB 24",
+      "question": "A B C D E F 1 Name Bang Eng Math Total Avg 2 X 75 82 95 3 Y 39 45 76 4 Z 85 79 82 ? '?' চিহ্নিত céll address কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "F2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "E4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "F4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "C5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "F2",
+      "option_b": "E4",
+      "option_c": "F4",
+      "option_d": "C5",
+      "correct": "গ",
+      "explanation": "প্রশ্নে দেওয়া টেবিল অনুযায়ী, '?' চিহ্নটি 'Avg' (Average) কলামের তৃতীয় সারিতে অবস্থান করছে, যা রোল নাম্বার 'Z'। এই কলামটি F কলাম এবং এই অ্যাভারেজটি ৪র্থ সারিতে রয়েছে। তাই '?' চিহ্নিত সেল অ্যাড্রেসটি হচ্ছে F4। সঠিক উত্তর: F4"
+    },
+    {
+      "number": "",
+      "tag": "JB 24,CTG.B 23,All.B 17",
+      "question": "a b c d e f 1 Name Bang Eng Math Total Average 2 X 50 55 75 ? 3 Y 60 65 70 4 Z 55 45 50 'X' এর Total number বের করতে কোন সূত্র ব্যবহার করতে হবে? i. = B 2 B_2 B 2 ​ + C 2 C_2 C 2 ​ + D 2 D_2 D 2 ​ ii. Sum ( B 2 B_2 B 2 ​ + C 2 C_2 C 2 ​ + D 2 D_2 D 2 ​ ) iii. = Sum ( B 2 B_2 B 2 ​ : D 2 D_2 D 2 ​ ) নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "স্প্রেডশিট প্রোগ্রামে সেলসমূহের ডেটাগুলো নিয়ে যোগ, বিয়োগ, গুণ, ভাগ, শতকরা ও গড় সহজে নির্ণয় করা যায়। এটির জন্য যে সেলে হিসাব করা হবে সেখানে প্রথমে সমান চিহ্ন দিয়ে সূত্র লিখতে হবে। তাহলে উদ্দীপক অনুসারে, F2 সেলের গড় নির্ণয়ের সূত্রটি হবে, =(B2+C2+D2)/3। অনুরূপভাবে 'X' এর Total number বের করার সূত্র হবে, =B2+C2+D2 অথবা, =sum(B2:D2)। যদি সেলগুলো একই রো বা কলামে থাকে, সেক্ষেত্রে সেল রেঞ্জ ব্যবহার করা যায়। সূত্রের শুরুতে অবশ্যই সমান (=) চিহ্ন দিতে হবে, না দিলে সূত্রটি কাজ করবে না।"
+    },
+    {
+      "number": "14",
+      "tag": "RB 24,JB 24,MAD.B 24,DB, RB, CB, CTG.B, DIN.B, SB, BB 19,RCC 24",
+      "question": "বর্তমানে দেশের সকল জমির রেকর্ডের অনুলিপি অনলাইনে সংগ্রহ করার ই-সার্ভিসের নাম কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ই-এমটিএস সেবা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ই-পূর্জি সেবা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ই-পর্চা সেরা",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ই-কমার্স সেবা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ই-এমটিএস সেবা",
+      "option_b": "ই-পূর্জি সেবা",
+      "option_c": "ই-পর্চা সেরা",
+      "option_d": "ই-কমার্স সেবা",
+      "correct": "গ",
+      "explanation": "ই-পুর্জি → এসএমএস এর মাধ্যমে আখচাষীদের আখ সরবরাহ করার অনুমতিপত্র। ই-কমার্স → ইলেকট্রনিক মাধ্যমে বাণিজ্য করার প্রক্রিয়া। ই-পর্চা → অনলাইনে জমির রেকর্ডের অনুলিপি সংগ্রহের প্রক্রিয়া। ই-এমটিএস → ডাক বিভাগের ইলেকট্রনিক মানি ট্রান্সফার সিস্টেম প্রক্রিয়া।"
+    },
+    {
+      "number": "15",
+      "tag": "JB 24,DIN.B 23,ACPS 24,HC 24,BCPC 24,RCPC 24",
+      "question": "Run কমান্ড সক্রিয় করার জন্য প্রক্রিয়া কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Windows + r",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Windows + p",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Ctrl + r",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "shift + r",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Windows + r",
+      "option_b": "Windows + p",
+      "option_c": "Ctrl + r",
+      "option_d": "shift + r",
+      "correct": "ক",
+      "explanation": "Run কমান্ড সক্রিয় করার জন্য সঠিক প্রক্রিয়া হল Windows + r। এই কী সংমিশ্রণটি ব্যবহার করে 'Run' ডায়লগ বক্স খোলা যায় যা ব্যবহারকারীকে কমান্ড চালাতে বা প্রোগ্রাম দ্রুত খোলার সুযোগ দেয়। সুতরাং, সঠিক উত্তর: Windows + r"
+    },
+    {
+      "number": "16",
+      "tag": "JB 24",
+      "question": "VIRUS এর কারণে- i. মেমোরি কম দেখায় ii. গতি কমে যায় iii. ফাইল খুলতে সময় বেশি নেয় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "~¾q²¥¨"
+    },
+    {
+      "number": "17",
+      "tag": "JB 24",
+      "question": "কিন্ডল (Kindle) তৈরি করেছে কোন কোম্পানি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Google",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Sun Micro system",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Amazon",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Bell laboratories",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Google",
+      "option_b": "Sun Micro system",
+      "option_c": "Amazon",
+      "option_d": "Bell laboratories",
+      "correct": "গ",
+      "explanation": "কিন্ডল (Kindle) তৈরি করেছে Amazon কোম্পানি। এটি অ্যামাজনের একটি ই-বুক রিডার ডিভাইস যা গ্রাহকদের জন্য বিভিন্ন ডিজিটাল বই এবং পত্রিকা পড়ার সুবিধা প্রদান করে।"
+    },
+    {
+      "number": "18",
+      "tag": "JB 24",
+      "question": "স্মার্টফোন অ্যাপ বানানোর জন্য কোন ধরনের জ্ঞান প্রয়োজন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রকৌশল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফ্রিল্যান্সিং",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্রোগ্রামিং",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ইন্টারনেট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রকৌশল",
+      "option_b": "ফ্রিল্যান্সিং",
+      "option_c": "প্রোগ্রামিং",
+      "option_d": "ইন্টারনেট",
+      "correct": "গ",
+      "explanation": "স্মার্টফোন অ্যাপ বানানোর জন্য প্রোগ্রামিং জ্ঞান অপরিহার্য। এর জন্য বিভিন্ন প্রোগ্রামিং ভাষা, অ্যাপ ডেভেলপমেন্ট টুল এবং ডেটাবেস ব্যবস্থাপনা সম্পর্কে জানতে হয়। এছাড়াও, ইউজার ইন্টারফেস (UI) এবং ইউজার এক্সপেরিয়েন্স (UX) ডিজাইন, টেস্টিং এবং ডিবাগিং সম্পর্কে ধারণা থাকা অ্যাপ ডেভেলপমেন্টে সহায়ক।"
+    },
+    {
+      "number": "19",
+      "tag": "JB 24",
+      "question": "স্প্রেডশিট এ 'B1' কি নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রো",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কলাম",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সেল",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ফর্মুলা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রো",
+      "option_b": "কলাম",
+      "option_c": "সেল",
+      "option_d": "ফর্মুলা",
+      "correct": "গ",
+      "explanation": "স্প্রেডশিট এ 'B1' একটি সেল নির্দেশ করে। 'B' হল কলাম এবং '1' হল রো। সুতরাং, 'B1' সেল এর অবস্থান নির্দেশ করে। সঠিক উত্তর: সেল"
+    },
+    {
+      "number": "20",
+      "tag": "JB 24,MAD.B 20,GLSC 24",
+      "question": "বিশ্বের বেশিরভাগ কম্পিউটারে কোন অপারেটিং সিস্টেম ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Windows",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Linux",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "MAC",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Unix",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Windows",
+      "option_b": "Linux",
+      "option_c": "MAC",
+      "option_d": "Unix",
+      "correct": "ক",
+      "explanation": "বিশ্বের বেশিরভাগ কম্পিউটারে Windows অপারেটিং সিস্টেম ব্যবহৃত হয়। এটি বিশ্বব্যাপী কম্পিউটার ব্যবহারকারীদের মধ্যে অত্যন্ত জনপ্রিয় এবং প্রচলিত অপারেটিং সিস্টেম। সঠিক উত্তর: Windows"
+    },
+    {
+      "number": "21",
+      "tag": "DB 25,JB 24,MAD.B 17",
+      "question": "আধুনিক কম্পিউটারের জনক কে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "চালর্স ব্যাবেজ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "বিল গেটস",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মার্ক জাকারবার্গ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "স্টিভ জবস",
+          "is_correct": false
+        }
+      ],
+      "option_a": "চালর্স ব্যাবেজ",
+      "option_b": "বিল গেটস",
+      "option_c": "মার্ক জাকারবার্গ",
+      "option_d": "স্টিভ জবস",
+      "correct": "ক",
+      "explanation": "আধুনিক কম্পিউটারের জনক হিসেবে চালর্স ব্যাবেজকে গণ্য করা হয়। তিনি প্রথম যে ধারণাটি দিয়েছিলেন সেটি হল একটি প্রোগ্রামযোগ্য কম্পিউটারের। তার ডিজাইন করা এনালিটিক্যাল ইঞ্জিন কে আধুনিক কম্পিউটারের পূর্বসূরী হিসেবে বিবেচনা করা হয়। সঠিক উত্তর: চালর্স ব্যাবেজ"
+    },
+    {
+      "number": "22",
+      "tag": "JB 24,RCC 24,GLSC 24",
+      "question": "আইসিটির যে দক্ষতাগুলো অধিকাংশ চাকরি প্রাপ্তির পূর্বশর্ত— i. অফিস ম্যানেজমেন্ট সফটওয়্যার ব্যবহার ii. প্রোগ্রামিং জ্ঞান iii. ওয়েবসাইট ব্রাউজিং নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "~¾q²¥¨"
+    },
+    {
+      "number": "23",
+      "tag": "JB 24",
+      "question": "বঙ্গবন্ধু স্যাটেলাইট-১ ব্যবহার করা যাবে- i. টেলিভিশন সেবায় ii. জাতীয় নিরাপত্তার কাজে iii. প্রাকৃতিক দুর্যোগ মোকাবিলার কাজে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "বঙ্গবন্ধু স্যাটেলাইট-১ বিভিন্ন ধরনের সেবা প্রদান করতে সক্ষম, যেমন টেলিভিশন সম্প্রচার, টেলিযোগাযোগ সেবা, এবং বিভিন্ন সরকারি কার্যক্রম। এটি জাতীয় নিরাপত্তা, দুর্যোগ ব্যবস্থাপনা এবং টেলিভিশন সেবায় ব্যবহার করা যেতে পারে। সুতরাং, প্রদত্ত সমস্ত বিষয় সঠিক।"
+    },
+    {
+      "number": "24",
+      "tag": "MB 24,JB 24",
+      "question": "নিচের কোন পাসওয়ার্ডটি সহজে হ্যাক করা. সম্ভব নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "123456",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Hossain",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Aksa#2015Bsc",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "qwerty",
+          "is_correct": false
+        }
+      ],
+      "option_a": "123456",
+      "option_b": "Hossain",
+      "option_c": "Aksa#2015Bsc",
+      "option_d": "qwerty",
+      "correct": "গ",
+      "explanation": "একটি জটিল পাসওয়ার্ড তৈরি করার জন্য সাধারণত কিছু ধাপ অনুসরণ করা হয়, যেমন বড় হাতের এবং ছোট হাতের অক্ষর, সংখ্যা, এবং বিশেষ চরিত্রের সমন্বয় করা। 123456 - শুধুমাত্র সংখ্যা, অতি সাধারণ এবং সহজে অনুমানযোগ্য। Hossain - শুধুমাত্র অক্ষর ব্যবহার করা হয়েছে, যা খুবই সাধারণ। Aksa#2015Bsc - বড় হাতের অক্ষর, ছোট হাতের অক্ষর, সংখ্যা এবং বিশেষ চিহ্ন রয়েছে। এটি ইন্টারেস্টিং এবং কঠিন অনুমানযোগ্য। qwerty - এই প্যাটার্নটি কীবোর্ডের উপর সোজাসুজি রাখা কিছু অক্ষর দ্বারা তৈরি হয়েছে, যা অত্যন্ত জনপ্রিয় এবং সহজেই অনুমানযোগ্য। সুতরাং, Aksa#2015Bsc পাসওয়ার্ডটি সবচেয়ে জটিল এবং সহজে হ্যাক করার সম্ভাবনা কম।"
+    },
+    {
+      "number": "25",
+      "tag": "JB 24",
+      "question": "কম্পিউটার চালু করার পর প্রতিবার ঘড়ির সময় ও তারিখ ঠিক করতে হয়। নিচের কোন ব্যাটারি পরিবর্তনের মাধ্যমে উক্ত সমস্যার সমাধান করবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "IPS",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "UPS",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "COMS",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "CMOS",
+          "is_correct": true
+        }
+      ],
+      "option_a": "IPS",
+      "option_b": "UPS",
+      "option_c": "COMS",
+      "option_d": "CMOS",
+      "correct": "ঘ",
+      "explanation": "কম্পিউটারের BIOS সেটিংস এবং ঘড়ির সময় ও তারিখ স্মরণ রাখার জন্য একটি ছোট ব্যাটারি ব্যবহৃত হয়, যা CMOS ব্যাটারি নামে পরিচিত। তাই, কম্পিউটার চালু করার পর যদি প্রতিবার ঘড়ির সময় ও তারিখ ঠিক করতে হয়, তাহলে CMOS ব্যাটারি পরিবর্তন করলে সমস্যার সমাধান হবে। সঠিক উত্তর: CMOS"
+    }
+  ]
+}

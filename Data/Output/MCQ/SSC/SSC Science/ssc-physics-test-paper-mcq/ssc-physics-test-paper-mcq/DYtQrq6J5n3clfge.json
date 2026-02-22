@@ -1,0 +1,832 @@
+{
+  "read_id": "DYtQrq6J5n3clfge",
+  "title": "ঢাকা বোর্ড ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DB 24,DB 23",
+      "question": "নিচের কোন মাধ্যমে শব্দ সবচেয়ে দ্রুত চলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "হাইড্রোজেন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "লোহা",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "পারদ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পানি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "হাইড্রোজেন",
+      "option_b": "লোহা",
+      "option_c": "পারদ",
+      "option_d": "পানি",
+      "correct": "খ",
+      "explanation": "যে মাধ্যমের স্থিতিস্থাপকতা বেশি কিন্তু ঘনত্ব কম, সে মাধ্যমে শব্দ দ্রুত চলে। সে অনুযায়ী, গ্যাস থেকে তরল এবং তরল থেকে কঠিন মাধ্যমে শব্দ দ্রুত চলে। এখানে, শব্দের বেগের ঊর্ধ্বক্রম: হাইড্রোজেন (1284 ms¯¹) < পারদ (1450 ms¯¹) < পানি (1493 ms¯¹) < লোহা (5130 ms¯¹)"
+    },
+    {
+      "number": "2",
+      "tag": "DB 24",
+      "question": "উত্তল আয়নায় সর্বদা - i. অবাস্তব প্রতিবিম্ব গঠিত হয় ii. উল্টা প্রতিবিম্ব গঠিত হয় iii. বিবর্ধন 1 অপেক্ষা ছোট হয় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. কোনো বস্তু থেকে আগত আপতিত রশ্মিসমূহ উত্তল আয়নায় প্রতিফলনের পর কখনোই প্রকৃতপক্ষে মিলিত হয় না, বরং দর্পণের পিছনের কোনো বিন্দু থেকে আসছে বলে মনে হয়। ফলে উত্তল আয়নায় সর্বদা কোনো বস্তুর অবাস্তব বিম্ব তৈরি হয়। ii. উত্তল, আয়নায় প্রতিফলিত রশ্মিসমূহ পিছনে বর্ধিত করে প্রাপ্ত বিম্ব সর্বদা লক্ষ্যবস্তুর চেয়ে ছোট এবং সোজা পাওয়া যায়। অর্থাৎ উল্টো প্রতিবিম্ব গঠিত হয়না। iii. উত্তল আয়নায় প্রতিবিম্ব লক্ষ্য বস্তু অপেক্ষা ছোট হওয়ায় বিবর্ধন 1 অপেক্ষা ছোট হয়।"
+    },
+    {
+      "number": "3",
+      "tag": "DB 24",
+      "question": "স্টেপআপ ট্রান্সফর্মারের ক্ষেত্রে- i. V s > V p V_{s}>V_{p} V s ​ > V p ​ ii. n s > n p \\mathrm{n}_{\\mathrm{s}}>\\mathrm{n}_{\\mathrm{p}} n s ​ > n p ​ iii. I s > I p \\mathrm{I}_{\\mathrm{s}}>\\mathrm{I}_{\\mathrm{p}} I s ​ > I p ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "iii",
+      "option_c": "i ও ii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "i. স্টেপ আপ ট্রান্সফর্মারে প্রাইমারি কয়েলের ভোল্টেজ ( V p ) \\left.V_{p}\\right) V p ​ ) এর তুলনায় সেকেন্ডারি কয়েলের ভোল্টেজ ( V s ) \\left.V_{s}\\right) V s ​ ) বেশি হয় অর্থাৎ, V s > V p V_{s}>V_{p} V s ​ > V p ​ . ii. স্টেপ আপ ট্রান্সফর্মারে সেকেন্ডারি কয়েলের ভোল্টেজ বৃদ্ধি করতে, প্রাইমারি কয়েলের প্যাঁচসংখ্যার ( n p ) \\left.n_{p}\\right) n p ​ ) চেয়ে সেকেন্ডারি কয়েলের প্যাঁচসংখ্যা ( n s ) \\left.n_{s}\\right) n s ​ ) বেশি রাখা হয়, n s n_s n s ​ > n p n_p n p ​ iii. স্টেপ আপ ট্রান্সফর্মারের ক্ষেত্রে I p = I s × n s n p I_{p}=I_{s} \\times \\frac{n_{s}}{n_{p}} I p ​ = I s ​ × n p ​ n s ​ ​ সূত্রানুসারে n s n_s n s ​ > হওয়ায় I p > I s \\mathrm{I}_{\\mathrm{p}}>\\mathrm{I}_{\\mathrm{s}} I p ​ > I s ​"
+    },
+    {
+      "number": "4",
+      "tag": "DB 24",
+      "question": "পানিতে অদ্রবণীয় দুটি কঠিন পদার্থ A ও B। A এর আয়তন 1500 cc ও ভর 0.9kg এবং B এর ঘনত্ব A এর ঘনত্বের দ্বিগুণ। (পানির ঘনত্ব 1 gm/cc এবং g = 9.8 m s − 2 ms^{-2} m s − 2 ) A বস্তুটিকে পানির 0.5 m গভীরে নিলে কত চাপ অনুভব করবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4900 Pa",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2940 Pa",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2.94 Pa",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2.94 × 10 − 3 2.94\\times10^{-3} 2.94 × 1 0 − 3 Pa",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4900 Pa",
+      "option_b": "2940 Pa",
+      "option_c": "2.94 Pa",
+      "option_d": "2.94 × 10 − 3 2.94\\times10^{-3} 2.94 × 1 0 − 3 Pa",
+      "correct": "ক",
+      "explanation": "চাপ, P = h p g = 0.5 × 1000 × 9.8 = 4900   P a \\mathrm{P}=\\mathrm{hpg}=0.5 \\times 1000 \\times 9.8=4900 \\mathrm{~Pa} P = hpg = 0.5 × 1000 × 9.8 = 4900   Pa"
+    },
+    {
+      "number": "5",
+      "tag": "DB 24",
+      "question": "পানিতে অদ্রবণীয় দুটি কঠিন পদার্থ A ও B। A এর আয়তন 1500 cc ও ভর 0.9kg এবং B এর ঘনত্ব A এর ঘনত্বের দ্বিগুণ। (পানির ঘনত্ব 1 gm/cc এবং g = 9.8 m s − 2 ms^{-2} m s − 2 ) A ও B দুটি বস্তুকে পানিতে ছেড়ে দিলে",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A ডুবে যাবে কিন্তু B ভাসবে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A ও B উভয়ই ডুবে যাবে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A ও B উভয়ই ভাসবে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "A ভাসবে কিন্তু B ডুবে যাবে",
+          "is_correct": true
+        }
+      ],
+      "option_a": "A ডুবে যাবে কিন্তু B ভাসবে",
+      "option_b": "A ও B উভয়ই ডুবে যাবে",
+      "option_c": "A ও B উভয়ই ভাসবে",
+      "option_d": "A ভাসবে কিন্তু B ডুবে যাবে",
+      "correct": "ঘ",
+      "explanation": "ρ A = m A   V A = 0.9 1500 × 10 − 6 = 600 k g m − 3 , ρ B = 2 ρ A = 1200 k g m − 3 \\rho_{\\mathrm{A}}=\\frac{\\mathrm{m}_{\\mathrm{A}}}{\\mathrm{~V}_{\\mathrm{A}}}=\\frac{0.9}{1500 \\times 10^{-6}}=600 \\mathrm{kgm}^{-3}, \\rho_{\\mathrm{B}}=2 \\rho_{\\mathrm{A}}=1200 \\mathrm{kgm}^{-3} ρ A ​ =   V A ​ m A ​ ​ = 1500 × 1 0 − 6 0.9 ​ = 600 kgm − 3 , ρ B ​ = 2 ρ A ​ = 1200 kgm − 3 পানির ঘনত্ব ρ w = 1000 k g m − 3 \\rho_{w}=1000 \\mathrm{kgm}^{-3} ρ w ​ = 1000 kgm − 3 । ρ A < ρ w \\rho_{\\mathrm{A}}<\\rho_{w} ρ A ​ < ρ w ​ এবং ρ B > ρ w \\rho_{\\mathrm{B}}>\\rho_{w} ρ B ​ > ρ w ​ । তাই A ভাসবে কিন্তু B ডুবে যাবে ।"
+    },
+    {
+      "number": "6",
+      "tag": "DB 24",
+      "question": "কোন বলের কারণে তেজস্ক্রিয় নিউক্লিয়াস থেকে β \\beta β রশ্মি বা ইলেকট্রন বের হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "চৌম্বক বল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দুর্বল নিউক্লিয় বল",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বিদ্যুৎ বল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সবল নিউক্লিয় বল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "চৌম্বক বল",
+      "option_b": "দুর্বল নিউক্লিয় বল",
+      "option_c": "বিদ্যুৎ বল",
+      "option_d": "সবল নিউক্লিয় বল",
+      "correct": "খ",
+      "explanation": "দুর্বল নিউক্লিয় বল তেজস্ক্রিয় নিউক্লিয়াসের ভাঙনের জন্য দায়ী। এর কারণে নিউক্লিয়াস থেকে β \\beta β রশ্মি বা ইলেকট্রন বের হয়।"
+    },
+    {
+      "number": "7",
+      "tag": "DB 24,CB 22,CTG.B 20",
+      "question": "বাতাসের প্রবাহ দিয়ে তৈরি বাদ্যযন্ত্র কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বেহালা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "হারমোনিয়াম",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "সেতার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ঢোল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বেহালা",
+      "option_b": "হারমোনিয়াম",
+      "option_c": "সেতার",
+      "option_d": "ঢোল",
+      "correct": "খ",
+      "explanation": "হারমোনিয়াম একটি বায়ু-চালিত বাদ্যযন্ত্র। এটি বাতাস প্রবাহের মাধ্যমে সুর সৃষ্টি করে, যেখানে কী চাপলে ভিতরের রিডে বাতাস প্রবাহিত হয়ে শব্দ তৈরি হয়। অন্যদিকে, বেহালা, সেতার এবং ঢোল তার বা চামড়ার কম্পনের মাধ্যমে শব্দ তৈরি করে।"
+    },
+    {
+      "number": "8",
+      "tag": "DB 24,CPSCR 24",
+      "question": "দৃশ্যমান আলোর সবচেয়ে ছোট তরঙ্গ দৈর্ঘ্য থেকেও ছোট তরঙ্গদৈর্ঘ্যকে কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ইনফ্রারেড",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "রেডিও ওয়েভ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মাইক্রোওয়েভ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "আলট্রাভায়োলেট",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ইনফ্রারেড",
+      "option_b": "রেডিও ওয়েভ",
+      "option_c": "মাইক্রোওয়েভ",
+      "option_d": "আলট্রাভায়োলেট",
+      "correct": "ঘ",
+      "explanation": "দৃশ্যমান আলোর সবচেয়ে ছোট তরঙ্গদৈর্ঘ্য থেকেও ছোট তরঙ্গদৈর্ঘ্য কে অতিবেগুনী রশ্মি (Ultraviolet Ray) বলা হয়। দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্য সাধারণত 400 nm (ন্যানোমিটার) থেকে 700 nm পর্যন্ত হয়ে থাকে, যেখানে অতিবেগুনী রশ্মির তরঙ্গদৈর্ম্য 10 nm থেকে 400 nm পর্যন্ত হতে পারে। অতিবেগুনী রশ্মি দৃশ্যমান আলোর চেয়ে বেশি শক্তিশালী এবং এটি মানুষের চোখে দেখা যায় না। এটি সূর্যের আলোতে উপস্থিত থাকে এবং বিভিন্ন রাসায়নিক ও জৈবিক প্রক্রিয়ায় গুরুত্বপূর্ণ ভূমিকা পালন করে।"
+    },
+    {
+      "number": "9",
+      "tag": "DB 24",
+      "question": "ক্যাপাসিটরের ধারকত্ব যদি C এবং ভোল্টেজ V হয় তাহলে তার ভেতরে যে শক্তি জমা থাকে সেটি হচ্ছে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 V C 2 \\frac{1}{2} \\mathrm{VC}^{2} 2 1 ​ VC 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 C V \\frac{1}{2} \\mathrm{CV} 2 1 ​ CV",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 C V 2 \\frac{1}{2} \\mathrm{CV}^{2} 2 1 ​ CV 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 c 2 V 2 \\frac{1}{2} c^{2} V^{2} 2 1 ​ c 2 V 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 V C 2 \\frac{1}{2} \\mathrm{VC}^{2} 2 1 ​ VC 2",
+      "option_b": "1 2 C V \\frac{1}{2} \\mathrm{CV} 2 1 ​ CV",
+      "option_c": "1 2 C V 2 \\frac{1}{2} \\mathrm{CV}^{2} 2 1 ​ CV 2",
+      "option_d": "1 2 c 2 V 2 \\frac{1}{2} c^{2} V^{2} 2 1 ​ c 2 V 2",
+      "correct": "গ",
+      "explanation": "ক্যাপাসিটরে সঞ্চিত শক্তি, = E = 1 2 Q 2 C = 1 2 ( C V ) 2 C = 1 2 C V 2 = 1 2 Q V \\mathrm{E}=\\frac{1}{2} \\frac{\\mathrm{Q}^{2}}{\\mathrm{C}}=\\frac{1}{2} \\frac{(\\mathrm{CV})^{2}}{\\mathrm{C}}=\\frac{1}{2} \\mathrm{CV}^{2}=\\frac{1}{2} \\mathrm{QV} E = 2 1 ​ C Q 2 ​ = 2 1 ​ C ( CV ) 2 ​ = 2 1 ​ CV 2 = 2 1 ​ QV"
+    },
+    {
+      "number": "10",
+      "tag": "DB 24",
+      "question": "কোনটির কার্যপ্রণালিতে তড়িৎ চৌম্বক আবেশকে ব্যবহার করা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ভ্যাকুয়াম টিউব",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ডায়োড",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ট্রান্সফর্মার",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "মাইক্রোফোন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ভ্যাকুয়াম টিউব",
+      "option_b": "ডায়োড",
+      "option_c": "ট্রান্সফর্মার",
+      "option_d": "মাইক্রোফোন",
+      "correct": "গ",
+      "explanation": "ট্রান্সফর্মারের কার্যপ্রণালিতে তড়িৎ চৌম্বক আবেশকে ব্যবহার করে কুণ্ডলীতে পাক সংখ্যার তারতম্যের মাধ্যমে বিভব পরিবর্তন করা হয়।"
+    },
+    {
+      "number": "11",
+      "tag": "DB 24",
+      "question": "সরাসরি বাহির হতে ভিতরের অঙ্গ দেখার প্রক্রিয়াটির নাম-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সিটি স্ক্যান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ইটিটি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ইসিজি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "এন্ডোসকপি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সিটি স্ক্যান",
+      "option_b": "ইটিটি",
+      "option_c": "ইসিজি",
+      "option_d": "এন্ডোসকপি",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "DB 24",
+      "question": "কোন রাশি যুগলের মাত্রা একই?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কাজ ও কর্মদক্ষতা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কাজ ও ক্ষমতা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কাজ ও শক্তি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ক্ষমতা ও শক্তি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কাজ ও কর্মদক্ষতা",
+      "option_b": "কাজ ও ক্ষমতা",
+      "option_c": "কাজ ও শক্তি",
+      "option_d": "ক্ষমতা ও শক্তি",
+      "correct": "গ",
+      "explanation": "কাজ ও শক্তির উভয়ের মাত্রা হচ্ছে M L 2   T − 2 \\mathrm{ML}^{2} \\mathrm{~T}^{-2} ML 2   T − 2 । অপরদিকে ক্ষমতার মাত্রা হলো M L 2   T − 3 \\mathrm{ML}^{2} \\mathrm{~T}^{-3} ML 2   T − 3 এবং একই জাতীয় রাশির অনুপাত হওয়ায় কর্মদক্ষতার কোনো মাত্রা নেই।"
+    },
+    {
+      "number": "13",
+      "tag": "DB 24",
+      "question": "নিচের কোন যন্ত্রে X-Ray ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আলট্রাসনোগ্রাফি ও সিটি স্ক্যান",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সিটি স্ক্যান ও রেডিওথেরাপি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ইসিজি ও আলট্রাসনোগ্রাফি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইসিজি ও রেডিওথেরাপি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "আলট্রাসনোগ্রাফি ও সিটি স্ক্যান",
+      "option_b": "সিটি স্ক্যান ও রেডিওথেরাপি",
+      "option_c": "ইসিজি ও আলট্রাসনোগ্রাফি",
+      "option_d": "ইসিজি ও রেডিওথেরাপি",
+      "correct": "খ",
+      "explanation": "X-Ray ব্যবহার করে সিটি স্ক্যান যন্ত্রে দেহের ত্রিমাত্রিক ছবি তোলা হয় এবং রেডিওথেরাপিতে ক্যান্সার সেল নষ্ট করা হয়। অপরদিকে আল্ট্রাসনোগ্রাফিতে উচ্চ কম্পাঙ্কের শব্দ এবং ইসিজিতে ইলেকট্রোড ব্যবহার করে হৃদপিন্ডের স্পন্দন বৈদ্যুতিক সংকেত রূপে সংগ্রহ করা হয়। তাই আল্ট্রাসনোগ্রাফি ও ইসিজিতে x-ray এর ব্যবহার করা হয় না সিটি স্ক্যান (CT Scan) সিটি স্ক্যান শব্দটি ইংরেজি Tomography Scan এর সংক্ষিপ্ত রূপ। Computed টমোগ্রাফি বলতে বোঝানো হয় ত্রিমাত্রিক বস্তুর একটি ফালির বা দ্বিমাত্রিক অংশের প্রতিবিম্ব তৈরি করা। চিকিৎসাবিজ্ঞানে এই যন্ত্রে এক্স-রে ব্যবহার করা হয়। রেডিওথেরাপি (Radio Therapy) রেডিওথেরাপি শব্দটি ইংরেজি Radiation Therapy শব্দটির সংক্ষিপ্ত রূপ। রেডিওথেরাপি হচ্ছে কোনো রোগের চিকিৎসায় তেজস্ক্রিয় বিকিরণের ব্যবহার। এটি মূলত ক্যান্সার রোগের চিকিৎসায় ব্যবহার করা হয়। রেডিওথেরাপিতে সাধারণত উচ্চ ক্ষমতার এক্স-রে ব্যবহার করে ক্যান্সার কোষকে ধ্বংস করা হয়। এই এক্স-রে ক্যান্সার কোষের ভেতরকার ডিএনএ (DNA) ধ্বংস করে কোষের সংখ্যা বৃদ্ধি করার ক্ষমতা নষ্ট করে দেয়।"
+    },
+    {
+      "number": "14",
+      "tag": "DB 24,CTG.B 24,FCC 24,DRMC 24,CPSCM 24,RCS 24,JB 20",
+      "question": "নিচের কোন সম্পর্কটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "α = 2 β = 3 γ \\alpha=2 \\beta=3 \\gamma α = 2 β = 3 γ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "α = β γ = γ 3 \\alpha=\\frac{\\beta}{\\gamma}=\\frac{\\gamma}{3} α = γ β ​ = 3 γ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 α = 2 β = γ 2 \\alpha=2 \\beta=\\gamma 2 α = 2 β = γ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 α = 3 β = 2 γ 6 \\alpha=3 \\beta=2 \\gamma 6 α = 3 β = 2 γ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "α = 2 β = 3 γ \\alpha=2 \\beta=3 \\gamma α = 2 β = 3 γ",
+      "option_b": "α = β γ = γ 3 \\alpha=\\frac{\\beta}{\\gamma}=\\frac{\\gamma}{3} α = γ β ​ = 3 γ ​",
+      "option_c": "2 α = 2 β = γ 2 \\alpha=2 \\beta=\\gamma 2 α = 2 β = γ",
+      "option_d": "6 α = 3 β = 2 γ 6 \\alpha=3 \\beta=2 \\gamma 6 α = 3 β = 2 γ",
+      "correct": "ঘ",
+      "explanation": "we k k k know β = 2 α ∴ α = β 2 \\begin{aligned} \\beta & =2 \\alpha \\\\ \\therefore \\alpha & =\\frac{\\beta}{2} \\end{aligned} β ∴ α ​ = 2 α = 2 β ​ ​ আবার, γ = 3 α ⇒ γ = 3 ⋅ β 2 ⇒ γ = 3 β 2 ⇒ γ 3 = β 2 ⇒ γ 3 = α \\begin{aligned} & \\gamma=3 \\alpha \\\\ \\Rightarrow & \\gamma=3 \\cdot \\frac{\\beta}{2} \\\\ \\Rightarrow & \\gamma=\\frac{3 \\beta}{2} \\\\ \\Rightarrow & \\frac{\\gamma}{3}=\\frac{\\beta}{2} \\\\ \\Rightarrow & \\frac{\\gamma}{3}=\\alpha \\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ γ = 3 α γ = 3 ⋅ 2 β ​ γ = 2 3 β ​ 3 γ ​ = 2 β ​ 3 γ ​ = α ​ ∴ α = β 2 = γ 3 [ 6 \\therefore \\alpha=\\frac{\\beta}{2}=\\frac{\\gamma}{3} \\quad[6 ∴ α = 2 β ​ = 3 γ ​ [ 6 দ্বারা সবপক্ষে গুণ করে ] ] ] ⇒ 6 α = 3 β = 2 γ \\Rightarrow 6 \\alpha=3 \\beta=2 \\gamma ⇒ 6 α = 3 β = 2 γ"
+    },
+    {
+      "number": "15",
+      "tag": "DB 24",
+      "question": "কোয়ান্টাম তত্ত্বের সাথে থিওরি অব রিলেটিভিটি ব্যবহার করে কে প্রতি পদার্থের অস্তিত্ব ঘোষণা করেন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ডিরাক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "রন্টজেন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বেকেরেল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মেরি কুরি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ডিরাক",
+      "option_b": "রন্টজেন",
+      "option_c": "বেকেরেল",
+      "option_d": "মেরি কুরি",
+      "correct": "ক",
+      "explanation": "১৯৩১ সাথে থিওরী অব রিলেটিভিটি ব্যবহার করে প্রতি পদার্থের অস্তিত্ব ঘোষণা করেন, যেটি পরের বছরই আবিষ্কৃত হয়ে যায়।"
+    },
+    {
+      "number": "16",
+      "tag": "DB 24",
+      "question": "স্প্রিং থেকে ঝুলিয়ে দেওয়া একটা বস্তুর গতি হচ্ছে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "চলন গতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ঘূর্ণন গতি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সরলরৈখিক গতি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "স্পন্দন গতি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "চলন গতি",
+      "option_b": "ঘূর্ণন গতি",
+      "option_c": "সরলরৈখিক গতি",
+      "option_d": "স্পন্দন গতি",
+      "correct": "ঘ",
+      "explanation": "স্প্রিংয়ে কোনো বস্তু ঝুলিয়ে দিলে তা একটি নির্দিষ্ট সময় পর পর তার গতিপথের একটি নির্দিষ্ট বিন্দুকে অতিক্রম করতে থাকে এবং এটি এর পর্যায়কালের অর্ধেক সময় একদিকে এবং বাকি অর্ধেক সময় বিপরীত দিকে চলে যা একটি স্পন্দন গতির উদাহরণ।"
+    },
+    {
+      "number": "17",
+      "tag": "DB 24",
+      "question": "একটি বস্তু স্থির অবস্থা হতে যাত্রা শুরু করলে এর সরণ নির্ণয়ের জন্য নিচের কোন সমীকরণটি প্রযোজ্য?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "s = a t 2 s=a t^{2} s = a t 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "v = 2 a s \\mathrm{v}=2 \\mathrm{as} v = 2 as",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "s = v 2 a \\mathrm{s}=\\frac{\\mathrm{v}}{\\sqrt{2} \\mathrm{a}} s = 2 ​ a v ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "s = v 2 2 a s=\\frac{v^{2}}{2 a} s = 2 a v 2 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "s = a t 2 s=a t^{2} s = a t 2",
+      "option_b": "v = 2 a s \\mathrm{v}=2 \\mathrm{as} v = 2 as",
+      "option_c": "s = v 2 a \\mathrm{s}=\\frac{\\mathrm{v}}{\\sqrt{2} \\mathrm{a}} s = 2 ​ a v ​",
+      "option_d": "s = v 2 2 a s=\\frac{v^{2}}{2 a} s = 2 a v 2 ​",
+      "correct": "ঘ",
+      "explanation": "সরণ সম্বলিত একটি গতির সমীকরণ হচ্ছে = s = u t + 1 2 a t 2 s=u t+\\frac{1}{2} a t^{2} s = u t + 2 1 ​ a t 2 এখানে, u = 0   m s − 1 \\mathrm{u}=0 \\mathrm{~ms}^{-1} u = 0   ms − 1 হলে, s = 1 2 a t 2 \\mathrm{s}=\\frac{1}{2} a t^{2} s = 2 1 ​ a t 2 অন্য আরেকটি সমীকরণ হচ্ছে v 2 = u 2 + 2 a s ; u = 0   m s − 1 v_2 =u^{2}+2 a s ; u=0 \\mathrm{~ms}^{-1} v 2 ​ = u 2 + 2 a s ; u = 0   ms − 1 হলে, v 2 = 2 v^{2}=2 v 2 = 2 as বা, s = v 2 2 a s=\\frac{v^{2}}{2 a} s = 2 a v 2 ​"
+    },
+    {
+      "number": "18",
+      "tag": "DB 24",
+      "question": "একটি গজের স্ক্রুয়ের পিচ 0.5 mm এবং বৃত্তাকার অংশের ভাগ সংখ্যা 100 হলে স্ক্রুগজের ন্যূনাঙ্ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.001 mm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.005 mm",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.01 mm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.05 mm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.001 mm",
+      "option_b": "0.005 mm",
+      "option_c": "0.01 mm",
+      "option_d": "0.05 mm",
+      "correct": "খ",
+      "explanation": "ন্যূনাঙ্ক =  পিচ   বৃত্তাকার স্কেলের ভাগসংখ্যা  = 0.5   m m 100 = 0.005   m m =\\frac{\\text { পিচ }}{\\text { বৃত্তাকার স্কেলের ভাগসংখ্যা }}=\\frac{0.5 \\mathrm{~mm}}{100}=0.005 \\mathrm{~mm} =   বৃত্তাকার   স্কেলের   ভাগসংখ্যা     পিচ   ​ = 100 0.5   mm ​ = 0.005   mm"
+    },
+    {
+      "number": "19",
+      "tag": "CB 23,BB 23,DIN.B 22,JB 22,CB 21,CTG.B 21,BB 21,SB 21,DIN.B 21,DB 20,RB 20,CTG.B 20,DIN.B 20,SB 20,RB 19,CTG.B 19,SB 19",
+      "question": "ত্বরণের মাত্রা কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "L T − 1 \\mathrm{LT}^{-1} LT − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "L T − 2 \\mathrm{LT}^{-2} LT − 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "L 2   T − 1 \\mathrm{L}^{2} \\mathrm{~T}^{-1} L 2   T − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "L 2   T − 2 \\mathrm{L}^{2} \\mathrm{~T}^{-2} L 2   T − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "L T − 1 \\mathrm{LT}^{-1} LT − 1",
+      "option_b": "L T − 2 \\mathrm{LT}^{-2} LT − 2",
+      "option_c": "L 2   T − 1 \\mathrm{L}^{2} \\mathrm{~T}^{-1} L 2   T − 1",
+      "option_d": "L 2   T − 2 \\mathrm{L}^{2} \\mathrm{~T}^{-2} L 2   T − 2",
+      "correct": "খ",
+      "explanation": "ত্বরণের মাত্রা নির্ণয়ের জন্য, প্রথমে এর সংজ্ঞা এবং সংশ্লিষ্ট রাশিগুলোর মাত্রা জানতে হবে। **ধাপ ১: ত্বরণের সংজ্ঞা** ত্বরণ (acceleration) হলো বেগ পরিবর্তনের হার। অর্থাৎ, ত্বরণ = বেগ / সময় **ধাপ ২: বেগের মাত্রা নির্ণয়** বেগ (velocity) হলো সরণ পরিবর্তনের হার। অর্থাৎ, বেগ = সরণ / সময় সরণের মাত্রা [L] (দৈর্ঘ্য) এবং সময়ের মাত্রা [T]। সুতরাং, বেগের মাত্রা = L T \\frac{\\text{L}}{\\text{T}} T L ​ = L T − 1 \\mathrm{LT}^{-1} LT − 1 **ধাপ ৩: ত্বরণের মাত্রা নির্ণয়** এবার ধাপ ২ থেকে প্রাপ্ত বেগের মাত্রা ব্যবহার করে ত্বরণের মাত্রা নির্ণয় করব: ত্বরণের মাত্রা = বেগের মাত্রা সময়ের মাত্রা \\frac{\\text{বেগের মাত্রা}}{\\text{সময়ের মাত্রা}} সময়ের   মাত্রা বেগের   মাত্রা ​ ত্বরণের মাত্রা = L T − 1 T \\frac{\\mathrm{LT}^{-1}}{\\text{T}} T LT − 1 ​ ত্বরণের মাত্রা = L T − 1 × T − 1 \\mathrm{LT}^{-1} \\times \\mathrm{T}^{-1} LT − 1 × T − 1 ত্বরণের মাত্রা = L T − 2 \\mathrm{LT}^{-2} LT − 2 অতএব, ত্বরণের মাত্রা হলো L T − 2 \\mathrm{LT}^{-2} LT − 2 । প্রদত্ত বিকল্পগুলোর মধ্যে, ক: L T − 1 \\mathrm{LT}^{-1} LT − 1 (এটি বেগের মাত্রা) খ: L T − 2 \\mathrm{LT}^{-2} LT − 2 (এটি ত্বরণের মাত্রা) গ: L 2   T − 1 \\mathrm{L}^{2} \\mathrm{~T}^{-1} L 2   T − 1 ঘ: L 2   T − 2 \\mathrm{L}^{2} \\mathrm{~T}^{-2} L 2   T − 2 সঠিক উত্তরটি হলো **খ: L T − 2 \\mathrm{LT}^{-2} LT − 2 **। প্রশ্নকর্তা কর্তৃক নির্বাচিত উত্তর B সঠিক। The final answer is খ \\boxed{\\text{খ}} খ ​"
+    },
+    {
+      "number": "20",
+      "tag": "DB 24,RPLSC 24",
+      "question": "আপেক্ষিক তাপের একক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "K -1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Jkg -1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "JkgK -1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Jkg -1 K -1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "K -1",
+      "option_b": "Jkg -1",
+      "option_c": "JkgK -1",
+      "option_d": "Jkg -1 K -1",
+      "correct": "ঘ",
+      "explanation": "আপেক্ষিক তাপ (Specific Heat): c = Q m ⋅ Δ T c=\\frac{Q}{m \\cdot \\Delta T} c = m ⋅ Δ T Q ​ এখানে: - Q Q Q হলো তাপের পরিমাণ (Joule, J) - m m m হলো ভর (kilogram, kg) - Δ T \\Delta T Δ T হলো তাপমাত্রার পরিবর্ডন (Kelvin, K) তাহলে, আপেক্ষিক তাপের একক হবে: c = J   k g ⋅   K c=\\frac{\\mathrm{J}}{\\mathrm{~kg} \\cdot \\mathrm{~K}} c =   kg ⋅   K J ​"
+    },
+    {
+      "number": "21",
+      "tag": "DB 24",
+      "question": "1500 kg ভরের একটি গাড়ি 72 k m h − 1 72kmh^{-1} 72 km h − 1 বেগে গতিশীল হলে এর ভরবেগ কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.08 × 10 5 k g m s − 1 1.08 \\times 10^{5} \\mathrm{kgms}^{-1} 1.08 × 1 0 5 kgms − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 × 10 4 k g m s − 1 3 \\times 10^{4} \\mathrm{kgms}^{-1} 3 × 1 0 4 kgms − 1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "300 k g m s − 1 300 \\mathrm{kgms}^{-1} 300 kgms − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "75 k g m s − 1 75 \\mathrm{kgms}^{-1} 75 kgms − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.08 × 10 5 k g m s − 1 1.08 \\times 10^{5} \\mathrm{kgms}^{-1} 1.08 × 1 0 5 kgms − 1",
+      "option_b": "3 × 10 4 k g m s − 1 3 \\times 10^{4} \\mathrm{kgms}^{-1} 3 × 1 0 4 kgms − 1",
+      "option_c": "300 k g m s − 1 300 \\mathrm{kgms}^{-1} 300 kgms − 1",
+      "option_d": "75 k g m s − 1 75 \\mathrm{kgms}^{-1} 75 kgms − 1",
+      "correct": "খ",
+      "explanation": "বেগ, v = 72 k m h r − 1 = 72 × 1000 3600 = 20   m s − 1 v=72 \\mathrm{kmhr}^{-1}=\\frac{72 \\times 1000}{3600}=20 \\mathrm{~ms}^{-1} v = 72 kmhr − 1 = 3600 72 × 1000 ​ = 20   ms − 1 ভরবেগ, p = m v = 1.500 × 20 = 3 × 10 4 k g m s − 1 \\mathrm{p}=\\mathrm{mv}=1.500 \\times 20=3 \\times 10^{4} \\mathrm{kgms}^{-1} p = mv = 1.500 × 20 = 3 × 1 0 4 kgms − 1"
+    },
+    {
+      "number": "22",
+      "tag": "DB 24",
+      "question": "চিত্রে OC = 12cm এবং AF = 4cm লেন্সটি হতে কত দূরে AB এর প্রতিবিম্ব গঠিত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.4 cm",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3.75 cm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12 cm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15 cm",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2.4 cm",
+      "option_b": "3.75 cm",
+      "option_c": "12 cm",
+      "option_d": "15 cm",
+      "correct": "ঘ",
+      "explanation": "O C = r = 12   c m , O F = f = r 2 = 6   c m , u = O A = O F + A F = 6 + 4 = 10   c m ; 1 u + 1 v = 1 f  বা,  1 v = 1 f − 1 u = 1 6 − 1 10 = 1 15 ∴ v = 15   c m \\begin{array}{l}\\mathrm{OC}=\\mathrm{r}=12 \\mathrm{~cm}, \\mathrm{OF}=\\mathrm{f}=\\frac{\\mathrm{r}}{2}=6 \\mathrm{~cm}, \\mathrm{u}=\\mathrm{OA}=\\mathrm{OF}+\\mathrm{AF} \\\\ =6+4=10 \\mathrm{~cm} ; \\frac{1}{\\mathrm{u}}+\\frac{1}{\\mathrm{v}}=\\frac{1}{\\mathrm{f}} \\text { বা, } \\frac{1}{\\mathrm{v}}=\\frac{1}{\\mathrm{f}}-\\frac{1}{\\mathrm{u}}=\\frac{1}{6}-\\frac{1}{10}=\\frac{1}{15} \\\\ \\therefore \\mathrm{v}=15 \\mathrm{~cm}\\end{array} OC = r = 12   cm , OF = f = 2 r ​ = 6   cm , u = OA = OF + AF = 6 + 4 = 10   cm ; u 1 ​ + v 1 ​ = f 1 ​   বা ,  v 1 ​ = f 1 ​ − u 1 ​ = 6 1 ​ − 10 1 ​ = 15 1 ​ ∴ v = 15   cm ​"
+    },
+    {
+      "number": "23",
+      "tag": "DB 24",
+      "question": "চিত্রে OC = 12cm এবং AF = 4cm লক্ষ্যবস্তু AB কে লেন্সের দিকে 7 cm সরালে i. অবাস্তব প্রতিবিম্ব গঠিত হবে ii. প্রতিবিম্ব প্রধান ফোকাসে অবস্থিত হবে iii. উৎপন্ন বিম্বের জন্য বিবর্ধন হবে 2 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. লক্ষ্যবস্তুকে লেন্সের দিকে 7 cm সরালে u = 10 - 7 = 3cm < f অর্থাৎ এটি ফোকাস দূরত্বের মাঝে থাকবে। তাই বিম্বের অবস্থান লেন্সের পিছনে গঠিত হবে এবং বিম্ব অবাস্তব ও সোজা হবে। ii. u = f হলে (u = 12 cm), তাহলে v = ∞ হয়। কিন্তু এখানে u = 11 cm, যা f এর সমান নয়, তাই প্রতিবিম্ব প্রধান ফোকাসে হবে না। → \"ii. প্রতিবিম্ব প্রধান ফোকাসে অবস্থিত হবে\" ❌ ভুল। iii. বিবর্ধন m = ∣ − v u ∣ = ∣ 6 3 ∣ = 2 m=\\left|-\\frac{v}{u}\\right|=\\left|\\frac{6}{3}\\right|=2 m = ​ − u v ​ ​ = ​ 3 6 ​ ​ = 2"
+    },
+    {
+      "number": "24",
+      "tag": "DB 24,RB 24,PCC 24,RCC 24,HC 24,SJHSS 24,SB 23,JB 23,MB 22,DIN.B 22,CTG.B 22 ,JB 22,MB 21,DIN.B 21,MB 20,RB 20",
+      "question": "বর্তনীটির তূল্যরোধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "11/18 Ω",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18/11 Ω",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 Ω",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 Ω",
+          "is_correct": false
+        }
+      ],
+      "option_a": "11/18 Ω",
+      "option_b": "18/11 Ω",
+      "option_c": "3 Ω",
+      "option_d": "6 Ω",
+      "correct": "খ",
+      "explanation": "প্রশ্নে দেওয়া বর্তনীতে দুটি সমান্তরাল সংযুক্ত প্রতিরোধক এবং একটি সিরিজে সংযুক্ত প্রতিরোধক রয়েছে। এখানে tতূল্য প্রতিরোধক বের করতে আমাদেরকে প্রথমে সমান্তরাল প্রতিরোধকগুলির তূল্য প্রতিরোধক বের করতে হবে এবং পরে এটিকে সিরিজের সাথে যুক্ত প্রতিরোধকের সাথে যোগ করতে হবে। প্রথমে, সমান্তরাল প্রতিরোধকগুলির তূল্য প্রতিরোধক হিসাব করি: 1 R parallel = 1 R 1 + 1 R 2 \\frac{1}{R_\\text{parallel}} = \\frac{1}{R_1} + \\frac{1}{R_2} R parallel ​ 1 ​ = R 1 ​ 1 ​ + R 2 ​ 1 ​ এখানে, R 1 = 9 Ω R_1 = 9 \\, \\Omega R 1 ​ = 9 Ω এবং R 2 = 18 Ω R_2 = 18 \\, \\Omega R 2 ​ = 18 Ω । 1 R parallel = 1 9 + 1 18 \\frac{1}{R_\\text{parallel}} = \\frac{1}{9} + \\frac{1}{18} R parallel ​ 1 ​ = 9 1 ​ + 18 1 ​ 1 R parallel = 2 18 + 1 18 = 3 18 = 1 6 \\frac{1}{R_\\text{parallel}} = \\frac{2}{18} + \\frac{1}{18} = \\frac{3}{18} = \\frac{1}{6} R parallel ​ 1 ​ = 18 2 ​ + 18 1 ​ = 18 3 ​ = 6 1 ​ অতএব, সমান্তরাল প্রতিরোধকগুলির তূল্যরোধ হলো R parallel = 6 Ω R_\\text{parallel} = 6 \\, \\Omega R parallel ​ = 6 Ω । এখন, এই সমান্তরাল প্রতিরোধকটি সিরিজ প্রতিরোধক R 3 = 6 Ω R_3 = 6 \\, \\Omega R 3 ​ = 6 Ω এর সাথে যুক্ত: R total = R parallel + R 3 R_\\text{total} = R_\\text{parallel} + R_3 R total ​ = R parallel ​ + R 3 ​ R total = 6 + 6 = 12 Ω R_\\text{total} = 6 + 6 = 12 \\, \\Omega R total ​ = 6 + 6 = 12 Ω কিন্তু আমরা ভুল করেছি, R 3 R_3 R 3 ​ যে 6 Ω 6 \\, \\Omega 6 Ω ছিল না। এটা যে 6 Ω 6 \\, \\Omega 6 Ω এর সাথে সমান্তরাল বর্তনীতে অন্তর্ভুক্ত করাই ছিল। সমীকরণের ভুল নেই কিন্তু অপশন B ইতিমধ্যে ভুল থাকায় সর্বশেষ তৈরী করার ভুল থাকতে পারে। উত্তর হবে অপশন B) 18/11 ।"
+    },
+    {
+      "number": "25",
+      "tag": "DB 24",
+      "question": "R 3 রোধটিকে অপসারণ করলে i. বর্তনীর মোট প্রবাহমাত্রা হ্রাস পাবে ii. R₁ ও R₂ এর ক্ষমতা একই হবে iii. R₁ ও R₂ এর মধ্যে দিয়ে একই বিদ্যুৎ প্রবাহিত হবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. বর্তনীর প্রবাহ, I = V R e q = 12 4 = 3 A I=\\frac{V}{R_{e q}}=\\frac{12}{4}=3 A I = R e q ​ V ​ = 4 12 ​ = 3 A R_{3} রোধকে সরালে R 1 R_1 R 1 ​ ও R 2 R_2 R 2 ​ শ্রেণিতে থাকবে। তখন তুল্যরোধ R s = 2 + 4 = 6 Ω \\mathrm{R}_{\\mathrm{s}}=2+4=6 \\Omega R s ​ = 2 + 4 = 6Ω , প্রবাহ, I ′ = 12 6 = 2   A < 3   A \\mathrm{I}^{\\prime}=\\frac{12}{6}=2 \\mathrm{~A}<3 \\mathrm{~A} I ′ = 6 12 ​ = 2   A < 3   A ∴ \\therefore ∴ প্রবাহমাত্রা হ্রাস পাবে। ii. R 1 R_{1} R 1 ​ এর ক্ষমতা, P 1 = I ′ 2 R 1 = ( 2 ) 2 × 2 = 8   W , P_{1}=I^{\\prime 2} R_{1}=(2)^{2} \\times 2=8 \\mathrm{~W}, P 1 ​ = I ′2 R 1 ​ = ( 2 ) 2 × 2 = 8   W , R 2 \\mathrm{R}_{2} R 2 ​ এর ক্ষমতা, P 2 = r 2 R 2 = 2 2 × 4 = 16   W , P 1 ≠ P 2 \\mathrm{P}_{2}=\\mathrm{r}^{2} \\mathrm{R}_{2}=2^{2} \\times 4=16 \\mathrm{~W}, \\mathrm{P}_{1} \\neq \\mathrm{P}_{2} P 2 ​ = r 2 R 2 ​ = 2 2 × 4 = 16   W , P 1 ​  = P 2 ​ iii. যেহেতু R 1 R_{1} R 1 ​ ও R 2 R_{2} R 2 ​ শ্রেণিতে যুক্ত সুতরাং, R 1 R_{1} R 1 ​ & R 2 R_{2} R 2 ​ এর মধ্যে দিয়ে একই বিদ্যুৎ প্রবাহিত হবে।"
+    }
+  ]
+}

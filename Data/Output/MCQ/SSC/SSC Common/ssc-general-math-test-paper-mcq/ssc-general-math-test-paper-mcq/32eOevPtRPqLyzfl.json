@@ -1,0 +1,766 @@
+{
+  "read_id": "32eOevPtRPqLyzfl",
+  "title": "যশোর বোর্ড ২০২২",
+  "count": 23,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JB 22",
+      "question": "A = {1, 3, 5, 7, 9}, B = {5, 7} হলে P(A - B). এর উপাদান সংখ্যা নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "8",
+      "option_d": "16",
+      "correct": "গ",
+      "explanation": "A − B = { 1 , 3 , 5 , 7 , 9 } − { 5 , 7 } = { 1 , 3 , 9 } A-B=\\{1,3,5,7,9\\}-\\{5,7\\}=\\{1,3,9\\} A − B = { 1 , 3 , 5 , 7 , 9 } − { 5 , 7 } = { 1 , 3 , 9 } (A - B) সেটের উপাদান সংখ্যা, n = 3 n=3 n = 3 ∴ P ( A − B ) \\therefore P(A-B) ∴ P ( A − B ) সেটের উপাদান সংখ্যা = 2 n = 2 3 = 8 =2^{n}=2^{3}=8 = 2 n = 2 3 = 8 টি"
+    },
+    {
+      "number": "2",
+      "tag": "JB 22,BCPC 24",
+      "question": "a 3 + 3 3 a^{3}+3 \\sqrt{3} a 3 + 3 3 ​ এর উৎপাদক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a 2 + 3 a + 9 \\mathrm{a}^{2}+3 \\mathrm{a}+9 a 2 + 3 a + 9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a 2 + a 3 + 3 \\mathrm{a}^{2}+\\mathrm{a} \\sqrt{3}+3 a 2 + a 3 ​ + 3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a + 3 \\mathrm{a}+\\sqrt{3} a + 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a − 3 a-\\sqrt{3} a − 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a 2 + 3 a + 9 \\mathrm{a}^{2}+3 \\mathrm{a}+9 a 2 + 3 a + 9",
+      "option_b": "a 2 + a 3 + 3 \\mathrm{a}^{2}+\\mathrm{a} \\sqrt{3}+3 a 2 + a 3 ​ + 3",
+      "option_c": "a + 3 \\mathrm{a}+\\sqrt{3} a + 3 ​",
+      "option_d": "a − 3 a-\\sqrt{3} a − 3 ​",
+      "correct": "গ",
+      "explanation": "প্রদত্ত রাশিটি হলো: a 3 + 3 3 a^3 + 3\\sqrt{3} a 3 + 3 3 ​ এটিকে a 3 + ( 3 ) 3 a^3 + (\\sqrt{3})^3 a 3 + ( 3 ​ ) 3 আকারে লেখা যায় কিনা দেখি। ( 3 ) 3 = 3 3 (\\sqrt{3})^3 = 3\\sqrt{3} ( 3 ​ ) 3 = 3 3 ​ তাহলে: a 3 + 3 3 = a 3 + ( 3 ) 3 a^3 + 3\\sqrt{3} = a^3 + (\\sqrt{3})^3 a 3 + 3 3 ​ = a 3 + ( 3 ​ ) 3 ঘন-এর সূত্র: x 3 + y 3 = ( x + y ) ( x 2 − x y + y 2 ) x^3 + y^3 = (x + y)(x^2 - xy + y^2) x 3 + y 3 = ( x + y ) ( x 2 − x y + y 2 ) এখানে x = a , y = 3 , x = a, y = \\sqrt{3}, x = a , y = 3 ​ , তাহলে: a 3 + ( 3 ) 3 = ( a + 3 ) ( a 2 − a 3 + 3 ) a^3 + (\\sqrt{3})^3 = (a + \\sqrt{3})(a^2 - a\\sqrt{3} + 3) a 3 + ( 3 ​ ) 3 = ( a + 3 ​ ) ( a 2 − a 3 ​ + 3 ) সুতরাং একটি উৎপাদক হলো a + 3 a + \\sqrt{3} a + 3 ​ ."
+    },
+    {
+      "number": "4",
+      "tag": "JB 24,JB 22",
+      "question": "a + b = 6 , a − b = 4  হলে-  a+b=6, a-b=4 \\text { হলে- } a + b = 6 , a − b = 4   হলে -  i. a 2 − b 2 = 24 a^{2}-b^{2}=24 a 2 − b 2 = 24 ii. a 2 + b 2 = 26 a^{2}+b^{2}=26 a 2 + b 2 = 26 iii. 4 a b = 20 4 \\mathrm{ab}=20 4 ab = 20 নিচেয় কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত সমীকরণগুলি হল: a + b = 6  এবং  a − b = 4 a+b=6 \\quad \\text { এবং } \\quad a-b=4 a + b = 6   এবং   a − b = 4 ধাপ 1: a a a এবং b b b এর মান নির্ণয় প্রথমে আমরা a a a এবং b b b এর মান বের করব। প্রদত্ত সমীকরণ দুটি যোগ করলে: ( a + b ) + ( a − b ) = 6 + 4 2 a = 10 a = 5 \\begin{array}{c} (a+b)+(a-b)=6+4 \\\\ 2 a=10 \\\\ a=5 \\end{array} ( a + b ) + ( a − b ) = 6 + 4 2 a = 10 a = 5 ​ এখন a = 5 a=5 a = 5 কে প্রথম সমীকরণে বসালে: 5 + b = 6 b = 1 \\begin{array}{c} 5+b=6 \\\\ b=1 \\end{array} 5 + b = 6 b = 1 ​ ধাপ 2: a 2 − b 2 a^{2}-b^{2} a 2 − b 2 এর মান নির্ণয় a 2 − b 2 a^{2}-b^{2} a 2 − b 2 এর মান নির্ণয় করতে হলে: a 2 − b 2 = ( a + b ) ( a − b ) = 6 × 4 = 24 a^{2}-b^{2}=(a+b)(a-b)=6 \\times 4=24 a 2 − b 2 = ( a + b ) ( a − b ) = 6 × 4 = 24 ধাপ 3: a 2 + b 2 a^{2}+b^{2} a 2 + b 2 এর মান নির্ণয় a 2 + b 2 a^{2}+b^{2} a 2 + b 2 এর মান নির্ণয় করতে হলে: a 2 + b 2 = ( a + b ) 2 − 2 a b = 6 2 − 2 a b = 36 − 2 a b a^{2}+b^{2}=(a+b)^{2}-2 a b=6^{2}-2 a b=36-2 a b a 2 + b 2 = ( a + b ) 2 − 2 ab = 6 2 − 2 ab = 36 − 2 ab a b a b ab এর মান নির্পয় করতে হলে: a b = ( a + b ) 2 − ( a − b ) 2 4 = 6 2 − 4 2 4 = 36 − 16 4 = 20 4 = 5 a b=\\frac{(a+b)^{2}-(a-b)^{2}}{4}=\\frac{6^{2}-4^{2}}{4}=\\frac{36-16}{4}=\\frac{20}{4}=5 ab = 4 ( a + b ) 2 − ( a − b ) 2 ​ = 4 6 2 − 4 2 ​ = 4 36 − 16 ​ = 4 20 ​ = 5 অতএব: a 2 + b 2 = 36 − 2 × 5 = 36 − 10 = 26 a^{2}+b^{2}=36-2 \\times 5=36-10=26 a 2 + b 2 = 36 − 2 × 5 = 36 − 10 = 26 ধাপ 4: 4 a b 4 a b 4 ab এর মান নির্ণয় 4 a b 4 a b 4 ab এর মান নির্ণয় করতে হলে: 4 a b = 4 × 5 = 20 4 a b=4 \\times 5=20 4 ab = 4 × 5 = 20 উত্তর: i. a 2 − b 2 = 24 a^{2}-b^{2}=24 a 2 − b 2 = 24 সঠিক ii. a 2 + b 2 = 26 a^{2}+b^{2}=26 a 2 + b 2 = 26 সঠিক iii. 4 a b = 20 4 a b=20 4 ab = 20 সঠিক অতএব, i, ii, এবং iii সবগুলি সঠিক।"
+    },
+    {
+      "number": "5",
+      "tag": "MB 25,CB 24,BB 24,DB 23,MB 23,SB 23,RB 23,JB 23,DB 22,MB 22,RB 22,CTG.B 22,SB 22,JB 22,RB 20,DIN.B 20,RB 19,CB 19,All.B 18,DB 17,DIN.B 17,JB 17,FCC 24,JGCC 24,PCC 24,VNSC 24,GLHSD 24,BAFSC 24,DCS 24,CSC 24,NISD 24,MCPSC 24",
+      "question": "একটি সমকোণী সমদ্বিবাহু ত্রিভুজের অতিভুজের দৈর্ঘ্য 12 সে.মি. হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "72 \\sqrt{72} 72 ​ বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "144 \\sqrt{144} 144 ​ বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36 বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "144 বর্গ সে.মি.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "72 \\sqrt{72} 72 ​ বর্গ সে.মি.",
+      "option_b": "144 \\sqrt{144} 144 ​ বর্গ সে.মি.",
+      "option_c": "36 বর্গ সে.মি.",
+      "option_d": "144 বর্গ সে.মি.",
+      "correct": "ঘ",
+      "explanation": "এখানে, সমকোণী সমবাহু ত্রিভুজে এর ক্ষেত্রে, cos ⁡ ∠ 45 ∘ = B C A C ⇒ 1 2 = B C 12 ⇒ 12 2 = B C ⇒ B C = 12 2 \\begin{array}{l} \\cos \\angle 4 5^{\\circ}=\\frac{B C}{A C} \\\\ \\Rightarrow \\frac{1}{\\sqrt{2}}=\\frac{B C}{12} \\\\ \\Rightarrow \\frac{12}{\\sqrt{2}}=B C \\\\ \\Rightarrow B C=\\frac{12}{\\sqrt{2}} \\end{array} cos ∠4 5 ∘ = A C BC ​ ⇒ 2 ​ 1 ​ = 12 BC ​ ⇒ 2 ​ 12 ​ = BC ⇒ BC = 2 ​ 12 ​ ​ ∴ A B = B C = − 12 2 \\therefore A B=B C=\\frac{-12}{\\sqrt{2}} ∴ A B = BC = 2 ​ − 12 ​ ∴ \\therefore ∴ ত্রিভুজের ক্ষেত্রফল = 7 2 × A B × B C =\\frac{7}{2} \\times A B \\times B C = 2 7 ​ × A B × BC = 3 2 × 12 2 × 12 2 = 36   c m 2 \\begin{array}{l} =\\frac{3}{2} \\times \\frac{12}{\\sqrt{2}} \\times \\frac{12}{\\sqrt{2}} \\\\ =36 \\mathrm{~cm}^{2} \\end{array} = 2 3 ​ × 2 ​ 12 ​ × 2 ​ 12 ​ = 36   cm 2 ​ Ans"
+    },
+    {
+      "number": "6",
+      "tag": "JB 22",
+      "question": "7 + 13 + 19 +25 + .......একটি ধারা। ধারাটির 20তম পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "26",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "121",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "133",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "139",
+          "is_correct": false
+        }
+      ],
+      "option_a": "26",
+      "option_b": "121",
+      "option_c": "133",
+      "option_d": "139",
+      "correct": "গ",
+      "explanation": "সমান্তর ধারাটির প্রথম পদ, a = 7 এবং সাধারণ অন্তর d = 13 - 7 = 6 .:. ধারাটির 20-তম পদ = a + ( 20 – 1)d = 7 + 19 × 6 = 121"
+    },
+    {
+      "number": "7",
+      "tag": "JB 22",
+      "question": "7 + 13 + 19 +25 + .......একটি ধারা। ধারটির প্রথম 30টি পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3225",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3000",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2820",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "188",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3225",
+      "option_b": "3000",
+      "option_c": "2820",
+      "option_d": "188",
+      "correct": "খ",
+      "explanation": "ধারাটির প্রথম 30 টি পদের সমষ্টি, S 30 = 30 2 { 2 a + ( 30 − 1 ) d } = 15 ( 2 × 7 + 29 × 6 ) = 15 × 188 = 2820 S_{30}=\\frac{30}{2}\\{2 a+(30-1) d\\}=15(2 \\times 7+29 \\times 6)=15 \\times 188=2820 S 30 ​ = 2 30 ​ { 2 a + ( 30 − 1 ) d } = 15 ( 2 × 7 + 29 × 6 ) = 15 × 188 = 2820"
+    },
+    {
+      "number": "9",
+      "tag": "JB 22",
+      "question": "চিত্রে, O বৃত্তের কেন্দ্র এবং OM = ON = 4 সে.মি, বৃত্তটির পরিধি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10.00 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "18.85 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25.13 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "31.42 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10.00 সে.মি.",
+      "option_b": "18.85 সে.মি.",
+      "option_c": "25.13 সে.মি.",
+      "option_d": "31.42 সে.মি.",
+      "correct": "গ",
+      "explanation": "এখানে, A M = O A 2 − O M 2 = 5 2 − 4 2 = 9 = 3   c m ∴ A B = 2 A M = 3 × 2 = 6   c m [   m , A B  এর মধ্যবিন্দু  ] \\begin{array}{l} A M=\\sqrt{O A^{2}-O M^{2}} \\\\ =\\sqrt{5^{2}-4^{2}}=\\sqrt{9}=3 \\mathrm{~cm} \\\\ \\therefore A B=2 A M=3 \\times 2=6 \\mathrm{~cm}[\\mathrm{~m}, A B \\text { এর মধ্যবিন্দু }] \\end{array} A M = O A 2 − O M 2 ​ = 5 2 − 4 2 ​ = 9 ​ = 3   cm ∴ A B = 2 A M = 3 × 2 = 6   cm [   m , A B   এর   মধ্যবিন্দু   ] ​ বৃত্তের পরিধি= 2 π r = 2 × π × 6 = 37.42 c m 2\\pi r = 2 \\times \\pi \\times 6= 37.42 cm 2 π r = 2 × π × 6 = 37.42 c m"
+    },
+    {
+      "number": "10",
+      "tag": "RB 25,DIN.B 24,JB 22",
+      "question": "0.00000538 এর সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 ‾ \\overline{6} 6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 ‾ \\overline{5} 5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6 ‾ \\overline{6} 6",
+      "option_b": "5 ‾ \\overline{5} 5",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "ঘ",
+      "explanation": "এখানে, 0.00000538 = 5.38 × 10 − 6 0.00000538=5.38 \\times 10^{-6} 0.00000538 = 5.38 × 1 0 − 6 ∴ \\therefore ∴ সংখ্যাটির, সাধারন লগের পূর্ণক = − 6 =-6 = − 6 বা 6 ˉ {}\\bar{6} 6 ˉ"
+    },
+    {
+      "number": "11",
+      "tag": "BB 25,JB 22",
+      "question": "একটি বেলনের ভূমির ব্যাস 12 সেমি, ও উচ্চতা ৪ সেমি. বেলনটির বক্রপৃষ্ঠের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "37.70 বর্গ সেমি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "113.09 বর্গ সেমি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "301.59 বর্গ সেমি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "904.78 বর্গ সেমি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "37.70 বর্গ সেমি",
+      "option_b": "113.09 বর্গ সেমি",
+      "option_c": "301.59 বর্গ সেমি",
+      "option_d": "904.78 বর্গ সেমি",
+      "correct": "ক",
+      "explanation": "দেওয়া আছে, বেলনের ভূমির ব্যাস, d = 12   c m d=12 \\mathrm{~cm} d = 12   cm ∴ \\therefore ∴ বেলনের ভূমির ব্যাসার্ধ, r = 12 2   c m r=\\frac{12}{2} \\mathrm{~cm} r = 2 12 ​   cm = 6   c m =6 \\mathrm{~cm} = 6   cm উচ্চতা, h = 8   c m h=8 \\mathrm{~cm} h = 8   cm ∴ \\therefore ∴ বেলনের বক্রপৃষ্ঠের ক্ষেত্রফল = 2 π r h =2 \\pi r h = 2 π r h = 2 × π × 6 × 8 =2 \\times \\pi \\times 6 \\times 8 = 2 × π × 6 × 8 ব. সেমি = 301.59 =301.59 = 301.59 ব. সেমি"
+    },
+    {
+      "number": "12",
+      "tag": "BB 25,JB 22",
+      "question": "একটি বেলনের উচ্চতা ৪ সে.মি. এবং ভূমির ব্যাস 12. সে.মি. । বেলনটির আয়তন কত ঘন সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3619.12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "904.76",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "301.59.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "150.80",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3619.12",
+      "option_b": "904.76",
+      "option_c": "301.59.",
+      "option_d": "150.80",
+      "correct": "গ",
+      "explanation": "বেলনের আয়তন নির্ণয় করতে, আমরা নিম্নলিখিত সূত্র ব্যবহার করব:  আয়তন  = π r 2 h \\text { আয়তন }=\\pi r^{2} h   আয়তন   = π r 2 h যেখানে: r r r হল ভূমির ব্যাসার্ধ h h h হল বেলনের উচ্চতা ব্যাসার্ধ নির্ণয়ঃ প্রদত্ত, ভূমির ব্যাস d = 12 d=12 d = 12 সে.মি.। ব্যাসার্ধ r r r হল ব্যাসের অর্ধেক: r = d 2 = 12 2 = 6  সে.মি.  r=\\frac{d}{2}=\\frac{12}{2}=6 \\text { সে.মি. } r = 2 d ​ = 2 12 ​ = 6   সে . মি .  উচ্চতা নির্ণয়ঃ প্রদত্ত, উচ্চতা h = 8 h=8 h = 8 সে.মি.। আয়তন নির্ণয়  আয়তন  = π r 2 h = π ( 6 ) 2 ( 8 ) = π × 36 × 8 = 288 π  ঘন সে.মি  \\text { আয়তন }=\\pi r^{2} h=\\pi(6)^{2}(8)=\\pi \\times 36 \\times 8=288 \\pi \\text { ঘন সে.মি }   আয়তন   = π r 2 h = π ( 6 ) 2 ( 8 ) = π × 36 × 8 = 288 π   ঘন   সে . মি   দশমিকে উত্তর: π ≈ 3.1416  ধরে,  \\pi \\approx 3.1416 \\text { ধরে, } π ≈ 3.1416   ধরে ,  288 π ≈ 288 × 3.1416 = 904.76  ঘন সে.মি.  288 \\pi \\approx 288 \\times 3.1416=904.76\\text { ঘন সে.মি. } 288 π ≈ 288 × 3.1416 = 904.76   ঘন   সে . মি ."
+    },
+    {
+      "number": "13",
+      "tag": "RB 23,DB 22,JB 22,DIN.B 20,RCC 24,PCC 24,BNMPC 24,DCS 24,CSC 24",
+      "question": "কোনো ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য (cm) নিম্নে দেওয়া হলো। কোন ক্ষেত্রে ত্রিভুজটি আঁকা সম্ভব?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 , 6 , 7 5,6,7 5 , 6 , 7",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 , 4 , 7 3,4,7 3 , 4 , 7",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 , 7 , 14 5,7,14 5 , 7 , 14",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 , 4 , 8 2,4,8 2 , 4 , 8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 , 6 , 7 5,6,7 5 , 6 , 7",
+      "option_b": "3 , 4 , 7 3,4,7 3 , 4 , 7",
+      "option_c": "5 , 7 , 14 5,7,14 5 , 7 , 14",
+      "option_d": "2 , 4 , 8 2,4,8 2 , 4 , 8",
+      "correct": "খ",
+      "explanation": "একটি ত্রিভুজের তিন বাহুর দৈর্ঘ্য দেয়া থাকলে ত্রিভুজ অংকন সম্ভব হবে যদি এবং কেবল যদি যেকোনো দুই বাহুর সমষ্টি তৃতীয় বাহু অপেক্ষা বৃহত্তর হয়। এখানে, 5+6>7 বা, 11>7 কোন ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য 5,6,7 হলে ত্রিভুজ টি অঙ্কন করা সম্ভব হবে।"
+    },
+    {
+      "number": "15",
+      "tag": "CB 25",
+      "question": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সমকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রবৃদ্ধ কোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সূক্ষ্মকোণ",
+      "option_b": "সমকোণ",
+      "option_c": "স্থূলকোণ",
+      "option_d": "প্রবৃদ্ধ কোণ",
+      "correct": "ক",
+      "explanation": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-স্থূলকোণ। স্থূলকোণ হলো সেই কোণ যা 90° এর চেয়ে বড় কিন্তু 180° এর চেয়ে ছোট। অন্যভাবে বলতে গেলে, এটি একটি সমকোণ (90°) এবং একটি সরলকোণ (180°) এর মধ্যেকার কোণ।   উদাহরণস্বরূপ, ৯৫°, ১১০°, বা ১৭৫° এর মত কোণগুলো স্থূলকোণ।"
+    },
+    {
+      "number": "16",
+      "tag": "CB 25,DB 24,CTG.B 24,JB 22,DB 20,SB 20,RCC 24,RGLHS 24",
+      "question": "128 + 64 + 32 + 128+64+32+ 128 + 64 + 32 + … … … … … . ……………. …………… . + 1 2 +\\frac{1}{2} + 2 1 ​ ধারাটিতে কতটি পদ আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "9",
+      "option_c": "8",
+      "option_d": "7",
+      "correct": "খ",
+      "explanation": "128 + 64 + 32 + ⋯ + 1 2 128+64+32+\\cdots+\\frac{1}{2} 128 + 64 + 32 + ⋯ + 2 1 ​ প্রথম পদ, a = 128 a=128 a = 128 সাধারণ অনুপাত, r = 64 128 = 1 2 r=\\frac{64}{128}=\\frac{1}{2} r = 128 64 ​ = 2 1 ​ ∴ n  তম পদ  = a r n − 1 = 128 × ( 1 2 ) n − 1 \\begin{array}{l} \\therefore n \\text { তম পদ }=a r^{n-1} \\\\ =128 \\times\\left(\\frac{1}{2}\\right)^{n-1} \\end{array} ∴ n   তম   পদ   = a r n − 1 = 128 × ( 2 1 ​ ) n − 1 ​ প্রশ্নমতে, 128 × ( 1 2 ) n − 1 = 1 2 128 \\times\\left(\\frac{1}{2}\\right)^{n-1}=\\frac{1}{2} 128 × ( 2 1 ​ ) n − 1 = 2 1 ​ ⇒ ( 1 2 ) n − 1 = 1 2 × 128 ⇒ ( 1 2 ) n − 1 = 1 256 ⇒ ( 1 2 ) n − 1 = ( 1 2 ) 8 ⇒ n − 1 = 8 ⇒ n = 9 \\begin{array}{l} \\Rightarrow\\left(\\frac{1}{2}\\right)^{n-1}=\\frac{1}{2 \\times 128} \\\\ \\Rightarrow\\left(\\frac{1}{2}\\right)^{n-1}=\\frac{1}{256} \\\\ \\Rightarrow\\left(\\frac{1}{2}\\right)^{n-1}=\\left(\\frac{1}{2}\\right)^{8} \\\\ \\Rightarrow n-1=8 \\\\ \\Rightarrow n=9 \\end{array} ⇒ ( 2 1 ​ ) n − 1 = 2 × 128 1 ​ ⇒ ( 2 1 ​ ) n − 1 = 256 1 ​ ⇒ ( 2 1 ​ ) n − 1 = ( 2 1 ​ ) 8 ⇒ n − 1 = 8 ⇒ n = 9 ​"
+    },
+    {
+      "number": "20",
+      "tag": "JB 22",
+      "question": "চিত্রে, O বৃত্তের কেন্দ্র - x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "18°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "26°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30°",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "90°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "18°",
+      "option_b": "26°",
+      "option_c": "30°",
+      "option_d": "90°",
+      "correct": "গ",
+      "explanation": "B C B C BC চাপে দণ্ডায়মান ∠ B O C = 2 ∠ B A C ⇒ x + 70 ∘ = 2 ( 2 x + 10 ∘ ) ⇒ x + 70 ∘ = 4 x + 20 ∘ ⇒ 3 x = 90 ∘ ⇒ x = 30 ∘ \\begin{array}{l} \\angle B O C=2 \\angle B A C \\\\ \\Rightarrow x+70^{\\circ}=2\\left(2 x+10^{\\circ}\\right) \\\\ \\Rightarrow x+70^{\\circ}=4 x+20^{\\circ} \\\\ \\Rightarrow 3 x=90^{\\circ} \\\\ \\Rightarrow x=30^{\\circ} \\end{array} ∠ BOC = 2∠ B A C ⇒ x + 7 0 ∘ = 2 ( 2 x + 1 0 ∘ ) ⇒ x + 7 0 ∘ = 4 x + 2 0 ∘ ⇒ 3 x = 9 0 ∘ ⇒ x = 3 0 ∘ ​"
+    },
+    {
+      "number": "21",
+      "tag": "JB 22",
+      "question": "{ x ∈ N : x 2 ≥ 4 \\left\\{x \\in \\mathbb{N}: x^{2} \\geq 4\\right. { x ∈ N : x 2 ≥ 4 এবং x 3 < 100 } \\left.x^{3}<100\\right\\} x 3 < 100 } সেটটির তালিকা পদ্ধতি নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{2, 3, 4}",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{2, 3, 5}",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "{3, 4, 5}",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(3, 4, 6}",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{2, 3, 4}",
+      "option_b": "{2, 3, 5}",
+      "option_c": "{3, 4, 5}",
+      "option_d": "(3, 4, 6}",
+      "correct": "খ",
+      "explanation": "প্রদত্ত শর্তগুলি হল: ১) x 2 ≥ 4 x^{2} \\geq 4 x 2 ≥ 4 ২) x 3 < 100 x^{3} < 100 x 3 < 100 প্রথম শর্ত অনুসারে, x 2 ≥ 4 x^{2} \\geq 4 x 2 ≥ 4 এর মানে হল x x x এর মান কমপক্ষে 2 হতে হবে, কারণ 2 এর বর্গ 4 হয়। দ্বিতীয় শর্ত অনুসারে, x 3 < 100 x^{3} < 100 x 3 < 100 এর মানে হল x x x এর মান এমন হবে যার ঘন 100 এর কম হবে। এখন, আমরা প্রাকৃতিক সংখ্যা x x x এর সম্ভাব্য মান গুলি পর্যবেক্ষণ করি: যদি x = 2 x = 2 x = 2 , তাহলে x 2 = 4 x^{2} = 4 x 2 = 4 এবং x 3 = 8 x^{3} = 8 x 3 = 8 যদি x = 3 x = 3 x = 3 , তাহলে x 2 = 9 x^{2} = 9 x 2 = 9 এবং x 3 = 27 x^{3} = 27 x 3 = 27 যদি x = 4 x = 4 x = 4 , তাহলে x 2 = 16 x^{2} = 16 x 2 = 16 এবং x 3 = 64 x^{3} = 64 x 3 = 64 যদি x = 5 x = 5 x = 5 , তাহলে x 2 = 25 x^{2} = 25 x 2 = 25 এবং x 3 = 125 x^{3} = 125 x 3 = 125 (যা 100 এর বেশি) তাহলে x x x এর মান হতে পারে 2, 3 এবং 4। কারন এদের ক্ষেত্রে শর্ত দুটি পূরণ হচ্ছে। অতএব, তালিকা পদ্ধতিতে সেটটি {2, 3, 4}."
+    },
+    {
+      "number": "22",
+      "tag": "JB 25,JB 22,MCPSC 24",
+      "question": "2 2 2 \\sqrt{2} 2 2 ​ এর 2 ভিত্তিক লগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 5 \\frac{4}{5} 5 4 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_b": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_c": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_d": "4 5 \\frac{4}{5} 5 4 ​",
+      "correct": "ক",
+      "explanation": "এখানে, 2 2 2 \\sqrt{2} 2 2 ​ এর 2 ভিত্তিক লগ = log ⁡ 2 2 2 = log ⁡ 2 8 = log ⁡ 2 8 1 / 2 = log ⁡ 2 2 3 / 2 = 3 2 log ⁡ 2 2 = 3 2 \\begin{array}{l} =\\log _{2} 2 \\sqrt{2} \\\\ =\\log _{2} \\sqrt{8} \\\\ =\\log _{2} 8^{1 / 2} \\\\ =\\log _{2} 2^{3 / 2} \\\\ =\\frac{3}{2} \\log _{2} 2 \\\\ =\\frac{3}{2} \\end{array} = lo g 2 ​ 2 2 ​ = lo g 2 ​ 8 ​ = lo g 2 ​ 8 1/2 = lo g 2 ​ 2 3/2 = 2 3 ​ lo g 2 ​ 2 = 2 3 ​ ​"
+    },
+    {
+      "number": "23",
+      "tag": "JB 22",
+      "question": "চিত্রে, i. বৃত্তটির ব্যাসার্ধ 4 সে.মি. ii. বৃত্তটির পরিধি 25.13 সে.মি. iii. গাঢ় চিহ্নিত অংশের ক্ষেত্রফল 13.73 বৰ্গ সে.মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "গাঢ় চিহ্নিত অংশের ক্ষেত্রফল = বর্গক্ষেত্রের ক্ষেত্রফল – বৃত্তের ক্ষেত্রফল = 8 2 − π × 4 2 = 64 − ( 3.1416 × 16 ) = 13.73  বর্গ সে.মি.  \\begin{array}{l}=8^{2}-\\pi \\times 4^{2}=64-(3.1416 \\times 16) \\\\ =13.73 \\text { বর্গ সে.মি. }\\end{array} = 8 2 − π × 4 2 = 64 − ( 3.1416 × 16 ) = 13.73   বর্গ   সে . মি .  ​"
+    },
+    {
+      "number": "24",
+      "tag": "DIN.B 24,JB 22,ACPS 24",
+      "question": "যদি f ( x ) = x 3 + a x 2 − 6 x − 9 f(x)=x^{3}+a x^{2}-6 x-9 f ( x ) = x 3 + a x 2 − 6 x − 9 হয়, তবে a এর কোন মানের জন্য f ( − 3 ) = 0 f(-3)=0 f ( − 3 ) = 0 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "2",
+      "option_c": "-2",
+      "option_d": "-4",
+      "correct": "ক",
+      "explanation": "f ( x ) = x 3 + a x 2 − 6 x − 9 ∴ f ( − 3 ) = ( − 3 ) 3 + a ( − 3 ) 2 − 6 ( − 3 ) − 9 = − 27 + 9 a + 18 − 9 = − 18 + 9 a ∴ f ( − 3 ) = 0 ⇒ 9 a − 18 = 0 ⇒ 9 a = 18 ∴ a = 2 \\begin{aligned} f(x) & =x^{3}+a x^{2}-6 x-9 \\\\ \\therefore f(-3) & =(-3)^{3}+a(-3)^{2}-6(-3)-9 \\\\ & =-27+9 a+18-9 \\\\ & =-18+9 a \\\\ \\therefore f(-3) & =0 \\\\ \\Rightarrow 9 a-18 & =0 \\\\ \\Rightarrow 9 a & =18 \\\\ \\therefore a & =2\\end{aligned} f ( x ) ∴ f ( − 3 ) ∴ f ( − 3 ) ⇒ 9 a − 18 ⇒ 9 a ∴ a ​ = x 3 + a x 2 − 6 x − 9 = ( − 3 ) 3 + a ( − 3 ) 2 − 6 ( − 3 ) − 9 = − 27 + 9 a + 18 − 9 = − 18 + 9 a = 0 = 0 = 18 = 2 ​"
+    },
+    {
+      "number": "25",
+      "tag": "DB 23,JB 22",
+      "question": "শ্রেণিব্যাপ্তি 21-23 24-26 27-29 30-32 গণসংখ্যা 3 5 7 5 প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25.5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "27.5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "28.0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "28.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "25.5",
+      "option_b": "27.5",
+      "option_c": "28.0",
+      "option_d": "28.5",
+      "correct": "ক",
+      "explanation": "এখানে, প্রচুরক শ্রেণী = (27-29) L = 27 , f 1 = ( 7 − 5 ) = 2 , f 2 = ( 7 − 5 ) = 2 , h = 3 ∴  প্রচুরক  = L + f 1 f 1 + f 2 × h = 27 + 2 × 3 2 + 2 = 27 + 6 4 = 28.5 \\begin{array}{l} L=27, f_{1}=(7-5)=2, f_{2}=(7-5)=2, h=3 \\\\ \\therefore \\text { প্রচুরক }=L+\\frac{f_{1}}{f_{1}+f_{2}} \\times h \\\\ =27+\\frac{2 \\times 3}{2+2} \\\\ =27+\\frac{6}{4} \\\\ =28.5 \\end{array} L = 27 , f 1 ​ = ( 7 − 5 ) = 2 , f 2 ​ = ( 7 − 5 ) = 2 , h = 3 ∴   প্রচুরক   = L + f 1 ​ + f 2 ​ f 1 ​ ​ × h = 27 + 2 + 2 2 × 3 ​ = 27 + 4 6 ​ = 28.5 ​"
+    },
+    {
+      "number": "26",
+      "tag": "RB 25",
+      "question": "কোনো ত্রিভুজের কয়টি বর্হিবৃত্ত অঙ্কন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "ঘ",
+      "explanation": "কোনো ত্রিভুজের তিনটি বহিবৃত্ত আঁকা যায়।"
+    },
+    {
+      "number": "27",
+      "tag": "BB 25,JB 22",
+      "question": "-3+3-3+3-3+…… i... একটি গুণোত্তর ধারা ii. সাধারণ অনুপাত – 1 iii. প্রথম নয়টি পদের সমষ্টি 3 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "（i）ধারাটির একটি গুণোত্তর ধারা। কারণ পরপর দুইটি পদের অনুপাত সমান। （ii ) সাধারণ অনুপাত， n = 3 − 3 = − 1 n=\\frac{3}{-3}=-1 n = − 3 3 ​ = − 1 （iii） ১ম ৯টি পদের সমষ্টি ,   S 9 = − 3 { 1 − ( − 1 ) 2 } 1 − ( − 1 ) = − 3 ( 1 + 1 ) ( 1 + 1 ) = − 3 \\begin{aligned} \\text { } S_{9} & =\\frac{-3\\left\\{1-(-1)^{2}\\right\\}}{1-(-1)} \\\\ & =\\frac{-3(1+1)}{(1+1)} \\\\ & =-3 \\end{aligned}   S 9 ​ ​ = 1 − ( − 1 ) − 3 { 1 − ( − 1 ) 2 } ​ = ( 1 + 1 ) − 3 ( 1 + 1 ) ​ = − 3 ​"
+    },
+    {
+      "number": "29",
+      "tag": "JB 22",
+      "question": "a = 6.5 , b = 3.5 a=6.5, b=3.5 a = 6.5 , b = 3.5 হলে a 2 − 2 a b + b 2 a^{2}-2 a b+b^{2} a 2 − 2 ab + b 2 এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "100",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3",
+      "option_b": "9",
+      "option_c": "10",
+      "option_d": "100",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত, a = 6.5 a = 6.5 a = 6.5 এবং b = 3.5 b = 3.5 b = 3.5 । প্রকাশনা a 2 − 2 a b + b 2 a^{2} - 2ab + b^{2} a 2 − 2 ab + b 2 কে সরলীকৃত করলে পাই: a 2 − 2 a b + b 2 = ( a − b ) 2 a^{2} - 2ab + b^{2} = (a - b)^{2} a 2 − 2 ab + b 2 = ( a − b ) 2 । অতএব, ( a − b ) 2 = ( 6.5 − 3.5 ) 2 = 3 2 = 9 (a - b)^{2} = (6.5 - 3.5)^{2} = 3^{2} = 9 ( a − b ) 2 = ( 6.5 − 3.5 ) 2 = 3 2 = 9 । সুতরাং, a 2 − 2 a b + b 2 a^{2} - 2ab + b^{2} a 2 − 2 ab + b 2 এর মান হল 9।"
+    },
+    {
+      "number": "",
+      "tag": "JB 22",
+      "question": "শ্রেণিব্যাপ্তি 21-23 24-26 27-29 30-32 গণসংখ্যা 3 5 7 5 মধ্যক শ্রেণির মধ্যমান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27.1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "27.9",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "28",
+          "is_correct": false
+        }
+      ],
+      "option_a": "25",
+      "option_b": "27.1",
+      "option_c": "27.9",
+      "option_d": "28",
+      "correct": "গ",
+      "explanation": ""
+    }
+  ]
+}

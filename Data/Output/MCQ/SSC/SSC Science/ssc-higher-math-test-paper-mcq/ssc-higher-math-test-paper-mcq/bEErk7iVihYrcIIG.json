@@ -1,0 +1,832 @@
+{
+  "read_id": "bEErk7iVihYrcIIG",
+  "title": "ক্যান্ট. পাবলিক স্কুল এন্ড কলেজ, ময়মনসিংহ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CPSCM 24,All.B 18",
+      "question": "A = {1, 2, 3, 4, 5} হলে, P(A) এর উপাদান কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "31",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "32",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5",
+      "option_b": "16",
+      "option_c": "31",
+      "option_d": "32",
+      "correct": "ঘ",
+      "explanation": "সেট A = { 1 , 2 , 3 , 4 , 5 } A=\\{1,2,3,4,5\\} A = { 1 , 2 , 3 , 4 , 5 } এর পাওয়ার সেট P ( A ) P(A) P ( A ) হলো A A A এর সকল উপসেট (subset) এর সেট। একটি সেটের উপাদান সংখ্যা n n n হলে, তার পাওয়ার সেটের উপাদান সংখ্যা হয় 2 n 2^{n} 2 n টি। এখানে, A A A সেটের উপাদান সংখ্যা n = 5 n=5 n = 5 , তাই: ∣ P ( A ) ∣ = 2 5 = 32 |P(A)|=2^{5}=32 ∣ P ( A ) ∣ = 2 5 = 32"
+    },
+    {
+      "number": "2",
+      "tag": "CTG.B 24,JCC 24,VNSC 24,CPSCM 24",
+      "question": "সার্বিক সেট U এর উপসেট A, B এবং C হলে- i. ( A ∪ B ) ′ = A ′ ∩ B ′ (A \\cup B)^{\\prime}=A^{\\prime} \\cap B^{\\prime} ( A ∪ B ) ′ = A ′ ∩ B ′ ii: ( A ∩ B ) ′ = A ′ ∩ B ′ (\\mathrm{A} \\cap \\mathrm{B})^{\\prime}=\\mathrm{A}^{\\prime} \\cap \\mathrm{B}^{\\prime} ( A ∩ B ) ′ = A ′ ∩ B ′ iii. A ∪ ( B ∩ C ) = ( A ∪ B ) ∩ ( A ∪ C ) A \\cup(B \\cap C)=(A \\cup B) \\cap(A \\cup C) A ∪ ( B ∩ C ) = ( A ∪ B ) ∩ ( A ∪ C ) নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. ( A ∪ B ) ′ = A ′ ∩ B ′ (A \\cup B)^{\\prime}=A^{\\prime} \\cap B^{\\prime} ( A ∪ B ) ′ = A ′ ∩ B ′ এটি ডি মরগানের প্রথম সূত্র। এটি সঠিক, কারণ: - ( A ∪ B ) ′ (A \\cup B)^{\\prime} ( A ∪ B ) ′ অর্থ হলো A A A অথবা B B B -এর কোনোটিই নয়, যা A ′ A^{\\prime} A ′ এবং B ′ B^{\\prime} B ′ উভয়েরই অংশ হতে হবে। সুতরাং, ( A ∪ B ) ′ = A ′ ∩ B ′ (A \\cup B)^{\\prime}=A^{\\prime} \\cap B^{\\prime} ( A ∪ B ) ′ = A ′ ∩ B ′ . ii. ( A ∩ B ) ′ = A ′ ∩ B ′ (A \\cap B)^{\\prime}=A^{\\prime} \\cap B^{\\prime} ( A ∩ B ) ′ = A ′ ∩ B ′ এটি ভুল, কারণ সঠিক ডি মরগানের দ্বিতীয় সৃত্র হলো: - ( A ∩ B ) ′ = A ′ ∪ B ′ (A \\cap B)^{\\prime}=A^{\\prime} \\cup B^{\\prime} ( A ∩ B ) ′ = A ′ ∪ B ′ . অর্থাৎ, A A A এবং B B B -এর ছেদের পৃরক সেট হলো A A A -এর পৃরক এবং B B B -এর পৃরকের সংযুক্ত সেট। iii. A ∪ ( B ∩ C ) = ( A ∪ B ) ∩ ( A ∪ C ) A \\cup(B \\cap C)=(A \\cup B) \\cap(A \\cup C) A ∪ ( B ∩ C ) = ( A ∪ B ) ∩ ( A ∪ C ) এটি সেটের বিচ্ছেদ নিয়ম (Distributive Law) এবং এটি সঠিক। এটি নিম্নরপেে প্রমাণ করা যায়: - A ∪ ( B ∩ C ) A \\cup(B \\cap C) A ∪ ( B ∩ C ) হলো সেই সকল উপাদান যা A A A -তে আছে অথবা B B B এবং C C C -এর উভয়েই আছে। - ( A ∪ B ) ∩ ( A ∪ C ) (A \\cup B) \\cap(A \\cup C) ( A ∪ B ) ∩ ( A ∪ C ) হলো সেই সকল উপাদান যা A ∪ B A \\cup B A ∪ B -তে আছে এবং A ∪ C A \\cup C A ∪ C -তেও আছে, অর্থাৎ A A A -তে আছে অথবা B B B এবং C C C -এর উভয়েই আছে। সঠিক উত্তর: i ও iii"
+    },
+    {
+      "number": "3",
+      "tag": "CPSCM 24",
+      "question": "F ( x ) = 5 − x F(x)=\\sqrt{5-x} F ( x ) = 5 − x ​ ফাংশনটির- i. ডোমেন = { x ∈ R : x ≤ 5 } =\\{x \\in R: x \\leq 5\\} = { x ∈ R : x ≤ 5 } ii. রেঞ্জ = { x ∈ R : x ≥ 0 } =\\{x \\in \\mathbb{R}: x \\geq 0\\} = { x ∈ R : x ≥ 0 } iii. বিপরীত ফাংশন f − 1 ( x ) = x − 5 f^{-1}(x)=\\sqrt{x-5} f − 1 ( x ) = x − 5 ​ নিচের কোনটি সািক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "i. ডোমেন নির্ণয়: ফাংশনটির ভিতরে একটি বর্গমূল আছে, 5 − x ≥ 0 ⟹ x ≤ 5 5-x \\geq 0 \\Longrightarrow x \\leq 5 5 − x ≥ 0 ⟹ x ≤ 5 সুতরাং, ডোমেন সঠিক:  ডোমেন  = { x ∈ R ∣ x ≤ 5 } \\text { ডোমেন }=\\{x \\in \\mathbb{R} \\mid x \\leq 5\\}   ডোমেন   = { x ∈ R ∣ x ≤ 5 } ii. রেঞ্জ নির্ণয়: যেহেতু 5 − x \\sqrt{5-x} 5 − x ​ কখনই ঋণাত্মক হতে পারে না এবং x ≤ 5 x \\leq 5 x ≤ 5 এর জন্য এর সর্বনিম্ন মান 0 (যখন x = 5 x=5 x = 5 ) এবং সর্বোচ্চ মান + ∞ +\\infty + ∞ (যখন x → − ∞ x \\rightarrow-\\infty x → − ∞ ), তাই:  রেঞ্জ  = { y ∈ R ∣ y ≥ 0 } \\text { রেঞ্জ }=\\{y \\in \\mathbb{R} \\mid y \\geq 0\\}   রেঞ্জ   = { y ∈ R ∣ y ≥ 0 } সুতরাং, রেঞ্জও সঠিক। iii. বিপরীত ফাংশন নির্ণয়: বিপরীত ফাংশন বের করার জন্য y = 5 − x y=\\sqrt{5-x} y = 5 − x ​ লিখে x x x কে y y y এর মাধ্যমে প্রকাশ করি: y = 5 − x ⟹ y 2 = 5 − x ⟹ x 2 = 5 − y 2 \\begin{array}{c} y=\\sqrt{5-x} \\\\ \\Longrightarrow y^{2}=5-x \\\\ \\Longrightarrow x^{2}=5-y^{2} \\end{array} y = 5 − x ​ ⟹ y 2 = 5 − x ⟹ x 2 = 5 − y 2 ​ অতএব, বিপরীত ফাংশন হবে: F − 1 ( x ) = 5 − x 2 F^{-1}(x)=5-x^{2} F − 1 ( x ) = 5 − x 2 i এবং ii সঠিক, কিন্তু iii ভুল। সঠিক উত্তর:  i ও ii  \\text { i } ও \\text { ii }  i  ও  ii"
+    },
+    {
+      "number": "4",
+      "tag": "CPSCM 24,JB 19",
+      "question": "বহুপদী x 3 + 2 x 2 − a x − 6 x^{3}+2 x^{2}-a x-6 x 3 + 2 x 2 − a x − 6 এর একটি উৎপাদক ( x + 3 ) (x+3) ( x + 3 ) . বহুপদীটির অপর উৎপাদকগুলো কী কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( x + 1 ) (x+1) ( x + 1 ) ও ( x − 2 ) (x-2) ( x − 2 )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "( x + 1 ) (x+1) ( x + 1 ) ও ( x + 2 ) (x+2) ( x + 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( x − 1 )  ও  ( x − 2 ) (x-1) ~ও~(x-2) ( x − 1 )   ও   ( x − 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( x + 1 ) (x+1) ( x + 1 ) ও ( x − 2 ) (x-2) ( x − 2 )",
+      "option_b": "( x + 1 ) (x+1) ( x + 1 ) ও ( x + 2 ) (x+2) ( x + 2 )",
+      "option_c": "( x − 1 )  ও  ( x − 2 ) (x-1) ~ও~(x-2) ( x − 1 )   ও   ( x − 2 )",
+      "option_d": "কোনটিই নয়",
+      "correct": "ক",
+      "explanation": "বহুপদী x 3 + 2 x 2 − a x − 6 x^{3} + 2x^{2} - ax - 6 x 3 + 2 x 2 − a x − 6 এর একটি উৎপাদক ( x + 3 ) (x+3) ( x + 3 ) দেওয়া হয়েছে। অর্থাৎ, ( x + 3 ) (x+3) ( x + 3 ) দ্বারা বহুপদীটি ভাগ করলে ভাগশেষ হবে 0। x = − 3 x = -3 x = − 3 স্থাপন করলে, বহুপদীটির মান হবে 0। অতএব, f ( − 3 ) = ( − 3 ) 3 + 2 ( − 3 ) 2 − a ( − 3 ) − 6 = 0 f(-3) = (-3)^3 + 2(-3)^2 - a(-3) - 6 = 0 f ( − 3 ) = ( − 3 ) 3 + 2 ( − 3 ) 2 − a ( − 3 ) − 6 = 0 ⇒ − 27 + 18 + 3 a − 6 = 0 \\Rightarrow -27 + 18 + 3a - 6 = 0 ⇒ − 27 + 18 + 3 a − 6 = 0 ⇒ 3 a = 15 \\Rightarrow 3a = 15 ⇒ 3 a = 15 ⇒ a = 5 \\Rightarrow a = 5 ⇒ a = 5 অতএব, বহুপদী হয় x 3 + 2 x 2 − 5 x − 6 x^{3} + 2x^{2} - 5x - 6 x 3 + 2 x 2 − 5 x − 6 এটি ( x + 3 ) (x+3) ( x + 3 ) দ্বারা উৎপন্ন হয় এবং এটি পূর্ণ ভাগ করতে, আমরা ধরে নিই কিছু অবশিষ্ট বহুপদী আছে যা ( x + 3 ) (x+3) ( x + 3 ) এবং একটি বাকি দ্বিঘাত বহুপদীর গুণফল হিসাবে প্রকাশ করা যায়। ধরি, x 3 + 2 x 2 − 5 x − 6 = ( x + 3 ) ( x 2 + m x + n ) x^{3} + 2x^{2} - 5x - 6 = (x+3)(x^{2} + mx + n) x 3 + 2 x 2 − 5 x − 6 = ( x + 3 ) ( x 2 + m x + n ) যেখানে, আমরা খুঁজে বের করবো m m m এবং n n n এর মান। ( x + 3 ) ( x 2 + m x + n ) = x 3 + m x 2 + n x + 3 x 2 + 3 m x + 3 n (x+3)(x^{2} + mx + n) = x^{3} + mx^{2} + nx + 3x^{2} + 3mx + 3n ( x + 3 ) ( x 2 + m x + n ) = x 3 + m x 2 + n x + 3 x 2 + 3 m x + 3 n = x 3 + ( m + 3 ) x 2 + ( n + 3 m ) x + 3 n x^{3} + (m+3)x^{2} + (n+3m)x + 3n x 3 + ( m + 3 ) x 2 + ( n + 3 m ) x + 3 n তাহলে তুলনা করলে, আমরা পাই   m + 3 = 2 m+3 = 2 m + 3 = 2 n + 3 m = − 5 n+3m = -5 n + 3 m = − 5 3 n = − 6 3n = -6 3 n = − 6   প্রথম সমীকরণ থেকে, m = − 1 m = -1 m = − 1 এবং তৃতীয় সমীকরণ থেকে, n = − 2 n = -2 n = − 2 অতএব, দ্বিঘাত বহুপদী x 2 − x − 2 x^{2} - x - 2 x 2 − x − 2 হয়, যেটির উৎপাদকরা হলেন ( x − 2 ) (x-2) ( x − 2 ) ও ( x + 1 ) (x+1) ( x + 1 ) । অতএব, বহুপদীটির অপর উৎপাদকগুলো হল ( x − 2 ) (x-2) ( x − 2 ) ও ( x + 1 ) (x+1) ( x + 1 ) । সুতরাং, সঠিক উত্তর হল: (x+1) ও (x-2)।"
+    },
+    {
+      "number": "5",
+      "tag": "CPSCM 24,JB 19",
+      "question": "বহুপদী x 3 + 2 x 2 − a x − 6 x^{3}+2 x^{2}-a x-6 x 3 + 2 x 2 − a x − 6 এর একটি উৎপাদক ( x + 3 ) (x+3) ( x + 3 ) . বহুপদীটির অপর উৎপাদকগুলো কী কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( x + 1 ) (x+1) ( x + 1 ) ও ( x − 2 ) (x-2) ( x − 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( x + 1 ) (x+1) ( x + 1 ) ও ( x + 2 ) (x+2) ( x + 2 )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( x − 1 )  ও  ( x − 2 ) (x-1) ~ও~(x-2) ( x − 1 )   ও   ( x − 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( x + 1 ) (x+1) ( x + 1 ) ও ( x − 2 ) (x-2) ( x − 2 )",
+      "option_b": "( x + 1 ) (x+1) ( x + 1 ) ও ( x + 2 ) (x+2) ( x + 2 )",
+      "option_c": "( x − 1 )  ও  ( x − 2 ) (x-1) ~ও~(x-2) ( x − 1 )   ও   ( x − 2 )",
+      "option_d": "কোনটিই নয়",
+      "correct": "খ",
+      "explanation": "বহুপদী x 3 + 2 x 2 − a x − 6 x^{3} + 2x^{2} - ax - 6 x 3 + 2 x 2 − a x − 6 এর একটি উৎপাদক ( x + 3 ) (x+3) ( x + 3 ) দেওয়া হয়েছে। অর্থাৎ, ( x + 3 ) (x+3) ( x + 3 ) দ্বারা বহুপদীটি ভাগ করলে ভাগশেষ হবে 0। x = − 3 x = -3 x = − 3 স্থাপন করলে, বহুপদীটির মান হবে 0। অতএব, f ( − 3 ) = ( − 3 ) 3 + 2 ( − 3 ) 2 − a ( − 3 ) − 6 = 0 f(-3) = (-3)^3 + 2(-3)^2 - a(-3) - 6 = 0 f ( − 3 ) = ( − 3 ) 3 + 2 ( − 3 ) 2 − a ( − 3 ) − 6 = 0 ⇒ − 27 + 18 + 3 a − 6 = 0 \\Rightarrow -27 + 18 + 3a - 6 = 0 ⇒ − 27 + 18 + 3 a − 6 = 0 ⇒ 3 a = 15 \\Rightarrow 3a = 15 ⇒ 3 a = 15 ⇒ a = 5 \\Rightarrow a = 5 ⇒ a = 5 অতএব, বহুপদী হয় x 3 + 2 x 2 − 5 x − 6 x^{3} + 2x^{2} - 5x - 6 x 3 + 2 x 2 − 5 x − 6 এটি ( x + 3 ) (x+3) ( x + 3 ) দ্বারা উৎপন্ন হয় এবং এটি পূর্ণ ভাগ করতে, আমরা ধরে নিই কিছু অবশিষ্ট বহুপদী আছে যা ( x + 3 ) (x+3) ( x + 3 ) এবং একটি বাকি দ্বিঘাত বহুপদীর গুণফল হিসাবে প্রকাশ করা যায়। ধরি, x 3 + 2 x 2 − 5 x − 6 = ( x + 3 ) ( x 2 + m x + n ) x^{3} + 2x^{2} - 5x - 6 = (x+3)(x^{2} + mx + n) x 3 + 2 x 2 − 5 x − 6 = ( x + 3 ) ( x 2 + m x + n ) যেখানে, আমরা খুঁজে বের করবো m m m এবং n n n এর মান। ( x + 3 ) ( x 2 + m x + n ) = x 3 + m x 2 + n x + 3 x 2 + 3 m x + 3 n (x+3)(x^{2} + mx + n) = x^{3} + mx^{2} + nx + 3x^{2} + 3mx + 3n ( x + 3 ) ( x 2 + m x + n ) = x 3 + m x 2 + n x + 3 x 2 + 3 m x + 3 n = x 3 + ( m + 3 ) x 2 + ( n + 3 m ) x + 3 n x^{3} + (m+3)x^{2} + (n+3m)x + 3n x 3 + ( m + 3 ) x 2 + ( n + 3 m ) x + 3 n তাহলে তুলনা করলে, আমরা পাই   m + 3 = 2 m+3 = 2 m + 3 = 2 n + 3 m = − 5 n+3m = -5 n + 3 m = − 5 3 n = − 6 3n = -6 3 n = − 6   প্রথম সমীকরণ থেকে, m = − 1 m = -1 m = − 1 এবং তৃতীয় সমীকরণ থেকে, n = − 2 n = -2 n = − 2 অতএব, দ্বিঘাত বহুপদী x 2 − x − 2 x^{2} - x - 2 x 2 − x − 2 হয়, যেটির উৎপাদকরা হলেন ( x − 2 ) (x-2) ( x − 2 ) ও ( x + 1 ) (x+1) ( x + 1 ) । অতএব, বহুপদীটির অপর উৎপাদকগুলো হল ( x − 2 ) (x-2) ( x − 2 ) ও ( x + 1 ) (x+1) ( x + 1 ) । সুতরাং, সঠিক উত্তর হল: (x+1) ও (x-2)।"
+    },
+    {
+      "number": "6",
+      "tag": "CPSCM 24,JB 19",
+      "question": "বহুপদী x 3 + 2 x 2 − a x − 6 x^{3}+2 x^{2}-a x-6 x 3 + 2 x 2 − a x − 6 এর একটি উৎপাদক ( x + 3 ) (x+3) ( x + 3 ) . বহুপদীটির অপর উৎপাদকগুলো কী কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( x + 1 ) (x+1) ( x + 1 ) ও ( x − 2 ) (x-2) ( x − 2 )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "( x + 1 ) (x+1) ( x + 1 ) ও ( x + 2 ) (x+2) ( x + 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( x − 1 )  ও  ( x − 2 ) (x-1) ~ও~(x-2) ( x − 1 )   ও   ( x − 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( x + 1 ) (x+1) ( x + 1 ) ও ( x − 2 ) (x-2) ( x − 2 )",
+      "option_b": "( x + 1 ) (x+1) ( x + 1 ) ও ( x + 2 ) (x+2) ( x + 2 )",
+      "option_c": "( x − 1 )  ও  ( x − 2 ) (x-1) ~ও~(x-2) ( x − 1 )   ও   ( x − 2 )",
+      "option_d": "কোনটিই নয়",
+      "correct": "ক",
+      "explanation": "বহুপদী x 3 + 2 x 2 − a x − 6 x^{3} + 2x^{2} - ax - 6 x 3 + 2 x 2 − a x − 6 এর একটি উৎপাদক ( x + 3 ) (x+3) ( x + 3 ) দেওয়া হয়েছে। অর্থাৎ, ( x + 3 ) (x+3) ( x + 3 ) দ্বারা বহুপদীটি ভাগ করলে ভাগশেষ হবে 0। x = − 3 x = -3 x = − 3 স্থাপন করলে, বহুপদীটির মান হবে 0। অতএব, f ( − 3 ) = ( − 3 ) 3 + 2 ( − 3 ) 2 − a ( − 3 ) − 6 = 0 f(-3) = (-3)^3 + 2(-3)^2 - a(-3) - 6 = 0 f ( − 3 ) = ( − 3 ) 3 + 2 ( − 3 ) 2 − a ( − 3 ) − 6 = 0 ⇒ − 27 + 18 + 3 a − 6 = 0 \\Rightarrow -27 + 18 + 3a - 6 = 0 ⇒ − 27 + 18 + 3 a − 6 = 0 ⇒ 3 a = 15 \\Rightarrow 3a = 15 ⇒ 3 a = 15 ⇒ a = 5 \\Rightarrow a = 5 ⇒ a = 5 অতএব, বহুপদী হয় x 3 + 2 x 2 − 5 x − 6 x^{3} + 2x^{2} - 5x - 6 x 3 + 2 x 2 − 5 x − 6 এটি ( x + 3 ) (x+3) ( x + 3 ) দ্বারা উৎপন্ন হয় এবং এটি পূর্ণ ভাগ করতে, আমরা ধরে নিই কিছু অবশিষ্ট বহুপদী আছে যা ( x + 3 ) (x+3) ( x + 3 ) এবং একটি বাকি দ্বিঘাত বহুপদীর গুণফল হিসাবে প্রকাশ করা যায়। ধরি, x 3 + 2 x 2 − 5 x − 6 = ( x + 3 ) ( x 2 + m x + n ) x^{3} + 2x^{2} - 5x - 6 = (x+3)(x^{2} + mx + n) x 3 + 2 x 2 − 5 x − 6 = ( x + 3 ) ( x 2 + m x + n ) যেখানে, আমরা খুঁজে বের করবো m m m এবং n n n এর মান। ( x + 3 ) ( x 2 + m x + n ) = x 3 + m x 2 + n x + 3 x 2 + 3 m x + 3 n (x+3)(x^{2} + mx + n) = x^{3} + mx^{2} + nx + 3x^{2} + 3mx + 3n ( x + 3 ) ( x 2 + m x + n ) = x 3 + m x 2 + n x + 3 x 2 + 3 m x + 3 n = x 3 + ( m + 3 ) x 2 + ( n + 3 m ) x + 3 n x^{3} + (m+3)x^{2} + (n+3m)x + 3n x 3 + ( m + 3 ) x 2 + ( n + 3 m ) x + 3 n তাহলে তুলনা করলে, আমরা পাই   m + 3 = 2 m+3 = 2 m + 3 = 2 n + 3 m = − 5 n+3m = -5 n + 3 m = − 5 3 n = − 6 3n = -6 3 n = − 6   প্রথম সমীকরণ থেকে, m = − 1 m = -1 m = − 1 এবং তৃতীয় সমীকরণ থেকে, n = − 2 n = -2 n = − 2 অতএব, দ্বিঘাত বহুপদী x 2 − x − 2 x^{2} - x - 2 x 2 − x − 2 হয়, যেটির উৎপাদকরা হলেন ( x − 2 ) (x-2) ( x − 2 ) ও ( x + 1 ) (x+1) ( x + 1 ) । অতএব, বহুপদীটির অপর উৎপাদকগুলো হল ( x − 2 ) (x-2) ( x − 2 ) ও ( x + 1 ) (x+1) ( x + 1 ) । সুতরাং, সঠিক উত্তর হল: (x+1) ও (x-2)।"
+    },
+    {
+      "number": "7",
+      "tag": "CPSCM 24",
+      "question": "সমদ্বিবাহু ত্রিভুজের একটি কোণ 100° হলে অপর কোণদ্বয়ের অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1:2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1:1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3:4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5:1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1:2",
+      "option_b": "1:1",
+      "option_c": "3:4",
+      "option_d": "5:1",
+      "correct": "ক",
+      "explanation": "100° কোণের বিপরীত বাহুটি বৃহত্তর হবে এবং আর কোনো কোনের মান 100 সম্ভব নয়। তাই অপর বাহু দুইটি সমান হবে ফলে কোন দুইটিও সমান হবে। ∴ কোনদ্বয়ের অনুপাত 1:1 হবে।"
+    },
+    {
+      "number": "8",
+      "tag": "CB 20,CTG.B 20,SB 20,BB 20,DB 19,RB 19,CB 19,JB 19,BB 19,All.B 18,ACC 24",
+      "question": "যদি Δ \\Delta Δ PQR-এ PQ ও PR এর মধ্যবিন্দু যথাক্রমে M ও N হয়, তবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Q R → = 2 ( P N → − P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}-\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN − PM )",
+      "option_b": "Q R → = 2 ( P M → − P N → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PM}}-\\overrightarrow{\\mathrm{PN}}) QR ​ = 2 ( PM − PN )",
+      "option_c": "Q R → = 2 ( P N → + P M → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PN}}+\\overrightarrow{\\mathrm{PM}}) QR ​ = 2 ( PN + PM )",
+      "option_d": "Q R → = 2 ( P Q → + P R → ) \\overrightarrow{\\mathrm{QR}}=2(\\overrightarrow{\\mathrm{PQ}}+\\overrightarrow{\\mathrm{PR}}) QR ​ = 2 ( PQ ​ + PR )",
+      "correct": "গ",
+      "explanation": "△ P Q R \\triangle P Q R △ PQR হতে পাই P Q → + Q R → = P R → ⇒ Q R → = P R → − P Q → \\begin{aligned} & \\overrightarrow{P Q}+\\overrightarrow{Q R}=\\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{Q R}=\\overrightarrow{P R}-\\overrightarrow{P Q} \\end{aligned} ⇒ ​ PQ ​ + QR ​ = PR QR ​ = PR − PQ ​ ​ △ P M N \\triangle P M N △ PMN হতে পাই M N → = P N → − P M → \\overrightarrow{M N}=\\overrightarrow{P N}-\\overrightarrow{P M} MN = PN − PM P M → + M N → = P N → ↑ ⇒ 1 2 P Q → + M N → = 1 2 P R → ⇒ M N → = 1 2 P R → − 1 2 P Q → ⇒ M N → = 1 2 Q R → ⇒ P N → − P M → = 1 2 Q R → ∴ Q R → = 2 ( P N → − P M → ) \\begin{aligned} & \\overrightarrow{P M}+\\overrightarrow{M N}=\\overrightarrow{P N} \\uparrow \\\\ \\Rightarrow & \\frac{1}{2} \\overrightarrow{P Q}+\\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{P R}-\\frac{1}{2} \\overrightarrow{P Q} \\\\ \\Rightarrow & \\overrightarrow{M N}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\Rightarrow & \\overrightarrow{P N}-\\overrightarrow{P M}=\\frac{1}{2} \\overrightarrow{Q R} \\\\ \\therefore & \\overrightarrow{Q R}=2(\\overrightarrow{P N}-\\overrightarrow{P M}) \\end{aligned} ⇒ ⇒ ⇒ ⇒ ∴ ​ PM + MN = PN ↑ 2 1 ​ PQ ​ + MN = 2 1 ​ PR MN = 2 1 ​ PR − 2 1 ​ PQ ​ MN = 2 1 ​ QR ​ PN − PM = 2 1 ​ QR ​ QR ​ = 2 ( PN − PM ) ​"
+    },
+    {
+      "number": "9",
+      "tag": "RB 25,CPSCM 24",
+      "question": "16 x = 4 x + 1 16^{x}=4^{x+1} 1 6 x = 4 x + 1 সমীকরণটির সমাধান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "প্রদত্ত সমীকরণটি হল, 16 x = 4 x + 1 16^{x} = 4^{x+1} 1 6 x = 4 x + 1 আমরা জানি, 16 = 4 2 16 = 4^2 16 = 4 2 তাই, 16 x = ( 4 2 ) x = 4 2 x 16^x = (4^2)^x = 4^{2x} 1 6 x = ( 4 2 ) x = 4 2 x এখন সমীকরণটি হবে: 4 2 x = 4 x + 1 4^{2x} = 4^{x+1} 4 2 x = 4 x + 1 যেহেতু উভয় পাশে একই ভিত্তি 4 4 4 রয়েছে, তাই সূচকগুলো সমান হবে। 2 x = x + 1 2x = x + 1 2 x = x + 1 এখন x x x -এর জন্য সমাধান করলে পাই, 2 x − x = 1 2x - x = 1 2 x − x = 1 x = 1 x = 1 x = 1 অতএব, সমীকরণটির সমাধান x = 1 x = 1 x = 1"
+    },
+    {
+      "number": "10",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "ক",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "11",
+      "tag": "CTG.B 25,RB 24,CPSCM 24,BMARPC 24,CSCD 24,MC 24,RCPC 24,JB 22,DB 21,JB 21,MB 20,DIN.B 20,ACC 24",
+      "question": "সকাল 9:25 মিনিটের সময় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "120°",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "127.5°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "132.5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "197°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "120°",
+      "option_b": "127.5°",
+      "option_c": "132.5",
+      "option_d": "197°",
+      "correct": "ক",
+      "explanation": "মিনিটের কাঁটা প্রতি মিনিটে 6° অগ্রসর হয়। 9.25 সময়ে মিনিটের কাঁটার উৎপন্ন কোণ 25 × 6 = 150 ∘ 25 \\times 6=150^{\\circ} 25 × 6 = 15 0 ∘ . 9টার সময় ঘন্টার কাঁটা ছিল 9 × 30 = 270 ∘ 9 \\times 30=270^{\\circ} 9 × 30 = 27 0 ∘ এ 25 মিনিটে ঘন্টার কাঁটা অতিক্রম করে = 25 60 × 30 = 12.5 ∘ =\\frac{25}{60} \\times 30=12.5^{\\circ} = 60 25 ​ × 30 = 12. 5 ∘ ∴ \\therefore ∴ ঘন্টার কাঁটার মোট কোণ = 270 ∘ + 12.5 ∘ =270^{\\circ}+12.5^{\\circ} = 27 0 ∘ + 12. 5 ∘ = 282.5 ∘ =282.5^{\\circ} = 282. 5 ∘ ∴ \\therefore ∴ মিনিটের কাঁটা ও ঘন্টার দুটি মধ্যবতী কোণ = ( 282.5 ∘ − 150 ∘ ) = 132.5 ∘ \\begin{array}{l} =\\left(282.5^{\\circ}-150^{\\circ}\\right) \\\\ =132.5^{\\circ} \\end{array} = ( 282. 5 ∘ − 15 0 ∘ ) = 132. 5 ∘ ​"
+    },
+    {
+      "number": "12",
+      "tag": "BNMPC 24,NISD 24,CPSCM 24,RB 23,RB 19",
+      "question": "sin ⁡ ( 25 π 2 − θ ) \\sin \\left(\\frac{25 \\pi}{2}-\\theta\\right) sin ( 2 25 π ​ − θ ) কোন চতুর্ভাগে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১ম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "২য় ২ য ় ২য়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৩য়",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটি নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১ম",
+      "option_b": "২য় ২ য ় ২য়",
+      "option_c": "৩য়",
+      "option_d": "কোনটি নয়",
+      "correct": "গ",
+      "explanation": "প্রথমে কোণ 25 π 2 \\frac{25 \\pi}{2} 2 25 π ​ কে সরলীকরণ করি: 25 π 2 = 12 π + π 2 (  যেহেতু  12 π = 6 × 2 π ,  যা একটি পূর্ণ বৃত্ত  ) \\frac{25 \\pi}{2}=12 \\pi+\\frac{\\pi}{2} \\quad(\\text { যেহেতু } 12 \\pi=6 \\times 2 \\pi, \\text { যা একটি পূর্ণ বৃত্ত }) 2 25 π ​ = 12 π + 2 π ​ (   যেহেতু   12 π = 6 × 2 π ,   যা   একটি   পূর্ণ   বৃত্ত   ) এখানে 12 π 12 \\pi 12 π পূর্ণ বৃত্তের সমতুল্য, তাই এটিকে উপেক্ষা করা যায়। সুতরাং: 25 π 2 − θ = π 2 − θ \\frac{25 \\pi}{2}-\\theta=\\frac{\\pi}{2}-\\theta 2 25 π ​ − θ = 2 π ​ − θ ত্রিকোণমিতিক অভেদ প্রয়োগ আমরা জানি: sin ⁡ ( π 2 − θ ) = cos ⁡ θ \\sin \\left(\\frac{\\pi}{2}-\\theta\\right)=\\cos \\theta sin ( 2 π ​ − θ ) = cos θ অতএব: sin ⁡ ( 25 π 2 − θ ) = cos ⁡ θ \\sin \\left(\\frac{25 \\pi}{2}-\\theta\\right)=\\cos \\theta sin ( 2 25 π ​ − θ ) = cos θ cos ⁡ θ \\cos \\theta cos θ এর চতুর্ভাগ নির্ণয় cos ⁡ θ \\cos \\theta cos θ এর চিহ্থ নির্ভর করে θ \\theta θ এর অবস্থানের উপর: 1. প্রথম চতুর্ভাগ ( 0 < θ < π 2 ) : cos ⁡ θ > 0 \\left(0<\\theta<\\frac{\\pi}{2}\\right): \\cos \\theta>0 ( 0 < θ < 2 π ​ ) : cos θ > 0 2. দ্বিতীয় চতুর্ভাগ ( π 2 < θ < π ) : cos ⁡ θ < 0 \\left(\\frac{\\pi}{2}<\\theta<\\pi\\right): \\cos \\theta<0 ( 2 π ​ < θ < π ) : cos θ < 0 3. তৃতীয় চতুর্ভাগ ( π < θ < 3 π 2 \\pi<\\theta<\\frac{3 \\pi}{2} π < θ < 2 3 π ​ ): cos ⁡ θ < 0 \\cos \\theta<0 cos θ < 0 4. চতুর্থ চতুর্ভাগ ( 3 π 2 < θ < 2 π ) : cos ⁡ θ > 0 \\left(\\frac{3 \\pi}{2}<\\theta<2 \\pi\\right): \\cos \\theta>0 ( 2 3 π ​ < θ < 2 π ) : cos θ > 0 সিদ্বান্ত: - θ \\theta θ যদি প্রথম বা চতুর্থ চতুর্ভাগে থাকে, তাহলে cos ⁡ θ > 0 \\cos \\theta>0 cos θ > 0 । - θ \\theta θ যদি দ্বিতীয় বা তৃতীয় চতুর্ভাগে থাকে, তাহলে cos ⁡ θ < 0 । \\cos \\theta<0 । cos θ < 0 ।"
+    },
+    {
+      "number": "13",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "14",
+      "tag": "CPSCM 24",
+      "question": "- 27 এর ঘনমূল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "9",
+      "option_b": "-9",
+      "option_c": "-3",
+      "option_d": "3",
+      "correct": "ঘ",
+      "explanation": "-27 এর ঘনমূল হলো একরি সংখ্যা x x x যা নিস্নলিখিত সমীকরণকে সন্তুষ্ট করে: x 3 = − 27 x^{3}=-27 x 3 = − 27 -27 কে নিম্নরূপে প্রকাশ করা যায়: − 27 = ( − 3 ) × ( − 3 ) × ( − 3 ) = ( − 3 ) 3 -27=(-3) \\times(-3) \\times(-3)=(-3)^{3} − 27 = ( − 3 ) × ( − 3 ) × ( − 3 ) = ( − 3 ) 3 অতএব, x 3 = ( − 3 ) 3 ⟹ x = − 3 x^{3}=(-3)^{3} \\Longrightarrow x=-3 x 3 = ( − 3 ) 3 ⟹ x = − 3"
+    },
+    {
+      "number": "15",
+      "tag": "HC 24,CPSCM 24,BB 23,JB 22,DB 21,CB 19,All.B 18",
+      "question": "যদি m , n , x > 0 \\mathrm{m}, \\mathrm{n}, \\mathrm{x}>0 m , n , x > 0 এবং m ≠ 1 , n ≠ 1 \\mathrm{m} \\neq 1, \\mathrm{n} \\neq 1 m  = 1 , n  = 1 হয়, তবে- i. 4 log ⁡ m m + log ⁡ n n = 10 4 \\log_{\\sqrt{m}} m + \\log_{\\sqrt{n}} n = 10 4 lo g m ​ ​ m + lo g n ​ ​ n = 10 ii. log ⁡ m + log ⁡ n − log ⁡ x = log ⁡ m n x \\log m+\\log n-\\log x=\\log \\frac{m n}{x} lo g m + lo g n − lo g x = lo g x mn ​ iii. m x = m 2 5 \\mathrm{m}^{\\mathrm{x}}=\\sqrt[5]{\\mathrm{m}^{2}} m x = 5 m 2 ​ , যখন x = 2 5 \\mathrm{x}=\\frac{2}{5} x = 5 2 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "i. 4 log ⁡ m m + log ⁡ n n = 10 4 \\log_{\\sqrt{m}} m + \\log_{\\sqrt{n}} n = 10 4 lo g m ​ ​ m + lo g n ​ ​ n = 10 প্রথমে, log ⁡ m m = log ⁡ m log ⁡ m = log ⁡ m 1 2 log ⁡ m = 2 \\log_{\\sqrt{m}} m = \\frac{\\log m}{\\log \\sqrt{m}} = \\frac{\\log m}{\\frac{1}{2} \\log m} = 2 lo g m ​ ​ m = l o g m ​ l o g m ​ = 2 1 ​ l o g m l o g m ​ = 2 যেহেতু m > 0 , m ≠ 1 m > 0, m \\neq 1 m > 0 , m  = 1 অনুরূপভাবে log ⁡ n n = 2 \\log_{\\sqrt{n}} n = 2 lo g n ​ ​ n = 2 তাহলে 4 ⋅ 2 + 2 = 8 + 2 = 10 4 \\cdot 2 + 2 = 8 + 2 = 10 4 ⋅ 2 + 2 = 8 + 2 = 10 সুতরাং (i) সঠিক। ii. log ⁡ m + log ⁡ n − log ⁡ x = log ⁡ m n x \\log m + \\log n - \\log x = \\log \\frac{mn}{x} lo g m + lo g n − lo g x = lo g x mn ​ লগের নিয়ম অনুযায়ী: log ⁡ m + log ⁡ n = log ⁡ ( m n ) \\log m + \\log n = \\log(mn) lo g m + lo g n = lo g ( mn ) log ⁡ ( m n ) − log ⁡ x = log ⁡ ( m n x ) \\log(mn) - \\log x = \\log \\left(\\frac{mn}{x}\\right) lo g ( mn ) − lo g x = lo g ( x mn ​ ) সুতরাং (ii) সঠিক। iii. m x = m 2 5 m^x = \\sqrt[5]{m^2} m x = 5 m 2 ​ ডানপক্ষ: m 2 5 = m 2 / 5 \\sqrt[5]{m^2} = m^{2/5} 5 m 2 ​ = m 2/5 তাহলে m x = m 2 / 5 m^x = m^{2/5} m x = m 2/5 যেহেতু m ≠ 1 m \\neq 1 m  = 1 , তাই x = 2 5 x = \\frac{2}{5} x = 5 2 ​ হবে। দেওয়া আছে x = 2 5 x = \\frac{2}{5} x = 5 2 ​ , তাই সমীকরণ সত্য। সুতরাং (iii) সঠিক। সবকটি সঠিক। উত্তর: i, ii ও iii সবগুলো সঠিক।"
+    },
+    {
+      "number": "16",
+      "tag": "CPSCM 24,RB 19",
+      "question": "( x + a x ) 8 \\left(x+\\frac{a}{x}\\right)^{8} ( x + x a ​ ) 8 এর বিস্তৃতিতে পদ কতটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "8",
+      "option_d": "9",
+      "correct": "ক",
+      "explanation": "পদসংখ্যা  = n + 1 = 8 + 1 = 9  টি  \\begin{aligned} \\text { পদসংখ্যা } & =n+1 \\\\ & =8+1 \\\\ & =9 \\text { টি }\\end{aligned}   পদসংখ্যা   ​ = n + 1 = 8 + 1 = 9   টি   ​"
+    },
+    {
+      "number": "17",
+      "tag": "CPSCM 24",
+      "question": "x 2 − 5 x + 6 = 0 x^{2}-5 x+6=0 x 2 − 5 x + 6 = 0 সমীকরণের নিশ্চায়ক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "49",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "± 1 \\pm 1 ± 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "49",
+      "option_b": "7",
+      "option_c": "1",
+      "option_d": "± 1 \\pm 1 ± 1",
+      "correct": "খ",
+      "explanation": "এখানে: a = 1 a=1 a = 1 (যেহেতু x 2 x^{2} x 2 এর সহগ 1) b = − 5 b=-5 b = − 5 (যেহেতু x x x এর সহগ -5) c = 6 c=6 c = 6 (ধ্রুব পদ) নিশ্চায়ক গণনা নিশ্চায়কের সূত্রে মান বসাই: D = b 2 − 4 a c D = ( − 5 ) 2 − 4 × 1 × 6 D = 25 − 24 D = 1 \\begin{array}{c} D=b^{2}-4 a c \\\\ D=(-5)^{2}-4 \\times 1 \\times 6 \\\\ D=25-24 \\\\ D=1 \\end{array} D = b 2 − 4 a c D = ( − 5 ) 2 − 4 × 1 × 6 D = 25 − 24 D = 1 ​"
+    },
+    {
+      "number": "18",
+      "tag": "CPSCM 24",
+      "question": "কোনো বর্গের চারটি শীর্ষবিন্দুর স্থানাঙ্ক যথাক্রমে A (2, -3), B(3, 0 ), C (0, 1) এবং D ( -1, -2 ). বর্গের বাহুর দৈর্ঘ্য নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 \\sqrt{10} 10 ​ একক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 5 2 \\sqrt{5} 2 5 ​ একক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 3 3 \\sqrt{3} 3 3 ​ একক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 2 5 \\sqrt{2} 5 2 ​ একক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 \\sqrt{10} 10 ​ একক",
+      "option_b": "2 5 2 \\sqrt{5} 2 5 ​ একক",
+      "option_c": "3 3 3 \\sqrt{3} 3 3 ​ একক",
+      "option_d": "5 2 5 \\sqrt{2} 5 2 ​ একক",
+      "correct": "ক",
+      "explanation": "বাহু  A B  এর দৈর্ঘ্য  = ( 2 − 3 ) 2 + ( − 3 − 0 ) 2 = 1 2 + 3 2 = 10 একক \\begin{aligned} \\text { বাহু } A B \\text { এর দৈর্ঘ্য } & =\\sqrt{(2-3)^{2}+(-3-0)^{2}} \\\\ & =\\sqrt{1^{2}+3^{2}} \\\\ & =\\sqrt{10}একক \\end{aligned}   বাহু   A B   এর   দৈর্ঘ্য   ​ = ( 2 − 3 ) 2 + ( − 3 − 0 ) 2 ​ = 1 2 + 3 2 ​ = 10 ​ একক ​"
+    },
+    {
+      "number": "19",
+      "tag": "CPSCM 24",
+      "question": "কোনো বর্গের চারটি শীর্ষবিন্দুর স্থানাঙ্ক যথাক্রমে A (2, -3), B(3, 0 ), C (0, 1) এবং D ( -1, -2 ). কোন বিন্দুটি x অক্ষের উপর অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "B",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "C",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "D",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A",
+      "option_b": "B",
+      "option_c": "C",
+      "option_d": "D",
+      "correct": "গ",
+      "explanation": "x  -অক্ষের উপর  y = 0 ∴ B ( 3 , 0 )  বিন্দুটি x  -অক্ষের উপর অবস্থিত  \\begin{array}{l} x \\text { -অক্ষের উপর } y=0 \\\\ \\therefore B(3,0) \\text { বিন্দুটি} \\\\ x \\text { -অক্ষের উপর অবস্থিত } \\end{array} x  - অক্ষের   উপর   y = 0 ∴ B ( 3 , 0 )   বিন্দুটি x  - অক্ষের   উপর   অবস্থিত   ​"
+    },
+    {
+      "number": "20",
+      "tag": "CPSCM 24",
+      "question": "কোনো বর্গের চারটি শীর্ষবিন্দুর স্থানাঙ্ক যথাক্রমে A (2, -3), B(3, 0 ), C (0, 1) এবং D ( -1, -2 ). ABCD বর্গের ক্ষেত্রফল কত বর্গ একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "100",
+          "is_correct": true
+        }
+      ],
+      "option_a": "10",
+      "option_b": "20",
+      "option_c": "50",
+      "option_d": "100",
+      "correct": "ঘ",
+      "explanation": "ক্ষেত্রফল  = 1 2 ∣ 2 3 0 − 1 2 − 3 0 1 − 2 − 3 ∣ = 1 2 ∣ ( 0 + 3 + 0 + 3 ) − ( − 9 + 0 − 1 − 4 ) ∣ = 1 2 × 20 = 10  বর্গ একক  \\begin{aligned} \\text {ক্ষেত্রফল } & =\\frac{1}{2}\\left|\\begin{array}{ccccc}2 & 3 & 0 & -1 & 2 \\\\ -3 & 0 & 1 & -2 & -3\\end{array}\\right| \\\\ & =\\frac{1}{2}|(0+3+0+3)-(-9+0-1-4)| \\\\ & =\\frac{1}{2} \\times 20=10 \\text { বর্গ একক }\\end{aligned} ক্ষেত্রফল   ​ = 2 1 ​ ​ 2 − 3 ​ 3 0 ​ 0 1 ​ − 1 − 2 ​ 2 − 3 ​ ​ = 2 1 ​ ∣ ( 0 + 3 + 0 + 3 ) − ( − 9 + 0 − 1 − 4 ) ∣ = 2 1 ​ × 20 = 10   বর্গ   একক   ​"
+    },
+    {
+      "number": "21",
+      "tag": "CPSCM 24,CPSCR 24,JB 21",
+      "question": "3x+5y = 2, 2x + 3y = 0, ax + by + 1 = 0 রেখাত্রয় সমবিন্দু হলে a ও b এর সম্পর্ক কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4a - 6b = 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4a - 6b = 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6a - 4b = 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6a-4b=2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4a - 6b = 1",
+      "option_b": "4a - 6b = 2",
+      "option_c": "6a - 4b = 1",
+      "option_d": "6a-4b=2",
+      "correct": "গ",
+      "explanation": "সমবিন্দু হলে রেখা তিনটি একই কিছু দিয়ে যাবে। (i) ও (ii) সমাধান করে পাই, x = − 6 y = 4 x=-6 \\quad y=4 x = − 6 y = 4 তাহলে ( iii )রেখাটি (-6,4) বিন্দুগামী, এখন,   a × ( − 6 ) + b × 4 + 1 = 0 ⇒ − 6 a + 4 b + 1 = 0 ⇒ 6 a − 4 b − 1 = 0 ∴ 6 a − 4 b = 1. \\text { } \\begin{aligned} & a \\times(-6)+b \\times 4+1=0 \\\\ \\Rightarrow & -6 a+4 b+1=0 \\\\ \\Rightarrow & 6 a-4 b-1=0 \\\\ \\therefore & 6 a-4 b=1 . \\end{aligned}   ⇒ ⇒ ∴ ​ a × ( − 6 ) + b × 4 + 1 = 0 − 6 a + 4 b + 1 = 0 6 a − 4 b − 1 = 0 6 a − 4 b = 1. ​"
+    },
+    {
+      "number": "22",
+      "tag": "JGCC 24,HC 24,CPSCM 24",
+      "question": "3 a ‾ − 4 b ‾ 3 \\underline{a}-4 \\underline{b} 3 a ​ − 4 b ​ ভেক্টরটির সমান্তরাল ও বিপরীতমুখী ভেক্টর কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 a ‾ − 3 b ‾ 2 \\underline{a}-3 \\underline{b} 2 a ​ − 3 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 a ‾ − 3 b ‾ 4 \\underline{a}-3 \\underline{b} 4 a ​ − 3 b ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "16 b ‾ − 12 a ‾ 16 \\underline{b}-12 \\underline{a} 16 b ​ − 12 a ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 b ‾ − 3 a ‾ 4 \\underline{b}-3 \\underline{a} 4 b ​ − 3 a ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 a ‾ − 3 b ‾ 2 \\underline{a}-3 \\underline{b} 2 a ​ − 3 b ​",
+      "option_b": "4 a ‾ − 3 b ‾ 4 \\underline{a}-3 \\underline{b} 4 a ​ − 3 b ​",
+      "option_c": "16 b ‾ − 12 a ‾ 16 \\underline{b}-12 \\underline{a} 16 b ​ − 12 a ​",
+      "option_d": "4 b ‾ − 3 a ‾ 4 \\underline{b}-3 \\underline{a} 4 b ​ − 3 a ​",
+      "correct": "খ",
+      "explanation": "যেকোনো ভেক্টরের বিপরীতমুখী ভেব্টর পেতে হলে মূল ভেক্টরকে -1 দ্বারা গুণ করতে হয়। এখানে মূল ভেক্টর: v ‾ = 3 a ‾ − 4 b ‾ \\underline{v}=3 \\underline{a}-4 \\underline{b} v ​ = 3 a ​ − 4 b ​ এর বিপরীতমুখী ভেক্টর হবে: − v ‾ = − ( 3 a ‾ − 4 b ‾ ) = − 3 a ‾ + 4 b ‾ -\\underline{v}=-(3 \\underline{a}-4 \\underline{b})=-3 \\underline{a}+4 \\underline{b} − v ​ = − ( 3 a ​ − 4 b ​ ) = − 3 a ​ + 4 b ​"
+    },
+    {
+      "number": "23",
+      "tag": "RB 25,JB 25,DB 24,MB 24,VNSC 24,BNMPC 24,NISD 24,CPSCM 24,ISCM 24,MC 24,SJSC 24,RB 20,CTG.B 20",
+      "question": "মূলবিন্দু O এর সাপেক্ষে P এবং Q এর অবস্থান ভেক্টর যথাক্রমে 9 a ‾ − 4 b ‾ \\mathbf{9\\underline{\\mathbf{a}}-4\\underline{\\mathbf{b}} } 9 a ​ − 4 b ​ ও − 3 a ‾ − b ‾ -\\mathbf{3 \\underline{\\mathbf{a}}}-\\underline{\\mathbf{b}} − 3 a ​ − b ​ হলে, P Q → \\overrightarrow{\\mathbf{P Q}} PQ ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 a ‾ − 5 b ‾ 6 \\underline{a}-5 \\underline{b} 6 a ​ − 5 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12 a ‾ − 3 b ‾ 12 \\underline{a}-3 \\underline{b} 12 a ​ − 3 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 12 a ‾ + 3 b ‾ -12 \\underline{a}+3 \\underline{b} − 12 a ​ + 3 b ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12 a ‾ + 3 b ‾ 12 \\underline{a}+3 \\underline{b} 12 a ​ + 3 b ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 a ‾ − 5 b ‾ 6 \\underline{a}-5 \\underline{b} 6 a ​ − 5 b ​",
+      "option_b": "12 a ‾ − 3 b ‾ 12 \\underline{a}-3 \\underline{b} 12 a ​ − 3 b ​",
+      "option_c": "− 12 a ‾ + 3 b ‾ -12 \\underline{a}+3 \\underline{b} − 12 a ​ + 3 b ​",
+      "option_d": "12 a ‾ + 3 b ‾ 12 \\underline{a}+3 \\underline{b} 12 a ​ + 3 b ​",
+      "correct": "গ",
+      "explanation": "দুটি বিন্দু P P P এবং Q Q Q এর মধ্যবর্তী ভেক্টর P Q → \\overrightarrow{P Q} PQ ​ নিম্নোক্ত সূত্র দ্বারা প্রকাশ করা হয়: P Q → = O Q → − O P → \\overrightarrow{P Q}=\\overrightarrow{O Q}-\\overrightarrow{O P} PQ ​ = OQ ​ − OP মানগুলি বসানো P Q → = ( − 3 a − b ) − ( 9 a − 4 b ) = − 3 a − b − 9 a + 4 b = ( − 3 a − 9 a ) + ( − b + 4 b ) = − 12 a + 3 b \\begin{array}{c} \\overrightarrow{P Q}=(-3 \\mathbf{a}-\\mathbf{b})-(9 \\mathbf{a}-4 \\mathbf{b}) \\\\ =-3 \\mathbf{a}-\\mathbf{b}-9 \\mathbf{a}+4 \\mathbf{b} \\\\ =(-3 \\mathbf{a}-9 \\mathbf{a})+(-\\mathbf{b}+4 \\mathbf{b}) \\\\ =-12 \\mathbf{a}+3 \\mathbf{b} \\end{array} PQ ​ = ( − 3 a − b ) − ( 9 a − 4 b ) = − 3 a − b − 9 a + 4 b = ( − 3 a − 9 a ) + ( − b + 4 b ) = − 12 a + 3 b ​"
+    },
+    {
+      "number": "24",
+      "tag": "CPSCM 24",
+      "question": "3 সে.মি. ব্যাস বিশিষ্ট একটি বলের আয়তন কত ঘন সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 π 3 \\pi 3 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9 2 π \\frac{9}{2} \\pi 2 9 ​ π",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "9 π 9 \\pi 9 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "36 π 36 \\pi 36 π",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 π 3 \\pi 3 π",
+      "option_b": "9 2 π \\frac{9}{2} \\pi 2 9 ​ π",
+      "option_c": "9 π 9 \\pi 9 π",
+      "option_d": "36 π 36 \\pi 36 π",
+      "correct": "খ",
+      "explanation": "বল বা গোলকের আয়তন V V V নির্ণয়ের সূত্র হলো: V = 4 3 π r 3 V = \\frac{4}{3} \\pi r^3 V = 3 4 ​ π r 3 এখানে r r r হলো বলের ব্যাসার্ধ। প্রশ্নে ব্যাস দেওয়া হয়েছে ৩ সে.মি., এর মানে ব্যাসার্ধ r r r হবে 3 2 \\frac{3}{2} 2 3 ​ সে.মি। তাহলে, আয়তন হবে: V = 4 3 π ( 3 2 ) 3 V = \\frac{4}{3} \\pi \\left(\\frac{3}{2}\\right)^3 V = 3 4 ​ π ( 2 3 ​ ) 3 = 4 3 π × 27 8 = \\frac{4}{3} \\pi \\times \\frac{27}{8} = 3 4 ​ π × 8 27 ​ = 4 × 27 3 × 8 π = \\frac{4 \\times 27}{3 \\times 8} \\pi = 3 × 8 4 × 27 ​ π = 108 24 π = \\frac{108}{24} \\pi = 24 108 ​ π = 9 2 π = \\frac{9}{2} \\pi = 2 9 ​ π সুতরাং, ৩ সে.মি. ব্যাস বিশিষ্ট একটি বলের আয়তন হবে 9 2 π \\frac{9}{2} \\pi 2 9 ​ π ঘন সে.মি।"
+    },
+    {
+      "number": "25",
+      "tag": "CPSCM 24",
+      "question": "ঘনকের পৃষ্ঠতলের কর্ণের দৈর্ঘ্য 6 2 6 \\sqrt{2} 6 2 ​ একক হলে এর ধার কত একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 2 \\sqrt{3} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 2 3 \\sqrt{2} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 2 \\sqrt{3} 2 3 ​",
+      "option_b": "3 2 3 \\sqrt{2} 3 2 ​",
+      "option_c": "6",
+      "option_d": "12",
+      "correct": "গ",
+      "explanation": "প্রদত্ত: - ঘনকের পৃষ্ঠতনলের কর্ণের দৈর্ষ্য, d = 6 2 d=6 \\sqrt{2} d = 6 2 ​ একক ধরি, ঘনকের ধার (বাহুর দৈর্ষ্য) a a a একক। ঘনকের পৃষ্ঠতলের কর্ণের সূত্র: ঘনকের যেকোনো পৃষ্ঠতলের কর্ণের দৈর্ঘ্য = a 2 =a \\sqrt{2} = a 2 ​ প্রশ্নানুসারে, a 2 = 6 2 a \\sqrt{2}=6 \\sqrt{2} a 2 ​ = 6 2 ​ উভয় পক্ষকে 2 \\sqrt{2} 2 ​ দ্বারা ভাগ করে পাই, a = 6 a=6 a = 6"
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "read_id": "ijsoYqYOvia_nlJg",
+  "title": "ময়মনসিংহ বোর্ড ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "MB 24",
+      "question": "3 kg ও 9 kg ভরের দুটি গতিশীল বস্তুর বেগের অনুপাত কত হলে বস্তু দুটির গতিশক্তি সমান হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 : 3 1: \\sqrt{3} 1 : 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 : 3 1: 3 1 : 3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 : 1 \\sqrt{3}: 1 3 ​ : 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 : 1 3: 1 3 : 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 : 3 1: \\sqrt{3} 1 : 3 ​",
+      "option_b": "1 : 3 1: 3 1 : 3",
+      "option_c": "3 : 1 \\sqrt{3}: 1 3 ​ : 1",
+      "option_d": "3 : 1 3: 1 3 : 1",
+      "correct": "গ",
+      "explanation": "বস্তু দুটির গতিশক্তি সমান হলে, T 1 = T 2 \\mathrm{T}_{1}=\\mathrm{T}_{2} T 1 ​ = T 2 ​ বা; 1 2   m 1 v 1 2 = 1 2   m 2 v 2 2 \\frac{1}{2} \\mathrm{~m}_{1} \\mathrm{v}_{1}{ }^{2}=\\frac{1}{2} \\mathrm{~m}_{2} \\mathrm{v}_{2}^{2} 2 1 ​   m 1 ​ v 1 ​ 2 = 2 1 ​   m 2 ​ v 2 2 ​ বা, 3 v 1 2 = 9 v 2 2 3 \\mathrm{v}_{1}{ }^{2}=9 \\mathrm{v}_{2}{ }^{2} 3 v 1 ​ 2 = 9 v 2 ​ 2 বা, ( v 1 v 2 ) 2 = 9 3 \\left(\\frac{v_{1}}{v_{2}}\\right)^{2}=\\frac{9}{3} ( v 2 ​ v 1 ​ ​ ) 2 = 3 9 ​ বা, v 1 v 2 = 3 ∴ v 1 : v 2 = 3 : 1 \\frac{v_{1}}{v_{2}}=\\sqrt{3} \\therefore v_{1}: v_{2}=\\sqrt{3}: 1 v 2 ​ v 1 ​ ​ = 3 ​ ∴ v 1 ​ : v 2 ​ = 3 ​ : 1"
+    },
+    {
+      "number": "2",
+      "tag": "MB 24",
+      "question": "নিচের কোন সমীকরণটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "h = u 2 + v 2 2   g \\mathrm{h}=\\frac{\\mathrm{u}^{2}+\\mathrm{v}^{2}}{2 \\mathrm{~g}} h = 2   g u 2 + v 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "g = 4 π 2 L T 2 g=\\frac{4 \\pi^{2} L}{T^{2}} g = T 2 4 π 2 L ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "G = g M R 2 \\mathrm{G}=\\frac{\\mathrm{gM}}{\\mathrm{R}^{2}} G = R 2 gM ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "F 1 = F 2 ( A 2 A 1 ) F_{1}=F_{2}\\left(\\frac{A_{2}}{A_{1}}\\right) F 1 ​ = F 2 ​ ( A 1 ​ A 2 ​ ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "h = u 2 + v 2 2   g \\mathrm{h}=\\frac{\\mathrm{u}^{2}+\\mathrm{v}^{2}}{2 \\mathrm{~g}} h = 2   g u 2 + v 2 ​",
+      "option_b": "g = 4 π 2 L T 2 g=\\frac{4 \\pi^{2} L}{T^{2}} g = T 2 4 π 2 L ​",
+      "option_c": "G = g M R 2 \\mathrm{G}=\\frac{\\mathrm{gM}}{\\mathrm{R}^{2}} G = R 2 gM ​",
+      "option_d": "F 1 = F 2 ( A 2 A 1 ) F_{1}=F_{2}\\left(\\frac{A_{2}}{A_{1}}\\right) F 1 ​ = F 2 ​ ( A 1 ​ A 2 ​ ​ )",
+      "correct": "খ",
+      "explanation": "সরল দোলকের দোলনকাল T। সুতার দৈর্ঘ্য L এবং অভিকর্ষজ ত্বরণ g হলে, T = 2 π   L   g T=2 \\pi \\sqrt{\\frac{\\mathrm{~L}}{\\mathrm{~g}}} T = 2 π   g   L ​ ​ বা, g = 4 π 2   L   T 2 g=\\frac{4 \\pi^{2} \\mathrm{~L}}{\\mathrm{~T}^{2}} g =   T 2 4 π 2   L ​ ; আবার, পড়ন্ত বস্তুর ক্ষেত্রে, v 2 = u 2 + 2 g h v^{2}=u^{2}+2 g h v 2 = u 2 + 2 g h বা, h = v 2 − u 2 2   g \\mathrm{h}=\\frac{\\mathrm{v}^{2}-\\mathrm{u}^{2}}{2 \\mathrm{~g}} h = 2   g v 2 − u 2 ​ , অভিকর্ষজ ত্বরণ g = G M R 2 \\mathrm{g}=\\frac{\\mathrm{GM}}{\\mathrm{R}^{2}} g = R 2 GM ​ বা, G = g R 2 M \\mathrm{G}=\\frac{\\mathrm{gR}^{2}}{\\mathrm{M}} G = M gR 2 ​ ; প্যাসকেলের সূত্রানুসারে, F 2 = F 1 (   A 2   A 1 ) \\mathrm{F}_{2}=\\mathrm{F}_{1}\\left(\\frac{\\mathrm{~A}_{2}}{\\mathrm{~A}_{1}}\\right) F 2 ​ = F 1 ​ (   A 1 ​   A 2 ​ ​ )"
+    },
+    {
+      "number": "3",
+      "tag": "MB 24,DIN.B 24",
+      "question": "কোনটির বিশেষ চৌম্বকীয় ধর্ম আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যালুমিনিয়াম",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কোবাল্ট",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "তামা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "লেড",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অ্যালুমিনিয়াম",
+      "option_b": "কোবাল্ট",
+      "option_c": "তামা",
+      "option_d": "লেড",
+      "correct": "খ",
+      "explanation": "যে সকল আকর্ষণ কিংবা বিকর্ষণ করে তাদেরকে চৌম্বক পদার্থ বলে এবং এ বিশেষ ধর্মকে চৌম্বকীয় ধর্ম বলে। অ্যালুমিনিয়াম কোবাল্ট, তামা ও লেডের মধ্যে কেবল কোবাল্ট (Co) এর এই ধর্ম আছে।"
+    },
+    {
+      "number": "4",
+      "tag": "MB 24",
+      "question": "কোনটিতে স্থির তড়িৎ এর ব্যবহার নেই?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "টর্চলাইটে",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ফটোকপিতে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "জ্বালানি টাঙ্কে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ভ্যান ডি গ্রাফ মেশিনে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "টর্চলাইটে",
+      "option_b": "ফটোকপিতে",
+      "option_c": "জ্বালানি টাঙ্কে",
+      "option_d": "ভ্যান ডি গ্রাফ মেশিনে",
+      "correct": "ক",
+      "explanation": "টর্চলাইটে চলতড়িৎ ব্যবহৃত হয়। একটি বর্তনীর মাধ্যমে ব্যাটারিতে সঞ্চিত রাসায়নিক শক্তি বিদ্যুৎ শক্তি তথা চল তড়িতে পরিবর্তিত হয় এবং পরবর্তীতে এই বিদ্যুৎ শক্তি আলোক শক্তিতে রূপান্তরিত হয়। অপরদিকে স্থির তড়িতের ব্যবহার রয়েছে- ফটোকপি, ভ্যান ডি গ্রাফ মেশিন, জ্বালানি ট্রাক, বজ্রনিরোধক, রং স্প্রে ইত্যাদিতে।"
+    },
+    {
+      "number": "5",
+      "tag": "CB 23",
+      "question": "R 1 , R 2 , R 3 \\mathbf{R}_{1}, \\mathbf{R}_{2}, \\mathrm{R}_{3} R 1 ​ , R 2 ​ , R 3 ​ এবং R 4 \\mathrm{R}_{4} R 4 ​ এর তড়িৎ প্রবাহ যথাক্রমে I 1 , I 2 , I 3 I_{1}, I_{2}, I_{3} I 1 ​ , I 2 ​ , I 3 ​ এবং I 4 I_{4} I 4 ​ হলে- i. I 2 + I 3 > I 1 \\mathrm{I}_{2}+\\mathrm{I}_{3}>\\mathrm{I}_{1} I 2 ​ + I 3 ​ > I 1 ​ ii. I 2 + I 4 > I 3 \\mathrm{I}_{2}+\\mathrm{I}_{4}>\\mathrm{I}_{3} I 2 ​ + I 4 ​ > I 3 ​ iii. I 1 = 5 I \\mathrm{I}_{1}=5 \\mathrm{I} I 1 ​ = 5 I নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i",
+      "option_b": "ii",
+      "option_c": "i ও ii",
+      "option_d": "ii ও iii",
+      "correct": "ঘ",
+      "explanation": "R p = ( 1 10 + 1 20 + 1 10 ) − 1 = 4 Ω R Q = 20 + 4 = 24 Ω I = V R e q = 12 24 = 0.5   A I 1 = I = 0.5   A   V A B = I R p = 0.5 × 4 = 2   V I 3 = V A B R 3 = 2 10 = 0.2   A = I 2   L 4 = V A B R 4 = 2 20 = 0.1   A ˙ \\begin{array}{l}\\mathrm{R}_{\\mathrm{p}}=\\left(\\frac{1}{10}+\\frac{1}{20}+\\frac{1}{10}\\right)^{-1}=4 \\Omega \\\\ \\mathrm{R}_{\\mathrm{Q}}=20+4=24 \\Omega \\\\ \\mathrm{I}=\\frac{\\mathrm{V}}{\\mathrm{R}_{\\mathrm{eq}}}=\\frac{12}{24}=0.5 \\mathrm{~A} \\\\ \\mathrm{I}_{1}=\\mathrm{I}=0.5 \\mathrm{~A} \\\\ \\mathrm{~V}_{\\mathrm{AB}}=\\mathrm{IR}_{\\mathrm{p}}=0.5 \\times 4=2 \\mathrm{~V} \\\\ \\mathrm{I}_{3}=\\frac{\\mathrm{V}_{\\mathrm{AB}}}{\\mathrm{R}_{3}}=\\frac{2}{10}=0.2 \\mathrm{~A}=\\mathrm{I}_{2} \\\\ \\mathrm{~L}_{4}=\\frac{\\mathrm{V}_{\\mathrm{AB}}}{\\mathrm{R}_{4}}=\\frac{2}{20}=0.1 \\dot{\\mathrm{~A}}\\end{array} R p ​ = ( 10 1 ​ + 20 1 ​ + 10 1 ​ ) − 1 = 4Ω R Q ​ = 20 + 4 = 24Ω I = R eq ​ V ​ = 24 12 ​ = 0.5   A I 1 ​ = I = 0.5   A   V AB ​ = IR p ​ = 0.5 × 4 = 2   V I 3 ​ = R 3 ​ V AB ​ ​ = 10 2 ​ = 0.2   A = I 2 ​   L 4 ​ = R 4 ​ V AB ​ ​ = 20 2 ​ = 0.1   A ˙ ​ i. I 2 + I 3 = 0.2 + 0.2 = 0.4 < I 1 \\quad I_{2}+\\mathrm{I}_{3}=0.2+0.2=0.4<\\mathrm{I}_{1} I 2 ​ + I 3 ​ = 0.2 + 0.2 = 0.4 < I 1 ​ ii. I 2 + I 4 = 0.2 + 0.1 = 0.3   A > I 3 \\quad \\mathrm{I}_{2}+\\mathrm{I}_{4}=0.2+0.1=0.3 \\mathrm{~A}>\\mathrm{I}_{3} I 2 ​ + I 4 ​ = 0.2 + 0.1 = 0.3   A > I 3 ​ iii. I 1 I 4 = 0.5 0.1 \\frac{\\mathrm{I}_{1}}{\\mathrm{I}_{4}}=\\frac{0.5}{0.1} I 4 ​ I 1 ​ ​ = 0.1 0.5 ​ বা, I 1 = 5   L \\mathrm{I}_{1}=5 \\mathrm{~L} I 1 ​ = 5   L"
+    },
+    {
+      "number": "6",
+      "tag": "CB 23,MB 22",
+      "question": "বর্তনীটির বৈদ্যুতিক ক্ষমতা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3.33 W",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.3 W",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 W",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30 W",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3.33 W",
+      "option_b": "0.3 W",
+      "option_c": "3 W",
+      "option_d": "30 W",
+      "correct": "ঘ",
+      "explanation": "ধরি V = 12 V V = 12V V = 12 V , R = 2 Ω R = 2\\Omega R = 2Ω , এবং I = 5 A I = 5A I = 5 A বর্তনীটির বৈদ্যুতিক ক্ষমতা নির্ণয়ের জন্য, আমরা নিম্নলিখিত সূত্রটি ব্যবহার করতে পারিঃ P = V × I = 12 × 5 P = V \\times I = 12 \\times 5 P = V × I = 12 × 5 এটি সরলীকরণ করলে, P = 60 W P = 60 \\, \\text{W} P = 60 W তবে, এখানে ভুলধারণার ভিত্তিতে ক্ষমতা 30 W 30 \\, \\text{W} 30 W নির্ণয় করা যেতে পারে, উদাহরণস্বরূপ, একটি ভুল ছবির লেবেল থেকে প্রাপ্ত সূত্রে। যাই হোক, এখানে সরলভাবে V × I V \\times I V × I শুধুমাত্র বৈদ্যুতিক ক্ষমতা নির্ণয়ের জন্য প্রয়োজন। যদি ভিন্ন তথ্য উপস্থাপিত হয়, সেটি অন্যভাবে সমাধানযোগ্য হতে পারে। এর ফলে গণনায় ভুল হয়েছে বলে মনে হতে পারে।"
+    },
+    {
+      "number": "7",
+      "tag": "MB 24",
+      "question": "কোন বিজ্ঞানী প্রতি পদার্থের অস্তিত্ব ঘোষণা করেন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "হাবল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অটোহান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ডিরাক",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "রন্টজেন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "হাবল",
+      "option_b": "অটোহান",
+      "option_c": "ডিরাক",
+      "option_d": "রন্টজেন",
+      "correct": "গ",
+      "explanation": "১৯৩১ সালে বিজ্ঞানী পল ডিরাক কোয়ান্টাম তত্ত্বের সাথে থিওরী অব রিলেটিভিটি ব্যবহার করে প্রতি পদার্থের অস্তিত্ব ঘোষণা করেন।"
+    },
+    {
+      "number": "8",
+      "tag": "MB 24",
+      "question": "একটি বস্তুকে ভূ-পৃষ্ঠ থেকে 54 k m h − 1 kmh^{-1} km h − 1 বেগে। খাড়া উপরের দিকে নিক্ষেপ করা হলো। বস্তুটির সর্বোচ্চ উচ্চতায় আরোহণ করতে কত সময় লাগবে? [অভিকর্ষজ ত্বরণ g= 9.8 m s − 2 ms^{-2} m s − 2 ]",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.53 sec",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3.06 sec",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5.51 sec",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "11.02 sec",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.53 sec",
+      "option_b": "3.06 sec",
+      "option_c": "5.51 sec",
+      "option_d": "11.02 sec",
+      "correct": "ক",
+      "explanation": "v=u-gt [অভিকর্ষ বলের বিরুদ্ধে নিক্ষেপ করা] V=0 কেননা সর্বোচ্চ উচ্চতায় বেগ শূন্য হবে। ∴ 0 = u − g t ⇒ g t = u ⇒ t = u g \\begin{aligned} \\therefore 0 & =u-g t \\\\ \\Rightarrow & g t=u \\\\ & \\Rightarrow t=\\frac{u}{g}\\end{aligned} ∴ 0 ⇒ ​ = u − g t g t = u ⇒ t = g u ​ ​ v = 54 k m h − 1 = 54 × 1000 3600 = 1.5   m s − 1 , t = u g = 15 9.8 = 1.53 s e c \\mathrm{v}=54 \\mathrm{kmh}^{-1}=\\frac{54 \\times 1000}{3600}=1.5 \\mathrm{~ms}^{-1}, \\mathrm{t}=\\frac{\\mathrm{u}}{\\mathrm{g}}=\\frac{15}{9.8}=1.53 \\mathrm{sec} v = 54 kmh − 1 = 3600 54 × 1000 ​ = 1.5   ms − 1 , t = g u ​ = 9.8 15 ​ = 1.53 sec"
+    },
+    {
+      "number": "9",
+      "tag": "MB 24,RB 20",
+      "question": "কোনটি সুরযুক্ত শব্দের বৈশিষ্ট্য নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তীব্রতা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "দশা",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "টিম্বার (জাতি)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "তীক্ষ্মতা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "তীব্রতা",
+      "option_b": "দশা",
+      "option_c": "টিম্বার (জাতি)",
+      "option_d": "তীক্ষ্মতা",
+      "correct": "খ",
+      "explanation": "সুরযুক্ত শব্দ (musical sound) এর প্রধান বৈশিষ্ট্য তিনটি: 1. তীব্রতা (Intensity) – শব্দ কত জোরে শোনা যায় 2. তীক্ষ্মতা বা কম্পাঙ্ক (Pitch) – শব্দ কতো উঁচু বা নিচু 3. টিম্বার বা জাতি (Quality/Timbre) – একই তীব্রতা ও তীক্ষ্মতায় ভিন্ন যন্ত্রে ভিন্নভাবে শোনা যায় দশা (Phase) শব্দটির গঠন প্রক্রিয়ায় ভূমিকা রাখলেও এটি সুরযুক্ত শব্দের বৈশিষ্ট্য নয়।"
+    },
+    {
+      "number": "10",
+      "tag": "MB 24,RCC 24",
+      "question": "আদর্শ গ্যাস সমীকরণে ধ্রুবক 'R' এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8.413 J K − 1   m o l − 1 8.413 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.413 JK − 1   mol − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8.31 J K − 2   m o l − 1 8.31 \\mathrm{JK}^{-2} \\mathrm{~mol}^{-1} 8.31 JK − 2   mol − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8.314 J K − 1   m o l − 1 8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.314 JK − 1   mol − 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8.134 J K − 1   m o l − 1 8.134 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.134 JK − 1   mol − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8.413 J K − 1   m o l − 1 8.413 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.413 JK − 1   mol − 1",
+      "option_b": "8.31 J K − 2   m o l − 1 8.31 \\mathrm{JK}^{-2} \\mathrm{~mol}^{-1} 8.31 JK − 2   mol − 1",
+      "option_c": "8.314 J K − 1   m o l − 1 8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.314 JK − 1   mol − 1",
+      "option_d": "8.134 J K − 1   m o l − 1 8.134 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.134 JK − 1   mol − 1",
+      "correct": "গ",
+      "explanation": "আদর্শ গ্যাস সমীকরণ হল, ( PV = nRT ) যেখানে R হল গ্যাস ধ্রুবক। গ্যাস ধ্রুবক R এর মান হলো 8.314 J K − 1   m o l − 1 8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.314 JK − 1   mol − 1 । অতএব, সঠিক উত্তরটি হল (c): 8.314 J K − 1   m o l − 1 8.314 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1} 8.314 JK − 1   mol − 1"
+    },
+    {
+      "number": "11",
+      "tag": "MB 24",
+      "question": "নিচের কোনটিতে আল্ট্রাসনোগ্রাফি ব্যবহৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ভ্রূণের আকার জানতে",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "রেডিওথেরাপিতে চিকিৎসার জন্য",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ফুসফুসের ক্যান্সার নির্ণয়ে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কিডনিতে পাথরের অস্তিত্ব নির্ণয়ে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ভ্রূণের আকার জানতে",
+      "option_b": "রেডিওথেরাপিতে চিকিৎসার জন্য",
+      "option_c": "ফুসফুসের ক্যান্সার নির্ণয়ে",
+      "option_d": "কিডনিতে পাথরের অস্তিত্ব নির্ণয়ে",
+      "correct": "ক",
+      "explanation": "আল্ট্রাসনোগ্রাফি যন্ত্রে শব্দোত্তর শব্দ তরঙ্গ ব্যবহার করে দেহের ভেতরের ত্রিমাত্রিক ছবি গঠন করা হয়। এভাবেই দেহের অভ্যন্তরে ভ্রুণের স্বাভাবিক বা অস্বাভাবিক অবস্থান, গঠন ও আকার ইত্যাদি জানা যায়।"
+    },
+    {
+      "number": "12",
+      "tag": "MB 24",
+      "question": "এককের গুণিতক বা উপসর্গের ক্ষেত্রে নিচের কোন সম্পর্কটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "টেরা > পিকো",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "গিগা > টেরা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "টেরা < মেগা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "এক্সা < এটো",
+          "is_correct": false
+        }
+      ],
+      "option_a": "টেরা > পিকো",
+      "option_b": "গিগা > টেরা",
+      "option_c": "টেরা < মেগা",
+      "option_d": "এক্সা < এটো",
+      "correct": "ক",
+      "explanation": "এককের গুণিতক বা উপসর্গগুলোর তুলনামূলক ক্রমটি হলো: এক্সা > পেটা > টেরা > গিগা > মেগা > কিলো > হেক্টা > ডেকা > ডেসি > সেন্টি > মিলি > মাইক্রো > ন্যানো > পিকো > ফেমটো > এটো।"
+    },
+    {
+      "number": "13",
+      "tag": "MB 24",
+      "question": "নিচের কোন পদার্থটির স্থিতিস্থাপকতা সর্বাধিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "লোহা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "তামা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কাঠ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "হাড়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "লোহা",
+      "option_b": "তামা",
+      "option_c": "কাঠ",
+      "option_d": "হাড়",
+      "correct": "ক",
+      "explanation": "সর্বোচ্চ ইয়াংস মাডুলাস বিশিষ্ট পদার্থটি হবে সর্বাধিক স্থিতিস্থাপক। লোহা, তামা, কাঠ ও হাড়ের ইয়াংস মডুলাসের মান যথাক্রমে 200 GPa, 117 GPa, 10 GPa ও 9 GPa। সুতরাং, এদের মধ্যে লোহাই সর্বাধিক স্থিতিস্থাপক।"
+    },
+    {
+      "number": "14",
+      "tag": "MB 24",
+      "question": "ট্রান্সফর্মার নিচের কোনটির রূপান্তর করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ক্ষমতার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শুধু তড়িৎ প্রবাহের",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "শুধু ভোল্টেজের",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ভোল্টেজ ও তড়িৎ প্রবাহের",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ক্ষমতার",
+      "option_b": "শুধু তড়িৎ প্রবাহের",
+      "option_c": "শুধু ভোল্টেজের",
+      "option_d": "ভোল্টেজ ও তড়িৎ প্রবাহের",
+      "correct": "ঘ",
+      "explanation": "ট্রান্সফর্মারের ক্ষেত্রে, I s = V p V s I p = n p n s I p \\mathrm{I}_{\\mathrm{s}}=\\frac{\\mathrm{V}_{\\mathrm{p}}}{\\mathrm{V}_{\\mathrm{s}}} \\mathrm{I}_{\\mathrm{p}}=\\frac{\\mathrm{n}_{\\mathrm{p}}}{\\mathrm{n}_{\\mathrm{s}}} \\mathrm{I}_{\\mathrm{p}} I s ​ = V s ​ V p ​ ​ I p ​ = n s ​ n p ​ ​ I p ​ অর্থাৎ, এখানে কুণ্ডলীতে পাক সংখ্যার পরিবর্তন করে ভোল্টেজ ও তড়িৎ প্রবাহ পরিবর্তন করা যায়।"
+    },
+    {
+      "number": "15",
+      "tag": "MB 24",
+      "question": "নিচের কোন যন্ত্রটি শব্দ শক্তিকে তড়িৎ শক্তিতে রূপান্তর করতে পারে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ট্রান্সফর্মার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "স্পিকার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ট্রান্সজিস্টর",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মাইক্রোফোন",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ট্রান্সফর্মার",
+      "option_b": "স্পিকার",
+      "option_c": "ট্রান্সজিস্টর",
+      "option_d": "মাইক্রোফোন",
+      "correct": "ঘ",
+      "explanation": "মাইক্রোফোনের কাজ শব্দকে তড়িৎ শক্তিতে রূপান্তরিত করা। মাইক্রোফোনের কাজ: মাইক্রোফোনের সামনে ধাতুর একটি পাতলা- পাত বা ডায়াফ্রাম থাকে। ডায়াফ্রামের সাথে একটা চলকুণ্ডলি (Coil) লাগানো থাকে যা একটা চৌম্বকীয় ক্ষেত্রের ভেতর নাড়াচড়া করতে পারে। যখন কেউ এই মাইক্রোফোনের সামনে কথা বলে তখন ডায়াফ্রামটি শব্দ তরঙ্গের কম্পনের সাথে কাঁপতে থাকে। ডায়াফ্রামের - সাথে লাগানো, চলকুণ্ডলীটিও চৌম্বক ক্ষেত্রে সামনে-পেছনে নড়তে থাকে। চৌম্বক ক্ষেত্রে একটি চলকুণ্ডলী নাড়াচাড়া করলে সেখানে একটি বিদ্যুত্ শক্তির আবেশ হয়, কাজেই মাইক্রোফোনটি শব্দশক্তিকে বিদ্যুৎ শক্তিতে রূপান্তর করে একটি বৈদ্যুতিক সিগন্যাল পাঠায়।"
+    },
+    {
+      "number": "16",
+      "tag": "MB 24,MB 22",
+      "question": "কোনো নির্দিষ্ট ভরের কোনো বস্তুর বেগ দ্বিগুণ করলে গতিশক্তি কত গুণ হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "চারগুণ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিগুণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অর্ধেক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সমান",
+          "is_correct": false
+        }
+      ],
+      "option_a": "চারগুণ",
+      "option_b": "দ্বিগুণ",
+      "option_c": "অর্ধেক",
+      "option_d": "সমান",
+      "correct": "ক",
+      "explanation": "গতিশক্তি, T = 1 2 m v 2 \\mathrm{T}=\\frac{1}{2} m v^{2} T = 2 1 ​ m v 2 বা, T ∝ v 2 [   m \\mathrm{T} \\propto \\mathrm{v}^{2}[\\mathrm{~m} T ∝ v 2 [   m ধুব] ∴ T 2   T 1 = v 2 2 v 1 2 \\therefore \\frac{\\mathrm{T}_{2}}{\\mathrm{~T}_{1}}=\\frac{\\mathrm{v}_{2}^{2}}{\\mathrm{v}_{1}^{2}} ∴   T 1 ​ T 2 ​ ​ = v 1 2 ​ v 2 2 ​ ​ এখানে, v 2 = 2 v 1 \\mathrm{v}_{2}=2 \\mathrm{v}_{1} v 2 ​ = 2 v 1 ​ হলে, T 2   T 1 = ( 2 v 1 ) 2 v 1 2 = 4 v 1 2 v 1 2 = 4 \\frac{\\mathrm{T}_{2}}{\\mathrm{~T}_{1}}=\\frac{\\left(2 \\mathrm{v}_{1}\\right)^{2}}{\\mathrm{v}_{1}^{2}}=\\frac{4 \\mathrm{v}_{1}^{2}}{\\mathrm{v}_{1}^{2}}=4   T 1 ​ T 2 ​ ​ = v 1 2 ​ ( 2 v 1 ​ ) 2 ​ = v 1 2 ​ 4 v 1 2 ​ ​ = 4 ∴ T 2 = 4   T 1 \\therefore \\mathrm{T}_{2}=4 \\mathrm{~T}_{1} ∴ T 2 ​ = 4   T 1 ​ অর্থাৎ, গতিশক্তি চারগুণ হবে।"
+    },
+    {
+      "number": "17",
+      "tag": "MB 24",
+      "question": "লেন্সটিতে লক্ষ্যবস্তুর সৃষ্ট প্রতিবিম্বের ক্ষেত্রে- i. বাস্তব ও উল্টো হবে ii. দূরত্ব 30 cm হবে iii. বিবর্ধন 0.5 হবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i",
+      "option_b": "ii",
+      "option_c": "i ও ii",
+      "option_d": "ii ও iii",
+      "correct": "গ",
+      "explanation": "i. লক্ষ্যবস্তু ফোকাস দূরত্বের বাইরে, তাই প্রতিবিম্ব বাস্তব ও উল্টো হবে। ii. 1 v + 1 u = 1 f \\frac{1}{v}+\\frac{1}{u}=\\frac{1}{f} v 1 ​ + u 1 ​ = f 1 ​ বা, 1 v = 1 f = − 1 u = 1 10 − 1 15 = 1 30 \\frac{1}{v}=\\frac{1}{\\mathrm{f}}=\\frac{-1}{u}=\\frac{1}{10}-\\frac{1}{15}=\\frac{1}{30} v 1 ​ = f 1 ​ = u − 1 ​ = 10 1 ​ − 15 1 ​ = 30 1 ​ বা, v = 30   c m v=30 \\mathrm{~cm} v = 30   cm iii. বিবর্ধন, m = ∣ v u ∣ = ∣ 30 15 ∣ = 2 m=\\left|\\frac{\\mathrm{v}}{\\mathrm{u}}\\right|=\\left|\\frac{30}{15}\\right|=2 m = ​ u v ​ ​ = ​ 15 30 ​ ​ = 2"
+    },
+    {
+      "number": "18",
+      "tag": "MB 24",
+      "question": "OA লক্ষ্যবস্তু প্রধান অক্ষের উপর কোন অবস্থানে রাখলে বিবর্ধন, m এর মান 1 এর চেয়ে ছোট হবে না?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10cm - 20cm",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "20 cm-30 cm",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "20cm - 40cm",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10 cm-40 cm",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10cm - 20cm",
+      "option_b": "20 cm-30 cm",
+      "option_c": "20cm - 40cm",
+      "option_d": "10 cm-40 cm",
+      "correct": "ক",
+      "explanation": "কোনো লেন্সের বস্তুর অবস্থান f হতে 2f এর মধ্যে হলে বিম্ব বস্তুর সমান কিংবা বড় হবে। যেহেতু f = 10cm ∴ \\therefore ∴ 2f = 20 cm অর্থাৎ, m এর মান 1 অপেক্ষা বড় হবে যদি বস্তুটি 10 - 20cm এর মাঝে থাকে।"
+    },
+    {
+      "number": "19",
+      "tag": "MB 24",
+      "question": "ইলেকট্রনিক সার্কিটে ট্রানজিস্টর ব্যবহার হয়- i. বিবর্ধক হিসেবে ii. রেকটিফায়ার হিসেবে iii. সংগ্রাহক হিসেবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. ইলেকট্রনিক সার্কিটে ছোট সিগন্যালকে বড় করার জন্য ট্রানজিস্টর ব্যবহার করা হয়। এজন্য ট্রানজিস্টরকে অ্যামপ্লিফায়ার বা বিবর্ধক বলা হয়। ii. ডায়োড এসি সিগন্যালের নেগেটিভ অংশ অপসারণ করে পজিটিভ অংশ আউটপুট হিসাবে দেখায়। অর্থাৎ, সিগন্যালকে রেকটিফাই করে বা একমুখী করে। এজন্য ডায়োড রেকটিফায়ার হিসাবে ব্যবহার করা হয়। iii. তড়িৎ প্রবাহের দিক নির্ধারণে সংগ্রাহক ট্রানজিস্টরে গুরুত্বপূর্ণ ভূমিকা পালন করে।"
+    },
+    {
+      "number": "20",
+      "tag": "MB 24,DIN.B 24",
+      "question": "2 kg ভরের একটি বস্তু Q এর উপর প্রযুক্ত বল বনাম সময়ের লেখচিত্র: উদ্দীপকের লেখচিত্রের ঢাল এর একক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "k g m s − 1 \\mathrm{kg} \\mathrm{ms}^{-1} kg ms − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "k g m s − 2 \\mathrm{kg} \\mathrm{ms}^{-2} kg ms − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "k g − 1   m − 1   s − 2 \\mathrm{kg}^{-1} \\mathrm{~m}^{-1} \\mathrm{~s}^{-2} kg − 1   m − 1   s − 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "k g m s − 3 \\mathrm{kg} \\mathrm{ms}^{-3} kg ms − 3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "k g m s − 1 \\mathrm{kg} \\mathrm{ms}^{-1} kg ms − 1",
+      "option_b": "k g m s − 2 \\mathrm{kg} \\mathrm{ms}^{-2} kg ms − 2",
+      "option_c": "k g − 1   m − 1   s − 2 \\mathrm{kg}^{-1} \\mathrm{~m}^{-1} \\mathrm{~s}^{-2} kg − 1   m − 1   s − 2",
+      "option_d": "k g m s − 3 \\mathrm{kg} \\mathrm{ms}^{-3} kg ms − 3",
+      "correct": "ঘ",
+      "explanation": "ঢাল এর একক, m = F  এর একক.  t  এর একক  = N s = k g m s − 2   s = k g m s − 3 \\mathrm{m}=\\frac{\\mathrm{F} \\text { এর একক. }}{\\mathrm{t} \\text { এর একক }}=\\frac{\\mathrm{N}}{\\mathrm{s}}=\\frac{\\mathrm{kgms}^{-2}}{\\mathrm{~s}}=\\mathrm{kgms}^{-3} m = t   এর   একক   F   এর   একক .  ​ = s N ​ =   s kgms − 2 ​ = kgms − 3 (ঢাল = লম্ব ÷ভূমি)"
+    },
+    {
+      "number": "21",
+      "tag": "MB 24,DIN.B 24",
+      "question": "2 kg ভরের একটি বস্তু Q এর উপর প্রযুক্ত বল বনাম সময়ের লেখচিত্র: Q এর ক্ষেত্রে- i. A বিন্দুতে সর্বোচ্চ গতিশক্তি অর্জন করে ii. OA এবং AB অংশের ভরবেগের পরিবর্তন সমান iii. OA এবং AB অংশের অসম ত্বরণ ক্রিয়াশীল নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "i. O এবং B বিন্দুতে বল শূন্য সুতরাং উভয় ক্ষেত্রে ত্বরণ শূন্য। A বিন্দুতে ত্বরণ a = F m = 20 2 = 10   m s − 2 \\mathrm{a}=\\frac{\\mathrm{F}}{\\mathrm{m}}=\\frac{20}{2}=10 \\mathrm{~ms}^{-2} a = m F ​ = 2 20 ​ = 10   ms − 2 যা সর্বোচ্চ। A বিন্দুতে বেগ v A = u A + a t = 0 + 10 × 15 = 1.50   m s − 1 \\mathrm{v}_{\\mathrm{A}}=\\mathrm{u}_{\\mathrm{A}}+\\mathrm{at}=0+10 \\times 15=1.50 \\mathrm{~ms}^{-1} v A ​ = u A ​ + at = 0 + 10 × 15 = 1.50   ms − 1 ∴ \\therefore ∴ এবং সর্বোচ্চ গতিশক্তি T A = 1 2 m v A 2 = 1 2 × 2 × ( 150 ) 2 = 22500   J \\mathrm{T}_{\\mathrm{A}}=\\frac{1}{2} \\mathrm{mv}_{\\mathrm{A}}^{2}=\\frac{1}{2} \\times 2 \\times(150)^{2}=22500 \\mathrm{~J} T A ​ = 2 1 ​ mv A 2 ​ = 2 1 ​ × 2 × ( 150 ) 2 = 22500   J ii. OA অংশে ভরবেগের পরিবর্তন Δ P O A = m v A − m u o = 2 × 150 − \\Delta \\mathrm{P}_{\\mathrm{OA}}=\\mathrm{mv}_{\\mathrm{A}}-\\mathrm{mu}_{\\mathrm{o}}=2 \\times 150- Δ P OA ​ = mv A ​ − mu o ​ = 2 × 150 − 2 × a = 300 k g m s − 1 2 \\times a=300 \\mathrm{kgms}^{-1} 2 × a = 300 kgms − 1 AB অংশে ভরবেগের পরিবর্তন △ P A B = m l B − m v A = 2 × 0 − 2 \\triangle \\mathrm{P}_{\\mathrm{AB}}=\\mathrm{ml}_{\\mathrm{B}}-\\mathrm{mv}_{\\mathrm{A}}=2 \\times 0-2 △ P AB ​ = ml B ​ − mv A ​ = 2 × 0 − 2 × 150 = − 300 k g m s − 1 \\times 150=-300 \\mathrm{kgms}^{-1} × 150 = − 300 kgms − 1 iii. স্থির ভরের কোনো বস্তুর ওপর প্রযুক্ত বলের পরিবর্তন হওয়ার অর্থ এর ত্বরণের পরিবর্তন হওয়া। অর্থাৎ, OA এবং AB অংশে অসম ত্বরণ ক্রিয়াশীল।"
+    },
+    {
+      "number": "22",
+      "tag": "MB 24",
+      "question": "লক্ষ্যবস্তুর প্রতিবিম্বের ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বাস্তব, সোজা ও বিবর্ধিত",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অবাস্তব, সোজা ও বিবর্ধিত",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "অবাস্তব, সোজা ও খর্বিত",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বাস্তব, উল্টো ও খর্বিত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বাস্তব, সোজা ও বিবর্ধিত",
+      "option_b": "অবাস্তব, সোজা ও বিবর্ধিত",
+      "option_c": "অবাস্তব, সোজা ও খর্বিত",
+      "option_d": "বাস্তব, উল্টো ও খর্বিত",
+      "correct": "খ",
+      "explanation": "f = C P 2 = 20 2 = 10   c m ; u = O P = 8   c m \\mathrm{f}=\\frac{\\mathrm{CP}}{2}=\\frac{20}{2}=10 \\mathrm{~cm} ; \\mathrm{u}=\\mathrm{OP}=8 \\mathrm{~cm} f = 2 CP ​ = 2 20 ​ = 10   cm ; u = OP = 8   cm ∴ 1 f = 1 u + 1 v \\therefore \\frac{1}{\\mathrm{f}}=\\frac{1}{\\mathrm{u}}+\\frac{1}{\\mathrm{v}} ∴ f 1 ​ = u 1 ​ + v 1 ​ বা, 1 10 = 1 8 + 1 v \\frac{1}{10}=\\frac{1}{8}+\\frac{1}{\\mathrm{v}} 10 1 ​ = 8 1 ​ + v 1 ​ বা, v = − 40   c m \\mathrm{v}=-40 \\mathrm{~cm} v = − 40   cm যেহেতু V = − 40   c m =-40 \\mathrm{~cm} = − 40   cm সুসুতরাং প্রতিবিম্ব অবাস্তব। m = ∣ v u ∣ = ∣ − 40 8 ∣ = 5 \\mathrm{m}=\\left|\\frac{\\mathrm{v}}{\\mathrm{u}}\\right|=\\left|\\frac{-40}{8}\\right|=5 m = ​ u v ​ ​ = ​ 8 − 40 ​ ​ = 5 ; বিবর্ধিত লক্ষ্যবস্তু দর্পণের মেরু ও ফোকাসের মধ্যে থাকায় অবাস্তব, সোজা ও বিবর্ধিত প্রতিবিম্ব দর্পণের পেছনে গঠিত হবে।"
+    },
+    {
+      "number": "23",
+      "tag": "MB 24",
+      "question": "নিউক্লিয়াসের ভিতরে প্রোটন ও নিউট্রনের মধ্যে কোন বল কাজ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বিদ্যুৎ চৌম্বকীয় বল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মহাকর্ষ বল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "দুর্বল নিউক্লিয় বল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সবল নিউক্লিয় বল",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বিদ্যুৎ চৌম্বকীয় বল",
+      "option_b": "মহাকর্ষ বল",
+      "option_c": "দুর্বল নিউক্লিয় বল",
+      "option_d": "সবল নিউক্লিয় বল",
+      "correct": "ঘ",
+      "explanation": "পরমাণুর নিউক্লিয়াসে প্রোটন ও নিউট্রনকে আবদ্ধ করে রাখতে এদের মধ্যে সবল নিউক্লিয় বল কাজ করে।"
+    },
+    {
+      "number": "1",
+      "tag": "MB 24",
+      "question": "সুপ্ততাপ পদার্থের কোনটির পরিবর্তন ঘটায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "চাপের",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "তাপের",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তাপমাত্রার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অবস্থার",
+          "is_correct": true
+        }
+      ],
+      "option_a": "চাপের",
+      "option_b": "তাপের",
+      "option_c": "তাপমাত্রার",
+      "option_d": "অবস্থার",
+      "correct": "ঘ",
+      "explanation": "সুপ্ততাপ কোনো পদার্থের তাপমাত্রার পরিবর্তন ঘটায় না, শুধু অবস্থার পরিবর্তন ঘটায়। এই তাপের জন্য কঠিন পদার্থ তরলে এবং তরল পদার্থ গ্যাসীয় পদার্থে পরিণত হয়।"
+    },
+    {
+      "number": "2",
+      "tag": "MB 24",
+      "question": "কেরোসিনের বাষ্পায়ন নিচের কোনটির উপর নির্ভরশীল নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ঘনত্ব",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ক্ষেত্রফল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "চাপ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "উষ্ণতা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ঘনত্ব",
+      "option_b": "ক্ষেত্রফল",
+      "option_c": "চাপ",
+      "option_d": "উষ্ণতা",
+      "correct": "ক",
+      "explanation": "প্রতিটি পদার্থের বাষ্পায়ন নির্দিষ্ট বৈশিষ্ট্যের উপরে নির্ভর করে। সেগুলো হলো চাপ, ক্ষেত্রফল ও উষ্ণতা। ঘনত্বের এখানে কোনো প্রভাব নেই কারণ প্রত্যেক পদার্থের ঘনত্ব নির্দিষ্ট। এটির কখনো পরিবর্তন হয় না"
+    }
+  ]
+}

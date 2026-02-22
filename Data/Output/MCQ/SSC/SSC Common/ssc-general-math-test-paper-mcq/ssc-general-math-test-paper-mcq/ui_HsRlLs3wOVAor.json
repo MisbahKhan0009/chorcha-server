@@ -1,0 +1,931 @@
+{
+  "read_id": "ui_HsRlLs3wOVAor",
+  "title": "রংপুর ক্যাডেট কলেজ ২০২৫",
+  "count": 28,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RCC 25",
+      "question": "U= {1, 2, 3, 4, 5, 6, 7, 8, 9}, A = {1, 2, 3, 4} এবং B= (2, 3, 5} হলে A-B° এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{1,4}",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{1, 2, 8)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(1,2, 3}",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{5}",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{1,4}",
+      "option_b": "{1, 2, 8)",
+      "option_c": "(1,2, 3}",
+      "option_d": "{5}",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "RCC 25",
+      "question": "a 8 -a 4 -2 এর উৎপাদক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(a 4 +1)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "(a 4 -1)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(a 4 +2)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(a 4 +1)(a 4 +2)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(a 4 +1)",
+      "option_b": "(a 4 -1)",
+      "option_c": "(a 4 +2)",
+      "option_d": "(a 4 +1)(a 4 +2)",
+      "correct": "ক",
+      "explanation": "প্রদত্ত রাশি = a 8 − a 4 − 2 = a^8 - a^4 - 2 = a 8 − a 4 − 2 = a 8 − 2 a 4 + a 4 − 2 = a^8 - 2a^4 + a^4 - 2 = a 8 − 2 a 4 + a 4 − 2 = a 4 ( a 4 − 2 ) + 1 ( a 4 − 2 ) = a^4 (a^4 - 2) + 1 (a^4 - 2) = a 4 ( a 4 − 2 ) + 1 ( a 4 − 2 ) = ( a 4 − 2 ) ( a 4 + 1 ) = (a^4 - 2) (a^4 + 1) = ( a 4 − 2 ) ( a 4 + 1 )"
+    },
+    {
+      "number": "3",
+      "tag": "RCC 25",
+      "question": "x − 2 x = 2 m x - \\frac{2}{x} = 2m x − x 2 ​ = 2 m হলে 6 m x 2 − 2 m x − 1 \\frac{6m}{x^2 - 2mx - 1} x 2 − 2 m x − 1 6 m ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-6m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3m",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6m",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-6m",
+      "option_b": "-3m",
+      "option_c": "3m",
+      "option_d": "6m",
+      "correct": "ঘ",
+      "explanation": "দেওয়া আছে, x − 2 x = 2 m x - \\frac{2}{x} = 2m x − x 2 ​ = 2 m বা, x 2 − 2 = 2 m x x^2 - 2 = 2mx x 2 − 2 = 2 m x ∴ x 2 − 2 m x = 2 \\therefore x^2 - 2mx = 2 ∴ x 2 − 2 m x = 2 প্রদত্ত রাশি = 6 m x 2 − 2 m x − 1 = 6 m 2 − 1 = 6 m = \\frac{6m}{x^2 - 2mx - 1} = \\frac{6m}{2-1} = 6m = x 2 − 2 m x − 1 6 m ​ = 2 − 1 6 m ​ = 6 m"
+    },
+    {
+      "number": "4",
+      "tag": "RCC 25",
+      "question": "A = {2, 3, 5} এবং R = {(x, y): x ∈ A, y ∈ A এবং y = x − 1 y = x-1 y = x − 1 } হলে R অন্বয়টি নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{(2, 3)}",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{(3, 2)}",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "{(3,3)}",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{(5,5)}",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{(2, 3)}",
+      "option_b": "{(3, 2)}",
+      "option_c": "{(3,3)}",
+      "option_d": "{(5,5)}",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "RCC 25",
+      "question": "কোনো একটি পাত্রে দুধ ও পানির অনুপাত 5:2। দুধের পরিমাণ পানির চেয়ে 6 লিটার বেশি হলে পানির পরিমাণ কত লিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "14",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "6",
+      "option_c": "10",
+      "option_d": "14",
+      "correct": "ক",
+      "explanation": "ধরি, পানির পরিমাণ x লিটার প্রশ্নমতে, x + 6 x = 5 2 \\frac{x+6}{x} = \\frac{5}{2} x x + 6 ​ = 2 5 ​ বা, 2 x + 12 = 5 x 2x + 12 = 5x 2 x + 12 = 5 x বা, 3 x = 12 3x = 12 3 x = 12 ∴ x = 4 \\therefore x = 4 ∴ x = 4 লিটার"
+    },
+    {
+      "number": "6",
+      "tag": "RCC 25",
+      "question": "কোনো একটি বৃত্তচাপ বৃত্তের কেন্দ্রে 60° কোণ উৎপন্ন করে এবং বৃত্তের উপরস্থ P বিন্দুতে 30° কোণ উৎপন্ন করে। P বিন্দুটির অবস্থান কোথায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "উপচাপে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অধিচাপে",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "কেন্দ্রে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "জ্যা এর মধ্যবিন্দুতে",
+          "is_correct": false
+        }
+      ],
+      "option_a": "উপচাপে",
+      "option_b": "অধিচাপে",
+      "option_c": "কেন্দ্রে",
+      "option_d": "জ্যা এর মধ্যবিন্দুতে",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "RCC 25",
+      "question": "নিচেরতথ্যের আলোকে প্রশ্নের উত্তর দাও: 7.1. BC-10 সে.মি. এবং AB = ৪ সে.মি, হলে OP এর মান কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6",
+      "option_b": "5",
+      "option_c": "4",
+      "option_d": "3",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "RCC 25",
+      "question": "(6x - y, 13) = (1, 3x + 2y) হলে (x, y) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(1,5)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "(5,1)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(2,5)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{1,5}",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(1,5)",
+      "option_b": "(5,1)",
+      "option_c": "(2,5)",
+      "option_d": "{1,5}",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "RCC 25",
+      "question": "10 সে.মি. অতিভুজ ও 6 সে.মি. বাহুবিশিষ্ট একটি সমকোণী ত্রিভুজ অঙ্কন করতে অতিভুজ অঙ্কনের আগে কোনটি করতে হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "একটি প্রান্তে 45° কোণ অঙ্কন করা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "একটি প্রান্তে লম্ব অঙ্কন করে 6 সে.মি. চিহ্নিত করা",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "মধ্যবিন্দু থেকে উচ্চতা অঙ্কন করা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মধ্যবিন্দু থেকে 6 সে.মি. ব্যাসার্ধবিশিষ্ট বৃত্তচাপ অঙ্কন করা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "একটি প্রান্তে 45° কোণ অঙ্কন করা",
+      "option_b": "একটি প্রান্তে লম্ব অঙ্কন করে 6 সে.মি. চিহ্নিত করা",
+      "option_c": "মধ্যবিন্দু থেকে উচ্চতা অঙ্কন করা",
+      "option_d": "মধ্যবিন্দু থেকে 6 সে.মি. ব্যাসার্ধবিশিষ্ট বৃত্তচাপ অঙ্কন করা",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "RCC 25",
+      "question": "a b = c d = e f = 4 9 \\frac{a}{b} = \\frac{c}{d} = \\frac{e}{f} = \\frac{4}{9} b a ​ = d c ​ = f e ​ = 9 4 ​ হলে a + c + e b + d + f \\frac{a+c+e}{b+d+f} b + d + f a + c + e ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 9 \\frac{4}{9} 9 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 9 \\frac{4}{9} 9 4 ​",
+      "option_b": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "RCC 25",
+      "question": "কোনো বর্গের ক্ষেত্রফল 16 বর্গ সে.মি. হলে বর্গের কর্ণের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4 2 \\frac{4}{\\sqrt{2}} 2 ​ 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 2 4\\sqrt{2} 4 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "8 2 8\\sqrt{2} 8 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "4 2 \\frac{4}{\\sqrt{2}} 2 ​ 4 ​",
+      "option_c": "4 2 4\\sqrt{2} 4 2 ​",
+      "option_d": "8 2 8\\sqrt{2} 8 2 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "RCC 25",
+      "question": "বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে অঙ্কিত স্পর্শকদ্বয়ের মধ্যে অন্তর্ভুক্ত কোণ 70° হলে স্পর্শবিন্দুদ্বয় দ্বারা আবদ্ধ কেন্দ্রস্থ কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "70°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "110°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "140°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "180°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "70°",
+      "option_b": "110°",
+      "option_c": "140°",
+      "option_d": "180°",
+      "correct": "খ",
+      "explanation": "O O O কেন্দ্রবিশিষ্ট বৃত্তে P A PA P A ও P B PB PB স্পর্শক। প্রশ্নমতে, ∠ A P B = 70 ∘ \\angle APB = 70^\\circ ∠ A PB = 7 0 ∘ এখন, O A ⊥ P A OA \\perp PA O A ⊥ P A এবং O B ⊥ P B OB \\perp PB OB ⊥ PB বলে ∠ P A O = ∠ P B O = 90 ∘ \\angle PAO = \\angle PBO = 90^\\circ ∠ P A O = ∠ PBO = 9 0 ∘ এখন, A P B O APBO A PBO চতুর্ভুজ, ∠ A O B + ∠ P B O + ∠ A P B + ∠ P A O = 360 ∘ \\angle AOB + \\angle PBO + \\angle APB + \\angle PAO = 360^\\circ ∠ A OB + ∠ PBO + ∠ A PB + ∠ P A O = 36 0 ∘ বা, ∠ A O B + 90 ∘ + 70 ∘ + 90 ∘ = 360 ∘ \\angle AOB + 90^\\circ + 70^\\circ + 90^\\circ = 360^\\circ ∠ A OB + 9 0 ∘ + 7 0 ∘ + 9 0 ∘ = 36 0 ∘ ∴ ∠ A O B = 360 ∘ − 250 ∘ = 110 ∘ \\therefore \\angle AOB = 360^\\circ - 250^\\circ = 110^\\circ ∴ ∠ A OB = 36 0 ∘ − 25 0 ∘ = 11 0 ∘"
+    },
+    {
+      "number": "13",
+      "tag": "RCC 25",
+      "question": "কোনো জমিতে সেচের আগের ও পরের ধান , উৎপাদনের অনুপাত 5: 7। পূর্বে জমিটিতে ধান উৎপাদনের পরিমাণ 305 কুইন্টাল হলে সেচের পরে ধান উৎপাদনের পরিমাণ কত কুইন্টাল?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "217.86",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "427",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "472",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "477.94",
+          "is_correct": false
+        }
+      ],
+      "option_a": "217.86",
+      "option_b": "427",
+      "option_c": "472",
+      "option_d": "477.94",
+      "correct": "খ",
+      "explanation": "ধরি, সেচের পরে ধান উৎপাদনের পরিমাণ x x x কুইন্টাল প্রশ্নমতে, 5 7 = 305 x \\frac{5}{7} = \\frac{305}{x} 7 5 ​ = x 305 ​ বা, x = 305 × 7 5 x = \\frac{305 \\times 7}{5} x = 5 305 × 7 ​ ∴ x = 427 \\therefore x = 427 ∴ x = 427 কুইন্টাল"
+    },
+    {
+      "number": "14",
+      "tag": "RCC 25",
+      "question": "কোনো স্থূলকোণী ত্রিভুজ অঙ্কন করতে স্থূলকোণ ব্যতীত অপর কোণদ্বয়য় নিচের কোনটি হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30° এবং 60°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40° এবং 50°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45° এবং 45°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "50° এবং 30°",
+          "is_correct": true
+        }
+      ],
+      "option_a": "30° এবং 60°",
+      "option_b": "40° এবং 50°",
+      "option_c": "45° এবং 45°",
+      "option_d": "50° এবং 30°",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "",
+      "tag": "RCC 25",
+      "question": "নম্বর 41-50 51-60 61-70 71-80 81-90 91-100 ছাত্রসংখ্যা 1 2 5 12 17 2 প্রচুরক শ্রেণির পূর্বের শ্রেণির মধ্যমান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "95.5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "82.5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": ".85.5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "75.5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "95.5",
+      "option_b": "82.5",
+      "option_c": ".85.5",
+      "option_d": "75.5",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "RCC 25",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও: sec ⁡ 2 A csc ⁡ 2 A = 1 3 \\frac{\\sec^2 A}{\\csc^2 A} = \\frac{1}{3} c s c 2 A s e c 2 A ​ = 3 1 ​ 16.1. csc ⁡ 2 A − sec ⁡ 2 A csc ⁡ 2 A + sec ⁡ 2 A \\frac{\\csc 2A - \\sec 2A}{\\csc 2A + \\sec 2A} c s c 2 A + s e c 2 A c s c 2 A − s e c 2 A ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 + 3 2 \\frac{\\sqrt{5} + \\sqrt{3}}{2} 2 5 ​ + 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 − 2 \\sqrt{3} - 2 3 ​ − 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 − 3 2 - \\sqrt{3} 2 − 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 − 3 2 \\frac{\\sqrt{5} - \\sqrt{3}}{2} 2 5 ​ − 3 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 + 3 2 \\frac{\\sqrt{5} + \\sqrt{3}}{2} 2 5 ​ + 3 ​ ​",
+      "option_b": "3 − 2 \\sqrt{3} - 2 3 ​ − 2",
+      "option_c": "2 − 3 2 - \\sqrt{3} 2 − 3 ​",
+      "option_d": "5 − 3 2 \\frac{\\sqrt{5} - \\sqrt{3}}{2} 2 5 ​ − 3 ​ ​",
+      "correct": "খ",
+      "explanation": "দেওয়া আছে, sec ⁡ 2 A cosec ⁡ 2 A = 1 3 \\frac{\\sec^2 A}{\\operatorname{cosec}^2 A} = \\frac{1}{3} cosec 2 A s e c 2 A ​ = 3 1 ​ বা, sin ⁡ 2 A cos ⁡ 2 A = 1 3 \\frac{\\sin^2 A}{\\cos^2 A} = \\frac{1}{3} c o s 2 A s i n 2 A ​ = 3 1 ​ বা, tan ⁡ 2 A = 1 3 \\tan^2 A = \\frac{1}{3} tan 2 A = 3 1 ​ বা, tan ⁡ A = 1 3 = tan ⁡ 30 ∘ ∴ A = 30 ∘ \\tan A = \\frac{1}{\\sqrt{3}} = \\tan 30^\\circ \\therefore A = 30^\\circ tan A = 3 ​ 1 ​ = tan 3 0 ∘ ∴ A = 3 0 ∘ এখন, cosec2A sec2A = cos ⁡ 2 A sin ⁡ 2 A = cot ⁡ 2 A = cot ⁡ 60 ∘ = 1 3 \\frac{\\text{cosec2A}}{\\text{sec2A}} = \\frac{\\cos2A}{\\sin2A} = \\cot2A = \\cot 60^\\circ = \\frac{1}{\\sqrt{3}} sec2A cosec2A ​ = s i n 2 A c o s 2 A ​ = cot 2 A = cot 6 0 ∘ = 3 ​ 1 ​ ∴ cosec2A − sec2A cosec2A + sec2A = 1 − 3 1 + 3 \\therefore \\frac{\\text{cosec2A} - \\text{sec2A}}{\\text{cosec2A} + \\text{sec2A}} = \\frac{1-\\sqrt{3}}{1+\\sqrt{3}} ∴ cosec2A + sec2A cosec2A − sec2A ​ = 1 + 3 ​ 1 − 3 ​ ​ [যোজন বিয়োজন করে] = ( 1 − 3 ) ( 1 − 3 ) ( 1 + 3 ) ( 1 − 3 ) = 1 − 2 3 + 3 1 − ( 3 ) 2 = 4 − 2 3 − 2 = 3 − 2 = \\frac{(1-\\sqrt{3})(1-\\sqrt{3})}{(1+\\sqrt{3})(1-\\sqrt{3})} = \\frac{1-2\\sqrt{3}+3}{1-(\\sqrt{3})^2} = \\frac{4-2\\sqrt{3}}{-2} = \\sqrt{3}-2 = ( 1 + 3 ​ ) ( 1 − 3 ​ ) ( 1 − 3 ​ ) ( 1 − 3 ​ ) ​ = 1 − ( 3 ​ ) 2 1 − 2 3 ​ + 3 ​ = − 2 4 − 2 3 ​ ​ = 3 ​ − 2"
+    },
+    {
+      "number": "17",
+      "tag": "RCC 25",
+      "question": "a³- b³ = 513 এবং a-b = 3 হলে 5ab এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "54",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "90",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "162",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "270",
+          "is_correct": true
+        }
+      ],
+      "option_a": "54",
+      "option_b": "90",
+      "option_c": "162",
+      "option_d": "270",
+      "correct": "ঘ",
+      "explanation": "a 3 − b 3 = 513 a^3-b^3=513 a 3 − b 3 = 513 বা, ( a − b ) 3 + 3 a b ( a − b ) = 513 (a - b)^3 + 3ab (a - b) = 513 ( a − b ) 3 + 3 ab ( a − b ) = 513 বা, 3 3 + 3 a b .3 = 513 3^3+3ab.3 = 513 3 3 + 3 ab .3 = 513 বা, 9 a b = 486 9ab = 486 9 ab = 486 বা, 5 a b = 486 × 5 9 ∴ 5 a b = 270 5ab = \\frac{486 \\times 5}{9} \\therefore 5ab = 270 5 ab = 9 486 × 5 ​ ∴ 5 ab = 270"
+    },
+    {
+      "number": "18",
+      "tag": "RCC 25",
+      "question": "কোনো সুষম ষড়ভুজের শীর্ষবিন্দুতে উৎপন্ন কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "120°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "135°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "180°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "45°",
+      "option_b": "120°",
+      "option_c": "135°",
+      "option_d": "180°",
+      "correct": "খ",
+      "explanation": "সুষম বহুভুজের শীর্ষকোণ = ( n − 2 ) × 180 ∘ n = \\frac{(n-2) \\times 180^\\circ}{n} = n ( n − 2 ) × 18 0 ∘ ​ ∴ \\therefore ∴ সুষম ষড়ভুজের শীর্ষকোণ = ( 6 − 2 ) × 180 ∘ 6 = 4 × 30 ∘ = 120 ∘ = \\frac{(6-2) \\times 180^\\circ}{6} = 4 \\times 30^\\circ = 120^\\circ = 6 ( 6 − 2 ) × 18 0 ∘ ​ = 4 × 3 0 ∘ = 12 0 ∘"
+    },
+    {
+      "number": "19",
+      "tag": "RCC 25",
+      "question": "একটি সিলিন্ডারের বক্রতলের ক্ষেত্রফল 4400 বর্গ সে.মি.। সিলিন্ডারটির উচ্চতা 30 সে.মি. হলে, ভূমির ব্যাসার্ধকত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7823.591 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7883:591 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "46.34267 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "23.34267'সে.মি.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "7823.591 সে.মি.",
+      "option_b": "7883:591 সে.মি.",
+      "option_c": "46.34267 সে.মি.",
+      "option_d": "23.34267'সে.মি.",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "20",
+      "tag": "RCC 25",
+      "question": "x + 1 x = 5 x + \\frac{1}{x} = 5 x + x 1 ​ = 5 হলে– i. x 2 − 1 x 2 = 5 21 x^2 - \\frac{1}{x^2} = 5\\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ ii. x 3 + 1 x 3 = 110 x^3 + \\frac{1}{x^3} = 110 x 3 + x 3 1 ​ = 110 iii. x 2 − 5 x − 1 = 0 x^2 - 5x - 1 = 0 x 2 − 5 x − 1 = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i, ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i, iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii, iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii, iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i, ii",
+      "option_b": "i, iii",
+      "option_c": "ii, iii",
+      "option_d": "i, ii, iii",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "RCC 25",
+      "question": "নিচের কোনটি নির্ণয়ের জন্য Fc প্রয়োজন হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "গড়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মধ্যক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "প্রচুরক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পরিসর",
+          "is_correct": false
+        }
+      ],
+      "option_a": "গড়",
+      "option_b": "মধ্যক",
+      "option_c": "প্রচুরক",
+      "option_d": "পরিসর",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "RCC 25",
+      "question": "cos 2 A sec 2  A − 1 = ? \\text{cos}^2\\text{A}\\sqrt{\\text{sec}^2\\text{ A}-1}=? cos 2 A sec 2  A − 1 ​ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "cos A",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "cos A sin A",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "cos A tan Ả.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "cos A",
+      "option_c": "cos A sin A",
+      "option_d": "cos A tan Ả.",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "RCC 25",
+      "question": "চিত্রটিতে cos A = sin C \\text{cos A = sin C} cos A = sin C cot C = 3 2 \\text{cot C} = \\frac{\\sqrt{3}}{2} cot C = 2 3 ​ ​ sec A − cos A = 3 2 \\text{sec A} - \\text{cos A} = \\frac{3}{2} sec A − cos A = 2 3 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i, ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i, iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii, iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii, iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i, ii",
+      "option_b": "i, iii",
+      "option_c": "ii, iii",
+      "option_d": "i, ii, iii",
+      "correct": "খ",
+      "explanation": "∆ABC এ AB = 1, AC = 2 ∴ B C = A C 2 − A B 2 = 2 2 − 1 2 = 3 \\therefore BC = \\sqrt{AC^2 - AB^2} = \\sqrt{2^2 - 1^2} = \\sqrt{3} ∴ BC = A C 2 − A B 2 ​ = 2 2 − 1 2 ​ = 3 ​ ∴ cot ⁡ C = B C A B = 3 1 = 3 \\therefore \\cot C = \\frac{BC}{AB} = \\frac{\\sqrt{3}}{1} = \\sqrt{3} ∴ cot C = A B BC ​ = 1 3 ​ ​ = 3 ​ (ii) নং তথ্যটি সঠিক নয়।"
+    },
+    {
+      "number": "24",
+      "tag": "RCC 25",
+      "question": "কোনো একটি বৃত্তের ক্ষেত্রফল বর্গের ক্ষেত্রফলের সমান হলে এদের পরিসীমার অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π : 2 \\pi : 2 π : 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 : π 2 : \\pi 2 : π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 : π 2 : \\sqrt{\\pi} 2 : π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π : 2 \\sqrt{\\pi} : 2 π ​ : 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "π : 2 \\pi : 2 π : 2",
+      "option_b": "2 : π 2 : \\pi 2 : π",
+      "option_c": "2 : π 2 : \\sqrt{\\pi} 2 : π ​",
+      "option_d": "π : 2 \\sqrt{\\pi} : 2 π ​ : 2",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "RCC 25",
+      "question": "1 থেকে 25 পর্যন্ত স্বাভাবিক সংখ্যাগুলোর মধ্যে ও দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "13.5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12",
+      "option_b": "13.5",
+      "option_c": "15",
+      "option_d": "16.5",
+      "correct": "খ",
+      "explanation": "1 থেকে 25 এর মধ্যে 3 দ্বারা বিভাজ্য স্বাভাবিক সংখ্যা 3, 6, 9, 12, 15, 18, 21, 24 এখানে, উপাত্ত সংখ্যা = 8 যা জোড় সংখ্যা ∴ মধ্যক = 8 2  তম পদ  + ( 8 2 + 1 )  তম পদ 2 = 4  তম পদ  + 5  তম পদ 2 \\therefore \\text{মধ্যক} = \\frac{\\frac{8}{2} \\text{ তম পদ } + \\left(\\frac{8}{2}+1\\right) \\text{ তম পদ}}{2} = \\frac{4 \\text{ তম পদ } + 5 \\text{ তম পদ}}{2} ∴ মধ্যক = 2 2 8 ​   তম   পদ   + ( 2 8 ​ + 1 )   তম   পদ ​ = 2 4   তম   পদ   + 5   তম   পদ ​ = 12 + 15 2 = 27 2 = 13.5 = \\frac{12 + 15}{2} = \\frac{27}{2} = 13.5 = 2 12 + 15 ​ = 2 27 ​ = 13.5"
+    },
+    {
+      "number": "26",
+      "tag": "RCC 25",
+      "question": "অজিভ রেখা অঙ্কনে y অক্ষ বরাবর নিচের কোনটি নেওয়া হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "গণসংখ্যা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মধ্যমান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "শ্রেণির উচ্চসীমা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ক্রমযোজিত গণসংখ্যা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "গণসংখ্যা",
+      "option_b": "মধ্যমান",
+      "option_c": "শ্রেণির উচ্চসীমা",
+      "option_d": "ক্রমযোজিত গণসংখ্যা",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "27",
+      "tag": "RCC 25",
+      "question": "sin4A = cos5A হলে A এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10°",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "20°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "45°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10°",
+      "option_b": "20°",
+      "option_c": "30°",
+      "option_d": "45°",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "28",
+      "tag": "RCC 25",
+      "question": "কোনো গণসংখ্যা সারণির প্রচুরক 42.666, L=41,f=5, f =25 হলে শ্রেণি ব্যবধান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "13",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9",
+      "option_b": "10",
+      "option_c": "12",
+      "option_d": "13",
+      "correct": "খ",
+      "explanation": "শ্রেণি ব্যবধান h h h হলে, প্রচুরক = = = L + + + f 1 f 1 + f 2 \\frac{f_1}{f_1 + f_2} f 1 ​ + f 2 ​ f 1 ​ ​ × \\times × h = = = 42.666 বা, 41 + + + 5 5 + 25 \\frac{5}{5 + 25} 5 + 25 5 ​ × \\times × h = = = 42.666 বা, 1 6 \\frac{1}{6} 6 1 ​ × \\times × h = = = 1.666 ∴ \\therefore ∴ h = = = 9.996 ≈ \\approx ≈ 10"
+    }
+  ]
+}

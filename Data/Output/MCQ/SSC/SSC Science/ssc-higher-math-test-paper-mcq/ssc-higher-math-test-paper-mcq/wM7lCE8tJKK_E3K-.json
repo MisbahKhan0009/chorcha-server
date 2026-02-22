@@ -1,0 +1,822 @@
+{
+  "read_id": "wM7lCE8tJKK_E3K-",
+  "title": "ঢাকা বোর্ড ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CB 23,CB 22,BB 20,DIN.B 19,All.B 18,ACC 24",
+      "question": "একটি সমবাহু ত্রিভুজের প্রতিটি মধ্যমার দৈর্ঘ্য 3 সে.মি. হলে প্রতিটি বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 2 \\sqrt{3} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 2 3 \\sqrt{2} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 3 4 \\sqrt{3} 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9 2 9 \\sqrt{2} 9 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 2 \\sqrt{3} 2 3 ​",
+      "option_b": "3 2 3 \\sqrt{2} 3 2 ​",
+      "option_c": "4 3 4 \\sqrt{3} 4 3 ​",
+      "option_d": "9 2 9 \\sqrt{2} 9 2 ​",
+      "correct": "ক",
+      "explanation": "একটি সমবাহু ত্রিভুজে প্রতিটি মধ্যমার দৈর্ঘ্য d = 3 d = 3 d = 3 সেমি হলে, সমবাহু ত্রিভুজের প্রতিটি বাহুর দৈর্ঘ্য a a a হবে । সমবাহু ত্রিভুজের মধ্যমার দৈর্ঘ্য ও বাহুর দৈর্ঘ্যের সম্পর্ক d = 3 2 a d = \\frac{\\sqrt{3}}{2}a d = 2 3 ​ ​ a । দেয়া নিয়ে সমীকরণে মান বসাই: 3 2 a = 3 \\frac{\\sqrt{3}}{2}a = 3 2 3 ​ ​ a = 3 অতএব, a = 2 × 3 3 a = \\frac{2 \\times 3}{\\sqrt{3}} a = 3 ​ 2 × 3 ​ a = 6 3 a = \\frac{6}{\\sqrt{3}} a = 3 ​ 6 ​ a = 2 3 a = 2\\sqrt{3} a = 2 3 ​ সেমি সুতরাং, প্রতিটি বাহুর দৈর্ঘ্য হল 2 3 2\\sqrt{3} 2 3 ​ সেমি।"
+    },
+    {
+      "number": "2",
+      "tag": "CB 20,All.B 18,ACC 24",
+      "question": "একটি ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 10 সে. মি. হলে ঐ ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল কত বর্গ সে. মি.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25 π 25 \\pi 25 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "100 π 100 \\pi 100 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "200 π 200 \\pi 200 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "400 π 400 \\pi 400 π",
+          "is_correct": true
+        }
+      ],
+      "option_a": "25 π 25 \\pi 25 π",
+      "option_b": "100 π 100 \\pi 100 π",
+      "option_c": "200 π 200 \\pi 200 π",
+      "option_d": "400 π 400 \\pi 400 π",
+      "correct": "ঘ",
+      "explanation": "একটি ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ (r) এবং পরিবৃন্তের ব্যাসার্ধ (R) এর মধ্যে সম্পর্ক হলো: r = R 2 r=\\frac{R}{2} r = 2 R ​ অর্থাৎ, R = 2 r R=2 r R = 2 r পরিবৃত্তের ব্যাসার্ধ নির্ণয় R = 2 × 10 = 20  সে.|মি.  R=2 \\times 10=20 \\text { সে.|মি. } R = 2 × 10 = 20   সে .| মি .  পরিবৃত্তের ক্ষেত্রফল নির্ণয় বৃত্তের ক্ষেত্রফলের সূত্র:  ক্ষেত্রফল  = π R 2 \\text { ক্ষেত্রফল }=\\pi R^{2}   ক্ষেত্রফল   = π R 2 মান বসিয়ে:  ক্ষেত্রফল  = π ( 20 ) 2 = 400 π  বর্গ সে.মি  \\text { ক্ষেত্রফল }=\\pi(20)^{2}=400 \\pi \\text { বর্গ সে.মি }   ক্ষেত্রফল   = π ( 20 ) 2 = 400 π   বর্গ   সে . মি"
+    },
+    {
+      "number": "3",
+      "tag": "DB 24",
+      "question": "একটি ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু যোগ করলে কোনটি গঠিত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সরলরেখা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "বৃত্ত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ত্রিভুজ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোণক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সরলরেখা",
+      "option_b": "বৃত্ত",
+      "option_c": "ত্রিভুজ",
+      "option_d": "কোণক",
+      "correct": "ক",
+      "explanation": "একটি ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু যোগ করলে একটি সরলরেখা পাওয়া যায়।"
+    },
+    {
+      "number": "4",
+      "tag": "DB 24",
+      "question": "2 + 5 x − 4 x 2 = 0 2+5 x-4 x^{2}=0 2 + 5 x − 4 x 2 = 0 সমীকরণের মূলগুলোর প্রকৃতি কেমন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মূলদ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অমূলদ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "সমান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "জটিল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মূলদ",
+      "option_b": "অমূলদ",
+      "option_c": "সমান",
+      "option_d": "জটিল",
+      "correct": "খ",
+      "explanation": "দ্বিঘাত সমীকরণের মৃলের প্রকৃতি বের করতে নিচের সৃত্র ব্যবহার করা হয়: D = b 2 − 4 a c D=b^{2}-4 a c D = b 2 − 4 a c যেখানে: - a = − 4 a=-4 a = − 4 - b = 5 b=5 b = 5 - c = 2 c=2 c = 2 এখন D D D এর মান গণনা: D = ( 5 ) 2 − 4 ( − 4 ) ( 2 ) = 25 + 32 = 57 D=(5)^{2}-4(-4)(2)=25+32=57 D = ( 5 ) 2 − 4 ( − 4 ) ( 2 ) = 25 + 32 = 57 ধাপ ২: মূলের প্রকৃতি বিশ্লেষণ - যেহেতু D = 57 > 0 D=57>0 D = 57 > 0 : সমীকরণটির দুটি পৃথক বাস্তব মূল আছে। - D D D পূর্ণ বর্গ সংখ্যা নয় (যেমন 57 ≠ 57 \\neq 57  = কোনো পূর্ণসংখ্যার বর্গ): তাই মূলগুলি অমূলদ (Irrational)।"
+    },
+    {
+      "number": "5",
+      "tag": "BB 25,DB 24,CTG.B 24,NISD 24,GLHSD 24,BAFSC 24,MB 23,SB 23,BB 23,DB 22,JB 22,BB 22,DB 21,DIN.B 21,CB 21,CTG.B 21,MB 20,SB 20",
+      "question": "1 , 0 , 1 , 0 … . . 1,0,1,0 \\ldots . . 1 , 0 , 1 , 0 … .. . অনুক্রমটির- i. সাধারণ পদ = 1 − ( − 1 ) 3 n 2 =\\frac{1-(-1)^{3 \\mathrm{n}}}{2} = 2 1 − ( − 1 ) 3 n ​ , যেখানে n ∈ R \\mathrm{n} \\in \\R n ∈ R \\qquad ii. 10 তম পদ = 0 iii. প্রথম 15 টি পদের সমষ্টি = 8 =8 = 8 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "প্রদত্ত অনুক্রম: 1 , 0 , 1 , 0 , … 1,0,1,0, \\ldots 1 , 0 , 1 , 0 , … i. সাধারণ পদ যাচাই: প্রস্তাবিত সাধারণ পদ: a n = 1 − ( − 1 ) 3 n 2 a_{n}=\\frac{1-(-1)^{3 n}}{2} a n ​ = 2 1 − ( − 1 ) 3 n ​ যাচাই: n = 1 : 1 − ( − 1 ) 3 2 = 1 − ( − 1 ) 2 = 1 n=1: \\frac{1-(-1)^{3}}{2}=\\frac{1-(-1)}{2}=1 n = 1 : 2 1 − ( − 1 ) 3 ​ = 2 1 − ( − 1 ) ​ = 1 n = 2 : 1 − ( − 1 ) 6 2 = 1 − 1 2 = 0 n=2: \\frac{1-(-1)^{6}}{2}=\\frac{1-1}{2}=0 n = 2 : 2 1 − ( − 1 ) 6 ​ = 2 1 − 1 ​ = 0 n = 3 : 1 − ( − 1 ) 9 2 = 1 n=3: \\frac{1-(-1)^{9}}{2}=1 n = 3 : 2 1 − ( − 1 ) 9 ​ = 1 n = 4 : 1 − ( − 1 ) 12 2 = 0 n=4: \\frac{1-(-1)^{12}}{2}=0 n = 4 : 2 1 − ( − 1 ) 12 ​ = 0 কিন্তু, n ∈ R n \\in \\mathbb{R} n ∈ R (যেকোনো বাস্তব সংখ্যা) হলে এর্টি ভুল, কারণ ( − 1 ) 3 n (-1)^{3 n} ( − 1 ) 3 n শুধুমাত্র n ∈ Z n \\in \\mathbb{Z} n ∈ Z (পূর্ণসংখ্যা) এর জন্য সংজ্ঞায়িত। সিদ্ধান্ত: X \\mathbf{X} X (শর্ত n ∈ R n \\in \\mathbb{R} n ∈ R অগ্রহণযোগ্য)। ii. 10ম পদ: বিজোড় স্থানে ( n n n বিজোড়) পদ = 1 =1 = 1 , জোড় স্থানে ( n n n জোড়) পদ = 0 =0 = 0 । 10 একর্টি জোড় সংখ্যা, তাই 10ম পদ = 0 ( সঠিক ) iii. প্রথম 15 টি পদের সমষ্টি: বিজোড় পদ সংখ্যা = 8 =8 = 8 টি ( 1 (1 ( 1 ম, 3 য়, ..., 15 তম ) → ) \\rightarrow ) → মান = 1 =1 = 1 জোড় পদ সংখ্যা = 7 =7 = 7 টি ( 2 (2 ( 2 য়, 4 র্থ, ..., 14 তম ) → ) \\rightarrow ) → মান = 0 =0 = 0 সমষ্টি = 8 × 1 + 7 × 0 = 8 =8 \\times 1+7 \\times 0=8 = 8 × 1 + 7 × 0 = 8 ( সঠিক )"
+    },
+    {
+      "number": "6",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "গ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "7",
+      "tag": "DB 24",
+      "question": "( 1 − x 2 3 ) 6 \\left(1-\\frac{x^{2}}{3}\\right)^{6} ( 1 − 3 x 2 ​ ) 6 এর বিস্তৃতিতে x x x বর্জিত পদের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 3 -\\frac{1}{3} − 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 1 3 -\\frac{1}{3} − 3 1 ​",
+      "option_b": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_c": "1",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "x x x বর্জিত পদের মান, 6 C 0 = 1 { }^{6} C_{0}=1 6 C 0 ​ = 1"
+    },
+    {
+      "number": "8",
+      "tag": "DB 24,GLHSD 24",
+      "question": "( y 4 − 2 + 1 y 4 ) 4 \\left(y^{4}-2+\\frac{1}{y^{4}}\\right)^{4} ( y 4 − 2 + y 4 1 ​ ) 4 এর বিস্তৃতির পদ সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "8",
+      "option_c": "9",
+      "option_d": "16",
+      "correct": "গ",
+      "explanation": "( y 4 − 2 + 1 y 4 ) 4 = { ( y 2 ) 2 − 2 ⋅ y 2 1 y 2 + ( 1 y 2 ) 2 } 4 = { ( y 2 − 1 y 2 ) 2 } 4 = ( y 2 − 1 y 2 ) 8 \\begin{aligned} \\left(y^{4}-2+\\frac{1}{y^{4}}\\right)^{4} & =\\left\\{\\left(y^{2}\\right)^{2}-2 \\cdot y^{2} \\frac{1}{y^{2}}+\\left(\\frac{1}{y^{2}}\\right)^{2}\\right\\}^{4} \\\\ & =\\left\\{\\left(y^{2}-\\frac{1}{y^{2}}\\right)^{2}\\right\\}^{4}=\\left(y^{2}-\\frac{1}{y^{2}}\\right)^{8} \\end{aligned} ( y 4 − 2 + y 4 1 ​ ) 4 ​ = { ( y 2 ) 2 − 2 ⋅ y 2 y 2 1 ​ + ( y 2 1 ​ ) 2 } 4 = { ( y 2 − y 2 1 ​ ) 2 } 4 = ( y 2 − y 2 1 ​ ) 8 ​ ∴ \\therefore ∴ বিস্তৃতিটির পদসংখ্যা = = 8 + 1 = 9 =8+1=9 = 8 + 1 = 9"
+    },
+    {
+      "number": "9",
+      "tag": "DB 24,CB 22,RB 21,DIN.B 19",
+      "question": "f ( x ) = ln ⁡ 8 + x 8 − x f(x)=\\ln \\frac{8+x}{8-x} f ( x ) = ln 8 − x 8 + x ​ এর ডোমেন নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 0 , 8 ) (0,8) ( 0 , 8 )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( − 8 , 8 ) (-8,8) ( − 8 , 8 )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "[ − 8 , 8 ] [-8,8] [ − 8 , 8 ]",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "[ 0 , 8 ] [0,8] [ 0 , 8 ]",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 0 , 8 ) (0,8) ( 0 , 8 )",
+      "option_b": "( − 8 , 8 ) (-8,8) ( − 8 , 8 )",
+      "option_c": "[ − 8 , 8 ] [-8,8] [ − 8 , 8 ]",
+      "option_d": "[ 0 , 8 ] [0,8] [ 0 , 8 ]",
+      "correct": "খ",
+      "explanation": "f ( x ) = ln ⁡ ( 8 + x 8 − x ) f(x)=\\ln \\left(\\frac{8+x}{8-x}\\right) f ( x ) = ln ( 8 − x 8 + x ​ ) ফাংলাটি সঙ্গায়িত হবে যদি 8 + x 8 − x > 0  হয়  \\frac{8+x}{8-x}>0 \\text { হয় } 8 − x 8 + x ​ > 0   হয়   x এর মান -৪ থেকে ৪ এর মধ্যে হলে 8 + x 8 − x > \\frac{8+x}{8-x}> 8 − x 8 + x ​ > হয় ∴ \\therefore ∴ ভোমেন ( − 8 , 8 ) (-8,8) ( − 8 , 8 ) । অবশ্যই খোলা কবরি হবে। কারন খোলা ব্যবধিতে -৪,৪ ধরা হয় না এর মাঝের মানগুলো ধরা হয়। অতএব (-৪,৪) ব্যবধিতে ফাংশনটি সঙ্গায়িত।"
+    },
+    {
+      "number": "10",
+      "tag": "CB 20",
+      "question": "log ⁡ 27 y = 1 1 3 \\log _{\\sqrt{27}} y=1 \\frac{1}{3} lo g 27 ​ ​ y = 1 3 1 ​ হলে y y y এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 1 3 3^{\\frac{1}{3}} 3 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 3 2 3^{\\frac{3}{2}} 3 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 1 3 3^{\\frac{1}{3}} 3 3 1 ​",
+      "option_b": "3 3 2 3^{\\frac{3}{2}} 3 2 3 ​",
+      "option_c": "9",
+      "option_d": "36",
+      "correct": "গ",
+      "explanation": "log ⁡ 27 x = 1 1 3 = 4 3 ⇒ ( 27 ) 4 3 = x ⇒ ( 27 ) 1 2 × 4 3 = x ⇒ ( 3 3 ) 2 3 = x ⇒ 3 2 = x 2 x = 9 \\begin{aligned} & \\log _{\\sqrt{27}} x=1 \\frac{1}{3}=\\frac{4}{3} \\\\ \\Rightarrow & (\\sqrt{27})^{\\frac{4}{3}}=x \\\\ \\Rightarrow & (27)^{\\frac{1}{2}} \\times \\frac{4}{3}=x \\\\ \\Rightarrow & \\left(3^{3}\\right)^{\\frac{2}{3}}=x \\\\ \\Rightarrow & 3^{2}=x \\\\ 2 x & =9\\end{aligned} ⇒ ⇒ ⇒ ⇒ 2 x ​ lo g 27 ​ ​ x = 1 3 1 ​ = 3 4 ​ ( 27 ​ ) 3 4 ​ = x ( 27 ) 2 1 ​ × 3 4 ​ = x ( 3 3 ) 3 2 ​ = x 3 2 = x = 9 ​"
+    },
+    {
+      "number": "11",
+      "tag": "DB 24,GLHSD 24",
+      "question": "2 x − 5 + 3 = 2 \\sqrt{2 x-5}+3=2 2 x − 5 ​ + 3 = 2 সমীকরণের সমাধান সেট কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "∅ \\varnothing ∅",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "{ 3 } \\{3\\} { 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ − 3 } \\{-3\\} { − 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ ± 3 } \\{ \\pm 3\\} { ± 3 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "∅ \\varnothing ∅",
+      "option_b": "{ 3 } \\{3\\} { 3 }",
+      "option_c": "{ − 3 } \\{-3\\} { − 3 }",
+      "option_d": "{ ± 3 } \\{ \\pm 3\\} { ± 3 }",
+      "correct": "ক",
+      "explanation": "2 x − 5 = 2 − 3 \\sqrt{2 x-5}=2-3 2 x − 5 ​ = 2 − 3 2 x − 5 = − 1 \\sqrt{2 x-5}=-1 2 x − 5 ​ = − 1 এখানে 2 x − 5 \\sqrt{2 x-5} 2 x − 5 ​ নেতিবাচক হতে পারে না কারণ বর্গমূলের মান সবসময় অ-নেতিবাচক হয়। তাই, এইই সমীকরণের কোনও বাস্তব সমাধান নেই।"
+    },
+    {
+      "number": "12",
+      "tag": "DB 24",
+      "question": "বিকাল 3 : 30 3: 30 3 : 30 টায় ঘণ্টায় কাঁটা ও মিনিটের কঁটার মধ্যবর্তী কোণ কত্ত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "75 ∘ 75^{\\circ} 7 5 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "85 ∘ 85^{\\circ} 8 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "95 ∘ 95^{\\circ} 9 5 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "75 ∘ 75^{\\circ} 7 5 ∘",
+      "option_b": "85 ∘ 85^{\\circ} 8 5 ∘",
+      "option_c": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_d": "95 ∘ 95^{\\circ} 9 5 ∘",
+      "correct": "ক",
+      "explanation": "আমরা জানি, ঘন্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ = ∣ 60 H − 11 M ∣ ∘ 2 =\\frac{|60 \\mathrm{H}-11 \\mathrm{M}|^{\\circ}}{2} = 2 ∣60 H − 11 M ∣ ∘ ​ ∴ 3 : 30 \\therefore 3: 30 ∴ 3 : 30 টায় ঘন্টার কাঁটা ও মিনিটের কাঁটার মধ্যবতী কোণ = ∣ 60 × 3 − 11 × 30 ∣ ∘ 2 = 75 ∘ =\\frac{|60 \\times 3-11 \\times 30|^{\\circ}}{2}=75^{\\circ} = 2 ∣60 × 3 − 11 × 30 ∣ ∘ ​ = 7 5 ∘"
+    },
+    {
+      "number": "13",
+      "tag": "DB 24,CPSCR 24",
+      "question": "P Q = 1 , Q R = 2  হলে,  sin ⁡ ( − θ ) + cos ⁡ ( − θ ) =  কত?  \\begin{array}{l} \\text { } \\mathrm{PQ}=1, \\mathrm{QR}=\\sqrt{2} \\text { হলে, } \\\\ \\sin (-\\theta)+\\cos (-\\theta)=\\text { কত? } \\end{array}   PQ = 1 , QR = 2 ​   হলে ,  sin ( − θ ) + cos ( − θ ) =   কত ?  ​",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 2 -\\sqrt{2} − 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 2 -\\sqrt{2} − 2 ​",
+      "option_b": "0",
+      "option_c": "1",
+      "option_d": "2 \\sqrt{2} 2 ​",
+      "correct": "খ",
+      "explanation": "sin ⁡ ( − θ ) + cos ⁡ ( − θ ) = − sin ⁡ θ + cos ⁡ θ = − 1 2 + 1 2 = 0 \\begin{aligned} & \\sin (-\\theta)+\\cos (-\\theta) \\\\ = & -\\sin \\theta+\\cos \\theta \\\\ = & -\\frac{1}{\\sqrt{2}}+\\frac{1}{\\sqrt{2}} \\\\ = & 0\\end{aligned} = = = ​ sin ( − θ ) + cos ( − θ ) − sin θ + cos θ − 2 ​ 1 ​ + 2 ​ 1 ​ 0 ​"
+    },
+    {
+      "number": "14",
+      "tag": "DB 24,CPSCR 24",
+      "question": "P R Q R + P Q Q R = 2 \\frac{\\mathrm{PR}}{\\mathrm{QR}}+\\frac{\\mathrm{PQ}}{\\mathrm{QR}}=\\sqrt{2} QR PR ​ + QR PQ ​ = 2 ​ হলে θ \\theta θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π 2 \\frac{\\pi}{2} 2 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "π 3 \\frac{\\pi}{3} 3 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π 4 \\frac{\\pi}{4} 4 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "π 6 \\frac{\\pi}{6} 6 π ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π 2 \\frac{\\pi}{2} 2 π ​",
+      "option_b": "π 3 \\frac{\\pi}{3} 3 π ​",
+      "option_c": "π 4 \\frac{\\pi}{4} 4 π ​",
+      "option_d": "π 6 \\frac{\\pi}{6} 6 π ​",
+      "correct": "গ",
+      "explanation": "P R Q R + P Q Q R = 2 ⇒ sin ⁡ θ + cos ⁡ θ = 2 ⇒ ( sin ⁡ θ ) 2 = ( 2 − cos ⁡ θ ) 2 ⇒ 1 − cos ⁡ 2 θ = 2 − 2 2 cos ⁡ θ + cos ⁡ 2 θ ⇒ 2 cos ⁡ 2 θ − 2 2 cos ⁡ θ + 1 = 0 \\begin{aligned} & \\frac{P R}{Q R}+\\frac{P Q}{Q R}=\\sqrt{2} \\\\ \\Rightarrow & \\sin \\theta+\\cos \\theta=\\sqrt{2} \\\\ \\Rightarrow & (\\sin \\theta)^{2}=(\\sqrt{2}-\\cos \\theta)^{2} \\\\ \\Rightarrow & 1-\\cos ^{2} \\theta=2-2 \\sqrt{2} \\cos \\theta+\\cos ^{2} \\theta \\\\ \\Rightarrow & 2 \\cos ^{2} \\theta-2 \\sqrt{2} \\cos \\theta+1=0\\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ QR PR ​ + QR PQ ​ = 2 ​ sin θ + cos θ = 2 ​ ( sin θ ) 2 = ( 2 ​ − cos θ ) 2 1 − cos 2 θ = 2 − 2 2 ​ cos θ + cos 2 θ 2 cos 2 θ − 2 2 ​ cos θ + 1 = 0 ​ ⇒ ( 2 cos ⁡ θ − 1 ) 2 = 0 ⇒ 2 cos ⁡ θ − 1 = 0 \\begin{array}{l}\\Rightarrow(\\sqrt{2} \\cos \\theta-1)^{2}=0 \\\\ \\Rightarrow \\sqrt{2} \\cos \\theta-1=0\\end{array} ⇒ ( 2 ​ cos θ − 1 ) 2 = 0 ⇒ 2 ​ cos θ − 1 = 0 ​ cos ⁡ θ = 1 2 = cos ⁡ 45 ∘ ∴ θ = 45 ∘ = π 4 \\begin{array}{l}\\cos \\theta=\\frac{1}{\\sqrt{2}}=\\cos 45^{\\circ} \\\\ \\therefore \\theta=45^{\\circ}=\\frac{\\pi}{4}\\end{array} cos θ = 2 ​ 1 ​ = cos 4 5 ∘ ∴ θ = 4 5 ∘ = 4 π ​ ​"
+    },
+    {
+      "number": "15",
+      "tag": "DB 24",
+      "question": "x − 4 ≤ x 3 x-4 \\leq \\frac{x^{}}{3} x − 4 ≤ 3 x ​ এর সমাধান সংখ্যারেখায় কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "",
+          "is_correct": false
+        }
+      ],
+      "option_a": "",
+      "option_b": "",
+      "option_c": "",
+      "option_d": "",
+      "correct": "",
+      "explanation": "x − 4 ≤ x 3 ⇒ 3 x − 12 ≤ x ⇒ 2 x ≤ 12 ⇒ x ≤ 6 \\begin{array}{l} x-4 \\leq \\frac{x}{3} \\\\ \\Rightarrow 3 x-12 \\leq x \\\\ \\Rightarrow 2 x \\leq 12 \\\\ \\Rightarrow x \\leq 6 \\end{array} x − 4 ≤ 3 x ​ ⇒ 3 x − 12 ≤ x ⇒ 2 x ≤ 12 ⇒ x ≤ 6 ​ x x x এর মান 6 এর সমান অথবা ছোট।"
+    },
+    {
+      "number": "16",
+      "tag": "DB 24,SB 22,SB 21",
+      "question": "P ( − 1 , 3 ) P(-1,3) P ( − 1 , 3 ) এবং Q ( 2 , 5 ) \\mathbf{Q}(2,5) Q ( 2 , 5 ) হলে, PQ এর- i. দৈর্ঘ্য 13 \\sqrt{13} 13 ​ একক ii. ঢাল 3 2 \\frac{3}{2} 2 3 ​ iii. সমীকরণ 2 x − 3 y + 11 = 0 2 \\mathrm{x}-3 \\mathrm{y}+11=0 2 x − 3 y + 11 = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "(i)  P Q = ( 2 + 1 ) 2 + ( 5 − 3 ) 2 = 3 2 + 2 2 = 13 \\begin{array}{l} \\text { (i) } P Q=\\sqrt{(2+1)^{2}+(5-3)^{2}} \\\\ =\\sqrt{3^{2}+2^{2}}=\\sqrt{13} \\end{array}  (i)  PQ = ( 2 + 1 ) 2 + ( 5 − 3 ) 2 ​ = 3 2 + 2 2 ​ = 13 ​ ​ (ii) ঢাল = 5 − 3 2 + 1 = 2 3 =\\frac{5-3}{2+1}=\\frac{2}{3} = 2 + 1 5 − 3 ​ = 3 2 ​ (iii) সমীকরণ, y − 3 = 2 3 ( x + 1 ) y-3=\\frac{2}{3}(x+1) y − 3 = 3 2 ​ ( x + 1 ) ⇒ 3 y − 9 = 2 x + 2 ⇒ 2 x − 3 y + 11 = 0 \\begin{array}{l} \\Rightarrow 3 y-9=2 x+2 \\\\ \\Rightarrow 2 x-3 y+11=0 \\end{array} ⇒ 3 y − 9 = 2 x + 2 ⇒ 2 x − 3 y + 11 = 0 ​"
+    },
+    {
+      "number": "17",
+      "tag": "RB 25,JB 25,DB 24,MB 24,VNSC 24,BNMPC 24,NISD 24,CPSCM 24,ISCM 24,MC 24,SJSC 24,RB 20,CTG.B 20",
+      "question": "মূলবিন্দু O এর সাপেক্ষে P এবং Q এর অবস্থান ভেক্টর যথাক্রমে 9 a ‾ − 4 b ‾ \\mathbf{9\\underline{\\mathbf{a}}-4\\underline{\\mathbf{b}} } 9 a ​ − 4 b ​ ও − 3 a ‾ − b ‾ -\\mathbf{3 \\underline{\\mathbf{a}}}-\\underline{\\mathbf{b}} − 3 a ​ − b ​ হলে, P Q → \\overrightarrow{\\mathbf{P Q}} PQ ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 a ‾ − 5 b ‾ 6 \\underline{a}-5 \\underline{b} 6 a ​ − 5 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12 a ‾ − 3 b ‾ 12 \\underline{a}-3 \\underline{b} 12 a ​ − 3 b ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 12 a ‾ + 3 b ‾ -12 \\underline{a}+3 \\underline{b} − 12 a ​ + 3 b ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12 a ‾ + 3 b ‾ 12 \\underline{a}+3 \\underline{b} 12 a ​ + 3 b ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 a ‾ − 5 b ‾ 6 \\underline{a}-5 \\underline{b} 6 a ​ − 5 b ​",
+      "option_b": "12 a ‾ − 3 b ‾ 12 \\underline{a}-3 \\underline{b} 12 a ​ − 3 b ​",
+      "option_c": "− 12 a ‾ + 3 b ‾ -12 \\underline{a}+3 \\underline{b} − 12 a ​ + 3 b ​",
+      "option_d": "12 a ‾ + 3 b ‾ 12 \\underline{a}+3 \\underline{b} 12 a ​ + 3 b ​",
+      "correct": "গ",
+      "explanation": "দুটি বিন্দু P P P এবং Q Q Q এর মধ্যবর্তী ভেক্টর P Q → \\overrightarrow{P Q} PQ ​ নিম্নোক্ত সূত্র দ্বারা প্রকাশ করা হয়: P Q → = O Q → − O P → \\overrightarrow{P Q}=\\overrightarrow{O Q}-\\overrightarrow{O P} PQ ​ = OQ ​ − OP মানগুলি বসানো P Q → = ( − 3 a − b ) − ( 9 a − 4 b ) = − 3 a − b − 9 a + 4 b = ( − 3 a − 9 a ) + ( − b + 4 b ) = − 12 a + 3 b \\begin{array}{c} \\overrightarrow{P Q}=(-3 \\mathbf{a}-\\mathbf{b})-(9 \\mathbf{a}-4 \\mathbf{b}) \\\\ =-3 \\mathbf{a}-\\mathbf{b}-9 \\mathbf{a}+4 \\mathbf{b} \\\\ =(-3 \\mathbf{a}-9 \\mathbf{a})+(-\\mathbf{b}+4 \\mathbf{b}) \\\\ =-12 \\mathbf{a}+3 \\mathbf{b} \\end{array} PQ ​ = ( − 3 a − b ) − ( 9 a − 4 b ) = − 3 a − b − 9 a + 4 b = ( − 3 a − 9 a ) + ( − b + 4 b ) = − 12 a + 3 b ​"
+    },
+    {
+      "number": "18",
+      "tag": "DB 24,CTG.B 24,GLHSD 24",
+      "question": "একই ভূমির উপর একই উচ্চতা বিশিষ্ট একটি সমবৃত্তভূমিক কোণক ও একটি সিলিন্ডারের আয়তনের অনুপাত কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1:3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3:1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1:2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1:1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1:3",
+      "option_b": "3:1",
+      "option_c": "1:2",
+      "option_d": "1:1",
+      "correct": "ক",
+      "explanation": "প্রদত্ত: - সমবৃত্তভূমিক কোণক (শঙ্কু) এবং সিলিল্ডারের ভূমি ও উচ্চতা সমান - ভূমির ব্যাসার্ধ = r r r - উচ্চতা = h =h = h সিলিন্ডারের আয়তন নির্ণয় সিলিন্ডারের আয়তনের সূত্র: V  সিলিল্ডার  = π r 2 h V \\text { সিলিল্ডার }=\\pi r^{2} h V   সিলিল্ডার   = π r 2 h শঙ্কুর আয়তন নির্ণয় শঙ্কুর আয়তনের সূত্র: V শঙ্কু  = 1 3 π r 2 h V_{\\text {শঙ্কু }}=\\frac{1}{3} \\pi r^{2} h V শঙ্কু   ​ = 3 1 ​ π r 2 h আয়তনের অনুপাত নির্ণয়  অনুপাত  = V শঙ্কু  V  সিলিড্ডার  = 1 3 π r 2 h π r 2 h = 1 3 \\text { অনুপাত }=\\frac{V_{\\text {শঙ্কু }}}{V \\text { সিলিড্ডার }}=\\frac{\\frac{1}{3} \\pi r^{2} h}{\\pi r^{2} h}=\\frac{1}{3}   অনুপাত   = V   সিলিড্ডার   V শঙ্কু   ​ ​ = π r 2 h 3 1 ​ π r 2 h ​ = 3 1 ​"
+    },
+    {
+      "number": "19",
+      "tag": "DB 24,BB 23,DB 19",
+      "question": "পাঁচ টাকার পাঁচটি মুদ্রা একসাথে নিক্ষেপ করা হলে, নমুনা বিন্দু কয়টি হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "64",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "25",
+      "option_c": "32",
+      "option_d": "64",
+      "correct": "গ",
+      "explanation": "আমরা জানি, n সংখ্যক মুদ্রা একত্রে নিক্ষেপ করা হলে নমুনা বিন্দুর সংখ্যা = 2 n 2^n 2 n 5 টি মুদ্রা একত্রে নিক্ষেপ করা হলে নমুনা বিন্দুর সংখ্যা = 2 5 2^5 2 5 = 32"
+    },
+    {
+      "number": "20",
+      "tag": "DB 24",
+      "question": "A = { x : x ∈ N , x 2 + .9 x + 20 = 0 } A=\\left\\{x: x \\in \\mathbb{N}, x^{2}+.9 x+20=0\\right\\} A = { x : x ∈ N , x 2 + .9 x + 20 = 0 } হলে n(A) = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "2",
+      "option_c": "1",
+      "option_d": "0",
+      "correct": "ঘ",
+      "explanation": "x 2 + 9 x + 20 = 0 x^{2}+9 x+20=0 x 2 + 9 x + 20 = 0 বা, x 2 + 4 x + 5 x + 20 = 0 \\mathrm{x}^{2}+4 \\mathrm{x}+5 \\mathrm{x}+20=0 x 2 + 4 x + 5 x + 20 = 0 বা; x ( x + 4 ) + 5 ( x + 4 ) = 0 \\mathrm{x}(\\mathrm{x}+4)+5(\\mathrm{x}+4)=0 x ( x + 4 ) + 5 ( x + 4 ) = 0 বা, ( x + 4 ) ( x + 5 ) = 0 ∴ x = − 5 , − 4 ∉ N (x+4)(x+5)=0 \\quad \\therefore x=-5,-4 \\notin \\mathbb{N} ( x + 4 ) ( x + 5 ) = 0 ∴ x = − 5 , − 4 ∈ / N সুতরাং, A = ∅ ∴ n ( A ) = 0 A=\\varnothing \\quad \\therefore \\mathrm{n}(\\mathrm{A})=0 A = ∅ ∴ n ( A ) = 0"
+    },
+    {
+      "number": "21",
+      "tag": "CB 20,SB 20,JB 20,DB 19,CB 19,DIN.B 19,CTG.B 19,SB 19,BB 19,ACC 24",
+      "question": "f ( x ) = 4 − 2 x f(\\mathbf{x})=\\sqrt{4-2 \\mathrm{x}} f ( x ) = 4 − 2 x ​ এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+      "option_b": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+      "option_c": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+      "option_d": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+      "correct": "গ",
+      "explanation": "f ( x ) = 4 − 2 x f(x) = \\sqrt{4-2x} f ( x ) = 4 − 2 x ​ বর্গমূলের ভিতরের রাশি অঋণাত্মক হতে হবে: 4 − 2 x ≥ 0 4-2x \\ge 0 4 − 2 x ≥ 0 − 2 x ≥ − 4 -2x \\ge -4 − 2 x ≥ − 4 x ≤ 2 x \\le 2 x ≤ 2 তাই ডোমেন: { x ∈ R ∣ x ≤ 2 } \\{x \\in \\mathbb{R} \\mid x \\le 2\\} { x ∈ R ∣ x ≤ 2 } ইন্টারভাল আকারে: ( − ∞ , 2 ] (-\\infty, 2] ( − ∞ , 2 ]"
+    },
+    {
+      "number": "22",
+      "tag": "DB 24",
+      "question": "p এর মান কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-7",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-12",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-7",
+      "option_b": "-12",
+      "option_c": "9",
+      "option_d": "12",
+      "correct": "খ",
+      "explanation": "প্রদত্ত ফাংশনটি হল: f ( x ) = p x + q f(x)=p x+q f ( x ) = p x + q ছবিতে দেখা যাচ্ছে: যখন x = 8 x=8 x = 8 , তখন f ( x ) = − 3 f(x)=-3 f ( x ) = − 3 যখন x = 6 x=6 x = 6 , তখন f ( x ) = 21 f(x)=21 f ( x ) = 21 এই দুটি তথ্য থেকে আমরা দুইটি সমীকরণ পাই: সমীকরণ তৈরি করি 1. 8 p + q = − 3 8 p+q=-3 8 p + q = − 3 2. 6 p + q = 21 6 p+q=21 6 p + q = 21 একত্রে সমাধান করি উপরে দুটি সমীকরণ থেকে q q q বাদ দিতে পারি: ( 8 p + q ) − ( 6 p + q ) = − 3 − 21 8 p + q − 6 p − q = − 24 2 p = − 24 ⇒ p = − 12 \\begin{array}{c} (8 p+q)-(6 p+q)=-3-21 \\\\ 8 p+q-6 p-q=-24 \\\\ 2 p=-24 \\Rightarrow p=-12 \\end{array} ( 8 p + q ) − ( 6 p + q ) = − 3 − 21 8 p + q − 6 p − q = − 24 2 p = − 24 ⇒ p = − 12 ​"
+    },
+    {
+      "number": "23",
+      "tag": "DB 24",
+      "question": "যদি p = 3 p=3 p = 3 এবং q = 2 q=2 q = 2 হয়, তবে f ( x ) f(x) f ( x ) এর ডোমেন কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "R − { 3 2 } \\mathbb{R}-\\left\\{\\frac{3}{2}\\right\\} R − { 2 3 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "R − { − 2 3 } \\mathbb{R}-\\left\\{-\\frac{2}{3}\\right\\} R − { − 3 2 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "R − { 3 } \\mathbb{R}-\\{3\\} R − { 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "R \\mathbb{R} R",
+          "is_correct": true
+        }
+      ],
+      "option_a": "R − { 3 2 } \\mathbb{R}-\\left\\{\\frac{3}{2}\\right\\} R − { 2 3 ​ }",
+      "option_b": "R − { − 2 3 } \\mathbb{R}-\\left\\{-\\frac{2}{3}\\right\\} R − { − 3 2 ​ }",
+      "option_c": "R − { 3 } \\mathbb{R}-\\{3\\} R − { 3 }",
+      "option_d": "R \\mathbb{R} R",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "DB 24,BMARPC 24,MB 20",
+      "question": "p ( x ) = 12 x 2 − 15 x 3 − 3 x 4 + 5 + 3 x p(x)=12 x^{2}-15 x^{3}-3 x^{4}+5+3 x p ( x ) = 12 x 2 − 15 x 3 − 3 x 4 + 5 + 3 x বহুপদীর মুখ্য সহগ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "3",
+      "option_c": "12",
+      "option_d": "15",
+      "correct": "ক",
+      "explanation": "বহুপদী p ( x ) = 12 x 2 − 15 x 3 − 3 x 4 + 5 + 3 x p(x)=12x^{2}-15x^{3}-3x^{4}+5+3x p ( x ) = 12 x 2 − 15 x 3 − 3 x 4 + 5 + 3 x এর প্রধান বা মুখ্য সহগ নির্ধারণ করতে হলে প্রথমে সবচেয়ে বড় ডিগ্রি বা শক্তির পদটি নির্ধারণ করতে হবে। এখানে বহুপদীটির ডিগ্রি হল ৪ (যেহেতু সবথেকে বড় ঘাত হল x 4 x^4 x 4 ), এবং এই পদের সহগ হল − 3 -3 − 3 । অতএব, মুখ্য সহগ বা প্রধান সহগ হলো − 3 -3 − 3 । সঠিক উত্তর: -3"
+    },
+    {
+      "number": "25",
+      "tag": "DB 24",
+      "question": "যদি 2 y + 1 y ( y − 1 ) ≡ A y + B y − 1 \\frac{2 y+1}{y(y-1)} \\equiv \\frac{A}{y}+\\frac{B}{y-1} y ( y − 1 ) 2 y + 1 ​ ≡ y A ​ + y − 1 B ​ হয় তবে A A A এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "1",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "ক",
+      "explanation": "2 y + 1 y ( y − 1 ) = A y + B y − 1 \\frac{2 y+1}{y(y-1)}=\\frac{A}{y}+\\frac{B}{y-1} y ( y − 1 ) 2 y + 1 ​ = y A ​ + y − 1 B ​ 2 y + 1 y ( y − 1 ) = A ( y − 1 ) + B y y ( y − 1 ) \\frac{2 y+1}{y(y-1)}=\\frac{A(y-1)+B y}{y(y-1)} y ( y − 1 ) 2 y + 1 ​ = y ( y − 1 ) A ( y − 1 ) + B y ​ উভয়পক্ষের লব নির্ণয় করে পাই: 2 y + 1 = A ( y − 1 ) + B y 2 y+1=A(y-1)+B y 2 y + 1 = A ( y − 1 ) + B y 2 y + 1 = A y − A + B y 2 y + 1 = ( A + B ) y − A \\begin{array}{c} 2 y+1=A y-A+B y \\\\ 2 y+1=(A+B) y-A \\end{array} 2 y + 1 = A y − A + B y 2 y + 1 = ( A + B ) y − A ​ তুলনা করলে পাই: A + B = 2 A+B=2 A + B = 2 − A = 1 -A=1 − A = 1 , অর্থাৎ A = − 1 A=-1 A = − 1"
+    }
+  ]
+}

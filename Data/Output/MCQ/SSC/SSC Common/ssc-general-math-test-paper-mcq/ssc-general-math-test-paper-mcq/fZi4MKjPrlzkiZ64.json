@@ -1,0 +1,733 @@
+{
+  "read_id": "fZi4MKjPrlzkiZ64",
+  "title": "রাজউক উত্তরা মডেল কলেজ ২০২৪",
+  "count": 22,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "CB 23,DIN.B 23,SB 22,RCC 24,FGCC 24,RUMC 24,BCC 24,VNSC 24,MC 24,SJHSS 24",
+      "question": "f ( x ) = x 3 − k x 2 − 4 x − 8 f(x)=x^{3}-k x^{2}-4 x-8 f ( x ) = x 3 − k x 2 − 4 x − 8 হলে, k k k এর কোন মানের জন্য f ( − 2 ) = 0 f(-2)=0 f ( − 2 ) = 0 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-4",
+      "option_b": "-2",
+      "option_c": "2",
+      "option_d": "4",
+      "correct": "খ",
+      "explanation": "প্রদত্ত ফাংশন: f ( x ) = x 3 − k x 2 − 4 x − 8 f(x)=x^{3}-k x^{2}-4 x-8 f ( x ) = x 3 − k x 2 − 4 x − 8 শর্ত অনুযায়ী, f ( − 2 ) = 0 f(-2)=0 f ( − 2 ) = 0 । সুতরাং, x = − 2 x=-2 x = − 2 বসিয়ে সমীকরণরি সমাধান করা যাক: f ( − 2 ) = ( − 2 ) 3 − k ( − 2 ) 2 − 4 ( − 2 ) − 8 = 0 − 8 − k × 4 + 8 − 8 = 0 − 8 − 4 k + 8 − 8 = 0 − 4 k − 8 = 0 − 4 k = 8 k = − 2 \\begin{array}{c} f(-2)=(-2)^{3}-k(-2)^{2}-4(-2)-8=0 \\\\ -8-k \\times 4+8-8=0 \\\\ -8-4 k+8-8=0 \\\\ -4 k-8=0 \\\\ -4 k=8 \\\\ k=-2 \\end{array} f ( − 2 ) = ( − 2 ) 3 − k ( − 2 ) 2 − 4 ( − 2 ) − 8 = 0 − 8 − k × 4 + 8 − 8 = 0 − 8 − 4 k + 8 − 8 = 0 − 4 k − 8 = 0 − 4 k = 8 k = − 2 ​"
+    },
+    {
+      "number": "2",
+      "tag": "RUMC 24",
+      "question": "যদি f ( x ) = x 1 + x f(\\mathrm{x})=\\frac{\\mathrm{x}}{1+\\mathrm{x}} f ( x ) = 1 + x x ​ হয় তবে f ( a b ) + f (   b a ) f\\left(\\frac{\\mathrm{a}}{\\mathrm{b}}\\right)+f\\left(\\frac{\\mathrm{~b}}{\\mathrm{a}}\\right) f ( b a ​ ) + f ( a   b ​ ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a b \\frac{a}{b} b a ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− b a -\\frac{b}{a} − a b ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "b a \\frac{b}{a} a b ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 1 1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "a b \\frac{a}{b} b a ​",
+      "option_b": "− b a -\\frac{b}{a} − a b ​",
+      "option_c": "b a \\frac{b}{a} a b ​",
+      "option_d": "1 1 1",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত: f ( x ) = x 1 + x f(x) = \\frac{x}{1+x} f ( x ) = 1 + x x ​ এখন, f ( a b ) = a b 1 + a b = a b b + a b = a a + b f\\left(\\frac{a}{b}\\right) = \\frac{\\frac{a}{b}}{1+\\frac{a}{b}} = \\frac{\\frac{a}{b}}{\\frac{b+a}{b}} = \\frac{a}{a+b} f ( b a ​ ) = 1 + b a ​ b a ​ ​ = b b + a ​ b a ​ ​ = a + b a ​ আবার, f ( b a ) = b a 1 + b a = b a a + b a = b a + b f\\left(\\frac{b}{a}\\right) = \\frac{\\frac{b}{a}}{1+\\frac{b}{a}} = \\frac{\\frac{b}{a}}{\\frac{a+b}{a}} = \\frac{b}{a+b} f ( a b ​ ) = 1 + a b ​ a b ​ ​ = a a + b ​ a b ​ ​ = a + b b ​ যোগ করলে: f ( a b ) + f ( b a ) = a a + b + b a + b = a + b a + b = 1 f\\left(\\frac{a}{b}\\right) + f\\left(\\frac{b}{a}\\right) = \\frac{a}{a+b} + \\frac{b}{a+b} = \\frac{a+b}{a+b} = 1 f ( b a ​ ) + f ( a b ​ ) = a + b a ​ + a + b b ​ = a + b a + b ​ = 1"
+    },
+    {
+      "number": "5",
+      "tag": "RUMC 24",
+      "question": "0.0768 এর লগের অংশক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.885",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0.115",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.885",
+      "option_b": "0.115",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": "Step 1: Express in Scientific Form We can write: 0.0768 = 7.68 × 10 − 2 0.0768=7.68 \\times 10^{-2} 0.0768 = 7.68 × 1 0 − 2 Using logarithm properties: log ⁡ ( 0.0768 ) = log ⁡ ( 7.68 × 10 − 2 ) = log ⁡ 7.68 + log ⁡ 10 − 2 = log ⁡ 7.68 − 2 \\begin{array}{c} \\log (0.0768)=\\log \\left(7.68 \\times 10^{-2}\\right) \\\\ =\\log 7.68+\\log 10^{-2} \\\\ =\\log 7.68-2 \\end{array} lo g ( 0.0768 ) = lo g ( 7.68 × 1 0 − 2 ) = lo g 7.68 + lo g 1 0 − 2 = lo g 7.68 − 2 ​ Step 2: Find log ⁡ 7.68 \\log 7.68 lo g 7.68 From logarithm tables, log ⁡ 7.68 ≈ 0.8857 \\log 7.68 \\approx 0.8857 lo g 7.68 ≈ 0.8857 Thus, log ⁡ 0.0768 = 0.8857 − 2 = − 1.1143 \\begin{array}{c} \\log 0.0768=0.8857-2 \\\\ =-1.1143 \\end{array} lo g 0.0768 = 0.8857 − 2 = − 1.1143 ​ Step 3: Identify the Mantissa In logarithms, the characteristic is the integer part (-1), while the mantissa is the decimal part (0.8857)."
+    },
+    {
+      "number": "6",
+      "tag": "CB 25",
+      "question": "( x 2 − 3 ) 2 = 0 \\left(x^{2}-3\\right)^{2}=0 ( x 2 − 3 ) 2 = 0 সমীকরণের মূল কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "3",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": "দেওয়া সমীকরণটি: ( x 2 − 3 ) 2 = 0 \\left(x^{2}-3\\right)^{2}=0 ( x 2 − 3 ) 2 = 0 এই সমীকরণের মূল বের করতে হলে, প্রথমে স্কয়ার রুট নিতে হবে: x 2 − 3 = 0 x 2 = 3 x = ± 3 \\begin{array}{c} x^{2}-3=0 \\\\ x^{2}=3 \\\\ x= \\pm \\sqrt{3} \\end{array} x 2 − 3 = 0 x 2 = 3 x = ± 3 ​ ​ অর্থাৎ, সমীকরণের দুটি মূল আছে: x = 3 , x = − 3 x=\\sqrt{3}, \\quad x=-\\sqrt{3} x = 3 ​ , x = − 3 ​ সুতরাং, সমীকরণের মোট ২টি মূল রয়েছে।"
+    },
+    {
+      "number": "7",
+      "tag": "DIN.B 23,RUMC 24",
+      "question": "2 + p + 6 + q + 10 + r + 2+p+6+q+10+r+ 2 + p + 6 + q + 10 + r + … . …. … . সমান্তর ধারাভুক্ত হলে- i. p \\mathrm{p} p এর মান 4 ii. r এর মান 12 iii. প্রথম 6 টি পদের সমষ্টি 42 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "(i) ১ম পদ, a = 2 a=2 a = 2 সাধারণ অন্তর = d =d = d n  তম পদ  = a + ( n − 1 ) d ∴  ৩য় পদ  = a + ( 3 − 1 ) d = 2 + 2 d \\begin{array}{l} n \\text { তম পদ }=a+(n-1) d \\\\ \\therefore \\text { ৩য় পদ }=a+(3-1) d \\\\ =2+2 d \\end{array} n   তম   পদ   = a + ( n − 1 ) d ∴   ৩য়   পদ   = a + ( 3 − 1 ) d = 2 + 2 d ​ ∴ 2 + 2 d = 6 ⇒ 2 d = 4 ⇒ d = 2 \\begin{array}{l} \\therefore 2+2 d=6 \\\\ \\Rightarrow 2 d=4 \\\\ \\Rightarrow d=2 \\end{array} ∴ 2 + 2 d = 6 ⇒ 2 d = 4 ⇒ d = 2 ​ ২য় পদ, P = a + ( 2 − 1 ) d P=a+(2-1) d P = a + ( 2 − 1 ) d = a + d = 2 + 2 = 4 \\begin{array}{l} =a+d \\\\ =2+2=4 \\end{array} = a + d = 2 + 2 = 4 ​ (ii) ৬ষ্ঠ পদ, n = a + ( 6 − 1 ) d n=a+(6-1) d n = a + ( 6 − 1 ) d = a + 5 d = 2 + 5 × 2 = 12 \\begin{array}{l} =a+5 d \\\\ =2+5 \\times 2=12 \\end{array} = a + 5 d = 2 + 5 × 2 = 12 ​ (iii) প্রথম n n n সংখ্যক পদের সমষ্টি, S n = n 2 { 2 a + ( n − 1 ) d } ∴ S 6 = 6 2 { 2 ⋅ 2 + ( 6 − 1 ) ⋅ 2 } = 3 ( 4 + 10 ) = 42 \\begin{array}{l} S_{n}=\\frac{n}{2}\\{2 a+(n-1) d\\} \\\\ \\therefore S_{6}=\\frac{6}{2}\\{2 \\cdot 2+(6-1) \\cdot 2\\} \\\\ =3(4+10) \\\\ =42 \\end{array} S n ​ = 2 n ​ { 2 a + ( n − 1 ) d } ∴ S 6 ​ = 2 6 ​ { 2 ⋅ 2 + ( 6 − 1 ) ⋅ 2 } = 3 ( 4 + 10 ) = 42 ​"
+    },
+    {
+      "number": "8",
+      "tag": "CCC 24,RUMC 24",
+      "question": "যদি একটি গুণোত্তর ধারার ১ম পদ 3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​ এবং সাধারণ অনুপাত 2 3 \\frac{\\sqrt{2}}{\\sqrt{3}} 3 ​ 2 ​ ​ হয় তবে ধারাটির পঞ্চম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 9 \\frac{2 \\sqrt{3}}{9} 9 2 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 3 2 \\frac{2 \\sqrt{3}}{2} 2 2 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 2 2 \\frac{2 \\sqrt{2}}{2} 2 2 2 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 2 3 3 \\frac{2 \\sqrt{2}}{3 \\sqrt{3}} 3 3 ​ 2 2 ​ ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 3 9 \\frac{2 \\sqrt{3}}{9} 9 2 3 ​ ​",
+      "option_b": "2 3 2 \\frac{2 \\sqrt{3}}{2} 2 2 3 ​ ​",
+      "option_c": "2 2 2 \\frac{2 \\sqrt{2}}{2} 2 2 2 ​ ​",
+      "option_d": "2 2 3 3 \\frac{2 \\sqrt{2}}{3 \\sqrt{3}} 3 3 ​ 2 2 ​ ​",
+      "correct": "ঘ",
+      "explanation": "১ম পদ,  a = 3 2  সাধারণ অনুপাত,  r = 2 3 ∴ n  তম পদ  = a r n − 1 ∴ 5  তম পদ  = a r 4 = 3 2 × ( 2 3 ) 4 = 3 2 × 2 × 2 × 2 × 2 3 × 3 × 3 × 3 = 4 2 × 3 3 = 2 3 3 = 2 3 9 \\begin{array}{l} \\text { ১ম পদ, } a=\\frac{\\sqrt{3}}{2} \\\\ \\text { সাধারণ অনুপাত, } r=\\frac{\\sqrt{2}}{\\sqrt{3}} \\\\ \\therefore n \\text { তম পদ }=a r^{n-1} \\\\ \\therefore 5 \\text { তম পদ }=a r^{4} \\\\ =\\frac{\\sqrt{3}}{2} \\times\\left(\\frac{\\sqrt{2}}{\\sqrt{3}}\\right)^{4} \\\\ =\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{2} \\times \\sqrt{2} \\times \\sqrt{2} \\times \\sqrt{2}}{\\sqrt{3} \\times \\sqrt{3} \\times \\sqrt{3} \\times \\sqrt{3}} \\\\ =\\frac{4}{2 \\times 3 \\sqrt{3}} \\\\ =\\frac{2}{3 \\sqrt{3}} \\\\ =\\frac{2 \\sqrt{3}}{9} \\end{array}   ১ম   পদ ,  a = 2 3 ​ ​   সাধারণ   অনুপাত ,  r = 3 ​ 2 ​ ​ ∴ n   তম   পদ   = a r n − 1 ∴ 5   তম   পদ   = a r 4 = 2 3 ​ ​ × ( 3 ​ 2 ​ ​ ) 4 = 2 3 ​ ​ × 3 ​ × 3 ​ × 3 ​ × 3 ​ 2 ​ × 2 ​ × 2 ​ × 2 ​ ​ = 2 × 3 3 ​ 4 ​ = 3 3 ​ 2 ​ = 9 2 3 ​ ​ ​"
+    },
+    {
+      "number": "10",
+      "tag": "DB 23,RUMC 24",
+      "question": "যদি log ⁡ x 1 64 = − 6 \\log_x \\frac{1}{64} = -6 lo g x ​ 64 1 ​ = − 6 হয়, তবে x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "2",
+      "correct": "ক",
+      "explanation": "log ⁡ 1 6 1 64 = − 6 \\log _{\\frac{1}{6}} \\frac{1}{64}=-6 lo g 6 1 ​ ​ 64 1 ​ = − 6 বা, x − 6 = 1 64 x^{-6}=\\frac{1}{64} x − 6 = 64 1 ​ বা, 1 x 6 = 1 2 6 ∴ x = 2 \\frac{1}{x^{6}}=\\frac{1}{2^{6}} \\therefore x=2 x 6 1 ​ = 2 6 1 ​ ∴ x = 2"
+    },
+    {
+      "number": "12",
+      "tag": "DIN.B 23,RUMC 24,BAFSC 24",
+      "question": "চিত্রে O বৃত্তটির কেন্দ্র । P O = 13 \\mathrm{PO}=13 PO = 13 সে.মি., O B = 5 \\mathrm{OB}=5 OB = 5 সে.মি. হলে PA = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "119 \\sqrt{119} 119 ​ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "13 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "194 \\sqrt{194} 194 ​ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "119 \\sqrt{119} 119 ​ সে.মি.",
+      "option_b": "12 সে.মি.",
+      "option_c": "13 সে.মি.",
+      "option_d": "194 \\sqrt{194} 194 ​ সে.মি.",
+      "correct": "খ",
+      "explanation": "এখানে আমরা দেখতে পাচ্ছি যে, O বৃত্তটির কেন্দ্র এবং P একটি বাহ্যিক বিন্দু। PA হলো বাহ্যিক স্পর্শক এবং OB হলো রেডিয়াস। আমরা জানি যে, বাহ্যিক স্পর্শক এবং রেডিয়াসের সমানুপাতিক ধ্রুবক থাকে। স্পর্শকের জন্য ক্লাসিক সূত্র হলো: ( A B 2 = O P 2 − O B 2 ) (AB^2 = OP^2 - OB^2 ) ( A B 2 = O P 2 − O B 2 ) এখানে, AB হলো স্পর্শকের দৈর্ঘ্য PA, OP = 13 সেমি এবং OB = 5 সেমি দেওয়া আছে। সূত্র অনুযায়ী, PA² = OP² - OB² = 13² - 5² = 169 - 25 = 144 অতএব, P A = 144 = 12 PA = \\sqrt{144} = 12 P A = 144 ​ = 12 সেমি।"
+    },
+    {
+      "number": "13",
+      "tag": "DIN.B 24,BB 20,RUMC 24,RUMC 24,RGLHS 24",
+      "question": "△ A B C \\triangle \\mathrm{ABC} △ ABC В △ D E F \\triangle \\mathrm{DEF} △ DEF সদৃশ এবং A B : D E = 2 : 3 \\mathrm{AB}: \\mathrm{DE}=2: 3 AB : DE = 2 : 3 হলে △ D E F : △ A B C = \\triangle \\mathrm{DEF}: \\triangle \\mathrm{ABC}= △ DEF : △ ABC = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 : 9 4: 9 4 : 9",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9 : 4 9: 4 9 : 4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 : 3 2: 3 2 : 3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 : 2 3: 2 3 : 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4 : 9 4: 9 4 : 9",
+      "option_b": "9 : 4 9: 4 9 : 4",
+      "option_c": "2 : 3 2: 3 2 : 3",
+      "option_d": "3 : 2 3: 2 3 : 2",
+      "correct": "ঘ",
+      "explanation": "A B : D E = 2 : 3 A B: D E=2: 3 A B : D E = 2 : 3 ∴ △ D E F △ A B C = ( D E A B ) 2 = ( 3 2 ) 2 = 9 4 = 9 : 4 \\begin{aligned} \\therefore \\frac{\\triangle D E F}{\\triangle A B C}=\\left(\\frac{D E}{A B}\\right)^{2} & =\\left(\\frac{3}{2}\\right)^{2} \\\\ & =\\frac{9}{4} \\\\ & =9: 4 \\end{aligned} ∴ △ A BC △ D EF ​ = ( A B D E ​ ) 2 ​ = ( 2 3 ​ ) 2 = 4 9 ​ = 9 : 4 ​"
+    },
+    {
+      "number": "15",
+      "tag": "RUMC 24",
+      "question": "sin ⁡ 9 B = cos ⁡ B \\sin 9 B=\\cos B sin 9 B = cos B হলে cot ⁡ 5 B \\cot 5 B cot 5 B এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_c": "3 \\sqrt{3} 3 ​",
+      "option_d": "0",
+      "correct": "ক",
+      "explanation": "sin ⁡ 9   B = cos ⁡ B \\sin 9 \\mathrm{~B}=\\cos \\mathrm{B} sin 9   B = cos B বা, sin ⁡ 9   B = sin ⁡ ( 90 ∘ − B ) \\sin 9 \\mathrm{~B}=\\sin \\left(90^{\\circ}-\\mathrm{B}\\right) sin 9   B = sin ( 9 0 ∘ − B ) , বা, 9   B = 90 ∘ − B 9 \\mathrm{~B}=90^{\\circ}-\\mathrm{B} 9   B = 9 0 ∘ − B বা, 10   B = 90 ∘ ∴ B = 9 ∘ ∴ cot ⁡ 5   B = cot ⁡ ( 5 ∘ × 9 ∘ ) = cot ⁡ 45 ∘ = 1 10 \\mathrm{~B}=90^{\\circ} \\therefore \\mathrm{B}=9^{\\circ} \\therefore \\cot 5 \\mathrm{~B}=\\cot \\left(5^{\\circ} \\times 9^{\\circ}\\right)=\\cot 45^{\\circ}=1 10   B = 9 0 ∘ ∴ B = 9 ∘ ∴ cot 5   B = cot ( 5 ∘ × 9 ∘ ) = cot 4 5 ∘ = 1"
+    },
+    {
+      "number": "18",
+      "tag": "RUMC 24",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নেরউত্তর দাও : একটি ঘনকের পৃষ্ঠতলের কর্ণের দৈর্ঘ্য 8√2 সে.মি.। ঘনকের কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8√2 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8√3 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8√6 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3√8 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8√2 সে.মি.",
+      "option_b": "8√3 সে.মি.",
+      "option_c": "8√6 সে.মি.",
+      "option_d": "3√8 সে.মি.",
+      "correct": "খ",
+      "explanation": "ঘনকের পৃষ্ঠতলের কর্ণের দৈর্ঘ্য 2 \\sqrt{2} 2 ​ a= 8√2 a=8সে.মি. ঘনকের কর্ণের দৈর্ঘ্য 3 \\sqrt{3} 3 ​ a=8 3 \\sqrt{3} 3 ​ সে.মি."
+    },
+    {
+      "number": "19",
+      "tag": "RUMC 24",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নেরউত্তর দাও : একটি ঘনকের পৃষ্ঠতলের কর্ণের দৈর্ঘ্য 8√2 সে.মি.। ঘনকের কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8√2 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8√3 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8√6 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3√8 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8√2 সে.মি.",
+      "option_b": "8√3 সে.মি.",
+      "option_c": "8√6 সে.মি.",
+      "option_d": "3√8 সে.মি.",
+      "correct": "খ",
+      "explanation": "ঘনকের পৃষ্ঠতলের কর্ণের দৈর্ঘ্য 2 \\sqrt{2} 2 ​ a= 8√2 a=8সে.মি. ঘনকের কর্ণের দৈর্ঘ্য 3 \\sqrt{3} 3 ​ a=8 3 \\sqrt{3} 3 ​ সে.মি."
+    },
+    {
+      "number": "20",
+      "tag": "MB 20,JGCC 24,RUMC 24",
+      "question": "একটি সমদ্বিবাহু ত্রিভুজের অর্ধপরিসীমা 8 সে.মি. এবং ভূমি 6 সে.মি. হলে, উচ্চতা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "12",
+      "option_b": "8",
+      "option_c": "6",
+      "option_d": "4",
+      "correct": "ক",
+      "explanation": "ধরি, সমদ্বিবাহু ত্রিভুজের সমান সমান বাহুর দৈর্ঘ্য a সমদ্বিবাহু ত্রিভুজের অর্ধপরিসীমা a + a + 6 2 \\frac{a+a+6}{2} 2 a + a + 6 ​ =8 cm ⇒ \\Rightarrow ⇒ 2a+6=16 ⇒ \\Rightarrow ⇒ a= 5 cm ভূমির মধ্যবিন্দু = 6 2 \\frac{6}{2} 2 6 ​ = 3 cm উচ্চতা = 5 2 − 3 2 \\sqrt{5^2-3^2} 5 2 − 3 2 ​ = 4cm ( ∵ \\because ∵ সমদ্বিবাহু ত্রিভুজের মধ্যমা ও লম্ব একই)"
+    },
+    {
+      "number": "21",
+      "tag": "DB 25, DC 25,MB 24,CTG.B 20,DB 19,RCC 24,RUMC 24,BNMPC 24,MCPSC 24,RCPC 24",
+      "question": "রম্বসের প্রতিসাম্য রেখা কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 টি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 টি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 টি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 টি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 টি",
+      "option_b": "2 টি",
+      "option_c": "3 টি",
+      "option_d": "4 টি",
+      "correct": "খ",
+      "explanation": "এই প্রতিসাম্য রেখাগুলি হলো রম্বসের দুটি কর্ণ। প্রতিটি কর্ণই রম্বসকে দুটি অভিন্ন অংশে বিভক্ত করে।"
+    },
+    {
+      "number": "22",
+      "tag": "BB 19,RUMC 24",
+      "question": "x + 2 y = 10 , 2 x + 4 y = 18 x+2 y=10,2 x+4 y=18 x + 2 y = 10 , 2 x + 4 y = 18 সমীকরণ জোটটি-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সঙ্গতিপূর্ণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অসংখ্য সমাধান",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "একটি মাত্র সমাধান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অনির্ভরশীল",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সঙ্গতিপূর্ণ",
+      "option_b": "অসংখ্য সমাধান",
+      "option_c": "একটি মাত্র সমাধান",
+      "option_d": "অনির্ভরশীল",
+      "correct": "ঘ",
+      "explanation": "∴ সমীকরণ জোট পরস্পর সঙ্গতিশীল এবং অসংখ্য সমাধান আছে। x + 2 y = 10 2 x + 4 y = 18 1 2 = 2 4 ≠ 10 18 \\begin{array}{l}x+2 y=10 \\\\ 2 x+4 y=18 \\\\ \\frac{1}{2}=\\frac{2}{4} \\neq \\frac{10}{18}\\end{array} x + 2 y = 10 2 x + 4 y = 18 2 1 ​ = 4 2 ​  = 18 10 ​ ​ সমীকরণ জোট পর অসংগতিশীল, অনির্ভরশীল এবং কোনো সমাধান নেই।"
+    },
+    {
+      "number": "23",
+      "tag": "DC 25,MB 25,RB 25,CB 25,DIN.B 25,MAD 25,DB 24,CB 24,DIN.B 24,MB 24,CTG.B 24,DB 24,BB 24,DB 23,SB 23,CB 23,RB 23,DB 22,CB 22,DIN.B 22,RB 22,DB 20,CB 20,SB 20,JB 20,BB 20,RB 19,CB 19,DIN.B 19,BB 19,All.B 18,DB 17,DIN.B 17,CB 17,CTG.B 17,JB 17,SB 17,BB 17,MCC 24,FCC 24,FGCC 24,RCC 24,PCC 24,CCC 24,RUMC 24,BCC 24,RUMC 24,GLHSD 24,BAFSC 24,ACPS 24,CSC 24,MCPSC 24,RCPC 24",
+      "question": "x + 1 x = 5  হলে  − x+\\frac{1}{x}=5 \\text { হলে }- x + x 1 ​ = 5   হলে   − i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ ii. x 3 + 1 x 3 = 110 \\mathrm{x}^{3}+\\frac{1}{\\mathrm{x}^{3}}=110 x 3 + x 3 1 ​ = 110 iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "প্রদত্ত সমীকরণ: x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 ধাপ 1: x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ এর মান নির্ণয় প্রথমে x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ গর মান বের করব। আমরা জানি: ( x + 1 x ) 2 = x 2 + 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 + 2 + 1 x 2 \\left(x+\\frac{1}{x}\\right)^{2}=x^{2}+2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}+2+\\frac{1}{x^{2}} ( x + x 1 ​ ) 2 = x 2 + 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 + 2 + x 2 1 ​ অতএব: x 2 + 1 x 2 = ( x + 1 x ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 x^{2}+\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)^{2}-2=5^{2}-2=25-2=23 x 2 + x 2 1 ​ = ( x + x 1 ​ ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 ধাপ 2: x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান नির্ণয় x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান নির্ণয় করতে হলে: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right) x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) এখানে x − 1 x x-\\frac{1}{x} x − x 1 ​ এর মান নির্ণয় করতে হবে। আমরা জানি: ( x − 1 x ) 2 = x 2 − 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 − 2 + 1 x 2 \\left(x-\\frac{1}{x}\\right)^{2}=x^{2}-2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}-2+\\frac{1}{x^{2}} ( x − x 1 ​ ) 2 = x 2 − 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 − 2 + x 2 1 ​ অতএব: ( x − 1 x ) 2 = x 2 + 1 x 2 − 2 = 23 − 2 = 21 x − 1 x = 21 \\begin{aligned} \\left(x-\\frac{1}{x}\\right)^{2}= & x^{2}+\\frac{1}{x^{2}}-2=23-2=21 \\\\ & x-\\frac{1}{x}=\\sqrt{21} \\end{aligned} ( x − x 1 ​ ) 2 = ​ x 2 + x 2 1 ​ − 2 = 23 − 2 = 21 x − x 1 ​ = 21 ​ ​ অতএব: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) = 5 × 21 = 5 21 x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right)=5 \\times \\sqrt{21}=5 \\sqrt{21} x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) = 5 × 21 ​ = 5 21 ​ x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় করতে হলে: x 3 + 1 x 3 = ( x + 1 x ) 3 − 3 ⋅ x ⋅ 1 x ( x + 1 x ) x^{3}+\\frac{1}{x^{3}}=\\left(x+\\frac{1}{x}\\right)^{3}-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right) x 3 + x 3 1 ​ = ( x + x 1 ​ ) 3 − 3 ⋅ x ⋅ x 1 ​ ( x + x 1 ​ ) অতএব: x 3 + 1 x 3 = 5 3 − 3 × 5 = 125 − 15 = 110 x^{3}+\\frac{1}{x^{3}}=5^{3}-3 \\times 5=125-15=110 x 3 + x 3 1 ​ = 5 3 − 3 × 5 = 125 − 15 = 110 x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 এর সত্যতা যাচাই প্রদত্ত সমীকরণ x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 কে x x x দ্বারা গুণ করে পাই: x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 \\begin{array}{c} x^{2}+1=5 x \\\\ x^{2}-5 x+1=0 \\end{array} x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 ​ অত,এব, x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক। উত্তর: i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ সঠিক ii. x 3 + 1 x 3 = 110 x^{3}+\\frac{1}{x^{3}}=110 x 3 + x 3 1 ​ = 110 সঠিক iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক অত,এব, i, ii, এবং iii সবগুলি সঠিক।"
+    },
+    {
+      "number": "25",
+      "tag": "RUMC 24",
+      "question": "∠ E F G + ∠ E G F \\angle E F G+\\angle E G F ∠ EFG + ∠ EGF এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "130 ∘ 130^{\\circ} 13 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "135 ∘ 135^{\\circ} 13 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "240 ∘ 240^{\\circ} 24 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "125 ∘ 125^{\\circ} 12 5 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "130 ∘ 130^{\\circ} 13 0 ∘",
+      "option_b": "135 ∘ 135^{\\circ} 13 5 ∘",
+      "option_c": "240 ∘ 240^{\\circ} 24 0 ∘",
+      "option_d": "125 ∘ 125^{\\circ} 12 5 ∘",
+      "correct": "ঘ",
+      "explanation": "A F = F E \\mathrm{AF}=\\mathrm{FE} AF = FE হওয়ায় ∠ E A F = ∠ A E F = 35 ∘ \\angle \\mathrm{EAF}=\\angle \\mathrm{AEF}=35^{\\circ} ∠ EAF = ∠ AEF = 3 5 ∘ B G = E G \\mathrm{BG}=\\mathrm{EG} BG = EG হওয়ায় ∠ E B G = ∠ G E B = 30 ∘ \\angle \\mathrm{EBG}=\\angle \\mathrm{GEB}=30^{\\circ} ∠ EBG = ∠ GEB = 3 0 ∘ ∠ E F G = \\angle \\mathrm{EFG}= ∠ EFG = বিপরীত অন্তঃস্থ ∠ E A F + \\angle \\mathrm{EAF}+ ∠ EAF + বিপরীত অন্তঃস্থ ∠ A E F \\angle \\mathrm{AEF} ∠ AEF = 35 ∘ + 35 ∘ = 70 ∘ =35^{\\circ}+35^{\\circ}=70^{\\circ} = 3 5 ∘ + 3 5 ∘ = 7 0 ∘ ∠ E G F = \\angle \\mathrm{EGF}= ∠ EGF = বিপরীত অন্তঃস্থ ∠ E B G + \\angle \\mathrm{EBG}+ ∠ EBG + বিপরীত অন্তঃস্থ ∠ G E B \\angle \\mathrm{GEB} ∠ GEB = 30 ∘ + 30 ∘ = 60 ∘ =30^{\\circ}+30^{\\circ}=60^{\\circ} = 3 0 ∘ + 3 0 ∘ = 6 0 ∘ ∴ ∠ E F G + ∠ E G F = 70 ∘ + 60 ∘ = 130 ∘ \\therefore \\angle \\mathrm{EFG}+\\angle \\mathrm{EGF}=70^{\\circ}+60^{\\circ}=130^{\\circ} ∴ ∠ EFG + ∠ EGF = 7 0 ∘ + 6 0 ∘ = 13 0 ∘"
+    },
+    {
+      "number": "26",
+      "tag": "RUMC 24",
+      "question": "একটি সিলিন্ডারের উচ্চতা 10 সে.মি. এবং ব্যাস 0.14 মিটার। সমগ্রপৃষ্ঠের ক্ষেত্রফল এবং শেষ পৃষ্ঠের ক্ষেত্রফলের মধ্যে পার্থক্য কত বৰ্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "239.6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "339.7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "439.8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "593.8",
+          "is_correct": true
+        }
+      ],
+      "option_a": "239.6",
+      "option_b": "339.7",
+      "option_c": "439.8",
+      "option_d": "593.8",
+      "correct": "ঘ",
+      "explanation": "সিলিন্ডারের ব্যাসার্ধ r = 0.14 2 = 0.07 r=\\frac{0.14}{2}=0.07 r = 2 0.14 ​ = 0.07 মিটার = 7 =7 = 7 সে.মি. ∴ \\therefore ∴ সমগ্রপৃষ্ঠের ক্ষেত্রফল ও শেষ পৃষ্ঠের ক্ষেত্রফলের মধ্যে পার্থক্য = 2 π r ( r + h ) − π r 2 = 2 π r 2 + 2 π r h − π r 2 = 2 π h 2 + π r 2 = π r ( 2 h + r ) = 3.1416 × 7 × ( 2 × 10 + 7 ) = 593.8  বর্গ সে.মি. (প্রায়)  \\begin{array}{l} =2 \\pi r(r+h)-\\pi r^{2}=2 \\pi r^{2}+2 \\pi r h-\\pi r^{2} \\\\ =2 \\pi h^{2}+\\pi r^{2}=\\pi r(2 h+r) \\\\ =3.1416 \\times 7 \\times(2 \\times 10+7) \\\\ =593.8 \\text { বর্গ সে.মি. (প্রায়) } \\end{array} = 2 π r ( r + h ) − π r 2 = 2 π r 2 + 2 π r h − π r 2 = 2 π h 2 + π r 2 = π r ( 2 h + r ) = 3.1416 × 7 × ( 2 × 10 + 7 ) = 593.8   বর্গ   সে . মি . ( প্রায় )  ​"
+    },
+    {
+      "number": "27",
+      "tag": "CTG.B 22,RUMC 24",
+      "question": "কী নির্ণয়ের জন্য ক্রমযোজিত গণসংখ্যা প্রয়োজন হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "গাণিতিক গড়",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "গড়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্রচুরক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মধ্যক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "গাণিতিক গড়",
+      "option_b": "গড়",
+      "option_c": "প্রচুরক",
+      "option_d": "মধ্যক",
+      "correct": "ক",
+      "explanation": "শুধুমাত্র মধ্যক এবং অজিভরেখা অংকন করতে ক্রমোযোজিত গণসংখ্যার প্রয়োজন হয়।"
+    },
+    {
+      "number": "28",
+      "tag": "RUMC 24",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও : শ্রেণি ব্যপ্তি 21-23 24-26 27-29 30-32 গণসংখ্যা 3 5 7 5 প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25.5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27.1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "28.0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "28.5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "25.5",
+      "option_b": "27.1",
+      "option_c": "28.0",
+      "option_d": "28.5",
+      "correct": "ঘ",
+      "explanation": "এখানে, প্রচুরক শ্রেণী = ( 27 − 29 ) =(27-29) = ( 27 − 29 ) L = 27 , f 1 = ( 7 − 5 ) = 2 , f 2 = ( 7 − 5 ) = 2 , h = 3 L=27, f_{1}=(7-5)=2, f_{2}=(7-5)=2, h=3 L = 27 , f 1 ​ = ( 7 − 5 ) = 2 , f 2 ​ = ( 7 − 5 ) = 2 , h = 3 ∴  প্রচুরক  = L + f 1 f 1 + f 2 × h = 27 + 2 × 3 2 + 2 = 27 + 6 4 = 28.5 \\begin{array}{l} \\therefore \\text { প্রচুরক }=L+\\frac{f_{1}}{f_{1}+f_{2}} \\times h \\\\ =27+\\frac{2 \\times 3}{2+2} \\\\ =27+\\frac{6}{4} \\\\ =28.5 \\end{array} ∴   প্রচুরক   = L + f 1 ​ + f 2 ​ f 1 ​ ​ × h = 27 + 2 + 2 2 × 3 ​ = 27 + 4 6 ​ = 28.5 ​"
+    },
+    {
+      "number": "29",
+      "tag": "RUMC 24",
+      "question": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও : শ্রেণি ব্যপ্তি 21-23 24-26 27-29 30-32 গণসংখ্যা 3 5 7 5 প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25.5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27.1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "28.0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "28.5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "25.5",
+      "option_b": "27.1",
+      "option_c": "28.0",
+      "option_d": "28.5",
+      "correct": "ঘ",
+      "explanation": "এখানে, প্রচুরক শ্রেণী = ( 27 − 29 ) =(27-29) = ( 27 − 29 ) L = 27 , f 1 = ( 7 − 5 ) = 2 , f 2 = ( 7 − 5 ) = 2 , h = 3 L=27, f_{1}=(7-5)=2, f_{2}=(7-5)=2, h=3 L = 27 , f 1 ​ = ( 7 − 5 ) = 2 , f 2 ​ = ( 7 − 5 ) = 2 , h = 3 ∴  প্রচুরক  = L + f 1 f 1 + f 2 × h = 27 + 2 × 3 2 + 2 = 27 + 6 4 = 28.5 \\begin{array}{l} \\therefore \\text { প্রচুরক }=L+\\frac{f_{1}}{f_{1}+f_{2}} \\times h \\\\ =27+\\frac{2 \\times 3}{2+2} \\\\ =27+\\frac{6}{4} \\\\ =28.5 \\end{array} ∴   প্রচুরক   = L + f 1 ​ + f 2 ​ f 1 ​ ​ × h = 27 + 2 + 2 2 × 3 ​ = 27 + 4 6 ​ = 28.5 ​"
+    },
+    {
+      "number": "1",
+      "tag": "RUMC 24",
+      "question": "একটি গাছের ছায়ার দৈর্ঘ্য এর উচ্চতার √3 গুণ। সূর্যের উন্নতি কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_b": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_c": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_d": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

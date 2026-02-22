@@ -1,0 +1,832 @@
+{
+  "read_id": "0gftvBJOX5v9dTnx",
+  "title": "দিনাজপুর বোর্ড ২০২৫",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DIN.B 25",
+      "question": "সমবৃত্তভূমিক ও সমান উচ্চতাবিশিষ্ট একটি অর্ধগোলক, একটি কোণক ও একটি সিলিন্ডারের আয়তনের অনুপাত নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3:2:1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1:2:3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2:3:1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2:1:3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3:2:1",
+      "option_b": "1:2:3",
+      "option_c": "2:3:1",
+      "option_d": "2:1:3",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "DIN.B 25,NISD 24,DB 19",
+      "question": "যে কোনো ঘটনা ঘটার সম্ভাবনা P(A) হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0 ≤ P ( A ) < 1 0 \\leq P(A)<1 0 ≤ P ( A ) < 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0 ≤ P ( A ) ≤ 1 0 \\leq P(A) \\leq 1 0 ≤ P ( A ) ≤ 1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0 < P ( A ) ≤ 1 0 < P(A) \\leq 1 0 < P ( A ) ≤ 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0 < P ( A ) < 1 0 < P(A) < 1 0 < P ( A ) < 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0 ≤ P ( A ) < 1 0 \\leq P(A)<1 0 ≤ P ( A ) < 1",
+      "option_b": "0 ≤ P ( A ) ≤ 1 0 \\leq P(A) \\leq 1 0 ≤ P ( A ) ≤ 1",
+      "option_c": "0 < P ( A ) ≤ 1 0 < P(A) \\leq 1 0 < P ( A ) ≤ 1",
+      "option_d": "0 < P ( A ) < 1 0 < P(A) < 1 0 < P ( A ) < 1",
+      "correct": "খ",
+      "explanation": "সম্ভাবনা অবশ্যই 0থেকে 1 এর মধ্যে হবে। 0 হলে তা অবাস্তব বা অসম্ভব ঘটনা এবং 1 হলে তা নিশ্চিত ঘটনা। সুতরাং সঠিক উত্তর খ"
+    },
+    {
+      "number": "3",
+      "tag": "DIN.B 25,DB 23",
+      "question": "দুইটি মুদ্রা নিক্ষেপের ক্ষেত্রে- i বড়জোর দুইটি H পাওয়ার সম্ভাবনা = 1 ii. কমপক্ষে একটি T পাওয়ার সম্ভাবনা = 3/4 iii. T-T একটি নমুন বিন্দু নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "দুটি মুদ্রা নিক্ষেপ করলে মোট সম্ভাব্য ফলাফল চারটি: HH, HT, TH, TT। \"বড়জোর দুইটি H\" মানে ০, ১ বা ২টি H। এই তিনটি ক্ষেত্রেই ফলাফল সম্ভব, তাই সম্ভাবনা ১। \"কমপক্ষে একটি T\" মানে ১ বা ২টি T। এই দুটি ক্ষেত্রে ফলাফল সম্ভব, তাই সম্ভাবনা ৩/৪। \"T-T\" একটি সম্ভাব্য ফলাফল, তাই এটি একটি নমুনা বিন্দু সঠিক উত্তর হল i, ii এবং iii"
+    },
+    {
+      "number": "4",
+      "tag": "CB 20",
+      "question": "নিচের কোনটি বহুপদী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 x + 2 y \\frac{6}{x}+2 y x 6 ​ + 2 y",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x + y \\sqrt{x}+y x ​ + y",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 + 1 x 3 + 1 \\frac{x^{2}+1}{x^{3}+1} x 3 + 1 x 2 + 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 5 \\frac{x}{5} 5 x ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6 x + 2 y \\frac{6}{x}+2 y x 6 ​ + 2 y",
+      "option_b": "x + y \\sqrt{x}+y x ​ + y",
+      "option_c": "x 2 + 1 x 3 + 1 \\frac{x^{2}+1}{x^{3}+1} x 3 + 1 x 2 + 1 ​",
+      "option_d": "x 5 \\frac{x}{5} 5 x ​",
+      "correct": "ঘ",
+      "explanation": "বহুপদীর সংজ্ঞা: একরি রাশিকে বহুপদী বলা হয় যদি: চলকগুলির ঘাত অঋণাত্মক পূর্ণসং খ্যা হয় (যেমন: x 0 , x 1 , x 2 , … x^{0}, x^{1}, x^{2}, \\ldots x 0 , x 1 , x 2 , … )। কোনো চলক হর বা মূল চিহ্নের ভিতরে থাকবে না। চলকের সংখ্যা সসীম হতে হবে। এটিকে 1 5 x 5 \\frac{1}{5} x^{5} 5 1 ​ x 5 আকারে লেখা যায়, যেখানে: x x x -এর ঘাত 5 ( অঋণাত্মক পূর্ণসংখ্যা )। হরে শুধুমাত্র ধ্রুবক (5) আছে, চলক নেই। ∴ \\therefore ∴ বহুপদী"
+    },
+    {
+      "number": "5",
+      "tag": "DIN.B 25",
+      "question": "1 5 + 1 5 2 + 1 5 3 + \\frac{1}{5}+\\frac{1}{5^{2}}+\\frac{1}{5^{3}}+ 5 1 ​ + 5 2 1 ​ + 5 3 1 ​ + … … … … . …………. ………… . ধারার অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 5 \\frac{1}{5} 5 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3 5 \\frac{3}{5} 5 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 5 \\frac{1}{5} 5 1 ​",
+      "option_c": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_d": "3 5 \\frac{3}{5} 5 3 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "DIN.B 25",
+      "question": "যদি P ( x ) = x 3 − x 2 − 10 x − 8 P(x)=x^{3}-x^{2}-10 x-8 P ( x ) = x 3 − x 2 − 10 x − 8 হয় , নিচের কোনটি P(x) এর একটি উৎপাদক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x + 7 x+7 x + 7",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x + 2 x+2 x + 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "x − 11 x-11 x − 11",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x − 20 x-20 x − 20",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x + 7 x+7 x + 7",
+      "option_b": "x + 2 x+2 x + 2",
+      "option_c": "x − 11 x-11 x − 11",
+      "option_d": "x − 20 x-20 x − 20",
+      "correct": "খ",
+      "explanation": "ধরি, x = − 2 x=-2 x = − 2 x + 2 = 0 x+2=0 x + 2 = 0 P ( x ) = x 3 − x 2 − 10 x − 8 P(x)=x^3-x^2-10x-8 P ( x ) = x 3 − x 2 − 10 x − 8 P ( − 2 ) = ( − 2 ) 3 − ( − 2 ) 2 + 10.2 − 8 P(-2)=(-2)^3-(-2)^2+10.2-8 P ( − 2 ) = ( − 2 ) 3 − ( − 2 ) 2 + 10.2 − 8 = − 8 − 4 + 20 − 8 =-8-4+20-8 = − 8 − 4 + 20 − 8 P ( − 2 ) = 0 P(-2)=0 P ( − 2 ) = 0 ∴ ( x + 2 ) \\therefore (x+2) ∴ ( x + 2 ) , P ( x ) P(x) P ( x ) -এর একটি উৎপাদক"
+    },
+    {
+      "number": "7",
+      "tag": "DIN.B 25",
+      "question": "x ≤ 4 − x 3 x \\leq 4-\\frac{x}{3} x ≤ 4 − 3 x ​ অসমতাটির সমাধান সেট কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x ∈ R : x > 3 } \\{x \\in R: x>3\\} { x ∈ R : x > 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x ∈ R : x < 3 } \\{x \\in R: x<3\\} { x ∈ R : x < 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x ∈ R : x ≤ 3 } \\{x \\in R: x \\leq 3\\} { x ∈ R : x ≤ 3 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x ∈ R : x ≥ 3 } \\{x \\in R: x \\geq 3\\} { x ∈ R : x ≥ 3 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x ∈ R : x > 3 } \\{x \\in R: x>3\\} { x ∈ R : x > 3 }",
+      "option_b": "{ x ∈ R : x < 3 } \\{x \\in R: x<3\\} { x ∈ R : x < 3 }",
+      "option_c": "{ x ∈ R : x ≤ 3 } \\{x \\in R: x \\leq 3\\} { x ∈ R : x ≤ 3 }",
+      "option_d": "{ x ∈ R : x ≥ 3 } \\{x \\in R: x \\geq 3\\} { x ∈ R : x ≥ 3 }",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "DIN.B 25",
+      "question": "MN সরলরেখার সমীকরণ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "y = 4 5 x − 4 y=\\frac{4}{5} x-4 y = 5 4 ​ x − 4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "y = 4 x 5 − 20 y=\\frac{4 x}{5}-20 y = 5 4 x ​ − 20",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x = 4 5 y − 4 x=\\frac{4}{5} \\quad y-4 x = 5 4 ​ y − 4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x = 4 y 5 + 20 x=\\frac{4 y}{5}+20 x = 5 4 y ​ + 20",
+          "is_correct": false
+        }
+      ],
+      "option_a": "y = 4 5 x − 4 y=\\frac{4}{5} x-4 y = 5 4 ​ x − 4",
+      "option_b": "y = 4 x 5 − 20 y=\\frac{4 x}{5}-20 y = 5 4 x ​ − 20",
+      "option_c": "x = 4 5 y − 4 x=\\frac{4}{5} \\quad y-4 x = 5 4 ​ y − 4",
+      "option_d": "x = 4 y 5 + 20 x=\\frac{4 y}{5}+20 x = 5 4 y ​ + 20",
+      "correct": "ক",
+      "explanation": "প্রদত্ত ছবিতে MN সরলরেখার সমীকরণ খুঁজে বের করতে হবে। সরলরেখার সমীকরণ সাধারণত (y = mx + c) আকারে থাকে, যেখানে m হলো সরলরেখার ঢাল এবং c হলো ঋজুজের কাটার বিন্দু। সরলরেখার সমীকরণ নির্ণয় করার জন্য আমাদের দরকার দুইটি বিন্দু, যা থেকে সরলরেখার ঢাল নির্ণয় করা যাবে এবং তারপর একটি বিন্দু ব্যবহার করে ঋজুজের কাটার বিন্দু নির্ণয় করা যাবে। প্রদত্ত অপশন থেকে, আমরা বিকল্প (A) y = 4 5 x − 4 y=\\frac{4}{5} x-4 y = 5 4 ​ x − 4 সরলরেখার সমীকরণ চয়ন করতে পারি, কারণ এটি সাধারণত একটি সঠিক বিন্যাসে একটি সরলরেখার সমীকরণ। যদি এই সমীকরণটি সঠিক হয় তবে ধরা যায় (m = 4 5 \\frac{4}{5} 5 4 ​ ) এবং c = -4) । অপশন (B), (C), এবং (D) এ প্রদত্ত সমীকরণগুলি সাধারণ আকারের সাথে মিল নেই বা সরলরেখার সমীকরণ রূপে প্রকাশ করা নেই। অতএব, MN সরলরেখার সমীকরণ হল y = 4 5 x − 4 y=\\frac{4}{5} x-4 y = 5 4 ​ x − 4 , যা বিকল্প (A) তে দেওয়া আছে।"
+    },
+    {
+      "number": "9",
+      "tag": "DIN.B 25",
+      "question": "( a 2 − 6 a + 9 ) 3 \\left(a^{2}-6 a+9\\right)^{3} ( a 2 − 6 a + 9 ) 3 এর বিস্তৃতির পদ সংখ্যা কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "7",
+      "option_d": "10",
+      "correct": "গ",
+      "explanation": "( a 2 − 6 a + 9 ) 3 = ( a 2 − 2 ⋅ a ⋅ 3 + 3 2 ) 3 = { ( a − 3 ) 2 } 3 = ( a − 3 ) 6  পদসংখ্যা  = n + 1 = 6 + 1 = 7 \\begin{array}{l}\\left(a^{2}-6 a+9\\right)^{3} \\\\ =\\left(a^{2}-2 \\cdot a \\cdot 3+3^{2}\\right)^{3} \\\\ =\\left\\{(a-3)^{2}\\right\\}^{3} \\\\ =(a-3)^{6} \\\\ \\text { পদসংখ্যা }=n+1 \\\\ =6+1 \\\\ =7\\end{array} ( a 2 − 6 a + 9 ) 3 = ( a 2 − 2 ⋅ a ⋅ 3 + 3 2 ) 3 = { ( a − 3 ) 2 } 3 = ( a − 3 ) 6   পদসংখ্যা   = n + 1 = 6 + 1 = 7 ​"
+    },
+    {
+      "number": "10",
+      "tag": "CB 23,MB 22,SB 22,JB 22,MB 21,BB 20,JB 19,All.B 18",
+      "question": "x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটি- i. সমমাত্রিক ii. চক্রক্রমিক iii. প্রতিসম নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "প্রদত্ত রাশি: x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটিকে প্রসারিত করে সরলীকরণ প্রথমে প্রতিতি বন্ধনীকে প্রসারিত করি: = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 =x y^{2}-x z^{2}+y z^{2}-y x^{2}+z x^{2}-z y^{2} = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 পদগুলিকে পুনর্বিন্যাস করি: = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 =-x^{2} y+x y^{2}-y^{2} z+y z^{2}-z^{2} x+z x^{2} = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 এখন, আমরা লক্ষ্য করি যে এটি একটি চক্রক্রমিক রাশি, কারণ x , y x, y x , y , এবং z z z কে চক্রাকারে পরিবর্তন করলে রাশির গঠন অপরিবর্তিত থাকে। উদাহরণস্বরূপ: x → y , y → z , z → x x \\rightarrow y, y \\rightarrow z, z \\rightarrow x x → y , y → z , z → x প্রতিস্থাপন করলে: − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 -y^{2} z+y z^{2}-z^{2} x+z x^{2}-x^{2} y+x y^{2} − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 যা মূল রাশির সমান। সমমাত্রিকতা পরীক্ষা প্রর্তিটি পদের মোট ঘাত (ডিগ্রি) গণনা করি: − x 2 y : 2 + 1 = 3 -x^{2} y: 2+1=3 − x 2 y : 2 + 1 = 3 x y 2 : 1 + 2 = 3 x y^{2}: 1+2=3 x y 2 : 1 + 2 = 3 − y 2 z : 2 + 1 = 3 -y^{2} z: 2+1=3 − y 2 z : 2 + 1 = 3 y z 2 : 1 + 2 = 3 y z^{2}: 1+2=3 y z 2 : 1 + 2 = 3 − z 2 x : 2 + 1 = 3 -z^{2} x: 2+1=3 − z 2 x : 2 + 1 = 3 সকল পদের ডিগ্রি 3, তাই রাশিটি সমমাত্রিক । প্রতিসমতা পরীক্ষা রাশিটি প্রতিসম (Symmetric) নয়, কারণ যেকোনো দুটি চলক অদলবদল করলে রাশিটি অপরিবর্তিত থাকে না। উদাহরণস্বরূপ: x x x ও y y y অদলবদল করলে: y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) y\\left(x^{2}-z^{2}\\right)+x\\left(z^{2}-y^{2}\\right)+z\\left(y^{2}-x^{2}\\right) y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) যা মূল রাশির সমান নয়। সঠিক উত্তর: রাশিটি সমমাত্রিক এবং চক্রক্রমিক, কিন্তু প্রতিসম নয়। ∴ i \\therefore \\mathbf{i} ∴ i ও ii সঠিক।"
+    },
+    {
+      "number": "11",
+      "tag": "DIN.B 25,BB 24,BB 21",
+      "question": "y = x + 5 এবং y = - x + 5 রেখায়য়ের ছেদবিন্দু নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(0,0)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "(-5, 5)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(5, 0)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(0,5 )",
+          "is_correct": true
+        }
+      ],
+      "option_a": "(0,0)",
+      "option_b": "(-5, 5)",
+      "option_c": "(5, 0)",
+      "option_d": "(0,5 )",
+      "correct": "ঘ",
+      "explanation": "এখানে, দুটি সমীকরণ দেওয়া আছে:  y = x + 5 y = -x + 5 ছেদবিন্দু বের করার জন্য, দুটি সমীকরণকে একসাথে সমাধান করতে হবে। যেহেতু উভয় সমীকরণে y এর মান দেওয়া আছে, তাই আমরা দুটি সমীকরণকে সমান করতে পারি: x + 5 = -x + 5 এখন, x এর মান বের করার জন্য সমাধান করি: 2x = 0 x = 0  x এর মান যেকোনো একটি সমীকরণে বসালে, y এর মান পাওয়া যাবে: y = x + 5 y = 0 + 5 y = 5  সুতরাং, ছেদবিন্দুর স্থানাঙ্ক (0, 5)।"
+    },
+    {
+      "number": "12",
+      "tag": "DIN.B 25",
+      "question": "tan ⁡ 20 x = cot ⁡ 10 x \\tan 20 x=\\cot 10 x tan 20 x = cot 10 x হলে x এর মান কত ডিগ্রি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 ∘ 3^{\\circ} 3 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 ∘ 4^{\\circ} 4 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6 ∘ 6^{\\circ} 6 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8 ∘ 8^{\\circ} 8 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 ∘ 3^{\\circ} 3 ∘",
+      "option_b": "4 ∘ 4^{\\circ} 4 ∘",
+      "option_c": "6 ∘ 6^{\\circ} 6 ∘",
+      "option_d": "8 ∘ 8^{\\circ} 8 ∘",
+      "correct": "ক",
+      "explanation": "আমরা জানি যে, tan(θ) = cot(90 - θ)। সুতরাং, প্রদত্ত সমীকরণ tan20x = cot10x কে এভাবে লেখা যায়: tan20x = tan(90 - 10x) সুতরাং, 20x = 90 - 10x এখন, x এর মান বের করার জন্য: 20x + 10x = 90 30x = 90 x = (90 ÷ 30) x = 3 সুতরাং, x এর মান 3 ডিগ্রি।"
+    },
+    {
+      "number": "13",
+      "tag": "DIN.B 25",
+      "question": "চিত্রে PQR ত্রিভুজের ভরকেন্দ্র G হলে- i. P L : P G = 3 : 2 P L: P G=3: 2 P L : PG = 3 : 2 ii. P L → + Q M → + R N → = 0 ‾ \\overrightarrow{P L}+\\overrightarrow{Q M}+\\overrightarrow{R N}=\\underline{0} P L + QM ​ + RN = 0 ​ iii. P R → + P Q → = 2 P L → \\quad \\overrightarrow{P R}+\\overrightarrow{P Q}=2 \\overrightarrow{P L} PR + PQ ​ = 2 P L নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "DIN.B 25",
+      "question": "যদি M N = 1 M N=1 MN = 1 এবং L M = 3 L M=\\sqrt{3} L M = 3 ​ হয়, তবে cos ⁡ ( − θ ) + tan ⁡ ( − θ ) = \\cos (-\\theta)+\\tan (-\\theta)= cos ( − θ ) + tan ( − θ ) = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 6 \\frac{\\sqrt{3}}{6} 6 3 ​ ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5 3 6 \\frac{5 \\sqrt{3}}{6} 6 5 3 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 3 − 1 2 \\frac{2 \\sqrt{3}-1}{2} 2 2 3 ​ − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 − 1 \\sqrt{3}-1 3 ​ − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 6 \\frac{\\sqrt{3}}{6} 6 3 ​ ​",
+      "option_b": "5 3 6 \\frac{5 \\sqrt{3}}{6} 6 5 3 ​ ​",
+      "option_c": "2 3 − 1 2 \\frac{2 \\sqrt{3}-1}{2} 2 2 3 ​ − 1 ​",
+      "option_d": "3 − 1 \\sqrt{3}-1 3 ​ − 1",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "DIN.B 25",
+      "question": "1 l 2 + n 2 + n l 2 + n 2 = 2 \\frac{1}{\\sqrt{l^{2}+n^{2}}}+\\frac{n}{\\sqrt{l^{2}+n^{2}}}=\\sqrt{2} l 2 + n 2 ​ 1 ​ + l 2 + n 2 ​ n ​ = 2 ​ সমীকরণের সমাধান নিচের কোনটি? যখন 0 < θ < π 2 − 0<\\theta<\\frac{\\pi}{2}- 0 < θ < 2 π ​ −",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π 2 \\frac{\\pi}{2} 2 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "π 3 \\frac{\\pi}{3} 3 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π 4 \\frac{\\pi}{4} 4 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "π 6 \\frac{\\pi}{6} 6 π ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π 2 \\frac{\\pi}{2} 2 π ​",
+      "option_b": "π 3 \\frac{\\pi}{3} 3 π ​",
+      "option_c": "π 4 \\frac{\\pi}{4} 4 π ​",
+      "option_d": "π 6 \\frac{\\pi}{6} 6 π ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "DIN.B 25",
+      "question": "(512) x = (64) y হলে, y: x = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3:2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2:3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1:1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1:8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3:2",
+      "option_b": "2:3",
+      "option_c": "1:1",
+      "option_d": "1:8",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "DIN.B 25",
+      "question": "যদি S = { ( − 2 , 4 ) , ( − 1 , 1 ) , ( 0 , 0 ) , ( 1 , 1 ) } S=\\{(-2,4),(-1,1),(0,0),(1,1)\\} S = {( − 2 , 4 ) , ( − 1 , 1 ) , ( 0 , 0 ) , ( 1 , 1 )} , হয়, তবে- i. S S S এর রেঞ্জ { 4 , 1 , 0 ) } \\{4,1,0)\\} { 4 , 1 , 0 )} ii. S − 1 = { ( 4 , − 2 ) , ( 1 , − 1 ) , ( 0 , 0 ) , ( 1 , 1 ) } \\quad S^{-1}=\\{(4,-2),(1,-1),(0,0),(1,1)\\} S − 1 = {( 4 , − 2 ) , ( 1 , − 1 ) , ( 0 , 0 ) , ( 1 , 1 )} iii. S S S এক-এক ফাংশন নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "রেঞ্জ: একটি সেটের রেঞ্জ হল সেই উপাদানগুলির সেট যা সেটের দ্বিতীয় উপাদান হিসাবে উপস্থিত থাকে। S সেটের ক্ষেত্রে, রেঞ্জ হবে {4, 1, 0}। ইনভার্স (S-1): একটি সেটের ইনভার্স (S-1) হল সেই সেট যা মূল সেটের উপাদানগুলির স্থান পরিবর্তন করে গঠিত হয়। S সেটের ক্ষেত্রে, S-1 = {(4, -2), (1, -1), (0, 0), (1, 1)} হবে। এক-এক ফাংশন: একটি ফাংশন এক-এক হবে যদি x এর প্রতিটি ভিন্ন মানের জন্য y এর একটি ভিন্ন মান থাকে। S সেটে, যখন x = -1 এবং x = 1, তখন y = 1 হয়। সুতরাং, S এক-এক ফাংশন নয়। সঠিক উত্তর হল \" i ও ii \""
+    },
+    {
+      "number": "3",
+      "tag": "DIN.B 25",
+      "question": "৪ সে.মি., 10 সে.মি. এবং 14 সে.মি. ব্যাসবিশিষ্ট তিনটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে এদের কেন্দ্রত্রয় দ্বারা উৎপন্ন ত্রিভুজের পরিসীমা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "64 সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "32 সে.মি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "24 সে.মি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16 সে.মি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "64 সে.মি",
+      "option_b": "32 সে.মি",
+      "option_c": "24 সে.মি",
+      "option_d": "16 সে.মি",
+      "correct": "খ",
+      "explanation": "প্রথমে, ব্যাস থেকে ব্যাসার্ধ বের করুন: প্রথম বৃত্তের ব্যাসার্ধ: 8সেমি / 2 = 4 সেমি দ্বিতীয় বৃত্তের ব্যাসার্ধ: 10 সেমি / 2 = 5 সেমি তৃতীয় বৃত্তের ব্যাসার্ধ: 14 সেমি / 2 = 7 সেমি কেন্দ্রত্রয় দ্বারা গঠিত ত্রিভুজের বাহুগুলোর দৈর্ঘ্য বের করুন: প্রথম ও দ্বিতীয় বৃত্তের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব: 4 সেমি + 5 সেমি = 9 সেমি দ্বিতীয় ও তৃতীয় বৃত্তের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব: 5 সেমি + 7 সেমি = 12 সেমি তৃতীয় ও প্রথম বৃত্তের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব: 7 সেমি + 4 সেমি = 11 সেমি ত্রিভুজের পরিসীমা বের করুন: পরিসীমা = 9 সেমি + 12 সেমি + 11 সেমি = 32 সেমি। সুতরাং, ত্রিভুজের পরিসীমা 32 সেমি"
+    },
+    {
+      "number": "4",
+      "tag": "DIN.B 25",
+      "question": "MN রেখার ঢাল নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 5 \\frac{4}{5} 5 4 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 4 \\frac{5}{4} 4 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 5 4 -\\frac{5}{4} − 4 5 ​",
+      "option_b": "− 4 5 -\\frac{4}{5} − 5 4 ​",
+      "option_c": "4 5 \\frac{4}{5} 5 4 ​",
+      "option_d": "5 4 \\frac{5}{4} 4 5 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "DIN.B 25",
+      "question": "log ⁡ 8 z = 2 2 3 \\log _{\\sqrt{8}} z=2 \\frac{2}{3} lo g 8 ​ ​ z = 2 3 2 ​ হলে Z এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "64",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4",
+      "option_b": "8",
+      "option_c": "16",
+      "option_d": "64",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "DIN.B 25",
+      "question": "F ( x ) = 1 2 − 5 x F(x)=\\frac{1}{\\sqrt{2-5 x}} F ( x ) = 2 − 5 x ​ 1 ​ ফাংশনের ডোমেন নিচের কোনটি ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x ∈ R : x ≥ 2 5 } \\left\\{x \\in R: x \\geq \\frac{2}{5}\\right\\} { x ∈ R : x ≥ 5 2 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x ∈ R : x ≤ 2 5 } \\left\\{x \\in R: x \\leq \\frac{2}{5}\\right\\} { x ∈ R : x ≤ 5 2 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x ∈ R : x > 2 5 } \\left\\{x \\in R: x>\\frac{2}{5}\\right\\} { x ∈ R : x > 5 2 ​ }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x ∈ R : x < 2 5 } \\left\\{x \\in R: x<\\frac{2}{5}\\right\\} { x ∈ R : x < 5 2 ​ }",
+          "is_correct": true
+        }
+      ],
+      "option_a": "{ x ∈ R : x ≥ 2 5 } \\left\\{x \\in R: x \\geq \\frac{2}{5}\\right\\} { x ∈ R : x ≥ 5 2 ​ }",
+      "option_b": "{ x ∈ R : x ≤ 2 5 } \\left\\{x \\in R: x \\leq \\frac{2}{5}\\right\\} { x ∈ R : x ≤ 5 2 ​ }",
+      "option_c": "{ x ∈ R : x > 2 5 } \\left\\{x \\in R: x>\\frac{2}{5}\\right\\} { x ∈ R : x > 5 2 ​ }",
+      "option_d": "{ x ∈ R : x < 2 5 } \\left\\{x \\in R: x<\\frac{2}{5}\\right\\} { x ∈ R : x < 5 2 ​ }",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "DIN.B 25",
+      "question": "যদি M = { x : x ∈ N M=\\left\\{x: x \\in N\\right. M = { x : x ∈ N এবং 16 < x 2 < 100 হয়, তবে M সেটের উপসেট কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "64",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "31",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "64",
+      "option_b": "32",
+      "option_c": "31",
+      "option_d": "16",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "DIN.B 25",
+      "question": "একটি সমবাহু ত্রিভুজের প্রতিটি মধ্যমার দৈর্ঘ্য 3 সে.মি. হলে প্রতিটি বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 3 3 \\sqrt{3} 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 3 2 \\sqrt{3} 2 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 2 2 \\sqrt{2} 2 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 3 2 \\frac{3 \\sqrt{3}}{2} 2 3 3 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 3 3 \\sqrt{3} 3 3 ​",
+      "option_b": "2 3 2 \\sqrt{3} 2 3 ​",
+      "option_c": "2 2 2 \\sqrt{2} 2 2 ​",
+      "option_d": "3 3 2 \\frac{3 \\sqrt{3}}{2} 2 3 3 ​ ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "DIN.B 25",
+      "question": "একটি ত্রিভুজের নববিন্দু বৃত্তের ক্ষেত্রফল 36 π \\pi π বর্গ একক হলে ঐ ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "36 π \\pi π বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "72 π \\pi π বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "144 π \\pi π বর্গ একক",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "288 π \\pi π বর্গ একক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "36 π \\pi π বর্গ একক",
+      "option_b": "72 π \\pi π বর্গ একক",
+      "option_c": "144 π \\pi π বর্গ একক",
+      "option_d": "288 π \\pi π বর্গ একক",
+      "correct": "গ",
+      "explanation": "একটি ত্রিভুজের নববিন্দু বৃত্তের ক্ষেত্রফল যদি A n এবং পরিবৃত্তের ক্ষেত্রফল A c হয়, তবে এদের মধ্যে সম্পর্কটি হল A c = 4 * A n ।  এখানে, নববিন্দু বৃত্তের ক্ষেত্রফল A n = 36π বর্গ একক দেওয়া আছে। সুতরাং, পরিবৃত্তের ক্ষেত্রফল A c = 4 * 36π = 144π বর্গ একক। সুতরাং, ত্রিভুজটির পরিবৃত্তের ক্ষেত্রফল 144π বর্গ একক।"
+    },
+    {
+      "number": "10",
+      "tag": "DIN.B 25",
+      "question": "যদি b 2 - 4ac পূর্ণবর্গ সংখ্যা হয়, তবে মূলের প্রকৃতি কীরূপ হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বাস্তব ও অমূলদ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বাস্তব ও মূলদ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বাস্তব ও সমান",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অবাস্তব",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বাস্তব ও অমূলদ",
+      "option_b": "বাস্তব ও মূলদ",
+      "option_c": "বাস্তব ও সমান",
+      "option_d": "অবাস্তব",
+      "correct": "খ",
+      "explanation": "যদি b² - 4ac একটি পূর্ণবর্গ সংখ্যা হয়, তবে দ্বিঘাত সমীকরণের মূলগুলি বাস্তব, অসমান এবং মূলদ হবে।  যদি ax² + bx + c = 0 একটি দ্বিঘাত সমীকরণ হয়, তবে এর মূলগুলো নির্ণয়ের জন্য সাধারণত যে সূত্রটি ব্যবহার করা হয়, সেটি হল: x = (-b ± √(b² - 4ac)) / 2a এখানে, b² - 4ac রাশিটিকে বলা হয় ডিসক্রিমিনেন্ট (discriminant)। এই ডিসক্রিমিনেন্টের মানের উপর নির্ভর করে দ্বিঘাত সমীকরণের মূলগুলোর প্রকৃতি কেমন হবে। যদি b² - 4ac > 0 হয়, তবে মূলগুলি বাস্তব ও অসমান হবে। যদি b² - 4ac একটি পূর্ণবর্গ সংখ্যা হয়, তবে মূলগুলি মূলদ (rational) হবে"
+    }
+  ]
+}

@@ -1,0 +1,898 @@
+{
+  "read_id": "ULqwpm9E7leKdBsR",
+  "title": "জয়পুরহাট গার্লস ক্যাডেট কলেজ ২০২৪",
+  "count": 27,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "BB 19,JGCC 24",
+      "question": "a , b , c ∈ R ; a > b > 0 a, b, c \\in \\R ; a>b>0 a , b , c ∈ R ; a > b > 0 এবং c < 0 c<0 c < 0 হলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a c = b c \\mathrm{ac}=\\mathrm{bc} ac = bc",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a c > b c \\mathrm{ac}>\\mathrm{bc} ac > bc",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a c < b c \\mathrm{ac}<\\mathrm{bc} ac < bc",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a b < b c \\mathrm{ab}<\\mathrm{bc} ab < bc",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a c = b c \\mathrm{ac}=\\mathrm{bc} ac = bc",
+      "option_b": "a c > b c \\mathrm{ac}>\\mathrm{bc} ac > bc",
+      "option_c": "a c < b c \\mathrm{ac}<\\mathrm{bc} ac < bc",
+      "option_d": "a b < b c \\mathrm{ab}<\\mathrm{bc} ab < bc",
+      "correct": "গ",
+      "explanation": "প্রদত্ত শর্ত অনুযায়ী a > b > 0 a > b > 0 a > b > 0 এবং c < 0 c < 0 c < 0 । আমরা এখানে a c ac a c এবং b c bc b c তুলনা করব: যেহেতু a > b a > b a > b এবং c < 0 c < 0 c < 0 , c c c এর সাথে গুন করলে, অসমতা বিপরীত হয়ে যাবে। তাই: a c < b c ac < bc a c < b c হবে।"
+    },
+    {
+      "number": "2",
+      "tag": "CB 24,JGCC 24",
+      "question": "নিচের কোনটি অবিচ্ছিন্ন চলক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জনসংখ্যা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শিক্ষার্থী সংখ্যা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বয়স",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "জন্মসাল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "জনসংখ্যা",
+      "option_b": "শিক্ষার্থী সংখ্যা",
+      "option_c": "বয়স",
+      "option_d": "জন্মসাল",
+      "correct": "গ",
+      "explanation": "যে সকল চলকের মান পূর্ণ সংখ্যা নয় অর্থাৎ ভগ্নাংশে পাওয়া যায় তাদেরকে অবিচ্ছন্ন চলক বলে।বয়স ভগ্নাংশে পাওয়া যায়, তাই এটি একটি অবিচ্ছিন্ন চলক"
+    },
+    {
+      "number": "3",
+      "tag": "JGCC 24",
+      "question": "A = { a , b } , B = { b , c } A=\\{a, b\\}, B=\\{b, c\\} A = { a , b } , B = { b , c } এবং C = { 3 , 4 } C=\\{3,4\\} C = { 3 , 4 } হলে, নিচের কোনটি ( A \\ B ) × C (\\mathrm{A\\backslash B}) \\times \\mathrm{C} ( A\\B ) × C নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "[ ( a , 3 ) , ( a , 4 ) ] [(a, 3),(a, 4)] [( a , 3 ) , ( a , 4 )]",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "[ { a , 3 } , { a , 4 } ] [\\{a, 3\\},\\{a, 4\\}] [{ a , 3 } , { a , 4 }]",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ { a , 3 } , { a , 4 } } \\{\\{\\mathrm{a}, 3\\},\\{\\mathrm{a}, 4\\}\\} {{ a , 3 } , { a , 4 }}",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ ( a , 3 ) , ( a , 4 ) } \\{(a, 3),(a, 4)\\} {( a , 3 ) , ( a , 4 )}",
+          "is_correct": true
+        }
+      ],
+      "option_a": "[ ( a , 3 ) , ( a , 4 ) ] [(a, 3),(a, 4)] [( a , 3 ) , ( a , 4 )]",
+      "option_b": "[ { a , 3 } , { a , 4 } ] [\\{a, 3\\},\\{a, 4\\}] [{ a , 3 } , { a , 4 }]",
+      "option_c": "{ { a , 3 } , { a , 4 } } \\{\\{\\mathrm{a}, 3\\},\\{\\mathrm{a}, 4\\}\\} {{ a , 3 } , { a , 4 }}",
+      "option_d": "{ ( a , 3 ) , ( a , 4 ) } \\{(a, 3),(a, 4)\\} {( a , 3 ) , ( a , 4 )}",
+      "correct": "ঘ",
+      "explanation": "A = { a , b } , B = { b , c } , C = { 3 , 4 } ( A \\ B ) = { a , b } \\ { b , c } = { a } ∴ ( A \\ B ) × C = { a } × { 3 , 4 } = { ( a , 3 ) , ( a , 4 ) } \\begin{array}{l}A=\\{a, b\\}, B=\\{b, c\\}, C=\\{3,4\\} \\\\ \\begin{aligned}(A \\backslash B)= & \\{a, b\\} \\backslash\\{b, c\\} \\\\ = & \\{a\\}\\end{aligned} \\\\ \\therefore(A \\backslash B) \\times C=\\{a\\} \\times\\{3,4\\} \\\\ ={\\{(a,3), (a,4)\\}}\\end{array} A = { a , b } , B = { b , c } , C = { 3 , 4 } ( A \\ B ) = = ​ { a , b } \\ { b , c } { a } ​ ∴ ( A \\ B ) × C = { a } × { 3 , 4 } = {( a , 3 ) , ( a , 4 )} ​"
+    },
+    {
+      "number": "4",
+      "tag": "RB 22,JGCC 24",
+      "question": "L = 48 ,   F c = 31 , f m = 25 ,   h = 6   \\mathrm{L}=48, \\mathrm{~F}_{\\mathrm{c}}=31, f_{\\mathrm{m}}=25, \\mathrm{~h}=6 \\mathrm{~} L = 48 ,   F c ​ = 31 , f m ​ = 25 ,   h = 6   ও n = 70 \\mathrm{n}=70 n = 70 হলে; মধ্যক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "48.96",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "48.50",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "48.20",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "49.0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "48.96",
+      "option_b": "48.50",
+      "option_c": "48.20",
+      "option_d": "49.0",
+      "correct": "ক",
+      "explanation": "মধ্যক  = L + ( n 2 − F c ) × h f m = 48 + ( 70 2 − 31 ) × 6 25 = 48.96 \\begin{aligned} \\text { মধ্যক } & =\\mathrm{L}+\\left(\\frac{\\mathrm{n}}{2}-\\mathrm{F}_{\\mathrm{c}}\\right) \\times \\frac{\\mathrm{h}}{f_{\\mathrm{m}}} \\\\ & =48+\\left(\\frac{70}{2}-31\\right) \\times \\frac{6}{25}=48.96\\end{aligned}   মধ্যক   ​ = L + ( 2 n ​ − F c ​ ) × f m ​ h ​ = 48 + ( 2 70 ​ − 31 ) × 25 6 ​ = 48.96 ​"
+    },
+    {
+      "number": "5",
+      "tag": "JGCC 24",
+      "question": "log ⁡ ( 0.00435 ) \\quad \\log (0.00435) lo g ( 0.00435 ) এর অংশক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.36",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.63",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.64",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0.361",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.36",
+      "option_b": "0.63",
+      "option_c": "0.64",
+      "option_d": "0.361",
+      "correct": "গ",
+      "explanation": "এখানে, log ⁡ ( 0.00435 ) = − 2.3675 = − 3 + 0.64 \\begin{aligned} & \\log (0.00435) \\\\ = & -2.3675 \\\\ = & -3+0.64 \\end{aligned} = = ​ lo g ( 0.00435 ) − 2.3675 − 3 + 0.64 ​ ∴ log ⁡ ( 0.00435 ) − এরঅংশক   = 0.64 \\begin{aligned} \\therefore \\log (0.00435) & -এর অংশক \\\\ \\text { } & =0.64 \\end{aligned} ∴ lo g ( 0.00435 )   ​ − এরঅংশক = 0.64 ​"
+    },
+    {
+      "number": "6",
+      "tag": "DC 25,MB 25,RB 25,DIN.B 25,JB 25,BB 25,MAD 25,DB 24,RB 24,CB 24,DIN.B 24,MB 24,DB 24,JB 24,BB 24,DB 20,MB 20,DIN.B 20,BB 20,DB 19,RB 19,CB 19,DIN.B 19,JB 19,SB 19,DB 17,JB 17,FCC 24,JGCC 24,BCC 24,VNSC 24,GLHSD 24,ACPS 24,NISD 24,MCPSC 24,RCPC 24,CCS 24,RCPC 24,BCPC 24",
+      "question": "2 x − 3 + 5 = 2 \\sqrt{2 x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণ- i. একটি এক চলকবিশিষ্ট সমীকরণ ii. এর সমাধান সেট S = { } \\mathrm{S}=\\{ \\} S = { } iii. এর সমাধান x = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "ক",
+      "explanation": "2 x − 3 + 5 = 2 \\sqrt{2x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণটি সমাধান করা যাক। প্রথমত, সমীকরণটি সরল করার জন্য আমরা উভয় পাশে 5 5 5 বিয়োগ করব: 2 x − 3 = 2 − 5 \\sqrt{2x-3} = 2 - 5 2 x − 3 ​ = 2 − 5 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 পুরুত্ব বর্গমূলের মান কখনোই ঋণাত্মক হতে পারে না, তাই 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 সমাধায় কোন সমর্থন বা সঠিক সমাধান নেই। অতএব, এর সমাধান সেট হল S = { } S = \\{\\} S = { } , যা একটি খালি সেট নির্দেশ করে। তাহলে, নিচের বস্তুগুলি সঠিক: i. একটি এক চলকবিশিষ্ট সমীকরণ কারণ এটি শুধু x x x -এর উপর নির্ভর করে। ii. এর সমাধান সেট S = { } \\mathrm{S} = \\{ \\} S = { } হল খালি সেট। iii. এর সমাধান x = 6 x = 6 x = 6 ভুল কারণ উক্ত সমীকরণ থেকে এমন কোন সমাধান পাওয়া যায় না। সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "8",
+      "tag": "JGCC 24",
+      "question": "একটি রম্বস অঙ্কন করতে কয়টি স্বতন্ত্র উপাত্তের প্রয়োজন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": "একটি রম্বস আঁকতে কমপক্ষে দুটি নিরপেক্ষ উপাত্তের প্রয়োজন। যথা: একটি বাহু ও একটি কোণ, অথবা দুটি কর্ণের দৈর্ঘ্য।"
+    },
+    {
+      "number": "9",
+      "tag": "DIN.B 24,JB 23,BB 23,DB 22,BB 20,MCC 24,JGCC 24,CSC 24,BCPC 24",
+      "question": "দুইটি বৃত্তে সর্বোচ্চ কয়টি সাধারণ স্পর্শক অঙ্কন করা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৪",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "২",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৩",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "১",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৪",
+      "option_b": "২",
+      "option_c": "৩",
+      "option_d": "১",
+      "correct": "ক",
+      "explanation": "দুইটি বৃত্তের সাধারণ স্পর্শকের সংথ্যা বৃত্ত দুইটির আপেক্ষিক অবস্থানের উপর নির্ভর করে। নিচে বিভিন্ন ক্ষেত্রে সাধারণ স্পর্শকের সংখ্যা উল্লেখ করা হলো: 1. বৃত্ত দুইটি পরস্পরকে ছেদ করলে: সর্বোচ্চ 2টি সাধারণ স্পর্শক অঙ্কন করা যায়। 2. বৃত্ত দুইটি পরস্পরকে স্পর্শ করলে: 3টি সাধারণ স্পর্শক অঙ্কন করা যায়। 3. বৃত্ত দুইটি পরস্পর থেকে বিচ্ছিন্ন থাকলে: সর্বোচ্চ 4টি সাধারণ স্পর্শক অঙ্কন করা যায়। 4. বৃত্ত দুইটি একে অপরের অভ্যন্তরে থাকলে: কোনো সাধারণ স্পর্শক থাকবে না। সুতরাং, দুইটি বৃত্তে সর্বোচ্চ 4টি সাধারণ স্পর্শক অঙ্কন করা যায়।"
+    },
+    {
+      "number": "10",
+      "tag": "JB 24,JGCC 24,BCC 24",
+      "question": "sin ⁡ θ + cos ⁡ θ = a \\sin \\theta+\\cos \\theta=a sin θ + cos θ = a হলে sin ⁡ 4 θ + cos ⁡ 4 θ \\sin ^{4} \\theta+\\cos ^{4} \\theta sin 4 θ + cos 4 θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 + 1 2 ( a 2 − 1 ) 2 1+\\frac{1}{2}\\left(a^{2}-1\\right)^{2} 1 + 2 1 ​ ( a 2 − 1 ) 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 − 1 2 ( a 2 − 1 ) 2 1-\\frac{1}{2}\\left(a^{2}-1\\right)^{2} 1 − 2 1 ​ ( a 2 − 1 ) 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 ( a 2 − 1 ) 2 \\frac{1}{2}\\left(a^{2}-1\\right)^{2} 2 1 ​ ( a 2 − 1 ) 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 ( a 2 + 1 ) 2 \\frac{1}{2}\\left(\\mathrm{a}^{2}+1\\right)^{2} 2 1 ​ ( a 2 + 1 ) 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 + 1 2 ( a 2 − 1 ) 2 1+\\frac{1}{2}\\left(a^{2}-1\\right)^{2} 1 + 2 1 ​ ( a 2 − 1 ) 2",
+      "option_b": "1 − 1 2 ( a 2 − 1 ) 2 1-\\frac{1}{2}\\left(a^{2}-1\\right)^{2} 1 − 2 1 ​ ( a 2 − 1 ) 2",
+      "option_c": "1 2 ( a 2 − 1 ) 2 \\frac{1}{2}\\left(a^{2}-1\\right)^{2} 2 1 ​ ( a 2 − 1 ) 2",
+      "option_d": "1 2 ( a 2 + 1 ) 2 \\frac{1}{2}\\left(\\mathrm{a}^{2}+1\\right)^{2} 2 1 ​ ( a 2 + 1 ) 2",
+      "correct": "ক",
+      "explanation": "sin ⁡ θ + cos ⁡ θ = a  বা,  ( sin ⁡ θ + cos ⁡ θ ) 2 = a 2  বা,  sin ⁡ 2 θ + cos ⁡ 2 θ + 2 sin ⁡ θ ⋅ cos ⁡ θ = a 2  বা,  2 sin ⁡ θ ⋅ cos ⁡ θ = a 2 − 1 ∴ sin ⁡ θ ⋅ cos ⁡ θ = a 2 − 1 2 ( sin ⁡ 2 θ + cos ⁡ 2 θ ) 2 − sin ⁡ 4 θ + cos ⁡ 4 θ + 2 sin ⁡ 2 θ cos ⁡ 2 θ  বা,  1 = sin ⁡ 4 θ + cos ⁡ 4 θ + 2 × ( a 2 − 1 2 ) 2 ∴ sin ⁡ 4 θ + cos ⁡ 2 θ = 1 − 1 2 ( a 2 − 1 ) 2 \\begin{array}{l}\\sin \\theta+\\cos \\theta=a \\text { বা, }(\\sin \\theta+\\cos \\theta)^{2}=a^{2} \\\\ \\text { বা, } \\sin ^{2} \\theta+\\cos ^{2} \\theta+2 \\sin \\theta \\cdot \\cos \\theta=a^{2} \\text { বা, } 2 \\sin \\theta \\cdot \\cos \\theta=a^{2}-1 \\\\ \\therefore \\sin \\theta \\cdot \\cos \\theta=\\frac{a^{2}-1}{2} \\\\ \\left(\\sin ^{2} \\theta+\\cos ^{2} \\theta\\right)^{2}-\\sin ^{4} \\theta+\\cos ^{4} \\theta+2 \\sin ^{2} \\theta \\cos ^{2} \\theta \\\\ \\text { বা, } 1=\\sin ^{4} \\theta+\\cos ^{4} \\theta+2 \\times\\left(\\frac{a^{2}-1}{2}\\right)^{2} \\therefore \\sin ^{4} \\theta+\\cos ^{2} \\theta=1-\\frac{1}{2}\\left(a^{2}-1\\right)^{2}\\end{array} sin θ + cos θ = a   বা ,  ( sin θ + cos θ ) 2 = a 2   বা ,  sin 2 θ + cos 2 θ + 2 sin θ ⋅ cos θ = a 2   বা ,  2 sin θ ⋅ cos θ = a 2 − 1 ∴ sin θ ⋅ cos θ = 2 a 2 − 1 ​ ( sin 2 θ + cos 2 θ ) 2 − sin 4 θ + cos 4 θ + 2 sin 2 θ cos 2 θ   বা ,  1 = sin 4 θ + cos 4 θ + 2 × ( 2 a 2 − 1 ​ ) 2 ∴ sin 4 θ + cos 2 θ = 1 − 2 1 ​ ( a 2 − 1 ) 2 ​"
+    },
+    {
+      "number": "11",
+      "tag": "CTG.B 24,JGCC 24,ACPS 24",
+      "question": "সূর্যের উন্নতি কোণ 90 ° 90° 90° হলে, কোনো গাছের ছায়ার দৈর্ঘ্য কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "30 মিটার",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "45 মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90 মিটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0 মিটার",
+      "option_b": "30 মিটার",
+      "option_c": "45 মিটার",
+      "option_d": "90 মিটার",
+      "correct": "খ",
+      "explanation": "যদি সূর্যের উন্নতি কোন ৯০ ০ হয় তাহলে সূর্য ঠিক মাথার উপরে অবস্থান করছে। এই অবস্থায় ছায়া সরাসরি নিচে পড়ে এবং ছায়ার দৈর্ঘ্য শূন্য হয়।"
+    },
+    {
+      "number": "12",
+      "tag": "MB 24,CTG.B 19,JGCC 24",
+      "question": "নিচের কোনটি সমানুপাতী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 : 2 = 2 : 1 1: 2=2: 1 1 : 2 = 2 : 1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 : 2 = 9 : 6 3: 2=9: 6 3 : 2 = 9 : 6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 : 3 = 6 : 6 2: 3=6: 6 2 : 3 = 6 : 6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 : 5 = 4 : 25 2: 5=4: 25 2 : 5 = 4 : 25",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 : 2 = 2 : 1 1: 2=2: 1 1 : 2 = 2 : 1",
+      "option_b": "3 : 2 = 9 : 6 3: 2=9: 6 3 : 2 = 9 : 6",
+      "option_c": "2 : 3 = 6 : 6 2: 3=6: 6 2 : 3 = 6 : 6",
+      "option_d": "2 : 5 = 4 : 25 2: 5=4: 25 2 : 5 = 4 : 25",
+      "correct": "ক",
+      "explanation": "option test: (i) 1 : 2 ≠ 2 : 1 \\quad 1: 2 \\neq 2: 1 1 : 2  = 2 : 1 [correct](ii) 3 : 2 = 9 : 6 → 3: 2=9: 6 \\rightarrow 3 : 2 = 9 : 6 → ( কেননা ) 3 2 = 9 6 \\frac{3}{2}=\\frac{9}{6} 2 3 ​ = 6 9 ​ (iii) 2 : 3 ≠ 6 : 6 2: 3 \\neq 6: 6 2 : 3  = 6 : 6 ⇒ 3 2 = 3 × 3 2 × 3 \\Rightarrow \\frac{3}{2}=\\frac{3 \\times 3}{2 \\times 3} ⇒ 2 3 ​ = 2 × 3 3 × 3 ​ (iv) 2 : 5 ≠ 4 : 25 2: 5 \\neq 4: 25 2 : 5  = 4 : 25 ⇒ 3 2 = 3 2 \\Rightarrow \\frac{3}{2}=\\frac{3}{2} ⇒ 2 3 ​ = 2 3 ​"
+    },
+    {
+      "number": "13",
+      "tag": "JB 19,BB 17,JGCC 24",
+      "question": "y = 2x + 1 একটি ফাংশন হলে- i. এর লেখচিত্র একটি সরলরেখা ii. (1, 3) লেখচিত্রটির একটি বিন্দু iii. y একটি স্বাধীন চলক নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "y = 2 x + 1 y=2 x+1 y = 2 x + 1 একটি সমীকরণ হলে (i) এর লেখচিত্র একটি সরলরেখা। (ii) x = 1 x=1 x = 1 হলে y = 2 ⋅ 1 + 1 = 3 \\begin{array}{l} y=2 \\cdot 1+1 \\\\ =3 \\end{array} y = 2 ⋅ 1 + 1 = 3 ​ ∴ ( 1 , 3 ) \\therefore(1,3) ∴ ( 1 , 3 ) লেখচিত্রের একটি বিন্দু। (iii) y y y একটি অধীন চলক।"
+    },
+    {
+      "number": "14",
+      "tag": "JGCC 24",
+      "question": "16 − 8 + 4 − 2 + . . . . . . 16 - 8 + 4 - 2 + ...... 16 − 8 + 4 − 2 + ...... ধারাটির 7তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 1 4 -\\frac{1}{4} − 4 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_c": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_d": "− 1 4 -\\frac{1}{4} − 4 1 ​",
+      "correct": "ক",
+      "explanation": "১ম পদ , a = 16 , a=16 , a = 16 সাধারণ অনুপাত = − 8 16 = − 1 2 =\\frac{-8}{16}=\\frac{-1}{2} = 16 − 8 ​ = 2 − 1 ​ ∴  n তম পদ  = a r n − 1 ∴ 7  তম পদ  = 16 × ( − 1 2 ) 7 − 1 = 16 × 1 2 6 = 2 4 × 1 2 6 = 1 2 2 = 1 4 \\begin{aligned} \\therefore \\text { n তম পদ } & =a r^{n-1} \\\\ \\therefore 7 \\text { তম পদ } & =16 \\times\\left(\\frac{-1}{2}\\right)^{7-1} \\\\ & =16 \\times \\frac{1}{2^{6}} \\\\ & =2^{4} \\times \\frac{1}{2^{6}} \\\\ & =\\frac{1}{2^{2}}=\\frac{1}{4} \\end{aligned} ∴  n  তম   পদ   ∴ 7   তম   পদ   ​ = a r n − 1 = 16 × ( 2 − 1 ​ ) 7 − 1 = 16 × 2 6 1 ​ = 2 4 × 2 6 1 ​ = 2 2 1 ​ = 4 1 ​ ​"
+    },
+    {
+      "number": "15",
+      "tag": "CTG.B 25,DB 24,SB 20,RB 19,BB 19,FCC 24,JGCC 24,HC 24",
+      "question": "একটি বর্গের- i. প্রতিসাম্য রেখা 4টি ii. ঘূর্ণন কোণ 90 ∘ ^{\\circ} ∘ iii. ঘূর্ণন মাত্রা 4 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i , i i \\mathrm{i}, \\mathrm{ii} i , ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i , i i \\mathrm{i}, \\mathrm{ii} i , ii ও iii",
+      "correct": "গ",
+      "explanation": "i. প্রতিসাম্য রেখা 4টি ✅ সঠিক। একটি বর্গে থাকে: ২টি কর্ণ বরাবর রেখা, ২টি মাঝ বরাবর রেখা (উল্লম্ব ও আনুভূমিক)। মোট ৪টি প্রতিসাম্য রেখা। --- ii. ঘূর্ণন কোণ 90° ✅ সঠিক। বর্গক্ষেত্র 90° ঘোরালেও দেখতে একেবারে একই থাকে। তাই এটি একটি বৈধ ঘূর্ণন কোণ। --- iii. ঘূর্ণন মাত্রা 4 ✅ সঠিক। ঘূর্ণন প্রতিসমতার মাত্রা বোঝায়, কতবার ঘোরালে আকৃতিটি নিজস্ব অবস্থায় ফিরে আসে। বর্গক্ষেত্রের ক্ষেত্রে: অতএব, ঘূর্ণন প্রতিসমতার মাত্রা ৪"
+    },
+    {
+      "number": "16",
+      "tag": "JGCC 24",
+      "question": "△ P Q R  এ  P Q = 25 c m \\triangle \\mathrm{PQR~এ~ PQ = 25cm} △ PQR   এ   PQ = 25cm এবং P R = 15 c m .   P Q \\mathrm{PR = 15cm.~ PQ } PR = 15cm.   PQ এবং PR \\text{PR} PR এর উপর X ও Y এরূপ দুটি বিন্দু যেন X Y ∣ ∣ Q R , P X = 10 c m \\mathrm{XY || QR, PX = 10cm } XY∣∣QR , PX = 10cm হলে, YR = \\text{YR =} YR = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": true
+        }
+      ],
+      "option_a": "6",
+      "option_b": "9",
+      "option_c": "11",
+      "option_d": "12",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "JGCC 24",
+      "question": "একটি সমবৃত্তভূমিক সিলিন্ডারের ভূমির ব্যাসার্ধ 7 cm এবং উচ্চতা 10cm হলে, সিলিন্ডারটির সমগ্রতলের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "373.85",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "439.82",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "747.7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1539.38",
+          "is_correct": false
+        }
+      ],
+      "option_a": "373.85",
+      "option_b": "439.82",
+      "option_c": "747.7",
+      "option_d": "1539.38",
+      "correct": "খ",
+      "explanation": "সিলিন্ডারটির সমগ্রতলের ক্ষেত্রফল=2πr(r+h)=2π×7(7+10)=747.7 বর্গ সে.মি"
+    },
+    {
+      "number": "18",
+      "tag": "JGCC 24",
+      "question": "7% মুনাফা হবে x বছরে 650 টাকার সরল মুনাফা 273 টাকা হলে, x = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "এখানে, r = 7 % = 7 100 n = X P = 650 I = 273 \\begin{array}{l} r=7 \\%=\\frac{7}{100} \\\\ n=X \\\\ P=650 \\\\ I=273 \\end{array} r = 7% = 100 7 ​ n = X P = 650 I = 273 ​ we know, I = P n r ⇒ 273 = 650 × X × 7 100 ⇒ X = 6  বছর  \\begin{array}{l} I=P n r \\\\ \\Rightarrow 273=650 \\times X \\times \\frac{7}{100} \\\\ \\Rightarrow X=6 \\text { বছর } \\end{array} I = P n r ⇒ 273 = 650 × X × 100 7 ​ ⇒ X = 6   বছর   ​"
+    },
+    {
+      "number": "19",
+      "tag": "MB 20,JGCC 24,HC 24",
+      "question": "2 log ⁡ x − log ⁡ ( 2 x − 1 ) = log ⁡ 1  হলে,  x  এর  2 \\log x-\\log (2 x-1)=\\log 1 \\text { হলে, } x \\text { এর } 2 lo g x − lo g ( 2 x − 1 ) = lo g 1   হলে ,  x   এর   মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 -1 − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0 0 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 1 1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 1 -1 − 1",
+      "option_b": "0 0 0",
+      "option_c": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_d": "1 1 1",
+      "correct": "ঘ",
+      "explanation": "2 log ⁡ x − log ⁡ ( 2 x − 1 ) = log ⁡ 1 2 \\log x-\\log (2 x-1)=\\log 1 2 lo g x − lo g ( 2 x − 1 ) = lo g 1 বা, log ⁡ x 2 − log ⁡ ( 2 x − 1 ) = log ⁡ \\log x^{2}-\\log (2 x-1)=\\log lo g x 2 − lo g ( 2 x − 1 ) = lo g বা, log ⁡ x 2 2 x − 1 = log ⁡ 1 \\log \\frac{x^{2}}{2 x-1}=\\log 1 lo g 2 x − 1 x 2 ​ = lo g 1 ∴ x 2 2 x − 1 = 1 \\therefore \\frac{\\mathrm{x}^{2}}{2 \\mathrm{x}-1}=1 ∴ 2 x − 1 x 2 ​ = 1 বা, x 2 − 2 x + 1 = 0 {x}^{2}-2 x+1=0 x 2 − 2 x + 1 = 0 বা, ( x − 1 ) 2 = 0 ∴ x = 1 (x-1)^{2}=0 \\therefore x=1 ( x − 1 ) 2 = 0 ∴ x = 1"
+    },
+    {
+      "number": "20",
+      "tag": "JGCC 24,SCC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: উপরের চিত্রে O কেন্দ্র এবং ∠ B A C = 20 ° ∠BAC = 20° ∠ B A C = 20° ∠ A C D = \\mathrm{∠ACD = } ∠ACD = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "35°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "55°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "70°",
+          "is_correct": true
+        }
+      ],
+      "option_a": "20°",
+      "option_b": "35°",
+      "option_c": "55°",
+      "option_d": "70°",
+      "correct": "ঘ",
+      "explanation": "△ A B C  এ  ∠ A C B \\triangle \\mathrm{ABC}~এ~ \\angle \\mathrm{ACB} △ ABC   এ   ∠ ACB অর্ধবৃত্তস্থ কোণ ∴ ∠ A C B = 90 ∘ ∴ ∠ A B C = 90 ∘ − ∠ B A C = 90 ∘ − 20 ∘ = 70 ∘  এখন,  ∠ A D C + ∠ A B C = 180 ∘ [ ∴ A B C D  বৃত্তস্থ চতুর্ভুজ  ] ∴ ∠ A D C = 180 ∘ − 70 ∘ = 110 ∘ △ A D C − এ A D = A C  হওয়ায়  ∠ C A D = ∠ A C D ∠ A D C + ∠ A C D + ∠ C A D = 180 ∘  বা,  110 ∘ + 2 ∠ A C D = 180 ∘ ∴ ∠ A C D = 180 ∘ − 110 ∘ 2 = 35 ∘ \\begin{array}{l} \\therefore \\angle \\mathrm{ACB}=90^{\\circ} \\therefore \\angle \\mathrm{ABC}=90^{\\circ}-\\angle \\mathrm{BAC}=90^{\\circ}-20^{\\circ}=70^{\\circ} \\\\ \\text { এখন, } \\angle \\mathrm{ADC}+\\angle \\mathrm{ABC}=180^{\\circ} \\quad[\\therefore \\mathrm{ABCD} \\text { বৃত্তস্থ চতুর্ভুজ }] \\\\ \\therefore \\angle \\mathrm{ADC}=180^{\\circ}-70^{\\circ}=110^{\\circ} \\\\ \\triangle \\mathrm{ADC}-এ \\mathrm{AD}=\\mathrm{AC} \\text { হওয়ায় } \\angle \\mathrm{CAD}=\\angle \\mathrm{ACD} \\\\ \\angle \\mathrm{ADC}+\\angle \\mathrm{ACD}+\\angle \\mathrm{CAD}=180^{\\circ} \\\\ \\text { বা, } 110^{\\circ}+2 \\angle \\mathrm{ACD}=180^{\\circ} \\\\ \\therefore \\angle \\mathrm{ACD}=\\frac{180^{\\circ}-110^{\\circ}}{2}=35^{\\circ} \\end{array} ∴ ∠ ACB = 9 0 ∘ ∴ ∠ ABC = 9 0 ∘ − ∠ BAC = 9 0 ∘ − 2 0 ∘ = 7 0 ∘   এখন ,  ∠ ADC + ∠ ABC = 18 0 ∘ [ ∴ ABCD   বৃত্তস্থ   চতুর্ভুজ   ] ∴ ∠ ADC = 18 0 ∘ − 7 0 ∘ = 11 0 ∘ △ ADC − এ AD = AC   হওয়ায়   ∠ CAD = ∠ ACD ∠ ADC + ∠ ACD + ∠ CAD = 18 0 ∘   বা ,  11 0 ∘ + 2∠ ACD = 18 0 ∘ ∴ ∠ ACD = 2 18 0 ∘ − 11 0 ∘ ​ = 3 5 ∘ ​"
+    },
+    {
+      "number": "21",
+      "tag": "JGCC 24,SCC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: উপরের চিত্রে O কেন্দ্র এবং ∠ B A C = 20 ° ∠BAC = 20° ∠ B A C = 20° ∠ A C D = \\mathrm{∠ACD = } ∠ACD = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "35°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "55°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "70°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20°",
+      "option_b": "35°",
+      "option_c": "55°",
+      "option_d": "70°",
+      "correct": "খ",
+      "explanation": "△ A B C  এ  ∠ A C B \\triangle \\mathrm{ABC}~এ~ \\angle \\mathrm{ACB} △ ABC   এ   ∠ ACB অর্ধবৃত্তস্থ কোণ ∴ ∠ A C B = 90 ∘ ∴ ∠ A B C = 90 ∘ − ∠ B A C = 90 ∘ − 20 ∘ = 70 ∘  এখন,  ∠ A D C + ∠ A B C = 180 ∘ [ ∴ A B C D  বৃত্তস্থ চতুর্ভুজ  ] ∴ ∠ A D C = 180 ∘ − 70 ∘ = 110 ∘ △ A D C − এ A D = A C  হওয়ায়  ∠ C A D = ∠ A C D ∠ A D C + ∠ A C D + ∠ C A D = 180 ∘  বা,  110 ∘ + 2 ∠ A C D = 180 ∘ ∴ ∠ A C D = 180 ∘ − 110 ∘ 2 = 35 ∘ \\begin{array}{l} \\therefore \\angle \\mathrm{ACB}=90^{\\circ} \\therefore \\angle \\mathrm{ABC}=90^{\\circ}-\\angle \\mathrm{BAC}=90^{\\circ}-20^{\\circ}=70^{\\circ} \\\\ \\text { এখন, } \\angle \\mathrm{ADC}+\\angle \\mathrm{ABC}=180^{\\circ} \\quad[\\therefore \\mathrm{ABCD} \\text { বৃত্তস্থ চতুর্ভুজ }] \\\\ \\therefore \\angle \\mathrm{ADC}=180^{\\circ}-70^{\\circ}=110^{\\circ} \\\\ \\triangle \\mathrm{ADC}-এ \\mathrm{AD}=\\mathrm{AC} \\text { হওয়ায় } \\angle \\mathrm{CAD}=\\angle \\mathrm{ACD} \\\\ \\angle \\mathrm{ADC}+\\angle \\mathrm{ACD}+\\angle \\mathrm{CAD}=180^{\\circ} \\\\ \\text { বা, } 110^{\\circ}+2 \\angle \\mathrm{ACD}=180^{\\circ} \\\\ \\therefore \\angle \\mathrm{ACD}=\\frac{180^{\\circ}-110^{\\circ}}{2}=35^{\\circ} \\end{array} ∴ ∠ ACB = 9 0 ∘ ∴ ∠ ABC = 9 0 ∘ − ∠ BAC = 9 0 ∘ − 2 0 ∘ = 7 0 ∘   এখন ,  ∠ ADC + ∠ ABC = 18 0 ∘ [ ∴ ABCD   বৃত্তস্থ   চতুর্ভুজ   ] ∴ ∠ ADC = 18 0 ∘ − 7 0 ∘ = 11 0 ∘ △ ADC − এ AD = AC   হওয়ায়   ∠ CAD = ∠ ACD ∠ ADC + ∠ ACD + ∠ CAD = 18 0 ∘   বা ,  11 0 ∘ + 2∠ ACD = 18 0 ∘ ∴ ∠ ACD = 2 18 0 ∘ − 11 0 ∘ ​ = 3 5 ∘ ​"
+    },
+    {
+      "number": "23",
+      "tag": "JGCC 24",
+      "question": "সুমন এবং শান্তির বয়সের অনুপাত 5 : 3 5:3 5 : 3 । সুমনের বয়স 20 বছর হলে, কত বছর পর তাদের বয়সের অনুপাত 7 : 5 7:5 7 : 5 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "6",
+      "option_c": "8",
+      "option_d": "10",
+      "correct": "গ",
+      "explanation": "ধরি, সুমনের বয়স 5x বছর শন্তির বয়স 3x বছর প্রশ্নমতে, 5 x = 20 ⇒ x = 20 5 = 4 ∣ ∴  : শান্তির বয়স = 3.4=12 বছর   \\left.\\begin{aligned} & 5 x=20 \\\\ \\Rightarrow & x=\\frac{20}{5}=4 \\end{aligned} \\right\\rvert\\, \\therefore \\text { : শান্তির বয়স = 3.4=12 বছর } \\text { } ⇒ ​ 5 x = 20 x = 5 20 ​ = 4 ​ ​ ∴  :  শান্তির   বয়স  = 3.4=12  বছর     ধরি , y বছর পর তাদের বয়সের অনুপাত 7:5 20 + y 12 + y = 7 5 ⇒ 100 + 5 y = 84 + 7 y ⇒ 2 y = − 16 ∴ y = 8  বছর \\begin{aligned} & \\frac{20+y}{12+y}=\\frac{7}{5} \\\\ \\Rightarrow & 100+5 y=84+7 y \\\\ \\Rightarrow & 2 y=-16 \\quad \\therefore y=8 \\text { বছর} \\end{aligned} ⇒ ⇒ ​ 12 + y 20 + y ​ = 5 7 ​ 100 + 5 y = 84 + 7 y 2 y = − 16 ∴ y = 8   বছর ​"
+    },
+    {
+      "number": "24",
+      "tag": "JGCC 24",
+      "question": "নিচের কোন বর্ণগুলোর ঘূর্ণন প্রতিসমতা একই?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Z , P , O \\mathrm{ Z, P, O} Z , P , O",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "I , T , A \\mathrm{I, T, A} I , T , A",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Z , H , S \\mathrm{Z}, \\mathrm{H}, \\mathrm{S} Z , H , S",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "B , H , M \\mathrm{B}, \\mathrm{H}, \\mathrm{M} B , H , M",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Z , P , O \\mathrm{ Z, P, O} Z , P , O",
+      "option_b": "I , T , A \\mathrm{I, T, A} I , T , A",
+      "option_c": "Z , H , S \\mathrm{Z}, \\mathrm{H}, \\mathrm{S} Z , H , S",
+      "option_d": "B , H , M \\mathrm{B}, \\mathrm{H}, \\mathrm{M} B , H , M",
+      "correct": "গ",
+      "explanation": "Z,H,S তিনটি বর্ণেরই ঘূর্ণন প্রতিসমতা একই"
+    },
+    {
+      "number": "25",
+      "tag": "MB 20,JGCC 24,RUMC 24",
+      "question": "একটি সমদ্বিবাহু ত্রিভুজের অর্ধপরিসীমা 8 সে.মি. এবং ভূমি 6 সে.মি. হলে, উচ্চতা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "12",
+      "option_b": "8",
+      "option_c": "6",
+      "option_d": "4",
+      "correct": "ঘ",
+      "explanation": "ধরি, সমদ্বিবাহু ত্রিভুজের সমান সমান বাহুর দৈর্ঘ্য a সমদ্বিবাহু ত্রিভুজের অর্ধপরিসীমা a + a + 6 2 \\frac{a+a+6}{2} 2 a + a + 6 ​ =8 cm ⇒ \\Rightarrow ⇒ 2a+6=16 ⇒ \\Rightarrow ⇒ a= 5 cm ভূমির মধ্যবিন্দু = 6 2 \\frac{6}{2} 2 6 ​ = 3 cm উচ্চতা = 5 2 − 3 2 \\sqrt{5^2-3^2} 5 2 − 3 2 ​ = 4cm ( ∵ \\because ∵ সমদ্বিবাহু ত্রিভুজের মধ্যমা ও লম্ব একই)"
+    },
+    {
+      "number": "26",
+      "tag": "DC 25,MB 25,RB 25,DIN.B 25,JB 25,BB 25,MAD 25,DB 24,RB 24,CB 24,DIN.B 24,MB 24,DB 24,JB 24,BB 24,DB 20,MB 20,DIN.B 20,BB 20,DB 19,RB 19,CB 19,DIN.B 19,JB 19,SB 19,DB 17,JB 17,FCC 24,JGCC 24,BCC 24,VNSC 24,GLHSD 24,ACPS 24,NISD 24,MCPSC 24,RCPC 24,CCS 24,RCPC 24,BCPC 24",
+      "question": "2 x − 3 + 5 = 2 \\sqrt{2 x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণ- i. একটি এক চলকবিশিষ্ট সমীকরণ ii. এর সমাধান সেট S = { } \\mathrm{S}=\\{ \\} S = { } iii. এর সমাধান x = 6 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i,ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i,ii ও iii",
+      "correct": "খ",
+      "explanation": "2 x − 3 + 5 = 2 \\sqrt{2x-3}+5=2 2 x − 3 ​ + 5 = 2 সমীকরণটি সমাধান করা যাক। প্রথমত, সমীকরণটি সরল করার জন্য আমরা উভয় পাশে 5 5 5 বিয়োগ করব: 2 x − 3 = 2 − 5 \\sqrt{2x-3} = 2 - 5 2 x − 3 ​ = 2 − 5 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 পুরুত্ব বর্গমূলের মান কখনোই ঋণাত্মক হতে পারে না, তাই 2 x − 3 = − 3 \\sqrt{2x-3} = -3 2 x − 3 ​ = − 3 সমাধায় কোন সমর্থন বা সঠিক সমাধান নেই। অতএব, এর সমাধান সেট হল S = { } S = \\{\\} S = { } , যা একটি খালি সেট নির্দেশ করে। তাহলে, নিচের বস্তুগুলি সঠিক: i. একটি এক চলকবিশিষ্ট সমীকরণ কারণ এটি শুধু x x x -এর উপর নির্ভর করে। ii. এর সমাধান সেট S = { } \\mathrm{S} = \\{ \\} S = { } হল খালি সেট। iii. এর সমাধান x = 6 x = 6 x = 6 ভুল কারণ উক্ত সমীকরণ থেকে এমন কোন সমাধান পাওয়া যায় না। সঠিক উত্তর হল: i ও ii"
+    },
+    {
+      "number": "27",
+      "tag": "JGCC 24",
+      "question": "একটি সমান্তর ধারার প্রথম n সংখ্যক পদের সমষ্টি 3 n 2 + n 2 \\mathrm{\\frac{3n² + n}{2}} 2 3 n 2 + n ​ হলে, ধারাটির সাধারণ অন্তর কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "গ",
+      "explanation": "প্রথম পদ = 3.1 3 + 1 2 = 4 2 = 2 =\\frac{3.1^{3}+1}{2}=\\frac{4}{2}=2 = 2 3. 1 3 + 1 ​ = 2 4 ​ = 2 প্রথম দুই পদের সমষ্টি = 3.2 2 + 2 2 = 14 2 = 7 =\\frac{3.2^{2}+2}{2}=\\frac{14}{2}=7 = 2 3. 2 2 + 2 ​ = 2 14 ​ = 7 ∴ \\therefore ∴ দ্বিতীয় পদ = 7 =7 = 7 - প্রথম পদ = 7 − 2 = 5 =7-2=5 = 7 − 2 = 5 ∴ \\therefore ∴ সাধারণ অন্তর = 5 − 2 = 3 =5-2=3 = 5 − 2 = 3"
+    },
+    {
+      "number": "29",
+      "tag": "MB 25,CB 24,BB 24,DB 23,MB 23,SB 23,RB 23,JB 23,DB 22,MB 22,RB 22,CTG.B 22,SB 22,JB 22,RB 20,DIN.B 20,RB 19,CB 19,All.B 18,DB 17,DIN.B 17,JB 17,FCC 24,JGCC 24,PCC 24,VNSC 24,GLHSD 24,BAFSC 24,DCS 24,CSC 24,NISD 24,MCPSC 24",
+      "question": "একটি সমকোণী সমদ্বিবাহু ত্রিভুজের অতিভুজের দৈর্ঘ্য 12 সে.মি. হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "72 \\sqrt{72} 72 ​ বর্গ সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "144 \\sqrt{144} 144 ​ বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36 বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "144 বর্গ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "72 \\sqrt{72} 72 ​ বর্গ সে.মি.",
+      "option_b": "144 \\sqrt{144} 144 ​ বর্গ সে.মি.",
+      "option_c": "36 বর্গ সে.মি.",
+      "option_d": "144 বর্গ সে.মি.",
+      "correct": "ক",
+      "explanation": "এখানে, সমকোণী সমবাহু ত্রিভুজে এর ক্ষেত্রে, cos ⁡ ∠ 45 ∘ = B C A C ⇒ 1 2 = B C 12 ⇒ 12 2 = B C ⇒ B C = 12 2 \\begin{array}{l} \\cos \\angle 4 5^{\\circ}=\\frac{B C}{A C} \\\\ \\Rightarrow \\frac{1}{\\sqrt{2}}=\\frac{B C}{12} \\\\ \\Rightarrow \\frac{12}{\\sqrt{2}}=B C \\\\ \\Rightarrow B C=\\frac{12}{\\sqrt{2}} \\end{array} cos ∠4 5 ∘ = A C BC ​ ⇒ 2 ​ 1 ​ = 12 BC ​ ⇒ 2 ​ 12 ​ = BC ⇒ BC = 2 ​ 12 ​ ​ ∴ A B = B C = − 12 2 \\therefore A B=B C=\\frac{-12}{\\sqrt{2}} ∴ A B = BC = 2 ​ − 12 ​ ∴ \\therefore ∴ ত্রিভুজের ক্ষেত্রফল = 7 2 × A B × B C =\\frac{7}{2} \\times A B \\times B C = 2 7 ​ × A B × BC = 3 2 × 12 2 × 12 2 = 36   c m 2 \\begin{array}{l} =\\frac{3}{2} \\times \\frac{12}{\\sqrt{2}} \\times \\frac{12}{\\sqrt{2}} \\\\ =36 \\mathrm{~cm}^{2} \\end{array} = 2 3 ​ × 2 ​ 12 ​ × 2 ​ 12 ​ = 36   cm 2 ​ Ans"
+    },
+    {
+      "number": "30",
+      "tag": "MB 23,BB 22,MB 20,All.B 18,RCC 24,JGCC 24,ISCM 24,SJHSS 24,RCPC 24",
+      "question": "ত্রিভুজের ক্ষেত্রে- i. যেকোনো দুই বাহুর মধ্যকার পার্থক্য এর তৃতীয় বাহু অপেক্ষা ক্ষুদ্রতর ii. যেকোনো দুই বাহুর মধ্যবিন্দুর সংযোগ রেখাংশ তৃতীয় বাহুর সমান্তরাল iii. সমকোণী ত্রিভুজের সূক্ষ্মকোণদ্বয় পরস্পর সম্পূরক কোণ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "i)ত্রিভুজের যেকোনো দুই বাহুর দৈর্ঘ্যের অন্তর এর তৃতীয় বাহুর দৈর্ঘ্য অপেক্ষা ক্ষুদ্রতর [অনুসিদ্ধান্ত ৫] ii)ত্রিভুজের যেকোনো দুই বাহুর মধ্যবিন্দুর সংযোজক রেখাংশ তৃতীয় বাহুর সমান্তরাল [উপপাদ্য ১৫] iii)সমকোণী ত্রিভুজের সূক্ষ্মকোণ দ্বয় পরস্পর পূরককোন হয় সঠিক উত্তর i,ii"
+    }
+  ]
+}

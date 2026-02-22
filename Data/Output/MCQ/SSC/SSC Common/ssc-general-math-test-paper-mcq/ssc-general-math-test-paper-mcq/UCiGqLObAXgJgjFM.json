@@ -1,0 +1,898 @@
+{
+  "read_id": "UCiGqLObAXgJgjFM",
+  "title": "দিনাজপুর বোর্ড ২০২৩",
+  "count": 27,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "DB 24,DB 23,DIN.B 23,BB 22,RB 20,DB 19,DB 17,MCC 24,SCC 24,BNMPC 24,MC 24,CSC 24",
+      "question": "A = { a , b , c , d , e } \\mathrm{A}=\\{\\mathrm{a}, \\mathrm{b}, \\mathrm{c}, \\mathrm{d}, \\mathrm{e}\\} A = { a , b , c , d , e } হলে, A এর প্রকৃত উপসেট কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "31",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "32",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "33",
+          "is_correct": false
+        }
+      ],
+      "option_a": "25",
+      "option_b": "31",
+      "option_c": "32",
+      "option_d": "33",
+      "correct": "খ",
+      "explanation": "প্রকৃত উপসেট বলতে কোন সেটের উপসেটের মধ্যে থেকে সেট নিজে বাদ দেওয়া বোঝায়। একটি সেটের উপসেটের সংখ্যা নির্ণয় করতে আমরা 2 n 2^n 2 n ফর্মুলা ব্যবহার করি, যেখানে n n n হল সেটের উপাদানের সংখ্যা। এখানে, A = { a , b , c , d , e } \\mathrm{A} = \\{\\mathrm{a}, \\mathrm{b}, \\mathrm{c}, \\mathrm{d}, \\mathrm{e}\\} A = { a , b , c , d , e } সেটের উপাদান সংখ্যা n = 5 n = 5 n = 5 । তাহলে, মোট উপসেটের সংখ্যা হবে 2 5 = 32 2^5 = 32 2 5 = 32 । কিন্তু এই ৩২ টি উপসেটের মধ্যে সেট নিজেও অন্তর্ভুক্ত থাকে যা প্রকৃত উপসেট নয়। তাহলে, প্রকৃত উপসেটের সংখ্যা হবে 32 − 1 = 31 32 - 1 = 31 32 − 1 = 31 ।"
+    },
+    {
+      "number": "2",
+      "tag": "DIN.B 23",
+      "question": "একটি বইয়ের মূল্য 30 টাকা যা বইটি তৈরির ব্যয়ের 60%। বইটির প্রকৃত মূল্য কত টাকা?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "50",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "48",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "option_a": "50",
+      "option_b": "48",
+      "option_c": "20",
+      "option_d": "18",
+      "correct": "ক",
+      "explanation": "ধরা যাক, বইটির তৈরির প্রকৃত ব্যয় x x x টাকা। প্রশ্নে বলা হয়েছে যে বইয়ের মূল্য তৈরির ব্যয়ের 60% এর সমান, অর্থাৎ: 0.60 × x = 30 0.60 \\times x = 30 0.60 × x = 30 এখন, x x x এর মান নির্ণয় করতে সমীকরণটি সমাধান করতে হবে: x = 30 0.60 = 50 x = \\frac{30}{0.60} = 50 x = 0.60 30 ​ = 50 সুতরাং, বইটির প্রকৃত মূল্য 50 টাকা।"
+    },
+    {
+      "number": "3",
+      "tag": "CB 23,DIN.B 23,SB 22,RCC 24,FGCC 24,RUMC 24,BCC 24,VNSC 24,MC 24,SJHSS 24",
+      "question": "f ( x ) = x 3 − k x 2 − 4 x − 8 f(x)=x^{3}-k x^{2}-4 x-8 f ( x ) = x 3 − k x 2 − 4 x − 8 হলে, k k k এর কোন মানের জন্য f ( − 2 ) = 0 f(-2)=0 f ( − 2 ) = 0 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-4",
+      "option_b": "-2",
+      "option_c": "2",
+      "option_d": "4",
+      "correct": "খ",
+      "explanation": "প্রদত্ত ফাংশন: f ( x ) = x 3 − k x 2 − 4 x − 8 f(x)=x^{3}-k x^{2}-4 x-8 f ( x ) = x 3 − k x 2 − 4 x − 8 শর্ত অনুযায়ী, f ( − 2 ) = 0 f(-2)=0 f ( − 2 ) = 0 । সুতরাং, x = − 2 x=-2 x = − 2 বসিয়ে সমীকরণরি সমাধান করা যাক: f ( − 2 ) = ( − 2 ) 3 − k ( − 2 ) 2 − 4 ( − 2 ) − 8 = 0 − 8 − k × 4 + 8 − 8 = 0 − 8 − 4 k + 8 − 8 = 0 − 4 k − 8 = 0 − 4 k = 8 k = − 2 \\begin{array}{c} f(-2)=(-2)^{3}-k(-2)^{2}-4(-2)-8=0 \\\\ -8-k \\times 4+8-8=0 \\\\ -8-4 k+8-8=0 \\\\ -4 k-8=0 \\\\ -4 k=8 \\\\ k=-2 \\end{array} f ( − 2 ) = ( − 2 ) 3 − k ( − 2 ) 2 − 4 ( − 2 ) − 8 = 0 − 8 − k × 4 + 8 − 8 = 0 − 8 − 4 k + 8 − 8 = 0 − 4 k − 8 = 0 − 4 k = 8 k = − 2 ​"
+    },
+    {
+      "number": "4",
+      "tag": "DIN.B 23,SB 22",
+      "question": "2 P 3 − 3 P 2 + 3 P − 1 2 \\mathrm{P}^{3}-3 \\mathrm{P}^{2}+3 \\mathrm{P}-1 2 P 3 − 3 P 2 + 3 P − 1 এর একটি উৎপাদক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 P − 1 2 \\mathrm{P}-1 2 P − 1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 P + 1 2 \\mathrm{P}+1 2 P + 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "P 2 − P − 1 \\mathrm{P}^{2}-\\mathrm{P}-1 P 2 − P − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "P 2 + P + 1 \\mathrm{P}^{2}+\\mathrm{P}+1 P 2 + P + 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 P − 1 2 \\mathrm{P}-1 2 P − 1",
+      "option_b": "2 P + 1 2 \\mathrm{P}+1 2 P + 1",
+      "option_c": "P 2 − P − 1 \\mathrm{P}^{2}-\\mathrm{P}-1 P 2 − P − 1",
+      "option_d": "P 2 + P + 1 \\mathrm{P}^{2}+\\mathrm{P}+1 P 2 + P + 1",
+      "correct": "ক",
+      "explanation": "2 p 3 − 3 p 2 + 3 p − 1 = p 3 + p 3 − 3 p 2 + 3 p − 1 = p 3 + ( p − 1 ) 3 = ( p + p − 1 ) ( p 2 − p 2 + p + p 2 − 2 p + 1 ) = ( 2 p − 1 ) ( p 2 − p + 1 ) \\begin{array}{l}2 p^{3}-3 p^{2}+3 p-1=p^{3}+p^{3}-3 p^{2}+3 p-1 \\\\ =p^{3}+(p-1)^{3}=(p+p-1)\\left(p^{2}-p^{2}+p+p^{2}-2 p+1\\right) \\\\ =(2 p-1)\\left(p^{2}-p+1\\right)\\end{array} 2 p 3 − 3 p 2 + 3 p − 1 = p 3 + p 3 − 3 p 2 + 3 p − 1 = p 3 + ( p − 1 ) 3 = ( p + p − 1 ) ( p 2 − p 2 + p + p 2 − 2 p + 1 ) = ( 2 p − 1 ) ( p 2 − p + 1 ) ​"
+    },
+    {
+      "number": "5",
+      "tag": "DIN.B 23",
+      "question": "P + 1 P = 2  হলে  P 5 + 1 p 5 =  কত?  \\mathrm{P}+\\frac{1}{\\mathrm{P}}=2 \\text { হলে } \\mathrm{P}^{5}+\\frac{1}{\\mathrm{p}^{5}}=\\text { কত? } P + P 1 ​ = 2   হলে   P 5 + p 5 1 ​ =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "14",
+      "option_b": "10",
+      "option_c": "6",
+      "option_d": "2",
+      "correct": "ঘ",
+      "explanation": "p + 1 p = 2  বা ,  p 2 − 2 p + 1 = 0  বা,  ( p − 1 ) 2 = 0  বা,  p = 1 ∴ p 3 + 1 p 3 = 1 + 1 = 2 \\begin{array}{l}p+\\frac{1}{p}=2 \\text { বা , } p^{2}-2 p+1=0 \\text { বা, }(p-1)^{2}=0 \\text { বা, } p=1 \\\\ \\therefore p^{3}+\\frac{1}{p^{3}}=1+1=2\\end{array} p + p 1 ​ = 2   বা  ,  p 2 − 2 p + 1 = 0   বা ,  ( p − 1 ) 2 = 0   বা ,  p = 1 ∴ p 3 + p 3 1 ​ = 1 + 1 = 2 ​"
+    },
+    {
+      "number": "6",
+      "tag": "CB 25",
+      "question": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সমকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রবৃদ্ধ কোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সূক্ষ্মকোণ",
+      "option_b": "সমকোণ",
+      "option_c": "স্থূলকোণ",
+      "option_d": "প্রবৃদ্ধ কোণ",
+      "correct": "গ",
+      "explanation": "বৃত্তের উপচাপে অন্তর্লিখিত কোণ-স্থূলকোণ। স্থূলকোণ হলো সেই কোণ যা 90° এর চেয়ে বড় কিন্তু 180° এর চেয়ে ছোট। অন্যভাবে বলতে গেলে, এটি একটি সমকোণ (90°) এবং একটি সরলকোণ (180°) এর মধ্যেকার কোণ।   উদাহরণস্বরূপ, ৯৫°, ১১০°, বা ১৭৫° এর মত কোণগুলো স্থূলকোণ।"
+    },
+    {
+      "number": "7",
+      "tag": "DIN.B 23",
+      "question": "চিত্রে O S = 3 \\mathrm{OS}=3 OS = 3 সে.মি. হলে P Q = \\mathrm{PQ}= PQ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 . সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 17 2 \\sqrt{17} 2 17 ​ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 17 4 \\sqrt{17} 4 17 ​ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 . সে.মি.",
+      "option_b": "8 সে.মি.",
+      "option_c": "2 17 2 \\sqrt{17} 2 17 ​ সে.মি.",
+      "option_d": "4 17 4 \\sqrt{17} 4 17 ​ সে.মি.",
+      "correct": "খ",
+      "explanation": "O S = 3 O S=3 OS = 3 চিত্র হতে পাই, O P 2 = O S 2 + P S 2 ⇒ P S = O P 2 − O S 2 = 5 2 − 3 2 = 4 ∴ P Q = 2 P S = 2 × 4 c m = 8 c m \\begin{aligned} O P^{2} & =O S^{2}+P S^{2} \\\\ \\Rightarrow P S & =\\sqrt{O P^{2}-O S^{2}} \\\\ & =\\sqrt{5^{2}-3^{2}} \\\\ & =4 \\\\ \\therefore P Q=2 P S & =2 \\times 4 cm \\\\ & =8 cm \\end{aligned} O P 2 ⇒ PS ∴ PQ = 2 PS ​ = O S 2 + P S 2 = O P 2 − O S 2 ​ = 5 2 − 3 2 ​ = 4 = 2 × 4 c m = 8 c m ​"
+    },
+    {
+      "number": "8",
+      "tag": "CB 24,DIN.B 24,DIN.B 23,JB 20,DB 19,DIN.B 17",
+      "question": "সমবাহু ত্রিভুজের বহিঃস্থ কোণের বিপরীত অন্তঃস্থ কোণদ্বয়ের সমষ্টি কত ডিগ্রি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "60°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "90°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120°",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "180°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "60°",
+      "option_b": "90°",
+      "option_c": "120°",
+      "option_d": "180°",
+      "correct": "গ",
+      "explanation": "সমবাহু ত্রিভুজের প্রতিটি অন্তঃস্থ কোণ 60 ডিগ্রি। একটি বহিঃস্থ কোণ হল 180 ডিগ্রি থেকে অন্তঃস্থ কোণ বিয়োগ করে পাওয়া কোণ। অর্থাৎ, একটি বহিঃস্থ কোণ = 180° - 60° = 120°। বহিঃস্থ কোণটি ত্রিভুজের একটি ভিন্ন ভিন্ন দুটি অন্তঃস্থ কোণের বিপরীত হয়, যা প্রত্যেকটি 60 ডিগ্রি। এই দুটি কোণের সমষ্টি = 60° + 60° = 120°। অতএব, সমবাহু ত্রিভুজের বহিঃস্থ কোণের বিপরীত অন্তঃস্থ কোণদ্বয়ের সমষ্টি 120 ডিগ্রি।"
+    },
+    {
+      "number": "10",
+      "tag": "DIN.B 23,RUMC 24,BAFSC 24",
+      "question": "চিত্রে O বৃত্তটির কেন্দ্র । P O = 13 \\mathrm{PO}=13 PO = 13 সে.মি., O B = 5 \\mathrm{OB}=5 OB = 5 সে.মি. হলে PA = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "119 \\sqrt{119} 119 ​ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "13 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "194 \\sqrt{194} 194 ​ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "119 \\sqrt{119} 119 ​ সে.মি.",
+      "option_b": "12 সে.মি.",
+      "option_c": "13 সে.মি.",
+      "option_d": "194 \\sqrt{194} 194 ​ সে.মি.",
+      "correct": "খ",
+      "explanation": "এখানে আমরা দেখতে পাচ্ছি যে, O বৃত্তটির কেন্দ্র এবং P একটি বাহ্যিক বিন্দু। PA হলো বাহ্যিক স্পর্শক এবং OB হলো রেডিয়াস। আমরা জানি যে, বাহ্যিক স্পর্শক এবং রেডিয়াসের সমানুপাতিক ধ্রুবক থাকে। স্পর্শকের জন্য ক্লাসিক সূত্র হলো: ( A B 2 = O P 2 − O B 2 ) (AB^2 = OP^2 - OB^2 ) ( A B 2 = O P 2 − O B 2 ) এখানে, AB হলো স্পর্শকের দৈর্ঘ্য PA, OP = 13 সেমি এবং OB = 5 সেমি দেওয়া আছে। সূত্র অনুযায়ী, PA² = OP² - OB² = 13² - 5² = 169 - 25 = 144 অতএব, P A = 144 = 12 PA = \\sqrt{144} = 12 P A = 144 ​ = 12 সেমি।"
+    },
+    {
+      "number": "11",
+      "tag": "RB 25",
+      "question": "নির্দিষ্ট চতুর্ভুজ আঁকার জন্য কতটি স্বতন্ত্র উপাত্ত প্রয়োজন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "খ",
+      "explanation": "নির্দিষ্ট চতুর্ভুজ আঁকার জন্য প্রয়োজনীয় স্বতন্ত্র উপাত্তের সংখ্যা: 5 ব্যাখ্যা: একটি সাধারণ চতুর্ভুজ গঠনের জন্য ন্যূনতম ৫টি স্বতন্ত্র উপাত্ত প্রয়োজন। নিচে এর কারণ দেওয়া হলো: মৌলিক উপাত্ত: চতুর্ভুজের ৪টি বাহু (a, b, c, d) এবং ১টি কোণ (যেকোনো একটি) দেওয়া থাকলে এটি অনন্যভাবে আঁকা সম্ভব। উদাহরণ: বাহু: 5 cm, 6 cm, 4 cm, 3 cm কোণ: 90° (যেকোনো এক বাহুর মধ্যে) বিকল্প উপাত্ত সমন্বয়: 3টি বাহু + 2টি কোণ (যেমন: দুই সন্নিহিত কোণ) 2টি বাহু + 3টি কোণ (যদি বিশেষ শর্ত থাকে) গাণিতিক যুক্তি: চতুর্ভুজের অভ্যন্তরীণ কোণের সমষ্টি = 360° 4টি বাহু ও 1টি কোণ জানা থাকলে অবশিষ্ট কোণগুলি ত্রিকোণমিতির মাধ্যমে নির্ণয় করা যায়। ব্যতিক্রম: বিশেষ চতুর্ভুজ (যেমন: বর্গ, আয়ত) ক্ষেত্রে কম উপাত্তে কাজ হয় (যেমন: বর্গের জন্য শুধু 1টি বাহুই যথেষ্ট)। সুতরাং, সাধারণ চতুর্ভুজের জন্য 5টি উপাত্ত প্রয়োজন।"
+    },
+    {
+      "number": "12",
+      "tag": "RB 25,CB 25,DB 24,MB 23,DIN.B 23,MB 22,MB 20,DIN.B 19,DB 17,CB 17,RCC 24,FGCC 24,RUMC 24,BAFSC 24",
+      "question": "একটি সুষম অষ্টভুজের শীর্ষ কোণের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "108 ∘ 108^{\\circ} 10 8 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "135 ∘ 135^{\\circ} 13 5 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_b": "108 ∘ 108^{\\circ} 10 8 ∘",
+      "option_c": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_d": "135 ∘ 135^{\\circ} 13 5 ∘",
+      "correct": "গ",
+      "explanation": "সুষম অষ্টভুজের শীর্ষ কোণের মান = ( 8 − 2 ) 8 × 180 ∘ = 135 ∘ =\\frac{(8-2)}{8} \\times 180^{\\circ}=135^{\\circ} = 8 ( 8 − 2 ) ​ × 18 0 ∘ = 13 5 ∘ আমরা জানি ,  কোনো n বাহুবিশিষ বহুভুজের শীর্ষকোন,  = n − 2 n × 140 ∘  অষ্টভুজের ক্ষেত্রে,  n = 8 ∴  কোণের মান  = 8 − 2 8 × 180 ∘ = 135 ∘ \\begin{array}{l} \\text { কোনো n বাহুবিশিষ বহুভুজের শীর্ষকোন, }= \\frac{n-2}{n} \\times 140^{\\circ}\\\\ \\text { অষ্টভুজের ক্ষেত্রে, } n=8 \\\\ \\therefore \\text { কোণের মান }=\\frac{8-2}{8} \\times 180^{\\circ}=135^{\\circ} \\end{array}   কোনো  n  বাহুবিশিষ   বহুভুজের   শীর্ষকোন ,  = n n − 2 ​ × 14 0 ∘   অষ্টভুজের   ক্ষেত্রে ,  n = 8 ∴   কোণের   মান   = 8 8 − 2 ​ × 18 0 ∘ = 13 5 ∘ ​"
+    },
+    {
+      "number": "13",
+      "tag": "DIN.B 23,MCC 24",
+      "question": "যদি 3 সে.মি., 4 সে.মি. এবং 5 সে.মি. ব্যাসার্ধবিশিষ্ট তিনটি বৃত্ত পরস্পর বহিঃস্পর্শ করে, তাহলে বৃত্তত্রয়ের কেন্দ্র দ্বারা উৎপন্ন ত্রিভুজের পরিসীমা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "6",
+      "option_c": "12",
+      "option_d": "24",
+      "correct": "ঘ",
+      "explanation": "∴ △ A B C \\therefore \\triangle A B C ∴ △ A BC এর পরিসীমা : = 3 + 4 + 4 + 5 + 5 + 3 = 24   c m \\begin{array}{l} =3+4+4+5+5+3 \\\\ =24 \\mathrm{~cm} \\end{array} = 3 + 4 + 4 + 5 + 5 + 3 = 24   cm ​"
+    },
+    {
+      "number": "14",
+      "tag": "CB 25",
+      "question": "0.00045 সংখ্যাটির সাধারণ লগের পূর্ণক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 ‾ \\overline{3} 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 ‾ \\overline{4} 4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3 ‾ \\overline{3} 3",
+      "option_b": "3",
+      "option_c": "4 ‾ \\overline{4} 4",
+      "option_d": "4",
+      "correct": "ঘ",
+      "explanation": "সাধারণ লগের পূর্ণক (characteristic) হলো সংখ্যার দশমিক বিন্দুর বাম পাশে অবস্থিত সংখ্যাগুলোর ভিত্তিতে নির্ধারিত হয়। দশমিক বিন্দুর বাম পাশে কোনো সংখ্যা না থাকলে, অর্থাৎ 0.00045-এর ক্ষেত্রে, পূর্ণক (characteristic) হবে ঋণাত্মক সংখ্যা এবং দশমিক বিন্দুর পর কতগুলো ঘর আছে তার থেকে ১ কম। এখানে, দশমিক বিন্দুর পর 00045 00045 00045 থেকে সংখ্যা শুরু হয়েছে, অর্থাৎ দশমিক বিন্দুর পরে 3টি ঘর পর্যন্ত আছে এবং তারপর সংখ্যা শুরু হয়েছে, তাই পূর্ণক বা characteristic হবে: − 4 -4 − 4 অতএব, সঠিক উত্তর হলো: 4 ‾ \\overline{4} 4 ।"
+    },
+    {
+      "number": "16",
+      "tag": "DIN.B 23",
+      "question": "log ⁡ 49 7 + log ⁡ 7 7 \\log _{49} 7+\\log _{\\sqrt{7}} 7 lo g 49 ​ 7 + lo g 7 ​ ​ 7 এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 2 \\frac{5}{2} 2 5 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_b": "1",
+      "option_c": "2",
+      "option_d": "5 2 \\frac{5}{2} 2 5 ​",
+      "correct": "গ",
+      "explanation": "log ⁡ 49 7 + log ⁡ 7 7 = log ⁡ 49 ( 49 ) 1 2 + log ⁡ 7 ( 7 ) 2 = 1 2 log ⁡ 49 49 + 2 log ⁡ 7 7 = 1 2 + 2 = 5 2 \\begin{array}{l}\\log _{49} 7+\\log _{\\sqrt{7}} 7=\\log _{49}(49)^{\\frac{1}{2}}+\\log _{\\sqrt{7}}(\\sqrt{7})^{2} \\\\ =\\frac{1}{2} \\log _{49} 49+2 \\log _{\\sqrt{7}} \\sqrt{7}=\\frac{1}{2}+2=\\frac{5}{2}\\end{array} lo g 49 ​ 7 + lo g 7 ​ ​ 7 = lo g 49 ​ ( 49 ) 2 1 ​ + lo g 7 ​ ​ ( 7 ​ ) 2 = 2 1 ​ lo g 49 ​ 49 + 2 lo g 7 ​ ​ 7 ​ = 2 1 ​ + 2 = 2 5 ​ ​"
+    },
+    {
+      "number": "17",
+      "tag": "DIN.B 23",
+      "question": "tan ⁡ θ + sin ⁡ θ \\tan \\theta+\\sin \\theta tan θ + sin θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "27 20 \\frac{27}{20} 20 27 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "25 20 \\frac{25}{20} 20 25 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "29 15 \\frac{29}{15} 15 29 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "29 12 \\frac{29}{12} 12 29 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "27 20 \\frac{27}{20} 20 27 ​",
+      "option_b": "25 20 \\frac{25}{20} 20 25 ​",
+      "option_c": "29 15 \\frac{29}{15} 15 29 ​",
+      "option_d": "29 12 \\frac{29}{12} 12 29 ​",
+      "correct": "ক",
+      "explanation": "P R 2 = P Q 2 + Q R 2 ⇒ P R = P Q 2 + Q R 2 = 3 2 + 4 2 = 5 \\begin{array}{l} P R^{2}=P Q^{2}+Q R^{2} \\\\ \\Rightarrow P R=\\sqrt{P Q^{2}+Q R^{2}} \\\\ =\\sqrt{3^{2}+4^{2}} \\\\ =5 \\end{array} P R 2 = P Q 2 + Q R 2 ⇒ PR = P Q 2 + Q R 2 ​ = 3 2 + 4 2 ​ = 5 ​ ∴ tan ⁡ θ + sin ⁡ θ = P Q Q R + P Q P R = 3 4 + 3 5 = 15 + 12 20 = 27 20 \\begin{array}{l} \\therefore \\tan \\theta+\\sin \\theta \\\\ =\\frac{P Q}{Q R}+\\frac{P Q}{P R} \\\\ =\\frac{3}{4}+\\frac{3}{5}=\\frac{15+12}{20} \\\\ =\\frac{27}{20} \\end{array} ∴ tan θ + sin θ = QR PQ ​ + PR PQ ​ = 4 3 ​ + 5 3 ​ = 20 15 + 12 ​ = 20 27 ​ ​"
+    },
+    {
+      "number": "18",
+      "tag": "DIN.B 23",
+      "question": "1 − sec ⁡ θ 1 + sec ⁡ θ =  কত?  \\frac{1-\\sec \\theta}{1+\\sec \\theta}=\\text { কত? } 1 + s e c θ 1 − s e c θ ​ =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 1 9 \\frac{-1}{9} 9 − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 1 8 \\frac{-1}{8} 8 − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 1 7 \\frac{-1}{7} 7 − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 1 4 \\frac{-1}{4} 4 − 1 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "− 1 9 \\frac{-1}{9} 9 − 1 ​",
+      "option_b": "− 1 8 \\frac{-1}{8} 8 − 1 ​",
+      "option_c": "− 1 7 \\frac{-1}{7} 7 − 1 ​",
+      "option_d": "− 1 4 \\frac{-1}{4} 4 − 1 ​",
+      "correct": "ঘ",
+      "explanation": "চিত্র হতে পাই, R R 2 = P Q 2 + Q R 2 ⇒ P R = ( 3 ) 2 + ( 4 ) 2 = 5 ∴ sec ⁡ θ = P R Q R = 5 4 ∴ 1 − sec ⁡ θ 1 + sec ⁡ θ = 1 − 5 4 1 + 5 4 = 4 − 5 4 + 5 = − 1 9 \\begin{aligned} R R^{2} & =P Q^{2}+Q R^{2} \\\\ \\Rightarrow P R & =\\sqrt{(3)^{2}+(4)^{2}} \\\\ & =5 \\\\ \\therefore \\sec \\theta & =\\frac{P R}{Q R}=\\frac{5}{4} \\\\ \\therefore \\frac{1-\\sec \\theta}{1+\\sec \\theta} & =\\frac{1-\\frac{5}{4}}{1+\\frac{5}{4}} \\\\ & =\\frac{4-5}{4+5} \\\\ & =\\frac{-1}{9} \\end{aligned} R R 2 ⇒ PR ∴ sec θ ∴ 1 + sec θ 1 − sec θ ​ ​ = P Q 2 + Q R 2 = ( 3 ) 2 + ( 4 ) 2 ​ = 5 = QR PR ​ = 4 5 ​ = 1 + 4 5 ​ 1 − 4 5 ​ ​ = 4 + 5 4 − 5 ​ = 9 − 1 ​ ​"
+    },
+    {
+      "number": "20",
+      "tag": "DIN.B 23",
+      "question": "tan ⁡ 6 A = sec ⁡ 6 A \\tan 6 A=\\sec 6 A tan 6 A = sec 6 A হলে, A এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0 ∘ 0^{\\circ} 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "15 ∘ 15^{\\circ} 1 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0 ∘ 0^{\\circ} 0 ∘",
+      "option_b": "15 ∘ 15^{\\circ} 1 5 ∘",
+      "option_c": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_d": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "correct": "ক",
+      "explanation": "tan ⁡ 6   A = sec ⁡ 6   A  বা,  sin ⁡ 6 A ˙ cos ⁡ 6   A = 1 cos ⁡ 6   A  বা,  sin ⁡ 6   A = 1 \\tan 6 \\mathrm{~A}=\\sec 6 \\mathrm{~A} \\text { বা, } \\frac{\\sin 6 \\dot{A}}{\\cos 6 \\mathrm{~A}}=\\frac{1}{\\cos 6 \\mathrm{~A}} \\text { বা, } \\sin 6 \\mathrm{~A}=1 tan 6   A = sec 6   A   বা ,  c o s 6   A s i n 6 A ˙ ​ = c o s 6   A 1 ​   বা ,  sin 6   A = 1 বা, sin ⁡ 6 A = sin ⁡ 90 ∘ \\sin 6 A=\\sin 90^{\\circ} sin 6 A = sin 9 0 ∘ বা , 6 ∘ A = 90 ∘ ∴ A = 15 ∘ 6^{\\circ} \\mathrm{A}=90^{\\circ} \\therefore \\mathrm{A}=15^{\\circ} 6 ∘ A = 9 0 ∘ ∴ A = 1 5 ∘"
+    },
+    {
+      "number": "21",
+      "tag": "DIN.B 23,DB 22,BCPC 24",
+      "question": "− 8 − 3 + 2 + 7 + … … . -8-3+2+7+\\ldots \\ldots . − 8 − 3 + 2 + 7 + …… . . ধারাটির 15 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "67",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "78",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "62",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "83",
+          "is_correct": false
+        }
+      ],
+      "option_a": "67",
+      "option_b": "78",
+      "option_c": "62",
+      "option_d": "83",
+      "correct": "ক",
+      "explanation": "− 8 − 3 + 2 + 7 + -8-3+2+7+ − 8 − 3 + 2 + 7 + ধারাটির ১ম পদ a = − 8 a=-8 a = − 8 সাধারণ অন্তর d = − 3 − ( − 8 ) d=-3-(-8) d = − 3 − ( − 8 ) = − 3 + 8 = 5 =-3+8=5 = − 3 + 8 = 5 ∴ n  তম পদ  = a + ( n − 1 ) d ∴ 15  তম পদ  = − 8 + ( 15 − 1 ) × 5 = − 8 + 19 × 5 = − 8 + 70 = 62 \\begin{aligned} \\therefore n \\text { তম পদ } & =a+(n-1) d \\\\ \\therefore 15 \\text { তম পদ } & =-8+(15-1) \\times 5 \\\\ & =-8+19 \\times 5 \\\\ & =-8+70 \\\\ & =62 \\end{aligned} ∴ n   তম   পদ   ∴ 15   তম   পদ   ​ = a + ( n − 1 ) d = − 8 + ( 15 − 1 ) × 5 = − 8 + 19 × 5 = − 8 + 70 = 62 ​"
+    },
+    {
+      "number": "22",
+      "tag": "CB 23,DIN.B 23",
+      "question": "− 5 + 5 − 5 + -5+5-5+ − 5 + 5 − 5 + … … … ধারার প্রথম 100 টি পদের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "500",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "-5",
+      "option_c": "5",
+      "option_d": "500",
+      "correct": "ক",
+      "explanation": "− 5 + 5 − 5 + … -5+5-5+\\ldots − 5 + 5 − 5 + … ধারার প্রথম পদ, a = − 5 a=-5 a = − 5 সাধারণ অনুপাত, r = − 1 r=-1 r = − 1 n  সংখ্যক পদের সমষ্টি  = a ( 1 − r n ) 1 − r ∴ 100  টি পদের সমষ্টি  = − 5 { 1 − ( − 1 ) 100 } 1 − ( − 1 ) = − 5 ( 1 − 1 ) 1 + 1 = − 5 ( 0 ) 2 = 0 \\begin{array}{l} n \\text { সংখ্যক পদের সমষ্টি }=\\frac{a\\left(1-r^{n}\\right)}{1-r} \\\\ \\therefore 100 \\text { টি পদের সমষ্টি }=\\frac{-5\\left\\{1-(-1)^{100}\\right\\}}{1-(-1)} \\\\ =\\frac{-5(1-1)}{1+1} \\\\ =\\frac{-5(0)}{2} \\\\ =0 \\end{array} n   সংখ্যক   পদের   সমষ্টি   = 1 − r a ( 1 − r n ) ​ ∴ 100   টি   পদের   সমষ্টি   = 1 − ( − 1 ) − 5 { 1 − ( − 1 ) 100 } ​ = 1 + 1 − 5 ( 1 − 1 ) ​ = 2 − 5 ( 0 ) ​ = 0 ​"
+    },
+    {
+      "number": "23",
+      "tag": "DIN.B 23,RUMC 24",
+      "question": "2 + p + 6 + q + 10 + r + 2+p+6+q+10+r+ 2 + p + 6 + q + 10 + r + … . …. … . সমান্তর ধারাভুক্ত হলে- i. p \\mathrm{p} p এর মান 4 ii. r এর মান 12 iii. প্রথম 6 টি পদের সমষ্টি 42 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "(i) ১ম পদ, a = 2 a=2 a = 2 সাধারণ অন্তর = d =d = d n  তম পদ  = a + ( n − 1 ) d ∴  ৩য় পদ  = a + ( 3 − 1 ) d = 2 + 2 d \\begin{array}{l} n \\text { তম পদ }=a+(n-1) d \\\\ \\therefore \\text { ৩য় পদ }=a+(3-1) d \\\\ =2+2 d \\end{array} n   তম   পদ   = a + ( n − 1 ) d ∴   ৩য়   পদ   = a + ( 3 − 1 ) d = 2 + 2 d ​ ∴ 2 + 2 d = 6 ⇒ 2 d = 4 ⇒ d = 2 \\begin{array}{l} \\therefore 2+2 d=6 \\\\ \\Rightarrow 2 d=4 \\\\ \\Rightarrow d=2 \\end{array} ∴ 2 + 2 d = 6 ⇒ 2 d = 4 ⇒ d = 2 ​ ২য় পদ, P = a + ( 2 − 1 ) d P=a+(2-1) d P = a + ( 2 − 1 ) d = a + d = 2 + 2 = 4 \\begin{array}{l} =a+d \\\\ =2+2=4 \\end{array} = a + d = 2 + 2 = 4 ​ (ii) ৬ষ্ঠ পদ, n = a + ( 6 − 1 ) d n=a+(6-1) d n = a + ( 6 − 1 ) d = a + 5 d = 2 + 5 × 2 = 12 \\begin{array}{l} =a+5 d \\\\ =2+5 \\times 2=12 \\end{array} = a + 5 d = 2 + 5 × 2 = 12 ​ (iii) প্রথম n n n সংখ্যক পদের সমষ্টি, S n = n 2 { 2 a + ( n − 1 ) d } ∴ S 6 = 6 2 { 2 ⋅ 2 + ( 6 − 1 ) ⋅ 2 } = 3 ( 4 + 10 ) = 42 \\begin{array}{l} S_{n}=\\frac{n}{2}\\{2 a+(n-1) d\\} \\\\ \\therefore S_{6}=\\frac{6}{2}\\{2 \\cdot 2+(6-1) \\cdot 2\\} \\\\ =3(4+10) \\\\ =42 \\end{array} S n ​ = 2 n ​ { 2 a + ( n − 1 ) d } ∴ S 6 ​ = 2 6 ​ { 2 ⋅ 2 + ( 6 − 1 ) ⋅ 2 } = 3 ( 4 + 10 ) = 42 ​"
+    },
+    {
+      "number": "24",
+      "tag": "RB 25,JB 25,DIN.B 23,RB 19",
+      "question": "△ A B C  এ A B = B C = C A = 6 \\triangle \\mathrm{ABC}~\\mathrm{এ} \\mathrm{AB}=\\mathrm{BC}=\\mathrm{CA}=6 △ ABC   এ AB = BC = CA = 6 সে.মি. হলে মধ্যমা AD = কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 2 \\sqrt{3} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 3 3 \\sqrt{3} 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 5 3 \\sqrt{5} 3 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6 2 6 \\sqrt{2} 6 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 3 2 \\sqrt{3} 2 3 ​",
+      "option_b": "3 3 3 \\sqrt{3} 3 3 ​",
+      "option_c": "3 5 3 \\sqrt{5} 3 5 ​",
+      "option_d": "6 2 6 \\sqrt{2} 6 2 ​",
+      "correct": "গ",
+      "explanation": "△ A B C \\triangle A B C △ A BC A B = B C = C A = 6 A B=B C=C A=6 A B = BC = C A = 6 সে.মি, অর্থাৎ এটি একটি সমবাহু ত্রিভুজ। সমবাহু ত্রিভুজের মধ্যমা = উচ্চতা A D = A B 2 − B D 2 = 6 2 − 3 2 = 36 − 9 = 27 = 3 3 \\begin{array}{l} A D=\\sqrt{A B^{2}-B D^{2}} \\\\ =\\sqrt{6^{2}-3^{2}} \\\\ =\\sqrt{36-9} \\\\ =\\sqrt{27} \\\\ =3 \\sqrt{3} \\end{array} A D = A B 2 − B D 2 ​ = 6 2 − 3 2 ​ = 36 − 9 ​ = 27 ​ = 3 3 ​ ​"
+    },
+    {
+      "number": "25",
+      "tag": "DB 23,DIN.B 23,MB 20,DIN.B 20",
+      "question": "একটি বর্গের পরিসীমা 36 মিটার। এর একটি কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6 2 6 \\sqrt{2} 6 2 ​ মিটার",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6 3 6 \\sqrt{3} 6 3 ​ মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9 2 9 \\sqrt{2} 9 2 ​ মিটার",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "9 3 9 \\sqrt{3} 9 3 ​ মিটার",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6 2 6 \\sqrt{2} 6 2 ​ মিটার",
+      "option_b": "6 3 6 \\sqrt{3} 6 3 ​ মিটার",
+      "option_c": "9 2 9 \\sqrt{2} 9 2 ​ মিটার",
+      "option_d": "9 3 9 \\sqrt{3} 9 3 ​ মিটার",
+      "correct": "ক",
+      "explanation": "প্রদত্ত বর্গের পরিসীমা 36 মিটার। প্রথমে বর্গের বাহুর দৈর্ঘ্য বের করা যাক। বর্গের পরিসীমা হলো:  পারিসীমা  = 4 ×  বাহুর দৈর্ঘ্য  \\text { পারিসীমা }=4 \\times \\text { বাহুর দৈর্ঘ্য }   পারিসীমা   = 4 ×   বাহুর   দৈর্ঘ্য   প্রদত্ত পরিসীমা 36 মিটার: 4 ×  বাহুর দৈর্ঘ্য  = 36 ⟹  বাহুর দৈর্ঘ্য  = 36 4 = 9  মিটার  4 \\times \\text { বাহুর দৈর্ঘ্য }=36 \\Longrightarrow \\text { বাহুর দৈর্ঘ্য }=\\frac{36}{4}=9 \\text { মিটার } 4 ×   বাহুর   দৈর্ঘ্য   = 36 ⟹   বাহুর   দৈর্ঘ্য   = 4 36 ​ = 9   মিটার   এখন বর্গের কর্পের দৈর্ঘ্য বের করতে পিথাগোরাসের উপপাদ্য ব্যবহার করা যাক। বর্গের কর্ণ হলো:  কর্ণ  = (  বাহুর দৈর্ঘ্য  ) 2 + (  বাহুর দৈর্ঘ্য  ) 2 = 9 2 + 9 2 = 81 + 81 = 162 = 9 2  মিটার  \\text { কর্ণ }=\\sqrt{(\\text { বাহুর দৈর্ঘ্য })^{2}+(\\text { বাহুর দৈর্ঘ্য })^{2}}=\\sqrt{9^{2}+9^{2}}=\\sqrt{81+81}=\\sqrt{162}=9 \\sqrt{2} \\text { মিটার }   কর্ণ   = (   বাহুর   দৈর্ঘ্য   ) 2 + (   বাহুর   দৈর্ঘ্য   ) 2 ​ = 9 2 + 9 2 ​ = 81 + 81 ​ = 162 ​ = 9 2 ​   মিটার   সুতরাং, বর্গের কর্ণের দৈর্ঘ্য হলো: 9 2  মিটার  9 \\sqrt{2} \\text { মিটার } 9 2 ​   মিটার"
+    },
+    {
+      "number": "26",
+      "tag": "DIN.B 23",
+      "question": "বৃত্তের কেন্দ্রস্থ কোণ 144 ∘ 144^{\\circ} 14 4 ∘ এবং ব্যাসার্ধ 10 সে.মি. হলে, বৃত্তচাপের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "16 π 16 \\pi 16 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12 π 12 \\pi 12 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 π 8 \\pi 8 π",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 π 4 \\pi 4 π",
+          "is_correct": true
+        }
+      ],
+      "option_a": "16 π 16 \\pi 16 π",
+      "option_b": "12 π 12 \\pi 12 π",
+      "option_c": "8 π 8 \\pi 8 π",
+      "option_d": "4 π 4 \\pi 4 π",
+      "correct": "ঘ",
+      "explanation": "বৃত্তচাপের দৈর্ঘ্য , s = r θ = 10 × 144 π 180 = 8 π s=r \\theta=10 \\times \\frac{144 \\pi}{180}=8 \\pi s = r θ = 10 × 180 144 π ​ = 8 π"
+    },
+    {
+      "number": "27",
+      "tag": "RB 25",
+      "question": "একটি সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ 5 সে.মি. এবং উচ্চতা 6 সে.মি. হলে বেলনটির i ভূমির ক্ষেত্রফল = 25 π \\pi π বর্গ সে.মি. ii. আয়তন = 150 π \\pi π ঘন সে.মি iii. বক্রতলের ক্ষেত্রফল = 60 π \\pi π বর্গ সে.মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "দেওয়া আছে, সমবৃত্তভূমিক বেলনের ব্যাসার্ধ = 5   c m =5 \\mathrm{~cm} = 5   cm উচ্চতা, h = 6   c m h=6 \\mathrm{~cm} h = 6   cm (i) ভূমির ক্ষেত্রফল = π r 2 = ( 5 ) 2 × π = 25 π =\\pi r^{2}=(5)^{2} \\times \\pi=25 \\pi = π r 2 = ( 5 ) 2 × π = 25 π ব. সে.মি. (ii) আয়তন = π r 2 h = π × 5 2 × 6 = 150 π =\\pi r^{2} h=\\pi \\times 5^{2} \\times 6=150 \\pi = π r 2 h = π × 5 2 × 6 = 150 π ঘন সে.মি. (iii) বক্রতলের ক্ষেত্রফল = 2 π r h = 2 × π × 5 × 6 = 60 π =2 \\pi r h=2 \\times \\pi \\times 5 \\times 6=60 \\pi = 2 π r h = 2 × π × 5 × 6 = 60 π ব. সে.মি. ∴ \\therefore ∴ সঠিক উত্তর: i, ii ও iii."
+    },
+    {
+      "number": "28",
+      "tag": "DIN.B 23,BCC 24",
+      "question": "- 5 থেকে 5 পর্যন্ত সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "-1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-5",
+      "option_b": "5",
+      "option_c": "0",
+      "option_d": "-1",
+      "correct": "গ",
+      "explanation": "মধ্যক বের করার জন্য সংখ্যাগুলোকে ক্রম অনুযায়ী সাজাতে হয়। -5 থেকে 5 পর্যন্ত পূর্ণসংখ্যাগুলোর ক্রম হলো: -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5। এই ক্রমে ১১টি সংখ্যা রয়েছে এবং যেহেতু ১১ একটি বিজোড় সংখ্যা, তাই মধ্যক হলো ( (n+1)/2 ) তম সংখ্যা যেখানে n হলো সংখ্যা গুলোর যোগফল। চলুন, আগে সংখ্যাগুলি উঠিয়ে নিন: -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5। এখন, মধ্যকের অবস্থান: ( (11+1)/2 ) = 6 তাই 6 তম সংখ্যা হলো 0। সুতরাং মধ্যক হলো 0।"
+    },
+    {
+      "number": "29",
+      "tag": "RB 25,CB 25,JB 25,DB 24,CB 24,MB 24,CTG.B 24,DB 24,DB 23,DIN.B 23,JB 23,BB 23,CB 22,DIN.B 22,SB 22,BB 22,SB 20,DIN.B 20,DB 19,RCC 24,RCC 24,PCC 24,BCC 24,RUMC 24,HC 24,MC 24,MCPSC 24,RGLHS 24,BCPC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: শ্রেণিব্যাপ্তি 21-30 31-40 41-50 51-60 গণসংখ্যা 4 12 8 10 প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28.67",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27.67",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "47.67",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "37.17",
+          "is_correct": false
+        }
+      ],
+      "option_a": "28.67",
+      "option_b": "27.67",
+      "option_c": "47.67",
+      "option_d": "37.17",
+      "correct": "গ",
+      "explanation": "প্রদত্ত শ্রেণি ও গণসংখ্যা: শ্রেণিসীমা গণসংখ্যা 21 - 30 4 31 - 40 12 41 - 50 8 51 - 60 10 প্রদত্ত সারণি থেকে দেখা যায় যে, সর্বাধিক গণসংখ্যা হলো 12, যা 31 – 40 শ্রেণিতে অবস্থিত। সুতরাং, প্রচুরক শ্রেণী হলো 31 – 40। প্রচুরক শ্রেণির নিম্নসীমা, L = 30.5 L = 30.5 L = 30.5 (প্রকৃত নিম্নসীমা) প্রচুরক শ্রেণির গণসংখ্যা, f 1 = 12 f_1 = 12 f 1 ​ = 12 প্রচুরক শ্রেণির পূর্ববর্তী শ্রেণির গণসংখ্যা, f 0 = 4 f_0 = 4 f 0 ​ = 4 প্রচুরক শ্রেণির পরবর্তী শ্রেণির গণসংখ্যা, f 2 = 8 f_2 = 8 f 2 ​ = 8 শ্রেণিব্যাপ্তি, h = 10 h = 10 h = 10 প্রচুরক নির্ণয়ের সূত্রটি হলো: = L + f 1 − f 0 ( f 1 − f 0 ) + ( f 1 − f 2 ) × h = L + \\frac{f_1 - f_0}{(f_1 - f_0) + (f_1 - f_2)} \\times h = L + ( f 1 ​ − f 0 ​ ) + ( f 1 ​ − f 2 ​ ) f 1 ​ − f 0 ​ ​ × h = 30.5 + 12 − 4 ( 12 − 4 ) + ( 12 − 8 ) × 10 = 30.5 + \\frac{12 - 4}{(12 - 4) + (12 - 8)} \\times 10 = 30.5 + ( 12 − 4 ) + ( 12 − 8 ) 12 − 4 ​ × 10 = 30.5 + 8 8 + 4 × 10 = 30.5 + \\frac{8}{8 + 4} \\times 10 = 30.5 + 8 + 4 8 ​ × 10 = 30.5 + 8 12 × 10 = 30.5 + \\frac{8}{12} \\times 10 = 30.5 + 12 8 ​ × 10 = 30.5 + 80 12 = 30.5 + \\frac{80}{12} = 30.5 + 12 80 ​ = 30.5 + 6.67 = 30.5 + 6.67 = 30.5 + 6.67 = 37.17 = 37.17 = 37.17"
+    },
+    {
+      "number": "30",
+      "tag": "RB 25,CB 25,JB 25,DB 24,CB 24,MB 24,CTG.B 24,DB 24,DB 23,DIN.B 23,JB 23,BB 23,CB 22,DIN.B 22,SB 22,BB 22,SB 20,DIN.B 20,DB 19,RCC 24,RCC 24,PCC 24,BCC 24,RUMC 24,HC 24,MC 24,MCPSC 24,RGLHS 24,BCPC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: শ্রেণিব্যাপ্তি 21-30 31-40 41-50 51-60 গণসংখ্যা 4 12 8 10 প্রদত্ত উপাত্তের প্রচুরক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28.67",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "27.67",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "47.67",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "37.17",
+          "is_correct": true
+        }
+      ],
+      "option_a": "28.67",
+      "option_b": "27.67",
+      "option_c": "47.67",
+      "option_d": "37.17",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত শ্রেণি ও গণসংখ্যা: শ্রেণিসীমা গণসংখ্যা 21 - 30 4 31 - 40 12 41 - 50 8 51 - 60 10 প্রদত্ত সারণি থেকে দেখা যায় যে, সর্বাধিক গণসংখ্যা হলো 12, যা 31 – 40 শ্রেণিতে অবস্থিত। সুতরাং, প্রচুরক শ্রেণী হলো 31 – 40। প্রচুরক শ্রেণির নিম্নসীমা, L = 30.5 L = 30.5 L = 30.5 (প্রকৃত নিম্নসীমা) প্রচুরক শ্রেণির গণসংখ্যা, f 1 = 12 f_1 = 12 f 1 ​ = 12 প্রচুরক শ্রেণির পূর্ববর্তী শ্রেণির গণসংখ্যা, f 0 = 4 f_0 = 4 f 0 ​ = 4 প্রচুরক শ্রেণির পরবর্তী শ্রেণির গণসংখ্যা, f 2 = 8 f_2 = 8 f 2 ​ = 8 শ্রেণিব্যাপ্তি, h = 10 h = 10 h = 10 প্রচুরক নির্ণয়ের সূত্রটি হলো: = L + f 1 − f 0 ( f 1 − f 0 ) + ( f 1 − f 2 ) × h = L + \\frac{f_1 - f_0}{(f_1 - f_0) + (f_1 - f_2)} \\times h = L + ( f 1 ​ − f 0 ​ ) + ( f 1 ​ − f 2 ​ ) f 1 ​ − f 0 ​ ​ × h = 30.5 + 12 − 4 ( 12 − 4 ) + ( 12 − 8 ) × 10 = 30.5 + \\frac{12 - 4}{(12 - 4) + (12 - 8)} \\times 10 = 30.5 + ( 12 − 4 ) + ( 12 − 8 ) 12 − 4 ​ × 10 = 30.5 + 8 8 + 4 × 10 = 30.5 + \\frac{8}{8 + 4} \\times 10 = 30.5 + 8 + 4 8 ​ × 10 = 30.5 + 8 12 × 10 = 30.5 + \\frac{8}{12} \\times 10 = 30.5 + 12 8 ​ × 10 = 30.5 + 80 12 = 30.5 + \\frac{80}{12} = 30.5 + 12 80 ​ = 30.5 + 6.67 = 30.5 + 6.67 = 30.5 + 6.67 = 37.17 = 37.17 = 37.17"
+    }
+  ]
+}

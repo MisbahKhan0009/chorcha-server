@@ -1,0 +1,2317 @@
+{
+  "read_id": "Rx5Sls-2YE0HV0NU",
+  "title": "FET 22-23",
+  "count": 70,
+  "questions": [
+    {
+      "number": "2",
+      "tag": "AGRI GST 20-21",
+      "question": "1 3 i \\frac{1}{3} i 3 1 ​ i  এর বর্গমূল কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "± 1 3 ( 1 + i ) \\pm \\frac{1}{\\sqrt{3}} \\left ( 1 + i \\right ) ± 3 ​ 1 ​ ( 1 + i )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "± 1 3 ( 1 − i ) \\pm \\frac{1}{\\sqrt{3}} \\left ( 1 - i \\right ) ± 3 ​ 1 ​ ( 1 − i )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "± 1 6 ( 1 + i ) \\pm \\frac{1}{\\sqrt{6}} \\left ( 1 + i \\right ) ± 6 ​ 1 ​ ( 1 + i )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "± 1 6 ( 1 − i ) \\pm \\frac{1}{\\sqrt{6}} \\left ( 1 - i \\right ) ± 6 ​ 1 ​ ( 1 − i )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "± 1 3 ( 1 + i ) \\pm \\frac{1}{\\sqrt{3}} \\left ( 1 + i \\right ) ± 3 ​ 1 ​ ( 1 + i )",
+      "option_b": "± 1 3 ( 1 − i ) \\pm \\frac{1}{\\sqrt{3}} \\left ( 1 - i \\right ) ± 3 ​ 1 ​ ( 1 − i )",
+      "option_c": "± 1 6 ( 1 + i ) \\pm \\frac{1}{\\sqrt{6}} \\left ( 1 + i \\right ) ± 6 ​ 1 ​ ( 1 + i )",
+      "option_d": "± 1 6 ( 1 − i ) \\pm \\frac{1}{\\sqrt{6}} \\left ( 1 - i \\right ) ± 6 ​ 1 ​ ( 1 − i )",
+      "correct": "খ",
+      "explanation": "প্রদত্ত: z = 1 3 i z=\\frac{1}{3} i z = 3 1 ​ i বর্গমূল নির্ণয়: z = ± ( ∣ z ∣ + Re ⁡ ( z ) 2 + i ⋅ sgn ⁡ ( Im ⁡ ( z ) ) ∣ z ∣ − Re ⁡ ( z ) 2 ) \\sqrt{z}= \\pm\\left(\\sqrt{\\frac{|z|+\\operatorname{Re}(z)}{2}}+i \\cdot \\operatorname{sgn}(\\operatorname{Im}(z)) \\sqrt{\\frac{|z|-\\operatorname{Re}(z)}{2}}\\right) z ​ = ± ( 2 ∣ z ∣ + Re ( z ) ​ ​ + i ⋅ sgn ( Im ( z )) 2 ∣ z ∣ − Re ( z ) ​ ​ ) মান বসিয়ে: ∣ z ∣ = 1 3 , Re ⁡ ( z ) = 0 , Im ⁡ ( z ) = 1 3 1 3 i = ± ( 1 / 3 2 + i 1 / 3 2 ) = ± 1 6 ( 1 + i ) \\begin{array}{c} |z|=\\frac{1}{3}, \\operatorname{Re}(z)=0, \\operatorname{Im}(z)=\\frac{1}{3} \\\\ \\sqrt{\\frac{1}{3}} i= \\pm\\left(\\sqrt{\\frac{1 / 3}{2}}+i \\sqrt{\\frac{1 / 3}{2}}\\right)= \\pm \\frac{1}{\\sqrt{6}}(1+i) \\end{array} ∣ z ∣ = 3 1 ​ , Re ( z ) = 0 , Im ( z ) = 3 1 ​ 3 1 ​ ​ i = ± ( 2 1/3 ​ ​ + i 2 1/3 ​ ​ ) = ± 6 ​ 1 ​ ( 1 + i ) ​"
+    },
+    {
+      "number": "7",
+      "tag": "DU A 19-20",
+      "question": "1 ∣ 3 x − 1 ∣ > 1 \\frac{1}{|3 x-1|}>1 ∣3 x − 1∣ 1 ​ > 1 এর সমাধান হল-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( − ∞ , 1 3 ) ∪ ( 1 , ∞ ) \\left(-\\infty, \\frac{1}{3}\\right) \\cup(1, \\infty) ( − ∞ , 3 1 ​ ) ∪ ( 1 , ∞ )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x > 1 3 x>\\frac{1}{3} x > 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "\\(0",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "( 0 , 1 3 ) ∪ ( 1 3 , 2 3 ) \\left(0, \\frac{1}{3}\\right) \\cup\\left(\\frac{1}{3}, \\frac{2}{3}\\right) ( 0 , 3 1 ​ ) ∪ ( 3 1 ​ , 3 2 ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( − ∞ , 1 3 ) ∪ ( 1 , ∞ ) \\left(-\\infty, \\frac{1}{3}\\right) \\cup(1, \\infty) ( − ∞ , 3 1 ​ ) ∪ ( 1 , ∞ )",
+      "option_b": "x > 1 3 x>\\frac{1}{3} x > 3 1 ​",
+      "option_c": "\\(0",
+      "option_d": "( 0 , 1 3 ) ∪ ( 1 3 , 2 3 ) \\left(0, \\frac{1}{3}\\right) \\cup\\left(\\frac{1}{3}, \\frac{2}{3}\\right) ( 0 , 3 1 ​ ) ∪ ( 3 1 ​ , 3 2 ​ )",
+      "correct": "গ",
+      "explanation": "1 x \\frac{1}{x} x 1 ​  সংজ্ঞায়িত হবে যদি ও কেবল যদি  x ≠ 0 x\\ne0 x  = 0 হয়। তাই,  1 3 x − 1 \\frac{1}{3x-1} 3 x − 1 1 ​ সংজ্ঞায়িত হবে যদি ও কেবল যদি  3 x − 1 ≠ 0 3x-1\\ne0 3 x − 1  = 0 হয়                                                             বা,  x ≠ 1 3 x\\ne\\frac{1}{3} x  = 3 1 ​ হয় এখন, 1 ∣ 3 x − 1 ∣ > 1 \\frac{1}{\\left|3x-1\\right|}>1 ∣ 3 x − 1 ∣ 1 ​ > 1 বা,  ∣ 3 x − 1 ∣   <   1   [ x ± 1 3 ] \\left|3x-1\\right|\\ <\\ 1\\ \\left[x\\pm\\frac{1}{3}\\right] ∣ 3 x − 1 ∣   <   1   [ x ± 3 1 ​ ] বা,  − 1   < 3 x − 1   <   1   [ x ± 1 3 ] -1\\ <3x-1\\ <\\ 1\\ \\left[x\\pm\\frac{1}{3}\\right] − 1   < 3 x − 1   <   1   [ x ± 3 1 ​ ] বা,  − 1   + 1 < 3 x + 1 − 1   < 1 + 1   [ x ± 1 3 ] -1\\ +1<3x+1-1\\ <1+1\\ \\left[x\\pm\\frac{1}{3}\\right] − 1   + 1 < 3 x + 1 − 1   < 1 + 1   [ x ± 3 1 ​ ] বা,  0   < 3 x   < 2   [ x ± 1 3 ] 0\\ <3x\\ <2\\ \\left[x\\pm\\frac{1}{3}\\right] 0   < 3 x   < 2   [ x ± 3 1 ​ ] বা,  0\\ </p><p style=\"line-height: 1.7\" class=\"text-lg tracking-wide font-normal leading-relaxed\"> \\(\\therefore সমাধান =  ( 0 ,   1 3 )   ∪ ( 1 3 ,   2 3 ) \\left(0,\\ \\frac{1}{3}\\right)\\ \\cup\\left(\\frac{1}{3},\\ \\frac{2}{3}\\right) ( 0 ,   3 1 ​ )   ∪ ( 3 1 ​ ,   3 2 ​ )"
+    },
+    {
+      "number": "8",
+      "tag": "FET 22-23",
+      "question": "tan   θ 2 \\frac{θ}{2} 2 θ ​   =   3 4 \\frac{3}{4} 4 3 ​   হলে cos θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "24 25 \\frac{24}{25} 25 24 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9 16 \\frac{9}{16} 16 9 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7 25 \\frac{7}{25} 25 7 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 7 \\frac{25}{7} 7 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "24 25 \\frac{24}{25} 25 24 ​",
+      "option_b": "9 16 \\frac{9}{16} 16 9 ​",
+      "option_c": "7 25 \\frac{7}{25} 25 7 ​",
+      "option_d": "25 7 \\frac{25}{7} 7 25 ​",
+      "correct": "গ",
+      "explanation": "tan ⁡ θ 2 = 3 4 ⇒ θ 2 = tan ⁡ − 1 3 4 ∴ θ = 2 tan ⁡ − 1 3 4 \\begin{aligned} & \\tan \\frac{\\theta}{2}=\\frac{3}{4} \\\\ \\Rightarrow & \\frac{\\theta}{2}=\\tan ^{-1} \\frac{3}{4} \\\\ \\therefore & \\theta=2 \\tan ^{-1} \\frac{3}{4}\\end{aligned} ⇒ ∴ ​ tan 2 θ ​ = 4 3 ​ 2 θ ​ = tan − 1 4 3 ​ θ = 2 tan − 1 4 3 ​ ​ ∴ cos ⁡ θ = cos ⁡ ( 2 tan ⁡ − 1 3 4 ) = cos ⁡ ⋅ cos ⁡ − 1 1 − 3 2 4 2 1 + 3 2 4 2 [ ∵ 2 tan ⁡ − 1 x = cos ⁡ − 1 1 − x 2 1 + z 2 ] = 16 − 9 16 × 16 25 = 7 25   ) \\begin{array}{l}\\therefore \\cos \\theta \\\\ =\\cos \\left(2 \\tan ^{-1} \\frac{3}{4}\\right) \\\\ =\\cos \\cdot \\cos ^{-1} \\frac{1-\\frac{3^{2}}{4^{2}}}{1+\\frac{3^{2}}{4^{2}}} \\quad\\left[\\because 2 \\tan ^{-1} x=\\cos ^{-1} \\frac{1-x^{2}}{1+z^{2}}\\right] \\\\ =\\frac{16-9}{16} \\times \\frac{16}{25} \\\\ \\left.=\\frac{7}{25} \\text { }\\right)\\end{array} ∴ cos θ = cos ( 2 tan − 1 4 3 ​ ) = cos ⋅ cos − 1 1 + 4 2 3 2 ​ 1 − 4 2 3 2 ​ ​ [ ∵ 2 tan − 1 x = cos − 1 1 + z 2 1 − x 2 ​ ] = 16 16 − 9 ​ × 25 16 ​ = 25 7 ​   ) ​"
+    },
+    {
+      "number": "9",
+      "tag": "FET 22-23",
+      "question": "দ্বিঘাত সমীকরণের একটি মূল  1 1 + − 3 \\frac{1}{1+\\sqrt{-3}} 1 + − 3 ​ 1 ​ হলে সমীকরণটি হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4 x 2 − 2 x + 1 = 0 4x^2-2x+1=0 4 x 2 − 2 x + 1 = 0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "10 x 2 − 2 x + 1 = 0 10x^2-2x+1=0 10 x 2 − 2 x + 1 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 x 2 − 4 x + 1 = 0 2x^2-4x+1=0 2 x 2 − 4 x + 1 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 x 2 + 4 x + 1 = 0 2x^2+4x+1=0 2 x 2 + 4 x + 1 = 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4 x 2 − 2 x + 1 = 0 4x^2-2x+1=0 4 x 2 − 2 x + 1 = 0",
+      "option_b": "10 x 2 − 2 x + 1 = 0 10x^2-2x+1=0 10 x 2 − 2 x + 1 = 0",
+      "option_c": "2 x 2 − 4 x + 1 = 0 2x^2-4x+1=0 2 x 2 − 4 x + 1 = 0",
+      "option_d": "2 x 2 + 4 x + 1 = 0 2x^2+4x+1=0 2 x 2 + 4 x + 1 = 0",
+      "correct": "ক",
+      "explanation": "1 1 + − 3 = 1 1 + 3 i = 1 ( 1 − 3 i ) ( 1 + 3 i ) ( 1 − 3 i ) = 1 − 3 i 1 − 3 i + 3 i − 3 i 2 = 1 − 3 i 1 − 3 i 2 = 1 − 3 i 1 + 3 = 1 − 3 i 4 = 1 4 − 3 4 i \\begin{aligned} & \\frac{1}{1+\\sqrt{-3}} \\\\ = & \\frac{1}{1+\\sqrt{3} i} \\\\ = & \\frac{1(1-\\sqrt{3} i)}{(1+\\sqrt{3} i)(1-\\sqrt{3} i)} \\\\ = & \\frac{1-\\sqrt{3} i}{1-\\sqrt{3} i+\\sqrt{3} i-3 i^{2}} \\\\ = & \\frac{1-\\sqrt{3} i}{1-3 i^{2}} \\\\ = & \\frac{1-\\sqrt{3} i}{1+3} \\\\ = & \\frac{1-\\sqrt{3} i}{4} \\\\ = & \\frac{1}{4}-\\frac{\\sqrt{3}}{4} i \\end{aligned} = = = = = = = ​ 1 + − 3 ​ 1 ​ 1 + 3 ​ i 1 ​ ( 1 + 3 ​ i ) ( 1 − 3 ​ i ) 1 ( 1 − 3 ​ i ) ​ 1 − 3 ​ i + 3 ​ i − 3 i 2 1 − 3 ​ i ​ 1 − 3 i 2 1 − 3 ​ i ​ 1 + 3 1 − 3 ​ i ​ 4 1 − 3 ​ i ​ 4 1 ​ − 4 3 ​ ​ i ​ অন্যমূলটি 1 4 + 3 4 i \\frac{1}{4}+\\frac{\\sqrt{3}}{4} i 4 1 ​ + 4 3 ​ ​ i আমরা জানি, x 2 − x^{2}- x 2 − (মূল এর যোগফল) + মূলের গুনফল = 0 = x 2 − ( 1 4 + 3 4 i + 1 4 − 3 4 i ) x + ( 1 4 + 3 4 ) ( 1 4 − 3 4 i ) = x 2 − ( 1 4 + 1 4 ) x + 1 16 − 3 16 i 2 = 0 = x 2 − ( 1 + 1 4 ) x + 1 16 + 3 16 = 0 = x 2 − 2 4 x + 1 + 3 16 = 0 = x 2 − 1 2 x + 4 16 = 0 \\begin{array}{l}=x^{2}-\\left(\\frac{1}{4}+\\frac{\\sqrt{3}}{4} i+\\frac{1}{4}-\\frac{\\sqrt{3}}{4} i\\right) x+\\left(\\frac{1}{4}+\\frac{\\sqrt{3}}{4}\\right)\\left(\\frac{1}{4}-\\frac{\\sqrt{3}}{4} i\\right) \\\\ =x^{2}-\\left(\\frac{1}{4}+\\frac{1}{4}\\right) x+\\frac{1}{16}-\\frac{3}{16} i^{2}=0 \\\\ =x^{2}-\\left(\\frac{1+1}{4}\\right) x+\\frac{1}{16}+\\frac{3}{16}=0 \\\\ =x^{2}-\\frac{2}{4} x+\\frac{1+3}{16}=0 \\\\ =x^{2}-\\frac{1}{2} x+\\frac{4}{16}=0 \\\\\\end{array} = x 2 − ( 4 1 ​ + 4 3 ​ ​ i + 4 1 ​ − 4 3 ​ ​ i ) x + ( 4 1 ​ + 4 3 ​ ​ ) ( 4 1 ​ − 4 3 ​ ​ i ) = x 2 − ( 4 1 ​ + 4 1 ​ ) x + 16 1 ​ − 16 3 ​ i 2 = 0 = x 2 − ( 4 1 + 1 ​ ) x + 16 1 ​ + 16 3 ​ = 0 = x 2 − 4 2 ​ x + 16 1 + 3 ​ = 0 = x 2 − 2 1 ​ x + 16 4 ​ = 0 ​ x 2 − 1 2 x + 1 4 = 0 4 x 2 − 4 2 x + 1 = 0 4 x 2 − 2 x + 1 = 0 \\begin{array}{l}x^{2}-\\frac{1}{2} x+\\frac{1}{4}=0 \\\\ 4 x^{2}-\\frac{4}{2} x+1=0 \\\\ 4 x^{2}-2 x+1=0\\end{array} x 2 − 2 1 ​ x + 4 1 ​ = 0 4 x 2 − 2 4 ​ x + 1 = 0 4 x 2 − 2 x + 1 = 0 ​"
+    },
+    {
+      "number": "10",
+      "tag": "FET 22-23",
+      "question": "কোন ত্রিভুজের তিন বাহুর দৈর্ঘ্য যথাক্রমে 3, 5, 7 cm হলে, বৃহত্তম কোণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_c": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_d": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "correct": "ঘ",
+      "explanation": "ধরি, a = 3 ,   b = 5 \\mathrm{a}=3, \\mathrm{~b}=5 a = 3 ,   b = 5 এবং c = 7 \\mathrm{c}=7 c = 7 বৃহত্তম কোণ = C =\\mathrm{C} = C ∴ cos ⁡ C = a 2 + b 2 − c 2 2 a b = 3 2 + 5 2 − ( 7 ) 2 2 × 3 × 5 = − 15 30 = − 1 2 ∴ C = 120 ∘ \\begin{array}{l} \\therefore \\cos C=\\frac{a^{2}+b^{2}-c^{2}}{2 a b}=\\frac{3^{2}+5^{2}-(7)^{2}}{2 \\times 3 \\times 5} \\\\ =-\\frac{15}{30}=-\\frac{1}{2} \\therefore C=120^{\\circ} \\end{array} ∴ cos C = 2 ab a 2 + b 2 − c 2 ​ = 2 × 3 × 5 3 2 + 5 2 − ( 7 ) 2 ​ = − 30 15 ​ = − 2 1 ​ ∴ C = 12 0 ∘ ​"
+    },
+    {
+      "number": "11",
+      "tag": "FET 22-23,FET 23-24,FET 21-22,CKRUET22-23",
+      "question": "3 x 2 + 4 y 2 = 12 3 x^{2}+4 y^{2}=12 3 x 2 + 4 y 2 = 12 উপবৃত্তের উপকেন্দ্রদ্বয়ের দূরত্ব কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3 \\sqrt{3} 3 ​",
+      "option_c": "1",
+      "option_d": "2 3 \\frac{2}{\\sqrt{3}} 3 ​ 2 ​",
+      "correct": "ক",
+      "explanation": "প্রদত্ত সমীকরণ: 3 x 2 + 4 y 2 = 12 3x^2 + 4y^2 = 12 3 x 2 + 4 y 2 = 12 উভয় পক্ষকে 12 দিয়ে ভাগ করি: x 2 4 + y 2 3 = 1 \\frac{x^2}{4} + \\frac{y^2}{3} = 1 4 x 2 ​ + 3 y 2 ​ = 1 এখানে, a 2 = 4 ⇒ a = 2 a^2 = 4 \\Rightarrow a = 2 a 2 = 4 ⇒ a = 2 b 2 = 3 ⇒ b = 3 b^2 = 3 \\Rightarrow b = \\sqrt{3} b 2 = 3 ⇒ b = 3 ​ যেহেতু a 2 > b 2 a^2 > b^2 a 2 > b 2 , উপবৃত্তের বৃহৎ অক্ষ x x x -অক্ষ বরাবর। উপকেন্দ্রের স্থানাঙ্ক: ( ± a e , 0 ) (\\pm ae, 0) ( ± a e , 0 ) , যেখানে e = 1 − b 2 a 2 = 1 − 3 4 = 1 4 = 1 2 e = \\sqrt{1 - \\frac{b^2}{a^2}} = \\sqrt{1 - \\frac{3}{4}} = \\sqrt{\\frac{1}{4}} = \\frac{1}{2} e = 1 − a 2 b 2 ​ ​ = 1 − 4 3 ​ ​ = 4 1 ​ ​ = 2 1 ​ তাহলে উপকেন্দ্রের স্থানাঙ্ক: ( ± 2 ⋅ 1 2 , 0 ) = ( ± 1 , 0 ) \\left(\\pm 2 \\cdot \\frac{1}{2}, 0\\right) = (\\pm 1, 0) ( ± 2 ⋅ 2 1 ​ , 0 ) = ( ± 1 , 0 ) উপকেন্দ্রদ্বয়ের দূরত্ব: ( 1 , 0 ) (1,0) ( 1 , 0 ) এবং ( − 1 , 0 ) (-1,0) ( − 1 , 0 ) এর মধ্যে দূরত্ব = 1 − ( − 1 ) = 2 = 1 - (-1) = 2 = 1 − ( − 1 ) = 2"
+    },
+    {
+      "number": "12",
+      "tag": "JU A 22-23 SET-P",
+      "question": "( − 3 . − 3 ) \\left ( - \\sqrt{3} . - \\sqrt{3} \\right ) ( − 3 ​ . − 3 ​ )    এর পোলার স্থানাঙ্ক কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 6 , π 4 ) \\left ( 6 , \\frac{π}{4} \\right ) ( 6 , 4 π ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( 3 , π 4 ) \\left ( \\sqrt{3} , \\frac{π}{4} \\right ) ( 3 ​ , 4 π ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 2 3 , 11 π 21 ) \\left(2\\sqrt{3}, \\frac{11\\pi}{21}\\right) ( 2 3 ​ , 21 11 π ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 6 , 5 π 4 ) \\left(\\sqrt{6}, \\frac{5\\pi}{4}\\right) ( 6 ​ , 4 5 π ​ )",
+          "is_correct": true
+        }
+      ],
+      "option_a": "( 6 , π 4 ) \\left ( 6 , \\frac{π}{4} \\right ) ( 6 , 4 π ​ )",
+      "option_b": "( 3 , π 4 ) \\left ( \\sqrt{3} , \\frac{π}{4} \\right ) ( 3 ​ , 4 π ​ )",
+      "option_c": "( 2 3 , 11 π 21 ) \\left(2\\sqrt{3}, \\frac{11\\pi}{21}\\right) ( 2 3 ​ , 21 11 π ​ )",
+      "option_d": "( 6 , 5 π 4 ) \\left(\\sqrt{6}, \\frac{5\\pi}{4}\\right) ( 6 ​ , 4 5 π ​ )",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত কার্তেসীয় স্থানাঙ্ক: ( − 3 , − 3 ) (-\\sqrt{3}, -\\sqrt{3}) ( − 3 ​ , − 3 ​ ) r r r নির্ণয়: r = x 2 + y 2 = ( − 3 ) 2 + ( − 3 ) 2 = 3 + 3 = 6 r = \\sqrt{x^2 + y^2} = \\sqrt{(-\\sqrt{3})^2 + (-\\sqrt{3})^2} = \\sqrt{3 + 3} = \\sqrt{6} r = x 2 + y 2 ​ = ( − 3 ​ ) 2 + ( − 3 ​ ) 2 ​ = 3 + 3 ​ = 6 ​ θ \\theta θ নির্ণয়: tan ⁡ θ = y x = − 3 − 3 = 1 \\tan \\theta = \\frac{y}{x} = \\frac{-\\sqrt{3}}{-\\sqrt{3}} = 1 tan θ = x y ​ = − 3 ​ − 3 ​ ​ = 1 সাধারণ সমাধান: θ = π 4 + n π \\theta = \\frac{\\pi}{4} + n\\pi θ = 4 π ​ + nπ θ = π + π 4 = 5 π 4 \\theta = \\pi + \\frac{\\pi}{4} = \\frac{5\\pi}{4} θ = π + 4 π ​ = 4 5 π ​ পোলার স্থানাঙ্ক: পোলার স্থানাঙ্কের সাধারণ রূপ ( r , θ ) (r, \\theta) ( r , θ ) । r = 6 , θ = 5 π 4 r = \\sqrt{6}, \\theta = \\frac{5\\pi}{4} r = 6 ​ , θ = 4 5 π ​ ( 6 , 5 π 4 ) \\left(\\sqrt{6}, \\frac{5\\pi}{4}\\right) ( 6 ​ , 4 5 π ​ )"
+    },
+    {
+      "number": "1",
+      "tag": "FET 22-23",
+      "question": "Which method is used to secure access through verification sorting using individual characteristics? (ব্যক্তির বিশেষ বৈশিষ্ট্যকে ব্যবহার করে যাচাই বাছাইয়ের মাধ্যমে প্রবেশাধিকার সংরক্ষণের জন্য কোন পদ্ধতিটি ব্যবহৃত হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বায়োমেট্রিক্স",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফায়ারওয়েল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ভিপিএন",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "এনপিক্রপশন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বায়োমেট্রিক্স",
+      "option_b": "ফায়ারওয়েল",
+      "option_c": "ভিপিএন",
+      "option_d": "এনপিক্রপশন",
+      "correct": "গ",
+      "explanation": "বায়োমেট্রিক্স হলো এমন একটি প্রযুক্তি যেখানে কোন ব্যক্তির দেহের গঠন এবং আচরণগত বৈশিষ্ট্যের উপর ভিত্তি করে তাকে অদ্বিতীয়ভাবে চিহ্নিত করা হয়। কম্পিউটার বিজ্ঞানে বায়োমেট্রিক্সকে ব্যক্তি সনাক্তকরণ এবং কোন সিস্টেমে প্রবেশাধিকার নিয়ন্ত্রণের কৌশল হিসাবে ব্যবহার করা হয়।"
+    },
+    {
+      "number": "2",
+      "tag": "FET 22-23",
+      "question": "What is the speed of computer work?(কম্পিউটারে কাজের গতি কী দ্বারা প্রকাশ করা হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ন্যানোসেকেন্ড",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সেকেন্ড",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মিনিট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ন্যানোসেকেন্ড",
+      "option_b": "সেকেন্ড",
+      "option_c": "মিনিট",
+      "option_d": "কোনোটিই নয়",
+      "correct": "ক",
+      "explanation": "ন্যানোসেকেন্ড (nanosecond) কম্পিউটারের কাজের গতি প্রকাশ করার জন্য ব্যবহৃত একটি সময় একক। কম্পিউটারে কাজের গতি মাপা হয় প্রসেসরের কার্যক্ষমতা এবং মেমোরি অ্যাক্সেস সময়ের ভিত্তিতে। এই গতি সাধারণত ন্যানোসেকেন্ড, মাইক্রোসেকেন্ড, পিকোসেকেন্ড ইত্যাদি একক দিয়ে প্রকাশ করা হয়। বিশেষ করে, ন্যানোসেকেন্ড হলো এক সেকেন্ডের এক বিলিয়ন ভাগ (1 সেকেন্ড = 1,000,000,000 ন্যানোসেকেন্ড)। ন্যানোসেকেন্ড পরিমাপটি কম্পিউটারের বিভিন্ন উপাদান যেমন Ram, processor, এবং অন্যান্য চিপগুলির জন্য ব্যবহৃত হয় যেখানে তথ্য স্থানান্তরের সময় অনেক দ্রুত।"
+    },
+    {
+      "number": "3",
+      "tag": "FET 22-23",
+      "question": "ISP কি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "lnternt Social Privilege",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Internet Service Provider",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Internet Service Privilege",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Internet Social Public",
+          "is_correct": true
+        }
+      ],
+      "option_a": "lnternt Social Privilege",
+      "option_b": "Internet Service Provider",
+      "option_c": "Internet Service Privilege",
+      "option_d": "Internet Social Public",
+      "correct": "ঘ",
+      "explanation": "ISP (Internet Service Provider) হলো সেই প্রতিষ্ঠান বা সংস্থা যা ব্যক্তিগত এবং ব্যবসায়িক ব্যবহারকারীদের ইন্টারনেট সংযোগ প্রদান করে। ISP এর মাধ্যমে ব্যবহারকারীরা ইন্টারনেট ব্যবহার করতে পারে এবং ইন্টারনেটের বিভিন্ন পরিষেবা যেমন ওয়েব ব্রাউজিং, ইমেইল, ভিডিও স্ট্রিমিং, অনলাইন গেমিং, এবং আরও অনেক কিছু উপভোগ করতে পারে।"
+    },
+    {
+      "number": "4",
+      "tag": "FET 22-23",
+      "question": "What is the full form of GSP?(GSP এর পূর্ণরূপ কী?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Generalized System of Preferences",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "General System of Preferences",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "General System of Priority",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Generalized System of Preferences",
+      "option_b": "General System of Preferences",
+      "option_c": "General System of Priority",
+      "option_d": "কোনটিই নয়",
+      "correct": "ক",
+      "explanation": "GSP হল একটি বাণিজ্যিক প্রোগ্রাম যা উন্নয়নশীল দেশগুলির অর্থনৈতিক প্রবৃদ্ধি প্রচারের জন্য ডিজাইন করা হয়েছে। এটি 120 টিরও বেশি মনোনীত সুবিধাভোগী দেশ এবং অঞ্চলের 5,000 পণ্য পর্যন্ত শুল্কমুক্ত প্রবেশাধিকার প্রদান করে। এই প্রোগ্রামের লক্ষ্য হল এই দেশগুলির অর্থনৈতিক উন্নয়নকে সহায়তা করা, যাতে তাদের উন্নত দেশগুলির বাজারে সহজ প্রবেশাধিকার পাওয়া যায়, প্রধানত মার্কিন যুক্তরাষ্ট্র এবং ইউরোপীয় ইউনিয়নে।"
+    },
+    {
+      "number": "5",
+      "tag": "FET 22-23",
+      "question": "What is the number of 'function keys' in a computer keyboard? (একটি কম্পিউটার কী-বোর্ড ‘ফাংশন কী’ গুলোর সংখ্যা কত?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১০টি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "১২টি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "১৪টি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৮টি",
+          "is_correct": true
+        }
+      ],
+      "option_a": "১০টি",
+      "option_b": "১২টি",
+      "option_c": "১৪টি",
+      "option_d": "৮টি",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "FET 22-23",
+      "question": "Which is the backbone of the Global Village?(গ্লোবাল ভিলেজের মেরুদন্ড কোনটি?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "হার্ডওয়্যার",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সফটওয়্যার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কানেকটিভিটি or Internet .",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ডেটা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "হার্ডওয়্যার",
+      "option_b": "সফটওয়্যার",
+      "option_c": "কানেকটিভিটি or Internet .",
+      "option_d": "ডেটা",
+      "correct": "ক",
+      "explanation": "বিশ্বগ্রামের মেরুদন্ড হচ্ছে কানেকটিভিটি সে কারণেই মানুষ যখন যেখানেই অবস্থান করেন না কেনো সবসময়ই মোবাইল বা কম্পিউটারের ইন্টারনেটের মাধ্যমে সংযুক্ত থাকতে পারছে। বিশ্বের তথ্য ভান্ডারের সাথে সার্বক্ষণিকভাবে বা প্রয়োজনে সংযুক্ত থেকে তথ্য প্রাপ্তি নিশ্চিত করার জন্য কানেকটিভিটি মূল ভূমিকা পালন করে। The term \"Global Village\" refers to the idea that the world has become interconnected and interdependent, primarily due to advances in communication and information technologies. The Internet serves as the foundation of this interconnectedness, enabling instant communication, access to information, and collaboration across the globe. It connects people, businesses, governments, and organizations, making the world feel like a smaller, more integrated community. Thus, the correct answer is: The Internet ."
+    },
+    {
+      "number": "7",
+      "tag": "FET 22-23",
+      "question": "Which programming language is used to apply artificial intelligence? (কৃত্রিম বুদ্ধিমত্তা প্রয়োগ করার জন্য কোন প্রোগ্রামিং ভাষা ব্যবহার করা হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "BASIC",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "LISP",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "FORTRAN",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "PASCAL",
+          "is_correct": false
+        }
+      ],
+      "option_a": "BASIC",
+      "option_b": "LISP",
+      "option_c": "FORTRAN",
+      "option_d": "PASCAL",
+      "correct": "ক",
+      "explanation": "কৃত্রিম বুদ্ধিমত্তা প্রয়োগের ক্ষেত্রে প্রধানত C/C++, Java, MATLAB, Python, SHRDLU, PROLOG, LISP, CLISP, R ইত্যাদি প্রোগ্রামিং ল্যাংগুয়েজ ব্যবহার করা হয়। কার্যকারিতা ও প্রয়োজনীয়তার ভিত্তিতে ডেভেলপারগণ তাঁদের পছন্দসই প্রোগ্রাম ব্যবহার করে থাকেন।"
+    },
+    {
+      "number": "8",
+      "tag": "FET 22-23",
+      "question": "What kind of images are used in virtual reality?(ভার্চুয়াল রিয়েলিটিতে কোন ধরনের ইমেজ ব্যবহার করা হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "একমাত্রিক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিমাত্রিক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ত্রিমাত্রিক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বহুমাত্রিক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "একমাত্রিক",
+      "option_b": "দ্বিমাত্রিক",
+      "option_c": "ত্রিমাত্রিক",
+      "option_d": "বহুমাত্রিক",
+      "correct": "ক",
+      "explanation": "ভার্চুয়াল রিয়েলিটি কাজ করে মূলত দুটি ধাপে। প্রথমত কম্পিউটারের তৈরি ত্রিমাত্রিক ছবি দিয়ে ভার্চুয়াল পরিবেশ বা পরিমণ্ডল তৈরি হয়। পরের ধাপে ব্যবহারকারীর গতিবিধি অনুসরণ করে ত্রিমাত্রিক ছবি অনুসারে পরিবর্তন করতে হয়। ডান দিকে তাকালে ছবি দেখাবে। গেইমে শত্রু সামনে এলে প্রয়োজন অনুসারে হাত নেড়ে তার সঙ্গে লড়াই করতে হবে। এই নড়াচড়াগুলো অনুসরণ করার জন্য সেন্সর ব্যবহার করা হয়।"
+    },
+    {
+      "number": "9",
+      "tag": "FET 22-23",
+      "question": "What is a hotspot? (‘হটস্পট' কী?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নির্দিষ্ট উত্তপ্ত এলাকা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "তারযুক্ত ইন্টারনেট ব্যবস্থা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তারবিহীন ইন্টারনেট ব্যবস্থা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বিশ্বব্যাপী নেটওয়ার্ক ব্যবস্থা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "নির্দিষ্ট উত্তপ্ত এলাকা",
+      "option_b": "তারযুক্ত ইন্টারনেট ব্যবস্থা",
+      "option_c": "তারবিহীন ইন্টারনেট ব্যবস্থা",
+      "option_d": "বিশ্বব্যাপী নেটওয়ার্ক ব্যবস্থা",
+      "correct": "ক",
+      "explanation": "হটস্পট (Hotspot) হলো একধরনের ওয়্যারলেস নেটওয়ার্ক (তারবিহীন ইন্টারনেট ব্যবস্থা) যা মোবাইল কম্পিউটার ও ডিভাইস যেমন- স্মার্ট ফোন, পিডিএ, ট্যাব, নোটবুক বা ল্যাপটপ ইত্যাদিতে ইন্টারনেট সংযোগ সরবরাহ করে। বর্তমানে জনপ্রিয় তিনটি হটস্পট প্রযুক্তি হলো: 1. Bluetooth, 2. Wi-Fi, 3. WiMax."
+    },
+    {
+      "number": "10",
+      "tag": "FET 22-23",
+      "question": "30 computers are connected to a switch using RJ45 connector, what is the topology used in the network? (RJ45 কানেক্টর ব্যবহার করে ৩০টি কম্পিউটার একটি সুইচের সাথে সংযোগ স্থাপন করা হলো, নেটওয়ার্কটিতে কোনো টপোলজির ব্যবহার হয়েছে?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্টার",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "রিং",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বাস",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মেশ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "স্টার",
+      "option_b": "রিং",
+      "option_c": "বাস",
+      "option_d": "মেশ",
+      "correct": "ক",
+      "explanation": "যদি ৩০টি কম্পিউটার একটি সুইচের সাথে RJ45 কনেক্টর ব্যবহার করে সংযোগ স্থাপন করা হয়ে থাকে, তবে এই নেটওয়ার্কের টপোলজি হলো স্টার টপোলজি (Star Topology) | স্টার টপোলজিতে সব কম্পিউটার একটি কেন্দ্রীয় সুইচের সাথে সরাসরি সংযোগিত থাকে। এই সুইচ মাধ্যমে কোনো কম্পিউটার অন্য কোনো কম্পিউটারের সাথে যোগাযোগ করতে পারে। এই টপোলজি সম্পর্কে প্রধান বৈশিষ্ট্য হলো যে, সংযোগটি যেহেতু কম্পিউটার স্বাধীনভাবে বিপরীত কম্পিউটারের সাথে নয়, তার ফলে একটি কম্পিউটারের সমস্যা অথবা প্রবলেম অন্য কম্পিউটারের সাথে যোগাযোগের সমস্যা তৈরি হয় না।"
+    },
+    {
+      "number": "11",
+      "tag": "FET 22-23",
+      "question": "Which generation of mobiles includes IP data network? (কোন প্রজন্মের মোবাইলে IP ডাটা নেটওয়ার্ক অন্তর্ভুক্ত করা হয়েছে?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "১ম",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "২য়",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৩য়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "৪র্থ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "১ম",
+      "option_b": "২য়",
+      "option_c": "৩য়",
+      "option_d": "৪র্থ",
+      "correct": "ক",
+      "explanation": "চতুর্থ প্রজন্মঃ 4G এর LTE (Long Term Evalution) প্রযুক্তি স্টান্ডার্ড । এই প্রজন্মে সুইচিং বা প্যাকেট সুইচিং এর পরিবর্তে ইন্টারনেট প্রটোকল (IP) নির্ভর নেটওয়ার্ক ব্যবহার করে।"
+    },
+    {
+      "number": "12",
+      "tag": "FET 22-23",
+      "question": "Which is related to wireless MAN?(কোনটি তারবিহীন MAN এর সাথে সম্পর্কিত?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ব্লুটুথ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Wi-MAX",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Wi-Fi",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ইনফ্রারেড",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ব্লুটুথ",
+      "option_b": "Wi-MAX",
+      "option_c": "Wi-Fi",
+      "option_d": "ইনফ্রারেড",
+      "correct": "খ",
+      "explanation": "Metropolitan Area Network (MAN) হল একটি বিস্তৃত এলাকা নেটওয়ার্ক যা একটি শহর বা শহুরে এলাকা জুড়ে ডেটা যোগাযোগের জন্য ব্যবহৃত হয়। Wi-MAX হল একটি ল্যান্ড-ভিত্তিক প্রযুক্তি যা MAN-এর জন্য ব্যবহার করা হয়। কিছু নেটওয়ার্ক টাইপঃ ব্লুটুথ → (পার্সোনাল এরিয়া নেটওয়ার্ক) ওয়াই-ফাই → লোকান এরিয়া নেটওয়ার্ক) ওয়াই-ম্যাক্স → (মেট্রোপলিটন এরিয়া নেটওয়ার্ক) স্যাটেলাইট → (ওয়াইড এরিয়া নেটওয়ার্ক)"
+    },
+    {
+      "number": "13",
+      "tag": "FET 22-23",
+      "question": "Which device is used to connect multiple networks in different protocols? (ভিন্ন ভিন্ন প্রোটোকলের একাধিক নেটওয়ার্ককে সংযুক্ত করতে কোন ডিভাইস ব্যবহৃত হয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রিপিটার",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "গেটওয়ে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ব্রিজ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "হাব",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রিপিটার",
+      "option_b": "গেটওয়ে",
+      "option_c": "ব্রিজ",
+      "option_d": "হাব",
+      "correct": "ক",
+      "explanation": "গেটওয়ে একটি নেটওয়ার্ককে আরেকটি নেটওয়ার্কের সাথে সংযুক্ত করে। এটি একই বা ভিন্ন ভিন্ন প্রোটোকল বিশিষ্ট একাধিক নেটওয়ার্কের মধ্যে ডেটা আদান প্রদানের সুযোগ তৈরি করে দেয়। বিভিন্ন প্রোটোকলগুলোকে জড়ো করে বিভিন্ন এপ্লিকেশনের মধ্যে যোগাযোগ রক্ষা করে। একটি প্রোটোকল এর সাথে অন্য একটি প্রোটোকল যুক্ত করতে হলে গেটওয়ে যুক্ত করতে হয়।"
+    },
+    {
+      "number": "14",
+      "tag": "RU C 20-21 (SET 2)",
+      "question": "কোন কম্পিউটার নেটওয়ার্কিং টপোলজিতে একটি কম্পিউটার নেটওয়ার্কভুক্ত অন্য প্রতিটি কম্পিউটারের সাথে সরাসরি যুক্ত থাকে ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Bus",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Ring",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Mesh",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Tree",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Bus",
+      "option_b": "Ring",
+      "option_c": "Mesh",
+      "option_d": "Tree",
+      "correct": "খ",
+      "explanation": "Mesh টপোলজিতে প্রতিটি কম্পিউটার নেটওয়ার্কের অন্য প্রতিটি কম্পিউটারের সাথে সরাসরি যুক্ত থাকে। ফলে প্রতিটি ডিভাইসের জন্য আলাদা ভাবে কানেকশন থাকে যা উচ্চমানের ফাল্ট টলারেন্স প্রদান করে। সঠিক উত্তর: Mesh"
+    },
+    {
+      "number": "15",
+      "tag": "FET 22-23",
+      "question": "What is the ability to transfer data per second through a network? (কোনো নেটওয়ার্কের মধ্য দিয়ে প্রতি সেকেন্ডে ডেটা পরিবহণে সক্ষমতাকে বলে?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "megabyte",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Internet",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Bandwidth",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Letency",
+          "is_correct": false
+        }
+      ],
+      "option_a": "megabyte",
+      "option_b": "Internet",
+      "option_c": "Bandwidth",
+      "option_d": "Letency",
+      "correct": "গ",
+      "explanation": "কোন নেটওয়ার্কের মধ্যে দিয়ে প্রতি সেকেন্ডে ডাটা পরিবহণের সক্ষমতাকে ব্যান্ডউইড্থ বলে। ব্যান্ডউইডথ তিন প্রকার ১. ন্যারোব্যান্ড ২. ভয়েসব্যান্ড ৩. ব্রডব্যান্ড। ব্যান্ড উইথকে বিট রেট বা ডেটা পার সেকেন্ড বলা হয়।"
+    },
+    {
+      "number": "16",
+      "tag": "FET 22-23",
+      "question": "Blutetooth এর মধ্যে কোন নেটওয়ার্ক তৈরি হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "PAN",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "LAN",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "MAN",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "WAN",
+          "is_correct": false
+        }
+      ],
+      "option_a": "PAN",
+      "option_b": "LAN",
+      "option_c": "MAN",
+      "option_d": "WAN",
+      "correct": "খ",
+      "explanation": "পার্সোনাল এরিয়া নেটওয়ার্ক (Personal Area Network - PAN) পার্সোনাল এরিয়া নেটওয়ার্ক বা প্যান হলো এমন একটি কম্পিউটার নেটওয়ার্ক যেটি পার্সোনাল কম্পিউটার ডিভাইসসমূহের মধ্যে যোগাযোগের জন্য ব্যবহৃত হয়। প্যানের ব্যাপ্তি সাধারণত ১০ মিটারের মধ্যেই সীমাবদ্ধ থাকে। উদাহরণ: ওয়্যারলেস ইউএসবি, ব্লুটুথ অথবা জিগবি ।"
+    },
+    {
+      "number": "17",
+      "tag": "FET 22-23",
+      "question": "What does a modem do? (মোডেমের কাজ কী?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তথ্য প্রেরণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "তথ্য সংশোধণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "তথ্য সংরক্ষণ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "তথ্য মুদ্রণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "তথ্য প্রেরণ",
+      "option_b": "তথ্য সংশোধণ",
+      "option_c": "তথ্য সংরক্ষণ",
+      "option_d": "তথ্য মুদ্রণ",
+      "correct": "গ",
+      "explanation": "প্রেরক বা প্রাপক হিসেবে ব্যবহৃত যে ডিভাইস বা যন্ত্র ডেটা কমিউনিকেশন সিস্টেমে মডুলেশন ও ডিমডুলেশন প্রক্রিয়ার সাহায্যে উৎস ও গন্তব্যের মধ্যে ডেটা আদান-প্রদান করে তাকে মডেম বলে। তথ্য প্রেরণে মডেমের ব্যবহার সাধারণত টেলিফোন লাইন ও মাইক্রোওয়েভ যোগাযোগ উল্লেখযোগ্য।"
+    },
+    {
+      "number": "18",
+      "tag": "FET 22-23",
+      "question": "Which IEEE is the WiFi standard?(কোন IEEE টি WiFi স্টান্ডার্ড?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "৮০২.১১",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "৮০২.১৫",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "৮০২.১২",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "৮০২.১৬",
+          "is_correct": false
+        }
+      ],
+      "option_a": "৮০২.১১",
+      "option_b": "৮০২.১৫",
+      "option_c": "৮০২.১২",
+      "option_d": "৮০২.১৬",
+      "correct": "গ",
+      "explanation": "WiFi এর স্ট্যান্ডার্ড IEEE হলো IEEE ৮০২.১১ বি স্ট্যান্ডার্ড নামে পরিচিত। দ্রুততর সংস্করণ হলো IEEE ৮০২.১১ জি যার গতি ৫৪ এমবিপিএস।"
+    },
+    {
+      "number": "19",
+      "tag": "FET 22-23",
+      "question": "Which is the innermost part of the optical fiber? (অপটিক্যাল ফাইবারের সবচেয়ে ভেতরের অংশ কোনটি?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বাফার",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ক্ল্যাডিং",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "জ্যাকেট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোর",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বাফার",
+      "option_b": "ক্ল্যাডিং",
+      "option_c": "জ্যাকেট",
+      "option_d": "কোর",
+      "correct": "ক",
+      "explanation": "অপটিক্যাল ফাইবারের সবচেয়ে ভেতরের অংশটি হলো কোর (core) । কোর একটি খুব পাতলা কাঁচ বা প্লাস্টিকের তৈরি, যা মূলত আলো বহন করে। এর ব্যাস ৮-১০০ মাইক্রন হয়ে থাকে।"
+    },
+    {
+      "number": "20",
+      "tag": "FET 22-23",
+      "question": "Which is an example of simplex method? (সিমপ্লেক্স পদ্ধতির উদাহরণ কোনটি?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মোবাইল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ওয়াকিটকি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "টেলিফোন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "রেডিও",
+          "is_correct": true
+        }
+      ],
+      "option_a": "মোবাইল",
+      "option_b": "ওয়াকিটকি",
+      "option_c": "টেলিফোন",
+      "option_d": "রেডিও",
+      "correct": "ঘ",
+      "explanation": "সিমপ্লেক্স ডেটা ট্রান্সমিশন মোডে কেবল একদিকে ডেটা প্রেরণের ব্যবস্থা থাকে। উদাহরণ: রেডিও এবং টিভি ব্রডকাস্ট, কম্পিউটার থেকে প্রিন্টারে ডেটা প্রেরণ, কী-বোর্ড থেকে কম্পিউটারে ডেটা প্রেরণ ইত্যাদি।"
+    },
+    {
+      "number": "1",
+      "tag": "FET 22-23",
+      "question": "Find the component of the vector b ⃗ = 5 i ^ − 3 j ^ + 2 k ^ \\vec{b}=5 \\hat{i}-3 \\hat{j}+2 \\hat{k} b = 5 i ^ − 3 j ^ ​ + 2 k ^ along the vector a ⃗ = 2 i ^ + j ^ − 2 k ^ \\vec{a}=2 \\hat{i}+\\hat{j}-2 \\hat{k} a = 2 i ^ + j ^ ​ − 2 k ^ .",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 2 ( 2 i ^ + j ^ − 2 k ^ ) \\frac{1}{2}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) 2 1 ​ ( 2 i ^ + j ^ ​ − 2 k ^ )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 3 ( 2 i ^ + j ^ − 2 k ^ ) \\frac{1}{3}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) 3 1 ​ ( 2 i ^ + j ^ ​ − 2 k ^ )",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 4 ( 2 i ^ + j ^ − 2 k ^ ) \\frac{1}{4}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) 4 1 ​ ( 2 i ^ + j ^ ​ − 2 k ^ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 5 ( 2 i ^ + j ^ − 2 k ^ ) \\frac{1}{5}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) 5 1 ​ ( 2 i ^ + j ^ ​ − 2 k ^ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 2 ( 2 i ^ + j ^ − 2 k ^ ) \\frac{1}{2}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) 2 1 ​ ( 2 i ^ + j ^ ​ − 2 k ^ )",
+      "option_b": "1 3 ( 2 i ^ + j ^ − 2 k ^ ) \\frac{1}{3}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) 3 1 ​ ( 2 i ^ + j ^ ​ − 2 k ^ )",
+      "option_c": "1 4 ( 2 i ^ + j ^ − 2 k ^ ) \\frac{1}{4}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) 4 1 ​ ( 2 i ^ + j ^ ​ − 2 k ^ )",
+      "option_d": "1 5 ( 2 i ^ + j ^ − 2 k ^ ) \\frac{1}{5}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) 5 1 ​ ( 2 i ^ + j ^ ​ − 2 k ^ )",
+      "correct": "খ",
+      "explanation": "a ⃗ \\vec{a} a ভেক্টরের বরাবর b ⃗ \\vec{b} b ভেক্টরের উপাংশ = ( a ⃗ ⋅ b ⃗ ) ( ∣ a ⃗ ∣ ) 2 a ⃗ =\\frac{(\\vec{a} \\cdot \\vec{b})}{(|\\vec{a}|)^{2}} \\vec{a} = ( ∣ a ∣ ) 2 ( a ⋅ b ) ​ a = ( 10 − 3 − 4 ) ( 2 2 + 1 2 + 2 2 ) 2 ( 2 i ^ + j ^ − 2 k ^ ) = 3 9 ( 2 i ^ + j ^ − 2 k ^ ) = 1 3 ( 2 i ^ + j ^ − 2 k ^ ) \\begin{array}{l} =\\frac{(10-3-4)}{\\left(\\sqrt{2^{2}+1^{2}+2^{2}}\\right)^{2}}(2 \\hat{i}+\\hat{j}-2 \\hat{k})=\\frac{3}{9}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) \\\\ =\\frac{1}{3}(2 \\hat{i}+\\hat{j}-2 \\hat{k}) \\end{array} = ( 2 2 + 1 2 + 2 2 ​ ) 2 ( 10 − 3 − 4 ) ​ ( 2 i ^ + j ^ ​ − 2 k ^ ) = 9 3 ​ ( 2 i ^ + j ^ ​ − 2 k ^ ) = 3 1 ​ ( 2 i ^ + j ^ ​ − 2 k ^ ) ​"
+    },
+    {
+      "number": "2",
+      "tag": "FET 22-23",
+      "question": "If current of 2   A 2 \\mathrm{~A} 2   A flows trough the 50 Ω 50 \\Omega 50Ω resistor for 100 sec, how much water temperature wil reach 100 ∘ C 100^{\\circ} \\mathrm{C} 10 0 ∘ C at 0 ∘ C 0^{\\circ} \\mathrm{C} 0 ∘ C ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.0476   k g 0.0476 \\mathrm{~kg} 0.0476   kg",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.0647   k g 0.0647 \\mathrm{~kg} 0.0647   kg",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "0.0764   k g 0.0764 \\mathrm{~kg} 0.0764   kg",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.0876   k g 0.0876 \\mathrm{~kg} 0.0876   kg",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.0476   k g 0.0476 \\mathrm{~kg} 0.0476   kg",
+      "option_b": "0.0647   k g 0.0647 \\mathrm{~kg} 0.0647   kg",
+      "option_c": "0.0764   k g 0.0764 \\mathrm{~kg} 0.0764   kg",
+      "option_d": "0.0876   k g 0.0876 \\mathrm{~kg} 0.0876   kg",
+      "correct": "খ",
+      "explanation": "W = m S Δ θ ⇒ P t = m S Δ θ ⇒ I 2 R t = m S Δ θ ⇒ ( 2 ) 2 × 50 × 100 = m × 4200 × ( 100 − 0 ) ⇒ m = 0.047   k g \\begin{aligned} & W=m S \\Delta \\theta \\\\ \\Rightarrow & P t=m S \\Delta \\theta \\\\ \\Rightarrow & I^{2} R t=m S \\Delta \\theta \\\\ \\Rightarrow & (2)^{2} \\times 50 \\times 100=m \\times 4200 \\times(100-0) \\\\ \\Rightarrow & m=0.047 \\mathrm{~kg}\\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ W = m S Δ θ Pt = m S Δ θ I 2 Rt = m S Δ θ ( 2 ) 2 × 50 × 100 = m × 4200 × ( 100 − 0 ) m = 0.047   kg ​"
+    },
+    {
+      "number": "3",
+      "tag": "FET 22-23",
+      "question": "What is the frequency of your home direction electric supply line?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "110",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "220",
+          "is_correct": false
+        }
+      ],
+      "option_a": "50",
+      "option_b": "60",
+      "option_c": "110",
+      "option_d": "220",
+      "correct": "গ",
+      "explanation": "The frequency of alternating voltage supplied is 50 Hz"
+    },
+    {
+      "number": "4",
+      "tag": "FET 22-23",
+      "question": "Ultraviolet light of 2500 A ˚ 2500 \\AA 2500 A ˚ wavelengths is cast on a metal. what is the maximum velocity of the emitted photo electron if the function of the metal is 2.3 e V 2.3 \\mathrm{eV} 2.3 eV ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "969.42   k m s − 1 969.42~ \\mathrm{kms}^{-1} 969.42   kms − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "367   k m s − 1 367 ~\\mathrm{kms}^{-1} 367   kms − 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "283.63   k m s − 1 283.63~ \\mathrm{kms}^{-1} 283.63   kms − 1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "991.2   k m s − 1 991.2 ~\\mathrm{kms}^{-1} 991.2   kms − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "969.42   k m s − 1 969.42~ \\mathrm{kms}^{-1} 969.42   kms − 1",
+      "option_b": "367   k m s − 1 367 ~\\mathrm{kms}^{-1} 367   kms − 1",
+      "option_c": "283.63   k m s − 1 283.63~ \\mathrm{kms}^{-1} 283.63   kms − 1",
+      "option_d": "991.2   k m s − 1 991.2 ~\\mathrm{kms}^{-1} 991.2   kms − 1",
+      "correct": "গ",
+      "explanation": "1 2 m v 2 = h f − ϕ ⇒ 1 2 m v 2 = h c λ − ϕ \\frac{1}{2} \\mathrm{mv}^{2}=\\mathrm{hf}-\\phi \\Rightarrow \\frac{1}{2} \\mathrm{mv}^{2}=\\mathrm{h} \\frac{c}{\\lambda}-\\phi 2 1 ​ mv 2 = hf − ϕ ⇒ 2 1 ​ mv 2 = h λ c ​ − ϕ ∴ v = 969.42 k m s − 1 \\therefore \\mathrm{v}=969.42 \\mathrm{kms}^{-1} ∴ v = 969.42 kms − 1"
+    },
+    {
+      "number": "5",
+      "tag": "FET 22-23",
+      "question": "What is the velocity of an object with a simple rhythmic motion at a distance of a 0.005   m 0.005 \\mathrm{~m} 0.005   m if its spread is 0.01   m 0.01 \\mathrm{~m} 0.01   m and frequency is 12   H z 12 \\mathrm{~Hz} 12   Hz ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.55",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0.6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0.65",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.55",
+      "option_b": "0.6",
+      "option_c": "0.7",
+      "option_d": "0.65",
+      "correct": "ক",
+      "explanation": "এখানে, A = 0.01   m , f = 12   H z , x = 0.05 , v = \\mathrm{A}=0.01 \\mathrm{~m}, f=12 \\mathrm{~Hz}, \\mathrm{x}=0.05, \\mathrm{v}= A = 0.01   m , f = 12   Hz , x = 0.05 , v = ? v = ω A 2 − x 2 = 2 π f A 2 − x 2 = 0.65   m s − 1 \\begin{array}{l} v=\\omega\\sqrt{A^{2}-x^{2}}=2 \\pi f \\sqrt{A^{2}-x^{2}} \\\\ =0.65 \\mathrm{~ms}^{-1} \\end{array} v = ω A 2 − x 2 ​ = 2 π f A 2 − x 2 ​ = 0.65   ms − 1 ​"
+    },
+    {
+      "number": "6",
+      "tag": "FET 22-23",
+      "question": "Vectors 2 A ⃗   &   A ⃗ 2 \\vec{A}~ \\&~ \\vec{A} 2 A   &   A are connected to each other at a certain angle. Doubling the first vector multiples the value of the gain, what is the angle between the two vectors?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "180 ∘ 180^{\\circ} 18 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0 ∘ 0^{\\circ} 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "180 ∘ 180^{\\circ} 18 0 ∘",
+      "option_b": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_c": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_d": "0 ∘ 0^{\\circ} 0 ∘",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "FET 22-23",
+      "question": "What is the most elastic?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্টিল",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "তামা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কোয়ার্টজ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কাঠ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "স্টিল",
+      "option_b": "তামা",
+      "option_c": "কোয়ার্টজ",
+      "option_d": "কাঠ",
+      "correct": "ক",
+      "explanation": "The correct answer is Steel. Steel is the most elastic material . If the object is elastic, the body regains its original shape when the pressure is removed. Steel having the steepest linear stress-strain curve among all."
+    },
+    {
+      "number": "8",
+      "tag": "FET 22-23",
+      "question": "the radius of a sphere R = ( 10 ± 0.1 ) c m R=(10 \\pm 0.1) \\mathrm{cm} R = ( 10 ± 0.1 ) cm , what is the percentage error in its volume?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 % 1 \\% 1%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 % 2 \\% 2%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 % 3 \\% 3%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 % 4 \\% 4%",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 % 1 \\% 1%",
+      "option_b": "2 % 2 \\% 2%",
+      "option_c": "3 % 3 \\% 3%",
+      "option_d": "4 % 4 \\% 4%",
+      "correct": "ঘ",
+      "explanation": "Percentage error in volume  = 3 × 0.1 10 × 100 % = 3 % \\begin{aligned} \\text { Percentage error in volume } & =3 \\times \\frac{0.1}{10} \\times 100 \\% \\\\ & =3 \\%\\end{aligned}  Percentage error in volume  ​ = 3 × 10 0.1 ​ × 100% = 3% ​"
+    },
+    {
+      "number": "9",
+      "tag": "FET 22-23",
+      "question": "In stagnant water the speed of the boat is 13   k m / h r 13 \\mathrm{~km} / \\mathrm{hr} 13   km / hr , if the speed of the current is 4   k m / h r 4 \\mathrm{~km} / \\mathrm{hr} 4   km / hr , then how long will it take for the boat to cross 68 km towards the current?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 h r 2 \\mathrm{hr} 2 hr",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 h r 3 \\mathrm{hr} 3 hr",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 h r 4 \\mathrm{hr} 4 hr",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 h r 5 \\mathrm{hr} 5 hr",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 h r 2 \\mathrm{hr} 2 hr",
+      "option_b": "3 h r 3 \\mathrm{hr} 3 hr",
+      "option_c": "4 h r 4 \\mathrm{hr} 4 hr",
+      "option_d": "5 h r 5 \\mathrm{hr} 5 hr",
+      "correct": "ঘ",
+      "explanation": "সময় = 68 13 + 4 = 68 17 = 4 h r =\\frac{68}{13+4}=\\frac{68}{17}=4 \\mathrm{hr} = 13 + 4 68 ​ = 17 68 ​ = 4 hr"
+    },
+    {
+      "number": "10",
+      "tag": "FET 22-23",
+      "question": "If a particle travels 720 cm in the 11 t h 11^{th} 1 1 t h second and 960 cm in the 15 t h 15^{th} 1 5 t h second, what is the acceleration of the particle?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30   c m / s 2 30 \\mathrm{~cm} / \\mathrm{s}^ 2 30   cm / s 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40   c m / s 2 40 \\mathrm{~cm} / \\mathrm{s} ^2 40   cm / s 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "50   c m / s 2 50 \\mathrm{~cm} / \\mathrm{s}^ 2 50   cm / s 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60   c m / s 2 60 \\mathrm{~cm} / \\mathrm{s} ^2 60   cm / s 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30   c m / s 2 30 \\mathrm{~cm} / \\mathrm{s}^ 2 30   cm / s 2",
+      "option_b": "40   c m / s 2 40 \\mathrm{~cm} / \\mathrm{s} ^2 40   cm / s 2",
+      "option_c": "50   c m / s 2 50 \\mathrm{~cm} / \\mathrm{s}^ 2 50   cm / s 2",
+      "option_d": "60   c m / s 2 60 \\mathrm{~cm} / \\mathrm{s} ^2 60   cm / s 2",
+      "correct": "খ",
+      "explanation": "ত্বরণ = 960 − 720 15 − 11 = 240 4 = 60   c m / s 2 =\\frac{960-720}{15-11}=\\frac{240}{4}=60 \\mathrm{~cm} / \\mathrm{s}^{2} = 15 − 11 960 − 720 ​ = 4 240 ​ = 60   cm / s 2"
+    },
+    {
+      "number": "11",
+      "tag": "FET 22-23",
+      "question": "It takes 27 seconds and 17 seconds for two trains to cross a stationary man on the platform in reverse. If two trains take 23 seconds to cross each other, what is the speed ratio?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 : 3 1: 3 1 : 3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 : 2 3: 2 3 : 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 : 4 3: 4 3 : 4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 : 3 1: 3 1 : 3",
+      "option_b": "3 : 2 3: 2 3 : 2",
+      "option_c": "3 : 4 3: 4 3 : 4",
+      "option_d": "None",
+      "correct": "ক",
+      "explanation": "1 1 = 27 V 1 ; 1 2 = 17 V 2 ∴ 1 1 + 1 2 V 1 + V 2 = 23 ⇒ 1 1 + 1 2 = 23 V 1 + 23 V 2 ⇒ 27 V 1 + 17 V 2 = 23 V 1 + 23 V 2 ⇒ 4 V 1 = 6 V 2 ⇒ V 1 V 2 = 6 4 = 3 2 ∴ V 1 : V 2 = 3 : 2 \\begin{array}{l} 1_{1}=27 V_{1} ;\\\\ 1_{2}=17 V_{2} \\\\ \\therefore \\frac{1_{1}+1_{2}}{V_{1}+V_{2}}=23 \\\\ \\Rightarrow 1_{1}+1_{2}=23 V_{1}+23 V_{2} \\\\ \\Rightarrow 27 V_{1}+17 V_{2}=23 V_{1}+23 V_{2}\\\\ \\Rightarrow 4 V_{1}=6 V_{2} \\\\ \\Rightarrow \\frac{V_{1}}{V_{2}}=\\frac{6}{4}=\\frac{3}{2}\\\\ \\therefore V_{1}: V_{2}=3: 2\\end{array} 1 1 ​ = 27 V 1 ​ ; 1 2 ​ = 17 V 2 ​ ∴ V 1 ​ + V 2 ​ 1 1 ​ + 1 2 ​ ​ = 23 ⇒ 1 1 ​ + 1 2 ​ = 23 V 1 ​ + 23 V 2 ​ ⇒ 27 V 1 ​ + 17 V 2 ​ = 23 V 1 ​ + 23 V 2 ​ ⇒ 4 V 1 ​ = 6 V 2 ​ ⇒ V 2 ​ V 1 ​ ​ = 4 6 ​ = 2 3 ​ ∴ V 1 ​ : V 2 ​ = 3 : 2 ​"
+    },
+    {
+      "number": "12",
+      "tag": "FET 22-23",
+      "question": "If a carno engine operates between 120 ∘ C    &    30 ∘ C 120^{\\circ} \\mathrm{C}~~ \\&~~ 30^{\\circ} \\mathrm{C} 12 0 ∘ C     &     3 0 ∘ C , what will be its efficiency percentage?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20.9",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "22.9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "24.9",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "26.9",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20.9",
+      "option_b": "22.9",
+      "option_c": "24.9",
+      "option_d": "26.9",
+      "correct": "ক",
+      "explanation": "এখানে, T 1 = 120 + 273 = 393   K T_{1}=120+273=393 \\mathrm{~K} T 1 ​ = 120 + 273 = 393   K , T 2 = 30 + 273 = 303   K \\mathrm{T}_{2}=30+273=303 \\mathrm{~K} T 2 ​ = 30 + 273 = 303   K , ∴ \\therefore ∴ কর্মদক্ষতা η = ( 1 − T 2   T 1 ) × 100 % = 22.9 % \\eta=\\left(1-\\frac{\\mathrm{T}_{2}}{\\mathrm{~T}_{1}}\\right) \\times 100 \\%=22.9 \\% η = ( 1 −   T 1 ​ T 2 ​ ​ ) × 100% = 22.9%"
+    },
+    {
+      "number": "1",
+      "tag": "FET 22-23",
+      "question": "What is the appropriate meaning of 'To end in smoke'?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "to create fire",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "to go through suffering",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "to come to nothing",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "to see fire",
+          "is_correct": false
+        }
+      ],
+      "option_a": "to create fire",
+      "option_b": "to go through suffering",
+      "option_c": "to come to nothing",
+      "option_d": "to see fire",
+      "correct": "ক",
+      "explanation": "End in smoke idiom টির অর্থ ব্যর্থ হওয়া। Ex: All his plans end in smoke idiom."
+    },
+    {
+      "number": "2",
+      "tag": "FET 22-23",
+      "question": "Human brain is the most ‾ \\underline{ } ​ s o p h i s t i c a t e d ‾ \\underline{sophisticated} so p hi s t i c a t e d ​",
+      "options": [
+        {
+          "label": "ক",
+          "text": "noun",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "verb",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "adjective",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "adverb",
+          "is_correct": true
+        }
+      ],
+      "option_a": "noun",
+      "option_b": "verb",
+      "option_c": "adjective",
+      "option_d": "adverb",
+      "correct": "ঘ",
+      "explanation": "The correct answer is C: adjective. In this sentence, \"sophisticated\" is describing the human brain. Adjectives are words that describe or modify nouns or pronouns. Therefore, \"sophisticated\" is functioning as an adjective modifying the noun \"brain\". Option A, \"noun\", is incorrect because \"sophisticated\" is not a noun. A noun is a word that names a person, place, thing, or idea. Option B, \"verb\", is incorrect because \"sophisticated\" is not a verb. A verb is a word that expresses an action, occurrence, or state of being. Option D, \"adverb\", is incorrect because \"sophisticated\" is not modifying a verb, adjective, or other adverb. Adverbs are words that modify verbs, adjectives, or other adverbs. Therefore, the correct answer is C: adjective, as \"sophisticated\" is describing the human brain. Generative"
+    },
+    {
+      "number": "3",
+      "tag": "FET 22-23",
+      "question": "The synonym of 'Commemorate' is-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "overlook",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "memorize",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "observe",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "assert",
+          "is_correct": true
+        }
+      ],
+      "option_a": "overlook",
+      "option_b": "memorize",
+      "option_c": "observe",
+      "option_d": "assert",
+      "correct": "ঘ",
+      "explanation": "সঠিক উত্তর হলো গ) observe । ব্যাখ্যা: 'Commemorate' (কমেমোরেট) একটি verb, যার অর্থ হলো কোনো বিশেষ ব্যক্তি বা ঐতিহাসিক ঘটনাকে শ্রদ্ধাভরে স্মরণ করা বা উদযাপন করা (স্মৃতি রক্ষা করা)। [১.৪.১, ১.৪.৭] Observe: এটি 'Commemorate'-এর একটি সঠিক প্রতিশব্দ বা synonym। কোনো দিবস পালন করা বা ধর্মীয়/সামাজিক আচার অনুষ্ঠান উদযাপন করা অর্থে 'observe' ব্যবহৃত হয়।"
+    },
+    {
+      "number": "4",
+      "tag": "FET 22-23",
+      "question": "Choose the correct sentence.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Rich is not always happy.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "The rich is not always happy.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "The rich is not happy always.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "The rich are not always happy.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Rich is not always happy.",
+      "option_b": "The rich is not always happy.",
+      "option_c": "The rich is not happy always.",
+      "option_d": "The rich are not always happy.",
+      "correct": "ক",
+      "explanation": "Adjective এর পূর্বে the বসে common noun হয় এবং plural অর্থ বুঝায়।"
+    },
+    {
+      "number": "5",
+      "tag": "FET 22-23,JU F 13-14",
+      "question": "She congratulated me __ my success. Choose the appropriate preposition.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "for",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "to",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "on",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "of",
+          "is_correct": false
+        }
+      ],
+      "option_a": "for",
+      "option_b": "to",
+      "option_c": "on",
+      "option_d": "of",
+      "correct": "গ",
+      "explanation": "Congratulate on অভিনন্দন জানানো। কিছু গুরুত্বপূর্ণ Appropriate preposition: Absent From অনুপস্থিত • Accustomed to অভ্যন্ত • Accused of- অভিযুক্ত • Charged with অভিযুক্ত • Devoid of - বর্জিত • Devote to নিয়োজিত করা • Callous to - উদাসীন"
+    },
+    {
+      "number": "6",
+      "tag": "FET 22-23",
+      "question": "Curriculum : Class : : Agenda :",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Speech",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Meeting",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Lecture",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Debate",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Speech",
+      "option_b": "Meeting",
+      "option_c": "Lecture",
+      "option_d": "Debate",
+      "correct": "গ",
+      "explanation": "Class এর সাথে curriculum যেমন সম্পর্ক, তেমনি ভাবে meeting এর সাথে agenda সম্পর্কিত।"
+    },
+    {
+      "number": "7",
+      "tag": "FET 22-23",
+      "question": "What mood does the phrase 'buds are nipped' express?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "happy",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "excited",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "mournful",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "jolly",
+          "is_correct": true
+        }
+      ],
+      "option_a": "happy",
+      "option_b": "excited",
+      "option_c": "mournful",
+      "option_d": "jolly",
+      "correct": "ঘ",
+      "explanation": "'Buds are nipped' এই idiom দ্বারা বুঝায় অঙ্কুরে বিনষ্ট হওয়া। এখানে শোক প্রকাশে এটি ব্যবহৃত হয়েছে।"
+    },
+    {
+      "number": "8",
+      "tag": "FET 22-23",
+      "question": "Choose the correct sentence according to the structure : sub + linking verb + noun complement.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "It seems easy.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "He reads loudly.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "The scheme proved Lucrative.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "They are students.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "It seems easy.",
+      "option_b": "He reads loudly.",
+      "option_c": "The scheme proved Lucrative.",
+      "option_d": "They are students.",
+      "correct": "খ",
+      "explanation": "Are, seems, look, fell প্রভৃতি linking verb, student হল এই বাক্যের noun complement."
+    },
+    {
+      "number": "9",
+      "tag": "FET 22-23",
+      "question": "The perspective from which a story is narrated is known as-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "point of view",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "theme",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "motif",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "plot",
+          "is_correct": false
+        }
+      ],
+      "option_a": "point of view",
+      "option_b": "theme",
+      "option_c": "motif",
+      "option_d": "plot",
+      "correct": "খ",
+      "explanation": "Point of view অর্থ কোনো ব্যক্তির দৃষ্টিভঙ্গী। তার মানে, যেই দৃষ্টি কোণ থেকে একটি গল্প লিখা হয়।"
+    },
+    {
+      "number": "10",
+      "tag": "FET 22-23",
+      "question": "Applying human qualities to non-human things is known as-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "personification",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "imagery",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "simile",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "metaphor",
+          "is_correct": false
+        }
+      ],
+      "option_a": "personification",
+      "option_b": "imagery",
+      "option_c": "simile",
+      "option_d": "metaphor",
+      "correct": "ক",
+      "explanation": "Personification দ্বারা সাহিত্য কোন অস্তিত্বহীন বস্তুকে মানবীয় গুণাবলী দ্বারা ব্যাখ্যা করে।"
+    },
+    {
+      "number": "11",
+      "tag": "FET 22-23",
+      "question": "Milton's phrase \"darkness visible\" to describe hell is an example of-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "onomatopoeia",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "oxymoron",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "paronomasia",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "paradox",
+          "is_correct": false
+        }
+      ],
+      "option_a": "onomatopoeia",
+      "option_b": "oxymoron",
+      "option_c": "paronomasia",
+      "option_d": "paradox",
+      "correct": "ক",
+      "explanation": "Oxymoron এ দুটি ভিন্ন ধরণের অর্থবোধক শব্দ একত্রে থাকে, যেমন- male female, open secret, wise fool, darkness visible ইত্যাদি।"
+    },
+    {
+      "number": "12",
+      "tag": "FET 22-23",
+      "question": "Identify the underlined clause - “The time when the train will leave is not fixed.”",
+      "options": [
+        {
+          "label": "ক",
+          "text": "adjective clause",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "adverb clause of time",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "noun clause",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "adverb clause of reason",
+          "is_correct": false
+        }
+      ],
+      "option_a": "adjective clause",
+      "option_b": "adverb clause of time",
+      "option_c": "noun clause",
+      "option_d": "adverb clause of reason",
+      "correct": "ক",
+      "explanation": "একটি Adjective Clause সাধারণত তার ঠিক আগে থাকা কোনো Noun বা Pronoun (যাকে Antecedent বলা হয়) সম্পর্কে অতিরিক্ত তথ্য প্রদান করে।"
+    },
+    {
+      "number": "13",
+      "tag": "FET 22-23",
+      "question": "What figure of speech do you find in \"budding beauty\"?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Assonance",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Alliteration",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Simile",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Metaphor",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Assonance",
+      "option_b": "Alliteration",
+      "option_c": "Simile",
+      "option_d": "Metaphor",
+      "correct": "ক",
+      "explanation": "কোন বাক্যের প্রথম শব্দ গুলো যদি একই consonant word হয় তাকে অনুপ্রাস alliteration বলে। যেমন: Black bug, laughing lions, Wind Whistles, Budding beauty."
+    },
+    {
+      "number": "14",
+      "tag": "FET 22-23",
+      "question": "The best kind of writing is in language that is-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "pedantic",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "arcane",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "idiomatic",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "esoteric",
+          "is_correct": false
+        }
+      ],
+      "option_a": "pedantic",
+      "option_b": "arcane",
+      "option_c": "idiomatic",
+      "option_d": "esoteric",
+      "correct": "গ",
+      "explanation": "Idiomatic- স্বভাষা। লেখার ক্ষেত্রে সবচেয়ে উত্তম হতে পারে idiomatic অর্থাৎ স্বভাষায় রচিত লেখা।"
+    },
+    {
+      "number": "15",
+      "tag": "FET 22-23",
+      "question": "Choose the word or phrase (A, B, C, D) that is opposite in meaning to the underlined word in the following: The judge reprimanded the witness for giving a false account of the event.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "challenge",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "command",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "praise",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "disprove",
+          "is_correct": false
+        }
+      ],
+      "option_a": "challenge",
+      "option_b": "command",
+      "option_c": "praise",
+      "option_d": "disprove",
+      "correct": "গ",
+      "explanation": "Reprimanded অপমান/ তিরস্কার করা. Synonym: Adomnish, Criticize, Blame, Scold, Rebuke. Antonym: Praise, Applaud, Compliment, Laud."
+    },
+    {
+      "number": "16",
+      "tag": "FET 22-23",
+      "question": "Choose the correct spelling.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Inacessibility",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Inaccesebilit",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Inaccissibility",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Inaccessibility",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Inacessibility",
+      "option_b": "Inaccesebilit",
+      "option_c": "Inaccissibility",
+      "option_d": "Inaccessibility",
+      "correct": "গ",
+      "explanation": "Inaccessibility (n)- অগম্যতা।"
+    },
+    {
+      "number": "17",
+      "tag": "FET 22-23",
+      "question": "Four and four --------- eight.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "makes",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "make",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "made",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "are",
+          "is_correct": true
+        }
+      ],
+      "option_a": "makes",
+      "option_b": "make",
+      "option_c": "made",
+      "option_d": "are",
+      "correct": "ঘ",
+      "explanation": "সংখ্যা বোঝালে সেটা সর্বদাই singular verb হবে।"
+    },
+    {
+      "number": "18",
+      "tag": "FET 22-23",
+      "question": "He left ______ heir.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "an",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "the",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "one",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a",
+      "option_b": "an",
+      "option_c": "the",
+      "option_d": "one",
+      "correct": "গ",
+      "explanation": "Heir শব্দ h এর উচ্চারণ vowel এর মতো হওয়ায় an বসবে।"
+    },
+    {
+      "number": "19",
+      "tag": "FET 22-23",
+      "question": "The synonym of 'Juvenile' is-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "joyful",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "adult",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "adolescent",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "cordial",
+          "is_correct": false
+        }
+      ],
+      "option_a": "joyful",
+      "option_b": "adult",
+      "option_c": "adolescent",
+      "option_d": "cordial",
+      "correct": "খ",
+      "explanation": "Juvenile অর্থ তরুণ এর সমার্থক শব্দ adolescent (কিশোর বয়স্ক)।"
+    },
+    {
+      "number": "1",
+      "tag": "FET 22-23",
+      "question": "What is the hybridization of P C l 3 ? ( P C l 3 \\mathrm{PCl}_{3} ?\\left(\\mathrm{PCl}_{3}\\right. PCl 3 ​ ? ( PCl 3 ​ এর সংকরণ কোনটি?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "s p 3 \\mathrm{sp}^{3} sp 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "s p 2 \\mathrm{sp}^{2} sp 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "s p 3   d 2 \\mathrm{sp}^{3} \\mathrm{~d}^{2} sp 3   d 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "s p 3   d \\mathrm{sp}^{3} \\mathrm{~d} sp 3   d",
+          "is_correct": false
+        }
+      ],
+      "option_a": "s p 3 \\mathrm{sp}^{3} sp 3",
+      "option_b": "s p 2 \\mathrm{sp}^{2} sp 2",
+      "option_c": "s p 3   d 2 \\mathrm{sp}^{3} \\mathrm{~d}^{2} sp 3   d 2",
+      "option_d": "s p 3   d \\mathrm{sp}^{3} \\mathrm{~d} sp 3   d",
+      "correct": "গ",
+      "explanation": "P C l 3 \\mathrm{PCl}_{3} PCl 3 ​ এর সংকরণ s p 3 \\mathrm{sp}^{3} sp 3 ."
+    },
+    {
+      "number": "2",
+      "tag": "FET 22-23",
+      "question": "Which of the following is a heterocyclic aromatic compound? (বিষমচাক্রিক (Heterocyclic) অ্যারোমেটিক যৌগ কোনটি?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বেনজিন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ন্যাপথ্যালিন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "পিরিডিন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ফিনানথ্রিন",
+          "is_correct": true
+        }
+      ],
+      "option_a": "বেনজিন",
+      "option_b": "ন্যাপথ্যালিন",
+      "option_c": "পিরিডিন",
+      "option_d": "ফিনানথ্রিন",
+      "correct": "ঘ",
+      "explanation": "examples of Heterocyclic aromatic compounds বিষমচাক্রিক (Heterocyclic) অ্যারোমেটিক যৌগঃচক্রে C/H ছাড়া অন্য কোনো মৌলও থাকে।"
+    },
+    {
+      "number": "3",
+      "tag": "FET 22-23",
+      "question": "Which of the following equation is incorrect? (নিচের কোন সমীকরণটি সঠিক নয়?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "v ˉ = 1 λ \\bar{v}=\\frac{1}{\\lambda} v ˉ = λ 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "v ˉ = c λ \\bar{v}=\\frac{c}{\\lambda} v ˉ = λ c ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Δ E = h v \\Delta E=h v Δ E = h v",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "option_a": "v ˉ = 1 λ \\bar{v}=\\frac{1}{\\lambda} v ˉ = λ 1 ​",
+      "option_b": "v ˉ = c λ \\bar{v}=\\frac{c}{\\lambda} v ˉ = λ c ​",
+      "option_c": "Δ E = h v \\Delta E=h v Δ E = h v",
+      "option_d": "None",
+      "correct": "ক",
+      "explanation": "V ˉ \\bar{V} V ˉ দ্বারা তরঙ্গসংখ্যা বোঝানো হয় এবং V ˉ = 1 λ ⋅ c / λ \\bar{V}=\\frac{1}{\\lambda} \\cdot c / \\lambda V ˉ = λ 1 ​ ⋅ c / λ দ্বারা কম্পাঙ্ক বোঝায়, Δ E \\Delta \\mathrm{E} Δ E দ্বারা ফোটনের শক্তি বুঝিয়েছে, যা তরঙ্গদৈর্ঘ্যের ব্যাস্তানুপাতিক ( Δ E α 1 λ ) \\left(\\Delta \\mathrm{E} \\alpha \\frac{1}{\\lambda}\\right) ( Δ E α λ 1 ​ ) ।"
+    },
+    {
+      "number": "4",
+      "tag": "FET 22-23",
+      "question": "What is the molarity of 20 % N a O H 20 \\% \\mathrm{NaOH} 20% NaOH solution? (20% NaOH দ্রবণের মোলারিটি কত M?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5.5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5.0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4.5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4.0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5.5",
+      "option_b": "5.0",
+      "option_c": "4.5",
+      "option_d": "4.0",
+      "correct": "ক",
+      "explanation": "N a O H এর মোলার ভর  = ( 23 + 16 + 1 ) g = 40 x % ( ω v ) ; s = 10 x M  যেখানে,  x = 20 ∴ S = 10 × 20 40 = 5 \\begin{array}{l}\\mathrm{NaOH} \\text {এর মোলার ভর }=(23+16+1) \\mathrm{g} \\\\ =40 \\\\ x \\%\\left(\\frac{\\omega}{v}\\right) ; s=\\frac{10 x}{M} \\\\ \\text { যেখানে, } x=20 \\\\ \\therefore S=\\frac{10 \\times 20}{40} \\\\ =5 \\\\\\end{array} NaOH এর   মোলার   ভর   = ( 23 + 16 + 1 ) g = 40 x % ( v ω ​ ) ; s = M 10 x ​   যেখানে ,  x = 20 ∴ S = 40 10 × 20 ​ = 5 ​"
+    },
+    {
+      "number": "5",
+      "tag": "FET 22-23",
+      "question": "If the initial speed of reaction is 0.20   m o l   d m − 3 0.20 ~\\mathrm{mol~dm}^{-3} 0.20   mol   dm − 3 in a solution of is 3 × 10 − 4 3 \\times 10^{-4} 3 × 1 0 − 4 mol dm − 3   s − 1 ^{-3} \\mathrm{~s}^{-1} − 3   s − 1 Volume. What is the constant speed of reaction?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.5 × 10 − 3   s − 1 1.5 \\times 10^{-3} \\mathrm{~s}^{-1} 1.5 × 1 0 − 3   s − 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1.5 × 10 − 2   s − 1 1.5 \\times 10^{-2} \\mathrm{~s}^{-1} 1.5 × 1 0 − 2   s − 1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1.05 × 10 − 3   s − 1 1.05 \\times 10^{-3} \\mathrm{~s}^{-1} 1.05 × 1 0 − 3   s − 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1.05 × 10 − 2   s − 1 1.05 \\times 10^{-2} \\mathrm{~s}^{-1} 1.05 × 1 0 − 2   s − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.5 × 10 − 3   s − 1 1.5 \\times 10^{-3} \\mathrm{~s}^{-1} 1.5 × 1 0 − 3   s − 1",
+      "option_b": "1.5 × 10 − 2   s − 1 1.5 \\times 10^{-2} \\mathrm{~s}^{-1} 1.5 × 1 0 − 2   s − 1",
+      "option_c": "1.05 × 10 − 3   s − 1 1.05 \\times 10^{-3} \\mathrm{~s}^{-1} 1.05 × 1 0 − 3   s − 1",
+      "option_d": "1.05 × 10 − 2   s − 1 1.05 \\times 10^{-2} \\mathrm{~s}^{-1} 1.05 × 1 0 − 2   s − 1",
+      "correct": "খ",
+      "explanation": "যেহেতু হার ধ্রুবকের একক S − 1 ^{-1} − 1 , তাই বিক্রিয়া ১ম ক্রম। আমরা জানি। বিক্রিয়ার হার= হার ধ্রুবক × \\times × (ঘনমাত্রা) 1 ^{1} 1 । ∴ \\therefore ∴ হার ধ্রুবক = 3 × 10 − 4 0.20 = 1.5 × 10 − 3   s − 1 =\\frac{3 \\times 10^{-4}}{0.20}=1.5 \\times 10^{-3} \\mathrm{~s}^{-1} = 0.20 3 × 1 0 − 4 ​ = 1.5 × 1 0 − 3   s − 1"
+    },
+    {
+      "number": "6",
+      "tag": "FET 22-23",
+      "question": "2 C H 3 C H = C H 2 + 2 H B r → R O − O R   A ( 99 % ) 2 \\mathrm{CH}_{3} \\mathrm{CH}=\\mathrm{CH}_{2}+2 \\mathrm{HBr} \\xrightarrow{R O-O R} \\mathrm{~A}(99 \\%) 2 CH 3 ​ CH = CH 2 ​ + 2 HBr RO − OR ​   A ( 99% ) ; What is A compound?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "C H 3 C H 2 C H 2 B r \\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{Br} CH 3 ​ CH 2 ​ CH 2 ​ Br",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "C H 3 C H ( B r ) C H 2 \\mathrm{CH}_{3} \\mathrm{CH}(\\mathrm{Br}) \\mathrm{CH}_{2} CH 3 ​ CH ( Br ) CH 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "C H 3 C H ( B r ) C H 2 B r \\mathrm{CH}_{3} \\mathrm{CH}(\\mathrm{Br}) \\mathrm{CH}_{2} \\mathrm{Br} CH 3 ​ CH ( Br ) CH 2 ​ Br",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "C H 3 C ( B r ) = C H 2 B r \\mathrm{CH}_{3} \\mathrm{C}(\\mathrm{Br})=\\mathrm{CH}_{2} \\mathrm{Br} CH 3 ​ C ( Br ) = CH 2 ​ Br",
+          "is_correct": false
+        }
+      ],
+      "option_a": "C H 3 C H 2 C H 2 B r \\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{Br} CH 3 ​ CH 2 ​ CH 2 ​ Br",
+      "option_b": "C H 3 C H ( B r ) C H 2 \\mathrm{CH}_{3} \\mathrm{CH}(\\mathrm{Br}) \\mathrm{CH}_{2} CH 3 ​ CH ( Br ) CH 2 ​",
+      "option_c": "C H 3 C H ( B r ) C H 2 B r \\mathrm{CH}_{3} \\mathrm{CH}(\\mathrm{Br}) \\mathrm{CH}_{2} \\mathrm{Br} CH 3 ​ CH ( Br ) CH 2 ​ Br",
+      "option_d": "C H 3 C ( B r ) = C H 2 B r \\mathrm{CH}_{3} \\mathrm{C}(\\mathrm{Br})=\\mathrm{CH}_{2} \\mathrm{Br} CH 3 ​ C ( Br ) = CH 2 ​ Br",
+      "correct": "ক",
+      "explanation": "মারকনিকভের নিয়মের বিপরীত ক্রিয়া : বিজ্ঞানী খারাস ১৯৩৩ খ্রিস্টাব্দে পরীক্ষা নিরীক্ষার পর দেখান যে, স্বল্প পরিমাণ জৈব পার অক্সাইড যেমন অ্যালকাইল পারঅক্সাইড (RO-OR) এর উপস্থিতিতে অপ্রতিসম অ্যালকিনের সঙ্গে HBr এর বিক্রিয়াটি মারকনিকভের নিয়মের বিপরীতভাবে ঘটে। একে বিপরীত মারকনিকভ নীতি বা খারাসের পারঅক্সাইড ফলাফল বলে। যেমন, স্বল্প পরিমাণ অ্যাসিটাইল পারঅক্সাইড বা বেনজোয়িল পারঅক্সাইডের উপস্থিতিতে প্রোপিন ও HBr এর যুত বিক্রিয়ায় প্রায় 99.1% n-প্রোপাইল ব্রোমাইড উৎপন্ন হয়; iso-প্রোপাইল ব্রোমাইড মাত্র 0.9% পরিমাণে উৎপন্ন হয়।"
+    },
+    {
+      "number": "7",
+      "tag": "FET 22-23",
+      "question": "What is the number of molecules of 25 m l 25 \\mathrm{ml} 25 ml of gas at a temperature of 30 ∘ C 30^{\\circ} \\mathrm{C} 3 0 ∘ C and a pressure of 740   m m 740 \\mathrm{~mm} 740   mm of marcury?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8.597 × 10 20 8.597 \\times 10^{20} 8.597 × 1 0 20",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5.897 × 10 20 5.897 \\times 10^{20} 5.897 × 1 0 20",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "9.857 × 10 20 9.857 \\times 10^{20} 9.857 × 1 0 20",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7.958 × 10 20 7.958 \\times 10^{20} 7.958 × 1 0 20",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8.597 × 10 20 8.597 \\times 10^{20} 8.597 × 1 0 20",
+      "option_b": "5.897 × 10 20 5.897 \\times 10^{20} 5.897 × 1 0 20",
+      "option_c": "9.857 × 10 20 9.857 \\times 10^{20} 9.857 × 1 0 20",
+      "option_d": "7.958 × 10 20 7.958 \\times 10^{20} 7.958 × 1 0 20",
+      "correct": "খ",
+      "explanation": "এখানে, 760   m m H g = 1.01325 × 10 5   P a 760 \\mathrm{~mm} \\mathrm{Hg}=1.01325 \\times 10^{5} \\mathrm{~Pa} 760   mm Hg = 1.01325 × 1 0 5   Pa ∴ 740   m m H g = 1.01325 × 10 5 × 740 760 P a = 98658   P a   T = 30 + 273 = 303   K V = 0.025   L = 0.025 × 10 − 3   m 3  [SI এককে]  \\begin{array}{l} \\therefore 740 \\mathrm{~mm} \\mathrm{Hg}=\\frac{1.01325 \\times 10^{5} \\times 740}{760} \\mathrm{P}_{\\mathrm{a}}=98658 \\mathrm{~Pa} \\\\ \\mathrm{~T}=30+273=303 \\mathrm{~K} \\\\ V=0.025 \\mathrm{~L}=0.025 \\times 10^{-3} \\mathrm{~m}^{3} \\text { [SI এককে] } \\end{array} ∴ 740   mm Hg = 760 1.01325 × 1 0 5 × 740 ​ P a ​ = 98658   Pa   T = 30 + 273 = 303   K V = 0.025   L = 0.025 × 1 0 − 3   m 3  [SI  এককে ]  ​ আমরা জানি, আদর্শ গ্যাসের ক্ষেত্রে মোলসংখ্যা n = P V R T n=\\frac{P V}{R T} n = RT P V ​ = 98658 × 0.025 × 10 − 3 8.314 × 303 = 0.000979 × 6.023 × 10 23 = 5.897 × 10 20 =\\frac{98658 \\times 0.025 \\times 10^{-3}}{8.314 \\times 303}=0.000979×6.023×10^{23}=5.897 \\times 10^{20} = 8.314 × 303 98658 × 0.025 × 1 0 − 3 ​ = 0.000979 × 6.023 × 1 0 23 = 5.897 × 1 0 20 টি অণু।"
+    },
+    {
+      "number": "8",
+      "tag": "FET 22-23",
+      "question": "Which compound forms carbil amine? (কাৰ্বিল অ্যামিন গঠন করে কোন যৌগ?)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যানিলিন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ফেনল",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সেকেন্ডারি অ্যামিন",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অ্যানিলিন",
+      "option_b": "ফেনল",
+      "option_c": "সেকেন্ডারি অ্যামিন",
+      "option_d": "কোনটিই নয়",
+      "correct": "গ",
+      "explanation": "ক্লোরোফরম ও অ্যালকোহলীয় KOH দ্রবণে সাথে প্রাইমারী অ্যামিনকে উত্তপ্ত করলে উগ্র গন্ধযুক্ত আইসো সায়ানাইড বা কার্বিল অ্যামিন তৈরি হয়।"
+    },
+    {
+      "number": "9",
+      "tag": "FET 22-23",
+      "question": "What is the oxidation number of C r \\mathrm{Cr} Cr in [ C r ( H 2 O ) 4 C l 2 ] B r ? \\left[\\mathrm{Cr}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{4} \\mathrm{Cl}_{2}\\right] \\mathrm{Br} ? [ Cr ( H 2 ​ O ) 4 ​ Cl 2 ​ ] Br ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "+2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "+3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "+6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "+2",
+      "option_c": "+3",
+      "option_d": "+6",
+      "correct": "গ",
+      "explanation": "H 2 O , C l \\mathrm{H}_{2} \\mathrm{O}, \\mathrm{Cl} H 2 ​ O , Cl ও B r \\mathrm{Br} Br এর জারণ সংখ্যা যথাক্রমে 0 , − 1 , − 1 0,-1,-1 0 , − 1 , − 1 . ∴ x + 0 × 4 + ( − 1 ) × 2 + ( − 1 ) × 1 = 0 ⇒ x = + 3 \\therefore x+0 \\times 4+(-1) \\times 2+(-1) \\times 1=0 \\Rightarrow x=+3 ∴ x + 0 × 4 + ( − 1 ) × 2 + ( − 1 ) × 1 = 0 ⇒ x = + 3"
+    },
+    {
+      "number": "10",
+      "tag": "FET 22-23",
+      "question": "How much volume of decimolar N a 2 C O 3 \\mathrm{Na}_{2} \\mathrm{CO}_{3} Na 2 ​ CO 3 ​ can be made from 200   c m 3   0.75 M   N a 2 C O 3 200 \\mathrm{~cm}^{3}~0.75M~ \\mathrm{Na}_{2} \\mathrm{CO}_{3} 200   cm 3   0.75 M   Na 2 ​ CO 3 ​ solution?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "150",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1500",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1515",
+          "is_correct": true
+        }
+      ],
+      "option_a": "15",
+      "option_b": "150",
+      "option_c": "1500",
+      "option_d": "1515",
+      "correct": "ঘ",
+      "explanation": "We know, V 1 S 1    =   V_1S_1\\ \\ =\\ V 1 ​ S 1 ​     =   V 2 S 2   V_2S_2\\ V 2 ​ S 2 ​   Or, 200×0.75 = V 2 V_2 V 2 ​ × 0.1 Or, V 2 V_2 V 2 ​ = 200 × 0.75 0.   1 \\frac{200\\times0.75}{0.\\ 1} 0.   1 200 × 0.75 ​ = 1500 C m 3 Cm^3 C m 3"
+    },
+    {
+      "number": "11",
+      "tag": "FET 22-23",
+      "question": "Calculate the pH of 0.1 M CH 3 COOH. The dissociation constant of acetic acid is 1.8 x 10 -5",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.80",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2.17",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3.15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2.87",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.80",
+      "option_b": "2.17",
+      "option_c": "3.15",
+      "option_d": "2.87",
+      "correct": "ক",
+      "explanation": "⇒ [ H + ] = K a × C = 1.8 × 10 − 5 × 0.1 M = 1.3416 × 10 − 3 M \\begin{array}{l} \\Rightarrow\\left[\\mathrm{H}^{+}\\right]=\\sqrt{\\mathrm{K}_{\\mathrm{a}} \\times \\mathrm{C}}=\\sqrt{1.8 \\times 10^{-5} \\times 0.1} \\mathrm{M} \\\\ =1.3416 \\times 10^{-3} \\mathrm{M} \\end{array} ⇒ [ H + ] = K a ​ × C ​ = 1.8 × 1 0 − 5 × 0.1 ​ M = 1.3416 × 1 0 − 3 M ​ ∣ p H = − log ⁡ [ H + ] = − log ⁡ ( 1.3416 × 10 − 3 ) = 2.8723  (Ans.)  \\mid \\begin{array}{l} \\mathrm{pH}=-\\log \\left[\\mathrm{H}^{+}\\right] \\\\ =-\\log \\left(1.3416 \\times 10^{-3}\\right) \\\\ =2.8723 \\text { (Ans.) } \\end{array} ∣ pH = − lo g [ H + ] = − lo g ( 1.3416 × 1 0 − 3 ) = 2.8723  (Ans.)  ​"
+    },
+    {
+      "number": "12",
+      "tag": "FET 22-23",
+      "question": "How many times does the reaction speed increase with every 10 ∘ C 10^{\\circ} \\mathrm{C} 1 0 ∘ C increase in temperature?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 − 3 2-3 2 − 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 − 1 2-1 2 − 1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 − 2 1-2 1 − 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 − 3 1-3 1 − 3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 − 3 2-3 2 − 3",
+      "option_b": "2 − 1 2-1 2 − 1",
+      "option_c": "1 − 2 1-2 1 − 2",
+      "option_d": "1 − 3 1-3 1 − 3",
+      "correct": "খ",
+      "explanation": "তাপমাত্রা প্রতি 10°C বৃদ্ধিতে বিক্রিয়ার গতি 2 − 3 2-3 2 − 3 গুণ বাড়ে।"
+    }
+  ]
+}

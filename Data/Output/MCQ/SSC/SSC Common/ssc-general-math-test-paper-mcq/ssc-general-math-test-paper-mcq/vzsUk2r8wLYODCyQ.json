@@ -1,0 +1,799 @@
+{
+  "read_id": "vzsUk2r8wLYODCyQ",
+  "title": "যশোর বোর্ড ২০২০",
+  "count": 24,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JB 20",
+      "question": "0.99973..... সংখ্যাটির তিন দশমিক স্থান পর্যন্ত আসন্ন মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.99 9 ˙ 0.9{9} \\dot{9} 0.9 9 9 ˙",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0.9 9 ˙ 9 0.9 \\dot{9} {9} 0.9 9 ˙ 9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1.000 1.000 1.000",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0.10 0 ˙ 0.1{0} \\dot{0} 0.1 0 0 ˙",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.99 9 ˙ 0.9{9} \\dot{9} 0.9 9 9 ˙",
+      "option_b": "0.9 9 ˙ 9 0.9 \\dot{9} {9} 0.9 9 ˙ 9",
+      "option_c": "1.000 1.000 1.000",
+      "option_d": "0.10 0 ˙ 0.1{0} \\dot{0} 0.1 0 0 ˙",
+      "correct": "গ",
+      "explanation": "মন্তব্য: যত দশমিক স্থান পর্যন্ত মান বের করতে হবে, তত দশমিক স্থান পর্যন্ত যে সব অঙ্ক থাকবে হুবুহু সে অঙ্কগুলো লিখতে হবে মাত্র। আর যত দশমিক স্থান পর্যন্ত আসন্ন মান বের করতে হবে, তার পরবর্তী স্থানটিতে যদি 5,6,7,8 বা 9 হয়, তবে শেষ স্থানটির অঙ্কের সাথে 1 যোগ করতে হবে। কিন্তু যদি 0, 1, 2, 3 বা 4 হয়, তবে শেষ স্থানটির অঙ্ক যেমন ছিল তেমনই থাকবে, এক্ষেত্রে 'দশমিক স্থান পর্যন্ত মান' এবং 'দশমিক স্থান পর্যন্ত আসন্ন মান' একই। যত দশমিক স্থান পর্যন্ত আসন্ন মান বের করতে বলা হবে, দশমিক বিন্দুর পর তার চেয়েও 1 স্থান বেশি পর্যন্ত দশমিক ভগ্নাংশ বের করতে হবে।"
+    },
+    {
+      "number": "2",
+      "tag": "JB 25,JB 20",
+      "question": "A = { x ∈ N : x 2 < 25 } A=\\left\\{x \\in \\mathbb{N}: x^{2}<25\\right\\} A = { x ∈ N : x 2 < 25 } B = { x ∈ N B=\\left\\{x \\in \\mathbb{N}\\right. B = { x ∈ N : x x x মৌলিক সংখ্যা ও x 2 < 25 } \\left.x^{2}<25\\right\\} x 2 < 25 } C = { x ∈ N : x 2 = 25 } C=\\left\\{x \\in \\mathbb{N}: x^{2}=25\\right\\} C = { x ∈ N : x 2 = 25 } হলে ( A ∩ B ) ∪ C = (A \\cap B) \\cup C= ( A ∩ B ) ∪ C = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ } \\{\\} { }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ 2 , 3 , 5 } \\{2,3,5\\} { 2 , 3 , 5 }",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "{ − 5 , 2 , 3 , 5 } \\{-5,2,3,5\\} { − 5 , 2 , 3 , 5 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 1 , 2 , 3 , 4 , 5 } \\{1,2,3,4,5\\} { 1 , 2 , 3 , 4 , 5 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ } \\{\\} { }",
+      "option_b": "{ 2 , 3 , 5 } \\{2,3,5\\} { 2 , 3 , 5 }",
+      "option_c": "{ − 5 , 2 , 3 , 5 } \\{-5,2,3,5\\} { − 5 , 2 , 3 , 5 }",
+      "option_d": "{ 1 , 2 , 3 , 4 , 5 } \\{1,2,3,4,5\\} { 1 , 2 , 3 , 4 , 5 }",
+      "correct": "খ",
+      "explanation": "A ∩ B = { 1 , 2 , 3 , 4 } ∩ { 2 , 3 } = { 2 , 3 }  এবং  ( A ∩ B ) ∪ C = { 2 , 3 } ∪ { 5 } = { 2 , 3 , 5 } \\begin{array}{l}A \\cap B=\\{1,2,3,4\\} \\cap\\{2,3\\}=\\{2,3\\} \\\\ \\text { এবং }(A \\cap B) \\cup C=\\{2,3\\} \\cup\\{5\\}=\\{2,3,5\\}\\end{array} A ∩ B = { 1 , 2 , 3 , 4 } ∩ { 2 , 3 } = { 2 , 3 }   এবং   ( A ∩ B ) ∪ C = { 2 , 3 } ∪ { 5 } = { 2 , 3 , 5 } ​"
+    },
+    {
+      "number": "3",
+      "tag": "JB 20",
+      "question": "a 2 + 1 − 6 a = 0 \\mathrm{a}^{2}+1-\\sqrt{6} \\mathrm{a}=0 a 2 + 1 − 6 ​ a = 0 হলে a 3 + 1 a 3 \\mathrm{a}^{3}+\\frac{1}{\\mathrm{a}^{3}} a 3 + a 3 1 ​ এর মান কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 3 3 \\sqrt{3} 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 6 3 \\sqrt{6} 3 6 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5 6 5 \\sqrt{6} 5 6 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "3 3 3 \\sqrt{3} 3 3 ​",
+      "option_c": "3 6 3 \\sqrt{6} 3 6 ​",
+      "option_d": "5 6 5 \\sqrt{6} 5 6 ​",
+      "correct": "গ",
+      "explanation": "a 2 + 1 = 6 a ∴ a + 1 a = 6 ∴ a 3 + 1 a 3 = ( a + 1 a ) 3 − 3 a 1 a ( a + 1 a ) = ( 6 ) 3 − 3 6 = 6 6 − 3 6 = 3 6 \\begin{array}{l}a^{2}+1=\\sqrt{6} a \\therefore a+\\frac{1}{a}=\\sqrt{6} \\\\ \\begin{aligned} \\therefore a^{3}+\\frac{1}{a^{3}} & =\\left(a+\\frac{1}{a}\\right)^{3}-3 a \\frac{1}{a}\\left(a+\\frac{1}{a}\\right) \\\\ & =(\\sqrt{6})^{3}-3 \\sqrt{6}=6 \\sqrt{6}-3 \\sqrt{6}=3 \\sqrt{6}\\end{aligned}\\end{array} a 2 + 1 = 6 ​ a ∴ a + a 1 ​ = 6 ​ ∴ a 3 + a 3 1 ​ ​ = ( a + a 1 ​ ) 3 − 3 a a 1 ​ ( a + a 1 ​ ) = ( 6 ​ ) 3 − 3 6 ​ = 6 6 ​ − 3 6 ​ = 3 6 ​ ​ ​"
+    },
+    {
+      "number": "4",
+      "tag": "MB 25,MAD 25,SB 23,CB 22,RB 22,DIN.B 20,JB 20,All.B 18,DIN.B 17,PCC 24,SCC 24,BCC 24,RUMC 24,ACPS 24,RGLHS 24,RCPC 24",
+      "question": "i. log ⁡ 9 3 = 1 2 \\log _{9} 3=\\frac{1}{2} lo g 9 ​ 3 = 2 1 ​ ii: 4 2 x + 1 = 2 4^{2 x+1}=2 4 2 x + 1 = 2 হলে, x = − 1 4 x=-\\frac{1}{4} x = − 4 1 ​ iii. ( 3 − 1 + 6 − 1 ) \\left(3^{-1}+6^{-1}\\right) ( 3 − 1 + 6 − 1 ) এর মান 1 2 \\frac{1}{2} 2 1 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত বিবৃতিগুলি পরীক্ষা করে দেখা যাক: i. log ⁡ 9 3 = 1 2 \\log _{9} 3=\\frac{1}{2} lo g 9 ​ 3 = 2 1 ​ log ⁡ 9 3 = 1 2 ⟹ 9 1 2 = 3 9 1 2 = 9 = 3 \\begin{array}{c} \\log _{9} 3=\\frac{1}{2} \\Longrightarrow 9^{\\frac{1}{2}}=3 \\\\ 9^{\\frac{1}{2}}=\\sqrt{9}=3 \\end{array} lo g 9 ​ 3 = 2 1 ​ ⟹ 9 2 1 ​ = 3 9 2 1 ​ = 9 ​ = 3 ​ অতএব, বিবৃতিতি সঠিক। ii. 4 2 x + 1 = 2 4^{2 x+1}=2 4 2 x + 1 = 2 इलে, x = − 1 4 x=-\\frac{1}{4} x = − 4 1 ​ 4 2 x + 1 = 2 ⟹ ( 2 2 ) 2 x + 1 = 2 1 2 2 ( 2 x + 1 ) = 2 1 ⟹ 2 4 x + 2 = 2 1 4 x + 2 = 1 ⟹ 4 x = − 1 ⟹ x = − 1 4 \\begin{array}{c} 4^{2 x+1}=2 \\Longrightarrow\\left(2^{2}\\right)^{2 x+1}=2^{1} \\\\ 2^{2(2 x+1)}=2^{1} \\Longrightarrow 2^{4 x+2}=2^{1} \\\\ 4 x+2=1 \\Longrightarrow 4 x=-1 \\Longrightarrow x=-\\frac{1}{4} \\end{array} 4 2 x + 1 = 2 ⟹ ( 2 2 ) 2 x + 1 = 2 1 2 2 ( 2 x + 1 ) = 2 1 ⟹ 2 4 x + 2 = 2 1 4 x + 2 = 1 ⟹ 4 x = − 1 ⟹ x = − 4 1 ​ ​ অতএব, বিবৃতিটি সঠিক। iii. ( 3 − 1 + 6 − 1 ) \\left(3^{-1}+6^{-1}\\right) ( 3 − 1 + 6 − 1 ) এর মান 1 2 \\frac{1}{2} 2 1 ​ 3 − 1 = 1 3 , 6 − 1 = 1 6 1 3 + 1 6 = 2 6 + 1 6 = 3 6 = 1 2 \\begin{aligned} 3^{-1} & =\\frac{1}{3}, \\quad 6^{-1}=\\frac{1}{6} \\\\ \\frac{1}{3}+\\frac{1}{6} & =\\frac{2}{6}+\\frac{1}{6}=\\frac{3}{6}=\\frac{1}{2} \\end{aligned} 3 − 1 3 1 ​ + 6 1 ​ ​ = 3 1 ​ , 6 − 1 = 6 1 ​ = 6 2 ​ + 6 1 ​ = 6 3 ​ = 2 1 ​ ​ অতএব, বিবৃতিটি সঠিক। সরলীকরণ: i, ii এবং iii সঠিক"
+    },
+    {
+      "number": "5",
+      "tag": "JB 20",
+      "question": "x চলকের জন্য 4 x 3 − 5 x − 2 + a = 0. 4 \\mathrm{x}^{3}-5 \\mathrm{x}-2+\\mathrm{a}=0. 4 x 3 − 5 x − 2 + a = 0. এ সমীকরণের ধ্রুবপদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a − 2 a-2 a − 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "2",
+      "option_c": "a",
+      "option_d": "a − 2 a-2 a − 2",
+      "correct": "ঘ",
+      "explanation": "এখানে, 4 x 3 − 5 x − 2 + a = 0 ⇒ 4 x 3 − 5 x + a − 2 = 0 ∴  ধ্রুবপদ = a -  2 \\begin{array}{l} 4 x^{3}-5 x-2+a=0 \\\\ \\Rightarrow 4 x^{3}-5 x+a-2=0 \\\\ \\therefore \\text { ধ্রুবপদ = a - } 2 \\end{array} 4 x 3 − 5 x − 2 + a = 0 ⇒ 4 x 3 − 5 x + a − 2 = 0 ∴   ধ্রুবপদ  = a -  2 ​"
+    },
+    {
+      "number": "6",
+      "tag": "JB 20",
+      "question": "3-3+3-3+...... ধারাটির 10 তম পদ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-30",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "30",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-30",
+      "option_b": "-3",
+      "option_c": "3",
+      "option_d": "30",
+      "correct": "খ",
+      "explanation": "3 − 3 + 3 − 3 + … 3-3+3-3+\\ldots 3 − 3 + 3 − 3 + … ১ম পদ, a = 3 সাধারণ অনুপাত, r = − 3 / 3 = − 1 r=-3 / 3=-1 r = − 3/3 = − 1 ∴ n  তম পদ  = a r n − 1 ∴ 10  তম পদ  = 3 × ( − 1 ) 10 − 1 = 3 × ( − 1 ) 9 = − 3 \\begin{array}{l} \\therefore \\mathrm{n} \\text { তম পদ }=a r^{n-1} \\\\ \\therefore 10 \\text { তম পদ }=3 \\times(-1)^{10-1} \\\\ =3 \\times(-1)^{9} \\\\ =-3 \\end{array} ∴ n   তম   পদ   = a r n − 1 ∴ 10   তম   পদ   = 3 × ( − 1 ) 10 − 1 = 3 × ( − 1 ) 9 = − 3 ​"
+    },
+    {
+      "number": "8",
+      "tag": "JB 20,JB 19,CTG.B 17",
+      "question": "a 2 − a − 6 a^{2}-a-6 a 2 − a − 6 এর উৎপাদক বিশ্লেষিত রূপ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( a + 2 ) ( a − 3 ) (a+2)(a-3) ( a + 2 ) ( a − 3 )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "( a − 2 ) ( a − 3 ) (a-2)(a-3) ( a − 2 ) ( a − 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( a − 2 ) ( a + 3 ) (a-2)(a+3) ( a − 2 ) ( a + 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( a + 2 ) ( a + 3 ) (a+2)(a+3) ( a + 2 ) ( a + 3 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( a + 2 ) ( a − 3 ) (a+2)(a-3) ( a + 2 ) ( a − 3 )",
+      "option_b": "( a − 2 ) ( a − 3 ) (a-2)(a-3) ( a − 2 ) ( a − 3 )",
+      "option_c": "( a − 2 ) ( a + 3 ) (a-2)(a+3) ( a − 2 ) ( a + 3 )",
+      "option_d": "( a + 2 ) ( a + 3 ) (a+2)(a+3) ( a + 2 ) ( a + 3 )",
+      "correct": "ক",
+      "explanation": "প্রদত্ত বীজগাণিতিক প্রকাশটি হল a 2 − a − 6 a^2 - a - 6 a 2 − a − 6 । আমাদের কাজ হল এটি উৎপাদক বিশ্লেষণ করা। প্রথমে আমরা a 2 − a − 6 a^2 - a - 6 a 2 − a − 6 কে ( a + p ) ( a + q ) (a+p)(a+q) ( a + p ) ( a + q ) রূপে বিশ্লেষণ করব, যেখানে p + q = − 1 p+q = -1 p + q = − 1 এবং p q = − 6 pq = -6 pq = − 6 । এখন, দুটি সংখ্যার যোগফল হবে − 1 -1 − 1 এবং গুণফল হবে − 6 -6 − 6 । উপযুক্ত p p p এবং q q q খুঁজতে: - p = 2 p = 2 p = 2 এবং q = − 3 q = -3 q = − 3 , কারণ 2 + ( − 3 ) = − 1 2 + (-3) = -1 2 + ( − 3 ) = − 1 এবং 2 × ( − 3 ) = − 6 2 \\times (-3) = -6 2 × ( − 3 ) = − 6 । তাহলে, উৎপাদক বিশ্লেষণ হবে ( a + 2 ) ( a − 3 ) (a+2)(a-3) ( a + 2 ) ( a − 3 ) ।"
+    },
+    {
+      "number": "9",
+      "tag": "MAD 25,CTG.B 20,JB 20,DIN.B 19,JB 19,JB 17,GLHSD 24,CSC 24",
+      "question": "S = { ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 ) } \\mathrm{S}=\\{(\\mathbf{3}, \\mathbf{1}),(\\mathbf{3}, \\mathbf{2}),(4,2)\\} S = {( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 )} অন্বয়ের রেঞ্জ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ 1 , 2 } \\{1,2\\} { 1 , 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "{ 3 , 4 } \\{3,4\\} { 3 , 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 1 , 2 ) (1,2) ( 1 , 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 3 , 4 ) (3,4) ( 3 , 4 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ 1 , 2 } \\{1,2\\} { 1 , 2 }",
+      "option_b": "{ 3 , 4 } \\{3,4\\} { 3 , 4 }",
+      "option_c": "( 1 , 2 ) (1,2) ( 1 , 2 )",
+      "option_d": "( 3 , 4 ) (3,4) ( 3 , 4 )",
+      "correct": "ক",
+      "explanation": "S = { ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 ) } \\mathrm{S}=\\{(3,1),(3,2),(4,2)\\} S = {( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 )} অন্বয়ের রেঞ্জ নির্ণয় করতে হলে, আমাদের অন্বয়ের দ্বিতীয় উপাদানগুলি (যেগুলি হল y y y -মান) চিহ্নিত করতে হবে। অন্বয় S এর উপাদানগুলি হল: ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 ) (3,1), \\quad(3,2), \\quad(4,2) ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 2 ) এখানে দ্বিতীয় উপাদানগুলি হল 1 , 2 , 2 1,2,2 1 , 2 , 2 । রেঞ্জ হল অন্বয়ের দ্বিতীয় উপাদানগুলির সেঁট, অর্থাৎ { 1 , 2 } \\{1,2\\} { 1 , 2 } । অতএব, S অন্বয়ের রেঞ্জ হল: { 1 , 2 } \\{1,2\\} { 1 , 2 }"
+    },
+    {
+      "number": "10",
+      "tag": "JB 20,DIN.B 19",
+      "question": "নিচের কোনটি অভেদ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( x + 2 ) 2 + ( x − 2 ) 2 = 2 x 2 + 8 (x+2)^{2}+(x-2)^{2}=2 x^{2}+8 ( x + 2 ) 2 + ( x − 2 ) 2 = 2 x 2 + 8",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "( x + y ) 2 + ( x − y ) 2 = 4 x y (x+y)^{2}+(x-y)^{2}=4 x y ( x + y ) 2 + ( x − y ) 2 = 4 x y",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( x + y ) 2 − ( x − y ) 2 = 2 ( x 2 + y 2 ) (x+y)^{2}-(x-y)^{2}=2\\left(x^{2}+y^{2}\\right) ( x + y ) 2 − ( x − y ) 2 = 2 ( x 2 + y 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( x + 4 ) 2 + ( x − 4 ) 2 = 2 x 2 + 16 (x+4)^{2}+(x-4)^{2}=2 x^{2}+16 ( x + 4 ) 2 + ( x − 4 ) 2 = 2 x 2 + 16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( x + 2 ) 2 + ( x − 2 ) 2 = 2 x 2 + 8 (x+2)^{2}+(x-2)^{2}=2 x^{2}+8 ( x + 2 ) 2 + ( x − 2 ) 2 = 2 x 2 + 8",
+      "option_b": "( x + y ) 2 + ( x − y ) 2 = 4 x y (x+y)^{2}+(x-y)^{2}=4 x y ( x + y ) 2 + ( x − y ) 2 = 4 x y",
+      "option_c": "( x + y ) 2 − ( x − y ) 2 = 2 ( x 2 + y 2 ) (x+y)^{2}-(x-y)^{2}=2\\left(x^{2}+y^{2}\\right) ( x + y ) 2 − ( x − y ) 2 = 2 ( x 2 + y 2 )",
+      "option_d": "( x + 4 ) 2 + ( x − 4 ) 2 = 2 x 2 + 16 (x+4)^{2}+(x-4)^{2}=2 x^{2}+16 ( x + 4 ) 2 + ( x − 4 ) 2 = 2 x 2 + 16",
+      "correct": "ক",
+      "explanation": "( x + 2 ) 2 + ( x − 2 ) 2 = ( x 2 + 4 x + 4 ) + ( x 2 − 4 x + 4 ) = 2 x 2 + 8 (x + 2)^2 + (x - 2)^2 = (x^2 + 4x + 4) + (x^2 - 4x + 4) = 2x^2 + 8 ( x + 2 ) 2 + ( x − 2 ) 2 = ( x 2 + 4 x + 4 ) + ( x 2 − 4 x + 4 ) = 2 x 2 + 8 ডানপক্ষ 2 x 2 + 8 → 2x^2 + 8 \\rightarrow 2 x 2 + 8 → সত্য (অভেদ)"
+    },
+    {
+      "number": "11",
+      "tag": "JB 25,JB 20",
+      "question": "একটি বর্গের পরিসীমা একক হলে এর ক্ষেত্রফল নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a 2 9 \\frac{a^{2}}{9} 9 a 2 ​ বর্গএকক",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "a 2 36 \\frac{a^{2}}{36} 36 a 2 ​ বর্গএকক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a 2 144 \\frac{a^{2}}{144} 144 a 2 ​ বর্গএকক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a 2 256 \\frac{a^{2}}{256} 256 a 2 ​ বর্গএকক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a 2 9 \\frac{a^{2}}{9} 9 a 2 ​ বর্গএকক",
+      "option_b": "a 2 36 \\frac{a^{2}}{36} 36 a 2 ​ বর্গএকক",
+      "option_c": "a 2 144 \\frac{a^{2}}{144} 144 a 2 ​ বর্গএকক",
+      "option_d": "a 2 256 \\frac{a^{2}}{256} 256 a 2 ​ বর্গএকক",
+      "correct": "ক",
+      "explanation": "বর্গের পরিসীমা, 4 x = a 3 4 x=\\frac{a}{3} 4 x = 3 a ​ একক ⇒ x = a 12 \\Rightarrow x=\\frac{a}{12} ⇒ x = 12 a ​ ∴ \\therefore ∴ ক্ষেত্রফল = x 2 = ( a 12 ) 2 = a 2 144 =x^{2}=\\left(\\frac{a}{12}\\right)^{2}=\\frac{a^{2}}{144} = x 2 = ( 12 a ​ ) 2 = 144 a 2 ​ বর্গএকক"
+    },
+    {
+      "number": "12",
+      "tag": "JB 20",
+      "question": "j, k, l ও m ক্রমিক সমানুপাতী হলে- i. j k = l   m \\frac{j}{\\mathrm{k}}=\\frac{l}{\\mathrm{~m}} k j ​ =   m l ​ ii. j k = k l \\frac{\\mathrm{j}}{\\mathrm{k}}=\\frac{\\mathrm{k}}{{l}} k j ​ = l k ​ iii. k l = l   m \\frac{\\mathrm{k}}{l}=\\frac{l}{\\mathrm{~m}} l k ​ =   m l ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i , ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i , ii ও iii",
+      "correct": "গ",
+      "explanation": "j , k , l , m j, k, l, m j , k , l , m ক্রমিক সমানুপাতী হলে, j k = k l = l m \\frac{j}{k}=\\frac{k}{l}=\\frac{l}{m} k j ​ = l k ​ = m l ​ তাহলে, (i) j k = l m \\frac{j}{k}=\\frac{l}{m} k j ​ = m l ​ (ii) j k = k l \\frac{j}{k}=\\frac{k}{l} k j ​ = l k ​ (iii) k l = l m \\frac{k}{l}=\\frac{l}{m} l k ​ = m l ​"
+    },
+    {
+      "number": "14",
+      "tag": "CB 22,JB 20,RCPC 24",
+      "question": "স্থূলকোণী ত্রিভুজের স্থূলকোণ ছাড়া বাকি কোণ দুইটি কত হলে ত্রিভুজ অঙ্কন সম্ভব?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘ ও 60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘ ও 45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "40 ∘ 40^{\\circ} 4 0 ∘ ও 50 ∘ 50^{\\circ} 5 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "50 ∘ 50^{\\circ} 5 0 ∘ ও 30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘ ও 60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_b": "45 ∘ 45^{\\circ} 4 5 ∘ ও 45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_c": "40 ∘ 40^{\\circ} 4 0 ∘ ও 50 ∘ 50^{\\circ} 5 0 ∘",
+      "option_d": "50 ∘ 50^{\\circ} 5 0 ∘ ও 30 ∘ 30^{\\circ} 3 0 ∘",
+      "correct": "ঘ",
+      "explanation": "স্থূলকোণী ত্রিভুজের স্থূলকোণ ব্যতীত অপুর দুই কোণের সমষ্টি এক সমকোণ হতে ক্ষুদ্র হলে স্থূলকোণী ত্রিভুজটা অংকন করা সম্ভব। এখানে,30+50<90 সঠিক উত্তর (ঘ)"
+    },
+    {
+      "number": "15",
+      "tag": "JB 20",
+      "question": "চিত্রে 0 বৃত্তের কেন্দ্র। ∠ Q R S = \\angle \\mathrm{QRS}= ∠ QRS = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "135 ∘ 135^{\\circ} 13 5 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_c": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_d": "135 ∘ 135^{\\circ} 13 5 ∘",
+      "correct": "ঘ",
+      "explanation": "2 x + 60 ∘ = 2.3 x 2 x+60^{\\circ}=2.3 x 2 x + 6 0 ∘ = 2.3 x বা , 6 x − 2 x = 60 ∘ 6 x-2 x=60^{\\circ} 6 x − 2 x = 6 0 ∘ বা , 4 x = 60 ∘ ∴ x = 15 ∘ 4 x=60^{\\circ} \\therefore x=15^{\\circ} 4 x = 6 0 ∘ ∴ x = 1 5 ∘ ∠ Q R S = 180 ∘ − ∠ Q P S = 180 ∘ − 3 × 15 ∘ = 135 ∘ \\angle \\mathrm{QRS}=180^{\\circ}-\\angle \\mathrm{QPS}=180^{\\circ}-3 \\times 15^{\\circ}=135^{\\circ} ∠ QRS = 18 0 ∘ − ∠ QPS = 18 0 ∘ − 3 × 1 5 ∘ = 13 5 ∘"
+    },
+    {
+      "number": "16",
+      "tag": "JB 20",
+      "question": "চিত্রে O বৃত্তের কেন্দ্র। ∠ P S R = 90 ∘  হলে  F , ∠ Q R S + ∠ P Q R =  কত?  \\begin{array}{l} \\angle \\mathrm{PSR}=90 \\mathrm{}^{\\circ} \\text { হলে } \\mathrm{F}, \\angle \\mathrm{QRS}+\\angle \\mathrm{PQR}=\\text { কত? } \\end{array} ∠ PSR = 90 ∘   হলে   F , ∠ QRS + ∠ PQR =   কত ?  ​",
+      "options": [
+        {
+          "label": "ক",
+          "text": "100 ∘ 100^{\\circ} 10 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "135 ∘ 135^{\\circ} 13 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "180 ∘ 180^{\\circ} 18 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "225 ∘ 225^{\\circ} 22 5 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "100 ∘ 100^{\\circ} 10 0 ∘",
+      "option_b": "135 ∘ 135^{\\circ} 13 5 ∘",
+      "option_c": "180 ∘ 180^{\\circ} 18 0 ∘",
+      "option_d": "225 ∘ 225^{\\circ} 22 5 ∘",
+      "correct": "ঘ",
+      "explanation": "∠ P Q R = 180 ∘ − ∠ P S R = 180 ∘ − 90 ∘ = 90 ∘ ∴ ∠ P Q R + ∠ Q R S = 90 ∘ + 135 ∘ = 225 ∘ \\begin{array}{l}\\angle \\mathrm{PQR}=180^{\\circ}-\\angle \\mathrm{PSR}=180^{\\circ}-90^{\\circ}=90^{\\circ} \\\\ \\therefore \\angle \\mathrm{PQR}+\\angle \\mathrm{QRS}=90^{\\circ}+135^{\\circ}=225^{\\circ}\\end{array} ∠ PQR = 18 0 ∘ − ∠ PSR = 18 0 ∘ − 9 0 ∘ = 9 0 ∘ ∴ ∠ PQR + ∠ QRS = 9 0 ∘ + 13 5 ∘ = 22 5 ∘ ​"
+    },
+    {
+      "number": "18",
+      "tag": "DIN.B 24,JB 20",
+      "question": "কোনো দণ্ডের ছায়ার দৈর্ঘ্য তার দৈর্ঘ্যের কতগুণ হলে উন্নতি কোণ 30 ∘ 30^{\\circ} 3 0 ∘ হবে ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_b": "1 2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​",
+      "option_c": "2 \\sqrt{2} 2 ​",
+      "option_d": "3 \\sqrt{3} 3 ​",
+      "correct": "ঘ",
+      "explanation": "ধরি, দন্ডের দৈর্ঘ্য = h এবং ছায়ার দৈর্য্য x উন্নতি কোণ, θ = 30 ∘ \\theta=30^{\\circ} θ = 3 0 ∘ হলে, h x = tan ⁡ 30 ∘ = 1 3 ∴ x = 3 × h \\begin{aligned} & \\frac{h}{x}=\\tan 30^{\\circ}=\\frac{1}{\\sqrt{3}} \\\\ \\therefore x & =\\sqrt{3} \\times h \\end{aligned} ∴ x ​ x h ​ = tan 3 0 ∘ = 3 ​ 1 ​ = 3 ​ × h ​"
+    },
+    {
+      "number": "19",
+      "tag": "DC 25,MB 25,RB 25,CB 25,DIN.B 25,MAD 25,DB 24,CB 24,DIN.B 24,MB 24,CTG.B 24,DB 24,BB 24,DB 23,SB 23,CB 23,RB 23,DB 22,CB 22,DIN.B 22,RB 22,DB 20,CB 20,SB 20,JB 20,BB 20,RB 19,CB 19,DIN.B 19,BB 19,All.B 18,DB 17,DIN.B 17,CB 17,CTG.B 17,JB 17,SB 17,BB 17,MCC 24,FCC 24,FGCC 24,RCC 24,PCC 24,CCC 24,RUMC 24,BCC 24,RUMC 24,GLHSD 24,BAFSC 24,ACPS 24,CSC 24,MCPSC 24,RCPC 24",
+      "question": "x + 1 x = 5  হলে  − x+\\frac{1}{x}=5 \\text { হলে }- x + x 1 ​ = 5   হলে   − i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ ii. x 3 + 1 x 3 = 110 \\mathrm{x}^{3}+\\frac{1}{\\mathrm{x}^{3}}=110 x 3 + x 3 1 ​ = 110 iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত সমীকরণ: x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 ধাপ 1: x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ এর মান নির্ণয় প্রথমে x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ গর মান বের করব। আমরা জানি: ( x + 1 x ) 2 = x 2 + 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 + 2 + 1 x 2 \\left(x+\\frac{1}{x}\\right)^{2}=x^{2}+2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}+2+\\frac{1}{x^{2}} ( x + x 1 ​ ) 2 = x 2 + 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 + 2 + x 2 1 ​ অতএব: x 2 + 1 x 2 = ( x + 1 x ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 x^{2}+\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)^{2}-2=5^{2}-2=25-2=23 x 2 + x 2 1 ​ = ( x + x 1 ​ ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 ধাপ 2: x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান नির্ণয় x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান নির্ণয় করতে হলে: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right) x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) এখানে x − 1 x x-\\frac{1}{x} x − x 1 ​ এর মান নির্ণয় করতে হবে। আমরা জানি: ( x − 1 x ) 2 = x 2 − 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 − 2 + 1 x 2 \\left(x-\\frac{1}{x}\\right)^{2}=x^{2}-2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}-2+\\frac{1}{x^{2}} ( x − x 1 ​ ) 2 = x 2 − 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 − 2 + x 2 1 ​ অতএব: ( x − 1 x ) 2 = x 2 + 1 x 2 − 2 = 23 − 2 = 21 x − 1 x = 21 \\begin{aligned} \\left(x-\\frac{1}{x}\\right)^{2}= & x^{2}+\\frac{1}{x^{2}}-2=23-2=21 \\\\ & x-\\frac{1}{x}=\\sqrt{21} \\end{aligned} ( x − x 1 ​ ) 2 = ​ x 2 + x 2 1 ​ − 2 = 23 − 2 = 21 x − x 1 ​ = 21 ​ ​ অতএব: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) = 5 × 21 = 5 21 x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right)=5 \\times \\sqrt{21}=5 \\sqrt{21} x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) = 5 × 21 ​ = 5 21 ​ x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় করতে হলে: x 3 + 1 x 3 = ( x + 1 x ) 3 − 3 ⋅ x ⋅ 1 x ( x + 1 x ) x^{3}+\\frac{1}{x^{3}}=\\left(x+\\frac{1}{x}\\right)^{3}-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right) x 3 + x 3 1 ​ = ( x + x 1 ​ ) 3 − 3 ⋅ x ⋅ x 1 ​ ( x + x 1 ​ ) অতএব: x 3 + 1 x 3 = 5 3 − 3 × 5 = 125 − 15 = 110 x^{3}+\\frac{1}{x^{3}}=5^{3}-3 \\times 5=125-15=110 x 3 + x 3 1 ​ = 5 3 − 3 × 5 = 125 − 15 = 110 x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 এর সত্যতা যাচাই প্রদত্ত সমীকরণ x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 কে x x x দ্বারা গুণ করে পাই: x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 \\begin{array}{c} x^{2}+1=5 x \\\\ x^{2}-5 x+1=0 \\end{array} x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 ​ অত,এব, x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক। উত্তর: i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ সঠিক ii. x 3 + 1 x 3 = 110 x^{3}+\\frac{1}{x^{3}}=110 x 3 + x 3 1 ​ = 110 সঠিক iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক অত,এব, i, ii, এবং iii সবগুলি সঠিক।"
+    },
+    {
+      "number": "20",
+      "tag": "JB 20",
+      "question": "চিত্রে , D E ∥ Q R \\mathrm{DE} \\| \\mathrm{QR} DE ∥ QR এবং Q R = 6.5 \\mathrm{QR}=6.5 QR = 6.5 সে. মি। ∠ P D E =  কত?  \\angle \\mathrm{PDE}=\\text { কত? } ∠ PDE =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "55 ∘ 55^{\\circ} 5 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "65 ∘ 65^{\\circ} 6 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "70 ∘ 70^{\\circ} 7 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "55 ∘ 55^{\\circ} 5 5 ∘",
+      "option_b": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_c": "65 ∘ 65^{\\circ} 6 5 ∘",
+      "option_d": "70 ∘ 70^{\\circ} 7 0 ∘",
+      "correct": "ঘ",
+      "explanation": "∠ P Q R = 180 ∘ − 55 ∘ − 60 ∘ = 65 ∘ ∠ P D E =  অনুরূপ  ∠ P Q R = 65 ∘ \\begin{array}{l}\\angle \\mathrm{PQR}=180^{\\circ}-55^{\\circ}-60^{\\circ}=65^{\\circ} \\\\ \\angle \\mathrm{PDE}=\\text { অনুরূপ } \\angle \\mathrm{PQR}=65^{\\circ}\\end{array} ∠ PQR = 18 0 ∘ − 5 5 ∘ − 6 0 ∘ = 6 5 ∘ ∠ PDE =   অনুরূপ   ∠ PQR = 6 5 ∘ ​"
+    },
+    {
+      "number": "21",
+      "tag": "JB 20",
+      "question": "চিত্রে , D E ∥ Q R \\mathrm{DE} \\| \\mathrm{QR} DE ∥ QR এবং Q R = 6.5 \\mathrm{QR}=6.5 QR = 6.5 সে. মি। D E = \\mathrm{DE}= DE = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.6 সে. মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 সে. মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2.6 সে. মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 সে. মি.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1.6 সে. মি.",
+      "option_b": "2 সে. মি.",
+      "option_c": "2.6 সে. মি.",
+      "option_d": "3 সে. মি.",
+      "correct": "ঘ",
+      "explanation": "P D P Q = D E Q R [ △ P D E \\frac{\\mathrm{PD}}{\\mathrm{PQ}}=\\frac{\\mathrm{DE}}{\\mathrm{QR}}[\\triangle \\mathrm{PDE} PQ PD ​ = QR DE ​ [ △ PDE ও △ P Q R \\triangle \\mathrm{PQR} △ PQR সদৃশ ] ] ] বা , D E = P D . Q R P Q = 2 × 6.5 2 + 3 = 2.6 \\mathrm{DE}=\\frac{\\mathrm{PD} . \\mathrm{QR}}{\\mathrm{PQ}}=\\frac{2 \\times 6.5}{2+3}=2.6 DE = PQ PD . QR ​ = 2 + 3 2 × 6.5 ​ = 2.6 সে. মি."
+    },
+    {
+      "number": "23",
+      "tag": "DB 22,JB 20,BCPC 24",
+      "question": "13 , 17 , 14 , 11 , 9 , 14 13,17,14,11,9,14 13 , 17 , 14 , 11 , 9 , 14 সংখ্যাগুলোর মধ্যক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "13.5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12.5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "14",
+          "is_correct": false
+        }
+      ],
+      "option_a": "13.5",
+      "option_b": "13",
+      "option_c": "12.5",
+      "option_d": "14",
+      "correct": "গ",
+      "explanation": "প্রথমে সংখ্যাগুলোকে ছোট থেকে বড় ক্রমে সাজাতে হবে: 9 , 11 , 13 , 14 , 14 , 17 9, 11, 13, 14, 14, 17 9 , 11 , 13 , 14 , 14 , 17 এক্ষেত্রে সংখ্যা ৬টি, যা একটি সমসংখ্যক (even number) সেট। মধ্যক বের করতে হলে সেটের মাঝখানে থাকা দুইটি সংখ্যার গড় বের করতে হবে। মাঝখানের দুইটি সংখ্যা হল 13 13 13 এবং 14 14 14 । মধ্যক গণনা করতে, প্রথমে এই দুটি সংখ্যার গড় বের করতে হবে: মধ্যক = 13 + 14 2 = 27 2 = 13.5 \\text{মধ্যক} = \\frac{13 + 14}{2} = \\frac{27}{2} = 13.5 মধ্যক = 2 13 + 14 ​ = 2 27 ​ = 13.5 সুতরাং, সংখ্যাগুলোর মধ্যক হল 13.5 13.5 13.5 । সঠিক উত্তর: 13.5"
+    },
+    {
+      "number": "24",
+      "tag": "JB 20",
+      "question": "∆ABC এ, AB = AC হলে, এর প্রতিসাম্য রেখা কতটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1টি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 টি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 টি",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4 টি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1টি",
+      "option_b": "2 টি",
+      "option_c": "3 টি",
+      "option_d": "4 টি",
+      "correct": "গ",
+      "explanation": "সমদ্বিবাহু ত্রিভুজের প্রতিসাম্য রেখা একটি"
+    },
+    {
+      "number": "25",
+      "tag": "JB 20",
+      "question": "কোনো বর্গে অন্তবৃত্ত আঁকতে কয়টি ধাপ অনুসরণ করতে হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2টি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3টি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 টি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 টি",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2টি",
+      "option_b": "3টি",
+      "option_c": "4 টি",
+      "option_d": "5 টি",
+      "correct": "ক",
+      "explanation": "কোনো বর্গের অনুবৃত্ত আঁকতে ৩টি ধাপ অনুসরণ করতে হয়।"
+    },
+    {
+      "number": "26",
+      "tag": "JB 20",
+      "question": "চিত্রে, আয়তক্ষেত্রটির গাঢ় চিহ্ন অংশের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28.27 বর্গ সে. মি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "31.73 বর্গ সে. মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "33.27 বর্গ সে. মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "60 বর্গ সে. মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "28.27 বর্গ সে. মি",
+      "option_b": "31.73 বর্গ সে. মি.",
+      "option_c": "33.27 বর্গ সে. মি.",
+      "option_d": "60 বর্গ সে. মি.",
+      "correct": "ক",
+      "explanation": "চিত্রানুসারে বৃত্তের ব্যাসার্ধ = 6 2 = 3 =\\frac{6}{2}=3 = 2 6 ​ = 3 সে. মি. ∴ \\therefore ∴ গাঢ় চিহ্ন অংশের ক্ষেত্রেফল = 10 × 6 − 3.1416 × 3 2 =10 \\times 6-3.1416 \\times 3^{2} = 10 × 6 − 3.1416 × 3 2 = 60 − 28.27 = 31.73 =60-28.27=31.73 = 60 − 28.27 = 31.73 বর্গ সে. মি.।"
+    },
+    {
+      "number": "",
+      "tag": "JB 20",
+      "question": "শ্রেণি 10-14 15-19 20-24 25-29 গণসংখ্যা 5 6 7 2 প্রদত্ত সারণির মধ্যক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "19.17",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "19.71",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "20.17",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "20.71",
+          "is_correct": false
+        }
+      ],
+      "option_a": "19.17",
+      "option_b": "19.71",
+      "option_c": "20.17",
+      "option_d": "20.71",
+      "correct": "খ",
+      "explanation": "ক্রমযোজিত গণসংখ্যা সারণি : শ্রেণি 10-14 15-19 20-24 25-29 গণসংখ্যা 5 6 7 2 ক্রমযোজিত গণসংখ্যা 5 11 18 20 এখানে, n = 20 \\mathrm{n}=20 n = 20 এবং n 2 = 20 2 = 10 \\frac{\\mathrm{n}}{2}=\\frac{20}{2}=10 2 n ​ = 2 20 ​ = 10 তম পদের মান। অতএব, 10 তম পদের মান (15–19) শ্রেণিতে অবস্থিত। সুতরাং, মধ্যক শ্রেণি (15 – 19)। ∴  মধ্যক  = L + ( n 2 − F c ) × h f m = 15 + ( 20 2 − 5 ) × 5 6 = 15 + ( 10 − 5 ) × 5 6 = 15 + 25 6 = 19.17 \\begin{aligned} \\therefore \\text { মধ্যক } & =\\mathrm{L}+\\left(\\frac{\\mathrm{n}}{2}-\\mathrm{F}_{\\mathrm{c}}\\right) \\times \\frac{\\mathrm{h}}{f_{\\mathrm{m}}} \\\\ & =15+\\left(\\frac{20}{2}-5\\right) \\times \\frac{5}{6} \\\\ & =15+(10-5) \\times \\frac{5}{6}=15+\\frac{25}{6}=19.17 \\end{aligned} ∴   মধ্যক   ​ = L + ( 2 n ​ − F c ​ ) × f m ​ h ​ = 15 + ( 2 20 ​ − 5 ) × 6 5 ​ = 15 + ( 10 − 5 ) × 6 5 ​ = 15 + 6 25 ​ = 19.17 ​"
+    },
+    {
+      "number": "28",
+      "tag": "CB 24,DIN.B 24,DIN.B 23,JB 20,DB 19,DIN.B 17",
+      "question": "সমবাহু ত্রিভুজের বহিঃস্থ কোণের বিপরীত অন্তঃস্থ কোণদ্বয়ের সমষ্টি কত ডিগ্রি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "60°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "90°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "120°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "180°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "60°",
+      "option_b": "90°",
+      "option_c": "120°",
+      "option_d": "180°",
+      "correct": "খ",
+      "explanation": "সমবাহু ত্রিভুজের প্রতিটি অন্তঃস্থ কোণ 60 ডিগ্রি। একটি বহিঃস্থ কোণ হল 180 ডিগ্রি থেকে অন্তঃস্থ কোণ বিয়োগ করে পাওয়া কোণ। অর্থাৎ, একটি বহিঃস্থ কোণ = 180° - 60° = 120°। বহিঃস্থ কোণটি ত্রিভুজের একটি ভিন্ন ভিন্ন দুটি অন্তঃস্থ কোণের বিপরীত হয়, যা প্রত্যেকটি 60 ডিগ্রি। এই দুটি কোণের সমষ্টি = 60° + 60° = 120°। অতএব, সমবাহু ত্রিভুজের বহিঃস্থ কোণের বিপরীত অন্তঃস্থ কোণদ্বয়ের সমষ্টি 120 ডিগ্রি।"
+    }
+  ]
+}

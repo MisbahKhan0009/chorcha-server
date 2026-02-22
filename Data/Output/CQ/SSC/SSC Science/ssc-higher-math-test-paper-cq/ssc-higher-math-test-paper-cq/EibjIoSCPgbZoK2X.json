@@ -1,0 +1,160 @@
+{
+  "title": "ফেনী গার্লস ক্যাডেট কলেজ ২০২৫",
+  "subtitle": "সংক্ষিপ্ত-উত্তর প্রশ্ন (7)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "( x 2 − y z ) : a = ( y 2 − z x ) : b = ( z 2 − x y ) : c = β ≠ 0 (x^2-yz): a = (y^2-zx): b = (z^2-xy): c = \\beta \\neq 0 ( x 2 − yz ) : a = ( y 2 − z x ) : b = ( z 2 − x y ) : c = β  = 0 এবং Q = ∑ 2 n 1 + x 2 ; n ∈ N Q = \\sum \\frac{2^n}{1+x^2} ; n \\in \\mathbb{N} Q = ∑ 1 + x 2 2 n ​ ; n ∈ N",
+      "tag": "FGCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "7 ( k + x 3 ) ( d − x 2 3 ) 7 \\left( k + \\frac{x}{3} \\right) \\left( d - \\frac{x^2}{3} \\right) 7 ( k + 3 x ​ ) ( d − 3 x 2 ​ ) বহুপদীর মুখ্য সহগ কত?",
+          "explanation": "প্রদত্ত বহুপদী = 7 ( k + x 3 ) ( d − x 2 3 ) = ( 7 k + 7 x 3 ) ( d − x 2 3 ) = 7 \\left( k+\\frac{x}{3} \\right) \\left( d-\\frac{x^2}{3} \\right) = \\left( 7k+\\frac{7x}{3} \\right) \\left( d-\\frac{x^2}{3} \\right) = 7 ( k + 3 x ​ ) ( d − 3 x 2 ​ ) = ( 7 k + 3 7 x ​ ) ( d − 3 x 2 ​ ) = 7 k d − 7 k x 2 3 + 7 d x 3 − 7 x 3 9 = − 7 x 3 9 − 7 k x 2 3 + 7 d x 3 + 7 k d = 7kd - \\frac{7kx^2}{3} + \\frac{7dx}{3} - \\frac{7x^3}{9} = -\\frac{7x^3}{9} - \\frac{7kx^2}{3} + \\frac{7dx}{3} + 7kd = 7 k d − 3 7 k x 2 ​ + 3 7 d x ​ − 9 7 x 3 ​ = − 9 7 x 3 ​ − 3 7 k x 2 ​ + 3 7 d x ​ + 7 k d ∴ \\therefore ∴ বহুপদীটির মুখ্য সহগ = − 7 9 = -\\frac{7}{9} = − 9 7 ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "দেখাও যে, ( a + b + c ) = ( a x + b y + c z ) : ( x + y + z ) (a+b+c) = (ax+by+cz): (x+y+z) ( a + b + c ) = ( a x + b y + cz ) : ( x + y + z ) .",
+          "explanation": "দেওয়া আছে, ( x 2 − y z ) : a = ( y 2 − z x ) : b = ( z 2 − x y ) : c = β (x^2-yz) : a = (y^2-zx) : b = (z^2-xy) : c = \\beta ( x 2 − yz ) : a = ( y 2 − z x ) : b = ( z 2 − x y ) : c = β বা, x 2 − y z a = y 2 − z x b = z 2 − x y c = β \\frac{x^2-yz}{a} = \\frac{y^2-zx}{b} = \\frac{z^2-xy}{c} = \\beta a x 2 − yz ​ = b y 2 − z x ​ = c z 2 − x y ​ = β ∴ x 2 − y z = a β … … … ( i ) \\therefore x^2-yz = a\\beta \\ldots \\ldots \\ldots (i) ∴ x 2 − yz = a β ……… ( i ) y 2 − z x = b β … … … ( i i ) y^2-zx = b\\beta \\ldots \\ldots \\ldots (ii) y 2 − z x = b β ……… ( ii ) এবং z 2 − x y = c β … … … ( i i i ) z^2-xy = c\\beta \\ldots \\ldots \\ldots (iii) z 2 − x y = c β ……… ( iii ) ( i ) (i) ( i ) , ( i i ) (ii) ( ii ) ও ( i i i ) (iii) ( iii ) নং যোগ করে পাই, x 2 + y 2 + z 2 − x y − y z − z x = β ( a + b + c ) x^2+y^2+z^2-xy-yz-zx = \\beta(a+b+c) x 2 + y 2 + z 2 − x y − yz − z x = β ( a + b + c ) বা, β ( a + b + c ) ( x + y + z ) = ( x + y + z ) ( x 2 + y 2 + z 2 − x y − y z − z x ) \\beta(a+b+c)(x+y+z) = (x+y+z)(x^2+y^2+z^2-xy-yz-zx) β ( a + b + c ) ( x + y + z ) = ( x + y + z ) ( x 2 + y 2 + z 2 − x y − yz − z x ) বা, β ( a + b + c ) ( x + y + z ) = x 3 + y 3 + z 3 − 3 x y z \\beta(a+b+c)(x+y+z) = x^3+y^3+z^3-3xyz β ( a + b + c ) ( x + y + z ) = x 3 + y 3 + z 3 − 3 x yz বা, β ( a + b + c ) ( x + y + z ) = x 3 − x y z + y 3 − x y z + z 3 − x y z . \\beta(a+b+c)(x+y+z) = x^3-xyz+y^3-xyz+z^3-xyz. β ( a + b + c ) ( x + y + z ) = x 3 − x yz + y 3 − x yz + z 3 − x yz . বা, β ( a + b + c ) ( x + y + z ) = x ( x 2 − y z ) + y ( y 2 − z x ) + z ( z 2 − x y ) \\beta(a+b+c)(x+y+z) = x(x^2-yz)+y(y^2-zx)+z(z^2-xy) β ( a + b + c ) ( x + y + z ) = x ( x 2 − yz ) + y ( y 2 − z x ) + z ( z 2 − x y ) বা, β ( a + b + c ) ( x + y + z ) = x . a β + y . b β + z . c β \\beta(a+b+c) (x+y+z) = x.a\\beta+y.b\\beta+ z.c\\beta β ( a + b + c ) ( x + y + z ) = x . a β + y . b β + z . c β [মান বসিয়ে] বা, β ( a + b + c ) ( x + y + z ) = β ( a x + b y + c z ) \\beta(a + b + c) (x+y+z) = \\beta(ax + by + cz) β ( a + b + c ) ( x + y + z ) = β ( a x + b y + cz ) বা, ( a + b + c ) ( x + y + z ) = a x + b y + c z (a+b+c) (x+y+z)=ax+by+cz ( a + b + c ) ( x + y + z ) = a x + b y + cz ∴ ( a + b + c ) = ( a x + b y + c z ) : ( x + y + z ) \\therefore (a+b+c) = (ax + by + cz): (x + y + z) ∴ ( a + b + c ) = ( a x + b y + cz ) : ( x + y + z ) (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "যদি n = 0 n=0 n = 0 হতে n = 3 n=3 n = 3 হয়, তবে Q + 16 x 16 − 1 Q + \\frac{16}{x^{16}-1} Q + x 16 − 1 16 ​ রাশিটির সরল মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, Q = ∑ 2 n 1 + x 2 n ; n ∈ N Q = \\sum \\frac{2^n}{1 + x^{2^n}}; n \\in \\mathbb{N} Q = ∑ 1 + x 2 n 2 n ​ ; n ∈ N n = 0 n = 0 n = 0 হতে n = 3 n = 3 n = 3 বসিয়ে পাই, Q = 2 0 1 + x 2 0 + 2 1 1 + x 2 1 + 2 2 1 + x 2 2 + 2 3 1 + x 2 3 Q = \\frac{2^0}{1 + x^{2^0}} + \\frac{2^1}{1 + x^{2^1}} + \\frac{2^2}{1 + x^{2^2}} + \\frac{2^3}{1 + x^{2^3}} Q = 1 + x 2 0 2 0 ​ + 1 + x 2 1 2 1 ​ + 1 + x 2 2 2 2 ​ + 1 + x 2 3 2 3 ​ = 1 1 + x 1 + 2 1 + x 2 + 4 1 + x 4 + 8 1 + x 8 = \\frac{1}{1 + x^1} + \\frac{2}{1 + x^2} + \\frac{4}{1 + x^4} + \\frac{8}{1 + x^8} = 1 + x 1 1 ​ + 1 + x 2 2 ​ + 1 + x 4 4 ​ + 1 + x 8 8 ​ ∴ Q + 16 x 16 − 1 = 1 1 + x + 2 1 + x 2 + 4 1 + x 4 + 8 1 + x 8 + 16 x 16 − 1 \\therefore Q + \\frac{16}{x^{16} - 1} = \\frac{1}{1 + x} + \\frac{2}{1 + x^2} + \\frac{4}{1 + x^4} + \\frac{8}{1 + x^8} + \\frac{16}{x^{16} - 1} ∴ Q + x 16 − 1 16 ​ = 1 + x 1 ​ + 1 + x 2 2 ​ + 1 + x 4 4 ​ + 1 + x 8 8 ​ + x 16 − 1 16 ​ প্রদত্ত রাশি = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + 4 ( 1 + x 4 ) + 8 ( 1 + x 8 ) + 16 ( x 16 − 1 ) = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\frac{4}{(1+x^4)} + \\frac{8}{(1+x^8)} + \\frac{16}{(x^{16}-1)} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + ( 1 + x 4 ) 4 ​ + ( 1 + x 8 ) 8 ​ + ( x 16 − 1 ) 16 ​ = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + 4 ( 1 + x 4 ) + 8 ( 1 + x 8 ) + 16 ( x 8 + 1 ) ( x 8 − 1 ) = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\frac{4}{(1+x^4)} + \\frac{8}{(1+x^8)} + \\frac{16}{(x^8+1)(x^8-1)} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + ( 1 + x 4 ) 4 ​ + ( 1 + x 8 ) 8 ​ + ( x 8 + 1 ) ( x 8 − 1 ) 16 ​ = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + 4 ( 1 + x 4 ) + { 8 ( x 8 − 1 ) + 16 ( x 8 + 1 ) ( x 8 − 1 ) } = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\frac{4}{(1+x^4)} + \\{ \\frac{8(x^8-1) + 16}{(x^8+1)(x^8-1)} \\} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + ( 1 + x 4 ) 4 ​ + { ( x 8 + 1 ) ( x 8 − 1 ) 8 ( x 8 − 1 ) + 16 ​ } = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + 4 ( 1 + x 4 ) + 8 x 8 − 8 + 16 ( x 8 + 1 ) ( x 8 − 1 ) = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\frac{4}{(1+x^4)} + \\frac{8x^8 - 8 + 16}{(x^8+1)(x^8-1)} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + ( 1 + x 4 ) 4 ​ + ( x 8 + 1 ) ( x 8 − 1 ) 8 x 8 − 8 + 16 ​ = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + 4 ( 1 + x 4 ) + 8 ( x 8 + 1 ) ( x 8 + 1 ) ( x 8 − 1 ) = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\frac{4}{(1+x^4)} + \\frac{8(x^8+1)}{(x^8+1)(x^8-1)} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + ( 1 + x 4 ) 4 ​ + ( x 8 + 1 ) ( x 8 − 1 ) 8 ( x 8 + 1 ) ​ = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + 4 ( 1 + x 4 ) + 8 x 8 − 1 = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\frac{4}{(1+x^4)} + \\frac{8}{x^8 - 1} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + ( 1 + x 4 ) 4 ​ + x 8 − 1 8 ​ = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + { 4 ( x 4 − 1 ) + 8 ( x 4 + 1 ) ( x 4 − 1 ) } = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\{ \\frac{4(x^4-1)+8}{(x^4+1)(x^4-1)} \\} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + { ( x 4 + 1 ) ( x 4 − 1 ) 4 ( x 4 − 1 ) + 8 ​ } = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + 4 x 4 − 4 + 8 ( x 4 + 1 ) ( x 4 − 1 ) = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\frac{4x^4 - 4 + 8}{(x^4+1)(x^4-1)} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + ( x 4 + 1 ) ( x 4 − 1 ) 4 x 4 − 4 + 8 ​ = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + 4 ( x 4 + 1 ) ( x 4 + 1 ) ( x 4 − 1 ) = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\frac{4(x^4+1)}{(x^4+1)(x^4-1)} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + ( x 4 + 1 ) ( x 4 − 1 ) 4 ( x 4 + 1 ) ​ = 1 ( 1 + x ) + 2 ( 1 + x 2 ) + 4 x 4 − 1 = \\frac{1}{(1+x)} + \\frac{2}{(1+x^2)} + \\frac{4}{x^4 - 1} = ( 1 + x ) 1 ​ + ( 1 + x 2 ) 2 ​ + x 4 − 1 4 ​ = 1 ( 1 + x ) + { 2 ( x 2 − 1 ) + 4 ( x 2 + 1 ) ( x 2 − 1 ) } = \\frac{1}{(1+x)} + \\{ \\frac{2(x^2-1)+4}{(x^2+1)(x^2-1)} \\} = ( 1 + x ) 1 ​ + { ( x 2 + 1 ) ( x 2 − 1 ) 2 ( x 2 − 1 ) + 4 ​ } = 1 ( 1 + x ) + 2 x 2 − 2 + 4 ( x 2 + 1 ) ( x 2 − 1 ) = \\frac{1}{(1+x)} + \\frac{2x^2-2+4}{(x^2+1)(x^2-1)} = ( 1 + x ) 1 ​ + ( x 2 + 1 ) ( x 2 − 1 ) 2 x 2 − 2 + 4 ​ = 1 ( 1 + x ) + 2 ( x 2 + 1 ) ( x 2 − 1 ) ( x 2 + 1 ) = \\frac{1}{(1+x)} + \\frac{2(x^2+1)}{(x^2-1)(x^2+1)} = ( 1 + x ) 1 ​ + ( x 2 − 1 ) ( x 2 + 1 ) 2 ( x 2 + 1 ) ​ = 1 ( 1 + x ) + 2 x 2 − 1 = \\frac{1}{(1+x)} + \\frac{2}{x^2-1} = ( 1 + x ) 1 ​ + x 2 − 1 2 ​ = 1 x + 1 + 2 ( x + 1 ) ( x − 1 ) = \\frac{1}{x+1} + \\frac{2}{(x+1)(x-1)} = x + 1 1 ​ + ( x + 1 ) ( x − 1 ) 2 ​ = x − 1 + 2 ( x + 1 ) ( x − 1 ) = \\frac{x-1+2}{(x+1)(x-1)} = ( x + 1 ) ( x − 1 ) x − 1 + 2 ​ = x + 1 ( x + 1 ) ( x − 1 ) = 1 x − 1 = \\frac{x+1}{(x+1)(x-1)} = \\frac{1}{x-1} = ( x + 1 ) ( x − 1 ) x + 1 ​ = x − 1 1 ​ (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "দৃশ্যকল্প-১: 1 2 x = 5 − 1 4 \\frac{1}{2x} = \\frac{\\sqrt{5}-1}{4} 2 x 1 ​ = 4 5 ​ − 1 ​ একটি বীজগাণিতিক রাশি। দৃশ্যকল্প-২: log a b − c = log b c − a = log c a − b \\frac{\\text{log}_a}{\\text{b}-\\text{c}} = \\frac{\\text{log}_b}{\\text{c}-\\text{a}} = \\frac{\\text{log}_c}{\\text{a}-\\text{b}} b − c log a ​ ​ = c − a log b ​ ​ = a − b log c ​ ​",
+      "tag": "FGCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "log 2 ( 4 + x 2 − 19 x + 50 ) = 3 \\text{log}_2 (4+\\sqrt{x^2-19x+50}) = 3 log 2 ​ ( 4 + x 2 − 19 x + 50 ​ ) = 3 হলে, x x x এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, log ⁡ 2 ( 4 + x 2 − 19 x + 50 ) = 3 \\log_{2} (4+\\sqrt{x^2-19x+50})=3 lo g 2 ​ ( 4 + x 2 − 19 x + 50 ​ ) = 3 বা, 2 3 = 4 + x 2 − 19 x + 50 2^3 = 4 + \\sqrt{x^2-19x+50} 2 3 = 4 + x 2 − 19 x + 50 ​ [ ∴ log ⁡ a x = n \\therefore \\log_a x = n ∴ lo g a ​ x = n হলে a n = x a^n = x a n = x ] বা, 8 − 4 = x 2 − 19 x + 50 8-4 =\\sqrt{x^2-19x + 50} 8 − 4 = x 2 − 19 x + 50 ​ বা, 4 2 = ( x 2 − 19 x + 50 ) 2 4^2 = (\\sqrt{x^2-19x + 50})^2 4 2 = ( x 2 − 19 x + 50 ​ ) 2 বা, x 2 − 19 x + 50 = 16 x^2 - 19x + 50 = 16 x 2 − 19 x + 50 = 16 বা, x 2 − 19 x + 50 − 16 = 0 x^2 - 19x+50-16=0 x 2 − 19 x + 50 − 16 = 0 বা, x 2 − 19 x + 34 = 0 x^2 - 19x + 34 = 0 x 2 − 19 x + 34 = 0 বা, x 2 − 17 x − 2 x + 34 = 0 x^2- 17x-2x + 34 = 0 x 2 − 17 x − 2 x + 34 = 0 বা, x ( x − 17 ) − 2 ( x − 17 ) = 0 x(x-17)-2 (x-17) = 0 x ( x − 17 ) − 2 ( x − 17 ) = 0 ∴ ( x − 17 ) ( x − 2 ) = 0 \\therefore (x-17) (x-2) = 0 ∴ ( x − 17 ) ( x − 2 ) = 0 হয়, x − 17 = 0 x - 17 = 0 x − 17 = 0 . ∴ x = 17 \\therefore x = 17 ∴ x = 17 . ∴ x = 2 , 17 \\therefore x=2, 17 ∴ x = 2 , 17 (Ans.) অথবা, x − 2 = 0 x - 2 = 0 x − 2 = 0 ∴ x = 2 \\therefore x = 2 ∴ x = 2"
+        },
+        {
+          "label": "খ",
+          "question": "দৃশ্যকল্প-১ হতে প্রমাণ কর যে, log m ( 1 + x ) log m x = 2 \\frac{\\text{log}_m(1+x)}{\\text{log}_mx} = 2 log m ​ x log m ​ ( 1 + x ) ​ = 2",
+          "explanation": "দেওয়া আছে, 1 2 x = 5 − 1 4 \\frac{1}{2x} = \\frac{\\sqrt{5}-1}{4} 2 x 1 ​ = 4 5 ​ − 1 ​ বা, 1 x = 5 − 1 2 \\frac{1}{x} = \\frac{\\sqrt{5}-1}{2} x 1 ​ = 2 5 ​ − 1 ​ বা, 2 = 5 x − x 2 = \\sqrt{5x} - x 2 = 5 x ​ − x বা, x + 2 = 5 x x+2 = \\sqrt{5x} x + 2 = 5 x ​ বা, x 2 + 4 x + 4 = 5 x 2 x^2 + 4x + 4 = 5x^2 x 2 + 4 x + 4 = 5 x 2 [বর্গ করে] বা, 4 x 2 = 4 x + 4 4x^2 = 4x + 4 4 x 2 = 4 x + 4 বা, x 2 = x + 1 x^2 = x+1 x 2 = x + 1 [উভয়পক্ষকে 4 দ্বারা ভাগ করে] বা, log ⁡ m x 2 = log ⁡ m ( x + 1 ) \\log_m x^2 = \\log_m (x+1) lo g m ​ x 2 = lo g m ​ ( x + 1 ) [উভয়পক্ষে m ভিত্তিক লগারিদম নিয়ে] বা, 2 log ⁡ m x = log ⁡ m ( x + 1 ) 2\\log_m x = \\log_m (x+1) 2 lo g m ​ x = lo g m ​ ( x + 1 ) ∴ log ⁡ m ( 1 + x ) log ⁡ m x = 2 \\therefore \\frac{\\log_m (1+x)}{\\log_m x} = 2 ∴ l o g m ​ x l o g m ​ ( 1 + x ) ​ = 2 (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "দৃশ্যকল্প-২ হতে 3 a a b b c c \\frac{3}{a^a b^b c^c} a a b b c c 3 ​ এর মান নির্ণয় কর।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "U n = ( 2 + 5 x ) n U_n = (2+5x)^n U n ​ = ( 2 + 5 x ) n ; n ∈ N n \\in \\mathbb{N} n ∈ N",
+      "tag": "FGCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "n = 4 n=4 n = 4 হলে; প্যাসকেলের ত্রিভুজ ব্যবহার করে U n U_n U n ​ কে বিস্তৃতি কর।",
+          "explanation": "দেওয়া আছে, U n = ( 2 + 5 x ) n U_n = (2 + 5x)^n U n ​ = ( 2 + 5 x ) n ; n ∈ N n \\in \\mathbb{N} n ∈ N n = 4 n = 4 n = 4 হলে, U 4 = ( 2 + 5 x ) 4 U_4 = (2 + 5x)^4 U 4 ​ = ( 2 + 5 x ) 4 প্যাসকেলের ত্রিভুজের সাহায্যে বিস্তৃতি করে পাই, ( 2 + 5 x ) 4 = 2 4 + 4.2 3 .5 x + 6.2 2 (2 + 5x)^4 = 2^4 + 4.2^3.5x + 6.2^2 ( 2 + 5 x ) 4 = 2 4 + 4. 2 3 .5 x + 6. 2 2 ( 5 x ) 2 + 4.2. ( 5 x ) 3 + ( 5 x ) 4 (5x)^2 + 4.2.(5x)^3 + (5x)^4 ( 5 x ) 2 + 4.2. ( 5 x ) 3 + ( 5 x ) 4 = 16 + 160 x + 600 x 2 + 1000 x 3 + 625 x 4 = 16 + 160x + 600x^2 + 1000x^3 + 625x^4 = 16 + 160 x + 600 x 2 + 1000 x 3 + 625 x 4 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "n = 11 n = 11 n = 11 হলে, U n U_n U n ​ ' এর বিস্তৃতিতে মধ্যপদ দুটির সহগের অনুপাত নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, U n = ( 2 + 5 x ) n U_n = (2 + 5x)^n U n ​ = ( 2 + 5 x ) n ; n = 11 n = 11 n = 11 ∴ U 11 = ( 2 + 5 x ) 11 \\therefore U_{11} = (2+5x)^{11} ∴ U 11 ​ = ( 2 + 5 x ) 11 ∴ U 11 \\therefore U_{11} ∴ U 11 ​ এর বিস্তৃতিতে পদসংখ্যা = 11 + 1 = 12 = 11+1= 12 = 11 + 1 = 12 যা জোড় সংখ্যা অর্থাৎ মধ্যপদ দুইটি যা হলো 12 2 \\frac{12}{2} 2 12 ​ তম পদ ও ( 12 2 + 1 ) (\\frac{12}{2}+1) ( 2 12 ​ + 1 ) তম পদ বা, 6 তম পদ ও 7-তম পদ। ( 2 + 5 x ) 11 (2 + 5x)^{11} ( 2 + 5 x ) 11 এর বিস্তৃতিতে মধ্যপদ দুইটির সহগের অনুপাত = 6 তম পদের সহগ 7 তম পদের সহগ = (5+1) তম পদের সহগ (6+1) তম পদের সহগ = \\frac{\\text{6 তম পদের সহগ}}{\\text{7 তম পদের সহগ}} = \\frac{\\text{(5+1) তম পদের সহগ}}{\\text{(6+1) তম পদের সহগ}} = 7  তম   পদের   সহগ 6  তম   পদের   সহগ ​ = (6+1)  তম   পদের   সহগ (5+1)  তম   পদের   সহগ ​ = 11 C 5 2 11 − 5 ⋅ 5 5 11 C 6 2 11 − 6 ⋅ 5 6 = 462 × 2 6 × 5 5 462 × 2 5 × 5 6 = 2 5 = \\frac{{}^{11}C_5 2^{11-5} \\cdot 5^5}{{}^{11}C_6 2^{11-6} \\cdot 5^6} = \\frac{462 \\times 2^6 \\times 5^5}{462 \\times 2^5 \\times 5^6} = \\frac{2}{5} = 11 C 6 ​ 2 11 − 6 ⋅ 5 6 11 C 5 ​ 2 11 − 5 ⋅ 5 5 ​ = 462 × 2 5 × 5 6 462 × 2 6 × 5 5 ​ = 5 2 ​ ∴ \\therefore ∴ মধ্যপদ দুইটির সহগের অনুপাত = 2 : 5 = 2: 5 = 2 : 5 (Ans.) লক্ষণীয়: 7 তম পদ ও 6 তম পদের সহগের অনুপাত বের করা হলে সহগের অনুপাত হতো 5:2।"
+        },
+        {
+          "label": "গ",
+          "question": "n = − ∞ n =-\\infty n = − ∞ হতে n = − 1 n = -1 n = − 1 হলে x x x এর উপর কী শর্ত আরোপ করলে প্রদত্ত অসীম ধারার অসীমতক সমষ্টি থাকবে?",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "চিত্রে, BR = PR, AP = BP, QS = CS এবং AQ = CQ",
+      "tag": "FGCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "A ⃗ = i ^ − 2 j ^ + 2 k ^ \\vec{A} = \\hat{i} - 2\\hat{j} + 2\\hat{k} A = i ^ − 2 j ^ ​ + 2 k ^ ভেক্টরটির একক ভেক্টর নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, A ⃗ = i ^ − 2 j ^ + 2 k ^ \\vec{A} = \\hat{i} - 2\\hat{j} + 2\\hat{k} A = i ^ − 2 j ^ ​ + 2 k ^ ∴ ∣ A ⃗ ∣ = ( 1 ) 2 + ( − 2 ) 2 + ( 2 ) 2 \\therefore |\\vec{A}| = \\sqrt{(1)^2 + (-2)^2 + (2)^2} ∴ ∣ A ∣ = ( 1 ) 2 + ( − 2 ) 2 + ( 2 ) 2 ​ = 1 + 4 + 4 = \\sqrt{1 + 4 + 4} = 1 + 4 + 4 ​ = 9 = 3 = \\sqrt{9} = 3 = 9 ​ = 3 একক ∴ A ⃗ \\therefore \\vec{A} ∴ A এর একক ভেক্টর = A ⃗ ∣ A ⃗ ∣ = i ^ − 2 j ^ + 2 k ^ 3 = \\frac{\\vec{A}}{|\\vec{A}|} = \\frac{\\hat{i} - 2\\hat{j} + 2\\hat{k}}{3} = ∣ A ∣ A ​ = 3 i ^ − 2 j ^ ​ + 2 k ^ ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "ভেক্টর পদ্ধতিতে প্রমাণ কর যে, PQ ∥ \\parallel ∥ BC ও 2PQ = BC",
+          "explanation": "মনে করি, BPQC ট্রাপিজিয়ামের BP ও CQ বাহুদ্বয় অসমান্তরাল এবং PQ ও BC বাহুদ্বয় সমান্তরাল। R ও S যথাক্রমে BP ও CQ এর মধ্যবিন্দু। R, S যোগ করা হলো। প্রমাণ করতে হবে যে, R S ∥ P Q ∥ B C RS \\parallel PQ \\parallel BC RS ∥ PQ ∥ BC এবং R S = P Q + B C 2 RS = \\frac{PQ + BC}{2} RS = 2 PQ + BC ​ প্রমাণ: মনে করি, কোনো ভেক্টর মূলবিন্দুর সাপেক্ষে C, B, P, Q বিন্দুর অবস্থান ভেক্টর যথাক্রমে c ⃗ , b ⃗ , p ⃗ , q ⃗ \\vec{c}, \\vec{b}, \\vec{p}, \\vec{q} c , b , p ​ , q ​ ∴ B C ⃗ = c ⃗ − b ⃗ , P Q ⃗ = q ⃗ − p ⃗ \\therefore \\vec{BC} = \\vec{c} - \\vec{b}, \\vec{PQ} = \\vec{q} - \\vec{p} ∴ BC = c − b , PQ ​ = q ​ − p ​ ∴ R \\therefore R ∴ R বিন্দুর অবস্থান ভেক্টর = 1 2 ( p ⃗ + b ⃗ ) = \\frac{1}{2}(\\vec{p} + \\vec{b}) = 2 1 ​ ( p ​ + b ) [: R, BP এর মধ্যবিন্দু] এবং S S S বিন্দুর অবস্থান ভেক্টর = 1 2 ( c ⃗ + q ⃗ ) = \\frac{1}{2}(\\vec{c} + \\vec{q}) = 2 1 ​ ( c + q ​ ) [:: S, CQ এর মধ্যবিন্দু] ∴ R S ⃗ = 1 2 ( c ⃗ + q ⃗ ) − 1 2 ( p ⃗ + b ⃗ ) \\therefore \\vec{RS} = \\frac{1}{2}(\\vec{c} + \\vec{q}) - \\frac{1}{2}(\\vec{p} + \\vec{b}) ∴ RS = 2 1 ​ ( c + q ​ ) − 2 1 ​ ( p ​ + b ) = 1 2 ( c ⃗ + q ⃗ − p ⃗ − b ⃗ ) = 1 2 { ( c ⃗ − b ⃗ ) + ( q ⃗ − p ⃗ ) } = \\frac{1}{2}(\\vec{c} + \\vec{q} - \\vec{p} - \\vec{b}) = \\frac{1}{2} \\{(\\vec{c} - \\vec{b}) + (\\vec{q} - \\vec{p})\\} = 2 1 ​ ( c + q ​ − p ​ − b ) = 2 1 ​ {( c − b ) + ( q ​ − p ​ )} ∴ R S ⃗ = 1 2 ( B C ⃗ + P Q ⃗ ) \\therefore \\vec{RS} = \\frac{1}{2}(\\vec{BC} + \\vec{PQ}) ∴ RS = 2 1 ​ ( BC + PQ ​ ) কিন্তু B C ⃗ \\vec{BC} BC ও P Q ⃗ \\vec{PQ} PQ ​ পরস্পর সমান্তরাল হওয়ায় ( B C ⃗ + P Q ⃗ ) (\\vec{BC} + \\vec{PQ}) ( BC + PQ ​ ) ভেক্টরটিও তাদের (অর্থাৎ B C ⃗ \\vec{BC} BC ও P Q ⃗ \\vec{PQ} PQ ​ এর) সমান্তরাল হবে। ∴ P Q ∥ R S ∥ B C \\therefore PQ \\parallel RS \\parallel BC ∴ PQ ∥ RS ∥ BC (প্রমাণিত) এখন, R S = 1 2 ( B C + P Q ) RS = \\frac{1}{2}(BC + PQ) RS = 2 1 ​ ( BC + PQ ) ⇒ ∣ R S ⃗ ∣ = 1 2 ∣ B C ⃗ + P Q ⃗ ∣ \\Rightarrow |\\vec{RS}| = \\frac{1}{2}|\\vec{BC} + \\vec{PQ}| ⇒ ∣ RS ∣ = 2 1 ​ ∣ BC + PQ ​ ∣ ∴ R S = P Q + B C 2 \\therefore RS = \\frac{PQ + BC}{2} ∴ RS = 2 PQ + BC ​ (প্রমাণিত)"
+        },
+        {
+          "label": "গ",
+          "question": "ভেক্টর পদ্ধতিতে প্রমাণ কর যে, R S ∥ P Q ∥ B C  এবং  R S = P Q + B C 2 RS \\parallel PQ \\parallel BC \\text{ এবং } RS = \\frac{PQ + BC}{2} RS ∥ PQ ∥ BC   এবং   RS = 2 PQ + BC ​",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "A(1, -1), B (2, 2), C(-2, p) এবং D(-7, k) চতুর্ভুজের চারটি শীর্ষবিন্দু। যেখানে p < 0 p<0 p < 0 এবং A C = 5 AC=5 A C = 5 একক। BD রেখার ঢাল − 3 -3 − 3 ।",
+      "tag": "FGCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "p-এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, A ( 1 , − 1 ) A(1,-1) A ( 1 , − 1 ) ও C ( − 2 , p ) C(-2, p) C ( − 2 , p ) বিন্দুর মধ্যবর্তী দূরত্ব = 5 = 5 = 5 একক ∴ \\therefore ∴ AC এর দূরত্ব = { 1 − ( − 2 ) } 2 + ( − 1 − p ) 2 = \\sqrt{\\{1-(-2)\\}^2 + (-1-p)^2} = { 1 − ( − 2 ) } 2 + ( − 1 − p ) 2 ​ বা, 5 = ( 1 + 2 ) 2 + { − ( p + 1 ) } 2 5 = \\sqrt{(1+2)^2 + \\{-(p+1)\\}^2} 5 = ( 1 + 2 ) 2 + { − ( p + 1 ) } 2 ​ বা, 3 2 + ( p + 1 ) 2 = 5 \\sqrt{3^2 + (p+1)^2} = 5 3 2 + ( p + 1 ) 2 ​ = 5 বা, ( 9 + p 2 + 2 p + 1 ) 2 = 5 2 (\\sqrt{9 + p^2 + 2p + 1})^2 = 5^2 ( 9 + p 2 + 2 p + 1 ​ ) 2 = 5 2 [উভয় পক্ষকে বর্গ করে] বা, p 2 + 2 p + 1 + 9 = 25 p^2 + 2p + 1 + 9 = 25 p 2 + 2 p + 1 + 9 = 25 বা, p 2 + 2 p − 15 = 0 p^2 + 2p - 15 = 0 p 2 + 2 p − 15 = 0 বা, p 2 + 5 p − 3 p − 15 = 0 p^2+5p-3p-15=0 p 2 + 5 p − 3 p − 15 = 0 বা, p ( p + 5 ) − 3 ( p + 5 ) = 0 p(p + 5)-3(p + 5) = 0 p ( p + 5 ) − 3 ( p + 5 ) = 0 বা, ( p + 5 ) ( p − 3 ) = 0 (p + 5) (p-3) = 0 ( p + 5 ) ( p − 3 ) = 0 হয়, p + 5 = 0 p + 5 = 0 p + 5 = 0 ∴ p = − 5 \\therefore p = -5 ∴ p = − 5 অথবা, p − 3 = 0 p - 3 = 0 p − 3 = 0 ∴ p = 3 \\therefore p = 3 ∴ p = 3 যেহেতু p < 0 p <0 p < 0 সেহেতু, p = − 5 p = -5 p = − 5 (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "△ A B D \\triangle ABD △ A B D এর ক্ষেত্রফল = 0 =0 = 0 বর্গএকক হলে, k k k এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, A (1, -1), B (2, 2) ও D (-7, k) ∴ △ A B D \\therefore \\triangle ABD ∴ △ A B D -এর ক্ষেত্রফল = 1 2 ∣ 1 2 − 7 1 − 1 2 k − 1 ∣ \\frac{1}{2} \\begin{vmatrix} 1 & 2 & -7 & 1 \\\\ -1 & 2 & k & -1 \\end{vmatrix} 2 1 ​ ​ 1 − 1 ​ 2 2 ​ − 7 k ​ 1 − 1 ​ ​ বর্গএকক বা, 0 = 1 2 { ( 2 + 2 k + 7 ) − ( − 2 − 14 + k ) } 0 = \\frac{1}{2} \\{(2 + 2k + 7) - (-2 - 14 + k)\\} 0 = 2 1 ​ {( 2 + 2 k + 7 ) − ( − 2 − 14 + k )} বা, 0 = ( 9 + 2 k ) − ( k − 16 ) 0 = (9 + 2k) - (k - 16) 0 = ( 9 + 2 k ) − ( k − 16 ) বা, 9 + 2 k − k + 16 = 0 9 + 2k - k + 16 = 0 9 + 2 k − k + 16 = 0 বা, k + 25 = 0 k + 25 = 0 k + 25 = 0 ∴ k = − 25 \\therefore k = -25 ∴ k = − 25 (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "ABDC চতুর্ভুজের যে অংশ ২য় চতুর্ভাগে অবস্থিত নয়, সেই অংশের ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, A ( 1 , − 1 ) A(1, -1) A ( 1 , − 1 ) , B ( 2 , 2 ) B(2, 2) B ( 2 , 2 ) , C ( − 2 , p ) C(-2, p) C ( − 2 , p ) এবং D ( − 7 , k ) D(-7, k) D ( − 7 , k ) চতুর্ভুজের চারটি শীর্ষবিন্দু। B (2, 2) ও D(-7, k) বিন্দুগামী BD রেখার ঢাল = k − 2 − 7 − 2 = \\frac{k-2}{-7-2} = − 7 − 2 k − 2 ​ বা, − 3 = k − 2 − 9 -3 = \\frac{k-2}{-9} − 3 = − 9 k − 2 ​ বা, k − 2 = 27 k-2 = 27 k − 2 = 27 'বা, k = 27 + 2 ∴ k = 29. k = 27+2 \\therefore k = 29. k = 27 + 2 ∴ k = 29. C (-2, - 5) ও D (-7, 29) বিন্দুগামী CD রেখার সমীকরণ, x − ( − 2 ) − 2 − ( − 7 ) = y − ( − 5 ) − 5 − 29 \\frac{x-(-2)}{-2-(-7)} = \\frac{y-(-5)}{-5-29} − 2 − ( − 7 ) x − ( − 2 ) ​ = − 5 − 29 y − ( − 5 ) ​ বা, x + 2 − 2 + 7 = y + 5 − 34 \\frac{x+2}{-2+7} = \\frac{y+5}{-34} − 2 + 7 x + 2 ​ = − 34 y + 5 ​ বা, x + 2 5 = y + 5 − 34 \\frac{x+2}{5} = \\frac{y+5}{-34} 5 x + 2 ​ = − 34 y + 5 ​ বা, 5 y + 25 = − 34 x − 68 5y + 25 = -34x - 68 5 y + 25 = − 34 x − 68 ∴ 34 x + 5 y + 93 = 0 … … … ( i ) \\therefore 34x + 5y + 93 = 0 \\ldots \\ldots \\ldots (i) ∴ 34 x + 5 y + 93 = 0 ……… ( i ) (i) নং রেখা x-অক্ষকে E বিন্দুতে ছেদ করে। (i) নং এ y = 0 y = 0 y = 0 বসিয়ে পাই, 34 x + 93 = 0 34x + 93 = 0 34 x + 93 = 0 বা, 34 x = − 93 ∴ x = − 93 34 34x = -93 \\therefore x = \\frac{-93}{34} 34 x = − 93 ∴ x = 34 − 93 ​ ∴ \\therefore ∴ E বিন্দুর স্থানাঙ্ক ( − 93 34 , 0 ) \\left( \\frac{-93}{34}, 0 \\right) ( 34 − 93 ​ , 0 ) B (2, 2) ও D(-7,29) বিন্দুগামী BD রেখার সমীকরণ, x − 2 2 − ( − 7 ) = y − 2 2 − 29 \\frac{x-2}{2-(-7)} = \\frac{y-2}{2-29} 2 − ( − 7 ) x − 2 ​ = 2 − 29 y − 2 ​ বা, x − 2 2 + 7 = y − 2 − 27 \\frac{x-2}{2+7} = \\frac{y-2}{-27} 2 + 7 x − 2 ​ = − 27 y − 2 ​ বা, 9 ( y − 2 ) = − 27 ( x − 2 ) 9(y-2) = -27(x-2) 9 ( y − 2 ) = − 27 ( x − 2 ) বা, y − 2 = − 3 ( x − 2 ) y-2 = -3(x-2) y − 2 = − 3 ( x − 2 ) বা, y − 2 = − 3 x + 6 y-2 = -3x+6 y − 2 = − 3 x + 6 ∴ 3 x + y − 8 = 0 \\therefore 3x+y-8 = 0 ∴ 3 x + y − 8 = 0 ......... (ii) (ii) নং রেখা y-অক্ষকে F বিন্দুতে ছেদ করে। (ii) নং এ x = 0 x = 0 x = 0 বসিয়ে পাই, y − 8 = 0 ∴ y = 8 y-8 = 0 \\therefore y=8 y − 8 = 0 ∴ y = 8 ∴ \\therefore ∴ F বিন্দুর স্থানাঙ্ক = (0, 8) ABDC চতুর্ভুজের ABFOEC অংশ ২য় চতুর্ভাগে অবস্থিত নয়। ∴ \\therefore ∴ ABFOEC অংশের ক্ষেত্রফল = 1 2 ∣ 1 2 0 0 − 93 34 − 2 1 − 1 2 8 0 0 − 5 − 1 ∣ =\\frac{1}{2}\\left|\\begin{array}{ccccccc} 1 & 2 & 0 & 0 & -\\frac{93}{34} & -2 & 1 \\\\ -1 & 2 & 8 & 0 & 0 & -5 & -1 \\end{array}\\right| = 2 1 ​ ​ 1 − 1 ​ 2 2 ​ 0 8 ​ 0 0 ​ − 34 93 ​ 0 ​ − 2 − 5 ​ 1 − 1 ​ ​ = 1 2 ∣ ( 2 + 16 + 0 + 0 + 0 + 465 34 + 2 ) − ( − 2 + 0 + 0 + 0 + 0 − 5 ) ∣ =\\frac{1}{2}\\left|\\left(2+16+0+0+0+\\frac{465}{34}+2\\right)-(-2+0+0+0+0-5)\\right| = 2 1 ​ ​ ( 2 + 16 + 0 + 0 + 0 + 34 465 ​ + 2 ) − ( − 2 + 0 + 0 + 0 + 0 − 5 ) ​ = 1 2 ∣ 1145 34 + 7 ∣ = 1 2 × 1383 34 = 1383 68 =\\frac{1}{2}\\left|\\frac{1145}{34}+7\\right|=\\frac{1}{2} \\times \\frac{1383}{34}=\\frac{1383}{68} = 2 1 ​ ​ 34 1145 ​ + 7 ​ = 2 1 ​ × 34 1383 ​ = 68 1383 ​ বর্গ একক (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "p = sinθ, q = cosθ",
+      "tag": "FGCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "3 sin ⁡ ( π 2 + x ) = sin ⁡ ( − x ) \\sqrt{3} \\sin \\left(\\frac{\\pi}{2}+x\\right)=\\sin (-x) 3 ​ sin ( 2 π ​ + x ) = sin ( − x ) হলে, x x x এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, 3 sin ⁡ ( π 2 + x ) = sin ⁡ ( − x ) \\sqrt{3} \\sin \\left(\\frac{\\pi}{2}+x\\right)=\\sin (-x) 3 ​ sin ( 2 π ​ + x ) = sin ( − x ) বা, 3 cos ⁡ x = − sin ⁡ x [ ∵ sin ⁡ ( − θ ) = − sin ⁡ θ ] \\sqrt{3} \\cos x=-\\sin x \\quad[\\because \\sin (-\\theta)=-\\sin \\theta] 3 ​ cos x = − sin x [ ∵ sin ( − θ ) = − sin θ ] বা, 3 = − sin ⁡ x cos ⁡ x \\sqrt{3}=\\frac{-\\sin x}{\\cos x} 3 ​ = c o s x − s i n x ​ বা, tan ⁡ x = − 3 \\tan x=-\\sqrt{3} tan x = − 3 ​ বা, tan ⁡ x = − tan ⁡ π 3 \\tan x=-\\tan \\frac{\\pi}{3} tan x = − tan 3 π ​ বা, tan ⁡ x = tan ⁡ ( π − π 3 ) \\tan x=\\tan \\left(\\pi-\\frac{\\pi}{3}\\right) tan x = tan ( π − 3 π ​ ) [ ∵ \\because ∵ ২য় চতুর্ভাগে tan ⁡ θ \\tan \\theta tan θ ঋণাত্মক] বা, x = 3 π − π 3 x=\\frac{3 \\pi-\\pi}{3} x = 3 3 π − π ​ ∴ x = 2 π 3 \\therefore x=\\frac{2 \\pi}{3} ∴ x = 3 2 π ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "সমাধান কর: p 1 + q + 1 + q p = 4 \\frac{p}{1+q}+\\frac{1+q}{p}=4 1 + q p ​ + p 1 + q ​ = 4 ; (যখন, 0 ≤ θ ≤ 2 π 0 \\leq \\theta \\leq 2 \\pi 0 ≤ θ ≤ 2 π )",
+          "explanation": "দেওয়া আছে, p = sin ⁡ θ p = \\sin\\theta p = sin θ , q = cos ⁡ θ q = \\cos\\theta q = cos θ প্রদত্ত সমীকরণ: p 1 + q + 1 + q p = 4 \\frac{p}{1+q} + \\frac{1+q}{p} = 4 1 + q p ​ + p 1 + q ​ = 4 বা, sin ⁡ θ 1 + cos ⁡ θ + 1 + cos ⁡ θ sin ⁡ θ = 4 \\frac{\\sin\\theta}{1+\\cos\\theta} + \\frac{1+\\cos\\theta}{\\sin\\theta} = 4 1 + c o s θ s i n θ ​ + s i n θ 1 + c o s θ ​ = 4 বা, sin ⁡ 2 θ + ( 1 + cos ⁡ θ ) 2 sin ⁡ θ ( 1 + cos ⁡ θ ) = 4 \\frac{\\sin^2\\theta + (1+\\cos\\theta)^2}{\\sin\\theta (1+\\cos\\theta)} = 4 s i n θ ( 1 + c o s θ ) s i n 2 θ + ( 1 + c o s θ ) 2 ​ = 4 বা, sin ⁡ 2 θ + 1 + 2 cos ⁡ θ + cos ⁡ 2 θ = 4 sin ⁡ θ ( 1 + cos ⁡ θ ) \\sin^2\\theta + 1 + 2\\cos\\theta + \\cos^2\\theta = 4\\sin\\theta (1+\\cos\\theta) sin 2 θ + 1 + 2 cos θ + cos 2 θ = 4 sin θ ( 1 + cos θ ) বা, 1 + 2 cos ⁡ θ + sin ⁡ 2 θ + cos ⁡ 2 θ = 4 sin ⁡ θ + 4 sin ⁡ θ cos ⁡ θ 1 + 2\\cos\\theta + \\sin^2\\theta + \\cos^2\\theta = 4\\sin\\theta + 4\\sin\\theta\\cos\\theta 1 + 2 cos θ + sin 2 θ + cos 2 θ = 4 sin θ + 4 sin θ cos θ বা, 2 + 2 cos ⁡ θ − 4 sin ⁡ θ − 4 sin ⁡ θ cos ⁡ θ = 0 [ ∵ sin ⁡ 2 θ + cos ⁡ 2 θ = 1 ] 2 + 2\\cos\\theta - 4\\sin\\theta - 4\\sin\\theta\\cos\\theta = 0 [\\because \\sin^2\\theta + \\cos^2\\theta = 1] 2 + 2 cos θ − 4 sin θ − 4 sin θ cos θ = 0 [ ∵ sin 2 θ + cos 2 θ = 1 ] বা, 2 ( 1 + cos ⁡ θ ) − 4 sin ⁡ θ ( 1 + cos ⁡ θ ) = 0 2(1+\\cos\\theta) - 4\\sin\\theta(1+\\cos\\theta) = 0 2 ( 1 + cos θ ) − 4 sin θ ( 1 + cos θ ) = 0 ∴ ( 1 + cos ⁡ θ ) ( 2 − 4 sin ⁡ θ ) = 0 \\therefore (1+\\cos\\theta) (2 - 4\\sin\\theta) = 0 ∴ ( 1 + cos θ ) ( 2 − 4 sin θ ) = 0 হয়, 1 + cos ⁡ θ = 0 1 + \\cos\\theta = 0 1 + cos θ = 0 বা, cos ⁡ θ = − 1 \\cos\\theta = -1 cos θ = − 1 বা, cos ⁡ θ = cos ⁡ π \\cos\\theta = \\cos\\pi cos θ = cos π ∴ θ = π \\therefore \\theta = \\pi ∴ θ = π কিন্তু θ = π \\theta = \\pi θ = π হলে, প্রদত্ত সমীকরণটি সিদ্ধ হয় না। ∴ θ ≠ π \\therefore \\theta \\neq \\pi ∴ θ  = π অথবা, 2 − 4 sin ⁡ θ = 0 2 - 4\\sin\\theta = 0 2 − 4 sin θ = 0 বা, 4 sin ⁡ θ = 2 4\\sin\\theta = 2 4 sin θ = 2 বা, sin ⁡ θ = 2 4 \\sin\\theta = \\frac{2}{4} sin θ = 4 2 ​ বা, sin ⁡ θ = 1 2 \\sin\\theta = \\frac{1}{2} sin θ = 2 1 ​ বা, sin ⁡ θ = sin ⁡ π 6 \\sin\\theta = \\sin\\frac{\\pi}{6} sin θ = sin 6 π ​ বা, sin ⁡ θ = sin ⁡ π 6 = sin ⁡ ( π − π 6 ) \\sin\\theta = \\sin\\frac{\\pi}{6} = \\sin\\left(\\pi - \\frac{\\pi}{6}\\right) sin θ = sin 6 π ​ = sin ( π − 6 π ​ ) ∴ θ = π 6 , 5 π 6 \\therefore \\theta = \\frac{\\pi}{6}, \\frac{5\\pi}{6} ∴ θ = 6 π ​ , 6 5 π ​ প্রদত্ত সীমার মধ্যে θ \\theta θ এর মান: π 6 , 5 π 6 \\frac{\\pi}{6}, \\frac{5\\pi}{6} 6 π ​ , 6 5 π ​ (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "2 3 q 2 − p = 0 2 \\sqrt{3} q^{2}-p=0 2 3 ​ q 2 − p = 0 হলে, θ \\theta θ এর মান নির্ণয় কর। (যখন 0 ≤ θ ≤ π 0 \\leq \\theta \\leq \\pi 0 ≤ θ ≤ π )",
+          "explanation": "দেওয়া আছে, p = sin ⁡ θ p = \\sin\\theta p = sin θ , q = cos ⁡ θ q = \\cos\\theta q = cos θ দেওয়া আছে, 2 3 q 2 − p = 0 2\\sqrt{3}q^2 - p = 0 2 3 ​ q 2 − p = 0 বা, 2 3 cos ⁡ 2 θ − sin ⁡ θ = 0 2\\sqrt{3} \\cos^2\\theta - \\sin\\theta = 0 2 3 ​ cos 2 θ − sin θ = 0 বা, 2 3 ( 1 − sin ⁡ 2 θ ) − sin ⁡ θ = 0 2\\sqrt{3} (1 - \\sin^2\\theta) - \\sin\\theta = 0 2 3 ​ ( 1 − sin 2 θ ) − sin θ = 0 বা, 2 3 − 2 3 sin ⁡ 2 θ − sin ⁡ θ = 0 2\\sqrt{3} - 2\\sqrt{3} \\sin^2\\theta - \\sin\\theta = 0 2 3 ​ − 2 3 ​ sin 2 θ − sin θ = 0 বা, 2 3 sin ⁡ 2 θ + sin ⁡ θ − 2 3 = 0 2\\sqrt{3} \\sin^2\\theta + \\sin\\theta - 2\\sqrt{3} = 0 2 3 ​ sin 2 θ + sin θ − 2 3 ​ = 0 বা, 2 3 sin ⁡ 2 θ + 4 sin ⁡ θ − 3 sin ⁡ θ − 2 3 = 0 2\\sqrt{3} \\sin^2\\theta + 4\\sin\\theta - 3\\sin\\theta - 2\\sqrt{3} = 0 2 3 ​ sin 2 θ + 4 sin θ − 3 sin θ − 2 3 ​ = 0 বা, 2 sin ⁡ θ ( 3 sin ⁡ θ + 2 ) − 3 ( 3 sin ⁡ θ + 2 ) = 0 2\\sin\\theta (\\sqrt{3} \\sin\\theta + 2) - \\sqrt{3}(\\sqrt{3}\\sin\\theta + 2) = 0 2 sin θ ( 3 ​ sin θ + 2 ) − 3 ​ ( 3 ​ sin θ + 2 ) = 0 ∴ ( 3 sin ⁡ θ + 2 ) ( 2 sin ⁡ θ − 3 ) = 0 \\therefore (\\sqrt{3}\\sin\\theta + 2) (2\\sin\\theta - \\sqrt{3}) = 0 ∴ ( 3 ​ sin θ + 2 ) ( 2 sin θ − 3 ​ ) = 0 হয়, 3 sin ⁡ θ + 2 = 0 \\sqrt{3}\\sin\\theta + 2 = 0 3 ​ sin θ + 2 = 0 বা, 3 sin ⁡ θ = − 2 \\sqrt{3}\\sin\\theta = -2 3 ​ sin θ = − 2 ∴ sin ⁡ θ = − 2 3 \\therefore \\sin\\theta = -\\frac{2}{\\sqrt{3}} ∴ sin θ = − 3 ​ 2 ​ ∴ \\therefore ∴ কিন্তু sin ⁡ θ ≠ − 2 3 \\sin\\theta \\neq -\\frac{2}{\\sqrt{3}} sin θ  = − 3 ​ 2 ​ কেননা − 1 ≤ sin ⁡ θ ≤ 1 -1 \\le \\sin\\theta \\le 1 − 1 ≤ sin θ ≤ 1 অথবা, 2 sin ⁡ θ − 3 = 0 2\\sin\\theta - \\sqrt{3} = 0 2 sin θ − 3 ​ = 0 বা, 2 sin ⁡ θ = 3 2\\sin\\theta = \\sqrt{3} 2 sin θ = 3 ​ বা, sin ⁡ θ = 3 2 \\sin\\theta = \\frac{\\sqrt{3}}{2} sin θ = 2 3 ​ ​ বা, sin ⁡ θ = sin ⁡ π 3 = sin ⁡ ( π − π 3 ) \\sin\\theta = \\sin \\frac{\\pi}{3} = \\sin \\left(\\pi - \\frac{\\pi}{3}\\right) sin θ = sin 3 π ​ = sin ( π − 3 π ​ ) বা, sin ⁡ θ = sin ⁡ π 3 = sin ⁡ ( 2 π 3 ) \\sin\\theta = \\sin \\frac{\\pi}{3} = \\sin \\left(\\frac{2\\pi}{3}\\right) sin θ = sin 3 π ​ = sin ( 3 2 π ​ ) ∴ θ = π 3 , 2 π 3 \\therefore \\theta = \\frac{\\pi}{3}, \\frac{2\\pi}{3} ∴ θ = 3 π ​ , 3 2 π ​ প্রদত্ত সীমার মধ্যে θ = π 3 , 2 π 3 \\theta = \\frac{\\pi}{3}, \\frac{2\\pi}{3} θ = 3 π ​ , 3 2 π ​ (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "একটি ঝুড়িতে 10টি লাল, 12টি হলুদ, 8টি কালো এবং 15টি সাদা বল আছে।",
+      "tag": "FGCC 25",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি মুদ্রা দুইবার নিক্ষেপ করলে উভয় ক্ষেত্রে একই ফলাফল পাওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "দুইবার মুদ্রা নিক্ষেপের জন্য প্রাপ্ত ফলাফলের নমুনা ক্ষেত্র = (HH, HT, TH, TT) উভয়ক্ষেত্রে একই ফলাফল আসার সম্ভাবনা = 2 4 \\frac{2}{4} 4 2 ​ = 1 2 \\frac{1}{2} 2 1 ​ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "দৈবভাবে একটি বল তুললে বলটি লাল না হওয়ার সম্ভাবনা ও কালো হওয়ার সম্ভাবনার পার্থক্য নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, লাল বলের সংখ্যা - 10টি হলুদ বলের সংখ্যা - 12টি কালো বলের সংখ্যা - 8টি এবং সাদা বলের সংখ্যা - 15টি ∴ \\therefore ∴ মোট বলের সংখ্যা = ( 10 + 12 + 8 + 15 ) (10+12+8+15) ( 10 + 12 + 8 + 15 ) টি = 45টি ∴ \\therefore ∴ দৈবভাবে একটি বল নেওয়া হলে বলটি লাল হওয়ার সম্ভাবনা = 10 45 = 2 9 \\frac{10}{45} = \\frac{2}{9} 45 10 ​ = 9 2 ​ বলটি লাল না হওয়ার সম্ভাবনা = ( 1 − 2 9 ) = 9 − 2 9 = 7 9 \\left(1 - \\frac{2}{9}\\right) = \\frac{9-2}{9} = \\frac{7}{9} ( 1 − 9 2 ​ ) = 9 9 − 2 ​ = 9 7 ​ আবার, বলটি কালো হওয়ার সম্ভাবনা = 8 45 \\frac{8}{45} 45 8 ​ ∴ \\therefore ∴ সম্ভাবনার পার্থক্য = ( 7 9 − 8 45 ) \\left(\\frac{7}{9} - \\frac{8}{45}\\right) ( 9 7 ​ − 45 8 ​ ) = 35 − 8 45 = 27 45 = 3 5 \\frac{35-8}{45} = \\frac{27}{45} = \\frac{3}{5} 45 35 − 8 ​ = 45 27 ​ = 5 3 ​ (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "প্রতিস্থাপন না করে পর পর তিনটি বল তুললে সবগুলো বল হলুদ হওয়ার সম্ভাবনা নির্ণয় কর।",
+          "explanation": "এখানে, হলুদ বল 12 টি এবং মোট বল 45 টি প্রতিস্থাপন না করে পর পর তিনটি বল তোলা হলে, প্রথম বলটি হলুদ হওয়ার সম্ভাবনা = 12 45 = \\frac{12}{45} = 45 12 ​ দ্বিতীয় বলটি হলুদ হওয়ার সম্ভাবনা- 11 44 \\frac{11}{44} 44 11 ​ তৃতীয় বলটি হলুদ হওয়ার সম্ভাবনা- 10 43 \\frac{10}{43} 43 10 ​ ∴ \\therefore ∴ প্রতিস্থাপন না করে পর পর তিনটি বল তোলা হলে সবগুলো বল হলুদ হওয়ার সম্ভাবনা- ( 12 45 × 11 44 × 10 43 ) = 2 129 (\\frac{12}{45} \\times \\frac{11}{44} \\times \\frac{10}{43}) = \\frac{2}{129} ( 45 12 ​ × 44 11 ​ × 43 10 ​ ) = 129 2 ​ (Ans.)"
+        }
+      ]
+    }
+  ]
+}

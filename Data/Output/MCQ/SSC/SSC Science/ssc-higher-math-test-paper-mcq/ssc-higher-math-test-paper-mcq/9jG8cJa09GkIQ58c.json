@@ -1,0 +1,799 @@
+{
+  "read_id": "9jG8cJa09GkIQ58c",
+  "title": "ময়মনসিংহ গার্লস ক্যাডেট কলেজ ২০২৫",
+  "count": 24,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "MGCC 25",
+      "question": "P ( x ) = m x 4 ( 2 − 3 x − 2 x 2 ) P(x) = mx^4 (2-3x-2x^2) P ( x ) = m x 4 ( 2 − 3 x − 2 x 2 ) বহুপদীর মুখ্য সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2m",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2m",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "-2m",
+      "option_c": "2m",
+      "option_d": "2",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "MGCC 25",
+      "question": "যদি P(x) = 3 x 3 + 8 x 2 + t x + 2 3x^3 + 8x^2 + tx + 2 3 x 3 + 8 x 2 + t x + 2 কে (3x-1) দ্বারা ভাগ করলে ভাগশেষ 6 হয়, তবে t এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-9",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-12",
+      "option_b": "-9",
+      "option_c": "9",
+      "option_d": "12",
+      "correct": "গ",
+      "explanation": "P ( x ) = 3 x 3 + 8 x 2 + t x + 2 P(x)=3x^3+8x^2+tx+2 P ( x ) = 3 x 3 + 8 x 2 + t x + 2 কে ( 3 x − 1 ) (3x-1) ( 3 x − 1 ) দ্বারা ভাগ করলে ভাগশেষ হবে P ( 1 3 ) P\\left(\\frac{1}{3}\\right) P ( 3 1 ​ ) ∴ P ( 1 3 ) = 3 ( 1 3 ) 3 + 8 ( 1 3 ) 2 + t 3 + 2 \\therefore P\\left(\\frac{1}{3}\\right)=3\\left(\\frac{1}{3}\\right)^3+8\\left(\\frac{1}{3}\\right)^2+\\frac{t}{3}+2 ∴ P ( 3 1 ​ ) = 3 ( 3 1 ​ ) 3 + 8 ( 3 1 ​ ) 2 + 3 t ​ + 2 বা, 6 = 3 × 1 27 + 8 9 + t 3 + 2 6=3\\times\\frac{1}{27}+\\frac{8}{9}+\\frac{t}{3}+2 6 = 3 × 27 1 ​ + 9 8 ​ + 3 t ​ + 2 বা, 6 − 2 = 1 9 + 8 9 + t 3 6-2=\\frac{1}{9}+\\frac{8}{9}+\\frac{t}{3} 6 − 2 = 9 1 ​ + 9 8 ​ + 3 t ​ বা, 4 − 1 = t 3 4-1=\\frac{t}{3} 4 − 1 = 3 t ​ ∴ t = 3 × 3 = 9 \\therefore t=3\\times3=9 ∴ t = 3 × 3 = 9"
+    },
+    {
+      "number": "3",
+      "tag": "MGCC 25",
+      "question": "( a − b ) 3 + ( b − c ) 3 + ( c − a ) 3 − 3 ( a − b ) ( b − c ) ( c − a ) (a-b)^3 + (b-c)^3 + (c-a)^3 - 3(a-b)(b-c)(c-a) ( a − b ) 3 + ( b − c ) 3 + ( c − a ) 3 − 3 ( a − b ) ( b − c ) ( c − a ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "0",
+      "option_c": "1",
+      "option_d": "2",
+      "correct": "খ",
+      "explanation": "আমরা জানি, যদি \\(x + y + z = 0\\) হয়, তবে \\(x^3 + y^3 + z^3 = 3xyz\\) হয়। এখানে, আমরা \\(x = (a-b)\\), \\(y = (b-c)\\) এবং \\(z = (c-a)\\) ধরে নিই। এখন, \\(x + y + z\\) এর মান নির্ণয় করি: \\(x + y + z = (a-b) + (b-c) + (c-a)\\) \\(x + y + z = a-b+b-c+c-a\\) \\(x + y + z = 0\\) যেহেতু \\(x + y + z = 0\\), তাই আমরা সূত্রটি প্রয়োগ করতে পারি: \\(x^3 + y^3 + z^3 = 3xyz\\) সুতরাং, \\( (a-b)^3 + (b-c)^3 + (c-a)^3 = 3(a-b)(b-c)(c-a) \\)। এখন প্রদত্ত রাশিতে এই মানটি প্রতিস্থাপন করি: \\( (a-b)^3 + (b-c)^3 + (c-a)^3 - 3(a-b)(b-c)(c-a) \\) \\( = 3(a-b)(b-c)(c-a) - 3(a-b)(b-c)(c-a) \\) \\( = 0 \\) সুতরাং, প্রদত্ত রাশির মান \\(0\\)।"
+    },
+    {
+      "number": "4",
+      "tag": "MGCC 25",
+      "question": "2 , 2 , 6 , 2 2 , . . . . . . \\sqrt{2}, 2, \\sqrt{6}, 2\\sqrt{2}, ...... 2 ​ , 2 , 6 ​ , 2 2 ​ , ...... অনুক্রমের n-তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 n \\sqrt{2n} 2 n ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 n + 1 \\sqrt{2n+1} 2 n + 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 n − 1 \\sqrt{2n-1} 2 n − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "n + 1 \\sqrt{n+1} n + 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 n \\sqrt{2n} 2 n ​",
+      "option_b": "2 n + 1 \\sqrt{2n+1} 2 n + 1 ​",
+      "option_c": "2 n − 1 \\sqrt{2n-1} 2 n − 1 ​",
+      "option_d": "n + 1 \\sqrt{n+1} n + 1 ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "MGCC 25",
+      "question": "1 − 1 3 + 1 9 − 1 27 + . . . . . . 1 - \\frac{1}{3} + \\frac{1}{9} - \\frac{1}{27} + ...... 1 − 3 1 ​ + 9 1 ​ − 27 1 ​ + ...... অসীম ধারাটির অসীমতম সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 4 3 -\\frac{4}{3} − 3 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 3 4 -\\frac{3}{4} − 4 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 4 \\frac{3}{4} 4 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4 3 \\frac{4}{3} 3 4 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 4 3 -\\frac{4}{3} − 3 4 ​",
+      "option_b": "− 3 4 -\\frac{3}{4} − 4 3 ​",
+      "option_c": "3 4 \\frac{3}{4} 4 3 ​",
+      "option_d": "4 3 \\frac{4}{3} 3 4 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "MGCC 25",
+      "question": "6 + 3 + 3 2 + . . . . . . 6 + 3 + \\frac{3}{2} + ...... 6 + 3 + 2 3 ​ + ...... ধারাটির 20 তম পদ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 2 18 \\frac{3}{2^{18}} 2 18 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 2 19 \\frac{3}{2^{19}} 2 19 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 2 20 \\frac{3}{2^{20}} 2 20 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 21 \\frac{3}{2^{21}} 2 21 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 2 18 \\frac{3}{2^{18}} 2 18 3 ​",
+      "option_b": "3 2 19 \\frac{3}{2^{19}} 2 19 3 ​",
+      "option_c": "3 2 20 \\frac{3}{2^{20}} 2 20 3 ​",
+      "option_d": "3 2 21 \\frac{3}{2^{21}} 2 21 3 ​",
+      "correct": "ক",
+      "explanation": "6 + 3 + 3 2 + . . . . . 6+3+\\frac{3}{2}+..... 6 + 3 + 2 3 ​ + ..... যা একটি গুণোত্তর ধারা এখানে, প্রথম পদ, a = 6 a=6 a = 6 , সাধারণ অনুপাত, r = 3 6 = 1 2 r=\\frac{3}{6}=\\frac{1}{2} r = 6 3 ​ = 2 1 ​ এবং n = 20 n=20 n = 20 গুণোত্তর ধারাটির n-তম পদ = a r n − 1 =ar^{n-1} = a r n − 1 ∴ \\therefore ∴ 20 তম পদ = 6 ( 1 2 ) 20 − 1 = 6 × 1 2 19 = 3 2 18 =6\\left(\\frac{1}{2}\\right)^{20-1}=6\\times\\frac{1}{2^{19}}=\\frac{3}{2^{18}} = 6 ( 2 1 ​ ) 20 − 1 = 6 × 2 19 1 ​ = 2 18 3 ​"
+    },
+    {
+      "number": "7",
+      "tag": "MGCC 25",
+      "question": "( 1 − x ) ( 1 + x ) 3 (1-x)(1+x)^3 ( 1 − x ) ( 1 + x ) 3 এর বিস্তৃতিতে ধ্রুবক পদের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": "( 1 − x ) ( 1 + x ) 3 = ( 1 − x ) ( 1 + 3 x + 3 x 2 + x 3 ) (1-x)(1+x)^3 = (1-x)(1+ 3x + 3x^2+x^3) ( 1 − x ) ( 1 + x ) 3 = ( 1 − x ) ( 1 + 3 x + 3 x 2 + x 3 ) = 1 + 3 x + 3 x 2 + x 3 − x − 3 x 2 − 3 x 3 − x 4 = 1 + 3x + 3x^2+x^3-x-3x^2-3x^3 - x^4 = 1 + 3 x + 3 x 2 + x 3 − x − 3 x 2 − 3 x 3 − x 4 = 1 + 2 x − 2 x 3 − x 4 = 1 + 2x - 2x^3-x^4 = 1 + 2 x − 2 x 3 − x 4 ∴ \\therefore ∴ ধ্রুবক পদ = 1"
+    },
+    {
+      "number": "8",
+      "tag": "MGCC 25",
+      "question": "( y 3 + 3 y 2 + 3 y + 1 ) 6 (y^3 + 3y^2 + 3y + 1)^6 ( y 3 + 3 y 2 + 3 y + 1 ) 6 এর বিস্তৃতিতে- i. y-মুক্ত পদ 1 ii. পদসংখ্যা 19 iii. মধ্যপদ 43758 y 10 43758y^{10} 43758 y 10 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "( y 3 + 3 y 2 + 3 y + 1 ) 6 = ( ( y + 1 ) 3 ) 6 = ( y + 1 ) 18 (y^3 + 3y^2 + 3y + 1)^6 = ((y+1)^3)^6 = (y+1)^{18} ( y 3 + 3 y 2 + 3 y + 1 ) 6 = (( y + 1 ) 3 ) 6 = ( y + 1 ) 18 এর বিস্তৃতিতে– (i) y-মুক্ত পদ = 1 (ii) পদসংখ্যা = 18+ 1 = 19 (iii) মধ্যপদ = 18 C 9 . y 9 = 48620 y 9 ^{18}C_9. y^9 = 48620y^9 18 C 9 ​ . y 9 = 48620 y 9 ∴ \\therefore ∴ (iii) নং তথ্যটি সঠিক নয়।"
+    },
+    {
+      "number": "9",
+      "tag": "MGCC 25",
+      "question": "AB, AC ও BC বাহুর মধ্যবিন্দুযথাক্রমে D,E,S ও F ABC ত্রিভুজে- i. F G : G A = 1 : 2 FG : GA = 1:2 FG : G A = 1 : 2 ii. A B ⃗ + A C ⃗ = 2 A F ⃗ \\vec{AB} + \\vec{AC} = 2\\vec{AF} A B + A C = 2 A F iii. A F ⃗ + B E ⃗ + D C ⃗ = 0 ⃗ \\vec{AF} + \\vec{BE} + \\vec{DC} = \\vec{0} A F + BE + D C = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "ABC ত্রিভুজে AB, AC ও BC বাহুর মধ্যবিন্দু D, E ও F হওয়ায় A F ⃗ + B E ⃗ + C D ⃗ = 0 ⃗ \\vec{AF}+ \\vec{BE} + \\vec{CD} = \\vec{0} A F + BE + C D = 0 হবে। ∴ \\therefore ∴ (iii) নং তথ্যটি সত্য নয়।"
+    },
+    {
+      "number": "10",
+      "tag": "MGCC 25",
+      "question": "AB, AC ও BC বাহুর মধ্যবিন্দুযথাক্রমে D,E,S ও F A D ⃗ + 1 2 B C ⃗ = ? \\vec{AD} + \\frac{1}{2}\\vec{BC} = ? A D + 2 1 ​ BC = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "E C ⃗ \\vec{EC} EC",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "C E ⃗ \\vec{CE} CE",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "A C ⃗ \\vec{AC} A C",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "C A ⃗ \\vec{CA} C A",
+          "is_correct": false
+        }
+      ],
+      "option_a": "E C ⃗ \\vec{EC} EC",
+      "option_b": "C E ⃗ \\vec{CE} CE",
+      "option_c": "A C ⃗ \\vec{AC} A C",
+      "option_d": "C A ⃗ \\vec{CA} C A",
+      "correct": "ক",
+      "explanation": "১০. D, AB এর মধ্যবিন্দু বলে, A D ⃗ = D B ⃗ \\vec{AD} = \\vec{DB} A D = D B F, BC এর মধ্যবিন্দু বলে, B F ⃗ = 1 2 B C ⃗ \\vec{BF} = \\frac{1}{2}\\vec{BC} BF = 2 1 ​ BC আবার, D F ⃗ = 1 2 A C ⃗ \\vec{DF} = \\frac{1}{2}\\vec{AC} D F = 2 1 ​ A C [দুই বাহুর মধ্যবিন্দুর সংযোজক সরলরেখা তৃতীয় বাহুর অর্ধেক] = E C ⃗ = \\vec{EC} = EC [E, AC এর মধ্যবিন্দু] ∴ A D ⃗ + 1 2 B C ⃗ = A D ⃗ + B F ⃗ = D B ⃗ + B F ⃗ = D F ⃗ = E C ⃗ \\therefore \\vec{AD} + \\frac{1}{2}\\vec{BC} = \\vec{AD} + \\vec{BF} = \\vec{DB} + \\vec{BF} = \\vec{DF} = \\vec{EC} ∴ A D + 2 1 ​ BC = A D + BF = D B + BF = D F = EC"
+    },
+    {
+      "number": "11",
+      "tag": "MGCC 25",
+      "question": "n C 3 = ? ^n C_3 = ? n C 3 ​ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "n",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "n ( n − 1 ) ( n − 2 ) 3 \\frac{n(n-1)(n-2)}{3} 3 n ( n − 1 ) ( n − 2 ) ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "n ( n − 1 ) ( n − 2 ) 3 ! \\frac{n(n-1)(n-2)}{3!} 3 ! n ( n − 1 ) ( n − 2 ) ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3",
+      "option_b": "n",
+      "option_c": "n ( n − 1 ) ( n − 2 ) 3 \\frac{n(n-1)(n-2)}{3} 3 n ( n − 1 ) ( n − 2 ) ​",
+      "option_d": "n ( n − 1 ) ( n − 2 ) 3 ! \\frac{n(n-1)(n-2)}{3!} 3 ! n ( n − 1 ) ( n − 2 ) ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "MGCC 25",
+      "question": "3 x = 1 3 y − 3 \\sqrt{3x} = \\frac{1}{\\sqrt{3}}y - 3 3 x ​ = 3 ​ 1 ​ y − 3 সমীকরণে y-অক্ষের কতিত অংশের পরিমাণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 3 3\\sqrt{3} 3 3 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​",
+      "option_b": "3 \\sqrt{3} 3 ​",
+      "option_c": "3",
+      "option_d": "3 3 3\\sqrt{3} 3 3 ​",
+      "correct": "ঘ",
+      "explanation": "মূল সমীকরণটি হলো \\( \\sqrt{3x} = \\frac{1}{\\sqrt{3}}y - 3 \\) । \\( y \\)-অক্ষের কর্তিত অংশ বের করার জন্য, আমরা \\( x=0 \\) বসাবো। তাহলে সমীকরণটি দাঁড়ায়: \\( \\sqrt{3 \\times 0} = \\frac{1}{\\sqrt{3}}y - 3 \\) \\( 0 = \\frac{1}{\\sqrt{3}}y - 3 \\) \\( \\frac{1}{\\sqrt{3}}y = 3 \\) উভয় পক্ষকে \\( \\sqrt{3} \\) দিয়ে গুণ করে পাই: \\( y = 3\\sqrt{3} \\) সুতরাং, \\( y \\)-অক্ষের কর্তিত অংশের পরিমাণ হলো \\( 3\\sqrt{3} \\) ।"
+    },
+    {
+      "number": "13",
+      "tag": "MGCC 25",
+      "question": "যদি cos ⁡ ( π 2 + θ ) = − 1 2 \\cos \\left( \\frac{\\pi}{2} + \\theta \\right) = -\\frac{1}{2} cos ( 2 π ​ + θ ) = − 2 1 ​ হয়, θ \\theta θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 60 ∘ -60^\\circ − 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "− 30 ∘ -30^\\circ − 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30 ∘ 30^\\circ 3 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "60 ∘ 60^\\circ 6 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 60 ∘ -60^\\circ − 6 0 ∘",
+      "option_b": "− 30 ∘ -30^\\circ − 3 0 ∘",
+      "option_c": "30 ∘ 30^\\circ 3 0 ∘",
+      "option_d": "60 ∘ 60^\\circ 6 0 ∘",
+      "correct": "গ",
+      "explanation": "cos ⁡ ( π 2 + θ ) = − 1 2 \\cos \\left(\\frac{\\pi}{2} + \\theta\\right) = -\\frac{1}{2} cos ( 2 π ​ + θ ) = − 2 1 ​ বা, − sin ⁡ θ = − 1 2 -\\sin\\theta = -\\frac{1}{2} − sin θ = − 2 1 ​ বা, sin ⁡ θ = 1 2 \\sin\\theta = \\frac{1}{2} sin θ = 2 1 ​ , sin ⁡ θ = sin ⁡ 30 ∘ ∴ θ = 30 ∘ \\sin\\theta = \\sin30^\\circ \\therefore \\theta = 30^\\circ sin θ = sin 3 0 ∘ ∴ θ = 3 0 ∘"
+    },
+    {
+      "number": "14",
+      "tag": "MGCC 25",
+      "question": "যদি cot ⁡ θ = 1 3 \\cot \\theta = \\frac{1}{\\sqrt{3}} cot θ = 3 ​ 1 ​ হয়, তবে 3 tan ⁡ ( 3 π 2 − θ ) = ? \\sqrt{3} \\tan \\left( \\frac{3\\pi}{2} - \\theta \\right) = ? 3 ​ tan ( 2 3 π ​ − θ ) = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "-1",
+      "option_c": "1",
+      "option_d": "3",
+      "correct": "গ",
+      "explanation": "দেওয়া আছে, cot ⁡ θ = 1 3 \\cot\\theta = \\frac{1}{\\sqrt{3}} cot θ = 3 ​ 1 ​ এখন, 3 tan ⁡ ( 3 π 2 − θ ) = 3 cot ⁡ θ = 3 ⋅ 1 3 = 1 \\sqrt{3} \\tan \\left(\\frac{3\\pi}{2} - \\theta\\right) = \\sqrt{3}\\cot\\theta = \\sqrt{3} \\cdot \\frac{1}{\\sqrt{3}} = 1 3 ​ tan ( 2 3 π ​ − θ ) = 3 ​ cot θ = 3 ​ ⋅ 3 ​ 1 ​ = 1"
+    },
+    {
+      "number": "15",
+      "tag": "MGCC 25",
+      "question": "sin ⁡ 4 θ = ? \\sin 4\\theta = ? sin 4 θ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "sin ⁡ 2 θ cos ⁡ 2 θ \\sin 2\\theta \\cos 2\\theta sin 2 θ cos 2 θ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 sin ⁡ 2 θ cos ⁡ 2 θ 2\\sin 2\\theta \\cos 2\\theta 2 sin 2 θ cos 2 θ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "sin ⁡ θ cos ⁡ θ \\sin \\theta \\cos \\theta sin θ cos θ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 sin ⁡ θ cos ⁡ θ 2\\sin \\theta \\cos \\theta 2 sin θ cos θ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "sin ⁡ 2 θ cos ⁡ 2 θ \\sin 2\\theta \\cos 2\\theta sin 2 θ cos 2 θ",
+      "option_b": "2 sin ⁡ 2 θ cos ⁡ 2 θ 2\\sin 2\\theta \\cos 2\\theta 2 sin 2 θ cos 2 θ",
+      "option_c": "sin ⁡ θ cos ⁡ θ \\sin \\theta \\cos \\theta sin θ cos θ",
+      "option_d": "2 sin ⁡ θ cos ⁡ θ 2\\sin \\theta \\cos \\theta 2 sin θ cos θ",
+      "correct": "",
+      "explanation": "sin 4\\theta এর মান হলো \\(2\\sin 2\\theta \\cos 2\\theta\\)। এটি একটি ত্রিকোণমিতিক অভেদ।"
+    },
+    {
+      "number": "16",
+      "tag": "MGCC 25",
+      "question": "একটি নিরপেক্ষ ছক্কা নিক্ষেপ করলে- i. জোড় সংখ্যা পাওয়ার সম্ভাবনা 1 2 \\frac{1}{2} 2 1 ​ ii. জোড় অথবা মৌলিক সংখ্যা পাওয়ার সম্ভাবনা 5 6 \\frac{5}{6} 6 5 ​ iii. বিজোড় সংখ্যা পাওয়ার সম্ভাবনা অথবা 2 এর গুণিতক সংখ্যা পাওয়ার সম্ভাবনা সমসম্ভাব্য নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "MGCC 25",
+      "question": "যদি 9ˣ = 27ʸ হয়, তবে y + x y − x = ? \\frac{y+x}{y-x} = ? y − x y + x ​ = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 3 \\frac{2}{3} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-5",
+      "option_b": "2 3 \\frac{2}{3} 3 2 ​",
+      "option_c": "5",
+      "option_d": "3 2 \\frac{3}{2} 2 3 ​",
+      "correct": "ক",
+      "explanation": "9 x = 27 y 9^x = 27^y 9 x = 2 7 y বা, ( 3 2 ) x = ( 3 3 ) y (3^2)^x = (3^3)^y ( 3 2 ) x = ( 3 3 ) y বা, 3 2 x = 3 3 y 3^{2x} = 3^{3y} 3 2 x = 3 3 y বা, 2 x = 3 y 2x = 3y 2 x = 3 y বা, y x = 2 3 \\frac{y}{x} = \\frac{2}{3} x y ​ = 3 2 ​ বা, y + x y − x = 2 + 3 2 − 3 ∴ y + x y − x = − 5 \\frac{y+x}{y-x} = \\frac{2+3}{2-3} \\therefore \\frac{y+x}{y-x} = -5 y − x y + x ​ = 2 − 3 2 + 3 ​ ∴ y − x y + x ​ = − 5"
+    },
+    {
+      "number": "18",
+      "tag": "MGCC 25",
+      "question": "y = ( 1 2 ) x y = \\left(\\frac{1}{2}\\right)^x y = ( 2 1 ​ ) x এর রেঞ্জ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( − ∞ , ∞ ) (-\\infty, \\infty) ( − ∞ , ∞ )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "( − ∞ , 0 ) (-\\infty, 0) ( − ∞ , 0 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 0 , ∞ ) (0, \\infty) ( 0 , ∞ )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "( 1 2 , ∞ ) \\left(\\frac{1}{2}, \\infty\\right) ( 2 1 ​ , ∞ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( − ∞ , ∞ ) (-\\infty, \\infty) ( − ∞ , ∞ )",
+      "option_b": "( − ∞ , 0 ) (-\\infty, 0) ( − ∞ , 0 )",
+      "option_c": "( 0 , ∞ ) (0, \\infty) ( 0 , ∞ )",
+      "option_d": "( 1 2 , ∞ ) \\left(\\frac{1}{2}, \\infty\\right) ( 2 1 ​ , ∞ )",
+      "correct": "গ",
+      "explanation": "দেওয়া আছে, ফাংশনটি হলো \\(y = \\left(\\frac{1}{2}\\right)^x\\)। আমরা জানি যে, \\(a^x\\) আকারের ফাংশনের জন্য, যেখানে \\(a > 0\\) এবং \\(a eq 1\\), ফাংশনের রেঞ্জ সর্বদা \\((0, \\infty)\\) হয়। এখানে, \\(a = \\frac{1}{2}\\) যা \\(0 সুতরাং, এই ফাংশনের আউটপুট \\(y\\) সর্বদা ধনাত্মক হবে এবং \\(0\\) হতে পারে না। \\(x\\) এর মান যতই ঋণাত্মক হোক বা ধনাত্মক হোক, \\(y\\) এর মান কখনও \\(0\\) হবে না, কিন্তু \\(0\\) এর খুব কাছাকাছি হতে পারে। উদাহরণস্বরূপ: - যখন \\(x = 0\\), \\(y = \\left(\\frac{1}{2}\\right)^0 = 1\\) - যখন \\(x = 1\\), \\(y = \\left(\\frac{1}{2}\\right)^1 = \\frac{1}{2}\\) - যখন \\(x = -1\\), \\(y = \\left(\\frac{1}{2}\\right)^{-1} = 2\\) - যখন \\(x \\to \\infty\\), \\(y \\to 0\\) (কিন্তু \\(0\\) নয়) - যখন \\(x \\to -\\infty\\), \\(y \\to \\infty\\) অতএব, \\(y = \\left(\\frac{1}{2}\\right)^x\\) ফাংশনের রেঞ্জ হলো \\((0, \\infty)\\)।"
+    },
+    {
+      "number": "19",
+      "tag": "MGCC 25",
+      "question": "যদি 7 3 x − 6 = ( 5 ) 6 x − 12 7^{3x-6} = (\\sqrt{5})^{6x-12} 7 3 x − 6 = ( 5 ​ ) 6 x − 12 হয়, তবে x = x = x = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7 5 \\frac{7}{5} 5 7 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "7 5 \\frac{7}{5} 5 7 ​",
+      "option_d": "2",
+      "correct": "ঘ",
+      "explanation": "দেওয়া আছে, 7 3 x − 6 = ( 5 ) 6 x − 12 7^{3x-6} = (\\sqrt{5})^{6x-12} 7 3 x − 6 = ( 5 ​ ) 6 x − 12 বা, 7 3 x − 6 = 5 3 x − 6 7^{3x-6} = 5^{3x-6} 7 3 x − 6 = 5 3 x − 6 বা, ( 7 5 ) 3 x − 6 = ( 7 5 ) 0 (\\frac{7}{5})^{3x-6} = (\\frac{7}{5})^0 ( 5 7 ​ ) 3 x − 6 = ( 5 7 ​ ) 0 বা, 3 x − 6 = 0 ∴ x = 2 3x-6=0 \\therefore x=2 3 x − 6 = 0 ∴ x = 2"
+    },
+    {
+      "number": "20",
+      "tag": "MGCC 25",
+      "question": "যদি ঢাল ঋণাত্মক হয়, তবে y y y -অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ কিরূপ হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সূক্ষ্মকোণ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "স্থূলকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমকোণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্রবৃদ্ধকোণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সূক্ষ্মকোণ",
+      "option_b": "স্থূলকোণ",
+      "option_c": "সমকোণ",
+      "option_d": "প্রবৃদ্ধকোণ",
+      "correct": "ক",
+      "explanation": "যখন ঢাল ঋণাত্মক হয়, তখন \\( y \\)-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণটি হবে সূক্ষ্মকোণ। এর কারণ হলো, ঢাল ঋণাত্মক হওয়ার অর্থ হলো রেখাটি বাম থেকে ডানে নিম্নগামী। যদি ঢাল \\( m \\) হয়, তাহলে \\( m = \\tan \\theta \\), যেখানে \\( \\theta \\) হলো \\( x \\)-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ। যদি \\( m ধরা যাক, \\( x \\)-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ হলো \\( \\theta \\)। তাহলে \\( y \\)-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ হবে \\( \\alpha \\)। যদি রেখাটি \\( x \\)-অক্ষের ধনাত্মক দিকের সাথে \\( \\theta \\) কোণ তৈরি করে, তবে \\( y \\)-অক্ষের ধনাত্মক দিকের সাথে এর কোণ \\( \\alpha = 90^\\circ - \\theta \\) (যদি \\( \\theta \\) সূক্ষ্মকোণ হয়) অথবা \\( \\alpha = \\theta - 90^\\circ \\) (যদি \\( \\theta \\) স্থূলকোণ হয়) অথবা আরও সাধারণভাবে, \\( \\alpha \\) এবং \\( \\theta \\) এর মধ্যে সম্পর্কটি নির্ভর করে রেখাটি কোন চতুর্ভাগে অবস্থিত তার ওপর। ঢাল ঋণাত্মক হলে, \\( x \\)-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ \\( \\theta \\) স্থূলকোণ হয় (অর্থাৎ, \\( 90^\\circ এই ক্ষেত্রে, \\( y \\)-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ \\( \\alpha \\) হবে \\( \\theta - 90^\\circ \\) (যদি রেখাটি দ্বিতীয় চতুর্ভাগে থাকে)। উদাহরণস্বরূপ, যদি \\( \\theta = 135^\\circ \\) হয়, তবে ঢাল \\( m = \\tan 135^\\circ = -1 \\)। তখন \\( y \\)-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ হবে \\( \\alpha = 135^\\circ - 90^\\circ = 45^\\circ \\)। এটি একটি সূক্ষ্মকোণ। সুতরাং, যখন ঢাল ঋণাত্মক হয়, তখন \\( y \\)-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ সর্বদা একটি সূক্ষ্মকোণ হবে।"
+    },
+    {
+      "number": "21",
+      "tag": "MGCC 25",
+      "question": "নিচের কোন ভেক্টরের দিক নির্ণয় করা যায় না?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "একক ভেক্টর",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শূন্য ভেক্টর",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "অবস্থান ভেক্টর",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সমান ভেক্টর",
+          "is_correct": false
+        }
+      ],
+      "option_a": "একক ভেক্টর",
+      "option_b": "শূন্য ভেক্টর",
+      "option_c": "অবস্থান ভেক্টর",
+      "option_d": "সমান ভেক্টর",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "MGCC 25",
+      "question": "নিচের তথ্যের আলোকে (২২ ও ২৩) নং প্রশ্নের উত্তর দাও: তিনটি বিন্দুর স্থানাঙ্ক যথাক্রমে A ( a , 0 ) , B ( 0 , b ) A(a,0), B(0,b) A ( a , 0 ) , B ( 0 , b ) ও C ( 2 , 2 ) C(2,2) C ( 2 , 2 ) . 22.1. AB এর সমীকরণ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "b x + a y = a b bx + ay = ab b x + a y = ab",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "b x + a y = 1 bx + ay = 1 b x + a y = 1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a x + b y = 1 ax + by = 1 a x + b y = 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a x + b y = a b ax + by = ab a x + b y = ab",
+          "is_correct": false
+        }
+      ],
+      "option_a": "b x + a y = a b bx + ay = ab b x + a y = ab",
+      "option_b": "b x + a y = 1 bx + ay = 1 b x + a y = 1",
+      "option_c": "a x + b y = 1 ax + by = 1 a x + b y = 1",
+      "option_d": "a x + b y = a b ax + by = ab a x + b y = ab",
+      "correct": "ক",
+      "explanation": "A ( a , 0 ) A(a, 0) A ( a , 0 ) ও B ( 0 , b ) B(0, b) B ( 0 , b ) বিন্দুগামী AB সরলরেখার সমীকরণ, x a + y b = 1 \\frac{x}{a} + \\frac{y}{b} = 1 a x ​ + b y ​ = 1 ∴ b x + a y = a b \\therefore bx + ay = ab ∴ b x + a y = ab"
+    },
+    {
+      "number": "23",
+      "tag": "MGCC 25",
+      "question": "11 হতে 97 পর্যন্ত যেকোনো একটি সংখ্যা নিলে সংখ্যাটি মৌলিক হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "19 87 \\frac{19}{87} 87 19 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20 87 \\frac{20}{87} 87 20 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "21 87 \\frac{21}{87} 87 21 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 87 \\frac{25}{87} 87 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "19 87 \\frac{19}{87} 87 19 ​",
+      "option_b": "20 87 \\frac{20}{87} 87 20 ​",
+      "option_c": "21 87 \\frac{21}{87} 87 21 ​",
+      "option_d": "25 87 \\frac{25}{87} 87 25 ​",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "24",
+      "tag": "MGCC 25",
+      "question": "যদি P ( E ) = 3 7 P(E) = \\frac{3}{7} P ( E ) = 7 3 ​ হয়, তবে P ( E ′ ) P(E') P ( E ′ ) = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 7 \\frac{3}{7} 7 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4 7 \\frac{4}{7} 7 4 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "3 7 \\frac{3}{7} 7 3 ​",
+      "option_d": "4 7 \\frac{4}{7} 7 4 ​",
+      "correct": "ঘ",
+      "explanation": "যদি \\(P(E) = \\frac{3}{7}\\) হয়, তাহলে \\(P(E')\\) নির্ণয় করার জন্য আমরা জানি যে, একটি ঘটনা ঘটার সম্ভাবনা এবং ঘটনাটি না ঘটার সম্ভাবনার যোগফল 1 হয়। অর্থাৎ, \\(P(E) + P(E') = 1\\)। \\ এখানে, \\(P(E) = \\frac{3}{7}\\) দেওয়া আছে। \\ তাহলে, \\(\\frac{3}{7} + P(E') = 1\\) \\ \\(P(E') = 1 - \\frac{3}{7}\\) \\ \\(P(E') = \\frac{7 - 3}{7}\\) \\ \\(P(E') = \\frac{4}{7}\\)। \\ সুতরাং, \\(P(E') = \\frac{4}{7}\\)।"
+    }
+  ]
+}

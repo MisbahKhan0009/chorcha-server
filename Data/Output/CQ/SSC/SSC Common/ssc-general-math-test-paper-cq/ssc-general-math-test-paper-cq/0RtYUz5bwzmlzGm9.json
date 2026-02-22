@@ -1,0 +1,182 @@
+{
+  "title": "ফৌজদারহাট ক্যাডেট কলেজ ২০২৫",
+  "subtitle": "সংক্ষিপ্ত প্রশ্ন (15)",
+  "questions": [
+    {
+      "number": "1",
+      "uddipok": "x = 5 + 2 3 \\frac{\\sqrt{5}+\\sqrt{2}}{3} 3 5 ​ + 2 ​ ​ , y= 5 − 2 \\sqrt{5}-\\sqrt{2} 5 ​ − 2 ​",
+      "tag": "FCC 26",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "উৎপাদকে বিশ্লেষণ কর: ( 2 a − b ) 3 − 27 (2a - b)^3 - 27 ( 2 a − b ) 3 − 27",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "3 x y ( 9 x 2 + y 2 ) 3xy(9x^2 + y^2) 3 x y ( 9 x 2 + y 2 ) এর মান নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "প্রমাণ কর যে, 27 y 3 − y 3 = 34 2 \\frac{27}{y^3}-y^3 = 34\\sqrt{2} y 3 27 ​ − y 3 = 34 2 ​",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "uddipok": "A = { 4 , 5 , 6 , 7 } , B = { 0 , 1 , 2 , 3 }  এবং  R = { ( x , y ) : x ∈ A , A = \\{4, 5, 6, 7\\}, B = \\{0, 1, 2, 3\\} \\text{ এবং } R = \\{(x, y): x \\in A, A = { 4 , 5 , 6 , 7 } , B = { 0 , 1 , 2 , 3 }   এবং   R = {( x , y ) : x ∈ A , y ∈ A  এবং  y = x + 1 } y \\in A \\text{ এবং } y = x+1\\} y ∈ A   এবং   y = x + 1 }",
+      "tag": "FCC 26",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "প্রমাণ কর: A এবং B সেটদ্বয় পরস্পর নিশ্ছেদ সেট।",
+          "explanation": "দেওয়া আছে, A = { 4 , 5 , 6 , 7 } A = \\{4, 5, 6, 7\\} A = { 4 , 5 , 6 , 7 } এবং B = { 0 , 1 , 2 , 3 } B = \\{0, 1, 2, 3\\} B = { 0 , 1 , 2 , 3 } A ∩ B = { 4 , 5 , 6 , 7 } ∩ { 0 , 1 , 2 , 3 } = ∅ A \\cap B = \\{4, 5, 6, 7\\} \\cap \\{0, 1, 2, 3\\} = \\emptyset A ∩ B = { 4 , 5 , 6 , 7 } ∩ { 0 , 1 , 2 , 3 } = ∅ ∴ \\therefore ∴ A এবং B সেটদ্বয় পরস্পর নিশ্ছেদ সেট। (প্রমাণিত)"
+        },
+        {
+          "label": "খ",
+          "question": "P(B) নির্ণয় কর এবং দেখাও যে, P(B) এর উপাদান সংখ্যা",
+          "explanation": "দেওয়া আছে, B = { 0 , 1 , 2 , 3 } B = \\{0, 1, 2, 3\\} B = { 0 , 1 , 2 , 3 } B সেটের উপাদান সংখ্যা, n = 4 n=4 n = 4 ∴ P ( B ) = { { 0 } , { 1 } , { 2 } , { 3 } , { 0 , 1 } , { 0 , 2 } , { 0 , 3 } , { 1 , 2 } , \\therefore P(B) = \\{\\{0\\}, \\{1\\}, \\{2\\}, \\{3\\}, \\{0, 1\\}, \\{0, 2\\}, \\{0, 3\\}, \\{1, 2\\}, ∴ P ( B ) = {{ 0 } , { 1 } , { 2 } , { 3 } , { 0 , 1 } , { 0 , 2 } , { 0 , 3 } , { 1 , 2 } , { 1 , 3 } , { 2 , 3 } , { 0 , 1 , 2 } , { 0 , 1 , 3 } , { 0 , 2 , 3 } , { 1 , 2 , 3 } , \\{1, 3\\}, \\{2, 3\\}, \\{0, 1, 2\\}, \\{0, 1, 3\\}, \\{0, 2, 3\\}, \\{1, 2, 3\\}, { 1 , 3 } , { 2 , 3 } , { 0 , 1 , 2 } , { 0 , 1 , 3 } , { 0 , 2 , 3 } , { 1 , 2 , 3 } , { 0 , 1 , 2 , 3 } , ∅ } \\{0, 1, 2, 3\\}, \\emptyset\\} { 0 , 1 , 2 , 3 } , ∅ } ∴ P ( B ) \\therefore P(B) ∴ P ( B ) এর উপাদান সংখ্যা = 16 = 2 4 = 2 n 16=2^4 = 2^n 16 = 2 4 = 2 n (দেখানো হলো)"
+        },
+        {
+          "label": "গ",
+          "question": "তালিকা পদ্ধতিতে R অন্বয়টিকে প্রকাশ কর এবং ডোমেন নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, A = { 4 , 5 , 6 , 7 } A = \\{4, 5, 6, 7\\} A = { 4 , 5 , 6 , 7 } এবং R = { ( x , y ) : x ∈ A , y ∈ A  এবং  y = x + 1 } R = \\{(x, y): x \\in A, y \\in A \\text{ এবং } y = x + 1\\} R = {( x , y ) : x ∈ A , y ∈ A   এবং   y = x + 1 } সকল x ∈ A x \\in A x ∈ A এর জন্য y = x + 1 y = x + 1 y = x + 1 এর মান নির্ণয় করি: x y 4 5 5 6 6 7 7 8 যেহেতু 4 ∉ A 4 \\notin A 4 ∈ / A , অতএব, ( 7 , 8 ) ∉ R (7, 8) \\notin R ( 7 , 8 ) ∈ / R . ∴ R = { ( 4 , 5 ) , ( 5 , 6 ) , ( 6 , 7 ) } \\therefore R = \\{ (4, 5), (5, 6), (6, 7) \\} ∴ R = {( 4 , 5 ) , ( 5 , 6 ) , ( 6 , 7 )} এবং ডোমেন = { 4 , 5 , 6 } = \\{4, 5, 6\\} = { 4 , 5 , 6 } (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "uddipok": "চিত্রে ০ বৃত্তটির কেন্দ্র।",
+      "tag": "FCC 26",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "প্রমাণ কর যে, ∠ S R M = 1 2 ∠ S O M \\angle SRM=\\frac{1}{2}\\angle SOM ∠ SRM = 2 1 ​ ∠ SOM",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "প্রমাণ কর যে, ∠ R S T + ∠ R M T = 180 ∘ \\angle RST + \\angle RMT = 180^\\circ ∠ RST + ∠ RMT = 18 0 ∘",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "uddipok": "a = 5 সেমি, b = 8 সেমি, ∠ x = 60 ∘ \\angle x = 60^\\circ ∠ x = 6 0 ∘ এবং ∠ y = 45 ∘ \\angle y = 45^\\circ ∠ y = 4 5 ∘",
+      "tag": "FCC 26",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "যেকোনো ত্রিভুজের অন্তর্বৃত্ত অঙ্কন কর।",
+          "explanation": "DEF ত্রিভুজটির অন্তবৃত্ত অঙ্কন করা হলো যার কেন্দ্র O O O এবং বৃত্তটি ত্রিভুজটিকে যথাক্রমে A A A , B B B ও C C C বিন্দুতে স্পর্শ করে।"
+        },
+        {
+          "label": "খ",
+          "question": "a ও b একটি ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয় এবং 'b' বাহু সংলগ্ন কোণদ্বয় ∠ x \\angle x ∠ x ও ∠ y \\angle y ∠ y হলে বর্ণনাসহ ট্রাপিজিয়ামটি অঙ্কন কর।",
+          "explanation": "দেওয়া আছে, ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয়, a = 5 a = 5 a = 5 সে. মি. ও b = 8 b = 8 b = 8 সে. মি. এবং বৃহত্তর বাহু সংলগ্ন কোণদ্বয় ∠ x = 60 ∘ \\angle x = 60^\\circ ∠ x = 6 0 ∘ ও ∠ y = 45 ∘ \\angle y = 45^\\circ ∠ y = 4 5 ∘ । ট্রাপিজিয়ামটি আঁকতে হবে। অঙ্কনের বিবরণ: (১) যে কোনো রশ্মি CX থেকে C D = b = 8 CD = b = 8 C D = b = 8 সে. মি. কেটে নিই। (২) CD রেখাংশের C বিন্দুতে ∠ x = 60 ∘ \\angle x = 60^\\circ ∠ x = 6 0 ∘ এর সমান ∠ D C Y \\angle DCY ∠ D C Y এবং D বিন্দুতে ∠ y = 45 ∘ \\angle y = 45^\\circ ∠ y = 4 5 ∘ এর সমান ∠ C D Z \\angle CDZ ∠ C D Z আঁকি। (৩) আবার CD রেখাংশ থেকে C E = a = 5 CE = a = 5 CE = a = 5 সে. মি. কেটে নেই। (৪) E বিন্দুতে E A ∥ C Y EA \\parallel CY E A ∥ C Y আঁকি যা DZ রশ্মিকে A বিন্দুতে ছেদ করে। (৫) আবার C D ∥ B A CD \\parallel BA C D ∥ B A আঁকি যা CY রশ্মিকে B বিন্দুতে ছেদ করে। তাহলে, ABCD ই উদ্দিষ্ট ট্রাপিজিয়াম।"
+        },
+        {
+          "label": "গ",
+          "question": "'a' ও 'b' একটি সামান্তরিকের কর্ণদ্বয় এবং কর্ণদ্বয়ের মধ্যবর্তী কোণ ∠ x \\angle x ∠ x হলে বর্ণনাসহ সামান্তরিকটি অঙ্কন কর।",
+          "explanation": "মনে করি, একটি সামান্তরিকের কর্ণদ্বয়ের দৈর্ঘ্য যথাক্রমে a = 5 a = 5 a = 5 সে.মি. ও b = 8 b = 8 b = 8 সে.মি. এবং এদের অন্তর্ভুক্ত কোণ ∠ x = 60 ∘ \\angle x = 60^\\circ ∠ x = 6 0 ∘ দেওয়া আছে। সামান্তরিকটি আঁকতে হবে। অঙ্কনের বিবরণ: (১) যেকোনো রশ্মি AM থেকে AC = = = a = = = 5 সে.মি. কেটে নিই। AC এর মধ্যবিন্দু O নির্ণয় করি। (২) O বিন্দুতে ∠ A O P = ∠ x = 60 ∘ \\angle AOP = \\angle x = 60^\\circ ∠ A OP = ∠ x = 6 0 ∘ আঁকি। (৩) OP এর বিপরীত রশ্মি OQ আঁকি। (৪) কর্ণ b b b কে সমদ্বিখণ্ডিত করি। OP এবং OQ থেকে 1 2 \\frac{1}{2} 2 1 ​ b b b এর সমান করে যথাক্রমে OB এবং OD অংশ কেটে নিই। (৫) এখন, A, B; B, C; C, D এবং D, A যোগ করি। তাহলে, ABCD-ই উদ্দিষ্ট সামান্তরিক।"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "uddipok": "দৃশ্যকল্প-১: A = 1 + sin ⁡ θ , B = 1 − sin ⁡ θ , C = sec ⁡ θ + tan ⁡ θ A = 1 + \\sin\\theta, B = 1 - \\sin\\theta, C = \\sec\\theta + \\tan\\theta A = 1 + sin θ , B = 1 − sin θ , C = sec θ + tan θ দৃশ্যকল্প-২: ϕ = tan ⁡ x − sin ⁡ x tan ⁡ x + sin ⁡ x \\phi = \\frac{\\tan x - \\sin x}{\\tan x + \\sin x} ϕ = t a n x + s i n x t a n x − s i n x ​",
+      "tag": "FCC 26",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "AB এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, A = 1 + sin ⁡ θ A = 1 + \\sin\\theta A = 1 + sin θ , B = 1 − sin ⁡ θ B = 1 - \\sin\\theta B = 1 − sin θ ∴ A B = ( 1 + sin ⁡ θ ) ( 1 − sin ⁡ θ ) = 1 − sin ⁡ 2 θ = cos ⁡ 2 θ \\therefore AB = (1 + \\sin\\theta)(1 - \\sin\\theta) = 1 - \\sin^2\\theta = \\cos^2\\theta ∴ A B = ( 1 + sin θ ) ( 1 − sin θ ) = 1 − sin 2 θ = cos 2 θ (Ans.)"
+        },
+        {
+          "label": "খ",
+          "question": "C = 3 C = \\sqrt{3} C = 3 ​ এবং θ \\theta θ একটি সূক্ষ্মকোণ হলে θ \\theta θ এর মান নির্ণয় কর।",
+          "explanation": "দেওয়া আছে, C = sec ⁡ θ + tan ⁡ θ = 3 C = \\sec\\theta + \\tan\\theta = \\sqrt{3} C = sec θ + tan θ = 3 ​ বা, 1 cos ⁡ θ + sin ⁡ θ cos ⁡ θ = 3 \\frac{1}{\\cos\\theta} + \\frac{\\sin\\theta}{\\cos\\theta} = \\sqrt{3} c o s θ 1 ​ + c o s θ s i n θ ​ = 3 ​ বা, 1 + sin ⁡ θ cos ⁡ θ = 3 \\frac{1 + \\sin\\theta}{\\cos\\theta} = \\sqrt{3} c o s θ 1 + s i n θ ​ = 3 ​ বা, ( 1 + sin ⁡ θ ) 2 cos ⁡ 2 θ = 3 \\frac{(1 + \\sin\\theta)^2}{\\cos^2\\theta} = 3 c o s 2 θ ( 1 + s i n θ ) 2 ​ = 3 বা, ( 1 + sin ⁡ θ ) ( 1 + sin ⁡ θ ) 1 − sin ⁡ 2 θ = 3 \\frac{(1 + \\sin\\theta)(1 + \\sin\\theta)}{1 - \\sin^2\\theta} = 3 1 − s i n 2 θ ( 1 + s i n θ ) ( 1 + s i n θ ) ​ = 3 বা, ( 1 + sin ⁡ θ ) ( 1 + sin ⁡ θ ) ( 1 + sin ⁡ θ ) ( 1 − sin ⁡ θ ) = 3 \\frac{(1 + \\sin\\theta)(1 + \\sin\\theta)}{(1 + \\sin\\theta)(1 - \\sin\\theta)} = 3 ( 1 + s i n θ ) ( 1 − s i n θ ) ( 1 + s i n θ ) ( 1 + s i n θ ) ​ = 3 বা, 1 + sin ⁡ θ 1 − sin ⁡ θ = 3 \\frac{1 + \\sin\\theta}{1 - \\sin\\theta} = 3 1 − s i n θ 1 + s i n θ ​ = 3 বা, 1 + sin ⁡ θ − ( 1 − sin ⁡ θ ) 1 + sin ⁡ θ + ( 1 − sin ⁡ θ ) = 3 − 1 3 + 1 \\frac{1 + \\sin\\theta - (1 - \\sin\\theta)}{1 + \\sin\\theta + (1 - \\sin\\theta)} = \\frac{3 - 1}{3 + 1} 1 + s i n θ + ( 1 − s i n θ ) 1 + s i n θ − ( 1 − s i n θ ) ​ = 3 + 1 3 − 1 ​ [বিয়োজন যোজন করে] বা, 2 sin ⁡ θ 2 = 2 4 \\frac{2\\sin\\theta}{2} = \\frac{2}{4} 2 2 s i n θ ​ = 4 2 ​ বা, sin ⁡ θ = 1 2 = sin ⁡ 30 ∘ \\sin\\theta = \\frac{1}{2} = \\sin30^\\circ sin θ = 2 1 ​ = sin 3 0 ∘ ∴ θ = 30 ∘ \\therefore \\theta = 30^\\circ ∴ θ = 3 0 ∘ (Ans.)"
+        },
+        {
+          "label": "গ",
+          "question": "ϕ = 2 − 2 2 + 2 \\phi = \\frac{2 - \\sqrt{2}}{2 + \\sqrt{2}} ϕ = 2 + 2 ​ 2 − 2 ​ ​ হলে x এর মান নির্ণয় কর। (যেখানে 0 ∘ < x < 90 ∘ 0^\\circ < x < 90^\\circ 0 ∘ < x < 9 0 ∘ )",
+          "explanation": "দেওয়া আছে, φ = tan ⁡ x − sin ⁡ x tan ⁡ x + sin ⁡ x = 2 − 2 2 + 2 \\varphi = \\frac{\\tan x - \\sin x}{\\tan x + \\sin x} = \\frac{2 - \\sqrt{2}}{2 + \\sqrt{2}} φ = t a n x + s i n x t a n x − s i n x ​ = 2 + 2 ​ 2 − 2 ​ ​ বা, tan ⁡ x − sin ⁡ x + tan ⁡ x + sin ⁡ x tan ⁡ x − sin ⁡ x − tan ⁡ x − sin ⁡ x = 2 − 2 + 2 + 2 2 − 2 − 2 − 2 \\frac{\\tan x - \\sin x + \\tan x + \\sin x}{\\tan x - \\sin x - \\tan x - \\sin x} = \\frac{2 - \\sqrt{2} + 2 + \\sqrt{2}}{2 - \\sqrt{2} - 2 - \\sqrt{2}} t a n x − s i n x − t a n x − s i n x t a n x − s i n x + t a n x + s i n x ​ = 2 − 2 ​ − 2 − 2 ​ 2 − 2 ​ + 2 + 2 ​ ​ [যোজন-বিয়োজন করে] বা, 2 tan ⁡ x − 2 sin ⁡ x = 4 − 2 2 \\frac{2 \\tan x}{-2 \\sin x} = \\frac{4}{-2 \\sqrt{2}} − 2 s i n x 2 t a n x ​ = − 2 2 ​ 4 ​ বা, tan ⁡ x sin ⁡ x = 2 \\frac{\\tan x}{\\sin x} = \\sqrt{2} s i n x t a n x ​ = 2 ​ বা, 1 cos ⁡ x = 2 \\frac{1}{\\cos x} = \\sqrt{2} c o s x 1 ​ = 2 ​ বা, cos ⁡ x = 1 2 = cos ⁡ 45 ∘ \\cos x = \\frac{1}{\\sqrt{2}} = \\cos 45^\\circ cos x = 2 ​ 1 ​ = cos 4 5 ∘ ∴ x = 45 ∘ \\therefore x = 45^\\circ ∴ x = 4 5 ∘ (Ans.)"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "uddipok": "(i) একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য 3 মিটার বৃদ্ধি করা হলে ক্ষেত্রফল 27 3 27\\sqrt{3} 27 3 ​ বর্গমিটার বৃদ্ধি পায়। (ii) একটি লোহার পাইপের ভিতরের ও বাহিরের ব্যাসার্ধ যথাক্রমে 4 সেমি ও 6 সেমি এবং পাইপটির উচ্চতা 6 মিটার।",
+      "tag": "FCC 26",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "একটি ত্রিভুজের বাহুর দৈর্ঘ্য যথাক্রমে 16 মিটার ও 18 মিটার এবং বাহুদ্বয়ের মধ্যবতী কোণ 30 ∘ 30^\\circ 3 0 ∘ হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "সমবাহু ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "লোহার পাইপটির ওজন নির্ণয় কর যেখানে 1 ঘন সেমি লোহার ওজন 7.2 গ্রাম।",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "uddipok": "একটি গণসংখ্যা নিবেশন সারণি নিম্নরূপ: (প্রাপ্ত নম্বর) (গণসংখ্যা) 61 – 65 4 66 – 70 7 71 – 75 9 76 – 80 12 81 – 85 8 86 – 90 7 91 – 95 3 Total N 50",
+      "tag": "FCC 26",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "uddipok": "নিম্নে 40 জন ছাত্রের ওজনের (কেজি) গণসংখ্যা নিবেশন সারণি দেওয়া হলো (শ্রেণি ব্যাপ্তি) (গণসংখ্যা) 30 – 39 4 40 – 49 5 50 – 59 7 60 – 69 12 70 – 79 8 80 – 89 4 Total N 40",
+      "tag": "FCC 26",
+      "sub_questions": [
+        {
+          "label": "ক",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "খ",
+          "question": "",
+          "explanation": ""
+        },
+        {
+          "label": "গ",
+          "question": "",
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}

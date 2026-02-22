@@ -1,0 +1,3406 @@
+{
+  "read_id": "jnu-a-2015-16-xTB",
+  "title": "JnU A 15-16",
+  "count": 103,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JnU A 15-16",
+      "question": "Path difference ( α \\alpha α ) এবং phase difference (δ) এর ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "α = λ δ 2 π \\alpha = \\frac{λ δ}{2 π} α = 2 π λ δ ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "α = 2 π δ λ \\alpha = \\frac{2 \\pi δ}{\\lambda} α = λ 2 π δ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "α = 2 π δ λ \\alpha = \\frac{2 \\pi}{\\delta \\lambda} α = δ λ 2 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "α = 2 π δ λ \\alpha = 2 \\pi \\delta \\lambda α = 2 π δ λ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "α = λ δ 2 π \\alpha = \\frac{λ δ}{2 π} α = 2 π λ δ ​",
+      "option_b": "α = 2 π δ λ \\alpha = \\frac{2 \\pi δ}{\\lambda} α = λ 2 π δ ​",
+      "option_c": "α = 2 π δ λ \\alpha = \\frac{2 \\pi}{\\delta \\lambda} α = δ λ 2 π ​",
+      "option_d": "α = 2 π δ λ \\alpha = 2 \\pi \\delta \\lambda α = 2 π δ λ",
+      "correct": "ক",
+      "explanation": "δ = 2 π λ α ⇒ α = λ δ 2 π \\delta=\\frac{2 \\pi}{\\lambda} \\alpha \\Rightarrow \\alpha=\\frac{\\lambda \\delta}{2 \\pi} δ = λ 2 π ​ α ⇒ α = 2 π λ δ ​"
+    },
+    {
+      "number": "2",
+      "tag": "JnU A 15-16",
+      "question": "1 Watt সমান কত Lumen?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "600",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "620",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "550",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "621",
+          "is_correct": true
+        }
+      ],
+      "option_a": "600",
+      "option_b": "620",
+      "option_c": "550",
+      "option_d": "621",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "JnU A 15-16",
+      "question": "সরল ছন্দিত স্পন্দন এর ক্ষেত্রে কোনটি সঠিক সমীকরণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "d 2 x d y 2 + ω 2 x = 0 \\frac{d^{2} x}{dy^{2}} + ω^{2} x = 0 d y 2 d 2 x ​ + ω 2 x = 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "d 2 x d t 2 + ω 2 x = 0 \\frac{d^{2} x}{dt^{2}} + ω^{2} x = 0 d t 2 d 2 x ​ + ω 2 x = 0",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "d 2 x d y 2 + ω 2 t = 0 \\frac{d^{2} x}{dy^{2}} + ω^{2} t = 0 d y 2 d 2 x ​ + ω 2 t = 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "d 2 x d y 2 + ω 2 y = 0 \\frac{d^{2} x}{dy^{2}} + ω^{2} y = 0 d y 2 d 2 x ​ + ω 2 y = 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "d 2 x d y 2 + ω 2 x = 0 \\frac{d^{2} x}{dy^{2}} + ω^{2} x = 0 d y 2 d 2 x ​ + ω 2 x = 0",
+      "option_b": "d 2 x d t 2 + ω 2 x = 0 \\frac{d^{2} x}{dt^{2}} + ω^{2} x = 0 d t 2 d 2 x ​ + ω 2 x = 0",
+      "option_c": "d 2 x d y 2 + ω 2 t = 0 \\frac{d^{2} x}{dy^{2}} + ω^{2} t = 0 d y 2 d 2 x ​ + ω 2 t = 0",
+      "option_d": "d 2 x d y 2 + ω 2 y = 0 \\frac{d^{2} x}{dy^{2}} + ω^{2} y = 0 d y 2 d 2 x ​ + ω 2 y = 0",
+      "correct": "খ",
+      "explanation": "d 2 x d t 2 + ω 2 x = 0 \\frac{d^{2} x}{dt^{2}} + ω^{2} x = 0 d t 2 d 2 x ​ + ω 2 x = 0 সরল দোলন গতির ব্যবকলনীয় সমীকরন। যেখানে ω \\omega ω দ্বারা কৌণিক কম্পাঙ্ক বুঝায়।"
+    },
+    {
+      "number": "4",
+      "tag": "JnU A 15-16",
+      "question": "তাপমাত্রা বৃদ্ধি পেলে তল টান-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বৃদ্ধি পায়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "স্থির থাকে",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "হ্রাস পায়",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "শূন্য হয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বৃদ্ধি পায়",
+      "option_b": "স্থির থাকে",
+      "option_c": "হ্রাস পায়",
+      "option_d": "শূন্য হয়",
+      "correct": "গ",
+      "explanation": "সান্দ্রতার ওপর তাপমাত্রার প্রভাব রয়েছে। তরল পদার্থের ক্ষেত্রে পরীক্ষণলব্ধ ফলাফল দেখে দেখা যায় যে তাপমাত্রা বাড়ালে সান্দ্রতা হ্রাস পায়। উদাহরণস্বরূপ বলা যায় 80 ∘ C 80^{\\circ}C 8 0 ∘ C তাপমাত্রার পানির সান্দ্রতার গুণাঙ্ক 0 ∘ C 0^{\\circ}C 0 ∘ C তাপমাত্রার পানির সান্দ্রতার গুণাঙ্কের এক-তৃতীয়াংশ মাত্র।"
+    },
+    {
+      "number": "5",
+      "tag": "JnU A 15-16",
+      "question": "একটি নলে বা চোঙ্গে কত সংখ্যক বলরেখা থাকে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1/ε",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2ε",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ε",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ε/2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1/ε",
+      "option_b": "2ε",
+      "option_c": "ε",
+      "option_d": "ε/2",
+      "correct": "ক",
+      "explanation": "একটি নলে বা চোঙ্গে 1/ε সংখ্যক বলরেখা থাকে"
+    },
+    {
+      "number": "6",
+      "tag": "JnU A 15-16",
+      "question": "Extrinsic Semiconductor কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Si",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "As",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Ge",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Si",
+      "option_b": "As",
+      "option_c": "Ge",
+      "option_d": "কোনোটিই নয়",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত বিকল্পগুলির মধ্যে কোনটিই সরাসরি এক্সট্রিনসিক সেমিকন্ডাক্টর নয়। সঠিক উত্তর হলো কোনোটিই নয় । কারণ: Si (সিলিকন) এবং Ge (জার্মেনিয়াম) হলো ইন্ট্রিনসিক (বিশুদ্ধ) সেমিকন্ডাক্টর । এগুলোতে কোনো অপদ্রব্য মেশানো থাকে না। As (আর্সেনিক) হলো একটি পঞ্চযোজী মৌল যা ইন্ট্রিনসিক সেমিকন্ডাক্টর (যেমন Si বা Ge) এর সাথে অপদ্রব্য হিসেবে মেশানো হলে n-টাইপ এক্সট্রিনসিক সেমিকন্ডাক্টর তৈরি হয়। এটি নিজে এক্সট্রিনসিক সেমিকন্ডাক্টর নয়, বরং এটি এক্সট্রিনসিক সেমিকন্ডাক্টর তৈরির জন্য ব্যবহৃত একটি অপদ্রব্য (dopant) মাত্র। একটি এক্সট্রিনসিক সেমিকন্ডাক্টর হলো এমন একটি বিশুদ্ধ অর্ধপরিবাহী যা নির্দিষ্ট বৈশিষ্ট্য অর্জনের জন্য অন্য কোনো মৌলের অপদ্রব্য (dopant) দ্বারা মিশ্রিত করা হয়েছে।"
+    },
+    {
+      "number": "7",
+      "tag": "JnU A 15-16",
+      "question": "P V γ PV^{\\gamma} P V γ ধ্রুবক সমীকরণে দ্বিপরমাণুক গ্যাসের ক্ষেত্রে ɤ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.20",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1.40",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1.33",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.20",
+      "option_b": "1.40",
+      "option_c": "1.33",
+      "option_d": "কোনোটিই নয়",
+      "correct": "খ",
+      "explanation": "একপরমাণু=1.67,দ্বিপরমাণু =1.41,ত্রিপরমাণু=1.33"
+    },
+    {
+      "number": "8",
+      "tag": "JnU A 15-16",
+      "question": "কৌণিক ভরবেগের ক্ষেত্রে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "L ⃗ = r ⃗ × p ⃗ \\vec{L} = \\vec{r} \\times \\vec{p} L = r × p ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "L ⃗ = p ⃗ × r ⃗ \\vec{L} = \\vec{p} \\times \\vec{r} L = p ​ × r",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "L ⃗ = r ⃗ . p ⃗ \\vec{L} = \\vec{r} . \\vec{p} L = r . p ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "L ⃗ = p ⃗ . r ⃗ \\vec{L} = \\vec{p} . \\vec{r} L = p ​ . r",
+          "is_correct": false
+        }
+      ],
+      "option_a": "L ⃗ = r ⃗ × p ⃗ \\vec{L} = \\vec{r} \\times \\vec{p} L = r × p ​",
+      "option_b": "L ⃗ = p ⃗ × r ⃗ \\vec{L} = \\vec{p} \\times \\vec{r} L = p ​ × r",
+      "option_c": "L ⃗ = r ⃗ . p ⃗ \\vec{L} = \\vec{r} . \\vec{p} L = r . p ​",
+      "option_d": "L ⃗ = p ⃗ . r ⃗ \\vec{L} = \\vec{p} . \\vec{r} L = p ​ . r",
+      "correct": "ক",
+      "explanation": "সংজ্ঞা: ঘূর্ণনরত কোনো বস্তুকণার ব্যাসার্ধ ভেক্টর ও রৈখিক ভরবেগের ভেক্টর গুণফলকে কৌণিক ভরবেগ বলে। : ঘূর্ণন কেন্দ্রের সাপেক্ষে কোনো কণার ব্যাসার্ধ ভেক্টর বা অবস্থান ভেক্টর →r এবং ঐ কণার ভরবেগ →p হলে, বিন্দুর সাপেক্ষে কণাটির কৌণিক ভরবেগ হচ্ছে, →L=→r×→p"
+    },
+    {
+      "number": "9",
+      "tag": "JnU A 15-16",
+      "question": "A ⃗ \\vec{A} A ও B ⃗ \\vec{B} B দুটি ভেক্টর রাশি হলে কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "A ⃗ × B ⃗ = B ⃗ × A ⃗ \\vec{A} \\times \\vec{B} = \\vec{B} \\times \\vec{A} A × B = B × A",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A ⃗ × B ⃗ = − B ⃗ × A ⃗ \\vec{A} \\times \\vec{B} = -\\vec{B} \\times \\vec{A} A × B = − B × A",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ক ও খ উভয়ই",
+          "is_correct": false
+        }
+      ],
+      "option_a": "A ⃗ × B ⃗ = B ⃗ × A ⃗ \\vec{A} \\times \\vec{B} = \\vec{B} \\times \\vec{A} A × B = B × A",
+      "option_b": "A ⃗ × B ⃗ = − B ⃗ × A ⃗ \\vec{A} \\times \\vec{B} = -\\vec{B} \\times \\vec{A} A × B = − B × A",
+      "option_c": "কোনোটিই নয়",
+      "option_d": "ক ও খ উভয়ই",
+      "correct": "খ",
+      "explanation": "A → × B → = A B sin ⁡ θ B → × A → = A B sin ⁡ ( 360 ∘ − θ ) = − A B sin ⁡ θ = − ( A → × B → ) So, A → × B → = − B → × A → \\begin{array}{l}\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}=\\mathrm{AB} \\sin \\theta \\\\ \\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{A}}=\\mathrm{AB} \\sin \\left(360^{\\circ}-\\theta\\right) \\\\ =-\\mathrm{AB} \\sin \\theta=-(\\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}) \\text { So, } \\overrightarrow{\\mathrm{A}} \\times \\overrightarrow{\\mathrm{B}}=-\\overrightarrow{\\mathrm{B}} \\times \\overrightarrow{\\mathrm{A}}\\end{array} A × B = AB sin θ B × A = AB sin ( 36 0 ∘ − θ ) = − AB sin θ = − ( A × B ) So, A × B = − B × A ​"
+    },
+    {
+      "number": "10",
+      "tag": "JnU A 15-16",
+      "question": "কোন রোধের চতুর্থ পট্টি সোনালী- এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5%",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "0%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "20%",
+      "option_b": "10%",
+      "option_c": "5%",
+      "option_d": "0%",
+      "correct": "গ",
+      "explanation": "কোন রোধের চতুর্থ পট্টি সোনালী হলে তার মান 5% । সুতরাং,চতুর্থ পট্টি সোনালী এর মান 5%"
+    },
+    {
+      "number": "11",
+      "tag": "JnU A 15-16",
+      "question": "নিচের কোনটির গতিশক্তি সবচেয়ে বেশি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ɤ-ray",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ɑ-ray",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "β-ray",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Sound",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ɤ-ray",
+      "option_b": "ɑ-ray",
+      "option_c": "β-ray",
+      "option_d": "Sound",
+      "correct": "ক",
+      "explanation": "ɤ-ray"
+    },
+    {
+      "number": "12",
+      "tag": "JnU A 15-16",
+      "question": "ইয়ং এর দ্বি-চির পরীক্ষা সমর্থন করে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আলোর কণা তত্ত্বকে",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "আলোর তরঙ্গ তত্ত্বকে",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "আলোর কণা ও তরঙ্গ উভয় তত্ত্বকে",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনোটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "আলোর কণা তত্ত্বকে",
+      "option_b": "আলোর তরঙ্গ তত্ত্বকে",
+      "option_c": "আলোর কণা ও তরঙ্গ উভয় তত্ত্বকে",
+      "option_d": "কোনোটিই নয়",
+      "correct": "খ",
+      "explanation": "দ্বি-চিড় পরীক্ষার ফলাফল: (১) দ্বি-চিড় পরীক্ষায় আলোর ব্যতিচার ঘটে। (২) যেহেতু আলোর তরঙ্গের দরুন ব্যতিচার ঘটে, কাজেই আলো এক প্রকার তরঙ্গ। দ্বি-চিড় পরীক্ষা আলোর তরঙ্গ তত্ত্বকে সমর্থন করে।"
+    },
+    {
+      "number": "13",
+      "tag": "JnU A 15-16",
+      "question": "স্থির চার্জের উপর চৌম্বক বল-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কাজ কর",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10 T",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "শূন্য",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সর্বোচ্চ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কাজ কর",
+      "option_b": "10 T",
+      "option_c": "শূন্য",
+      "option_d": "সর্বোচ্চ",
+      "correct": "গ",
+      "explanation": "চৌম্বক বল, F = q v B sin ⁡ θ F=qvB\\sin\\theta F = q v B sin θ স্থির চার্জ অর্থাৎ v = 0; সুতরাং, F = 0 সুতরাং, স্থির চার্জ চৌম্বকক্ষেত্রে কোনো চৌম্বক বল অনুভব করে না।"
+    },
+    {
+      "number": "14",
+      "tag": "JnU A 15-16",
+      "question": "অগ্রগামী তরঙ্গ এর রাশিমালা-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "E= 2π 2 a 2 fρ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "E= 2π 2 a 2 f 2 ρ 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "E= 2π 2 a 2 f 2 ρ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "E= 2π 2 af 2 ρ 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "E= 2π 2 a 2 fρ",
+      "option_b": "E= 2π 2 a 2 f 2 ρ 2",
+      "option_c": "E= 2π 2 a 2 f 2 ρ",
+      "option_d": "E= 2π 2 af 2 ρ 2",
+      "correct": "গ",
+      "explanation": "অগ্রগামী তরঙ্গের ক্ষেত্রে, E = 2 π 2 a 2 f 2 ρ এখানে, a = বিস্তার f = কম্পাংক ρ = ঘনত্ব \\begin{array}{l}E=2 \\pi^{2} a^{2} f^{2} \\rho \\\\ \\text { এখানে,} \\\\ a=\\text { বিস্তার } \\\\ f=\\text { কম্পাংক } \\\\ \\rho=\\text { ঘনত্ব } \\end{array} E = 2 π 2 a 2 f 2 ρ এখানে , a = বিস্তার f = কম্পাংক ρ = ঘনত্ব ​"
+    },
+    {
+      "number": "15",
+      "tag": "JnU A 15-16",
+      "question": "একটি প্রক্ষেপককে X-অক্ষের সাথে θ কোণে V 0 আদিবেগে শূন্যে নিক্ষেপ করলে এর পাল্লা হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "R = V o 2 sin ⁡ 2 θ g R = \\frac{V_{o}^{2} \\sin{2} θ}{g} R = g V o 2 ​ s i n 2 θ ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "R = V o 2 sin ⁡ θ g R = \\frac{V_{o}^{2} \\sin{θ}}{g} R = g V o 2 ​ s i n θ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "R = V o sin ⁡ 2 θ g R = \\frac{V_{o} \\sin{2} θ}{g} R = g V o ​ s i n 2 θ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "R = V o 2 sin ⁡ 2 θ 2 g R = \\frac{V_{o}^{2} \\sin{2} θ}{2} g R = 2 V o 2 ​ s i n 2 θ ​ g",
+          "is_correct": false
+        }
+      ],
+      "option_a": "R = V o 2 sin ⁡ 2 θ g R = \\frac{V_{o}^{2} \\sin{2} θ}{g} R = g V o 2 ​ s i n 2 θ ​",
+      "option_b": "R = V o 2 sin ⁡ θ g R = \\frac{V_{o}^{2} \\sin{θ}}{g} R = g V o 2 ​ s i n θ ​",
+      "option_c": "R = V o sin ⁡ 2 θ g R = \\frac{V_{o} \\sin{2} θ}{g} R = g V o ​ s i n 2 θ ​",
+      "option_d": "R = V o 2 sin ⁡ 2 θ 2 g R = \\frac{V_{o}^{2} \\sin{2} θ}{2} g R = 2 V o 2 ​ s i n 2 θ ​ g",
+      "correct": "ক",
+      "explanation": "সরাসরি সূত্র ব্যবহার করা হয়েছে ।"
+    },
+    {
+      "number": "16",
+      "tag": "JnU A 15-16",
+      "question": "দুইটি সুরশলাকার কম্পাংক যথাক্রমে 128Hz ও 384Hz. বায়ুতে শলাকা দুইটি সৃষ্ট তরঙ্গ দৈর্ঘ্য এর অনুপাত কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3:1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1:3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2:1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1:2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3:1",
+      "option_b": "1:3",
+      "option_c": "2:1",
+      "option_d": "1:2",
+      "correct": "ক",
+      "explanation": "f 1 λ 1 = f 2 λ 2 ∴ λ 1 λ 2 = f 2 f 1 = 384 128 = 3 1 \\mathrm{f}_{1} \\lambda_{1}=\\mathrm{f}_{2} \\lambda_{2} \\quad \\therefore \\frac{\\lambda_{1}}{\\lambda_{2}}=\\frac{\\mathrm{f}_{2}}{\\mathrm{f}_{1}}=\\frac{384}{128}=\\frac{3}{1} f 1 ​ λ 1 ​ = f 2 ​ λ 2 ​ ∴ λ 2 ​ λ 1 ​ ​ = f 1 ​ f 2 ​ ​ = 128 384 ​ = 1 3 ​"
+    },
+    {
+      "number": "17",
+      "tag": "JnU A 15-16",
+      "question": "কোনো শ্রেণিকক্ষের শব্দের তীব্রতা 1x10 -8 Wm -2 হলে , তীব্রতা লেভেল হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "50 dB",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40dB",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "30dB",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "70dB",
+          "is_correct": false
+        }
+      ],
+      "option_a": "50 dB",
+      "option_b": "40dB",
+      "option_c": "30dB",
+      "option_d": "70dB",
+      "correct": "খ",
+      "explanation": "উত্তর : কোনো শ্রেণিকক্ষের শব্দের তীব্রতা 1x10 -8 Wm -2 হলে , তীব্রতা লেভেল হবে- 40dB"
+    },
+    {
+      "number": "18",
+      "tag": "JnU A 15-16",
+      "question": "নিচের কোন ধাতুটির চৌম্বক প্রবণতা সবচেয়ে বেশী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "নিকেল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শক্ত লোহা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কোবাল্ট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "নরম লোহা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "নিকেল",
+      "option_b": "শক্ত লোহা",
+      "option_c": "কোবাল্ট",
+      "option_d": "নরম লোহা",
+      "correct": "ঘ",
+      "explanation": "এখানে প্রতিটি বস্তুই ফেরোম্যাগনেটিক কিন্তু এদের মধ্যে নরম লোহার আপেক্ষিক চৌম্বক প্রবেশ্যতা সবচেয়ে বেশি অর্থাৎ, এর চৌম্বক প্রবণতাও সবচেয়ে বেশি।"
+    },
+    {
+      "number": "1",
+      "tag": "JnU A 15-16",
+      "question": "কলাম ক্রোমাটোগ্রাফি তে স্থির মাধ্যম হিসেবে ব্যবহৃত হয় না -",
+      "options": [
+        {
+          "label": "ক",
+          "text": "উল",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "অ্যালুমিনা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সিলিকা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সেলুলোজ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "উল",
+      "option_b": "অ্যালুমিনা",
+      "option_c": "সিলিকা",
+      "option_d": "সেলুলোজ",
+      "correct": "ক",
+      "explanation": "কলাম ক্রোমাটোগ্রাফি পদ্ধতিতে ‘স্থির-সাম্যাবস্থা’-এর কলামরূপে সূক্ষ্ম কণার চকের গুঁড়া বা অ্যালুমিনা ( A l 2 O 3 Al_2O_3 A l 2 ​ O 3 ​ ) গুঁড়াকে লম্বা মোটা কাচনলে ভর্তি করা হয়। বিশ্লেষণযোগ্য রঙিন জৈব যৌগের মিশ্রণটিকে ঐ কলামে যোগ করা হয়। শেষে ‘চলনশীল সাম্যাবস্থা’ রূপে উপযুক্ত দ্রাবকে (যেমন, অ্যালকোহল, পেন্টেন, ইথার ইত্যাদিতে) প্রবীভূত করে মিশ্রণের উপাদানকে পৃথক করা হয়।"
+    },
+    {
+      "number": "3",
+      "tag": "JnU A 15-16",
+      "question": "বিউটানল-2 কে গাঢ় H 2 SO 4 সহ উত্তপ্ত করলে প্রধানত কী পাওয়া যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বিউটিন - 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বিউটিন - 2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বিউটানোন - 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বিউটান্যাল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বিউটিন - 1",
+      "option_b": "বিউটিন - 2",
+      "option_c": "বিউটানোন - 2",
+      "option_d": "বিউটান্যাল",
+      "correct": "খ",
+      "explanation": "বিউটানল-2 কে গাঢ় H 2 SO 4 সহ উত্তপ্ত করলে বিউটিন - 2 পাওয়া যায়।"
+    },
+    {
+      "number": "4",
+      "tag": "JnU A 15-16",
+      "question": "9 4 Be+X → 12 6 C+ 1 0 n বিক্রিয়ায় 'X' কণাটি কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ɑ- particle",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "β-particle",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ɤ-ray",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Neutron",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ɑ- particle",
+      "option_b": "β-particle",
+      "option_c": "ɤ-ray",
+      "option_d": "Neutron",
+      "correct": "খ",
+      "explanation": "প্রোটন সংখ্যার পার্থক্য = 6 − 4 = 2 =6-4=2 = 6 − 4 = 2 , ভর সংখ্যার পার্থক্য = 13 − 9 = 4 =13-9=4 = 13 − 9 = 4 . সুতরাং X X X কণাটি হনো 2 4 H e { }_{2}^{4} \\mathrm{He} 2 4 ​ He অর্থাৎ α \\alpha α particle."
+    },
+    {
+      "number": "5",
+      "tag": "JnU A 15-16",
+      "question": "(NH 4 ) 3 [Fe(CN) 6 ] যৌগে আয়রনের জারণ মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "2",
+      "option_c": "4",
+      "option_d": "3",
+      "correct": "ক",
+      "explanation": "( NH 4 ) 3 [ Fe ( CN ) 6 ] (\\text{NH}_4)_3[\\text{Fe}(\\text{CN})_6] ( NH 4 ​ ) 3 ​ [ Fe ( CN ) 6 ​ ] যৌগে আয়রনের জারণ মান হলো + 3 +3 + 3 । অ্যামোনিয়াম আয়ন ( NH 4 + ) (\\text{NH}_4^+) ( NH 4 + ​ ) এর জারণ মান হলো + 1 +1 + 1 । এখানে ৩টি অ্যামোনিয়াম আয়ন আছে, তাই মোট জারণ মান হবে 3 × ( + 1 ) = + 3 3 \\times (+1) = +3 3 × ( + 1 ) = + 3 । সায়ানাইড আয়ন ( CN − ) (\\text{CN}^-) ( CN − ) এর জারণ মান হলো − 1 -1 − 1 । এখানে ৬টি সায়ানাইড আয়ন আছে, তাই মোট জারণ মান হবে 6 × ( − 1 ) = − 6 6 \\times (-1) = -6 6 × ( − 1 ) = − 6 । আমরা আয়রনের জারণ মান ( Fe ) (\\text{Fe}) ( Fe ) কে 'x' ধরে নিই। যৌগটি নিরপেক্ষ হওয়ায়, এর মোট জারণ মান শূন্য হবে। সুতরাং, আমরা সমীকরণটি এভাবে লিখতে পারি: ( + 3 ) + x + ( − 6 ) = 0 (+3) + x + (-6) = 0 ( + 3 ) + x + ( − 6 ) = 0 x − 3 = 0 x - 3 = 0 x − 3 = 0 x = + 3 x = +3 x = + 3 সুতরাং, ( NH 4 ) 3 [ Fe ( CN ) 6 ] (\\text{NH}_4)_3[\\text{Fe}(\\text{CN})_6] ( NH 4 ​ ) 3 ​ [ Fe ( CN ) 6 ​ ] যৌগে আয়রনের জারণ মান হলো + 3 +3 + 3 ।"
+    },
+    {
+      "number": "6",
+      "tag": "JnU A 15-16",
+      "question": "নিম্নের ইলেকট্রন বিন্যাসের কোনটির পারমাণবিক ব্যাসার্ধ সবচেয়ে বেশি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1s 2 2s 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1s 2 2s 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1s 2 2s 2 2p 1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1s 2 2s 2 2p 2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1s 2 2s 1",
+      "option_b": "1s 2 2s 2",
+      "option_c": "1s 2 2s 2 2p 1",
+      "option_d": "1s 2 2s 2 2p 2",
+      "correct": "ঘ",
+      "explanation": "একই‌ পর্যায় বাম থেকে ডানে পরমাণুর আকার হ্রাস পায়। কারণ বাম থেকে ডানে গেলে বহিঃস্থ স্তরে একটি করে ইলেকট্রন যুক্ত বলে নিউক্লিয়াস কর্তৃক দৃঢ়ভাবে আকৃষ্ট হয়। ফলে পরমাণুর আকার হ্রাস পায়। মৌল গুলো ২য় পর্যায়ের। এদের আকারের ক্রম : Li>Be>B>C"
+    },
+    {
+      "number": "7",
+      "tag": "JnU A 15-16",
+      "question": "কোনটি জ্যামিতিক সমানূ প্রদর্শন করে ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 - বিউটানল",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "প্রোপেন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 - ফিনাইল প্রোপেন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 - বিউটিন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 - বিউটানল",
+      "option_b": "প্রোপেন",
+      "option_c": "1 - ফিনাইল প্রোপেন",
+      "option_d": "2 - বিউটিন",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "JnU A 15-16",
+      "question": "সাইক্লোহেক্সানোন এ কয়টি σ(সিগমা) বন্ধন রয়েছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "17",
+          "is_correct": true
+        }
+      ],
+      "option_a": "7",
+      "option_b": "5",
+      "option_c": "10",
+      "option_d": "17",
+      "correct": "ঘ",
+      "explanation": "সাইক্লোহেক্সানোন (C6H10O)এ 6 টি σ(সিগমা) বন্ধন রয়েছে। ব্যাখ্যা: সাইক্লোহেক্সানোন-এ 6 টি কার্বন পরমাণু এবং 1 টি অক্সিজেন পরমাণু রয়েছে। কার্বন পরমাণু-এর চারটি যোজ্যতা থাকে। অক্সিজেন পরমাণু-এর দুটি যোজ্যতা থাকে। হাইড্রোজেন পরমাণু-এর একটি যোজ্যতা থাকে"
+    },
+    {
+      "number": "9",
+      "tag": "JnU A 15-16",
+      "question": "দুটি এনানশিওমারের সমতুল মিশ্রণকে কি বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রেসিমিক মিশ্রণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কাইরাল মিশ্রণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মেসো যৌগ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "None",
+          "is_correct": true
+        }
+      ],
+      "option_a": "রেসিমিক মিশ্রণ",
+      "option_b": "কাইরাল মিশ্রণ",
+      "option_c": "মেসো যৌগ",
+      "option_d": "None",
+      "correct": "ঘ",
+      "explanation": "রেসিমিক মিশ্রণ (Racemic mixture) : দুটি এনানসিওমার যেমন, l ল্যাকটিক এসিড ও l ল্যাকটিক এসিড উভয়েই একসমতলীয় আলোর তলকে সমান কৌণিক পরিমাণে বিপরীত দিকে ঘুরায়; তাই d সমাণু ও সমাণুর এই সমতুল মিশ্রণ আলোক নিষ্ক্রিয় হয়; দুটি এনানসিওমারের এরূপ সমতুল মিশ্রণকে রেসিমিক মিশ্রণ বা dl মিশ্রণ বা (±) মিশ্রণ বলে এবং প্রক্রিয়াটিকে রেসিমিকরণ (racemisation) বলে।"
+    },
+    {
+      "number": "10",
+      "tag": "JnU A 15-16",
+      "question": "তাপমাত্রা বৃদ্ধির সাথে বিক্রিয়ার হার বৃদ্ধির প্রধান কারণ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সংঘর্ষ সংখ্যা বৃদ্ধি",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সক্রিয় অনুর সংখ্যা বৃদ্ধি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সক্রিয়ন শক্তির হ্রাস",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "গড় মুক্ত পথ হ্রাস",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সংঘর্ষ সংখ্যা বৃদ্ধি",
+      "option_b": "সক্রিয় অনুর সংখ্যা বৃদ্ধি",
+      "option_c": "সক্রিয়ন শক্তির হ্রাস",
+      "option_d": "গড় মুক্ত পথ হ্রাস",
+      "correct": "ক",
+      "explanation": "তাপমাত্রা বৃদ্ধির সাথে সাথে বিক্রিয়ার হার বৃদ্ধির প্রধান কারণ হল অণুগুলোর মধ্যে সংঘর্ষের বৃদ্ধি। উষ্ণতা বৃদ্ধি পেলে, বিক্রিয়ায় অংশগ্রহণকারী অণুগুলো (যাকে \"স্পর্শকারী\" বলা হয়) আরও দ্রুত গতিতে চলে এবং একে অপরের সাথে বেশি বার সংঘর্ষ করে। এই বৃদ্ধিপ্রাপ্ত সংঘর্ষের ফলে, কার্যকর সংঘর্ষের সংখ্যাও বৃদ্ধি পায়, যেখানে স্পর্শকারী অণুগুলোতে পর্যাপ্ত শক্তি থাকে এবং সঠিক অভিমুখ থাকে যাতে রাসায়নিক বিক্রিয়া ঘটতে পারে।"
+    },
+    {
+      "number": "11",
+      "tag": "JnU A 15-16",
+      "question": "শিখা পরীক্ষার মাধ্যমে বিভিন্ন ধাতব মৌল সনাক্ত করতে যে এসিডে প্লাটিনাম তার ভিজিয়ে নেয়া হয়-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "HNO 3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "H 2 SO 4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "HCl",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "CH 3 COOH",
+          "is_correct": false
+        }
+      ],
+      "option_a": "HNO 3",
+      "option_b": "H 2 SO 4",
+      "option_c": "HCl",
+      "option_d": "CH 3 COOH",
+      "correct": "ক",
+      "explanation": "শিখা পরীক্ষা (Flame Test) : একটি ওয়াচ গ্লাসে গাঢ় HCl এসিড নিয়ে ঐ এসিডে একটি বিশুদ্ধ প্লাটিনাম তারের অগ্রভাগ অথবা দেয়াশলাই কাঠির কাঠের অংশ ডুবিয়ে এবং পরে এর মাথায় করে গাঢ় HCl সিক্ত একটু লবণকে অনুজ্জ্বল শিখার কিনারায় ধরা হয় । এবার শিখার বর্ণ দেখা হয় ।"
+    },
+    {
+      "number": "12",
+      "tag": "JnU A 15-16",
+      "question": "1Å সমান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10 -10 m",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10 -8 m",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10 -9 m",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "10 6 m",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10 -10 m",
+      "option_b": "10 -8 m",
+      "option_c": "10 -9 m",
+      "option_d": "10 6 m",
+      "correct": "গ",
+      "explanation": "1 Å (angstrom) is equal to 10 − 10 10^{-10} 1 0 − 10 meters. Therefore, the correct answer is: A) 10 − 10 10^{-10} 1 0 − 10 m"
+    },
+    {
+      "number": "13",
+      "tag": "JnU A 15-16",
+      "question": "কোন পদার্থ কাঁচের পাত্রকে ক্ষয় করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Aqua-regia",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "HCl",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "HF",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "H 3 PO 4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Aqua-regia",
+      "option_b": "HCl",
+      "option_c": "HF",
+      "option_d": "H 3 PO 4",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "JnU A 15-16",
+      "question": "25% N a 2 C O 3 Na_2CO_3 N a 2 ​ C O 3 ​ দ্রবণের ঘনমাত্রা মোলারিটি (molarity)- তে কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2.20 M",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2.10 M",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0.94 M",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2.36 M",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2.20 M",
+      "option_b": "2.10 M",
+      "option_c": "0.94 M",
+      "option_d": "2.36 M",
+      "correct": "গ",
+      "explanation": "25% Na₂CO₃ এর জন্য 100 mL দ্রবণে Na₂CO₃ আছে 25g বা, 25 106 \\frac{25}{106} 106 25 ​ mol ∴ 100 mL দ্রবণে Na₂CO₃ আছে 25 × 10 106 \\frac{25 \\times 10}{106} 106 25 × 10 ​ mol = 2.358 mol ≈ \\approx ≈ 2.36 mol ∴ [Na₂CO₃] = 2.36 m"
+    },
+    {
+      "number": "15",
+      "tag": "JnU A 15-16",
+      "question": "কক্ষ তাপমাত্রায় 75g ভরের NaCl এর একটি সম্পৃক্ত দ্রবণে (saturated solution) 20g NaCl দ্রবীভূত আছে। এ তাপমাত্রায় NaCl এর দ্রাব্যতা (solubility) কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40.33",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "39.22",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36.36",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "26.26",
+          "is_correct": true
+        }
+      ],
+      "option_a": "40.33",
+      "option_b": "39.22",
+      "option_c": "36.36",
+      "option_d": "26.26",
+      "correct": "ঘ",
+      "explanation": "দ্রবণের ভর =75g; দ্রবের ভর = 20g ∴ দ্রাবকের ভর = 55g; ∴ দ্রাব্যতা = 20 55 × 100 % = 36.36 % =\\frac{20}{55} \\times 100\\% = 36.36\\% = 55 20 ​ × 100% = 36.36%"
+    },
+    {
+      "number": "16",
+      "tag": "JnU A 15-16",
+      "question": "নিম্নের কোনটি অ্যালডল ঘনীভবন (Aldol condensation) বিক্রিয়া প্রদর্শন করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(CH3) 2 - C - СHО",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "CH 3 - CHO",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "H- CHО",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Ph - CHО",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(CH3) 2 - C - СHО",
+      "option_b": "CH 3 - CHO",
+      "option_c": "H- CHО",
+      "option_d": "Ph - CHО",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "JnU A 15-16",
+      "question": "C H 3 C N CH_3CN C H 3 ​ CN যৌগের কার্বনসমূহে কী ধরনের সংকরায়ন (Hybridization) বিদ্যমান?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "sp², sp²",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "sp³, sp",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "sp²,sp",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "sp 3 ,sp²",
+          "is_correct": false
+        }
+      ],
+      "option_a": "sp², sp²",
+      "option_b": "sp³, sp",
+      "option_c": "sp²,sp",
+      "option_d": "sp 3 ,sp²",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "JnU A 15-16",
+      "question": "Zn/Zn²⁺ ( E 0 = + 0.76 v E^0 = +0.76v E 0 = + 0.76 v ) অ্যানোড (Anode) হলে নিচের কোনটি ক্যাথোড (Cathode) রূপে ব্যবহার করা যাবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Ca/Ca 2+ (E° = +2.87v)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Al/Al 3+ (E° = +1.66v)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "Mg/Mg 2+ (E° = +2.36v)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Co 2+ /Co(E° = +0.28v)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Ca/Ca 2+ (E° = +2.87v)",
+      "option_b": "Al/Al 3+ (E° = +1.66v)",
+      "option_c": "Mg/Mg 2+ (E° = +2.36v)",
+      "option_d": "Co 2+ /Co(E° = +0.28v)",
+      "correct": "খ",
+      "explanation": "E z n z n 2 + + E c o 2 + c o E_{\\frac{zn}{zn^{2+}}} + E_{\\frac{co^{2+}}{co}} E z n 2 + z n ​ ​ + E co c o 2 + ​ ​ = 0.76 − 0.28 = 0.48 V > 0 = 0.76 - 0.28 = 0.48V > 0 = 0.76 − 0.28 = 0.48 V > 0 অতএব, CO কে ক্যাথোড হিসেবে ব্যবহার করা যাবে।"
+    },
+    {
+      "number": "1",
+      "tag": "JnU A 15-16",
+      "question": "( 5 + 3 i ) (5+3i) ( 5 + 3 i ) মূল বিশিষ্ট দ্বিঘাত সমীকরণ-টি হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x 2 − 10 x + 34 = 0 x^{2}-10 x+34=0 x 2 − 10 x + 34 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x 2 − 5 x − 34 x²-5x-34 x 2 − 5 x − 34",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 + 5 x − 34 x²+5x-34 x 2 + 5 x − 34",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 2 + 5 x + 34 x²+5x+34 x 2 + 5 x + 34",
+          "is_correct": true
+        }
+      ],
+      "option_a": "x 2 − 10 x + 34 = 0 x^{2}-10 x+34=0 x 2 − 10 x + 34 = 0",
+      "option_b": "x 2 − 5 x − 34 x²-5x-34 x 2 − 5 x − 34",
+      "option_c": "x 2 + 5 x − 34 x²+5x-34 x 2 + 5 x − 34",
+      "option_d": "x 2 + 5 x + 34 x²+5x+34 x 2 + 5 x + 34",
+      "correct": "ঘ",
+      "explanation": "সমীকরণ, x 2 − ( 5 + 3 i + 5 − 3 i ) x + ( 5 + 3 i ) ( 5 − 3 i ) = 0 ⇒ x 2 − 10 x + 25 + 9 = 0 ⇒ x 2 − 10 x + 34 = 0 \\begin{array}{l} \\text { সমীকরণ, } x^{2}-(5+3 i+5-3 i) x+(5+3 i)(5-3 i)=0 \\\\ \\Rightarrow x^{2}-10 x+25+9=0 \\Rightarrow x^{2}-10 x+34=0 \\end{array} সমীকরণ , x 2 − ( 5 + 3 i + 5 − 3 i ) x + ( 5 + 3 i ) ( 5 − 3 i ) = 0 ⇒ x 2 − 10 x + 25 + 9 = 0 ⇒ x 2 − 10 x + 34 = 0 ​"
+    },
+    {
+      "number": "2",
+      "tag": "JnU A 15-16",
+      "question": "একটি গাড়ি স্থিরাবস্থা হতে সমত্বরণ-এ চলা শুরু করে 5 সেকেন্ডে 75 m/s গতিবেগ প্রাপ্ত হল।গাড়িটির ত্বরণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "15 m/s 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "7 m/s 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "18 m/s 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12 m/s 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "15 m/s 2",
+      "option_b": "7 m/s 2",
+      "option_c": "18 m/s 2",
+      "option_d": "12 m/s 2",
+      "correct": "ক",
+      "explanation": "v=শেষবেগ u=আদিবেগ v = u + f t ⇒ 75 = 0 + f × 5 ⇒ f = 15 m s − 2 v=u+f t \\Rightarrow 75=0+f \\times 5 \\Rightarrow f=15 \\mathrm{~ms}^{-2} v = u + f t ⇒ 75 = 0 + f × 5 ⇒ f = 15 ms − 2"
+    },
+    {
+      "number": "3",
+      "tag": "JnU A 15-16",
+      "question": "sinθ-cosθ=0 হলে θ এর ক্ষুদ্রতম ধনাত্বক মান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π/3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "π/2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π/4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "π/6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π/3",
+      "option_b": "π/2",
+      "option_c": "π/4",
+      "option_d": "π/6",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "4",
+      "tag": "JnU A 15-16",
+      "question": "x 2 +y 2 -by=0 বৃত্ত এর সমীকরণ পোলার স্থানাংক-এর মাধ্যমে প্রকাশ করলে সমীকরণটি হবে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x=ysinθ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "r=b",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "r=bsinθ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "r=bcosθ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x=ysinθ",
+      "option_b": "r=b",
+      "option_c": "r=bsinθ",
+      "option_d": "r=bcosθ",
+      "correct": "গ",
+      "explanation": "x 2 + y 2 − b y = 0 ⇒ r 2 − b r sin ⁡ θ = 0 ⇒ r = b sin ⁡ θ x^{2}+y^{2}-b y=0 \\Rightarrow r^{2}-b r \\sin \\theta=0 \\Rightarrow r=b \\sin \\theta x 2 + y 2 − b y = 0 ⇒ r 2 − b r sin θ = 0 ⇒ r = b sin θ"
+    },
+    {
+      "number": "5",
+      "tag": "JnU A 15-16",
+      "question": "x≤1/2 বা x≥9/2 কে পরমমান হিসেবে প্রকাশ করলে হবে ____",
+      "options": [
+        {
+          "label": "ক",
+          "text": "|2x-5|≤4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "|5-2x|≥4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "|5-2x|≤4",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "|5-2x|≤1/4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "|2x-5|≤4",
+      "option_b": "|5-2x|≥4",
+      "option_c": "|5-2x|≤4",
+      "option_d": "|5-2x|≤1/4",
+      "correct": "গ",
+      "explanation": "x ≤ 1 2 ⇒ − 2 x ≥ − 1 ⇒ 5 − 2 x ≥ 4 ∴ ∣ 5 − 2 x ∣ ≥ 4 x \\leq \\frac{1}{2} \\Rightarrow-2 x \\geq-1 \\Rightarrow 5-2 x \\geq 4 \\therefore|5-2 x| \\geq 4 x ≤ 2 1 ​ ⇒ − 2 x ≥ − 1 ⇒ 5 − 2 x ≥ 4 ∴ ∣5 − 2 x ∣ ≥ 4 এবং x ≥ 9 2 ⇒ − 2 x ≤ − 9 ⇒ 5 − 2 x ≤ − 4 x \\geq \\frac{9}{2} \\Rightarrow-2 x \\leq-9 \\Rightarrow 5-2 x \\leq-4 x ≥ 2 9 ​ ⇒ − 2 x ≤ − 9 ⇒ 5 − 2 x ≤ − 4"
+    },
+    {
+      "number": "6",
+      "tag": "JnU A 15-16",
+      "question": "|x|<1 হলে এর বিস্তৃতিতে x 0 এর সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "40",
+      "option_c": "-4",
+      "option_d": "4",
+      "correct": "খ",
+      "explanation": "( 1 − x 1 + x ) 2 = ( 1 − x ) 2 ( 1 + x ) 2 \\left(\\frac{1-x}{1+x}\\right)^{2}=(1-x)^{2}(1+x)^{2} ( 1 + x 1 − x ​ ) 2 = ( 1 − x ) 2 ( 1 + x ) 2 = ( 1 − 2 x + x 2 ) ( 1 − 2 x + … … … ) = 1 − 4 x + 5 x 2 + = x ∘ − 4 x + 5 x 2 + … … … … … … … … . x ∘ − এর সহগ = 1 \\begin{array}{l} =\\left(1-2 \\mathrm{x}+\\mathrm{x}^{2}\\right)(1-2 \\mathrm{x}+\\ldots \\ldots \\ldots)=1-4 \\mathrm{x}+5 \\mathrm{x}^{2}+ \\\\ =\\mathrm{x}^{\\circ}-4 \\mathrm{x}+5 \\mathrm{x}^{2}+\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\\\ . \\mathrm{x}^{\\circ}-\\text { এর সহগ }=1 \\end{array} = ( 1 − 2 x + x 2 ) ( 1 − 2 x + ……… ) = 1 − 4 x + 5 x 2 + = x ∘ − 4 x + 5 x 2 + …………………… . x ∘ − এর সহগ = 1 ​"
+    },
+    {
+      "number": "7",
+      "tag": "JnU A 15-16",
+      "question": "'CALCULUS' শব্দটিকে কত উপায়ে সাজালে 'U' বর্ণটি সবসময় শুরুতে এবং শেষে উভয় জায়গায় থাকবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "180",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "360",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "90",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "280",
+          "is_correct": false
+        }
+      ],
+      "option_a": "180",
+      "option_b": "360",
+      "option_c": "90",
+      "option_d": "280",
+      "correct": "ক",
+      "explanation": "প্রথমে ও শেষে U 2 U \\quad 2 U 2 টি স্থির রেখে বাকি 6টি বর্ণের বিন্যাস = 6 ! 2 ! 21 = 720 4 = 180 =\\frac{6 !}{2 ! 21}=\\frac{720}{4}=180 = 2 ! 21 6 ! ​ = 4 720 ​ = 180"
+    },
+    {
+      "number": "8",
+      "tag": "JnU A 15-16",
+      "question": "cotA = 12 5 = \\frac{12}{5} = 5 12 ​ হলে sinA + cosA এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "13 17 \\frac{13}{17} 17 13 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 7 13 -\\frac{7}{13} − 13 7 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "17 13 \\frac{17}{13} 13 17 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 13 17 -\\frac{13}{17} − 17 13 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "13 17 \\frac{13}{17} 17 13 ​",
+      "option_b": "− 7 13 -\\frac{7}{13} − 13 7 ​",
+      "option_c": "17 13 \\frac{17}{13} 13 17 ​",
+      "option_d": "− 13 17 -\\frac{13}{17} − 17 13 ​",
+      "correct": "ক",
+      "explanation": "cotA = 12 5 ∴ sinA = 5 13 ; cosA = 12 13 \\text{cotA} = \\frac{12}{5} \\therefore \\text{sinA} = \\frac{5}{13} ; \\text{cosA} = \\frac{12}{13} cotA = 5 12 ​ ∴ sinA = 13 5 ​ ; cosA = 13 12 ​ ∴ sin ⁡ A + cos ⁡ A = 17 13 \\therefore \\sin A + \\cos A = \\frac{17}{13} ∴ sin A + cos A = 13 17 ​"
+    },
+    {
+      "number": "9",
+      "tag": "JnU A 15-16",
+      "question": "2 i ‾ + j ‾ − k ‾ 2\\underline{i} + \\underline{j} - \\underline{k} 2 i ​ + j ​ − k ​ , 3 i ‾ − 2 j ‾ + 4 k ‾ 3\\underline{i} - 2\\underline{j} + 4\\underline{k} 3 i ​ − 2 j ​ + 4 k ​ এবং i ‾ − 3 j ‾ + a k ‾ \\underline{i} - 3\\underline{j} + a\\underline{k} i ​ − 3 j ​ + a k ​ ভেক্টর তিনটি সমতলীয় (coplanar) হলে a এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-4",
+      "option_b": "3",
+      "option_c": "2",
+      "option_d": "5",
+      "correct": "গ",
+      "explanation": "A ⃗ = 2 i ^ + j ^ − k ^ \\vec{A} = 2\\hat{i} + \\hat{j} - \\hat{k} A = 2 i ^ + j ^ ​ − k ^ ; B ⃗ = 3 i ^ − 2 j ^ + 4 k ^ \\vec{B} = 3\\hat{i} - 2\\hat{j} + 4\\hat{k} B = 3 i ^ − 2 j ^ ​ + 4 k ^ C ⃗ = i ^ − 3 j ^ + a k ^ \\vec{C} = \\hat{i} - 3\\hat{j} + a\\hat{k} C = i ^ − 3 j ^ ​ + a k ^ ∴ \\therefore ∴ সমতলীয় তাই, C ⃗ = B ⃗ − A ⃗ ⇒ i ^ − 3 j ^ + a k ^ \\vec{C} = \\vec{B} - \\vec{A} \\Rightarrow \\hat{i} - 3\\hat{j} + a\\hat{k} C = B − A ⇒ i ^ − 3 j ^ ​ + a k ^ = i ^ − 3 j ^ + 5 k ^ ∴ a = 5 = \\hat{i} - 3\\hat{j} + 5\\hat{k} \\therefore a = 5 = i ^ − 3 j ^ ​ + 5 k ^ ∴ a = 5 বিকল্প: ∣ 2 1 − 1 3 − 2 4 1 − 3 a ∣ = 0 ∴ a = 5 \\begin{vmatrix} 2 & 1 & -1 \\\\ 3 & -2 & 4 \\\\ 1 & -3 & a \\end{vmatrix} = 0 \\therefore a = 5 ​ 2 3 1 ​ 1 − 2 − 3 ​ − 1 4 a ​ ​ = 0 ∴ a = 5"
+    },
+    {
+      "number": "10",
+      "tag": "JnU A 15-16",
+      "question": "যদি (x,y), (2,3) এবং (5,-1) একই সরলরেখায় অবস্থিত হয়, তবে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3x+ 4y +17 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4x+ 3y -17=0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4x - 3y -17 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3x + 4y - 17 = 0",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3x+ 4y +17 = 0",
+      "option_b": "4x+ 3y -17=0",
+      "option_c": "4x - 3y -17 = 0",
+      "option_d": "3x + 4y - 17 = 0",
+      "correct": "ঘ",
+      "explanation": "y + 1 − 1 − 3 = x − 5 5 − 2 ⇒ 3 y + 3 = − 4 x + 20 \\frac{y+1}{-1-3} = \\frac{x-5}{5-2} \\Rightarrow 3y+3 = -4x+20 − 1 − 3 y + 1 ​ = 5 − 2 x − 5 ​ ⇒ 3 y + 3 = − 4 x + 20 ⇒ 4 x + 3 y − 17 = 0 \\Rightarrow 4x+3y-17 = 0 ⇒ 4 x + 3 y − 17 = 0"
+    },
+    {
+      "number": "11",
+      "tag": "JnU A 15-16",
+      "question": "∫ log ⁡ x d x \\int \\log x \\, dx ∫ lo g x d x সমান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "xlogx - х",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1 x \\frac{1}{x} x 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "xlogx + x",
+          "is_correct": false
+        }
+      ],
+      "option_a": "xlogx - х",
+      "option_b": "x",
+      "option_c": "1 x \\frac{1}{x} x 1 ​",
+      "option_d": "xlogx + x",
+      "correct": "খ",
+      "explanation": "∫ log ⁡ x d x \\int \\log x \\, dx ∫ lo g x d x = log ⁡ x ∫ d x − ∫ ( d d x log ⁡ x ∫ d x ) d x = x log ⁡ x − x + c = \\log x \\int \\, dx - \\int \\left( \\frac{d}{dx} \\log x \\int \\, dx \\right) \\, dx = x \\log x - x + c = lo g x ∫ d x − ∫ ( d x d ​ lo g x ∫ d x ) d x = x lo g x − x + c"
+    },
+    {
+      "number": "12",
+      "tag": "JnU A 15-16",
+      "question": "∫ 0 π 2 sin ⁡ 2 x d x \\int_{0}^{\\frac{\\pi}{2}} \\sin^2 x \\,dx ∫ 0 2 π ​ ​ sin 2 x d x সমান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "π 2 \\frac{\\pi}{2} 2 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "π 4 \\frac{\\pi}{4} 4 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "π 2 \\frac{\\pi}{2} 2 π ​",
+      "option_b": "0",
+      "option_c": "π 4 \\frac{\\pi}{4} 4 π ​",
+      "option_d": "1",
+      "correct": "ক",
+      "explanation": "∫ 0 π 2 sin ⁡ 2 x d x = ∫ 0 π 2 sin ⁡ 2 ( π 2 − x ) d x \\int_{0}^{\\frac{\\pi}{2}} \\sin^2 x \\, dx = \\int_{0}^{\\frac{\\pi}{2}} \\sin^2 \\left(\\frac{\\pi}{2}-x\\right) \\, dx ∫ 0 2 π ​ ​ sin 2 x d x = ∫ 0 2 π ​ ​ sin 2 ( 2 π ​ − x ) d x = ∫ 0 π 2 cos ⁡ 2 x d x = \\int_{0}^{\\frac{\\pi}{2}} \\cos^2 x \\, dx = ∫ 0 2 π ​ ​ cos 2 x d x ∴ 2 I = ∫ 0 π 2 ( sin ⁡ 2 x + cos ⁡ 2 x ) d x \\therefore 2I = \\int_{0}^{\\frac{\\pi}{2}}(\\sin^2 x + \\cos^2 x) \\, dx ∴ 2 I = ∫ 0 2 π ​ ​ ( sin 2 x + cos 2 x ) d x ⇒ I = 1 2 ∫ 0 π 2 d x = 1 2 ( π 2 − 0 ) = π 4 \\Rightarrow I = \\frac{1}{2} \\int_{0}^{\\frac{\\pi}{2}} dx = \\frac{1}{2}\\left(\\frac{\\pi}{2}-0\\right) = \\frac{\\pi}{4} ⇒ I = 2 1 ​ ∫ 0 2 π ​ ​ d x = 2 1 ​ ( 2 π ​ − 0 ) = 4 π ​"
+    },
+    {
+      "number": "13",
+      "tag": "JnU A 15-16",
+      "question": "y = 3x+7 এবং 3y - x = ৪ সরলরেখাদ্বয়ের মধ্যে অন্তর্ভুক্ত সূক্ষ্মকোণের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "tan ⁡ − 1 ( 4 3 ) \\tan^{-1} \\left(\\frac{4}{3}\\right) tan − 1 ( 3 4 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "tan ⁡ − 1 ( 1 2 ) \\tan^{-1} \\left(\\frac{1}{2}\\right) tan − 1 ( 2 1 ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "tan ⁡ − 1 ( 1 ) \\tan^{-1}(1) tan − 1 ( 1 )",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "tan ⁡ − 1 ( 3 4 ) \\tan^{-1} \\left(\\frac{3}{4}\\right) tan − 1 ( 4 3 ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "tan ⁡ − 1 ( 4 3 ) \\tan^{-1} \\left(\\frac{4}{3}\\right) tan − 1 ( 3 4 ​ )",
+      "option_b": "tan ⁡ − 1 ( 1 2 ) \\tan^{-1} \\left(\\frac{1}{2}\\right) tan − 1 ( 2 1 ​ )",
+      "option_c": "tan ⁡ − 1 ( 1 ) \\tan^{-1}(1) tan − 1 ( 1 )",
+      "option_d": "tan ⁡ − 1 ( 3 4 ) \\tan^{-1} \\left(\\frac{3}{4}\\right) tan − 1 ( 4 3 ​ )",
+      "correct": "গ",
+      "explanation": "y = 3 x + 7 y = 3x + 7 y = 3 x + 7 ; y = 1 3 x + 8 3 y = \\frac{1}{3}x + \\frac{8}{3} y = 3 1 ​ x + 3 8 ​ ∴ θ = tan ⁡ − 1 3 − 1 3 1 + 3 ⋅ 1 3 = tan ⁡ − 1 4 3 \\therefore \\theta = \\tan^{-1} \\frac{3-\\frac{1}{3}}{1+3 \\cdot \\frac{1}{3}} = \\tan^{-1} \\frac{4}{3} ∴ θ = tan − 1 1 + 3 ⋅ 3 1 ​ 3 − 3 1 ​ ​ = tan − 1 3 4 ​"
+    },
+    {
+      "number": "14",
+      "tag": "JnU A 15-16",
+      "question": "যদি f(x) = |x| হয় তবে f(x) এর রেঞ্জ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "[0, ∞)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "(-∞, ∞)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "(0, ∞)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "[0, ∞)",
+      "option_b": "(-∞, ∞)",
+      "option_c": "(0, ∞)",
+      "option_d": "কোনটিই নয়",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "JnU A 15-16",
+      "question": "2(sec x + cos x) = 5 সমীকরণের সাধারণ সমাধান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 n π ± π 3 2n\\pi \\pm \\frac{\\pi}{3} 2 nπ ± 3 π ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 n π + π 3 2n\\pi + \\frac{\\pi}{3} 2 nπ + 3 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "n π + π 3 n\\pi + \\frac{\\pi}{3} nπ + 3 π ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 n π ± π 6 2n\\pi \\pm \\frac{\\pi}{6} 2 nπ ± 6 π ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 n π ± π 3 2n\\pi \\pm \\frac{\\pi}{3} 2 nπ ± 3 π ​",
+      "option_b": "2 n π + π 3 2n\\pi + \\frac{\\pi}{3} 2 nπ + 3 π ​",
+      "option_c": "n π + π 3 n\\pi + \\frac{\\pi}{3} nπ + 3 π ​",
+      "option_d": "2 n π ± π 6 2n\\pi \\pm \\frac{\\pi}{6} 2 nπ ± 6 π ​",
+      "correct": "ক",
+      "explanation": "2 ( sec ⁡ x + cos ⁡ x ) = 5 ⇒ 2 ( 1 + cos ⁡ 2 x ) cos ⁡ x = 5 2(\\sec x + \\cos x) = 5 \\Rightarrow \\frac{2(1+\\cos^2 x)}{\\cos x} = 5 2 ( sec x + cos x ) = 5 ⇒ c o s x 2 ( 1 + c o s 2 x ) ​ = 5 ⇒ 2 cos ⁡ 2 x − 5 cos ⁡ x + 2 = 0 \\Rightarrow 2 \\cos^2 x - 5\\cos x + 2 = 0 ⇒ 2 cos 2 x − 5 cos x + 2 = 0 ⇒ ( 2 cos ⁡ x − 1 ) ( cos ⁡ x − 2 ) = 0 \\Rightarrow (2\\cos x - 1)(\\cos x - 2) = 0 ⇒ ( 2 cos x − 1 ) ( cos x − 2 ) = 0 ∴ cos ⁡ x = 1 2 = cos ⁡ ( π 3 ) \\therefore \\cos x = \\frac{1}{2} = \\cos \\left(\\frac{\\pi}{3}\\right) ∴ cos x = 2 1 ​ = cos ( 3 π ​ ) ; যেহেতু cos ⁡ x ≠ 2 \\cos x \\neq 2 cos x  = 2 ∴ x = 2 n π ± π 3 \\therefore x = 2n\\pi \\pm \\frac{\\pi}{3} ∴ x = 2 nπ ± 3 π ​"
+    },
+    {
+      "number": "16",
+      "tag": "JnU A 15-16",
+      "question": "x 2 16 − y 2 9 = 1 \\frac{x^2}{16} - \\frac{y^2}{9} = 1 16 x 2 ​ − 9 y 2 ​ = 1 অধিবৃত্ত (Hyperbola)- এর নিয়ামক রেখা (Directrix)- এর সমীকরণ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5x = 48",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5x = ±16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5x = 16",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x= 16",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5x = 48",
+      "option_b": "5x = ±16",
+      "option_c": "5x = 16",
+      "option_d": "x= 16",
+      "correct": "ক",
+      "explanation": "x 2 16 − y 2 9 = 1 \\frac{x^2}{16} - \\frac{y^2}{9} = 1 16 x 2 ​ − 9 y 2 ​ = 1 :: নিয়ামক রেখা, x = ± a e x = \\pm \\frac{a}{e} x = ± e a ​ = ± 4 16 + 9 16 = ± 4 × 4 5 = ± 16 5 = \\pm \\frac{4}{\\sqrt{\\frac{16+9}{16}}} = \\pm 4 \\times \\frac{4}{5} = \\pm \\frac{16}{5} = ± 16 16 + 9 ​ ​ 4 ​ = ± 4 × 5 4 ​ = ± 5 16 ​ :: 5 x = ± 16 5x = \\pm 16 5 x = ± 16"
+    },
+    {
+      "number": "17",
+      "tag": "JnU A 15-16",
+      "question": "4x² +9y² = 36 উপবৃত্ত (ellipse) দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8π বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2π বর্গ একক",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "6π বর্গ একক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12π বর্গ একক",
+          "is_correct": false
+        }
+      ],
+      "option_a": "8π বর্গ একক",
+      "option_b": "2π বর্গ একক",
+      "option_c": "6π বর্গ একক",
+      "option_d": "12π বর্গ একক",
+      "correct": "খ",
+      "explanation": "4 x 2 + 9 y 2 = 36 ⇒ x 2 9 + y 2 4 = 1 4x^2 + 9y^2 = 36 \\Rightarrow \\frac{x^2}{9} + \\frac{y^2}{4} = 1 4 x 2 + 9 y 2 = 36 ⇒ 9 x 2 ​ + 4 y 2 ​ = 1 ∴ \\therefore ∴ ক্ষেত্রফল = π a b = π ⋅ 3 ⋅ 2 = 6 π =\\pi ab = \\pi \\cdot 3 \\cdot 2 = 6\\pi = πab = π ⋅ 3 ⋅ 2 = 6 π"
+    },
+    {
+      "number": "18",
+      "tag": "JnU A 15-16",
+      "question": "e x \\sqrt{e^{\\sqrt{x}}} e x ​ ​ এর অন্তরক সহগ (derivative) কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− e x 4 x -\\frac{\\sqrt{e^{\\sqrt{x}}}}{4\\sqrt{x}} − 4 x ​ e x ​ ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "e x 4 x \\frac{\\sqrt{e^{\\sqrt{x}}}}{4\\sqrt{x}} 4 x ​ e x ​ ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "e x 2 x \\frac{\\sqrt{e^{\\sqrt{x}}}}{2\\sqrt{x}} 2 x ​ e x ​ ​ ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "e x 4 x . e x \\frac{e^{\\sqrt{x}}}{4\\sqrt{x}.\\sqrt{e^{\\sqrt{x}}}} 4 x ​ . e x ​ ​ e x ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− e x 4 x -\\frac{\\sqrt{e^{\\sqrt{x}}}}{4\\sqrt{x}} − 4 x ​ e x ​ ​ ​",
+      "option_b": "e x 4 x \\frac{\\sqrt{e^{\\sqrt{x}}}}{4\\sqrt{x}} 4 x ​ e x ​ ​ ​",
+      "option_c": "e x 2 x \\frac{\\sqrt{e^{\\sqrt{x}}}}{2\\sqrt{x}} 2 x ​ e x ​ ​ ​",
+      "option_d": "e x 4 x . e x \\frac{e^{\\sqrt{x}}}{4\\sqrt{x}.\\sqrt{e^{\\sqrt{x}}}} 4 x ​ . e x ​ ​ e x ​ ​",
+      "correct": "গ",
+      "explanation": "ans: (b, d); d d x ( e x ) = 1 2 ⋅ 1 e x ⋅ e x ⋅ 1 2 ⋅ 1 x \\frac{\\mathrm{d}}{\\mathrm{dx}}\\left(\\sqrt{\\mathrm{e}^{\\sqrt{\\mathrm{x}}}}\\right)=\\frac{1}{2} \\cdot \\frac{1}{\\sqrt{\\mathrm{e}^{\\sqrt{\\mathrm{x}}}}} \\cdot \\mathrm{e}^{\\sqrt{\\mathrm{x}}} \\cdot \\frac{1}{2} \\cdot \\frac{1}{\\sqrt{\\mathrm{x}}} dx d ​ ( e x ​ ​ ) = 2 1 ​ ⋅ e x ​ ​ 1 ​ ⋅ e x ​ ⋅ 2 1 ​ ⋅ x ​ 1 ​ = e x 4 x = e x 4 x e x =\\frac{\\sqrt{\\mathrm{e}^{\\sqrt{\\mathrm{x}}}}}{4 \\sqrt{\\mathrm{x}}}=\\frac{\\mathrm{e}^{\\sqrt{\\mathrm{x}}}}{4 \\sqrt{\\mathrm{x}} \\sqrt{\\mathrm{e}^{\\sqrt{\\mathrm{x}}}}} = 4 x ​ e x ​ ​ ​ = 4 x ​ e x ​ ​ e x ​ ​"
+    },
+    {
+      "number": "1",
+      "tag": "JnU A 15-16",
+      "question": "Agar কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কালচার মিডিয়ায় ব্যবহৃত কার্বোহাইড্রেট",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "কালচার মিডিয়ায় ব্যবহৃত লিপিড",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "কালচার মিডিয়ায় ব্যবহৃত প্রোটিন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কালচার মিডিয়াম ব্যবহৃত সল্ট",
+          "is_correct": false
+        }
+      ],
+      "option_a": "কালচার মিডিয়ায় ব্যবহৃত কার্বোহাইড্রেট",
+      "option_b": "কালচার মিডিয়ায় ব্যবহৃত লিপিড",
+      "option_c": "কালচার মিডিয়ায় ব্যবহৃত প্রোটিন",
+      "option_d": "কালচার মিডিয়াম ব্যবহৃত সল্ট",
+      "correct": "খ",
+      "explanation": "টিস্যু কালচারের একটি বিশেষ ধাপ তথা কালচার মিডিয়াম বা আবাদ মাধ্যম তৈরির প্রক্রিয়াতে মাধ্যমকে ঘন করতে জমাট বাঁধার উপাদান,যেমন- Agar সঠিক মাত্রায় মেশাতে হয়। ইহা কার্বোহাইড্রেট হিসেবে ব্যবহৃত হয়। উল্লেখ্য যে,Agar হলো জেলির মতো পদার্থ, যা কিছু প্রজাতির লাল শৈবালের কোষ প্রাচীর থেকে পাওয়া যায়।"
+    },
+    {
+      "number": "2",
+      "tag": "RU C 21-22 (SET 2)",
+      "question": "রক্ত তঞ্চনে কোন ধাতব আয়ন অংশ গ্রহণ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "C a + + \\mathrm{Ca}^{++} Ca ++",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "M g + + \\mathrm{Mg}^{++} Mg ++",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "F e + + \\mathrm{Fe}^{++} Fe ++",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "C u + + \\mathrm{Cu}^{++} Cu ++",
+          "is_correct": false
+        }
+      ],
+      "option_a": "C a + + \\mathrm{Ca}^{++} Ca ++",
+      "option_b": "M g + + \\mathrm{Mg}^{++} Mg ++",
+      "option_c": "F e + + \\mathrm{Fe}^{++} Fe ++",
+      "option_d": "C u + + \\mathrm{Cu}^{++} Cu ++",
+      "correct": "ক",
+      "explanation": "রক্ত তঞ্চনে ৪টি গুরুত্বপূর্ণ ফ্যাক্টর হলো- ফ্রাইব্রিনোজেন প্রোথ্রম্বিন থ্রম্বোপ্লাস্টিন ও C a + + Ca^{++} C a ++ ।"
+    },
+    {
+      "number": "3",
+      "tag": "JnU A 15-16",
+      "question": "স্পাইকলেট পুষ্পবিন্যাস দেখা যায় কোন উদ্ভিদে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ধান",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "আম",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "কাঠাল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কলা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ধান",
+      "option_b": "আম",
+      "option_c": "কাঠাল",
+      "option_d": "কলা",
+      "correct": "ক",
+      "explanation": "Poaceae গোত্রের পুষ্পমঞ্জরী স্পাইকলেট। প্রতিটি স্পাইকলেটের গোড়ায় এক জোড়া গুম থাকে। গ্লুমিদুটির উপরে পুষ্পিকা অবস্থান করে ।"
+    },
+    {
+      "number": "4",
+      "tag": "JnU A 15-16",
+      "question": "গনোরিয়া রোগ সৃষ্টিকারী ব্যাকটেরিয়ার নাম কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Treponema gonorrhoeae",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Treponema pallidum",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Neisseria gonorrhoeae",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Neisseria pallidum",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Treponema gonorrhoeae",
+      "option_b": "Treponema pallidum",
+      "option_c": "Neisseria gonorrhoeae",
+      "option_d": "Neisseria pallidum",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "RU C 19-20 (Group-1)",
+      "question": "রুই মাছের আঁইশ কোন ধরনের?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্রাকয়েড",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "টিনয়েড",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "গ্যানয়েড",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সাইক্লয়েড",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্রাকয়েড",
+      "option_b": "টিনয়েড",
+      "option_c": "গ্যানয়েড",
+      "option_d": "সাইক্লয়েড",
+      "correct": "গ",
+      "explanation": "রুইমাছের দেহত্বক যে সব পাত-সাদৃশ্য পাতলা অস্থিময় গঠন দিয়ে আবৃত তাদেরকে আঁইশ বলে। রুই মাছের আঁইশ সাইক্লয়েড ধরনের। এটি গোলাকার বা ডিম্বাকার ও মিউকাসময়। এটি ত্বকের ডার্মাল স্তর থেকে সৃষ্ট এক ধরনের পাতলা, অস্থি পাতময়, রূপালি বর্ণের গঠন বিশেষ। এটি চুন ও কোলাজেন তন্তু দিয়ে গঠিত।"
+    },
+    {
+      "number": "6",
+      "tag": "JnU A 15-16",
+      "question": "বাংলাদেশের প্রথম GM উদ্ভিদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Bt- তুলা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Bt-কলা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Bt-ডাল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Bt-বেগুন",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Bt- তুলা",
+      "option_b": "Bt-কলা",
+      "option_c": "Bt-ডাল",
+      "option_d": "Bt-বেগুন",
+      "correct": "ঘ",
+      "explanation": "Bt-বেগুন কে ২২ জানুয়ারি ২০১৪,বাংলাদেশে প্রথম GM বা Genetically Modified চাষের জন্য সরকার অনুমোদন দেয়। Bt বেগুন : Bacillus thuringiensis- এক প্রকার ব্যাকটেরিয়া যা হতে ক্রিস্টাল প্রোটিন জিন বেগুনের জিনোমের অন্তর্ভুক্ত করে উৎপন্ন বেগুনের নাম দেয়া হয়েছে Bt-বেগুন।Bt-বেগুন আর সাধারণ বেগুনের মধ্যে পার্থক্য হলো সাধারন বেগুনে পোকার আক্রমণ হয় কিন্তু Bt-বেগুনে পোকার আক্রমণ হয়না।"
+    },
+    {
+      "number": "7",
+      "tag": "JnU A 15-16",
+      "question": "নিচের কোনটিকে Molecular Scissors বলা হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Amylase enzyme",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Protease enzyme",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Restriction enzyme",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Lingase enzyme",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Amylase enzyme",
+      "option_b": "Protease enzyme",
+      "option_c": "Restriction enzyme",
+      "option_d": "Lingase enzyme",
+      "correct": "ঘ",
+      "explanation": "Molecular Scissors : Molecular Scissors বা আণবিক কাঁচি বলতে একধরনের এনজাইম কে নির্দেশ করা হয় যাকে Restriction enzyme বলা হয়। রেস্ট্রিকশন এনজাইম কে আবার রেস্ট্রিকশন এন্ডোনিউক্লিয়েসেস বলা হয়। রেস্ট্রিকশন এনজাইম প্রয়োগ করে প্রয়োগ করে DNA অণুর সুনির্দিষ্ট সিকোয়েন্স-এর একটি অংশ কেটে নেয়া যায়।"
+    },
+    {
+      "number": "8",
+      "tag": "JnU A 15-16",
+      "question": "প্রোক্যারিওটিক জীবের উদাহরণ হল-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ব্যাকটেরিয়া ও শৈবাল",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ভাইরাস ও ব্যাকটেরিয়া",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "মস ও ফার্ন",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ব্যাকটেরিয়া ও সায়ানোব্যাকটেরিয়া",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ব্যাকটেরিয়া ও শৈবাল",
+      "option_b": "ভাইরাস ও ব্যাকটেরিয়া",
+      "option_c": "মস ও ফার্ন",
+      "option_d": "ব্যাকটেরিয়া ও সায়ানোব্যাকটেরিয়া",
+      "correct": "গ",
+      "explanation": "আদিকেন্দ্রিক কোষ বা আদি কোষ (Prokaryotic Cell)। যে কোষে কোনো আবরণীবেষ্টিত নিউক্লিয়াস, এমনকি আবরণীবেষ্টিত (membrane-bound) অন্যকোনো অঙ্গাণুও (organelles) থাকে না তা হলো আদি কোষ। আদি কোষে নন-হিস্টোন প্রোটিনযুক্ত একটি মাত্র বৃত্তাকার DNA থাকে যা সাইটোপ্লাজমে মুক্তভাবে অবস্থান করে। আদিকোষে বৃত্তাকার DNA যা মুক্তভাবে ছড়ানো থাকে তাকে নিউক্লিঅয়েড (Nucleoid) বলে। এদের রাইবোসোম 70S। আদি কোষ দ্বি-ভাজন বা অ্যামাইটোসিস প্রক্রিয়ায় বিভাজিত হয়। আদি কোষ দ্বারা গঠিত জীব হলো আদিকোষী জীব (Prokaryotes)। উদাহরণ- মাইকোপ্লাজমা, ব্যাকটেরিয়া (Escherichia coli ও সায়ানোব্যাকটেরিয়া (BGA = Blue Green Algae)। মনেরা রাজ্যের সব জীবই আদিকোষী। গ্রিক Pro before, এবং karyon = nut, nucleus অর্থাৎ নিউক্লিয়াস সংগঠনের আগের অবস্থা] আদিকোষে অবাত শ্বসন ঘটে। অধিকাংশ ক্ষেত্রে শোষণ পদ্ধতিতে পুষ্টি ঘটে। কতক ক্ষেত্রে সালোকসংশ্লেষণ ঘটে।"
+    },
+    {
+      "number": "9",
+      "tag": "JnU A 15-16",
+      "question": "'Survival of the fittest' তত্ত্বের প্রবক্তা কে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Charles Darwin",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Charles Morgan",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Gregor Mendel",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Lamerk",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Charles Darwin",
+      "option_b": "Charles Morgan",
+      "option_c": "Gregor Mendel",
+      "option_d": "Lamerk",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "10",
+      "tag": "SYLAU 18-19",
+      "question": "গোল আলুর বিলম্বিত ধ্বসা রোগের কারণ কোন ছত্রাক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Phytophthora infestans",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Mucor Gigantia",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Penicilium notatum",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Rhizopus astinate",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Phytophthora infestans",
+      "option_b": "Mucor Gigantia",
+      "option_c": "Penicilium notatum",
+      "option_d": "Rhizopus astinate",
+      "correct": "ক",
+      "explanation": "Phytophthora infestans নামক ছত্রাকের কারণে গোল আলুর বিলম্বিত ধ্বসা রোগ। এ রোগে আলুর পাতা বাদামী বর্ণে ধারণ করে।Altarenia solanae দ্বারা আর্লিব্লাইট হয়।"
+    },
+    {
+      "number": "11",
+      "tag": "JnU A 15-16",
+      "question": "নিচের কোনটি স্নায়ুর প্রেরক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যাসিটাইল কোলিন",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ইনসুলিন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "গ্লুকাগন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "প্লাজমা প্রোটিন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অ্যাসিটাইল কোলিন",
+      "option_b": "ইনসুলিন",
+      "option_c": "গ্লুকাগন",
+      "option_d": "প্লাজমা প্রোটিন",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "JnU A 15-16",
+      "question": "নিচের কোনটি এনজাইম নয় ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অ্যামাইলেজ",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "লাইপেজ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ট্রিপসিন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "লিপিড",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অ্যামাইলেজ",
+      "option_b": "লাইপেজ",
+      "option_c": "ট্রিপসিন",
+      "option_d": "লিপিড",
+      "correct": "ক",
+      "explanation": "লিপিড এক ধরনের খাদ্য উপাদান,এটি এনজাইম নয়। অ্যামাইলেজ শর্করা পরিপাককারী এনজাইম। লাইপেজ লিপিড পরিপাককারী এনজাইম। ট্রিপসিন প্রোটিন পরিপাককারী এনজাইম।"
+    },
+    {
+      "number": "13",
+      "tag": "JnU A 15-16",
+      "question": "মুক্তা এর প্রধান উপাদান কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "কনকিওলিন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "পানি",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আরগোনাইট",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সোডিয়াম কার্বনেট",
+          "is_correct": true
+        }
+      ],
+      "option_a": "কনকিওলিন",
+      "option_b": "পানি",
+      "option_c": "আরগোনাইট",
+      "option_d": "সোডিয়াম কার্বনেট",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "JnU A 15-16",
+      "question": "কোন গ্রন্থি থেকে ইনসুলিন নিঃসৃত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অগ্ন্যাশয়",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "যকৃত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্লীহা",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "থাইরয়েড",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অগ্ন্যাশয়",
+      "option_b": "যকৃত",
+      "option_c": "প্লীহা",
+      "option_d": "থাইরয়েড",
+      "correct": "গ",
+      "explanation": "অগ্ন্যাশয়ের: i. আলফা কোষ (a cell)-এটি গ্লুকাগন (glucagon) হরমোন ক্ষরণ করে যা রক্তে গ্লুকোজের পরিমাণ বৃদ্ধি করে। ii. বিটা কোষ (ẞ cell) - এটি ইনসুলিন (insulin) হরমোন ক্ষরণ করে যা রক্তে গ্লুকোজের পরিমাণ কমায়। iii. ডেল্টা কোষ (৪ cell)- এটি সোমাটোস্টাটিন (somatostatin) হরমোন ক্ষরণ করে, যা আলফা ও বিটা কোষের ক্ষরণ নিয়ন্ত্রণ করে এবং iv. পিপি কোষ (PP cell)- এটি প্যানক্রিয়েটিক পলিপেপটাইড ক্ষরণ করে।"
+    },
+    {
+      "number": "15",
+      "tag": "JnU A 15-16",
+      "question": "Zoospore পাওয়া যায় কোন ছত্রাকে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Penicillium",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Aspergillus",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Saprolegnia",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Rhizopus",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Penicillium",
+      "option_b": "Aspergillus",
+      "option_c": "Saprolegnia",
+      "option_d": "Rhizopus",
+      "correct": "ক",
+      "explanation": "স্পোরাঞ্জিওস্পোরের সাথে ফ্ল্যাজেলা যুক্ত থাকলে তাকে জুস্পোর বলে।জুস্পোরের মাধ্যমে ছত্রাকের অযৌন জনন সম্পন্ন হয় ।উদাহরণ - Saprolegnia."
+    },
+    {
+      "number": "16",
+      "tag": "JnU A 15-16",
+      "question": "কোন প্রোটিন উৎপাদনে অণুজীবের ভূমিকা আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মাছের প্রোটিন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "উদ্ভিজ্জ প্রোটিন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "প্রাণিজ প্রোটিন",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সবগুলো",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মাছের প্রোটিন",
+      "option_b": "উদ্ভিজ্জ প্রোটিন",
+      "option_c": "প্রাণিজ প্রোটিন",
+      "option_d": "সবগুলো",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "JnU A 15-16",
+      "question": "নিচের কোনটি সঠিক Genetic Code?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "UAP PAT GCA",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "AUG GUC CUA",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "AUG CUG DPAA",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "AAA GGC CRC",
+          "is_correct": false
+        }
+      ],
+      "option_a": "UAP PAT GCA",
+      "option_b": "AUG GUC CUA",
+      "option_c": "AUG CUG DPAA",
+      "option_d": "AAA GGC CRC",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "JnU A 15-16",
+      "question": "প্রোফেজ-1 (Prophase-1) এর কোন উপপর্যায়ে ক্রসিং ওভার (crossing over) ঘটে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "প্যাকাইটিন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "জাইগোটিন",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "লেপ্টোটিন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "ডিপ্লোটিন",
+          "is_correct": false
+        }
+      ],
+      "option_a": "প্যাকাইটিন",
+      "option_b": "জাইগোটিন",
+      "option_c": "লেপ্টোটিন",
+      "option_d": "ডিপ্লোটিন",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "JnU A 15-16",
+      "question": "যে ব্যক্তির দুহাত সমান চলে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "দোহাতী",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "দ্বিজ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সব্যসাচী",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "পরভর্তৃকা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "দোহাতী",
+      "option_b": "দ্বিজ",
+      "option_c": "সব্যসাচী",
+      "option_d": "পরভর্তৃকা",
+      "correct": "ক",
+      "explanation": "যে ব্যক্তির দুহাত সমান তালে চলে - তাকে সব্যসাচী বলে দুবার জন্ম যার-দ্বিজ পরকে (কোকিল শাবক) পালন করে যে = পরভৃৎ (কাক)। পরের (কাকের) দ্বারা প্রতিপালিত যে = পরভৃত (কোকিল)।"
+    },
+    {
+      "number": "2",
+      "tag": "JnU A 15-16",
+      "question": "\"জনতা\" শব্দটি কোন জাতীয় অর্থদ্যোতকতা নির্দেশ করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জাতিবাচকতা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ভাববাচকতা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "নামবাচকতা",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "সমষ্টিবাচকতা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "জাতিবাচকতা",
+      "option_b": "ভাববাচকতা",
+      "option_c": "নামবাচকতা",
+      "option_d": "সমষ্টিবাচকতা",
+      "correct": "গ",
+      "explanation": "“জনতা” মানে অনেক লোকের সমাগম বা সমষ্টি। একজন লোক দিয়ে জনতা হয়না।"
+    },
+    {
+      "number": "3",
+      "tag": "JnU A 15-16",
+      "question": "বচন অর্থ কী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "পরিমানের ধারণা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "গণনার ধারণা",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ক্রমের ধারণা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সংখ্যার ধারণা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "পরিমানের ধারণা",
+      "option_b": "গণনার ধারণা",
+      "option_c": "ক্রমের ধারণা",
+      "option_d": "সংখ্যার ধারণা",
+      "correct": "ঘ",
+      "explanation": "বচন অর্থ সংখ্যার ধারণা। বচন দুই প্রকার । যথা- একবচন, বহুবচন।"
+    },
+    {
+      "number": "4",
+      "tag": "JnU A 15-16",
+      "question": "দেশি শব্দ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ঢেঁকি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "চন্দ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "নেমন্তন্ন",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "মাথা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ঢেঁকি",
+      "option_b": "চন্দ",
+      "option_c": "নেমন্তন্ন",
+      "option_d": "মাথা",
+      "correct": "ঘ",
+      "explanation": "দেশি শব্দ — কুলা, গঞ্জ, চোঙ্গা, টোপর, ডাব, ডাগর, ঢেঁকি চন্দ হলো তৎসম শব্দ নেমন্তন্ন"
+    },
+    {
+      "number": "5",
+      "tag": "JnU A 15-16",
+      "question": "'চন্দ্রবিন্দু' আসলে পরিবর্তিত রূপ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ঘর্ষণ বর্ণের",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সর্বনামের",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আনুনাসিক ধ্বনির",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বর্গীয় বর্ণের",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ঘর্ষণ বর্ণের",
+      "option_b": "সর্বনামের",
+      "option_c": "আনুনাসিক ধ্বনির",
+      "option_d": "বর্গীয় বর্ণের",
+      "correct": "ক",
+      "explanation": "আনুনাসিক ধ্বনি: যেসব ব্যঞ্জনধ্বনি উচ্চারণকালে শ্বাসের বায়ু মুখ দিয়ে বের না হয়ে নাক দিয়ে বের হয়, সেগুলোকে নাসিক্য বা আনুনাসিক ব্যঞ্জনধ্বনি বলা হয়। বর্তমান বাংলা ভাষায় তিনটি নাসিক্য ধ্বনিমূলগুলো আছেঃ ঙ, ন, ও ম।"
+    },
+    {
+      "number": "6",
+      "tag": "JnU A 15-16",
+      "question": "ধ্বনি নির্দেশক চিহ্নকে বলে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বর্ণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অক্ষর",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "উপসর্গ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "শব্দ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বর্ণ",
+      "option_b": "অক্ষর",
+      "option_c": "উপসর্গ",
+      "option_d": "শব্দ",
+      "correct": "গ",
+      "explanation": "অক্ষর: 'কোনো শব্দে যখন যে ধ্বনিসমষ্টি একসময়ে একত্রে উচ্চারিত হয়, তাকে অক্ষর বলে।’( ডক্টর মুহম্মদ শহীদুল্লাহ ) । উপসর্গ:যেসব বর্ণ বা বর্ণের সমষ্টি ধাতু এবং শব্দের আগে বসে সাধিত শব্দের অর্থের পরিবর্তন, সম্প্রসারণ কিংবা সংকোচন ঘটায়, তাদের বলা হয় উপসর্গ। যেমন: প্র, পরা, অপ,সম,নি ।"
+    },
+    {
+      "number": "7",
+      "tag": "JnU A 15-16",
+      "question": "\"তার বাগানের বড় শখ ছিল, যদিও আজ পর্যন্ত তা কল্পনাতেই পুষ্পিত হয়েছে\"- বাক্যটি কোন গল্পের?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "বিলাসী",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "সৌদামিনী মালো",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "এক তুলসী গাছের কাহিনী",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "হৈমন্তী",
+          "is_correct": false
+        }
+      ],
+      "option_a": "বিলাসী",
+      "option_b": "সৌদামিনী মালো",
+      "option_c": "এক তুলসী গাছের কাহিনী",
+      "option_d": "হৈমন্তী",
+      "correct": "ক",
+      "explanation": "• ’এক তুলসী গাছের কাহিনী' সৈয়দ ওয়ালীউল্লাহ কতৃক রচিত একটি গল্প। এই গল্পে লেখক সীমিত পরিসরে জীবনের গভীর এক তাৎপর্যকে ইঙ্গিতময় করে প্রকাশ করেছেন। প্রশ্নোক্ত বাক্যটি ‘এক তুলসী গাছের কাহিনী' গল্পের অংশ।"
+    },
+    {
+      "number": "8",
+      "tag": "JnU A 15-16",
+      "question": "‘অহরহ’ শব্দের সন্ধি বিচ্ছেদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অহ + রহ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অহঃ + রহ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "অহ + অহ",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "অহঃ + অহ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অহ + রহ",
+      "option_b": "অহঃ + রহ",
+      "option_c": "অহ + অহ",
+      "option_d": "অহঃ + অহ",
+      "correct": "গ",
+      "explanation": "অহঃ + অহ = অহরহ। এটি বিসর্গ সন্ধি। বিসর্গ সন্ধি দু’প্রকার। র-জাত এবং স-জাত বিসর্গ সন্ধি। এটি র্-জাত বিসর্গ সন্ধি।"
+    },
+    {
+      "number": "9",
+      "tag": "JnU A 15-16",
+      "question": "\"ছিঃ ছিঃ তার সাথে পারলে না\"। বাক্যটি কি অর্থে ব্যবহৃত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ঘৃণা",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ধিক্কার",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "দুঃখ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "লজ্জা",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ঘৃণা",
+      "option_b": "ধিক্কার",
+      "option_c": "দুঃখ",
+      "option_d": "লজ্জা",
+      "correct": "ঘ",
+      "explanation": "লজ্জা প্রকাশে: ছিঃ ছিঃ, তার সঙ্গে পারলে না। ধিক্কার দিতে: ছিঃ, তোমার এই কাজ! ঘৃণা প্রকাশে: তুমি এত নীচ!"
+    },
+    {
+      "number": "10",
+      "tag": "JnU A 15-16",
+      "question": "\"যত গর্জে তত বর্ষে না।\" এ বাক্যটি কিসের উদাহরণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ক্রিয়া বিশেষণ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বিশেষ্যর বিশেষণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "নির্ধারক বিশেষণ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সাপেক্ষ সর্বনাম",
+          "is_correct": true
+        }
+      ],
+      "option_a": "ক্রিয়া বিশেষণ",
+      "option_b": "বিশেষ্যর বিশেষণ",
+      "option_c": "নির্ধারক বিশেষণ",
+      "option_d": "সাপেক্ষ সর্বনাম",
+      "correct": "ঘ",
+      "explanation": "যে সর্বনাম পদগুলি একটির সাপেক্ষে আর একটি ব্যবহৃত হয়, অর্থাৎ বাক্যের মধ্যে একটিকে ব্যবহার করলে অপরটিকেও ব্যবহার করতে হয়, তাদের সাপেক্ষ সর্বনাম বলে। উদাহরণ: যে-সে। যে সয়, সে রয়।যত-তত। \"যত গর্জে তত বর্ষে না"
+    },
+    {
+      "number": "11",
+      "tag": "JnU A 15-16",
+      "question": "\"মিছা\" শব্দটির ধ্বনি পরিবর্তনের সূত্র কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "স্বরসংগতি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অন্ত্যস্বরগম",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ব্যাঞ্জন বিপর্যয়",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সমীভবন",
+          "is_correct": true
+        }
+      ],
+      "option_a": "স্বরসংগতি",
+      "option_b": "অন্ত্যস্বরগম",
+      "option_c": "ব্যাঞ্জন বিপর্যয়",
+      "option_d": "সমীভবন",
+      "correct": "ঘ",
+      "explanation": "\"মিছা\" শব্দটির ধ্বনি পরিবর্তনের সূত্রটি হলো স্বরসংগতি । বিশেষ করে, এটি \"অ-স্বর সংগতি\" এর একটি উদাহরণ। এখানে, \"মিছা\" শব্দটি \"মিছে\" তে পরিবর্তিত হওয়ার সময় শব্দের মধ্যে থাকা স্বরধ্বনির পরিবর্তন ঘটেছে। \"মিছা\" শব্দটিতে 'আ' স্বরধ্বনিটি 'এ' তে পরিবর্তিত হয়েছে, যা একই শব্দের মধ্যে অবস্থিত অন্য স্বরধ্বনির (ই-কার) প্রভাবে ঘটেছে। এই কারণে এটি স্বরসংগতির একটি উদাহরণ।"
+    },
+    {
+      "number": "12",
+      "tag": "JnU A 15-16",
+      "question": "সাপের খোলসকে এককথায় কী বলে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "অজিন",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "শ্লোক",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "নির্মোক",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "বালাম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "অজিন",
+      "option_b": "শ্লোক",
+      "option_c": "নির্মোক",
+      "option_d": "বালাম",
+      "correct": "ক",
+      "explanation": "এককথায় প্রকাশ : সাপের খােলস - নিমোক; বাঘের চর্ম - কৃত্তি, হরিণের চর্ম - অজিন; হাতির শাবক - করভ।"
+    },
+    {
+      "number": "13",
+      "tag": "JnU A 15-16",
+      "question": "'ভূত'-এর বিপরীত শব্দ-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "গোপন",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "মুক্ত",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "বর্তমান",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ভবিষ্যত",
+          "is_correct": false
+        }
+      ],
+      "option_a": "গোপন",
+      "option_b": "মুক্ত",
+      "option_c": "বর্তমান",
+      "option_d": "ভবিষ্যত",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "JnU A 15-16",
+      "question": "'সৌভাগ্য' শব্দটির সঠিক প্রকৃতি-প্রত্যয় কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সৌভগ+ষ্ণ্য",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সুভগ+ষ্ণ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সুভগ+ষ্ণ্য",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সৌভগ+ষ্ণ",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সৌভগ+ষ্ণ্য",
+      "option_b": "সুভগ+ষ্ণ",
+      "option_c": "সুভগ+ষ্ণ্য",
+      "option_d": "সৌভগ+ষ্ণ",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "15",
+      "tag": "JnU A 15-16",
+      "question": "কোন বানানগুচ্ছ অশুদ্ধ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "মন্ত্রিত্ব, ব্যুৎপত্তি, অস্তিত্ব",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ব্যবসা, সায়াহ্ন, পূর্বাহ্ন",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "দ্বন্দ্ব, রন্ধ্র, পণ্ড",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "মূর্খ, মুখ্য, সূক্ষ্ম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "মন্ত্রিত্ব, ব্যুৎপত্তি, অস্তিত্ব",
+      "option_b": "ব্যবসা, সায়াহ্ন, পূর্বাহ্ন",
+      "option_c": "দ্বন্দ্ব, রন্ধ্র, পণ্ড",
+      "option_d": "মূর্খ, মুখ্য, সূক্ষ্ম",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "JnU A 15-16",
+      "question": "'লালসালু' উপন্যাসটি কোন ভাষায় অনূদিত হয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "জার্মানি ও ইংরেজি",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ইংরেজি ও ফরাসি",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "শুধু ফরাসি",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "কোনটিই নয়",
+          "is_correct": false
+        }
+      ],
+      "option_a": "জার্মানি ও ইংরেজি",
+      "option_b": "ইংরেজি ও ফরাসি",
+      "option_c": "শুধু ফরাসি",
+      "option_d": "কোনটিই নয়",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "JnU A 15-16",
+      "question": "আঠারো বছর বয়সীর প্রাণ কেমন?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "তীব্র আর প্রখর",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "অভিজ্ঞতাসম্পন্ন",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বিদ্রোহী ও প্রতিবাদী",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অসামাজিকতায় পূর্ণ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "তীব্র আর প্রখর",
+      "option_b": "অভিজ্ঞতাসম্পন্ন",
+      "option_c": "বিদ্রোহী ও প্রতিবাদী",
+      "option_d": "অসামাজিকতায় পূর্ণ",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "JnU A 15-16",
+      "question": "'পাঞ্জেরি' শব্দের রূপকথা-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "আলোকবর্তিকা",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "দেশ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "নেতা",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "জাহাজের মাস্তুল",
+          "is_correct": false
+        }
+      ],
+      "option_a": "আলোকবর্তিকা",
+      "option_b": "দেশ",
+      "option_c": "নেতা",
+      "option_d": "জাহাজের মাস্তুল",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "1",
+      "tag": "JnU A 15-16",
+      "question": "He thinks reading a newspaper is a ___waste of money.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "only",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "complete",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "mere",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "plain",
+          "is_correct": false
+        }
+      ],
+      "option_a": "only",
+      "option_b": "complete",
+      "option_c": "mere",
+      "option_d": "plain",
+      "correct": "গ",
+      "explanation": "Sentence Connectors এর নিয়মে বাক্যের Context অনুযায়ী mere Correct. Negative statement এর ক্ষেত্রে Mere বুঝায়"
+    },
+    {
+      "number": "2",
+      "tag": "JnU A 15-16",
+      "question": "You can't predict everything. Often things don't ____ as you expect.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "make out",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "break out",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "turn out",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "get out",
+          "is_correct": false
+        }
+      ],
+      "option_a": "make out",
+      "option_b": "break out",
+      "option_c": "turn out",
+      "option_d": "get out",
+      "correct": "গ",
+      "explanation": "The correct word to fill in the blank is \"turn out\" . Here's why: The sentence \"You can't predict everything. Often things don't turn out as you expect\" means that things often happen differently than what you anticipate. \"Work out\" means to happen or develop in a particular way, which is not the intended meaning in this context. The other options, \"make out\" and \"break out,\" also do not fit the context. Therefore, the correct sentence is: \"You can't predict everything. Often things don't turn out as you expect.\""
+    },
+    {
+      "number": "3",
+      "tag": "JnU A 15-16",
+      "question": "The phrase 'stand out' means-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "to sit properly",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "to stand errect",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "to kick out",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "to be noticeable by being exceptional",
+          "is_correct": false
+        }
+      ],
+      "option_a": "to sit properly",
+      "option_b": "to stand errect",
+      "option_c": "to kick out",
+      "option_d": "to be noticeable by being exceptional",
+      "correct": "গ",
+      "explanation": "The phrase 'stand out' is often used to describe something or someone that is noticeably different or superior. It does not refer to any physical posture or action. Therefore, option D is the correct answer as it accurately describes the meaning of the phrase."
+    },
+    {
+      "number": "4",
+      "tag": "JnU A 15-16",
+      "question": "Choose the correct sentence.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Every language has its own collection of wise sayings.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Every language has his own collection of wise sayings.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Every language has its own collection about wise, saying.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Every language has its own collection of wise saying.",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Every language has its own collection of wise sayings.",
+      "option_b": "Every language has his own collection of wise sayings.",
+      "option_c": "Every language has its own collection about wise, saying.",
+      "option_d": "Every language has its own collection of wise saying.",
+      "correct": "ঘ",
+      "explanation": "Option A is correct because it uses the correct possessive pronoun 'its' for non-living things like 'language'. Also, it correctly uses the plural form 'sayings' as a language can have more than one wise saying."
+    },
+    {
+      "number": "5",
+      "tag": "JnU A 15-16",
+      "question": "Choose the simple form of the sentence: If you help me, I will help you.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "By your help I will help you.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "In case you help me I will help you.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "In case of your helping me, I will help you.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Despite your help I will help you.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "By your help I will help you.",
+      "option_b": "In case you help me I will help you.",
+      "option_c": "In case of your helping me, I will help you.",
+      "option_d": "Despite your help I will help you.",
+      "correct": "ক",
+      "explanation": "If যুক্ত Complex sentence এর Simple করার নিয়ম : if উঠে গিয়ে তার স্থলে In case বসবে।"
+    },
+    {
+      "number": "6",
+      "tag": "JnU A 15-16",
+      "question": "Choose the indirect speech of the following: He said,Would that I were rich.\":",
+      "options": [
+        {
+          "label": "ক",
+          "text": "He wished that he had been rich.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "He said that he were rich.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "He wished he would be rich.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "He would that he were rich",
+          "is_correct": false
+        }
+      ],
+      "option_a": "He wished that he had been rich.",
+      "option_b": "He said that he were rich.",
+      "option_c": "He wished he would be rich.",
+      "option_d": "He would that he were rich",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "JnU A 15-16",
+      "question": "Mita Ahmed, a Dhaka resident, went shopping. She is 30, and has lived at 23/2 College Road since 1992. Mita _____to Rifat Ahmed for seven years.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "has been married",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "is married",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "married",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "was married",
+          "is_correct": false
+        }
+      ],
+      "option_a": "has been married",
+      "option_b": "is married",
+      "option_c": "married",
+      "option_d": "was married",
+      "correct": "ক",
+      "explanation": "Sentence: \"Mita _____ to Rifat Ahmed for seven years.\" এখানে duration ( for seven years ) দেওয়া আছে। তাই Present Perfect tense দরকার, কারণ কাজটি অতীতে শুরু হয়েছে এবং এখনো চলমান। Options বিশ্লেষণ ক (has been married) → ✅ সঠিক, present perfect tense → She has been married to Rifat Ahmed for seven years."
+    },
+    {
+      "number": "8",
+      "tag": "JnU A 15-16",
+      "question": "Yesterday he had a ____ from a serious accident.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "narrow escape",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "chance",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "danger",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "possibility",
+          "is_correct": false
+        }
+      ],
+      "option_a": "narrow escape",
+      "option_b": "chance",
+      "option_c": "danger",
+      "option_d": "possibility",
+      "correct": "ক",
+      "explanation": "\"Yesterday he had a narrow escape from a serious accident.\" এখানে বলা হচ্ছে যে সে গতকাল একটি গুরুতর দুর্ঘটনা থেকে অল্পের জন্য বেঁচে গিয়েছিল । Danger হলো বিপদ যা হুমকি প্রদান করে, কিন্তু এটা বেঁচে যাওয়ার সাথে সম্পর্কিত নয়।"
+    },
+    {
+      "number": "9",
+      "tag": "JnU A 15-16",
+      "question": "The synonym of the word ' Tyranny ' is-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "democratic",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "thoughtful",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "typical",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "dictatorship",
+          "is_correct": false
+        }
+      ],
+      "option_a": "democratic",
+      "option_b": "thoughtful",
+      "option_c": "typical",
+      "option_d": "dictatorship",
+      "correct": "ক",
+      "explanation": "The word 'Tyranny' refers to cruel and oppressive government or rule. The term 'dictatorship' also refers to a form of government where a single person or a small group possesses absolute power without effective constitutional limitations. Therefore, 'dictatorship' is a synonym for 'tyranny'."
+    },
+    {
+      "number": "10",
+      "tag": "JnU A 15-16",
+      "question": "A 79-year-old man _____ on Saturdy while driving his brand new Toyata.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "slightly injured",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "had been slightly injured",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "had slightly injured",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "was slightly injured",
+          "is_correct": true
+        }
+      ],
+      "option_a": "slightly injured",
+      "option_b": "had been slightly injured",
+      "option_c": "had slightly injured",
+      "option_d": "was slightly injured",
+      "correct": "ঘ",
+      "explanation": "Option D is correct because it uses the passive voice correctly. The man was injured (by something), he didn't injure himself or others. The other options are either not grammatically correct or don't make sense in this context."
+    },
+    {
+      "number": "11",
+      "tag": "JnU A 15-16",
+      "question": "The correct translation of 'আর কে কে ওখানে উপস্থিত ছিল?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Who have been present there?",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Who else were present there?",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Whom else were present there?",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Who were present there?",
+          "is_correct": true
+        }
+      ],
+      "option_a": "Who have been present there?",
+      "option_b": "Who else were present there?",
+      "option_c": "Whom else were present there?",
+      "option_d": "Who were present there?",
+      "correct": "ঘ",
+      "explanation": "Who কে কে। Else আর। বাক্যটির সঠিক - Who else were present there"
+    },
+    {
+      "number": "12",
+      "tag": "JnU A 15-16",
+      "question": "The idiom 'a hot potato' means",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a current issue",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a potato just baked",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "an old issue",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a burnt potato",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a current issue",
+      "option_b": "a potato just baked",
+      "option_c": "an old issue",
+      "option_d": "a burnt potato",
+      "correct": "খ",
+      "explanation": "a hot potato অর্থ সমসাময়িক বিষয় বা গুরুত্বপূর্ন বিষয় । সুতরাং correct answer : A"
+    },
+    {
+      "number": "13",
+      "tag": "JnU A 15-16",
+      "question": "Conflict is a normal part of any healthy relationship. After all, two people cannot be expected to agree on everything all the time. Learning how to deal with conflict rather than avoiding it-is crucial. When conflict is mismanaged, it can cause great harm to a relationship, but when handled in a respectful, positive way, conflict provides an opportunity to strengthen the bond between two people. By learning skills for conflict resolution, you can keep your personal and professional relationship strong and growing. To resolve conflict successfully remember the following: Listen for what is felt as well as said; Make conflict resolution the priority rather than winning or being right; Focus on the present; Be willing to forgive. 13.1. What does the passage highlight?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "conflict is very Bad.",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "Conflict does a great harm to our relationship.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Conflict is to be avoided anyhow.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "Conflict is to be resolved successfully.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "conflict is very Bad.",
+      "option_b": "Conflict does a great harm to our relationship.",
+      "option_c": "Conflict is to be avoided anyhow.",
+      "option_d": "Conflict is to be resolved successfully.",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "JnU A 15-16",
+      "question": "___________ rainfall has raised water levels of rivers across many districts in the southern part of Bangladesh.",
+      "options": [
+        {
+          "label": "ক",
+          "text": "Episodic",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "Sporadic",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "Incessant",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "Periodic",
+          "is_correct": false
+        }
+      ],
+      "option_a": "Episodic",
+      "option_b": "Sporadic",
+      "option_c": "Incessant",
+      "option_d": "Periodic",
+      "correct": "গ",
+      "explanation": ""
+    }
+  ]
+}

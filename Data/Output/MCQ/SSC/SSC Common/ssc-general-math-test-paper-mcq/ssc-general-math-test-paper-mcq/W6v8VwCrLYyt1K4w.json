@@ -1,0 +1,931 @@
+{
+  "read_id": "W6v8VwCrLYyt1K4w",
+  "title": "ময়মনসিংহ বোর্ড ২০২২",
+  "count": 28,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "MB 22",
+      "question": "{ x ∈ N : 4 < x ≤ 5 } \\{x \\in \\mathbb{N}: 4 <\\mathrm{x} \\leq 5\\} { x ∈ N : 4 < x ≤ 5 } এর তালিকা রূপ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "∅ \\varnothing ∅",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ 4 } \\{4\\} { 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ 5 } \\{5\\} { 5 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ 4 , 5 } \\{4,5\\} { 4 , 5 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "∅ \\varnothing ∅",
+      "option_b": "{ 4 } \\{4\\} { 4 }",
+      "option_c": "{ 5 } \\{5\\} { 5 }",
+      "option_d": "{ 4 , 5 } \\{4,5\\} { 4 , 5 }",
+      "correct": "গ",
+      "explanation": "{x∈N:4<x≤5} ={5}"
+    },
+    {
+      "number": "2",
+      "tag": "BB 24,MB 22,RCC 24",
+      "question": "নিচের কোনটি অসীম সেট?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x ∈ N : x > 5 } \\{x \\in \\mathbb{N}: x>5\\} { x ∈ N : x > 5 }",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "{ x ∈ N : x < 5 } \\{x \\in \\mathbb{N}: x<5\\} { x ∈ N : x < 5 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x ∈ N : x \\{x \\in \\mathbb{N}: x { x ∈ N : x মৌলিক সংখ্যা এবং x < 2 } x<2\\} x < 2 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x ∈ Z : 16 ≤ x 2 ≤ 36 } \\left\\{x \\in \\mathbb{Z}: 16 \\leq x^{2} \\leq 36\\right\\} { x ∈ Z : 16 ≤ x 2 ≤ 36 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x ∈ N : x > 5 } \\{x \\in \\mathbb{N}: x>5\\} { x ∈ N : x > 5 }",
+      "option_b": "{ x ∈ N : x < 5 } \\{x \\in \\mathbb{N}: x<5\\} { x ∈ N : x < 5 }",
+      "option_c": "{ x ∈ N : x \\{x \\in \\mathbb{N}: x { x ∈ N : x মৌলিক সংখ্যা এবং x < 2 } x<2\\} x < 2 }",
+      "option_d": "{ x ∈ Z : 16 ≤ x 2 ≤ 36 } \\left\\{x \\in \\mathbb{Z}: 16 \\leq x^{2} \\leq 36\\right\\} { x ∈ Z : 16 ≤ x 2 ≤ 36 }",
+      "correct": "ক",
+      "explanation": "এখানে, { x ∈ N : x > 5 } = { 6 , 7 , 8 , … } → \\{x \\in N: x>5\\}=\\{6,7,8, \\ldots\\} \\rightarrow { x ∈ N : x > 5 } = { 6 , 7 , 8 , … } → অসীম সেট { x ∈ N : x < 5 } = { 4 , 3 , 2 , 1 , 0 } → \\{x \\in N: x<5\\}=\\{4,3,2,1,0\\} \\rightarrow { x ∈ N : x < 5 } = { 4 , 3 , 2 , 1 , 0 } → সসীম সেট { x ∈ N : x \\{x \\in N: x { x ∈ N : x মৌলিক সংখ্যা এবং : x < 2 } = ∅ → : x<2\\}=\\varnothing \\rightarrow : x < 2 } = ∅ → সসীম সেট { x ∈ z : 16 ≤ x 2 ≤ 36 } = { − 6 , − 5 , − 4 , 4 ; 5 , 6 } →  সসীম সেট \\left\\{x \\in z: 16 \\leq x^{2} \\leq 36\\right\\}=\\{-6,-5,-4,4 ; 5,6\\} \\rightarrow \\begin{array}{c} \\text { সসীম সেট} \\end{array} { x ∈ z : 16 ≤ x 2 ≤ 36 } = { − 6 , − 5 , − 4 , 4 ; 5 , 6 } →   সসীম   সেট ​"
+    },
+    {
+      "number": "3",
+      "tag": "MB 22",
+      "question": "f ( y ) = y 2 − ( a + 1 a ) y + 1 f(y)=y^{2}-\\left(a+\\frac{1}{a}\\right) y+1 f ( y ) = y 2 − ( a + a 1 ​ ) y + 1 হলে y y y এর কোন মানের জন্য f ( y ) = 0 f(\\mathrm{y})=0 f ( y ) = 0 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0 , a 0, \\mathrm{a} 0 , a",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "0 , 1 a 0, \\frac{1}{a} 0 , a 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a , − 1 a \\mathrm{a},-\\frac{1}{\\mathrm{a}} a , − a 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "a , I a \\mathrm{a}, \\frac{\\mathrm{I}}{\\mathrm{a}} a , a I ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "0 , a 0, \\mathrm{a} 0 , a",
+      "option_b": "0 , 1 a 0, \\frac{1}{a} 0 , a 1 ​",
+      "option_c": "a , − 1 a \\mathrm{a},-\\frac{1}{\\mathrm{a}} a , − a 1 ​",
+      "option_d": "a , I a \\mathrm{a}, \\frac{\\mathrm{I}}{\\mathrm{a}} a , a I ​",
+      "correct": "ঘ",
+      "explanation": "প্রশ্নমতে, f ( y ) = 0 f(y)=0 f ( y ) = 0 বা, y 2 − ( a + 1 a ) y + 1 = 0 y^{2}-\\left(a+\\frac{1}{a}\\right) y+1=0 y 2 − ( a + a 1 ​ ) y + 1 = 0 বা, y 2 − a y − y a + 1 = 0 y^{2}-a y-\\frac{y}{a}+1=0 y 2 − a y − a y ​ + 1 = 0 বা, y ( y − a ) − 1 a ( y − a ) = 0 y(y-a)-\\frac{1}{a}(y-a)=0 y ( y − a ) − a 1 ​ ( y − a ) = 0 বা, ( y − a ) ( y − 1 a ) = 0 ∴ y = a , 1 a (y-a)\\left(y-\\frac{1}{a}\\right)=0 \\therefore y=a, \\frac{1}{a} ( y − a ) ( y − a 1 ​ ) = 0 ∴ y = a , a 1 ​"
+    },
+    {
+      "number": "4",
+      "tag": "CB 25",
+      "question": "log ⁡ x 4 = − 2  হলে,  x =  কত?  \\log _{x} 4=-2 \\text { হলে, } x=\\text { কত? } lo g x ​ 4 = − 2   হলে ,  x =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "1 2 \\frac{1}{2} 2 1 ​",
+      "option_c": "− 1 2 -\\frac{1}{2} − 2 1 ​",
+      "option_d": "-2",
+      "correct": "খ",
+      "explanation": "log꜀ x 4 = −2 এই লগারিদমিক সমীকরণটিকে সূচকীয় আকারে প্রকাশ করলে পাই, x⁻² = 4 1/x² = 4 x² = 1/4 x = √(1/4)"
+    },
+    {
+      "number": "5",
+      "tag": "MB 22,DCS 24",
+      "question": "x 2 − 1 + 2 y − y 2 x^{2}-1+2 y-y^{2} x 2 − 1 + 2 y − y 2 এর একটি উৎপাদক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x + y + 1 x+y+1 x + y + 1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x + y − 1 x+y-1 x + y − 1",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "y − x + 1 \\mathrm{y}-\\mathrm{x}+1 y − x + 1 .",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x − y − 1 x-y-1 x − y − 1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x + y + 1 x+y+1 x + y + 1",
+      "option_b": "x + y − 1 x+y-1 x + y − 1",
+      "option_c": "y − x + 1 \\mathrm{y}-\\mathrm{x}+1 y − x + 1 .",
+      "option_d": "x − y − 1 x-y-1 x − y − 1",
+      "correct": "খ",
+      "explanation": "প্রদত্ত রাশি = x 2 − 1 + 2 y − y 2 = x 2 − ( y 2 − 2 y + 1 ) = x 2 − ( y − 1 ) 2 = ( x − y + 1 ) ( x + y − 1 ) \\begin{aligned} \\text { প্রদত্ত রাশি} & =x^{2}-1+2 y-y^{2} \\\\ & =x^{2}-\\left(y^{2}-2 y+1\\right) \\\\ & =x^{2}-(y-1)^{2} \\\\ & =(x-y+1)(x+y-1)\\end{aligned}   প্রদত্ত   রাশি ​ = x 2 − 1 + 2 y − y 2 = x 2 − ( y 2 − 2 y + 1 ) = x 2 − ( y − 1 ) 2 = ( x − y + 1 ) ( x + y − 1 ) ​"
+    },
+    {
+      "number": "6",
+      "tag": "MB 22",
+      "question": "( x + y ) 2 (x+y)^{2} ( x + y ) 2 এর সাথে কত যোগ করলে যোগফল ( x − y ) 2 (x-y)^{2} ( x − y ) 2 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 4 x y -4 x y − 4 x y .",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 x y 4 x y 4 x y",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 2 x y -2 x y − 2 x y",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 x y 2 x y 2 x y",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 4 x y -4 x y − 4 x y .",
+      "option_b": "4 x y 4 x y 4 x y",
+      "option_c": "− 2 x y -2 x y − 2 x y",
+      "option_d": "2 x y 2 x y 2 x y",
+      "correct": "ক",
+      "explanation": "Let's calculate ( x + y ) 2 (x+y)^{2} ( x + y ) 2 and ( x − y ) 2 (x-y)^{2} ( x − y ) 2 first: ( x + y ) 2 = x 2 + 2 x y + y 2 (x+y)^{2} = x^2 + 2xy + y^2 ( x + y ) 2 = x 2 + 2 x y + y 2 ( x − y ) 2 = x 2 − 2 x y + y 2 (x-y)^{2} = x^2 - 2xy + y^2 ( x − y ) 2 = x 2 − 2 x y + y 2 We need to find what should be added to ( x + y ) 2 (x+y)^{2} ( x + y ) 2 to get ( x − y ) 2 (x-y)^{2} ( x − y ) 2 . So, we calculate: ( x − y ) 2 − ( x + y ) 2 = ( x 2 − 2 x y + y 2 ) − ( x 2 + 2 x y + y 2 ) (x-y)^{2} - (x+y)^{2} = (x^2 - 2xy + y^2) - (x^2 + 2xy + y^2) ( x − y ) 2 − ( x + y ) 2 = ( x 2 − 2 x y + y 2 ) − ( x 2 + 2 x y + y 2 ) Simplifying the expression, we have: = x 2 − 2 x y + y 2 − x 2 − 2 x y − y 2 = x^2 - 2xy + y^2 - x^2 - 2xy - y^2 = x 2 − 2 x y + y 2 − x 2 − 2 x y − y 2 = − 4 x y = -4xy = − 4 x y Therefore, the value that must be added is − 4 x y -4xy − 4 x y . Correct option: A. − 4 x y -4 x y − 4 x y"
+    },
+    {
+      "number": "7",
+      "tag": "MB 22",
+      "question": "a + b = 4 a+b=4 a + b = 4 এবং a 2 + b 2 = 8 a^{2}+b^{2}=8 a 2 + b 2 = 8 হলে a 3 + b 3 a^{3}+b^{3} a 3 + b 3 এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "16",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "12",
+      "option_c": "16",
+      "option_d": "18",
+      "correct": "গ",
+      "explanation": "a 2 + b 2 = 8  বা,  ( a + b ) 2 − 2 a b = 8  বা,  4 2 − 8 = 2 a b  বা,  2 a b = 8 ∴ a b = 4 ∴ a 3 + b 3 = ( a + b ) 3 − 3 a b ( a + b ) = 4 3 − 3.4.4 = 64 − 48 = 16 \\begin{array}{l}a^{2}+b^{2}=8 \\text { বা, }(a+b)^{2}-2 a b=8 \\\\ \\text { বা, } 4^{2}-8=2 a b \\text { বা, } 2 a b=8 \\therefore a b=4 \\\\ \\therefore a^{3}+b^{3}=(a+b)^{3}-3 a b(a+b)=4^{3}-3.4 .4=64-48=16\\end{array} a 2 + b 2 = 8   বা ,  ( a + b ) 2 − 2 ab = 8   বা ,  4 2 − 8 = 2 ab   বা ,  2 ab = 8 ∴ ab = 4 ∴ a 3 + b 3 = ( a + b ) 3 − 3 ab ( a + b ) = 4 3 − 3.4.4 = 64 − 48 = 16 ​"
+    },
+    {
+      "number": "8",
+      "tag": "BB 25,MB 22",
+      "question": "বার্ষিক 7% হার মুনাফায় 700 টাকার কত বছরের সরল মুনাফা 245 টাকা হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 বছর",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4 বছর",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 বছর",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 বছর",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 বছর",
+      "option_b": "4 বছর",
+      "option_c": "3 বছর",
+      "option_d": "1 বছর",
+      "correct": "ক",
+      "explanation": "মুনাফার হার = 7 % = 7 100 = 0.07 =7 \\%=\\frac{7}{100}=0.07 = 7% = 100 7 ​ = 0.07 টাকা আসল, P = 700 P=700 P = 700 টাকা মুনাফা, I = 245 I=245 I = 245 টাকা সময়, n = n= n = ? আমরা জানি, I = P r n n = I P r = 245 700 × 0.07 = 245 49 = 5  বছর  \\begin{array}{l} I=P r n \\\\ n=\\frac{I}{P r}=\\frac{245}{700 \\times 0.07}=\\frac{245}{49}=5 \\text { বছর } \\end{array} I = P r n n = P r I ​ = 700 × 0.07 245 ​ = 49 245 ​ = 5   বছর   ​"
+    },
+    {
+      "number": "9",
+      "tag": "SB 25,MB 22,RCPC 24",
+      "question": "কোনো বৃত্তের উপচাপে অন্তলিখিত কোণ নিচের কোনটি হওয়ার সম্ভাবনা আছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30 ∘ 30^{\\circ} 3 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "70 ∘ 70^{\\circ} 7 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "110 ∘ 110^{\\circ} 11 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "30 ∘ 30^{\\circ} 3 0 ∘",
+      "option_b": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_c": "70 ∘ 70^{\\circ} 7 0 ∘",
+      "option_d": "110 ∘ 110^{\\circ} 11 0 ∘",
+      "correct": "ঘ",
+      "explanation": "বৃত্তের উপচাপে অনুলিখিত কোন স্কুলকোন ( > 90 ∘ ) \\left(>90^{\\circ}\\right) ( > 9 0 ∘ ) Ans: 110 ∘ 110^{\\circ} 11 0 ∘"
+    },
+    {
+      "number": "10",
+      "tag": "RB 25,CB 25,DB 24,MB 23,DIN.B 23,MB 22,MB 20,DIN.B 19,DB 17,CB 17,RCC 24,FGCC 24,RUMC 24,BAFSC 24",
+      "question": "একটি সুষম অষ্টভুজের শীর্ষ কোণের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "108 ∘ 108^{\\circ} 10 8 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "135 ∘ 135^{\\circ} 13 5 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_b": "108 ∘ 108^{\\circ} 10 8 ∘",
+      "option_c": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_d": "135 ∘ 135^{\\circ} 13 5 ∘",
+      "correct": "ঘ",
+      "explanation": "সুষম অষ্টভুজের শীর্ষ কোণের মান = ( 8 − 2 ) 8 × 180 ∘ = 135 ∘ =\\frac{(8-2)}{8} \\times 180^{\\circ}=135^{\\circ} = 8 ( 8 − 2 ) ​ × 18 0 ∘ = 13 5 ∘ আমরা জানি ,  কোনো n বাহুবিশিষ বহুভুজের শীর্ষকোন,  = n − 2 n × 140 ∘  অষ্টভুজের ক্ষেত্রে,  n = 8 ∴  কোণের মান  = 8 − 2 8 × 180 ∘ = 135 ∘ \\begin{array}{l} \\text { কোনো n বাহুবিশিষ বহুভুজের শীর্ষকোন, }= \\frac{n-2}{n} \\times 140^{\\circ}\\\\ \\text { অষ্টভুজের ক্ষেত্রে, } n=8 \\\\ \\therefore \\text { কোণের মান }=\\frac{8-2}{8} \\times 180^{\\circ}=135^{\\circ} \\end{array}   কোনো  n  বাহুবিশিষ   বহুভুজের   শীর্ষকোন ,  = n n − 2 ​ × 14 0 ∘   অষ্টভুজের   ক্ষেত্রে ,  n = 8 ∴   কোণের   মান   = 8 8 − 2 ​ × 18 0 ∘ = 13 5 ∘ ​"
+    },
+    {
+      "number": "11",
+      "tag": "MB 22,BB 22,FGCC 24",
+      "question": "( 3 ) x + 1 = 27 (\\sqrt{3})^{x+1}=27 ( 3 ​ ) x + 1 = 27 হলে, x = x= x = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "( 3 ) x + 1 = 27 ⇒ 3 x + 1 2 = 3 3 ⇒ x + 1 2 = 3 ⇒ x + 1 = 6 ⇒ x = 6 − 1 = 5 \\begin{aligned} & (\\sqrt{3})^{x+1}=27 \\\\ \\Rightarrow & 3^{\\frac{x+1}{2}}=3^{3} \\\\ \\Rightarrow & \\frac{x+1}{2}=3 \\\\ \\Rightarrow & x+1=6 \\\\ \\Rightarrow & x=6-1=5\\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ ( 3 ​ ) x + 1 = 27 3 2 x + 1 ​ = 3 3 2 x + 1 ​ = 3 x + 1 = 6 x = 6 − 1 = 5 ​"
+    },
+    {
+      "number": "12",
+      "tag": "MB 22,FCC 24",
+      "question": "2 log ⁡ x − log ⁡ ( 2 x + 35 ) = 0 2 \\log x-\\log (2 x+35)=0 2 lo g x − lo g ( 2 x + 35 ) = 0 হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "7 7 7",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "− 5 , − 7 -5,-7 − 5 , − 7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "− 5 , 7 -5,7 − 5 , 7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "− 7 , 5 -7,5 − 7 , 5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "7 7 7",
+      "option_b": "− 5 , − 7 -5,-7 − 5 , − 7",
+      "option_c": "− 5 , 7 -5,7 − 5 , 7",
+      "option_d": "− 7 , 5 -7,5 − 7 , 5",
+      "correct": "ক",
+      "explanation": "2 log ⁡ x − log ⁡ ( 2 x + 35 ) = 0 2 \\log x-\\log (2 x+35)=0 2 lo g x − lo g ( 2 x + 35 ) = 0 বা, log ⁡ x 2 − log ⁡ ( 2 x + 35 ) = 0 \\log x^{2}-\\log (2 x+35)=0 lo g x 2 − lo g ( 2 x + 35 ) = 0 বা, log ⁡ x 2 2 x + 35 = log ⁡ 1 \\log \\frac{x^{2}}{2 x+35}=\\log 1 lo g 2 x + 35 x 2 ​ = lo g 1 বা, x 2 = 2 x + 35 x^{2}=2 x+35 x 2 = 2 x + 35 বা, x 2 − 2 x − 35 = 0 x^{2}-2 x-35=0 x 2 − 2 x − 35 = 0 বা, ( x − 7 ) ( x + 5 ) = 0 (x-7)(x+5)=0 ( x − 7 ) ( x + 5 ) = 0 ∴ x − 7 = 0 [ x + 5 ≠ 0 \\therefore x-7=0[x+5 \\neq 0 ∴ x − 7 = 0 [ x + 5  = 0 কারণ, log ঋণাত্মক মান গ্রহন করে না ] ] ] ∴ x = 7 \\therefore x=7 ∴ x = 7"
+    },
+    {
+      "number": "13",
+      "tag": "MB 22",
+      "question": "প্রথম 27 টি স্বাভাবিক সংখ্যার সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "27",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "378",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "756",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6930",
+          "is_correct": false
+        }
+      ],
+      "option_a": "27",
+      "option_b": "378",
+      "option_c": "756",
+      "option_d": "6930",
+      "correct": "খ",
+      "explanation": "প্রথম 27 টি স্বাভাবিক সংখ্যার সমষ্টি, S 27 = 27 ( 27 + 1 ) 2 = 378 \\mathrm{S}_{27}=\\frac{27(27+1)}{2}=378 S 27 ​ = 2 27 ( 27 + 1 ) ​ = 378"
+    },
+    {
+      "number": "14",
+      "tag": "MB 22",
+      "question": "COSA = sinA হলে, 2sin.cosA =কত? (যেখানে, A সূক্ষ্মকোণ)",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "½",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "½",
+      "option_c": "1",
+      "option_d": "2",
+      "correct": "গ",
+      "explanation": "cos ⁡ A = sin ⁡ A  বা,  sin ⁡ A cos ⁡ A = 1  বা,  tan ⁡ A = tan ⁡ 45 ∘ ∴ A = 45 ∘ ∴ 2 sin ⁡ A cos ⁡ A = 2 sin ⁡ 45 ∘ cos ⁡ 45 ∘ = 2 ⋅ 1 2 1 2 = 1 \\begin{array}{l}\\cos A=\\sin A \\text { বা, } \\frac{\\sin A}{\\cos A}=1 \\text { বা, } \\tan A=\\tan 45^{\\circ} \\therefore A=45^{\\circ} \\\\ \\therefore 2 \\sin A \\cos A=2 \\sin 45^{\\circ} \\cos 45^{\\circ}=2 \\cdot \\frac{1}{\\sqrt{2}} \\frac{1}{\\sqrt{2}}=1\\end{array} cos A = sin A   বা ,  c o s A s i n A ​ = 1   বা ,  tan A = tan 4 5 ∘ ∴ A = 4 5 ∘ ∴ 2 sin A cos A = 2 sin 4 5 ∘ cos 4 5 ∘ = 2 ⋅ 2 ​ 1 ​ 2 ​ 1 ​ = 1 ​"
+    },
+    {
+      "number": "17",
+      "tag": "MB 25,CB 24,BB 24,DB 23,MB 23,SB 23,RB 23,JB 23,DB 22,MB 22,RB 22,CTG.B 22,SB 22,JB 22,RB 20,DIN.B 20,RB 19,CB 19,All.B 18,DB 17,DIN.B 17,JB 17,FCC 24,JGCC 24,PCC 24,VNSC 24,GLHSD 24,BAFSC 24,DCS 24,CSC 24,NISD 24,MCPSC 24",
+      "question": "একটি সমকোণী সমদ্বিবাহু ত্রিভুজের অতিভুজের দৈর্ঘ্য 12 সে.মি. হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "72 \\sqrt{72} 72 ​ বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "144 \\sqrt{144} 144 ​ বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36 বর্গ সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "144 বর্গ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "72 \\sqrt{72} 72 ​ বর্গ সে.মি.",
+      "option_b": "144 \\sqrt{144} 144 ​ বর্গ সে.মি.",
+      "option_c": "36 বর্গ সে.মি.",
+      "option_d": "144 বর্গ সে.মি.",
+      "correct": "গ",
+      "explanation": "এখানে, সমকোণী সমবাহু ত্রিভুজে এর ক্ষেত্রে, cos ⁡ ∠ 45 ∘ = B C A C ⇒ 1 2 = B C 12 ⇒ 12 2 = B C ⇒ B C = 12 2 \\begin{array}{l} \\cos \\angle 4 5^{\\circ}=\\frac{B C}{A C} \\\\ \\Rightarrow \\frac{1}{\\sqrt{2}}=\\frac{B C}{12} \\\\ \\Rightarrow \\frac{12}{\\sqrt{2}}=B C \\\\ \\Rightarrow B C=\\frac{12}{\\sqrt{2}} \\end{array} cos ∠4 5 ∘ = A C BC ​ ⇒ 2 ​ 1 ​ = 12 BC ​ ⇒ 2 ​ 12 ​ = BC ⇒ BC = 2 ​ 12 ​ ​ ∴ A B = B C = − 12 2 \\therefore A B=B C=\\frac{-12}{\\sqrt{2}} ∴ A B = BC = 2 ​ − 12 ​ ∴ \\therefore ∴ ত্রিভুজের ক্ষেত্রফল = 7 2 × A B × B C =\\frac{7}{2} \\times A B \\times B C = 2 7 ​ × A B × BC = 3 2 × 12 2 × 12 2 = 36   c m 2 \\begin{array}{l} =\\frac{3}{2} \\times \\frac{12}{\\sqrt{2}} \\times \\frac{12}{\\sqrt{2}} \\\\ =36 \\mathrm{~cm}^{2} \\end{array} = 2 3 ​ × 2 ​ 12 ​ × 2 ​ 12 ​ = 36   cm 2 ​ Ans"
+    },
+    {
+      "number": "18",
+      "tag": "MB 22,RCPC 24",
+      "question": "একটি সিলিন্ডারের ভূমির ব্যাসার্ধ 3 সে.মি. ও উচ্চতা 7 সে.মি. হলে, বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 π 9 \\pi 9 π",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "21 π 21 \\pi 21 π",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "42 π 42 \\pi 42 π",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "63 π 63 \\pi 63 π .",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9 π 9 \\pi 9 π",
+      "option_b": "21 π 21 \\pi 21 π",
+      "option_c": "42 π 42 \\pi 42 π",
+      "option_d": "63 π 63 \\pi 63 π .",
+      "correct": "গ",
+      "explanation": "এখানে, r = 3   c m h = 7   c m \\begin{array}{l} r=3 \\mathrm{~cm} \\\\ h=7 \\mathrm{~cm} \\end{array} r = 3   cm h = 7   cm ​ ∴ \\therefore ∴ বক্তপৃষ্ঠের ক্ষেত্রফল = 2 π r h = 2 × 3 × 7 × π = 42 π   c m 2 \\begin{array}{l} =2 \\pi r h \\\\ =2 \\times 3 \\times 7 \\times \\pi \\\\ =42 \\pi \\mathrm{~cm}^{2} \\end{array} = 2 π r h = 2 × 3 × 7 × π = 42 π   cm 2 ​"
+    },
+    {
+      "number": "19",
+      "tag": "MB 22",
+      "question": "ABCD সামান্তরিকের পরিসীমা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "36",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "80",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "160",
+          "is_correct": false
+        }
+      ],
+      "option_a": "18",
+      "option_b": "36",
+      "option_c": "80",
+      "option_d": "160",
+      "correct": "গ",
+      "explanation": "ABCD সামান্তরিকের পরিসীমা =2(8+10) সে.মি =36 সে.মি"
+    },
+    {
+      "number": "20",
+      "tag": "MB 22",
+      "question": "চিত্রে, ABCD একটি সামান্তরিক। ABCD সামান্তরিকের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "40",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40 2 40 \\sqrt{2} 40 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "80",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "80 2 80 \\sqrt{2} 80 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "40",
+      "option_b": "40 2 40 \\sqrt{2} 40 2 ​",
+      "option_c": "80",
+      "option_d": "80 2 80 \\sqrt{2} 80 2 ​",
+      "correct": "খ",
+      "explanation": "ABCD সামান্তরিকটির ক্ষেত্রফল = 2 × △ A B C =2 \\times \\triangle \\mathrm{ABC} = 2 × △ ABC এর ক্ষেত্রফল = 2 × 1 2 × 8 × 10 × sin ⁡ 45 ∘ = 80 × 1 2 = 40 2 =2 \\times \\frac{1}{2} \\times 8 \\times 10 \\times \\sin 45^{\\circ}=80 \\times \\frac{1}{\\sqrt{2}}=40 \\sqrt{2} = 2 × 2 1 ​ × 8 × 10 × sin 4 5 ∘ = 80 × 2 ​ 1 ​ = 40 2 ​ বর্গ সে.মি."
+    },
+    {
+      "number": "21",
+      "tag": "MB 22,BAFSC 24,RCPC 24",
+      "question": "কোন ধরনের ত্রিভুজের পরিবৃত্তের কেন্দ্র ত্রিভুজটির বৃহত্তম বাহুর উপর অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমবাহু",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সূক্ষ্মকোণী",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণী",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সমকোণী",
+          "is_correct": false
+        }
+      ],
+      "option_a": "সমবাহু",
+      "option_b": "সূক্ষ্মকোণী",
+      "option_c": "স্থূলকোণী",
+      "option_d": "সমকোণী",
+      "correct": "খ",
+      "explanation": "সমকোণী ত্রিভুজের পরিবৃত্তের কেন্দ্র ত্রিভুজের বৃহত্তম বাহুর উপর অবস্থিত।"
+    },
+    {
+      "number": "22",
+      "tag": "MB 22",
+      "question": "কোনো বৃত্তের স্পর্শক ও স্পর্শবিন্দুগামী ব্যাসার্ধের মধ্যবর্তী কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "180 ∘ 180^{\\circ} 18 0 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_b": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_c": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_d": "180 ∘ 180^{\\circ} 18 0 ∘",
+      "correct": "ঘ",
+      "explanation": "কোনো বৃত্তের স্পশক ও স্পর্শবিনুগামী ব্যাসার্ধের মধ্যবর্তী কোন 90°।"
+    },
+    {
+      "number": "23",
+      "tag": "MB 22",
+      "question": "বর্গে অন্তর্লিখিত বৃত্তের স্পর্শকের সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "বর্গে অন্তর্লিখিত বৃত্তের স্পর্শকের সংখ্যা 4টি।"
+    },
+    {
+      "number": "24",
+      "tag": "MB 22",
+      "question": "O কেন্দ্রবিশিষ্ট বৃত্তে PQ জ্যা এর মধ্যবিন্দু S PR = 10 সে.মি. এবং PQ = ৪ সে.মি. হলে OS এর মান কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "ঘ",
+      "explanation": "P R = 10   c m ∴ O P = 10 2 = 5   c m P Q = 8   c m ∴ P S = 8 2 = 4   c m ∴ O S = O P 2 − P S 2 = 5 2 − 4 2 = 9 = 3   c m \\begin{array}{l}\\mathrm{PR}=10 \\mathrm{~cm} \\\\ \\therefore \\mathrm{OP}=\\frac{10}{2}=5 \\mathrm{~cm} \\\\ \\mathrm{PQ}=8 \\mathrm{~cm} \\\\ \\therefore \\mathrm{PS}=\\frac{8}{2}=4 \\mathrm{~cm} \\\\ \\therefore \\mathrm{OS}=\\sqrt{O P^{2}-P S^{2}} \\\\ =\\sqrt{5^{2}-4^{2}} \\\\ =\\sqrt{9} \\\\ =3 \\mathrm{~cm}\\end{array} PR = 10   cm ∴ OP = 2 10 ​ = 5   cm PQ = 8   cm ∴ PS = 2 8 ​ = 4   cm ∴ OS = O P 2 − P S 2 ​ = 5 2 − 4 2 ​ = 9 ​ = 3   cm ​"
+    },
+    {
+      "number": "25",
+      "tag": "MB 22",
+      "question": "O কেন্দ্রবিশিষ্ট বৃত্তে PQ জ্যা এর মধ্যবিন্দু S ∠ P Q O = 55 ∘ \\angle \\mathrm{PQO}=55^{\\circ} ∠ PQO = 5 5 ∘ হলে, ∠ Q O R = \\angle \\mathrm{QOR}= ∠ QOR = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "90 ∘ 90^{\\circ} 9 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "110 ∘ 110^{\\circ} 11 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "145 ∘ 145^{\\circ} 14 5 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_b": "90 ∘ 90^{\\circ} 9 0 ∘",
+      "option_c": "110 ∘ 110^{\\circ} 11 0 ∘",
+      "option_d": "145 ∘ 145^{\\circ} 14 5 ∘",
+      "correct": "ক",
+      "explanation": "এখানে, △ O P S \\triangle O P S △ OPS ও △ O Q S \\triangle O Q S △ OQS এ, O P = O Q O P=O Q OP = OQ [একই বৃত্তের ব্যাসার্ধ] O S = O S O S=O S OS = OS [সাধারণ বাহ] P S = Q S [   S P S=Q S[\\mathrm{~S} PS = QS [   S , মধ্যবিন্দু ] ] ] ∴ △ O P S ≅ △ O Q S ∴ ∠ P O S = ∠ Q O S = 90 ∘ − ∠ P Q O = 90 ∘ − 55 ∘ = 35 ∘ \\begin{array}{l} \\therefore \\triangle O P S \\cong \\triangle O Q S \\\\ \\therefore \\angle P O S=\\angle Q O S=90^{\\circ}-\\angle P Q O \\\\ =90^{\\circ}-55^{\\circ} \\\\ =35^{\\circ} \\end{array} ∴ △ OPS ≅ △ OQS ∴ ∠ POS = ∠ QOS = 9 0 ∘ − ∠ PQO = 9 0 ∘ − 5 5 ∘ = 3 5 ∘ ​ চিত্র হতে, ∠ P O S + ∠ S O Q + ∠ Q O R = 180 ∘ ⇒ 35 ∘ + 35 ∘ + ∠ Q O R = 180 ∘ ⇒ ∠ Q O R = 180 ∘ − 70 ∘ ⇒ ∠ Q O R = 110 ∘ \\begin{array}{l} \\angle P O S+\\angle S O Q+\\angle Q O R=180^{\\circ} \\\\ \\Rightarrow 35^{\\circ}+35^{\\circ}+\\angle Q O R=180^{\\circ} \\\\ \\Rightarrow \\angle Q O R=180^{\\circ}-70^{\\circ} \\\\ \\Rightarrow \\angle Q O R=110^{\\circ} \\end{array} ∠ POS + ∠ SOQ + ∠ QOR = 18 0 ∘ ⇒ 3 5 ∘ + 3 5 ∘ + ∠ QOR = 18 0 ∘ ⇒ ∠ QOR = 18 0 ∘ − 7 0 ∘ ⇒ ∠ QOR = 11 0 ∘ ​"
+    },
+    {
+      "number": "26",
+      "tag": "MB 22",
+      "question": "একটি বাহুর দৈর্ঘ্য দেওয়া থাকলে অঙ্কন সম্ভব- i. সুষম ত্রিভুজ ii. বৰ্গ iii. রম্বস নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "গ",
+      "explanation": "একটি মাত্র বাহুর দৈর্ঘ্য (side length) জানা থাকলে আমরা কোন কোন জ্যামিতিক আকার অঙ্কন করতে পারি তা বিশ্লেষণ করি: i. সুষম ত্রিভুজ (Equilateral Triangle) → সুষম ত্রিভুজে তিনটি বাহু সমান দৈর্ঘ্যের হয়। তাই একটি বাহুর দৈর্ঘ্য জানা থাকলেই পুরো ত্রিভুজ অঙ্কন সম্ভব। ii. বর্গ (Square) → বর্গে চারটি বাহু সমান দৈর্ঘ্যের হয় এবং প্রতিটি কোণ 90°। একটি বাহুর দৈর্ঘ্য জানা থাকলেই বর্গ অঙ্কন সম্ভব। iii. রম্বস (Rhombus) → রম্বসে চারটি বাহু সমান দৈর্ঘ্যের হয়, কিন্তু কোণগুলো নির্দিষ্ট নয় (কোণ ভেদে রম্বসের আকৃতি পরিবর্তিত হয়)। শুধু একটি বাহুর দৈর্ঘ্য জানা থাকলে রম্বসের সঠিক আকৃতি নির্ধারণ করা যায় না, কারণ কোণ বা কর্ণের দৈর্ঘ্যও জানা দরকার। সঠিক উত্তর: i. সুষম ত্রিভুজ এবং ii. বর্গ অর্থাৎ, (i) এবং (ii) সঠিক ।"
+    },
+    {
+      "number": "27",
+      "tag": "MB 22,RCPC 24",
+      "question": "30 থেকে 75 এর মধ্যবর্তী মৌলিক সংখ্যাগুলোর মধ্যক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "47",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "53",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "59",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "61",
+          "is_correct": false
+        }
+      ],
+      "option_a": "47",
+      "option_b": "53",
+      "option_c": "59",
+      "option_d": "61",
+      "correct": "ক",
+      "explanation": "30 থেকে 75 এর মধ্যবর্তী মৌলিক সংখ্যাগুলো: 31 , 37 , 41 , 43 , 47 , 53 , 59 , 61 , 67 , 71 , 73 31,37,41,43,47,53,59,61,67,71,73 31 , 37 , 41 , 43 , 47 , 53 , 59 , 61 , 67 , 71 , 73 পদসংখ্য্যা, n = 11 n=11 n = 11 , বিজোড় ∴ \\therefore ∴ মধ্যক হবে n + 1 2 \\frac{\\mathrm{n}+1}{2} 2 n + 1 ​ বা, 11 + 1 2 \\frac{11+1}{2} 2 11 + 1 ​ বা, ৬ষ্ঠ পদের মান = 53 =53 = 53"
+    },
+    {
+      "number": "28",
+      "tag": "MB 22",
+      "question": "কোনো গণসংখ্যা নিবেশনের প্রচুরক = 49.75 =49.75 = 49.75 , L = 48 , f 1 = 7 \\mathrm{L}=48, f_{1}=7 L = 48 , f 1 ​ = 7 এবং f 2 = 17 f_{2}=17 f 2 ​ = 17 হলে, শ্রেণি ব্যবধান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "20",
+          "is_correct": false
+        }
+      ],
+      "option_a": "6",
+      "option_b": "7",
+      "option_c": "10",
+      "option_d": "20",
+      "correct": "খ",
+      "explanation": "প্রচুরক = L + f 1 f 1 + f 2 × h =\\mathrm{L}+\\frac{f_{1}}{f_{1}+f_{2}} \\times \\mathrm{h} = L + f 1 ​ + f 2 ​ f 1 ​ ​ × h বা, 49.75 = 48 + 7   h 7 + 17 49.75=48+\\frac{7 \\mathrm{~h}}{7+17} 49.75 = 48 + 7 + 17 7   h ​ বা, 1.75 = 7 h 24 1.75=\\frac{7 h}{24} 1.75 = 24 7 h ​ বা, 7   h = 42 ∴   h = 6 7 \\mathrm{~h}=42 \\quad \\therefore \\mathrm{~h}=6 7   h = 42 ∴   h = 6"
+    },
+    {
+      "number": "",
+      "tag": "MB 22,DB 20",
+      "question": "শ্রেণি ব্যাপ্তি 40-44 45-49 50-54 55-59 60-64 65-69 গণসংখ্যা 6 10 16 20 13 5 মধ্যক নির্ণয়ের ক্ষেত্রে F c F_{c} F c ​ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "13",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "32",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "65",
+          "is_correct": false
+        }
+      ],
+      "option_a": "13",
+      "option_b": "16",
+      "option_c": "32",
+      "option_d": "65",
+      "correct": "ক",
+      "explanation": "শ্রেণি ব্যাপ্তি গণসংখ্যা ক্রমযোজিত গণসংখ্যা 40-44 6 6 45-49 10 16 50-54 16 32 55-59 20 52 60-64 13 65 65-69 5 70 এখানে, n = 70 এবং = 35 2 সুতরাং মধ্যক শ্রেণি (55–59)। অতএব, F c F_{c} F c ​ = 32"
+    },
+    {
+      "number": "30",
+      "tag": "MB 22",
+      "question": "শ্রেণি ব্যাপ্তি 55-60 51-56 66-70 71-75 শিক্ষার্থী সংখ্যা 7 12 15 6 শ্রেণিব্যাপ্তিসমূহের মধ্যবিন্দুগুলোর গাণিতিক গড় নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "262",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "63",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "67.5",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "65.5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "262",
+      "option_b": "63",
+      "option_c": "67.5",
+      "option_d": "65.5",
+      "correct": "গ",
+      "explanation": "প্রদত্ত সারণি থেকে শ্রেণিব্যাপ্তিসমূহের মধ্যবিন্দুগুলোর গাণিতিক গড় নির্ণয় করা হলো: মধ্যবিন্দু ও গণসংখ্যা সারণি তৈরি: প্রথমে প্রতিটি শ্রেণির মধ্যবিন্দু ( x i x_i x i ​ ) নির্ণয় করি। মধ্যবিন্দু নির্ণয়ের সূত্র হলো: x i = শ্রেণির নিম্নসীমা + শ্রেণির উচ্চসীমা 2 x_i = \\frac{\\text{শ্রেণির নিম্নসীমা}+\\text{শ্রেণির উচ্চসীমা}}{2} x i ​ = 2 শ্রেণির   নিম্নসীমা + শ্রেণির   উচ্চসীমা ​ শ্রেণি ব্যাপ্তি মধ্যবিন্দু ( x i x_i x i ​ ) শিক্ষার্থী সংখ্যা ( f i f_i f i ​ ) f i × x i f_i \\times x_i f i ​ × x i ​ 55 – 60 55 + 60 2 = 57.5 \\frac{55+60}{2} = 57.5 2 55 + 60 ​ = 57.5 7 402.5 61 – 65 61 + 65 2 = 63.0 \\frac{61+65}{2} = 63.0 2 61 + 65 ​ = 63.0 12 756.0 66 – 70 66 + 70 2 = 68.0 \\frac{66+70}{2} = 68.0 2 66 + 70 ​ = 68.0 15 1020.0 71 – 75 71 + 75 2 = 73.0 \\frac{71+75}{2} = 73.0 2 71 + 75 ​ = 73.0 6 438.0 মোট N = 40 N = 40 N = 40 ∑ f i x i = 2616.5 \\sum f_i x_i = 2616.5 ∑ f i ​ x i ​ = 2616.5 গাণিতিক গড় নির্ণয়: গাণিতিক গড় ( x ˉ \\bar{x} x ˉ ) নির্ণয়ের সূত্রটি হলো: x ˉ = ∑ f i x i N \\bar{x} = \\frac{\\sum f_i x_i}{N} x ˉ = N ∑ f i ​ x i ​ ​ এখানে মানগুলো বসিয়ে পাই: x ˉ = 2616.5 40 \\bar{x} = \\frac{2616.5}{40} x ˉ = 40 2616.5 ​ = 65.4125 = 65.4125 = 65.4125 সাধারণত দশমিকের পর দুই ঘর পর্যন্ত নিলে মানটি দাঁড়ায় 65.41।"
+    }
+  ]
+}

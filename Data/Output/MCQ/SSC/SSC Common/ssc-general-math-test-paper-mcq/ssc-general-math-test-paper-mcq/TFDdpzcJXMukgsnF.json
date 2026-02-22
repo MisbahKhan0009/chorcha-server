@@ -1,0 +1,898 @@
+{
+  "read_id": "TFDdpzcJXMukgsnF",
+  "title": "রাজশাহী ক্যাডেট কলেজ ২০২৫",
+  "count": 27,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "RCC 25",
+      "question": "S = { x ∈ N : x 3 > 21  এবং  x 4 < 630 } \\{x \\in \\mathbb{N}: x^3 > 21 \\text{ এবং } x^4 < 630\\} { x ∈ N : x 3 > 21   এবং   x 4 < 630 } হলে P(S) এর উপাদান সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "7",
+      "option_d": "8",
+      "correct": "ঘ",
+      "explanation": "S = { x ∈ N : x 3 > 21  এবং  x 4 < 630 } S = \\{x \\in \\mathbb{N} : x^3 > 21 \\text{ এবং } x^4 < 630\\} S = { x ∈ N : x 3 > 21   এবং   x 4 < 630 } x = 2  হলে,  x 3 = 2 3 = 8 ≯ 21  এবং  x 4 = 2 4 = 16 < 630 x = 2 \\text{ হলে, } x^3 = 2^3 = 8 \\not> 21 \\text{ এবং } x^4 = 2^4 = 16 < 630 x = 2   হলে ,  x 3 = 2 3 = 8  > 21   এবং   x 4 = 2 4 = 16 < 630 x = 3  হলে,  x 3 = 3 3 = 27 > 21  এবং  x 4 = 3 4 = 81 < 630 x = 3 \\text{ হলে, } x^3 = 3^3 = 27 > 21 \\text{ এবং } x^4 = 3^4 = 81 < 630 x = 3   হলে ,  x 3 = 3 3 = 27 > 21   এবং   x 4 = 3 4 = 81 < 630 x = 4  হলে,  x 3 = 4 3 = 64 > 21  এবং  x 4 = 4 4 = 256 < 630 x = 4 \\text{ হলে, } x^3 = 4^3 = 64 > 21 \\text{ এবং } x^4 = 4^4 = 256 < 630 x = 4   হলে ,  x 3 = 4 3 = 64 > 21   এবং   x 4 = 4 4 = 256 < 630 x = 5  হলে,  x 3 = 5 3 = 125 > 21  এবং  x 4 = 5 4 = 625 < 630 x = 5 \\text{ হলে, } x^3 = 5^3 = 125 > 21 \\text{ এবং } x^4 = 5^4 = 625 < 630 x = 5   হলে ,  x 3 = 5 3 = 125 > 21   এবং   x 4 = 5 4 = 625 < 630 x = 6  হলে,  x 3 = 6 3 = 216 > 21  এবং  x 4 = 6 4 = 1296 ≮ 630 x = 6 \\text{ হলে, } x^3 = 6^3 = 216 > 21 \\text{ এবং } x^4 = 6^4 = 1296 \\not< 630 x = 6   হলে ,  x 3 = 6 3 = 216 > 21   এবং   x 4 = 6 4 = 1296  < 630 ∴ S = { 3 , 4 , 5 } \\therefore S = \\{3, 4, 5\\} ∴ S = { 3 , 4 , 5 } ∴ P ( S )  এর উপাদান সংখ্যা  = 2 3 = 8 \\therefore P(S) \\text{ এর উপাদান সংখ্যা } = 2^3 = 8 ∴ P ( S )   এর   উপাদান   সংখ্যা   = 2 3 = 8"
+    },
+    {
+      "number": "2",
+      "tag": "RCC 25",
+      "question": "A = {2, 4, x} এবং B = {3, 5, x} হলে B ∩ \\cap ∩ A = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "∅ \\emptyset ∅",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{x}",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "{2, 4}",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{3, 5}",
+          "is_correct": false
+        }
+      ],
+      "option_a": "∅ \\emptyset ∅",
+      "option_b": "{x}",
+      "option_c": "{2, 4}",
+      "option_d": "{3, 5}",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "RCC 25",
+      "question": "120 জন ছাত্রের মধ্যে 85 জন ইংরেজিতে, 70 জন গণিতে এবং 45 জন উভয় বিষয়ে পাস করলে কতজন ছাত্র উভয় বিষয়েই ফেল করেছে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "35",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "80",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "35",
+      "option_c": "12",
+      "option_d": "80",
+      "correct": "ক",
+      "explanation": "ইংরেজিতে পাশ করা ছাত্রের সংখ্যা, n ( E ) = 85 n(E) = 85 n ( E ) = 85 গণিতে পাশ করা ছাত্রের সংখ্যা, n ( M ) = 70 n(M) = 70 n ( M ) = 70 এবং উভয় বিষয়ে পাশ করা ছাত্রের সংখ্যা, n ( M ∩ E ) = 45 n(M \\cap E) = 45 n ( M ∩ E ) = 45 ∴ \\therefore ∴ যেকোনো একটি বিষয়ে পাশ করা ছাত্রের সংখ্যা, n ( M ∪ E ) = n ( M ) + n ( E ) − n ( M ∩ E ) = 85 + 70 − 45 = 110 n(M \\cup E) = n(M) + n(E) - n(M \\cap E) = 85 + 70 - 45 = 110 n ( M ∪ E ) = n ( M ) + n ( E ) − n ( M ∩ E ) = 85 + 70 − 45 = 110 ∴ \\therefore ∴ উভয় বিষয়ে ফেল করা শিক্ষার্থীর সংখ্যা = ( 120 − 110 ) = 10 (120 - 110) = 10 ( 120 − 110 ) = 10"
+    },
+    {
+      "number": "4",
+      "tag": "RCC 25",
+      "question": "নিচের তথ্যানুসারে প্রশ্নের উত্তর দাও: x = 5 + 2 x=\\sqrt{5}+\\sqrt{2} x = 5 ​ + 2 ​ 4.1. 3 x \\frac{3}{x} x 3 ​ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 − 5 \\sqrt{2}-\\sqrt{5} 2 ​ − 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 − 2 \\sqrt{5}-\\sqrt{2} 5 ​ − 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5 + 2 3 \\frac{\\sqrt{5}+\\sqrt{2}}{3} 3 5 ​ + 2 ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2 − 5 3 \\frac{\\sqrt{2}-\\sqrt{5}}{3} 3 2 ​ − 5 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 − 5 \\sqrt{2}-\\sqrt{5} 2 ​ − 5 ​",
+      "option_b": "5 − 2 \\sqrt{5}-\\sqrt{2} 5 ​ − 2 ​",
+      "option_c": "5 + 2 3 \\frac{\\sqrt{5}+\\sqrt{2}}{3} 3 5 ​ + 2 ​ ​",
+      "option_d": "2 − 5 3 \\frac{\\sqrt{2}-\\sqrt{5}}{3} 3 2 ​ − 5 ​ ​",
+      "correct": "খ",
+      "explanation": "দেওয়া আছে, x = 5 + 2 x = \\sqrt{5}+\\sqrt{2} x = 5 ​ + 2 ​ ∴ 1 x = 1 5 + 2 = 5 − 2 ( 5 + 2 ) ( 5 − 2 ) = 5 − 2 ( 5 ) 2 − ( 2 ) 2 = 5 − 2 3 \\therefore \\frac{1}{x}=\\frac{1}{\\sqrt{5}+\\sqrt{2}}=\\frac{\\sqrt{5}-\\sqrt{2}}{(\\sqrt{5}+\\sqrt{2})(\\sqrt{5}-\\sqrt{2})}=\\frac{\\sqrt{5}-\\sqrt{2}}{(\\sqrt{5})^{2}-(\\sqrt{2})^{2}}=\\frac{\\sqrt{5}-\\sqrt{2}}{3} ∴ x 1 ​ = 5 ​ + 2 ​ 1 ​ = ( 5 ​ + 2 ​ ) ( 5 ​ − 2 ​ ) 5 ​ − 2 ​ ​ = ( 5 ​ ) 2 − ( 2 ​ ) 2 5 ​ − 2 ​ ​ = 3 5 ​ − 2 ​ ​ ∴ 3 x = 5 − 2 \\therefore \\frac{3}{x}=\\sqrt{5}-\\sqrt{2} ∴ x 3 ​ = 5 ​ − 2 ​"
+    },
+    {
+      "number": "5",
+      "tag": "RCC 25",
+      "question": "A = {a, b, c}, B = {x, y} এবং C = {p} i. A x B-এর উপাদান সংখ্যা = 6 ii. B x C = {(x; p), (y, p)} iii. A\\B = {a, b, c} নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "6",
+      "tag": "RCC 25",
+      "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে 6 সে.মি. ও ৪ সে.মি. এবং ত্রিভুজটির ক্ষেত্রফল 12 2 12\\sqrt{2} 12 2 ​ বর্গ সে.মি. হলে বাহুদ্বয়ের অন্তর্ভুক্ত কোণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "45°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "60°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "90°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30°",
+      "option_b": "45°",
+      "option_c": "60°",
+      "option_d": "90°",
+      "correct": "খ",
+      "explanation": "ত্রিভুজটির ক্ষেত্রফল = 1 2 × 6 × 8 × sin ⁡ θ =\\frac{1}{2} \\times 6 \\times 8 \\times \\sin\\theta = 2 1 ​ × 6 × 8 × sin θ বা, 12 2 = 24 sin ⁡ θ 12\\sqrt{2} = 24\\sin\\theta 12 2 ​ = 24 sin θ বা, sin ⁡ θ = 1 2 = sin ⁡ 45 ∘ \\sin\\theta = \\frac{1}{\\sqrt{2}} = \\sin 45^\\circ sin θ = 2 ​ 1 ​ = sin 4 5 ∘ ∴ θ = 45 ∘ \\therefore \\theta = 45^\\circ ∴ θ = 4 5 ∘ ."
+    },
+    {
+      "number": "7",
+      "tag": "RCC 25",
+      "question": "cosec θ tan 2 θ cos 4 θ = কত ? \\text{cosec}\\theta \\sqrt{\\text{tan}^2\\theta} \\sqrt{\\text{cos}^4\\theta} = \\text{কত}? cosec θ tan 2 θ ​ cos 4 θ ​ = কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "sin ⁡ θ \\sin\\theta sin θ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "cos ⁡ θ \\cos\\theta cos θ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "0 0 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "sin ⁡ θ \\sin\\theta sin θ",
+      "option_b": "cos ⁡ θ \\cos\\theta cos θ",
+      "option_c": "1",
+      "option_d": "0 0 0",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "RCC 25",
+      "question": "2 সে.মি. বাহুবিশিষ্ট সুষম ষড়ভুজের ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 3 3\\sqrt{3} 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 3 6\\sqrt{3} 6 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2 3 2\\sqrt{3} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 6 6\\sqrt{6} 6 6 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 3 3\\sqrt{3} 3 3 ​",
+      "option_b": "6 3 6\\sqrt{3} 6 3 ​",
+      "option_c": "2 3 2\\sqrt{3} 2 3 ​",
+      "option_d": "6 6 6\\sqrt{6} 6 6 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "9",
+      "tag": "RCC 25",
+      "question": "একটি পুকুরে পানি ও মাছের অনুপাত 7:3 হলে মাছের শতকরা পরিমাণ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "30%",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "70%",
+          "is_correct": false
+        }
+      ],
+      "option_a": "30%",
+      "option_b": "40%",
+      "option_c": "50%",
+      "option_d": "70%",
+      "correct": "ক",
+      "explanation": "মাছের শতকরা হার = 3 7 + 3 × 100 % = 30 % = \\frac{3}{7+3} \\times 100\\% = 30\\% = 7 + 3 3 ​ × 100% = 30%"
+    },
+    {
+      "number": "10",
+      "tag": "RCC 25",
+      "question": "3 সে.মি., 4 সে.মি. ও 5 সে.মি. ব্যাসার্ধবিশিষ্ট বৃত্তদ্বয় পরস্পরকে বহিঃস্থভাবে স্পর্শ করলে বৃত্তদ্বয়ের কেন্দ্র দ্বারা উৎপন্ন ত্রিভুজের পরিসীমা কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "6",
+      "option_c": "12",
+      "option_d": "24",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "RCC 25",
+      "question": "একটি সমবাহু ত্রিভুজের একটি বাহুকে উভয়দিকে বর্ধিত করা হলে উৎপন্ন বহিঃস্থ কোণদ্বয়ের সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "120°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "180°",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "240°",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "280°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "120°",
+      "option_b": "180°",
+      "option_c": "240°",
+      "option_d": "280°",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "12",
+      "tag": "RCC 25",
+      "question": "1 4 M = 1 5 N = 1 7 P \\frac{1}{4}M = \\frac{1}{5}N = \\frac{1}{7}P 4 1 ​ M = 5 1 ​ N = 7 1 ​ P হলে M : N : P = ? M: N: P = ? M : N : P = ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4:7:5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5:4:7",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4:5:7",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "7:5:4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "4:7:5",
+      "option_b": "5:4:7",
+      "option_c": "4:5:7",
+      "option_d": "7:5:4",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "13",
+      "tag": "RCC 25",
+      "question": "নির্দিষ্ট চতুর্ভুজ অঙ্কনে প্রয়োজন কত? i. চারটি বাহু এবং একটি কোণ ii. তিনটি বাহু এবং দুইটি অন্তর্ভুক্ত কোণ iii. দুইটি বাহু এবং তিনটি কোণ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "14",
+      "tag": "RCC 25",
+      "question": "x 3 − 3 x 2 + x + 1 x^3 - 3x^2 + x + 1 x 3 − 3 x 2 + x + 1 রাশির উৎপাদক নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x-1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x+1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x-2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x+2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x-1",
+      "option_b": "x+1",
+      "option_c": "x-2",
+      "option_d": "x+2",
+      "correct": "ক",
+      "explanation": "ধরি, f ( x ) = x 3 − 3 x 2 + x + 1 f(x) = x^3 - 3x^2 + x + 1 f ( x ) = x 3 − 3 x 2 + x + 1 ∴ f ( 1 ) = 1 3 − 3 ⋅ 1 2 + 1 + 1 = 0 \\therefore f(1) = 1^3 - 3 \\cdot 1^2 + 1 + 1 = 0 ∴ f ( 1 ) = 1 3 − 3 ⋅ 1 2 + 1 + 1 = 0 ∴ ( x − 1 ) \\therefore (x - 1) ∴ ( x − 1 ) , f ( x ) f(x) f ( x ) এর একটি উৎপাদক।"
+    },
+    {
+      "number": "15",
+      "tag": "RCC 25",
+      "question": "sec²θ + tan²θ = 3 হলে secθ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "3 2 3\\sqrt{2} 3 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 \\sqrt{2} 2 ​",
+      "option_b": "3 2 3\\sqrt{2} 3 2 ​",
+      "option_c": "3 \\sqrt{3} 3 ​",
+      "option_d": "3 2 \\frac{\\sqrt{3}}{2} 2 3 ​ ​",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "RCC 25",
+      "question": "একটি ত্রিভুজের তিনটি বাহুর অনুপাত 5:12: 13 এবং পরিসীমা 60 সে.মি.। ত্রিভুজটির সবচেয়ে বড় বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "26",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "30",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "24",
+      "option_c": "26",
+      "option_d": "30",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "17",
+      "tag": "RCC 25",
+      "question": "একটি সামান্তরিকের ক্ষেত্রফল 360 বর্গসে.মি. এবং কর্ণের দৈর্ঘ্য 18 সে.মি. হলে বিপরীত শীর্ষ হতে কর্ণটির লম্ব দূরত্ব কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "40",
+          "is_correct": false
+        }
+      ],
+      "option_a": "10",
+      "option_b": "20",
+      "option_c": "30",
+      "option_d": "40",
+      "correct": "খ",
+      "explanation": "সামান্তরিকটির ক্ষেত্রফল = 360 = 360 = 360 বর্গ সে.মি. বা, কর্ণ × \\times × বিপরীত শীর্ষ হতে কর্ণের লম্বদূরত্ব = 360 = 360 = 360 বা, 18 × 18 \\times 18 × বিপরীত শীর্ষ হতে কর্ণের লম্বদূরত্ব = 360 = 360 = 360 ∴ \\therefore ∴ বিপরীত শীর্ষ হতে কর্ণের লম্বদূরত্ব = 360 18 = 20 = \\frac{360}{18} = 20 = 18 360 ​ = 20 সে.মি."
+    },
+    {
+      "number": "18",
+      "tag": "RCC 25",
+      "question": "অজিভ রেখার ক্ষেত্রে কোনটি সত্য?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "ঊর্ধ্বমুখী",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "নিম্নমুখী",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "সমান্তরাল",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "উল্লম্ব",
+          "is_correct": false
+        }
+      ],
+      "option_a": "ঊর্ধ্বমুখী",
+      "option_b": "নিম্নমুখী",
+      "option_c": "সমান্তরাল",
+      "option_d": "উল্লম্ব",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "RCC 25",
+      "question": "নিচের চিত্রের আলোকে প্রশ্নের উত্তর দাও: প্রদত্ত চিত্রটি একটি সামান্তরিক। 19.1. x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "33.5°",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "34.6°",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "35.6°",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "36.5°",
+          "is_correct": false
+        }
+      ],
+      "option_a": "33.5°",
+      "option_b": "34.6°",
+      "option_c": "35.6°",
+      "option_d": "36.5°",
+      "correct": "খ",
+      "explanation": "চিত্রানুসারে, 3 x + 4 + 2 x + 3 = 180 3x + 4 + 2x + 3 = 180 3 x + 4 + 2 x + 3 = 180 বা, 5 x = 173 ∴ x = 34.6 ∘ 5x = 173 \\therefore x = 34.6^\\circ 5 x = 173 ∴ x = 34. 6 ∘"
+    },
+    {
+      "number": "20",
+      "tag": "RCC 25",
+      "question": "(x + y, - 1) = (3, x- y) হলে (x, y) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "(2,1)",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "(1,2)",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "(-1,-2)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "(-2,-1)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "(2,1)",
+      "option_b": "(1,2)",
+      "option_c": "(-1,-2)",
+      "option_d": "(-2,-1)",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "RCC 25",
+      "question": "বর্গে অন্তলিখিত বৃত্তের ব্যাসার্ধ 3 সে.মি.। বর্গের বাহুর দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 \\sqrt{6} 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3 \\sqrt{3} 3 ​",
+      "option_b": "6 \\sqrt{6} 6 ​",
+      "option_c": "3",
+      "option_d": "6",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "RCC 25",
+      "question": "একটি ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয় যথাক্রমে 9 সে.মি. ও 7 সে.মি. এবং উচ্চতা ৪ সে.মি.। ট্রাপিজিয়ামটির ক্ষেত্রফল কত বর্গ সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "504",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "96",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "64",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "24",
+          "is_correct": false
+        }
+      ],
+      "option_a": "504",
+      "option_b": "96",
+      "option_c": "64",
+      "option_d": "24",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "RCC 25",
+      "question": "8 বছর আগে, পিতার বয়স পুত্রের বয়সের 8 গুণ ছিল। 10 বছর পর পিতার বয়স পুত্রের বয়সের দ্বিগুণ হবে। পিতার বর্তমান বয়স কত বছর?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "31",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "32",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "11",
+          "is_correct": false
+        }
+      ],
+      "option_a": "31",
+      "option_b": "32",
+      "option_c": "12",
+      "option_d": "11",
+      "correct": "খ",
+      "explanation": "ধরি, পিতা ও পুত্রের বর্তমান বয়স যথাক্রমে x x x ও y y y বছর প্রশ্নমতে, x − 8 = 8 ( y − 8 ) x - 8 = 8(y - 8) x − 8 = 8 ( y − 8 ) বা, x − 8 = 8 y − 64 x - 8 = 8y - 64 x − 8 = 8 y − 64 ∴ x − 8 y + 56 = 0 \\therefore x - 8y + 56 = 0 ∴ x − 8 y + 56 = 0 … \\dots … (i) আবার, x + 10 = 2 ( y + 10 ) x + 10 = 2(y + 10) x + 10 = 2 ( y + 10 ) বা, x − 2 y − 10 = 0 x - 2y - 10 = 0 x − 2 y − 10 = 0 … \\dots … (ii) (ii) - (i) করে পাই, 6 y = 66 ∴ y = 11 6y = 66 \\therefore y = 11 6 y = 66 ∴ y = 11 y = 11 y = 11 y = 11 হলে, x − 88 + 56 = 0 ∴ x = 32 x - 88 + 56 = 0 \\therefore x = 32 x − 88 + 56 = 0 ∴ x = 32 ∴ \\therefore ∴ পিতার বর্তমান বয়স = 32 বছর"
+    },
+    {
+      "number": "24",
+      "tag": "RCC 25",
+      "question": "একটি বর্গ ও সমবাহু ত্রিভুজের পরিসীমা সমান হলে বর্গ ও ত্রিভুজটির ক্ষেত্রফলের অনুপাত কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3:4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4:3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 : 3 3 4 : 3\\sqrt{3} 4 : 3 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 3 : 4 3\\sqrt{3} : 4 3 3 ​ : 4",
+          "is_correct": true
+        }
+      ],
+      "option_a": "3:4",
+      "option_b": "4:3",
+      "option_c": "4 : 3 3 4 : 3\\sqrt{3} 4 : 3 3 ​",
+      "option_d": "3 3 : 4 3\\sqrt{3} : 4 3 3 ​ : 4",
+      "correct": "ঘ",
+      "explanation": "ধরি, বর্গের বাহু a একক এবং সমবাহু ত্রিভুজের বাহু b একক। প্রশ্নমতে, 4 a = 3 b ∴ a = 3 b 4 4a = 3b \\therefore a = \\frac{3b}{4} 4 a = 3 b ∴ a = 4 3 b ​ ∴ \\therefore ∴ বর্গ ও সমবাহু ত্রিভুজের ক্ষেত্রফলের অনুপাত = a 2 3 4 b 2 = 9 b 2 16 × 4 3 b 2 = \\frac{a^2}{\\frac{\\sqrt{3}}{4}b^2} = \\frac{9b^2}{16} \\times \\frac{4}{\\sqrt{3}b^2} = 4 3 ​ ​ b 2 a 2 ​ = 16 9 b 2 ​ × 3 ​ b 2 4 ​ = 3 3 4 = 3 3 : 4 = \\frac{3\\sqrt{3}}{4} = 3\\sqrt{3} : 4 = 4 3 3 ​ ​ = 3 3 ​ : 4"
+    },
+    {
+      "number": "25",
+      "tag": "RCC 25",
+      "question": "n সংখ্যক বিজোড় উপাত্তের ক্ষেত্রে মধ্যক হবে—",
+      "options": [
+        {
+          "label": "ক",
+          "text": "n 2 \\frac{n}{2} 2 n ​ তম পদ",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "n + 1 2 \\frac{n+1}{2} 2 n + 1 ​ তম পদ",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "( n 2 − 1 ) (\\frac{n}{2}-1) ( 2 n ​ − 1 ) তম পদ",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( n − 2 2 ) (\\frac{n-2}{2}) ( 2 n − 2 ​ ) তম পদ",
+          "is_correct": false
+        }
+      ],
+      "option_a": "n 2 \\frac{n}{2} 2 n ​ তম পদ",
+      "option_b": "n + 1 2 \\frac{n+1}{2} 2 n + 1 ​ তম পদ",
+      "option_c": "( n 2 − 1 ) (\\frac{n}{2}-1) ( 2 n ​ − 1 ) তম পদ",
+      "option_d": "( n − 2 2 ) (\\frac{n-2}{2}) ( 2 n − 2 ​ ) তম পদ",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "26",
+      "tag": "RCC 25",
+      "question": "বৃত্তে অন্তলিখিত সামান্তরিক হলো-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "রম্বস",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "বর্গ",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "আয়ত",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "ট্রাপিজিয়াম",
+          "is_correct": false
+        }
+      ],
+      "option_a": "রম্বস",
+      "option_b": "বর্গ",
+      "option_c": "আয়ত",
+      "option_d": "ট্রাপিজিয়াম",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "27",
+      "tag": "RCC 25",
+      "question": "নিচের তথ্যানুসারে প্রশ্নের উত্তর দাও: শ্রেণিব্যাপ্তি 20-29 30-39 40-49 50-59 গণসংখ্যা 5 6 7 2 27.1. প্রদত্ত উপাত্তের মধ্যক কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "33.35",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "37.38",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "38.33",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "43.44",
+          "is_correct": false
+        }
+      ],
+      "option_a": "33.35",
+      "option_b": "37.38",
+      "option_c": "38.33",
+      "option_d": "43.44",
+      "correct": "গ",
+      "explanation": ""
+    }
+  ]
+}

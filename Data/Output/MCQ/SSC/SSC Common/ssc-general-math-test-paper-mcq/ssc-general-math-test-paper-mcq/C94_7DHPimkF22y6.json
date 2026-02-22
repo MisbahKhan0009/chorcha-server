@@ -1,0 +1,766 @@
+{
+  "read_id": "C94_7DHPimkF22y6",
+  "title": "বিএএফ শাহীন কলেজ, ঢাকা ২০২৪",
+  "count": 23,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "BAFSC 24",
+      "question": "− 3. 2 ˙ 5 ˙ , 2 + 5 , 3 − 7 , − 25 -3.\\dot{2} \\dot{5}, 2+\\sqrt{5}, 3-\\sqrt{7}, \\sqrt{-25} − 3. 2 ˙ 5 ˙ , 2 + 5 ​ , 3 − 7 ​ , − 25 ​ সংখ্যাগুলোর মাঝে বাস্তব সংখ্যা কয়টি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "ঋণাত্মক সংখ্যার বর্গমূল একটি অবাস্তব সংখ্যা সকল মূলদ সংখ্যা এবং অমূলদ সংখ্যাকে বাস্তব সংখ্যা বলা হয়"
+    },
+    {
+      "number": "2",
+      "tag": "BAFSC 24",
+      "question": "R = { 2 , 3 , 4 , 5 } , S = { 3 , 4 , 5 , 6 }  হলে,  R=\\{2,3,4,5\\}, S=\\{3,4,5,6\\} \\text { হলে, } R = { 2 , 3 , 4 , 5 } , S = { 3 , 4 , 5 , 6 }   হলে ,  P ( R ∩ S ) \\mathrm{P}(\\mathrm{R} \\cap \\mathrm{S}) P ( R ∩ S ) এর সদস্য সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "16",
+      "option_c": "8",
+      "option_d": "18",
+      "correct": "গ",
+      "explanation": "Step 1: Find R ∩ S R \\cap S R ∩ S The intersection of R R R and S S S consists of the common elements: R ∩ S = { 3 , 4 , 5 } R \\cap S=\\{3,4,5\\} R ∩ S = { 3 , 4 , 5 } Step 2: Find P ( R ∩ S ) P(R \\cap S) P ( R ∩ S ) P ( A ) P(A) P ( A ) denotes the power set of a set A A A . The power set contains all possible subsets of a set. For the set R ∩ S = { 3 , 4 , 5 } R \\cap S=\\{3,4,5\\} R ∩ S = { 3 , 4 , 5 } , its power set is: P ( R ∩ S ) = { ∅ , { 3 } , { 4 } , { 5 } , { 3 , 4 } , { 3 , 5 } , { 4 , 5 } , { 3 , 4 , 5 } } P(R \\cap S)=\\{\\emptyset,\\{3\\},\\{4\\},\\{5\\},\\{3,4\\},\\{3,5\\},\\{4,5\\},\\{3,4,5\\}\\} P ( R ∩ S ) = { ∅ , { 3 } , { 4 } , { 5 } , { 3 , 4 } , { 3 , 5 } , { 4 , 5 } , { 3 , 4 , 5 }} Step 3: Count the Elements in P ( R ∩ S ) P(R \\cap S) P ( R ∩ S ) If a set has n n n elements, its power set contains 2 n 2^{n} 2 n elements. Here, R ∩ S R \\cap S R ∩ S has 3 elements, so: Number of elements in P ( R ∩ S ) = 2 3 = 8 P(R \\cap S)=2^{3}=8 P ( R ∩ S ) = 2 3 = 8"
+    },
+    {
+      "number": "3",
+      "tag": "BAFSC 24",
+      "question": "A = { x ∈ N : x A=\\{x \\in \\mathbb{N}: x A = { x ∈ N : x জোড় সংখ্যা এবং 15 < x 4 ≤ 256 15 < x^4 \\le 256 15 < x 4 ≤ 256 ) এবং B = { x : x 2 − 6 x + 8 = 0 } \\mathrm{B = \\{x : x ^ 2 - 6x + 8 = 0\\} } B = { x : x 2 − 6x + 8 = 0 } হলে নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "n ( A ) = 4 n(A)=4 n ( A ) = 4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "A = B A=B A = B",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "A ⊂ B \\mathrm{A} \\subset \\mathrm{B} A ⊂ B",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "B ⊂ A \\mathrm{B} \\subset \\mathrm{A} B ⊂ A",
+          "is_correct": false
+        }
+      ],
+      "option_a": "n ( A ) = 4 n(A)=4 n ( A ) = 4",
+      "option_b": "A = B A=B A = B",
+      "option_c": "A ⊂ B \\mathrm{A} \\subset \\mathrm{B} A ⊂ B",
+      "option_d": "B ⊂ A \\mathrm{B} \\subset \\mathrm{A} B ⊂ A",
+      "correct": "খ",
+      "explanation": "A = { x ∈ N : x  জোড় এবং  15 < x 4 ≤ 256 } ∴ A = { 2 , 4 } B = { x : x 2 − 6 x + 8 = 0 } = { x : x 2 − 4 x − 2 x + 8 = 0 } = { x : ( x − 4 ) ( x − 2 ) = 0 } = { 2 , 4 } ∴ A = B \\begin{aligned} \\mathrm{A} & =\\left\\{\\mathrm{x} \\in \\mathbb{N}: \\mathrm{x} \\text { জোড় এবং } 15<\\mathrm{x}^{4} \\leq 256\\right\\} \\therefore \\mathrm{A}=\\{2,4\\} \\\\ \\mathrm{B} & =\\left\\{\\mathrm{x}: \\mathrm{x}^{2}-6 \\mathrm{x}+8=0\\right\\}=\\left\\{\\mathrm{x}: \\mathrm{x}^{2}-4 \\mathrm{x}-2 \\mathrm{x}+8=0\\right\\} \\\\ & =\\{\\mathrm{x}:(\\mathrm{x}-4)(\\mathrm{x}-2)=0\\}=\\{2,4\\} \\therefore \\mathrm{A}=\\mathrm{B}\\end{aligned} A B ​ = { x ∈ N : x   জোড়   এবং   15 < x 4 ≤ 256 } ∴ A = { 2 , 4 } = { x : x 2 − 6 x + 8 = 0 } = { x : x 2 − 4 x − 2 x + 8 = 0 } = { x : ( x − 4 ) ( x − 2 ) = 0 } = { 2 , 4 } ∴ A = B ​"
+    },
+    {
+      "number": "4",
+      "tag": "DC 25,MB 25,RB 25,CB 25,DIN.B 25,MAD 25,DB 24,CB 24,DIN.B 24,MB 24,CTG.B 24,DB 24,BB 24,DB 23,SB 23,CB 23,RB 23,DB 22,CB 22,DIN.B 22,RB 22,DB 20,CB 20,SB 20,JB 20,BB 20,RB 19,CB 19,DIN.B 19,BB 19,All.B 18,DB 17,DIN.B 17,CB 17,CTG.B 17,JB 17,SB 17,BB 17,MCC 24,FCC 24,FGCC 24,RCC 24,PCC 24,CCC 24,RUMC 24,BCC 24,RUMC 24,GLHSD 24,BAFSC 24,ACPS 24,CSC 24,MCPSC 24,RCPC 24",
+      "question": "x + 1 x = 5  হলে  − x+\\frac{1}{x}=5 \\text { হলে }- x + x 1 ​ = 5   হলে   − i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ ii. x 3 + 1 x 3 = 110 \\mathrm{x}^{3}+\\frac{1}{\\mathrm{x}^{3}}=110 x 3 + x 3 1 ​ = 110 iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত সমীকরণ: x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 ধাপ 1: x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ এর মান নির্ণয় প্রথমে x 2 + 1 x 2 x^{2}+\\frac{1}{x^{2}} x 2 + x 2 1 ​ গর মান বের করব। আমরা জানি: ( x + 1 x ) 2 = x 2 + 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 + 2 + 1 x 2 \\left(x+\\frac{1}{x}\\right)^{2}=x^{2}+2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}+2+\\frac{1}{x^{2}} ( x + x 1 ​ ) 2 = x 2 + 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 + 2 + x 2 1 ​ অতএব: x 2 + 1 x 2 = ( x + 1 x ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 x^{2}+\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)^{2}-2=5^{2}-2=25-2=23 x 2 + x 2 1 ​ = ( x + x 1 ​ ) 2 − 2 = 5 2 − 2 = 25 − 2 = 23 ধাপ 2: x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান नির্ণয় x 2 − 1 x 2 x^{2}-\\frac{1}{x^{2}} x 2 − x 2 1 ​ এর মান নির্ণয় করতে হলে: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right) x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) এখানে x − 1 x x-\\frac{1}{x} x − x 1 ​ এর মান নির্ণয় করতে হবে। আমরা জানি: ( x − 1 x ) 2 = x 2 − 2 ⋅ x ⋅ 1 x + 1 x 2 = x 2 − 2 + 1 x 2 \\left(x-\\frac{1}{x}\\right)^{2}=x^{2}-2 \\cdot x \\cdot \\frac{1}{x}+\\frac{1}{x^{2}}=x^{2}-2+\\frac{1}{x^{2}} ( x − x 1 ​ ) 2 = x 2 − 2 ⋅ x ⋅ x 1 ​ + x 2 1 ​ = x 2 − 2 + x 2 1 ​ অতএব: ( x − 1 x ) 2 = x 2 + 1 x 2 − 2 = 23 − 2 = 21 x − 1 x = 21 \\begin{aligned} \\left(x-\\frac{1}{x}\\right)^{2}= & x^{2}+\\frac{1}{x^{2}}-2=23-2=21 \\\\ & x-\\frac{1}{x}=\\sqrt{21} \\end{aligned} ( x − x 1 ​ ) 2 = ​ x 2 + x 2 1 ​ − 2 = 23 − 2 = 21 x − x 1 ​ = 21 ​ ​ অতএব: x 2 − 1 x 2 = ( x + 1 x ) ( x − 1 x ) = 5 × 21 = 5 21 x^{2}-\\frac{1}{x^{2}}=\\left(x+\\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right)=5 \\times \\sqrt{21}=5 \\sqrt{21} x 2 − x 2 1 ​ = ( x + x 1 ​ ) ( x − x 1 ​ ) = 5 × 21 ​ = 5 21 ​ x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় x 3 + 1 x 3 x^{3}+\\frac{1}{x^{3}} x 3 + x 3 1 ​ এর মান নির্ণয় করতে হলে: x 3 + 1 x 3 = ( x + 1 x ) 3 − 3 ⋅ x ⋅ 1 x ( x + 1 x ) x^{3}+\\frac{1}{x^{3}}=\\left(x+\\frac{1}{x}\\right)^{3}-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right) x 3 + x 3 1 ​ = ( x + x 1 ​ ) 3 − 3 ⋅ x ⋅ x 1 ​ ( x + x 1 ​ ) অতএব: x 3 + 1 x 3 = 5 3 − 3 × 5 = 125 − 15 = 110 x^{3}+\\frac{1}{x^{3}}=5^{3}-3 \\times 5=125-15=110 x 3 + x 3 1 ​ = 5 3 − 3 × 5 = 125 − 15 = 110 x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 এর সত্যতা যাচাই প্রদত্ত সমীকরণ x + 1 x = 5 x+\\frac{1}{x}=5 x + x 1 ​ = 5 কে x x x দ্বারা গুণ করে পাই: x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 \\begin{array}{c} x^{2}+1=5 x \\\\ x^{2}-5 x+1=0 \\end{array} x 2 + 1 = 5 x x 2 − 5 x + 1 = 0 ​ অত,এব, x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক। উত্তর: i. x 2 − 1 x 2 = 5 21 x^{2}-\\frac{1}{x^{2}}=5 \\sqrt{21} x 2 − x 2 1 ​ = 5 21 ​ সঠিক ii. x 3 + 1 x 3 = 110 x^{3}+\\frac{1}{x^{3}}=110 x 3 + x 3 1 ​ = 110 সঠিক iii. x 2 − 5 x + 1 = 0 x^{2}-5 x+1=0 x 2 − 5 x + 1 = 0 সঠিক অত,এব, i, ii, এবং iii সবগুলি সঠিক।"
+    },
+    {
+      "number": "5",
+      "tag": "CTG.B 22,BAFSC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: a b + b a = 2 \\frac{a}{b}+\\frac{b}{a}=2 b a ​ + a b ​ = 2 ( a b ) 3 + ( b a ) 3 \\left(\\frac{a}{b}\\right)^{3}+\\left(\\frac{b}{a}\\right)^{3} ( b a ​ ) 3 + ( a b ​ ) 3 মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "8",
+      "option_b": "6",
+      "option_c": "4",
+      "option_d": "2",
+      "correct": "ঘ",
+      "explanation": "দেয়া আছে, a b + b a = 2 ∴ ( a b ) 3 + ( b a ) 3 = ( a b + b a ) 3 − 3 ⋅ a b ⋅ b a ( a b + b a ) = 2 3 − 3 ⋅ 2 = 8 − 6 = 2 \\begin{aligned} \\frac{a}{b}+\\frac{b}{a} & =2 \\\\ \\therefore\\left(\\frac{a}{b}\\right)^{3}+\\left(\\frac{b}{a}\\right)^{3} & =\\left(\\frac{a}{b}+\\frac{b}{a}\\right)^{3}-3 \\cdot \\frac{a}{b} \\cdot \\frac{b}{a}\\left(\\frac{a}{b}+\\frac{b}{a}\\right) \\\\ & =2^{3}-3 \\cdot 2 \\\\ & =8-6 \\\\ & =2\\end{aligned} b a ​ + a b ​ ∴ ( b a ​ ) 3 + ( a b ​ ) 3 ​ = 2 = ( b a ​ + a b ​ ) 3 − 3 ⋅ b a ​ ⋅ a b ​ ( b a ​ + a b ​ ) = 2 3 − 3 ⋅ 2 = 8 − 6 = 2 ​"
+    },
+    {
+      "number": "6",
+      "tag": "CTG.B 22,BAFSC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: a b + b a = 2 \\frac{a}{b}+\\frac{b}{a}=2 b a ​ + a b ​ = 2 ( a b ) 3 + ( b a ) 3 \\left(\\frac{a}{b}\\right)^{3}+\\left(\\frac{b}{a}\\right)^{3} ( b a ​ ) 3 + ( a b ​ ) 3 মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "2",
+          "is_correct": true
+        }
+      ],
+      "option_a": "8",
+      "option_b": "6",
+      "option_c": "4",
+      "option_d": "2",
+      "correct": "ঘ",
+      "explanation": "দেয়া আছে, a b + b a = 2 ∴ ( a b ) 3 + ( b a ) 3 = ( a b + b a ) 3 − 3 ⋅ a b ⋅ b a ( a b + b a ) = 2 3 − 3 ⋅ 2 = 8 − 6 = 2 \\begin{aligned} \\frac{a}{b}+\\frac{b}{a} & =2 \\\\ \\therefore\\left(\\frac{a}{b}\\right)^{3}+\\left(\\frac{b}{a}\\right)^{3} & =\\left(\\frac{a}{b}+\\frac{b}{a}\\right)^{3}-3 \\cdot \\frac{a}{b} \\cdot \\frac{b}{a}\\left(\\frac{a}{b}+\\frac{b}{a}\\right) \\\\ & =2^{3}-3 \\cdot 2 \\\\ & =8-6 \\\\ & =2\\end{aligned} b a ​ + a b ​ ∴ ( b a ​ ) 3 + ( a b ​ ) 3 ​ = 2 = ( b a ​ + a b ​ ) 3 − 3 ⋅ b a ​ ⋅ a b ​ ( b a ​ + a b ​ ) = 2 3 − 3 ⋅ 2 = 8 − 6 = 2 ​"
+    },
+    {
+      "number": "7",
+      "tag": "BAFSC 24",
+      "question": "log ⁡ ( 0.001 ) = x \\log (0.001)=x lo g ( 0.001 ) = x হলে, x x x এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 10 \\frac{1}{10} 10 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "-3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "10",
+      "option_b": "1 10 \\frac{1}{10} 10 1 ​",
+      "option_c": "-1",
+      "option_d": "-3",
+      "correct": "ঘ",
+      "explanation": "log ⁡ ( 0.001 ) = x ⇒ log ⁡ − 10 0.001 = x ⇒ 70 x = 0.001 ⇒ 70 x = 10 − 3 ⇒ x = − 3 \\begin{aligned} & \\log (0.001)=x \\\\ \\Rightarrow & \\log _{-10} 0.001=x \\\\ \\Rightarrow & 70^{x}=0.001 \\\\ \\Rightarrow & 70^{x}=10-3 \\\\ \\Rightarrow & x=-3\\end{aligned} ⇒ ⇒ ⇒ ⇒ ​ lo g ( 0.001 ) = x lo g − 10 ​ 0.001 = x 7 0 x = 0.001 7 0 x = 10 − 3 x = − 3 ​"
+    },
+    {
+      "number": "9",
+      "tag": "BAFSC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: একটি গুণোত্তর ধারার প্রথম পদ a, সাধারণ অনুপাত r, পঞ্চম পদ 2 2 2 \\sqrt{2} 2 2 ​ , দশম পদ = − 16 =-16 = − 16 . নিচের কোনটি সমীকরণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a r 4 = − 2 a r^{4}=-2 a r 4 = − 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a ( r n − 1 − 1 ) r ⋅ 1 = − 2 \\frac{a\\left(r^{n-1}-1\\right)}{r \\cdot 1}=-2 r ⋅ 1 a ( r n − 1 − 1 ) ​ = − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a r 4 = 2 2 \\mathrm{ar}^{4}=2 \\sqrt{2} ar 4 = 2 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a ( 1 − r n − 1 ) 1 − r = − 2 \\frac{a\\left(1-r^{n-1}\\right)}{1-r}=-2 1 − r a ( 1 − r n − 1 ) ​ = − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a r 4 = − 2 a r^{4}=-2 a r 4 = − 2",
+      "option_b": "a ( r n − 1 − 1 ) r ⋅ 1 = − 2 \\frac{a\\left(r^{n-1}-1\\right)}{r \\cdot 1}=-2 r ⋅ 1 a ( r n − 1 − 1 ) ​ = − 2",
+      "option_c": "a r 4 = 2 2 \\mathrm{ar}^{4}=2 \\sqrt{2} ar 4 = 2 2 ​",
+      "option_d": "a ( 1 − r n − 1 ) 1 − r = − 2 \\frac{a\\left(1-r^{n-1}\\right)}{1-r}=-2 1 − r a ( 1 − r n − 1 ) ​ = − 2",
+      "correct": "গ",
+      "explanation": "১ম পদ， a = a a=a a = a সাধারণ অনুপাত= r ∴  n তম পদ  = a r n − 1 ∴ 5  তম পদ  = a r 5 − 1 = a r 4 ∴ a r 4 = 2 2 \\begin{array}{l} \\therefore \\text { n তম পদ }=a r^{n-1} \\\\ \\therefore 5 \\text { তম পদ } =a r^{5-1} \\\\ =a r^{4} \\\\ \\therefore a r^{4}=2 \\sqrt{2} \\end{array} ∴  n  তম   পদ   = a r n − 1 ∴ 5   তম   পদ   = a r 5 − 1 = a r 4 ∴ a r 4 = 2 2 ​ ​"
+    },
+    {
+      "number": "10",
+      "tag": "BAFSC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: একটি গুণোত্তর ধারার প্রথম পদ a, সাধারণ অনুপাত r, পঞ্চম পদ 2 2 2 \\sqrt{2} 2 2 ​ , দশম পদ = − 16 =-16 = − 16 . নিচের কোনটি সমীকরণ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "a r 4 = − 2 a r^{4}=-2 a r 4 = − 2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "a ( r n − 1 − 1 ) r ⋅ 1 = − 2 \\frac{a\\left(r^{n-1}-1\\right)}{r \\cdot 1}=-2 r ⋅ 1 a ( r n − 1 − 1 ) ​ = − 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "a r 4 = 2 2 \\mathrm{ar}^{4}=2 \\sqrt{2} ar 4 = 2 2 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "a ( 1 − r n − 1 ) 1 − r = − 2 \\frac{a\\left(1-r^{n-1}\\right)}{1-r}=-2 1 − r a ( 1 − r n − 1 ) ​ = − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "a r 4 = − 2 a r^{4}=-2 a r 4 = − 2",
+      "option_b": "a ( r n − 1 − 1 ) r ⋅ 1 = − 2 \\frac{a\\left(r^{n-1}-1\\right)}{r \\cdot 1}=-2 r ⋅ 1 a ( r n − 1 − 1 ) ​ = − 2",
+      "option_c": "a r 4 = 2 2 \\mathrm{ar}^{4}=2 \\sqrt{2} ar 4 = 2 2 ​",
+      "option_d": "a ( 1 − r n − 1 ) 1 − r = − 2 \\frac{a\\left(1-r^{n-1}\\right)}{1-r}=-2 1 − r a ( 1 − r n − 1 ) ​ = − 2",
+      "correct": "গ",
+      "explanation": "১ম পদ， a = a a=a a = a সাধারণ অনুপাত= r ∴  n তম পদ  = a r n − 1 ∴ 5  তম পদ  = a r 5 − 1 = a r 4 ∴ a r 4 = 2 2 \\begin{array}{l} \\therefore \\text { n তম পদ }=a r^{n-1} \\\\ \\therefore 5 \\text { তম পদ } =a r^{5-1} \\\\ =a r^{4} \\\\ \\therefore a r^{4}=2 \\sqrt{2} \\end{array} ∴  n  তম   পদ   = a r n − 1 ∴ 5   তম   পদ   = a r 5 − 1 = a r 4 ∴ a r 4 = 2 2 ​ ​"
+    },
+    {
+      "number": "12",
+      "tag": "BAFSC 24",
+      "question": "PQR এ M ও N যথাক্রমে PQ ও PR এর মধ্যবিন্দু। QR = কত cm?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "28",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "8",
+      "option_c": "14",
+      "option_d": "28",
+      "correct": "ঘ",
+      "explanation": "শর্তমতে, Q R = 2 M N ⇒ 12 x − 8 = 2 ( 3 x + 5 ) ⇒ 12 x − 8 = 6 x + 10 ⇒ 6 x = 18 ∴ x = 3 ∴ Q R = 12 x − 8 = 12 ( 3 ) − 8 = 36 − 8 = 28   c m . \\begin{aligned} & Q R=2 M N \\\\ \\Rightarrow & 12 x-8=2(3 x+5) \\\\ \\Rightarrow & 12 x-8=6 x+10 \\\\ \\Rightarrow & 6 x=18 \\\\ \\therefore & x=3 \\\\ \\therefore \\quad & Q R=12 x-8 \\\\ & =12(3)-8 \\\\ & =36-8 \\\\ & =28 \\mathrm{~cm} . \\end{aligned} ⇒ ⇒ ⇒ ∴ ∴ ​ QR = 2 MN 12 x − 8 = 2 ( 3 x + 5 ) 12 x − 8 = 6 x + 10 6 x = 18 x = 3 QR = 12 x − 8 = 12 ( 3 ) − 8 = 36 − 8 = 28   cm . ​"
+    },
+    {
+      "number": "13",
+      "tag": "DIN.B 24,CB 22,RCC 24,BAFSC 24,DCS 24",
+      "question": "ABCD একটি সামান্তরিক। x এর মান কত ডিগ্রী?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "33",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "41",
+          "is_correct": false
+        }
+      ],
+      "option_a": "15",
+      "option_b": "30",
+      "option_c": "33",
+      "option_d": "41",
+      "correct": "গ",
+      "explanation": "ABCD সামান্তরিকের ক্ষেত্রে, ∠ A D C + ∠ D A B = 180 ∘ \\angle \\mathrm{ADC}+\\angle \\mathrm{DAB}=180^{\\circ} ∠ ADC + ∠ DAB = 18 0 ∘ বা, 3 x + 8 ∘ + ∠ C B E = 180 ∘ 3 \\mathrm{x}+8^{\\circ}+\\angle \\mathrm{CBE}=180^{\\circ} 3 x + 8 ∘ + ∠ CBE = 18 0 ∘ বা, 3 x + 8 ∘ + 2 x + 7 ∘ = 180 ∘ 3 \\mathrm{x}+8^{\\circ}+2 \\mathrm{x}+7^{\\circ}=180^{\\circ} 3 x + 8 ∘ + 2 x + 7 ∘ = 18 0 ∘ [ ∵ A D ∥ B C \\because \\mathrm{AD} \\| \\mathrm{BC} ∵ AD ∥ BC এবং AE ছেদক ∴ ∠ D A B = \\therefore \\angle \\mathrm{DAB}= ∴ ∠ DAB = অনুরূণ ∠ C B E ] \\angle \\mathrm{CBE}] ∠ CBE ] বা, 5 x = 165 ∘ ∴ x = 33 ∘ 5 \\mathrm{x}=165^{\\circ} \\therefore \\mathrm{x}=33^{\\circ} 5 x = 16 5 ∘ ∴ x = 3 3 ∘"
+    },
+    {
+      "number": "16",
+      "tag": "DIN.B 23,RUMC 24,BAFSC 24",
+      "question": "চিত্রে O বৃত্তটির কেন্দ্র । P O = 13 \\mathrm{PO}=13 PO = 13 সে.মি., O B = 5 \\mathrm{OB}=5 OB = 5 সে.মি. হলে PA = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "119 \\sqrt{119} 119 ​ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "12 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "13 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "194 \\sqrt{194} 194 ​ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "119 \\sqrt{119} 119 ​ সে.মি.",
+      "option_b": "12 সে.মি.",
+      "option_c": "13 সে.মি.",
+      "option_d": "194 \\sqrt{194} 194 ​ সে.মি.",
+      "correct": "খ",
+      "explanation": "এখানে আমরা দেখতে পাচ্ছি যে, O বৃত্তটির কেন্দ্র এবং P একটি বাহ্যিক বিন্দু। PA হলো বাহ্যিক স্পর্শক এবং OB হলো রেডিয়াস। আমরা জানি যে, বাহ্যিক স্পর্শক এবং রেডিয়াসের সমানুপাতিক ধ্রুবক থাকে। স্পর্শকের জন্য ক্লাসিক সূত্র হলো: ( A B 2 = O P 2 − O B 2 ) (AB^2 = OP^2 - OB^2 ) ( A B 2 = O P 2 − O B 2 ) এখানে, AB হলো স্পর্শকের দৈর্ঘ্য PA, OP = 13 সেমি এবং OB = 5 সেমি দেওয়া আছে। সূত্র অনুযায়ী, PA² = OP² - OB² = 13² - 5² = 169 - 25 = 144 অতএব, P A = 144 = 12 PA = \\sqrt{144} = 12 P A = 144 ​ = 12 সেমি।"
+    },
+    {
+      "number": "17",
+      "tag": "MB 22,BAFSC 24,RCPC 24",
+      "question": "কোন ধরনের ত্রিভুজের পরিবৃত্তের কেন্দ্র ত্রিভুজটির বৃহত্তম বাহুর উপর অবস্থিত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "সমবাহু",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "সূক্ষ্মকোণী",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "স্থূলকোণী",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "সমকোণী",
+          "is_correct": true
+        }
+      ],
+      "option_a": "সমবাহু",
+      "option_b": "সূক্ষ্মকোণী",
+      "option_c": "স্থূলকোণী",
+      "option_d": "সমকোণী",
+      "correct": "ঘ",
+      "explanation": "সমকোণী ত্রিভুজের পরিবৃত্তের কেন্দ্র ত্রিভুজের বৃহত্তম বাহুর উপর অবস্থিত।"
+    },
+    {
+      "number": "18",
+      "tag": "BAFSC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: CD = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "60 13 \\frac{60}{13} 13 60 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 13 \\frac{120}{13} 13 120 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "option_a": "60 13 \\frac{60}{13} 13 60 ​",
+      "option_b": "5",
+      "option_c": "120 13 \\frac{120}{13} 13 120 ​",
+      "option_d": "12",
+      "correct": "ক",
+      "explanation": "△ABC এর ক্ষেত্রফল = 1 2 × \\frac{1}{2}\\times 2 1 ​ × AC×BC = 1 2 × \\frac{1}{2}\\times 2 1 ​ × AB×CD ( ∵ \\because ∵ ত্রিভুজের ক্ষেত্রফল = 1 2 × \\frac{1}{2}\\times 2 1 ​ × ভূমি×উচ্চতা) ⇒ \\Rightarrow ⇒ 1 2 × \\frac{1}{2}\\times 2 1 ​ × 5×12 = 1 2 × \\frac{1}{2}\\times 2 1 ​ × 13×CD ⇒ \\Rightarrow ⇒ CD= 60 13 \\frac{60}{13} 13 60 ​"
+    },
+    {
+      "number": "20",
+      "tag": "JB 19,ISCM 24,BAFSC 24,MC 24",
+      "question": "এটি সমবাহু ত্রিভুজের প্রতিসম মাত্রা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "4",
+      "correct": "গ",
+      "explanation": "সমবাহু ত্রিভুজের প্রতিসম মাত্রা থাকে ৩টি। কারণ: সমবাহু ত্রিভুজের তিনটি বাহুই সমান, তিনটি কোণও সমান (৬০°), তাই প্রতিটি শীর্ষবিন্দু থেকে বিপরীত বাহুর মধ্যবিন্দু পর্যন্ত একটি করে প্রতিসম রেখা আঁকা যায়।"
+    },
+    {
+      "number": "23",
+      "tag": "BAFSC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: AD = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "17.32 সে.মি. (প্রায়)",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "34.614 সে.মি. (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "17.61 সে.মি. (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "34.32 সে.মি. (প্রায়)",
+          "is_correct": false
+        }
+      ],
+      "option_a": "17.32 সে.মি. (প্রায়)",
+      "option_b": "34.614 সে.মি. (প্রায়)",
+      "option_c": "17.61 সে.মি. (প্রায়)",
+      "option_d": "34.32 সে.মি. (প্রায়)",
+      "correct": "ক",
+      "explanation": "△ A B D  এ,  tan ⁡ 60 ∘ = A D B D ⇒ 3 = A D 10 ⇒ A D = 10 3 ∴ A D = 17.32  (সে.মি. প্রায়)  \\begin{array}{l}\\triangle A B D \\text { এ, } \\\\ \\tan 60^{\\circ}=\\frac{A D}{B D} \\\\ \\Rightarrow \\sqrt{3}=\\frac{A D}{10} \\\\ \\Rightarrow A D=10 \\sqrt{3} \\\\ \\therefore A D=17.32 \\text { (সে.মি. প্রায়) }\\end{array} △ A B D   এ ,  tan 6 0 ∘ = B D A D ​ ⇒ 3 ​ = 10 A D ​ ⇒ A D = 10 3 ​ ∴ A D = 17.32  ( সে . মি .  প্রায় )  ​"
+    },
+    {
+      "number": "24",
+      "tag": "BAFSC 24",
+      "question": "নিচের তথ্যের আলোকে উত্তর দাও: CD = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "28 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "29 সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "30 সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "30.75 সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "28 সে.মি.",
+      "option_b": "29 সে.মি.",
+      "option_c": "30 সে.মি.",
+      "option_d": "30.75 সে.মি.",
+      "correct": "গ",
+      "explanation": "△ A B D এ tan ⁡ 60 ∘ = A D B D ⇒ 3 = A D 10 ∴ A D = 10 3 \\begin{array}{l} \\triangle A B D এ \\\\ \\tan 60^{\\circ}=\\frac{A D}{B D} \\\\ \\Rightarrow \\sqrt{3}=\\frac{A D}{10} \\\\ \\therefore A D=10 \\sqrt{3} \\end{array} △ A B D এ tan 6 0 ∘ = B D A D ​ ⇒ 3 ​ = 10 A D ​ ∴ A D = 10 3 ​ ​ △ A B C − এ \\triangle A B C -এ △ A BC − এ tan ⁡ 60 ∘ = C D A D ⇒ 3 = C D 10 3 ∴ C D = 30 মি . \\begin{aligned} & \\tan 60^{\\circ}=\\frac{C D}{A D} \\\\ \\Rightarrow & \\sqrt{3}=\\frac{C D}{10 \\sqrt{3}} \\\\ \\therefore & C D=30 মি. \\end{aligned} ⇒ ∴ ​ tan 6 0 ∘ = A D C D ​ 3 ​ = 10 3 ​ C D ​ C D = 30 মি . ​"
+    },
+    {
+      "number": "25",
+      "tag": "MB 25,CB 24,BB 24,DB 23,MB 23,SB 23,RB 23,JB 23,DB 22,MB 22,RB 22,CTG.B 22,SB 22,JB 22,RB 20,DIN.B 20,RB 19,CB 19,All.B 18,DB 17,DIN.B 17,JB 17,FCC 24,JGCC 24,PCC 24,VNSC 24,GLHSD 24,BAFSC 24,DCS 24,CSC 24,NISD 24,MCPSC 24",
+      "question": "একটি সমকোণী সমদ্বিবাহু ত্রিভুজের অতিভুজের দৈর্ঘ্য 12 সে.মি. হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "72 \\sqrt{72} 72 ​ বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "144 \\sqrt{144} 144 ​ বর্গ সে.মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "36 বর্গ সে.মি.",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "144 বর্গ সে.মি.",
+          "is_correct": false
+        }
+      ],
+      "option_a": "72 \\sqrt{72} 72 ​ বর্গ সে.মি.",
+      "option_b": "144 \\sqrt{144} 144 ​ বর্গ সে.মি.",
+      "option_c": "36 বর্গ সে.মি.",
+      "option_d": "144 বর্গ সে.মি.",
+      "correct": "গ",
+      "explanation": "এখানে, সমকোণী সমবাহু ত্রিভুজে এর ক্ষেত্রে, cos ⁡ ∠ 45 ∘ = B C A C ⇒ 1 2 = B C 12 ⇒ 12 2 = B C ⇒ B C = 12 2 \\begin{array}{l} \\cos \\angle 4 5^{\\circ}=\\frac{B C}{A C} \\\\ \\Rightarrow \\frac{1}{\\sqrt{2}}=\\frac{B C}{12} \\\\ \\Rightarrow \\frac{12}{\\sqrt{2}}=B C \\\\ \\Rightarrow B C=\\frac{12}{\\sqrt{2}} \\end{array} cos ∠4 5 ∘ = A C BC ​ ⇒ 2 ​ 1 ​ = 12 BC ​ ⇒ 2 ​ 12 ​ = BC ⇒ BC = 2 ​ 12 ​ ​ ∴ A B = B C = − 12 2 \\therefore A B=B C=\\frac{-12}{\\sqrt{2}} ∴ A B = BC = 2 ​ − 12 ​ ∴ \\therefore ∴ ত্রিভুজের ক্ষেত্রফল = 7 2 × A B × B C =\\frac{7}{2} \\times A B \\times B C = 2 7 ​ × A B × BC = 3 2 × 12 2 × 12 2 = 36   c m 2 \\begin{array}{l} =\\frac{3}{2} \\times \\frac{12}{\\sqrt{2}} \\times \\frac{12}{\\sqrt{2}} \\\\ =36 \\mathrm{~cm}^{2} \\end{array} = 2 3 ​ × 2 ​ 12 ​ × 2 ​ 12 ​ = 36   cm 2 ​ Ans"
+    },
+    {
+      "number": "26",
+      "tag": "RB 25,CB 25,DB 24,MB 23,DIN.B 23,MB 22,MB 20,DIN.B 19,DB 17,CB 17,RCC 24,FGCC 24,RUMC 24,BAFSC 24",
+      "question": "একটি সুষম অষ্টভুজের শীর্ষ কোণের মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "45 ∘ 45^{\\circ} 4 5 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "108 ∘ 108^{\\circ} 10 8 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "135 ∘ 135^{\\circ} 13 5 ∘",
+          "is_correct": true
+        }
+      ],
+      "option_a": "45 ∘ 45^{\\circ} 4 5 ∘",
+      "option_b": "108 ∘ 108^{\\circ} 10 8 ∘",
+      "option_c": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_d": "135 ∘ 135^{\\circ} 13 5 ∘",
+      "correct": "ঘ",
+      "explanation": "সুষম অষ্টভুজের শীর্ষ কোণের মান = ( 8 − 2 ) 8 × 180 ∘ = 135 ∘ =\\frac{(8-2)}{8} \\times 180^{\\circ}=135^{\\circ} = 8 ( 8 − 2 ) ​ × 18 0 ∘ = 13 5 ∘ আমরা জানি ,  কোনো n বাহুবিশিষ বহুভুজের শীর্ষকোন,  = n − 2 n × 140 ∘  অষ্টভুজের ক্ষেত্রে,  n = 8 ∴  কোণের মান  = 8 − 2 8 × 180 ∘ = 135 ∘ \\begin{array}{l} \\text { কোনো n বাহুবিশিষ বহুভুজের শীর্ষকোন, }= \\frac{n-2}{n} \\times 140^{\\circ}\\\\ \\text { অষ্টভুজের ক্ষেত্রে, } n=8 \\\\ \\therefore \\text { কোণের মান }=\\frac{8-2}{8} \\times 180^{\\circ}=135^{\\circ} \\end{array}   কোনো  n  বাহুবিশিষ   বহুভুজের   শীর্ষকোন ,  = n n − 2 ​ × 14 0 ∘   অষ্টভুজের   ক্ষেত্রে ,  n = 8 ∴   কোণের   মান   = 8 8 − 2 ​ × 18 0 ∘ = 13 5 ∘ ​"
+    },
+    {
+      "number": "27",
+      "tag": "BAFSC 24",
+      "question": "একটি চাকা 720 মি. পথ যেতে 18 বার ঘোরে। চাকাটির ব্যাসার্ধ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12.732 মি. (প্রায় )",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "40 মি.",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "56.545 মি. (প্রায়)",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6.366 মি. (প্রায়)",
+          "is_correct": true
+        }
+      ],
+      "option_a": "12.732 মি. (প্রায় )",
+      "option_b": "40 মি.",
+      "option_c": "56.545 মি. (প্রায়)",
+      "option_d": "6.366 মি. (প্রায়)",
+      "correct": "ঘ",
+      "explanation": "চাকার পরিধি = একবার ঘুরে অতিক্রান্ত পথ বা, 2 π r = 720 18 = 40 2 \\pi \\mathrm{r}=\\frac{720}{18}=40 2 π r = 18 720 ​ = 40 ∴ r = 40 2 × 3.1416 = 6.366 \\therefore r=\\frac{40}{2 \\times 3.1416}=6.366 ∴ r = 2 × 3.1416 40 ​ = 6.366 মিটার"
+    },
+    {
+      "number": "28",
+      "tag": "BAFSC 24",
+      "question": "একটি বৃত্তের ব্যাস ও পরিধির পার্থক্য 90 সে.মি.। এর ব্যাসার্ধ কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0.21",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "21",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2.1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3.3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0.21",
+      "option_b": "21",
+      "option_c": "2.1",
+      "option_d": "3.3",
+      "correct": "ক",
+      "explanation": "প্রশ্নমতে , 2 π r − 2 r = 90 ⇒ r ( 2 π − 2 ) = 90 ⇒ r = 90 2 π − 2 = 21.01   c m ⇒ r = 21.01 100 m = 0.21   m \\begin{aligned} & 2 \\pi r-2 r=90 \\\\ \\Rightarrow & r(2 \\pi-2)=90 \\\\ \\Rightarrow & r=\\frac{90}{2 \\pi-2}=21.01 \\mathrm{~cm} \\\\ \\Rightarrow & r=\\frac{21.01}{100} m=0.21 \\mathrm{~m} \\end{aligned} ⇒ ⇒ ⇒ ​ 2 π r − 2 r = 90 r ( 2 π − 2 ) = 90 r = 2 π − 2 90 ​ = 21.01   cm r = 100 21.01 ​ m = 0.21   m ​"
+    },
+    {
+      "number": "29",
+      "tag": "BAFSC 24",
+      "question": "প্রদত্ত উপাত্ত 39, 50, 45, 44, 45, 40 হলে- i. উপাত্তসমূহের গাণিতিক গড় 43.833 ii. প্রচুরক 45 iii. মধ্যক 44.5 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "iও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "iও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "আমরা একে একে যাচাই করি প্রতিটি উপাত্ত অনুযায়ী: প্রদত্ত উপাত্ত: 39, 50, 45, 44, 45, 40 প্রথমে উপাত্তগুলো ক্রম অনুসারে সাজাই: 39 , 40 , 44 , 45 , 45 , 50 39,40,44,45,45,50 39 , 40 , 44 , 45 , 45 , 50 i. গাণিতিক গড় (Mean):  Mean  = 39 + 50 + 45 + 44 + 45 + 40 6 = 263 6 ≈ 43.83 \\text { Mean }=\\frac{39+50+45+44+45+40}{6}=\\frac{263}{6} \\approx 43.83  Mean  = 6 39 + 50 + 45 + 44 + 45 + 40 ​ = 6 263 ​ ≈ 43.83 সঠিক ii. প্রচুরক (Mode): Mode = যে সংখ্যা সবচেয়ে বেশি বার আসে 45 → 2 45 \\rightarrow 2 45 → 2 বার অন্যগুলো একবার করে প্রচুরক = 45 → =45 \\rightarrow = 45 → সঠিক iii. মধ্যক (Median): যেহেতু উপাত্তের সংখ্যা 6 (একটি জোড় সংখ্যা), Median = ৩য় ও ৪র্থ সংখ্যার গড় উপাত্ত: 39, 40, 44, 45, 45, 50  Median  = 44 + 45 2 = 89 2 = 44.5 \\text { Median }=\\frac{44+45}{2}=\\frac{89}{2}=44.5  Median  = 2 44 + 45 ​ = 2 89 ​ = 44.5 সঠিক উপসংহার: উপরের সবগুলো (i, ii, iii) সঠিক।"
+    },
+    {
+      "number": "",
+      "tag": "CTG.B 23,BAFSC 24",
+      "question": "শ্রেণি ব্যাপ্তি 11-13 14-16 17-19 20-22 23-25 গণসংখ্যা 2 5 6 4 3 সারণি অনুসারে- i. প্রচুরক শ্রেণি (17-19) ii. মধ্যক নির্ণয়ের ক্ষেত্রে, F c = 7 F_{c}=7 F c ​ = 7 iii. প্রচুরক নির্ণয়ের ক্ষেত্রে, f 1 f 1 + f 2 = 1 3 \\frac{f_{1}}{f_{1}+f_{2}}=\\frac{1}{3} f 1 ​ + f 2 ​ f 1 ​ ​ = 3 1 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    }
+  ]
+}

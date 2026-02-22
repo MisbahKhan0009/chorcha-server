@@ -1,0 +1,799 @@
+{
+  "read_id": "cNScwRrBph_LiLJq",
+  "title": "যশোর বোর্ড ২০২৪",
+  "count": 24,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JB 24,GLHSD 24",
+      "question": "যদি n ( A ) = 4 n(A)=4 n ( A ) = 4 এবং n ( B ) = 7 n(B)=7 n ( B ) = 7 যেখানে, A A A ও B নিশ্ছেদ সেট নিশ্ছেদ, n ( A ∪ B ) \\mathbf{n}(\\mathbf{A} \\cup \\mathrm{B}) n ( A ∪ B ) = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "11",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "28",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3",
+      "option_b": "4",
+      "option_c": "11",
+      "option_d": "28",
+      "correct": "গ",
+      "explanation": "যদি A ও B নিশ্ছেদ সেট হয় তবে A ও B এর উপাদান এর মধ্যে কোন মিল থাকবেনা সুতরাং , n ( A ∪ B ) \\mathbf{n}(\\mathbf{A} \\cup \\mathrm{B}) n ( A ∪ B ) = n(A) + n(B) = 4 + 7 = 11"
+    },
+    {
+      "number": "2",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "3",
+      "tag": "JB 24",
+      "question": "বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে বৃত্তে সর্বোচ্চ কতটি স্পর্শক আঁকা যায়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অসংখ্যা",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "4",
+      "option_d": "অসংখ্যা",
+      "correct": "খ",
+      "explanation": "বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে বৃত্তে সর্বোচ্চ ২টি স্পর্শক আঁকা যায়।"
+    },
+    {
+      "number": "4",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "গ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "5",
+      "tag": "CB 20,CTG.B 20,JB 20,BB 20,DB 19,RB 19,CTG.B 19,BB 19,All.B 18",
+      "question": "5 − 1 + 1 5 − 1 25 + … … 5-1+\\frac{1}{5}-\\frac{1}{25}+\\ldots \\ldots 5 − 1 + 5 1 ​ − 25 1 ​ + …… একটি ধারা। ধারাটির অসীমতক সমষ্টি কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 6 \\frac{1}{6} 6 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "25 6 \\frac{25}{6} 6 25 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "25 4 \\frac{25}{4} 4 25 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 6 \\frac{1}{6} 6 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "25 6 \\frac{25}{6} 6 25 ​",
+      "option_d": "25 4 \\frac{25}{4} 4 25 ​",
+      "correct": "গ",
+      "explanation": "ধারা: 5 − 1 + 1 5 − 1 25 + … 5 - 1 + \\frac{1}{5} - \\frac{1}{25} + \\dots 5 − 1 + 5 1 ​ − 25 1 ​ + … প্রথম পদ a = 5 a = 5 a = 5 , সাধারণ অনুপাত r = − 1 5 r = -\\frac{1}{5} r = − 5 1 ​ (কারণ দ্বিতীয় পদ − 1 -1 − 1 , − 1 5 = − 1 5 \\frac{-1}{5} = -\\frac{1}{5} 5 − 1 ​ = − 5 1 ​ ) এটি একটি অসীম গুণোত্তর ধারা, কারণ ∣ r ∣ = 1 5 < 1 |r| = \\frac{1}{5} < 1 ∣ r ∣ = 5 1 ​ < 1 অসীমতক যোগফল: S ∞ = a 1 − r = 5 1 − ( − 1 5 ) = 5 1 + 1 5 = 5 6 5 = 5 × 5 6 = 25 6 S_{\\infty} = \\frac{a}{1 - r} = \\frac{5}{1 - (-\\frac{1}{5})} = \\frac{5}{1 + \\frac{1}{5}} = \\frac{5}{\\frac{6}{5}} = 5 \\times \\frac{5}{6} = \\frac{25}{6} S ∞ ​ = 1 − r a ​ = 1 − ( − 5 1 ​ ) 5 ​ = 1 + 5 1 ​ 5 ​ = 5 6 ​ 5 ​ = 5 × 6 5 ​ = 6 25 ​"
+    },
+    {
+      "number": "6",
+      "tag": "JB 24,RCPC 24,SB 21",
+      "question": "(2, 2) এবং (a, 0) বিন্দুগামী সরলরেখার ঢাল 2 হলে, a এর মান কত হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": true
+        }
+      ],
+      "option_a": "-2",
+      "option_b": "-1",
+      "option_c": "1",
+      "option_d": "6",
+      "correct": "ঘ",
+      "explanation": "A B A B A B এর ঢাল m m m হলে m = 2 + 1 2 − 1 ∴ m = 3 1 = 3  ঢাল  = 2 − 0 2 − a ⇒ 2 = 2 2 − a ⇒ 2 − a = 2 2 = 1 ⇒ 2 − a = 1 ⇒ a = 2 − 1 = 1 ∴ a = 1 \\begin{aligned} & m=\\frac{2+1}{2-1} \\\\ \\therefore & m=\\frac{3}{1}=3 \\\\ & \\text { ঢাল }=\\frac{2-0}{2-a} \\\\ \\Rightarrow & 2=\\frac{2}{2-a} \\\\ \\Rightarrow & 2-a=\\frac{2}{2}=1 \\\\ \\Rightarrow & 2-a=1 \\\\ \\Rightarrow & a=2-1=1 \\\\ \\therefore & a=1 \\end{aligned} ∴ ⇒ ⇒ ⇒ ⇒ ∴ ​ m = 2 − 1 2 + 1 ​ m = 1 3 ​ = 3   ঢাল   = 2 − a 2 − 0 ​ 2 = 2 − a 2 ​ 2 − a = 2 2 ​ = 1 2 − a = 1 a = 2 − 1 = 1 a = 1 ​"
+    },
+    {
+      "number": "7",
+      "tag": "CB 25,SB 24,JB 24,CPSCR 24,MC 24,DB 23,MB 23,SB 23,RB 22,DIN.B 22,CTG.B 22,JB 20",
+      "question": "যদি 5 x − 7 ( x − 1 ) ( x − 2 ) ≡ A x − 1 + B x − 2 \\frac{5 x-7}{(x-1)(x-2)} \\equiv \\frac{A}{x-1}+\\frac{B}{x-2} ( x − 1 ) ( x − 2 ) 5 x − 7 ​ ≡ x − 1 A ​ + x − 2 B ​ হয়, যেখানে A ও B মূলদ সংখ্যা, তবে B এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "-2",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": "প্রদত্ত সমীকরণটি হলো: 5 x − 7 ( x − 1 ) ( x − 2 ) ≡ A x − 1 + B x − 2 \\frac{5x-7}{(x-1)(x-2)} \\equiv \\frac{A}{x-1}+\\frac{B}{x-2} ( x − 1 ) ( x − 2 ) 5 x − 7 ​ ≡ x − 1 A ​ + x − 2 B ​ এখানে, A এবং B মূলদ সংখ্যা। এদের মান নির্ণয় করতে আমাদের প্রভাজক (partial fraction) পদ্ধতি প্রয়োগ করতে হবে। প্রথমে, সমীকরণকে সাধারণ জানা অংশে নির্ণয় করি: ( 5x - 7 = A(x-2) + B(x-1) ) এটি সহজ করার জন্য আমরা সমীকরণটি দুই পাশে প্রসারণ করব: ( 5x - 7 = Ax - 2A + Bx - B ) এরপর আমরা লাইক টার্মগুলো একত্রিত করি: ( 5x - 7 = (A + B)x - (2A + B) ) এখন, x এর সহগের তুলনা করে পাই: ( A + B = 5 ) এবং ধ্রুবক টার্মের তুলনা করে পাই: ( 2A + B = 7 ) এখন, প্রথম সমীকরণ থেকে B এর মান বের করি: ( B = 5 - A ) এটি দ্বিতীয় সমীকরণে প্রতিস্থাপন করি: ( 2A + (5 - A) = 7 ) সরলীকরণ করে পাই: ( A + 5 = 7 ) ( A = 2 ) এখন B এর মান বের করি: ( B = 5 - A = 5 - 2 = 3 ) সুতরাং, B এর মান 3।"
+    },
+    {
+      "number": "8",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "9",
+      "tag": "JB 24,DIN.B 19",
+      "question": "f ( x , y ) = 3 x 2 y 4 − 5 x y 5 + 2 x 4 y 2 − 4 f(x,y)=3 x^{2} y^{4}-5 x y^{5}+2 x^{4} y^{2}-4 f ( x , y ) = 3 x 2 y 4 − 5 x y 5 + 2 x 4 y 2 − 4 বহুপদীর- i. মাত্রা 6 ii. মুখ্য সহগ -5x iii. ধ্রুব পদ -4 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত বহুপদী: f ( x , y ) = 3 x 2 y 4 − 5 x y 5 + 2 x 4 y 2 − 4 f(x,y)=3 x^{2} y^{4}-5 x y^{5}+2 x^{4} y^{2}-4 f ( x , y ) = 3 x 2 y 4 − 5 x y 5 + 2 x 4 y 2 − 4 1. মাত্রা নির্ণয়: পদগুলির ডিগ্রি: 3 x 2 y 4 : 2 + 4 = 6 − 5 x y 5 : 1 + 5 = 6 2 x 4 y 2 : 4 + 2 = 6 − 4 : 0 \\begin{array}{l} 3 x^{2} y^{4}: 2+4=6 \\\\ -5 x y^{5}: 1+5=6 \\\\ 2 x^{4} y^{2}: 4+2=6 \\\\ -4: 0 \\end{array} 3 x 2 y 4 : 2 + 4 = 6 − 5 x y 5 : 1 + 5 = 6 2 x 4 y 2 : 4 + 2 = 6 − 4 : 0 ​ সর্বোচ্চ মাত্রা = 6 =6 = 6 (i) সঠিক 2 মুখ্য সহগ: সর্বোচ্চ মাত্রার পদ 3 x 2 y 4 , − 5 x y 5 , 2 x 4 y 2 3 x^{2} y^{4},-5 x y^{5}, 2 x^{4} y^{2} 3 x 2 y 4 , − 5 x y 5 , 2 x 4 y 2 এর মধ্যে লেক্সিকোগ্রাফিকাল অর্ডারে প্রথম পদ 3 x 2 y 4 → 3 x^{2} y^{4} \\rightarrow 3 x 2 y 4 → মুখ্য সহ্গ = 3 x 2 =3 x^{2} = 3 x 2 ∴ − 5 x × \\therefore-5 x \\times ∴ − 5 x × (ii) ভুল 3. ধ্রুব পদ:-4 (iii) সঠিক"
+    },
+    {
+      "number": "10",
+      "tag": "JB 24",
+      "question": "একটি ত্রিভুজের পরিবৃত্তের ব্যাস 8 সেমি হলে, ইহার নববিন্দু বৃত্তের ব্যাসার্ধ কত সেমি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "4",
+      "option_c": "8",
+      "option_d": "6",
+      "correct": "গ",
+      "explanation": "নববিন্দু বৃত্তের ব্যাসার্ধ  =  পরিবৃত্তের ব্যাসার্ধ  2 = ( 8 / 2 ) 2 = 2 \\begin{array}{l}\\text { নববিন্দু বৃত্তের ব্যাসার্ধ }=\\frac{\\text { পরিবৃত্তের ব্যাসার্ধ }}{2} \\\\ =\\frac{(8 / 2)}{2} \\\\ =2\\end{array}   নববিন্দু   বৃত্তের   ব্যাসার্ধ   = 2   পরিবৃত্তের   ব্যাসার্ধ   ​ = 2 ( 8/2 ) ​ = 2 ​"
+    },
+    {
+      "number": "11",
+      "tag": "JB 24,GLHSD 24",
+      "question": "ax² + 9 = 6x সমীকরণের নিশ্চায়ক ‘0’ হলে, a = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "36",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "option_a": "36",
+      "option_b": "9",
+      "option_c": "2",
+      "option_d": "1",
+      "correct": "খ",
+      "explanation": "নিশ্চায়কের সূত্র: D = b 2 − 4 a c D=b^{2}-4 a c D = b 2 − 4 a c এখানে, a = a , b = − 6 , c = 9 a=a, b=-6, c=9 a = a , b = − 6 , c = 9 : D = ( − 6 ) 2 − 4 ⋅ a ⋅ 9 = 36 − 36 a D=(-6)^{2}-4 \\cdot a \\cdot 9=36-36 a D = ( − 6 ) 2 − 4 ⋅ a ⋅ 9 = 36 − 36 a প্রশ্নানুসারে, নিশ্চায়ক শূন্য: 36 − 36 a = 0 36 a = 36 a = 1 \\begin{array}{c} 36-36 a=0 \\\\ 36 a=36 \\\\ a=1 \\end{array} 36 − 36 a = 0 36 a = 36 a = 1 ​"
+    },
+    {
+      "number": "12",
+      "tag": "JB 24,GLHSD 24,SB 21",
+      "question": "cot ⁡ θ + cosec ⁡ θ = P \\cot \\theta+\\operatorname{cosec} \\theta=\\mathrm{P} cot θ + cosec θ = P sec ⁡ θ \\sec \\theta sec θ এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 P P 2 + 1 \\frac{2 \\mathrm{P}}{\\mathrm{P}^{2}+1} P 2 + 1 2 P ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 P P 2 − 1 \\frac{2 \\mathrm{P}}{\\mathrm{P}^{2}-1} P 2 − 1 2 P ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "p 2 + 1 p 2 − 1 \\frac{\\mathrm{p}^{2}+1}{\\mathrm{p}^{2}-1} p 2 − 1 p 2 + 1 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "p 2 − 1 p 2 + 1 \\frac{\\mathrm{p}^{2}-1}{\\mathrm{p}^{2}+1} p 2 + 1 p 2 − 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 P P 2 + 1 \\frac{2 \\mathrm{P}}{\\mathrm{P}^{2}+1} P 2 + 1 2 P ​",
+      "option_b": "2 P P 2 − 1 \\frac{2 \\mathrm{P}}{\\mathrm{P}^{2}-1} P 2 − 1 2 P ​",
+      "option_c": "p 2 + 1 p 2 − 1 \\frac{\\mathrm{p}^{2}+1}{\\mathrm{p}^{2}-1} p 2 − 1 p 2 + 1 ​",
+      "option_d": "p 2 − 1 p 2 + 1 \\frac{\\mathrm{p}^{2}-1}{\\mathrm{p}^{2}+1} p 2 + 1 p 2 − 1 ​",
+      "correct": "গ",
+      "explanation": "cot ⁡ θ + cosec ⁡ θ = p ⇒ cos ⁡ θ sin ⁡ θ + 1 sin ⁡ θ = p ⇒ ( cos ⁡ θ + 1 sin ⁡ θ ) 2 = p 2 ⇒ ( cos ⁡ θ + 1 ) 2 sin ⁡ 2 θ = p 2 ⇒ ( cos ⁡ θ + 1 ) 2 ( 1 + cos ⁡ θ ) ( 1 − cos ⁡ θ ) 2 = p 2 [ sin ⁡ 2 θ = 1 − cos ⁡ 2 θ = ( 1 + cos ⁡ θ ) ⋅ ( 1 ) − cos ⁡ θ ) ⇒ cos ⁡ θ + 1 1 − cos ⁡ θ = p 2 ⇒ cos ⁡ θ + 1 + 1 − cos ⁡ θ cos ⁡ θ + 1 − 1 + cos ⁡ θ = p 2 + 1 p 2 − 1 [  যোজন − বিয়োজন ⁡ ] ⇒ 2 2 cos ⁡ θ = p 2 + 1 p 2 − 1 = sec ⁡ θ = p 2 + 1 p 2 − 1 \\begin{aligned} & \\cot \\theta+\\operatorname{cosec} \\theta=p \\\\ \\Rightarrow & \\frac{\\cos \\theta}{\\sin \\theta}+\\frac{1}{\\sin \\theta}=p \\\\ \\Rightarrow & \\left(\\frac{\\cos \\theta+1}{\\sin \\theta}\\right)^{2}=p^{2} \\\\ \\Rightarrow & \\frac{(\\cos \\theta+1)^{2}}{\\sin ^{2} \\theta}=p^{2} \\\\ \\Rightarrow & \\frac{(\\cos \\theta+1)^{2}}{(1+\\cos \\theta)(1-\\cos \\theta)^{2}}=p^{2} \\quad\\left[\\begin{array}{l}\\sin ^{2} \\theta=1-\\cos ^{2} \\theta \\\\ =(1+\\cos \\theta) \\cdot(1) \\\\ -\\cos \\theta)\\end{array}\\right. \\\\ \\Rightarrow & \\frac{\\cos \\theta+1}{1-\\cos \\theta}=p^{2} \\\\ \\Rightarrow & \\frac{\\cos \\theta+1+1-\\cos \\theta}{\\cos \\theta+1-1+\\cos \\theta}=\\frac{p^{2}+1}{p^{2}-1}\\left[\\begin{array}{l}\\text { যোজন} \\\\ -\\operatorname{বিয়োজন}\\end{array}\\right] \\\\ \\Rightarrow & \\frac{2}{2 \\cos \\theta}=\\frac{p^{2}+1}{p^{2}-1} \\\\ = & \\sec \\theta=\\frac{p^{2}+1}{p^{2}-1}\\end{aligned} ⇒ ⇒ ⇒ ⇒ ⇒ ⇒ ⇒ = ​ cot θ + cosec θ = p sin θ cos θ ​ + sin θ 1 ​ = p ( sin θ cos θ + 1 ​ ) 2 = p 2 sin 2 θ ( cos θ + 1 ) 2 ​ = p 2 ( 1 + cos θ ) ( 1 − cos θ ) 2 ( cos θ + 1 ) 2 ​ = p 2 ​ sin 2 θ = 1 − cos 2 θ = ( 1 + cos θ ) ⋅ ( 1 ) − cos θ ) ​ 1 − cos θ cos θ + 1 ​ = p 2 cos θ + 1 − 1 + cos θ cos θ + 1 + 1 − cos θ ​ = p 2 − 1 p 2 + 1 ​ [   যোজন − বিয়োজন ​ ] 2 cos θ 2 ​ = p 2 − 1 p 2 + 1 ​ sec θ = p 2 − 1 p 2 + 1 ​ ​"
+    },
+    {
+      "number": "13",
+      "tag": "JB 24,GLHSD 24,SB 21",
+      "question": "cot ⁡ θ + cosec ⁡ θ = P \\cot \\theta+\\operatorname{cosec} \\theta=\\mathrm{P} cot θ + cosec θ = P sec ⁡ θ \\sec \\theta sec θ এর মান নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 P P 2 + 1 \\frac{2 \\mathrm{P}}{\\mathrm{P}^{2}+1} P 2 + 1 2 P ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2 P P 2 − 1 \\frac{2 \\mathrm{P}}{\\mathrm{P}^{2}-1} P 2 − 1 2 P ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "p 2 + 1 p 2 − 1 \\frac{\\mathrm{p}^{2}+1}{\\mathrm{p}^{2}-1} p 2 − 1 p 2 + 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "p 2 − 1 p 2 + 1 \\frac{\\mathrm{p}^{2}-1}{\\mathrm{p}^{2}+1} p 2 + 1 p 2 − 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 P P 2 + 1 \\frac{2 \\mathrm{P}}{\\mathrm{P}^{2}+1} P 2 + 1 2 P ​",
+      "option_b": "2 P P 2 − 1 \\frac{2 \\mathrm{P}}{\\mathrm{P}^{2}-1} P 2 − 1 2 P ​",
+      "option_c": "p 2 + 1 p 2 − 1 \\frac{\\mathrm{p}^{2}+1}{\\mathrm{p}^{2}-1} p 2 − 1 p 2 + 1 ​",
+      "option_d": "p 2 − 1 p 2 + 1 \\frac{\\mathrm{p}^{2}-1}{\\mathrm{p}^{2}+1} p 2 + 1 p 2 − 1 ​",
+      "correct": "ক",
+      "explanation": "cot ⁡ θ + cosec ⁡ θ = p ⇒ cos ⁡ θ sin ⁡ θ + 1 sin ⁡ θ = p ⇒ ( cos ⁡ θ + 1 sin ⁡ θ ) 2 = p 2 ⇒ ( cos ⁡ θ + 1 ) 2 sin ⁡ 2 θ = p 2 ⇒ ( cos ⁡ θ + 1 ) 2 ( 1 + cos ⁡ θ ) ( 1 − cos ⁡ θ ) 2 = p 2 [ sin ⁡ 2 θ = 1 − cos ⁡ 2 θ = ( 1 + cos ⁡ θ ) ⋅ ( 1 ) − cos ⁡ θ ) ⇒ cos ⁡ θ + 1 1 − cos ⁡ θ = p 2 ⇒ cos ⁡ θ + 1 + 1 − cos ⁡ θ cos ⁡ θ + 1 − 1 + cos ⁡ θ = p 2 + 1 p 2 − 1 [  যোজন − বিয়োজন ⁡ ] ⇒ 2 2 cos ⁡ θ = p 2 + 1 p 2 − 1 = sec ⁡ θ = p 2 + 1 p 2 − 1 \\begin{aligned} & \\cot \\theta+\\operatorname{cosec} \\theta=p \\\\ \\Rightarrow & \\frac{\\cos \\theta}{\\sin \\theta}+\\frac{1}{\\sin \\theta}=p \\\\ \\Rightarrow & \\left(\\frac{\\cos \\theta+1}{\\sin \\theta}\\right)^{2}=p^{2} \\\\ \\Rightarrow & \\frac{(\\cos \\theta+1)^{2}}{\\sin ^{2} \\theta}=p^{2} \\\\ \\Rightarrow & \\frac{(\\cos \\theta+1)^{2}}{(1+\\cos \\theta)(1-\\cos \\theta)^{2}}=p^{2} \\quad\\left[\\begin{array}{l}\\sin ^{2} \\theta=1-\\cos ^{2} \\theta \\\\ =(1+\\cos \\theta) \\cdot(1) \\\\ -\\cos \\theta)\\end{array}\\right. \\\\ \\Rightarrow & \\frac{\\cos \\theta+1}{1-\\cos \\theta}=p^{2} \\\\ \\Rightarrow & \\frac{\\cos \\theta+1+1-\\cos \\theta}{\\cos \\theta+1-1+\\cos \\theta}=\\frac{p^{2}+1}{p^{2}-1}\\left[\\begin{array}{l}\\text { যোজন} \\\\ -\\operatorname{বিয়োজন}\\end{array}\\right] \\\\ \\Rightarrow & \\frac{2}{2 \\cos \\theta}=\\frac{p^{2}+1}{p^{2}-1} \\\\ = & \\sec \\theta=\\frac{p^{2}+1}{p^{2}-1}\\end{aligned} ⇒ ⇒ ⇒ ⇒ ⇒ ⇒ ⇒ = ​ cot θ + cosec θ = p sin θ cos θ ​ + sin θ 1 ​ = p ( sin θ cos θ + 1 ​ ) 2 = p 2 sin 2 θ ( cos θ + 1 ) 2 ​ = p 2 ( 1 + cos θ ) ( 1 − cos θ ) 2 ( cos θ + 1 ) 2 ​ = p 2 ​ sin 2 θ = 1 − cos 2 θ = ( 1 + cos θ ) ⋅ ( 1 ) − cos θ ) ​ 1 − cos θ cos θ + 1 ​ = p 2 cos θ + 1 − 1 + cos θ cos θ + 1 + 1 − cos θ ​ = p 2 − 1 p 2 + 1 ​ [   যোজন − বিয়োজন ​ ] 2 cos θ 2 ​ = p 2 − 1 p 2 + 1 ​ sec θ = p 2 − 1 p 2 + 1 ​ ​"
+    },
+    {
+      "number": "14",
+      "tag": "JB 24",
+      "question": "ABC ত্রিভুজের মধ্যমাগুলোর বর্গের সমষ্টি কত বর্গসেমি ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "507",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "253.5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "216",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "112.67",
+          "is_correct": false
+        }
+      ],
+      "option_a": "507",
+      "option_b": "253.5",
+      "option_c": "216",
+      "option_d": "112.67",
+      "correct": "ক",
+      "explanation": "∴ A B C \\therefore \\mathrm{ABC} ∴ ABC ত্রিভুজের মধ্যমাত্রয়ের বর্গের সমষ্টি = 3 2 × B C 2 = 3 2 × 13 2 =\\frac{3}{2} \\times \\mathrm{BC}^{2}=\\frac{3}{2} \\times 13^{2} = 2 3 ​ × BC 2 = 2 3 ​ × 1 3 2 = 253.5 =253.5 = 253.5 বর্গ সে.মি."
+    },
+    {
+      "number": "15",
+      "tag": "JB 24,RCPC 24",
+      "question": "x a = y , y b = z x^{a}=y, y^{b}=z x a = y , y b = z এবং z c = x z^{c}=x z c = x হলে ‘abc' এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-1",
+      "option_b": "0",
+      "option_c": "1",
+      "option_d": "10",
+      "correct": "ক",
+      "explanation": "x a = y … … ( 1 ) y b = z … … ( 2 ) z c = x … … … ( 3 ) \\begin{array}{l} x^{a}=y……(1) \\\\ y^{b}=z ……(2)\\\\ z^{c}=x………(3) \\end{array} x a = y …… ( 1 ) y b = z …… ( 2 ) z c = x ……… ( 3 ) ​ (1) থেকে y = x a y=x^{a} y = x a কে (2) এ বসিয়ে: ( x a ) b = z ⟹ x a b = z x a b = z  কে (3) এ বসিয়ে:  ( x a b ) c = x ⟹ x a b c = x 1 \\begin{array}{c} \\left(x^{a}\\right)^{b}=z \\Longrightarrow x^{a b}=z \\\\ x^{a b}=z \\text { কে (3) এ বসিয়ে: } \\\\ \\left(x^{a b}\\right)^{c}=x \\Longrightarrow x^{a b c}=x^{1} \\end{array} ( x a ) b = z ⟹ x ab = z x ab = z   কে  (3)  এ   বসিয়ে :  ( x ab ) c = x ⟹ x ab c = x 1 ​ সূচক তুলনা করে: a b c = 1 a b c=1 ab c = 1"
+    },
+    {
+      "number": "16",
+      "tag": "JB 24,BB 24,JCC 24,CSCD 24,SCC 24,BAFSC 24,MC 24,RB 23,SB 23,CB 22,SB 22,CTG.B 20,BB 20,CB 19,SB 19,BB 19,ACC 24",
+      "question": "একটি ব্যাগে 6টি কালো, ১টি লাল এবং ৪টি সাদা বল আছে। দৈবচয়নে একটি বল তোলা হলে বলটি কালো না হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 11 \\frac{5}{11} 11 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 19 \\frac{6}{19} 19 6 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8 19 \\frac{8}{19} 19 8 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "13 19 \\frac{13}{19} 19 13 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 11 \\frac{5}{11} 11 5 ​",
+      "option_b": "6 19 \\frac{6}{19} 19 6 ​",
+      "option_c": "8 19 \\frac{8}{19} 19 8 ​",
+      "option_d": "13 19 \\frac{13}{19} 19 13 ​",
+      "correct": "খ",
+      "explanation": "মোট বল সংখ্যা = 6 + 1 + 4 = 11 = 6+1+4=11 = 6 + 1 + 4 = 11 কালো বল সংখ্যা = 6 = 6 = 6 কালো না হওয়া = = = সাদা বা লাল = 1 + 4 = 5 = 1+4=5 = 1 + 4 = 5 সম্ভাব্যতা: 5 11 \\frac{5}{11} 11 5 ​"
+    },
+    {
+      "number": "17",
+      "tag": "JB 24,BB 24,JCC 24,CSCD 24,SCC 24,BAFSC 24,MC 24,RB 23,SB 23,CB 22,SB 22,CTG.B 20,BB 20,CB 19,SB 19,BB 19,ACC 24",
+      "question": "একটি ব্যাগে 6টি কালো, ১টি লাল এবং ৪টি সাদা বল আছে। দৈবচয়নে একটি বল তোলা হলে বলটি কালো না হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 11 \\frac{5}{11} 11 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 19 \\frac{6}{19} 19 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 19 \\frac{8}{19} 19 8 ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "13 19 \\frac{13}{19} 19 13 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 11 \\frac{5}{11} 11 5 ​",
+      "option_b": "6 19 \\frac{6}{19} 19 6 ​",
+      "option_c": "8 19 \\frac{8}{19} 19 8 ​",
+      "option_d": "13 19 \\frac{13}{19} 19 13 ​",
+      "correct": "গ",
+      "explanation": "মোট বল সংখ্যা = 6 + 1 + 4 = 11 = 6+1+4=11 = 6 + 1 + 4 = 11 কালো বল সংখ্যা = 6 = 6 = 6 কালো না হওয়া = = = সাদা বা লাল = 1 + 4 = 5 = 1+4=5 = 1 + 4 = 5 সম্ভাব্যতা: 5 11 \\frac{5}{11} 11 5 ​"
+    },
+    {
+      "number": "18",
+      "tag": "JB 24,RCPC 24,BB 20,All.B 18",
+      "question": "S = { ( x , y ) : x 2 + y 2 − 36 = 0 } S=\\left\\{(x, y): x^{2}+y^{2}-36=0\\right\\} S = { ( x , y ) : x 2 + y 2 − 36 = 0 } হলে - i. অন্বয়টি ফাংশন নয় ii. অন্বয়টির লেখচিত্র একটি বৃত্ত iii. অন্বয়টির লেখচিত্র y অক্ষকে ( 6, 0 ) বিন্দুতে ছেদ করেছে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. অন্বয়টি ফাংশন নয় একটি ফাংশন হওয়ার জন্য প্রতিটি x x x -এর জন্য একটি মাত্র y y y মান থাকতে হবে। কিন্তু বৃত্তের সমীকরণে, x x x -এর একটি মানের জন্য সাধারণত দুটি y y y মান পাওয়া যায় (যেমন: x = 0 x=0 x = 0 হলে y = ± 6 y= \\pm 6 y = ± 6 )। সঠিক ii. অন্বয়টির লেখচিত্র একটি বৃত্ত প্রদত্ত সমীকরণ x 2 + y 2 = 36 x^{2}+y^{2}=36 x 2 + y 2 = 36 একটি বৃত্তের সমীকরণ, কেন্দ্র ( 0 , 0 ) (0,0) ( 0 , 0 ) এবং ব্যাসার্ধ 6 । সঠিক iii. অন্বয়টির লেখচিত্র y y y -অক্ষকে ( 6 , 0 ) (6,0) ( 6 , 0 ) বিন্দুতে ছেদ করেছে y y y -অক্ষের উপর অবস্থিত বিন্দুর x x x -স্থানাঙ্ক শূন্য হয়। তাই x = 0 x=0 x = 0 বসিয়ে পাই: 0 2 + y 2 = 36 ⟹ y = ± 6 0^{2}+y^{2}=36 \\Longrightarrow y= \\pm 6 0 2 + y 2 = 36 ⟹ y = ± 6 অর্থাৎ, y y y -অক্ষকে ছেদ করে ( 0 , 6 ) (0,6) ( 0 , 6 ) এবং ( 0 , − 6 ) (0,-6) ( 0 , − 6 ) বিন্দুতে। ( 6 , 0 ) (6,0) ( 6 , 0 ) বিন্দুটি x x x -অক্ষের উপর অবস্থিত, যা x 2 + y 2 = 36 x^{2}+y^{2}=36 x 2 + y 2 = 36 সমীকরণকে সিদ্ধ করে, কিন্তু এটি y y y -অক্ষকে ছেদ করে না। ভুল"
+    },
+    {
+      "number": "19",
+      "tag": "CB 23,MB 22,SB 22,JB 22,MB 21,BB 20,JB 19,All.B 18",
+      "question": "x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটি- i. সমমাত্রিক ii. চক্রক্রমিক iii. প্রতিসম নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "ii ও iii",
+      "option_c": "i ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "প্রদত্ত রাশি: x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) x\\left(y^{2}-z^{2}\\right)+y\\left(z^{2}-x^{2}\\right)+z\\left(x^{2}-y^{2}\\right) x ( y 2 − z 2 ) + y ( z 2 − x 2 ) + z ( x 2 − y 2 ) রাশিটিকে প্রসারিত করে সরলীকরণ প্রথমে প্রতিতি বন্ধনীকে প্রসারিত করি: = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 =x y^{2}-x z^{2}+y z^{2}-y x^{2}+z x^{2}-z y^{2} = x y 2 − x z 2 + y z 2 − y x 2 + z x 2 − z y 2 পদগুলিকে পুনর্বিন্যাস করি: = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 =-x^{2} y+x y^{2}-y^{2} z+y z^{2}-z^{2} x+z x^{2} = − x 2 y + x y 2 − y 2 z + y z 2 − z 2 x + z x 2 এখন, আমরা লক্ষ্য করি যে এটি একটি চক্রক্রমিক রাশি, কারণ x , y x, y x , y , এবং z z z কে চক্রাকারে পরিবর্তন করলে রাশির গঠন অপরিবর্তিত থাকে। উদাহরণস্বরূপ: x → y , y → z , z → x x \\rightarrow y, y \\rightarrow z, z \\rightarrow x x → y , y → z , z → x প্রতিস্থাপন করলে: − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 -y^{2} z+y z^{2}-z^{2} x+z x^{2}-x^{2} y+x y^{2} − y 2 z + y z 2 − z 2 x + z x 2 − x 2 y + x y 2 যা মূল রাশির সমান। সমমাত্রিকতা পরীক্ষা প্রর্তিটি পদের মোট ঘাত (ডিগ্রি) গণনা করি: − x 2 y : 2 + 1 = 3 -x^{2} y: 2+1=3 − x 2 y : 2 + 1 = 3 x y 2 : 1 + 2 = 3 x y^{2}: 1+2=3 x y 2 : 1 + 2 = 3 − y 2 z : 2 + 1 = 3 -y^{2} z: 2+1=3 − y 2 z : 2 + 1 = 3 y z 2 : 1 + 2 = 3 y z^{2}: 1+2=3 y z 2 : 1 + 2 = 3 − z 2 x : 2 + 1 = 3 -z^{2} x: 2+1=3 − z 2 x : 2 + 1 = 3 সকল পদের ডিগ্রি 3, তাই রাশিটি সমমাত্রিক । প্রতিসমতা পরীক্ষা রাশিটি প্রতিসম (Symmetric) নয়, কারণ যেকোনো দুটি চলক অদলবদল করলে রাশিটি অপরিবর্তিত থাকে না। উদাহরণস্বরূপ: x x x ও y y y অদলবদল করলে: y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) y\\left(x^{2}-z^{2}\\right)+x\\left(z^{2}-y^{2}\\right)+z\\left(y^{2}-x^{2}\\right) y ( x 2 − z 2 ) + x ( z 2 − y 2 ) + z ( y 2 − x 2 ) যা মূল রাশির সমান নয়। সঠিক উত্তর: রাশিটি সমমাত্রিক এবং চক্রক্রমিক, কিন্তু প্রতিসম নয়। ∴ i \\therefore \\mathbf{i} ∴ i ও ii সঠিক।"
+    },
+    {
+      "number": "20",
+      "tag": "CB 23,DB 22",
+      "question": "( x + 1 x 2 ) 6 \\left(x+\\frac{1}{x^{2}}\\right)^{6} ( x + x 2 1 ​ ) 6 একটি দ্বিপদী রাশি। রাশিটির বিস্তৃতিতে x 3 x^{3} x 3 এর সহগ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "6",
+      "option_c": "15",
+      "option_d": "18",
+      "correct": "ক",
+      "explanation": "আমরা দ্বিপদী রাশিটির বিস্তৃতি করতে পারি বিটা থিওরেম ব্যবহার করে। এখানে দ্বিপদী রাশিটি হল ( x + 1 x 2 ) 6 \\left(x+\\frac{1}{x^{2}}\\right)^{6} ( x + x 2 1 ​ ) 6 । এই বিস্তৃতিতে সাধারণ পদটি হলঃ T r + 1 = ( 6 r ) ( x ) 6 − r ( 1 x 2 ) r T_{r+1} = \\binom{6}{r} \\left(x\\right)^{6-r} \\left(\\frac{1}{x^2}\\right)^{r} T r + 1 ​ = ( r 6 ​ ) ( x ) 6 − r ( x 2 1 ​ ) r এখানে, এই সাধারণ পদটি মনে রাখতে হবে যেখানে T r + 1 T_{r+1} T r + 1 ​ পদের শক্তি x 3 x^3 x 3 অনুযায়ী সূচ্য আসে। x 6 − r ⋅ x − 2 r = x 3 x^{6-r} \\cdot x^{-2r} = x^{3} x 6 − r ⋅ x − 2 r = x 3 এখন, এটি সমাধান করলে পাই: 6 − r − 2 r = 3   6 − 3 r = 3   3 r = 3   r = 1 6 - r - 2r = 3 \\ 6 - 3r = 3 \\ 3r = 3 \\ r = 1 6 − r − 2 r = 3   6 − 3 r = 3   3 r = 3   r = 1 তাহলে, r = 1 r = 1 r = 1 হলে, x 3 x^3 x 3 এর সহগ পাওয়া যাবে। তাই T r + 1 T_{r+1} T r + 1 ​ এর সহগ হল: T 2 = ( 6 1 ) ( x ) 5 ( 1 x 2 ) = ( 6 1 ) ⋅ x 3 = 6 ⋅ x 3 T_{2} = \\binom{6}{1} \\left(x\\right)^{5} \\left(\\frac{1}{x^2}\\right) = \\binom{6}{1} \\cdot x^3 = 6 \\cdot x^3 T 2 ​ = ( 1 6 ​ ) ( x ) 5 ( x 2 1 ​ ) = ( 1 6 ​ ) ⋅ x 3 = 6 ⋅ x 3 তাহলে, x 3 x^3 x 3 এর সহগ হল 6। সঠিক উত্তর হল 6 ।"
+    },
+    {
+      "number": "21",
+      "tag": "JB 24",
+      "question": "2x + y = 11 একটি সরলরেখার সমীকরণ । i. সরলরেখার ঢাল -1/2 ii. x-অক্ষের ধনাত্মক দিকের সহিত সরলরেখাটি স্থূলকোণ উৎপন্ন করে iii. সরলরেখাটির y-অক্ষের ছেদাংশ 11 একক নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "a x + b y = c a x+b y=c a x + b y = c সরলরেখার ঢাল = − a b =-\\frac{a}{b} = − b a ​ ∴ 2 x + y = 11 \\therefore 2 x+y=11 ∴ 2 x + y = 11 সরলরেখার ঢাল = − 2 1 = − 2 =-\\frac{2}{1}=-2 = − 1 2 ​ = − 2 ∴ \\therefore ∴ (i) নং তথ্যটি সঠিক নয়।"
+    },
+    {
+      "number": "22",
+      "tag": "JB 24",
+      "question": "2x + y = 11 একটি সরলরেখার সমীকরণ । সরলরেখাটির উপর P(a, 3) বিন্দুটি অবস্থিত হলে, মূলবিন্দু হতে P বিন্দুর দূরত্ব কত একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "11",
+      "option_b": "5",
+      "option_c": "4",
+      "option_d": "3",
+      "correct": "খ",
+      "explanation": "প্রদত্ত রেখা: 2 x + y = 11 2x + y = 11 2 x + y = 11 P ( a , 3 ) P(a, 3) P ( a , 3 ) বিন্দুটি রেখার উপর অবস্থিত। বিন্দুটি সমীকরণে বসাই: 2 a + 3 = 11 2a + 3 = 11 2 a + 3 = 11 2 a = 8 2a = 8 2 a = 8 a = 4 a = 4 a = 4 সুতরাং P = ( 4 , 3 ) P = (4,3) P = ( 4 , 3 ) মূলবিন্দু ( 0 , 0 ) (0,0) ( 0 , 0 ) থেকে P P P এর দূরত্ব: ( 4 − 0 ) 2 + ( 3 − 0 ) 2 = 16 + 9 = 25 = 5 \\sqrt{(4-0)^2 + (3-0)^2} = \\sqrt{16 + 9} = \\sqrt{25} = 5 ( 4 − 0 ) 2 + ( 3 − 0 ) 2 ​ = 16 + 9 ​ = 25 ​ = 5"
+    },
+    {
+      "number": "24",
+      "tag": "CTG.B 25,JB 24,GLHSD 24,RCS 24,ACC 24",
+      "question": "A, B, C এর অবস্থান ভেক্টর a, b, c C যদি AB এর মধ্যবিন্দু হয়, তাহলে-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "c ‾ = 1 2 ( a ‾ + b ‾ ) \\underline{\\mathrm{c}}=\\frac{1}{2}(\\underline{\\mathrm{a}}+\\underline{b}) c ​ = 2 1 ​ ( a ​ + b ​ )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "c = 3 ( a − b ) \\mathrm{c}=3(\\mathrm{a}-\\mathrm{b}) c = 3 ( a − b )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "c ‾ = 2 ( a ‾ + b ‾ ) \\underline{c}=2(\\underline{a}+\\underline{b}) c ​ = 2 ( a ​ + b ​ )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "C = 1 2 ( a ‾ − b ‾ ) \\underset{\\mathrm{}}{\\mathrm{C}}=\\frac{1}{2}(\\underline{\\mathrm{a}}-\\underline{\\mathrm{b}}) C ​ = 2 1 ​ ( a ​ − b ​ )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "c ‾ = 1 2 ( a ‾ + b ‾ ) \\underline{\\mathrm{c}}=\\frac{1}{2}(\\underline{\\mathrm{a}}+\\underline{b}) c ​ = 2 1 ​ ( a ​ + b ​ )",
+      "option_b": "c = 3 ( a − b ) \\mathrm{c}=3(\\mathrm{a}-\\mathrm{b}) c = 3 ( a − b )",
+      "option_c": "c ‾ = 2 ( a ‾ + b ‾ ) \\underline{c}=2(\\underline{a}+\\underline{b}) c ​ = 2 ( a ​ + b ​ )",
+      "option_d": "C = 1 2 ( a ‾ − b ‾ ) \\underset{\\mathrm{}}{\\mathrm{C}}=\\frac{1}{2}(\\underline{\\mathrm{a}}-\\underline{\\mathrm{b}}) C ​ = 2 1 ​ ( a ​ − b ​ )",
+      "correct": "ক",
+      "explanation": "A বিন্দুর অবস্থান ভেক্টর  = a B  বিন্দুর অবস্থান ভেক্টর  = b \\begin{aligned} \\text { A বিন্দুর অবস্থান ভেক্টর } & =a \\\\ B \\text { বিন্দুর অবস্থান ভেক্টর } & =b \\end{aligned}  A  বিন্দুর   অবস্থান   ভেক্টর   B   বিন্দুর   অবস্থান   ভেক্টর   ​ = a = b ​ C C C বিন্দুতে A , B 1 : 1 A, B \\quad 1: 1 A , B 1 : 1 অনুপাতে অন্তর্বিভক্ত হয়। ∴ C  বিন্দুর অবস্থান ভেক্টর  = b × 1 + 1 × a 1 + 1 = b + a 2 = a + b 2 = 1 2 ( a ‾ + b ‾ ) \\begin{aligned} \\therefore C \\text { বিন্দুর অবস্থান ভেক্টর } & =\\frac{b \\times 1+1 \\times a}{1+1} \\\\ & =\\frac{b+a}{2} \\\\ & =\\frac{a+b}{2} \\\\ & =\\frac{1}{2}(\\underline{a}+\\underline{b}) \\end{aligned} ∴ C   বিন্দুর   অবস্থান   ভেক্টর   ​ = 1 + 1 b × 1 + 1 × a ​ = 2 b + a ​ = 2 a + b ​ = 2 1 ​ ( a ​ + b ​ ) ​"
+    },
+    {
+      "number": "25",
+      "tag": "JB 24,CPSCR 24",
+      "question": "একটি গোলকের ব্যাস 4r একক হলে এর আয়তন কত ঘন একক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 3 π r 3 \\frac{2}{3} \\pi r^{3} 3 2 ​ π r 3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "8 3 π r 3 \\frac{8}{3} \\pi r^{3} 3 8 ​ π r 3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4 π r 3 4 \\pi r^{3} 4 π r 3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "32 3 π r 3 \\frac{32}{3} \\pi r^{3} 3 32 ​ π r 3",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 3 π r 3 \\frac{2}{3} \\pi r^{3} 3 2 ​ π r 3",
+      "option_b": "8 3 π r 3 \\frac{8}{3} \\pi r^{3} 3 8 ​ π r 3",
+      "option_c": "4 π r 3 4 \\pi r^{3} 4 π r 3",
+      "option_d": "32 3 π r 3 \\frac{32}{3} \\pi r^{3} 3 32 ​ π r 3",
+      "correct": "ঘ",
+      "explanation": "প্রদত্ত: - গোলকের ব্যাস, d = 4 r d=4 r d = 4 r একক ∴ \\therefore ∴ ব্যাসার্ধ, R = d 2 = 2 r R=\\frac{d}{2}=2 r R = 2 d ​ = 2 r একক গোলকের আয়তনের সূত্র: V = 4 3 π R 3 V=\\frac{4}{3} \\pi R^{3} V = 3 4 ​ π R 3 গণনা: V = 4 3 π ( 2 r ) 3 = 4 3 π × 8 r 3 = 32 3 π r 3  ঘন একক  V=\\frac{4}{3} \\pi(2 r)^{3}=\\frac{4}{3} \\pi \\times 8 r^{3}=\\frac{32}{3} \\pi r^{3} \\text { ঘন একক } V = 3 4 ​ π ( 2 r ) 3 = 3 4 ​ π × 8 r 3 = 3 32 ​ π r 3   ঘন   একক"
+    }
+  ]
+}

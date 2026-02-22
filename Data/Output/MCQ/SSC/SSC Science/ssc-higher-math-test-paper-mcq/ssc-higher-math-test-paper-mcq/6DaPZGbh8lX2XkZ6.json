@@ -1,0 +1,832 @@
+{
+  "read_id": "6DaPZGbh8lX2XkZ6",
+  "title": "সিলেট ক্যাডেট কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "SCC 24",
+      "question": "যদি U = { a , b , 1 , 2 , 3 } , A = { a , b } , B = { 1 , 3 } \\mathrm{U}=\\{\\mathrm{a}, \\mathrm{b}, 1,2,3\\}, \\mathrm{A}=\\{\\mathrm{a}, \\mathrm{b}\\}, \\mathrm{B}=\\{1,3\\} U = { a , b , 1 , 2 , 3 } , A = { a , b } , B = { 1 , 3 } , C = { 2 ; 3 } C=\\{2 ; 3\\} C = { 2 ; 3 } হয় তবে A \\ ( B ∩ C ) = A \\backslash(B \\cap C)= A \\ ( B ∩ C ) = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ a , b } \\{\\mathrm{a}, \\mathrm{b}\\} { a , b }",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "{ 2 , 3 } \\{2,3\\} { 2 , 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ a , 3 } \\{\\mathrm{a}, 3\\} { a , 3 }",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "{ b , 3 } \\{b, 3\\} { b , 3 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ a , b } \\{\\mathrm{a}, \\mathrm{b}\\} { a , b }",
+      "option_b": "{ 2 , 3 } \\{2,3\\} { 2 , 3 }",
+      "option_c": "{ a , 3 } \\{\\mathrm{a}, 3\\} { a , 3 }",
+      "option_d": "{ b , 3 } \\{b, 3\\} { b , 3 }",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "2",
+      "tag": "SCC 24",
+      "question": "সার্বিক সেট U এর যেকোনো উপসেট A ও B এর জন্য- i. A \\ B ⊂ A ∪ B A \\backslash B \\subset A \\cup B A \\ B ⊂ A ∪ B ii. A ′ \\ B ′ = B \\ A A^{\\prime} \\backslash B^{\\prime}=B \\backslash A A ′ \\ B ′ = B \\ A iii. A \\ B ⊂ A \\mathrm{A\\backslash B} \\subset \\mathrm{A} A\\B ⊂ A নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "3",
+      "tag": "SCC 24",
+      "question": "যদি f ( x ) = x + 3 3 x − 1 f(x)=\\frac{x+3}{3 x-1} f ( x ) = 3 x − 1 x + 3 ​ হয়, তবে f − 1 ( 2 ) f^{-1}(2) f − 1 ( 2 ) এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "3",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": "Shortcut:  f ( x ) = a x + b c x − d  হলে,  f − 1 ( x ) = d x + b c x − a f ( x ) = x + 3 3 x − 1  হলে,  f − 1 ( x ) = x + 3 3 x − 1 ∴ f − 1 ( 2 ) = 2 + 3 3 × 2 − 1 = 5 5 = 1 \\begin{array}{l}\\text { Shortcut: } f(x)=\\frac{a x+b}{c x-d} \\text { হলে, } f^{-1}(x)=\\frac{d x+b}{c x-a} \\\\ f(x)=\\frac{x+3}{3 x-1} \\text { হলে, } f^{-1}(x)=\\frac{x+3}{3 x-1} \\\\ \\therefore f^{-1}(2)=\\frac{2+3}{3 \\times 2-1}=\\frac{5}{5}=1\\end{array}  Shortcut:  f ( x ) = c x − d a x + b ​   হলে ,  f − 1 ( x ) = c x − a d x + b ​ f ( x ) = 3 x − 1 x + 3 ​   হলে ,  f − 1 ( x ) = 3 x − 1 x + 3 ​ ∴ f − 1 ( 2 ) = 3 × 2 − 1 2 + 3 ​ = 5 5 ​ = 1 ​"
+    },
+    {
+      "number": "4",
+      "tag": "SCC 24",
+      "question": "নিচের কোনটি এক-এক ফাংশন নয়?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "f ( x ) = 5 x − 7 f(x)=5 x-7 f ( x ) = 5 x − 7",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "f ( x ) = ∣ x ∣ f(x)=|x| f ( x ) = ∣ x ∣",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "f ( x ) = log ⁡ ( 2 x + 3 ) f(x)=\\log (2 x+3) f ( x ) = lo g ( 2 x + 3 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "f ( x ) = e x f(x)=e^{x} f ( x ) = e x",
+          "is_correct": false
+        }
+      ],
+      "option_a": "f ( x ) = 5 x − 7 f(x)=5 x-7 f ( x ) = 5 x − 7",
+      "option_b": "f ( x ) = ∣ x ∣ f(x)=|x| f ( x ) = ∣ x ∣",
+      "option_c": "f ( x ) = log ⁡ ( 2 x + 3 ) f(x)=\\log (2 x+3) f ( x ) = lo g ( 2 x + 3 )",
+      "option_d": "f ( x ) = e x f(x)=e^{x} f ( x ) = e x",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "5",
+      "tag": "SCC 24",
+      "question": "a 3 + 3 a 2 + 4 a + 3 b a^{3}+3 a^{2}+4 a+3 b a 3 + 3 a 2 + 4 a + 3 b এর একটি উৎপাদক ( a + 3 ) (a+3) ( a + 3 ) হলে b = b= b = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "4",
+      "option_c": "5",
+      "option_d": "6",
+      "correct": "খ",
+      "explanation": "ধরি, f ( a ) = a 3 + 3 a 2 + 4 a + 3   b f(\\mathrm{a})=\\mathrm{a}^{3}+3 \\mathrm{a}^{2}+4 \\mathrm{a}+3 \\mathrm{~b} f ( a ) = a 3 + 3 a 2 + 4 a + 3   b এর একটি উৎপাদক ( a + 3 ) (\\mathrm{a}+3) ( a + 3 ) শর্তমতে, f ( − 3 ) = 0 f(-3)=0 f ( − 3 ) = 0 বা, ( − 3 ) 3 + 3 × ( − 3 ) 2 + 4 × ( − 3 ) + 3   b = 0 (-3)^{3}+3 \\times(-3)^{2}+4 \\times(-3)+3 \\mathrm{~b}=0 ( − 3 ) 3 + 3 × ( − 3 ) 2 + 4 × ( − 3 ) + 3   b = 0 বা, − 27 + 27 − 12 + 3 b = 0 ∴ b = 4 -27+27-12+3 b=0 \\quad \\therefore b=4 − 27 + 27 − 12 + 3 b = 0 ∴ b = 4"
+    },
+    {
+      "number": "6",
+      "tag": "SCC 24",
+      "question": "একটি ছক্কা একবার নিক্ষেপে 2 দ্বারা বিভাজ্য সংখ্যা পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 8 \\frac{1}{8} 8 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 4 \\frac{1}{4} 4 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 3 \\frac{1}{3} 3 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1 2 \\frac{1}{2} 2 1 ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "1 8 \\frac{1}{8} 8 1 ​",
+      "option_b": "1 4 \\frac{1}{4} 4 1 ​",
+      "option_c": "1 3 \\frac{1}{3} 3 1 ​",
+      "option_d": "1 2 \\frac{1}{2} 2 1 ​",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "SCC 24",
+      "question": "নিচের তথ্যগুলো লক্ষ কর— i. ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ এর পরিব্যাসার্ধের অর্ধেক ii. যদি ABC ত্রিভুজের AD মধ্যমা BC বাহুকে সমদ্বিখন্ডিত করে তাহলে A B 2 + A C 2 = 2 ( A D 2 + B D 2 ) A B^{2}+A C^{2}=2\\left(A D^{2}+B D^{2}\\right) A B 2 + A C 2 = 2 ( A D 2 + B D 2 ) iii. আয়ত ও বর্গ সমান কোণ বিশিষ্ট হলেও সদৃশ নয় নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "8",
+      "tag": "SCC 24",
+      "question": "O কেন্দ্রবিশিষ্ট বৃত্তের ব্যাস 6 সে.মি. এবং O হতে বহিঃস্থ P বিন্দুর দূরত্ব 9 সে.মি. । CP এর উপর CA এর লম্ব অভিক্ষেপের মান কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "খ",
+      "explanation": "△ A O C  এ , O A ⊥ O C \\triangle \\mathrm{AOC} ~এ, \\mathrm{OA} \\perp \\mathrm{OC} △ AOC   এ , OA ⊥ OC ∴ \\therefore ∴ OP এর উপর CA এর লম্ব অভিক্ষেপ = O C = 3 =\\mathrm{OC}=3 = OC = 3 সে.মি."
+    },
+    {
+      "number": "9",
+      "tag": "SCC 24",
+      "question": "O কেন্দ্রবিশিষ্ট বৃত্তের ব্যাস 6 সে.মি. এবং O হতে বহিঃস্থ P বিন্দুর দূরত্ব 9 সে.মি. । PB এর মান কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "3 10 3 \\sqrt{10} 3 10 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "4.6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "6 2 6 \\sqrt{2} 6 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "3 10 3 \\sqrt{10} 3 10 ​",
+      "option_b": "4.6",
+      "option_c": "5",
+      "option_d": "6 2 6 \\sqrt{2} 6 2 ​",
+      "correct": "ক",
+      "explanation": "△ A O P  এ,  P B 2 = O P 2 + O B 2 = 9 2 + 3 2 = 90  সুতরাং  P A = 3 10  সে.মি.  \\begin{array}{l}\\triangle \\mathrm{AOP} \\text { এ, } \\mathrm{PB}^{2}=\\mathrm{OP}^{2}+\\mathrm{OB}^{2}=9^{2}+3^{2}=90 \\\\ \\text { সুতরাং } \\mathrm{PA}=3 \\sqrt{10} \\text { সে.মি. }\\end{array} △ AOP   এ ,  PB 2 = OP 2 + OB 2 = 9 2 + 3 2 = 90   সুতরাং   PA = 3 10 ​   সে . মি .  ​"
+    },
+    {
+      "number": "10",
+      "tag": "SCC 24",
+      "question": "b x 2 − 5 x + 4 = 0 b x^{2}-5 x+4=0 b x 2 − 5 x + 4 = 0 সমীকরণের নিশ্চায়ক 89 হলে b এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-4",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-4",
+      "option_b": "-2",
+      "option_c": "3",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "11",
+      "tag": "SCC 24",
+      "question": "125 729 = ( 9 5 ) y \\frac{125}{729}=\\left(\\frac{9}{5}\\right)^{y} 729 125 ​ = ( 5 9 ​ ) y হলে， y y y এর মান কত？",
+      "options": [
+        {
+          "label": "ক",
+          "text": "-3",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "option_a": "-3",
+      "option_b": "-2",
+      "option_c": "0",
+      "option_d": "5",
+      "correct": "ক",
+      "explanation": "প্রদত্ত সমীকরণ, 125 729 = ( 9 5 ) y \\frac{125}{729}=\\left(\\frac{9}{5}\\right)^{y} 729 125 ​ = ( 5 9 ​ ) y বা, ( 5 9 ) 3 = ( 9 5 ) y \\left(\\frac{5}{9}\\right)^{3}=\\left(\\frac{9}{5}\\right)^{y} ( 9 5 ​ ) 3 = ( 5 9 ​ ) y বা, ( 9 5 ) − 3 = ( 9 5 ) y ∴ y = − 3 \\left(\\frac{9}{5}\\right)^{-3}=\\left(\\frac{9}{5}\\right)^{y} \\quad \\therefore y=-3 ( 5 9 ​ ) − 3 = ( 5 9 ​ ) y ∴ y = − 3"
+    },
+    {
+      "number": "12",
+      "tag": "SCC 24",
+      "question": "y z = z y y^{z}=z^{y} y z = z y এবং y = 2 z y=2 z y = 2 z হলে ( y , z ) = (y, z)= ( y , z ) = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "( 4 , 2 ) (4,2) ( 4 , 2 )",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "( 2 , 4 ) (2,4) ( 2 , 4 )",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "( 1 , 2 ) (1,2) ( 1 , 2 )",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "( 2 , 1 ) (2,1) ( 2 , 1 )",
+          "is_correct": false
+        }
+      ],
+      "option_a": "( 4 , 2 ) (4,2) ( 4 , 2 )",
+      "option_b": "( 2 , 4 ) (2,4) ( 2 , 4 )",
+      "option_c": "( 1 , 2 ) (1,2) ( 1 , 2 )",
+      "option_d": "( 2 , 1 ) (2,1) ( 2 , 1 )",
+      "correct": "ক",
+      "explanation": "y z = z y y^{z}=z^{y} y z = z y বা, ( 2 z ) z = z 2 z (2 z)^{z}=z^{2 z} ( 2 z ) z = z 2 z বা, 2 z × z z = z 2 Z 2^{z} \\times z^{z}=z^{2 Z} 2 z × z z = z 2 Z  বা,  z 2 Z z Z = 2 Z  বা,  z 2 Z − Z = 2 Z  বা,  z Z = 2 Z ∴ z = 2 z = 2  হলে,  y = 2 × 2 = 4 ∴ ( y , z ) = ( 4 , 2 ) \\begin{array}{l}\\text { বা, } \\frac{z^{2 Z}}{z^{Z}}=2^{Z} \\text { বা, } z^{2 Z-Z}=2^{Z} \\text { বা, } z^{Z}=2^{Z} \\therefore z=2 \\\\ z=2 \\text { হলে, } y=2 \\times 2=4 \\quad \\therefore(y, z)=(4,2)\\end{array}   বা ,  z Z z 2 Z ​ = 2 Z   বা ,  z 2 Z − Z = 2 Z   বা ,  z Z = 2 Z ∴ z = 2 z = 2   হলে ,  y = 2 × 2 = 4 ∴ ( y , z ) = ( 4 , 2 ) ​"
+    },
+    {
+      "number": "13",
+      "tag": "SCC 24,RB 23,CB 22",
+      "question": "5 x − 1 ( x + 3 ) ( x − 5 ) \\frac{5 x-1}{(x+3)(x-5)} ( x + 3 ) ( x − 5 ) 5 x − 1 ​ এর অংশিক ভগ্নাংশ নিচের কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 x + 3 + 3 x − 5 \\frac{2}{x+3}+\\frac{3}{x-5} x + 3 2 ​ + x − 5 3 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1 x + 3 + 4 x − 5 \\frac{1}{x+3}+\\frac{4}{x-5} x + 3 1 ​ + x − 5 4 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "3 x + 3 − 5 x − 5 \\frac{3}{x+3}-\\frac{5}{x-5} x + 3 3 ​ − x − 5 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 x + 3 − 3 x − 5 \\frac{5}{x+3}-\\frac{3}{x-5} x + 3 5 ​ − x − 5 3 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 x + 3 + 3 x − 5 \\frac{2}{x+3}+\\frac{3}{x-5} x + 3 2 ​ + x − 5 3 ​",
+      "option_b": "1 x + 3 + 4 x − 5 \\frac{1}{x+3}+\\frac{4}{x-5} x + 3 1 ​ + x − 5 4 ​",
+      "option_c": "3 x + 3 − 5 x − 5 \\frac{3}{x+3}-\\frac{5}{x-5} x + 3 3 ​ − x − 5 5 ​",
+      "option_d": "5 x + 3 − 3 x − 5 \\frac{5}{x+3}-\\frac{3}{x-5} x + 3 5 ​ − x − 5 3 ​",
+      "correct": "ক",
+      "explanation": "5 x − 1 ( x + 3 ) ( x − 5 ) ≡ 5 × ( − 3 ) − 1 ( x + 3 ) ( − 3 − 5 ) + 5 × 5 − 1 ( 5 + 3 ) ( x − 5 ) [  cover up rule  ] = − 16 − 8 ( x + 3 ) + 24 8 ( x − 5 ) = 2 x + 3 + 3 x − 5 \\begin{aligned} \\frac{5 x-1}{(x+3)(x-5)} & \\equiv \\frac{5 \\times(-3)-1}{(x+3)(-3-5)}+\\frac{5 \\times 5-1}{(5+3)(x-5)}[\\text { cover up rule }] \\\\ & =\\frac{-16}{-8(x+3)}+\\frac{24}{8(x-5)}=\\frac{2}{x+3}+\\frac{3}{x-5}\\end{aligned} ( x + 3 ) ( x − 5 ) 5 x − 1 ​ ​ ≡ ( x + 3 ) ( − 3 − 5 ) 5 × ( − 3 ) − 1 ​ + ( 5 + 3 ) ( x − 5 ) 5 × 5 − 1 ​ [  cover up rule  ] = − 8 ( x + 3 ) − 16 ​ + 8 ( x − 5 ) 24 ​ = x + 3 2 ​ + x − 5 3 ​ ​"
+    },
+    {
+      "number": "14",
+      "tag": "JB 24,BB 24,JCC 24,CSCD 24,SCC 24,BAFSC 24,MC 24,RB 23,SB 23,CB 22,SB 22,CTG.B 20,BB 20,CB 19,SB 19,BB 19,ACC 24",
+      "question": "একটি ব্যাগে 6টি কালো, ১টি লাল এবং ৪টি সাদা বল আছে। দৈবচয়নে একটি বল তোলা হলে বলটি কালো না হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 11 \\frac{5}{11} 11 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "6 19 \\frac{6}{19} 19 6 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8 19 \\frac{8}{19} 19 8 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "13 19 \\frac{13}{19} 19 13 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 11 \\frac{5}{11} 11 5 ​",
+      "option_b": "6 19 \\frac{6}{19} 19 6 ​",
+      "option_c": "8 19 \\frac{8}{19} 19 8 ​",
+      "option_d": "13 19 \\frac{13}{19} 19 13 ​",
+      "correct": "ক",
+      "explanation": "মোট বল সংখ্যা = 6 + 1 + 4 = 11 = 6+1+4=11 = 6 + 1 + 4 = 11 কালো বল সংখ্যা = 6 = 6 = 6 কালো না হওয়া = = = সাদা বা লাল = 1 + 4 = 5 = 1+4=5 = 1 + 4 = 5 সম্ভাব্যতা: 5 11 \\frac{5}{11} 11 5 ​"
+    },
+    {
+      "number": "15",
+      "tag": "SCC 24",
+      "question": "A(0, 1), B(-2, 3), C(6, 7) ও D(8, 3) শীর্ষবিশিষ্ট আয়তের BD কর্ণের দৈর্ঘ্য কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8 2 8 \\sqrt{2} 8 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5 2 5 \\sqrt{2} 5 2 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5",
+      "option_b": "10",
+      "option_c": "8 2 8 \\sqrt{2} 8 2 ​",
+      "option_d": "5 2 5 \\sqrt{2} 5 2 ​",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "16",
+      "tag": "SCC 24",
+      "question": "△ A B C \\triangle \\mathrm{ABC} △ ABC এর শীর্ষত্রয় A ( 2 , 0 ) , B ( 0 , 4 ) \\mathrm{A}(2,0), \\mathrm{B}(0,4) A ( 2 , 0 ) , B ( 0 , 4 ) ও C ( 1 , 2 ) \\mathrm{C}(1,2) C ( 1 , 2 ) হলে— i. A বিন্দুটি x অক্ষের উপর অবস্থিত ii. AB = 20 একক iii. B বিন্দুটি y অক্ষের উপর অবস্থিত নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "A B = ( 2 − 0 ) 2 + ( 0 − 4 ) 2 = 4 + 16 = 20 \\mathrm{AB}=\\sqrt{(2-0)^{2}+(0-4)^{2}}=\\sqrt{4+16}=\\sqrt{20} AB = ( 2 − 0 ) 2 + ( 0 − 4 ) 2 ​ = 4 + 16 ​ = 20 ​ একক ∴ \\therefore ∴ (ii) নং তথ্যটি সঠিক নয়।"
+    },
+    {
+      "number": "17",
+      "tag": "SCC 24",
+      "question": "একটি ঘনকের পৃষ্ঠতলের ক্ষেত্রফল 294 বর্গ একক হলে এর বাহুর দৈর্ঘ্য কত একক? -",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4.5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5.6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4.5",
+      "option_b": "5.6",
+      "option_c": "6",
+      "option_d": "7",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "18",
+      "tag": "SCC 24",
+      "question": "1 + 1 3 + 1 9 + 1 27 + ⋯ … 1+\\frac{1}{3}+\\frac{1}{9}+\\frac{1}{27}+\\cdots \\ldots 1 + 3 1 ​ + 9 1 ​ + 27 1 ​ + ⋯… i. একটি গুণোত্তর ধারা ii. ধারাটির অসীমতক সমষ্টি বিদ্যমান iii. ধারাটির সাধারণ পদ = 1 3 n − 1 =\\frac{1}{3^{n-1}} = 3 n − 1 1 ​ নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": ""
+    },
+    {
+      "number": "19",
+      "tag": "SCC 24",
+      "question": "একজন শিক্ষার্থী 7 টাকা দরে xটি কলম ও 15 টাকা দরে (x + 6)টি বই কিনল। যদি মোট খরচ 178 টাকার কম না হয় তবে সে অন্তত কতটি বই কিনেছিল?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "6",
+      "option_c": "8",
+      "option_d": "10",
+      "correct": "ঘ",
+      "explanation": "7 টাকা দরে xটি কলমের মোট মূল্য = 7x টাকা 15 টাকা দরে (x + 6)টি বইয়ের মোট মূল্য = 15 × ( x + 6) = 15x + 90 টাকা শর্তমতে, 7 x + 15 x + 90 ≥ 178 7 x+15 x+90 \\geq 178 7 x + 15 x + 90 ≥ 178 বা, 22 x + 90 ≥ 178 22 x+90 \\geq 178 22 x + 90 ≥ 178 বা, 22 x ≥ 88 22 x \\geq 88 22 x ≥ 88 বা, x ≥ 4 ∴ x + 6 ≥ 10 x \\geq 4 \\therefore x+6 \\geq 10 x ≥ 4 ∴ x + 6 ≥ 10 : ∴ \\therefore ∴ অন্তত 10 টি বই কিনেছিল।"
+    },
+    {
+      "number": "20",
+      "tag": "SCC 24",
+      "question": "চিত্রে, AB পাহাড়টি O বিন্দুতে θ \\theta θ কোণ উৎপন্ন করে। যদি θ = 6 \\theta=6 θ = 6 এ এবং r = 600 r=600 r = 600 হয় তবে পাহাড়টির উচ্চতা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.05",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1.1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1.7",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1.54",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.05",
+      "option_b": "1.1",
+      "option_c": "1.7",
+      "option_d": "1.54",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "21",
+      "tag": "SCC 24",
+      "question": "চিত্রে, AB পাহাড়টি O বিন্দুতে θ \\theta θ কোণ উৎপন্ন করে। r = 7   c m \\mathrm{r}=7 \\mathrm{~cm} r = 7   cm এবং A B = 9   c m \\mathrm{AB}=9 \\mathrm{~cm} AB = 9   cm হলে θ \\theta θ কোণের বৃত্তীয় পরিমাপ কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1.57",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1.29",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "1.39",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "1.47",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1.57",
+      "option_b": "1.29",
+      "option_c": "1.39",
+      "option_d": "1.47",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "22",
+      "tag": "SCC 24",
+      "question": "sin ⁡ ( π 2 − θ ) = 1 2 \\sin \\left(\\frac{\\pi}{2}-\\theta\\right)=\\frac{1}{\\sqrt{2}} sin ( 2 π ​ − θ ) = 2 ​ 1 ​ হলে sec ⁡ 2 θ \\sec ^{2} \\theta sec 2 θ এর মান কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 \\sqrt{2} 2 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3 \\sqrt{3} 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "option_a": "2 \\sqrt{2} 2 ​",
+      "option_b": "3 \\sqrt{3} 3 ​",
+      "option_c": "2",
+      "option_d": "3",
+      "correct": "গ",
+      "explanation": ""
+    },
+    {
+      "number": "23",
+      "tag": "SCC 24",
+      "question": "log ⁡ a ( a a 3 a 3 ) =  কত?  \\log _{a}(a \\sqrt[3]{a} \\sqrt[3]{a})=\\text { কত? } lo g a ​ ( a 3 a ​ 3 a ​ ) =   কত ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "− 5 6 -\\frac{5}{6} − 6 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5 3 \\frac{5}{3} 3 5 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "3 2 \\frac{3}{2} 2 3 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "7 2 \\frac{7}{2} 2 7 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "− 5 6 -\\frac{5}{6} − 6 5 ​",
+      "option_b": "5 3 \\frac{5}{3} 3 5 ​",
+      "option_c": "3 2 \\frac{3}{2} 2 3 ​",
+      "option_d": "7 2 \\frac{7}{2} 2 7 ​",
+      "correct": "খ",
+      "explanation": "log ⁡ a a a 3 a 3 = log ⁡ a ( a × a 1 3 × a 1 3 ) = log ⁡ a a ( 1 + 1 3 + 1 3 ) = log ⁡ a a 5 3 = 5 3 log ⁡ a a = 5 3 \\log _{a} a \\sqrt[3]{a} \\sqrt[3]{a}=\\log _{a}\\left(a \\times a^{\\frac{1}{3}} \\times a^{\\frac{1}{3}}\\right)=\\log _{a} a^{\\left(1+\\frac{1}{3}+\\frac{1}{3}\\right)}=\\log _{a} a^{\\frac{5}{3}}=\\frac{5}{3} \\log _{a} a=\\frac{5}{3} lo g a ​ a 3 a ​ 3 a ​ = lo g a ​ ( a × a 3 1 ​ × a 3 1 ​ ) = lo g a ​ a ( 1 + 3 1 ​ + 3 1 ​ ) = lo g a ​ a 3 5 ​ = 3 5 ​ lo g a ​ a = 3 5 ​"
+    },
+    {
+      "number": "24",
+      "tag": "SCC 24",
+      "question": "( 1 + x 2 2 ) 3 \\left(1+\\frac{x^{2}}{2}\\right)^{3} ( 1 + 2 x 2 ​ ) 3 এর বিস্তৃতিতে কোনটির় সহগ শূন্য?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x x x",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x 2 x^{2} x 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 4 \\mathrm{x}^{4} x 4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 6 x^{6} x 6",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x x x",
+      "option_b": "x 2 x^{2} x 2",
+      "option_c": "x 4 \\mathrm{x}^{4} x 4",
+      "option_d": "x 6 x^{6} x 6",
+      "correct": "ক",
+      "explanation": ""
+    },
+    {
+      "number": "25",
+      "tag": "SCC 24",
+      "question": "PP  → \\overrightarrow{\\text { PP }}  PP  কীরূপ ভেক্টর?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "একক ভেক্টর",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "শূন্য ভেক্টর",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "বিপরীত ভেক্টর",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "অবস্থান ভেক্টর",
+          "is_correct": false
+        }
+      ],
+      "option_a": "একক ভেক্টর",
+      "option_b": "শূন্য ভেক্টর",
+      "option_c": "বিপরীত ভেক্টর",
+      "option_d": "অবস্থান ভেক্টর",
+      "correct": "খ",
+      "explanation": ""
+    }
+  ]
+}

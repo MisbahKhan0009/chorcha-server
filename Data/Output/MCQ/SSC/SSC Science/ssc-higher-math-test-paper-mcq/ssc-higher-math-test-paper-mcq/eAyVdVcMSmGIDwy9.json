@@ -1,0 +1,832 @@
+{
+  "read_id": "eAyVdVcMSmGIDwy9",
+  "title": "ঝিনাইদহ ক্যাডেট কলেজ ২০২৪",
+  "count": 25,
+  "questions": [
+    {
+      "number": "1",
+      "tag": "JCC 24,RCS 24",
+      "question": "যদি A = { x : x ∈ N , 8 < 2 x < 17 } \\mathrm{A}=\\{\\mathrm{x}: \\mathrm{x} \\in \\mathbb{N}, 8<2 \\mathrm{x}<17 \\} A = { x : x ∈ N , 8 < 2 x < 17 } হয়, তবে P ( A ) \\mathrm{P}(\\mathrm{A}) P ( A ) এর, উপাদান সংখ্যা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "16",
+          "is_correct": true
+        }
+      ],
+      "option_a": "4",
+      "option_b": "5",
+      "option_c": "15",
+      "option_d": "16",
+      "correct": "ঘ",
+      "explanation": "অসমতাটি সমাধান করে প্রাকৃতিক সংখ্যা x x x -এর মান বের করি: যেহেতু x x x একটি প্রাকৃতিক সংখ্যা (N), তাই x x x -এর সম্ভাব্য মান: x = 5 , 6 , 7 , 8 x=5,6,7,8 x = 5 , 6 , 7 , 8 সুতরাং, A = { 5 , 6 , 7 , 8 } A=\\{5,6,7,8\\} A = { 5 , 6 , 7 , 8 } P ( A ) P(A) P ( A ) হলো A A A -এর সমস্ত উপসেটের সেট। যদি একটি সেটের উপাদান সংখ্যা n n n হয়, তবে তার পাওয়ার সেটের উপাদান সংখ্যা 2 n 2^{n} 2 n । এখানে, A A A -এর উপাদান সংখ্যা: n = 4 n=4 n = 4 অতএব, ∣ P ( A ) ∣ = 2 4 = 16 |P(A)|=2^{4}=16 ∣ P ( A ) ∣ = 2 4 = 16"
+    },
+    {
+      "number": "2",
+      "tag": "CTG.B 24,JCC 24,VNSC 24,CPSCM 24",
+      "question": "সার্বিক সেট U এর উপসেট A, B এবং C হলে- i. ( A ∪ B ) ′ = A ′ ∩ B ′ (A \\cup B)^{\\prime}=A^{\\prime} \\cap B^{\\prime} ( A ∪ B ) ′ = A ′ ∩ B ′ ii: ( A ∩ B ) ′ = A ′ ∩ B ′ (\\mathrm{A} \\cap \\mathrm{B})^{\\prime}=\\mathrm{A}^{\\prime} \\cap \\mathrm{B}^{\\prime} ( A ∩ B ) ′ = A ′ ∩ B ′ iii. A ∪ ( B ∩ C ) = ( A ∪ B ) ∩ ( A ∪ C ) A \\cup(B \\cap C)=(A \\cup B) \\cap(A \\cup C) A ∪ ( B ∩ C ) = ( A ∪ B ) ∩ ( A ∪ C ) নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "i. ( A ∪ B ) ′ = A ′ ∩ B ′ (A \\cup B)^{\\prime}=A^{\\prime} \\cap B^{\\prime} ( A ∪ B ) ′ = A ′ ∩ B ′ এটি ডি মরগানের প্রথম সূত্র। এটি সঠিক, কারণ: - ( A ∪ B ) ′ (A \\cup B)^{\\prime} ( A ∪ B ) ′ অর্থ হলো A A A অথবা B B B -এর কোনোটিই নয়, যা A ′ A^{\\prime} A ′ এবং B ′ B^{\\prime} B ′ উভয়েরই অংশ হতে হবে। সুতরাং, ( A ∪ B ) ′ = A ′ ∩ B ′ (A \\cup B)^{\\prime}=A^{\\prime} \\cap B^{\\prime} ( A ∪ B ) ′ = A ′ ∩ B ′ . ii. ( A ∩ B ) ′ = A ′ ∩ B ′ (A \\cap B)^{\\prime}=A^{\\prime} \\cap B^{\\prime} ( A ∩ B ) ′ = A ′ ∩ B ′ এটি ভুল, কারণ সঠিক ডি মরগানের দ্বিতীয় সৃত্র হলো: - ( A ∩ B ) ′ = A ′ ∪ B ′ (A \\cap B)^{\\prime}=A^{\\prime} \\cup B^{\\prime} ( A ∩ B ) ′ = A ′ ∪ B ′ . অর্থাৎ, A A A এবং B B B -এর ছেদের পৃরক সেট হলো A A A -এর পৃরক এবং B B B -এর পৃরকের সংযুক্ত সেট। iii. A ∪ ( B ∩ C ) = ( A ∪ B ) ∩ ( A ∪ C ) A \\cup(B \\cap C)=(A \\cup B) \\cap(A \\cup C) A ∪ ( B ∩ C ) = ( A ∪ B ) ∩ ( A ∪ C ) এটি সেটের বিচ্ছেদ নিয়ম (Distributive Law) এবং এটি সঠিক। এটি নিম্নরপেে প্রমাণ করা যায়: - A ∪ ( B ∩ C ) A \\cup(B \\cap C) A ∪ ( B ∩ C ) হলো সেই সকল উপাদান যা A A A -তে আছে অথবা B B B এবং C C C -এর উভয়েই আছে। - ( A ∪ B ) ∩ ( A ∪ C ) (A \\cup B) \\cap(A \\cup C) ( A ∪ B ) ∩ ( A ∪ C ) হলো সেই সকল উপাদান যা A ∪ B A \\cup B A ∪ B -তে আছে এবং A ∪ C A \\cup C A ∪ C -তেও আছে, অর্থাৎ A A A -তে আছে অথবা B B B এবং C C C -এর উভয়েই আছে। সঠিক উত্তর: i ও iii"
+    },
+    {
+      "number": "3",
+      "tag": "CB 20,SB 20,JB 20,DB 19,CB 19,DIN.B 19,CTG.B 19,SB 19,BB 19,ACC 24",
+      "question": "f ( x ) = 4 − 2 x f(\\mathbf{x})=\\sqrt{4-2 \\mathrm{x}} f ( x ) = 4 − 2 x ​ এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+      "option_b": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+      "option_c": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+      "option_d": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+      "correct": "গ",
+      "explanation": "f ( x ) = 4 − 2 x f(x) = \\sqrt{4-2x} f ( x ) = 4 − 2 x ​ বর্গমূলের ভিতরের রাশি অঋণাত্মক হতে হবে: 4 − 2 x ≥ 0 4-2x \\ge 0 4 − 2 x ≥ 0 − 2 x ≥ − 4 -2x \\ge -4 − 2 x ≥ − 4 x ≤ 2 x \\le 2 x ≤ 2 তাই ডোমেন: { x ∈ R ∣ x ≤ 2 } \\{x \\in \\mathbb{R} \\mid x \\le 2\\} { x ∈ R ∣ x ≤ 2 } ইন্টারভাল আকারে: ( − ∞ , 2 ] (-\\infty, 2] ( − ∞ , 2 ]"
+    },
+    {
+      "number": "4",
+      "tag": "JCC 24",
+      "question": "P ( x ) = p x 2 + q x + r  এবং  p + q + r = 0 \\mathbf{P}(\\mathbf{x})=\\mathbf{p} \\mathbf{x}^{2}+\\mathbf{q x}+\\mathbf{r} \\text { এবং } \\mathbf{p}+\\mathbf{q}+\\mathbf{r}=\\mathbf{0} P ( x ) = p x 2 + qx + r   এবং   p + q + r = 0 হলে, নিচের কোনটি P ( x ) \\mathbf{P ( x )} P ( x ) এর একটি উৎপাদক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x - p",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x - q",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x - r",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x - 1",
+          "is_correct": true
+        }
+      ],
+      "option_a": "x - p",
+      "option_b": "x - q",
+      "option_c": "x - r",
+      "option_d": "x - 1",
+      "correct": "ঘ",
+      "explanation": "উৎপাদক উপপাদ্য অনুসারে, যদি ( x − a ) (x-a) ( x − a ) বহুপদী P ( x ) P(x) P ( x ) এর একটি উৎপাদক হয়, তবে P ( a ) = 0 P(a)=0 P ( a ) = 0 হবে। এখানে, a = 1 a=1 a = 1 বসিয়ে পাই: P ( 1 ) = p ( 1 ) 2 + q ( 1 ) + r = p + q + r = 0  (প্রদত্ত শর্ত অনুযায়ী)  P(1)=p(1)^{2}+q(1)+r=p+q+r=0 \\quad \\text { (প্রদত্ত শর্ত অনুযায়ী) } P ( 1 ) = p ( 1 ) 2 + q ( 1 ) + r = p + q + r = 0  ( প্রদত্ত   শর্ত   অনুযায়ী )  সুতরাং, ( x − 1 ) (x-1) ( x − 1 ) হলো P ( x ) P(x) P ( x ) এর একটি উৎপাদক।"
+    },
+    {
+      "number": "5",
+      "tag": "JCC 24",
+      "question": "একটি ত্রিভুজের তিন বাহুর দৈর্ঘ্য 6 সে.মি., ৪ সে.মি. ও 10 সে.মি. । ত্রিভুজটির পরিব্যাসের দৈর্ঘ্য কত সে.মি.?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10",
+          "is_correct": true
+        }
+      ],
+      "option_a": "5",
+      "option_b": "6",
+      "option_c": "8",
+      "option_d": "10",
+      "correct": "ঘ",
+      "explanation": "ত্রিভুজটি সমকোণী। সমকোণী ত্রিভুজের পরিব্যাস অতিভুজের অর্ধেক সমান। ∴ পরিব্যাসার = 10 cm."
+    },
+    {
+      "number": "6",
+      "tag": "JCC 24",
+      "question": "একটি ত্রিভুজের তিন বাহুর দৈর্ঘ্য 6 সে.মি., 8 সে.মি. ও 10 সে.মি. । ত্রিভুজটির- i. ক্ষেত্রফল 24 বৰ্গ সে.মি. ii. পরিবৃত্তের ক্ষেত্রফল 100 π 100 \\pi 100 π বর্গ সে.মি. iii. অন্তবৃত্তের ক্ষেত্রফল 4 π 4 \\pi 4 π বর্গ সে.মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": ""
+    },
+    {
+      "number": "7",
+      "tag": "JCC 24",
+      "question": "নিচের কোন সমীকরণটির মূলগুলো মূলদ?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x 2 − 4 x + 3 = 0 x^{2}-4 x+3=0 x 2 − 4 x + 3 = 0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "x 2 + 4 x − 3 = 0 x^{2}+4 x-3=0 x 2 + 4 x − 3 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 − 4 x + 4 = 0 x^{2}-4 x+4=0 x 2 − 4 x + 4 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "x 2 − 3 x + 4 = 0 x^{2}-3 x+4=0 x 2 − 3 x + 4 = 0",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x 2 − 4 x + 3 = 0 x^{2}-4 x+3=0 x 2 − 4 x + 3 = 0",
+      "option_b": "x 2 + 4 x − 3 = 0 x^{2}+4 x-3=0 x 2 + 4 x − 3 = 0",
+      "option_c": "x 2 − 4 x + 4 = 0 x^{2}-4 x+4=0 x 2 − 4 x + 4 = 0",
+      "option_d": "x 2 − 3 x + 4 = 0 x^{2}-3 x+4=0 x 2 − 3 x + 4 = 0",
+      "correct": "ক",
+      "explanation": "যাচাইয়ের পদ্ধতি: 1. বৈষম্যকারী ( D ) (D) ( D ) গণনা করুন। 2. যাচাই করুন যে D D D একটি পূর্ণ বর্গ সংখ্যা কিনা (যেমন: 1 , 4 , 9 , 16 , … ) । 1,4,9,16, \\ldots) । 1 , 4 , 9 , 16 , … ) । - যদি হ্যাঁ হয়, তবে মূলগুলি মূলদ। - যদি না হয়, তবে মূলগুলি অমূলদ। প্রদত্ত সমীকরণের জন্য গণনা: - এখানে, a = 1 , b = − 4 , c = 3 a=1, b=-4, c=3 a = 1 , b = − 4 , c = 3 । - বৈষম্যকারী: D = ( − 4 ) 2 − 4 ⋅ 1 ⋅ 3 = 16 − 12 = 4 D=(-4)^{2}-4 \\cdot 1 \\cdot 3=16-12=4 D = ( − 4 ) 2 − 4 ⋅ 1 ⋅ 3 = 16 − 12 = 4 - 4 একটি পৃর্ণ বর্গ সংখ্যা ( 2 2 ) । \\left(2^{2}\\right) । ( 2 2 ) । মূলের প্রকৃতি: যেহেতু D = 4 > 0 D=4>0 D = 4 > 0 এবং পৃর্ণ বর্গ, তাই: 1. মূলদ্বয় বাস্তব ও অসমান। 2. মূলগুলি মূলদ।"
+    },
+    {
+      "number": "8",
+      "tag": "CB 20,CTG.B 20,SB 20,JB 20,DB 19,RB 19,CB 19,DIN.B 19,SB 19,BB 19,All.B 18,ACC 24",
+      "question": "β = 7 π 2 \\beta=\\frac{7 \\pi}{2} β = 2 7 π ​ হলে- i. cos ⁡ ( β − π 6 ) = − 1 2 \\cos \\left(\\beta-\\frac{\\pi}{6}\\right)=-\\frac{1}{2} cos ( β − 6 π ​ ) = − 2 1 ​ ii. cosec ⁡ ( β − π 3 ) = − 2 \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=-2 cosec ( β − 3 π ​ ) = − 2 iii. tan ⁡ ( β − π 4 ) = − 1 \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=-1 tan ( β − 4 π ​ ) = − 1 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "বিবৃতি i: cos ⁡ ( β − π 6 ) = cos ⁡ ( 3 π 2 − π 6 ) = cos ⁡ ( 9 π 6 − π 6 ) = cos ⁡ ( 8 π 6 ) = cos ⁡ ( 4 π 3 ) cos ⁡ ( 4 π 3 ) = − 1 2  (কারণ  4 π 3 তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক)  \\begin{aligned} \\cos \\left(\\beta-\\frac{\\pi}{6}\\right) & =\\cos \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{9 \\pi}{6}-\\frac{\\pi}{6}\\right)=\\cos \\left(\\frac{8 \\pi}{6}\\right)=\\cos \\left(\\frac{4 \\pi}{3}\\right) \\\\ \\cos \\left(\\frac{4 \\pi}{3}\\right) & =-\\frac{1}{2} \\quad \\text { (কারণ } \\frac{4 \\pi}{3} \\text {তৃতীয়চতুর্ভাগে এবং কোসাইন ঋণাত্মক) } \\end{aligned} cos ( β − 6 π ​ ) cos ( 3 4 π ​ ) ​ = cos ( 2 3 π ​ − 6 π ​ ) = cos ( 6 9 π ​ − 6 π ​ ) = cos ( 6 8 π ​ ) = cos ( 3 4 π ​ ) = − 2 1 ​  ( কারণ   3 4 π ​ তৃতীয়চতুর্ভাগে   এবং   কোসাইন   ঋণাত্মক )  ​ সঠিক। বিবৃতি ii: cosec ⁡ ( β − π 3 ) = cosec ⁡ ( 3 π 2 − π 3 ) = cosec ⁡ ( 9 π 6 − 2 π 6 ) = cosec ⁡ ( 7 π 6 ) sin ⁡ ( 7 π 6 ) = − 1 2 ⟹ cosec ⁡ ( 7 π 6 ) = 1 sin ⁡ ( 7 π 6 ) = − 2 \\begin{array}{c} \\operatorname{cosec}\\left(\\beta-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{3}\\right)=\\operatorname{cosec}\\left(\\frac{9 \\pi}{6}-\\frac{2 \\pi}{6}\\right)=\\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right) \\\\ \\sin \\left(\\frac{7 \\pi}{6}\\right)=-\\frac{1}{2} \\Longrightarrow \\operatorname{cosec}\\left(\\frac{7 \\pi}{6}\\right)=\\frac{1}{\\sin \\left(\\frac{7 \\pi}{6}\\right)}=-2 \\end{array} cosec ( β − 3 π ​ ) = cosec ( 2 3 π ​ − 3 π ​ ) = cosec ( 6 9 π ​ − 6 2 π ​ ) = cosec ( 6 7 π ​ ) sin ( 6 7 π ​ ) = − 2 1 ​ ⟹ cosec ( 6 7 π ​ ) = s i n ( 6 7 π ​ ) 1 ​ = − 2 ​ সঠিক। বিবৃতি iii: tan ⁡ ( β − π 4 ) = tan ⁡ ( 3 π 2 − π 4 ) = tan ⁡ ( 6 π 4 − π 4 ) = tan ⁡ ( 5 π 4 ) tan ⁡ ( 5 π 4 ) = tan ⁡ ( π + π 4 ) = tan ⁡ ( π 4 ) = 1 (  কারণ ট্যানজেন্টের পর্যায়  π ) \\begin{array}{c} \\tan \\left(\\beta-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{3 \\pi}{2}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{6 \\pi}{4}-\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{5 \\pi}{4}\\right) \\\\ \\tan \\left(\\frac{5 \\pi}{4}\\right)=\\tan \\left(\\pi+\\frac{\\pi}{4}\\right)=\\tan \\left(\\frac{\\pi}{4}\\right)=1 \\quad(\\text { কারণ ট্যানজেন্টের পর্যায় } \\pi) \\end{array} tan ( β − 4 π ​ ) = tan ( 2 3 π ​ − 4 π ​ ) = tan ( 4 6 π ​ − 4 π ​ ) = tan ( 4 5 π ​ ) tan ( 4 5 π ​ ) = tan ( π + 4 π ​ ) = tan ( 4 π ​ ) = 1 (   কারণ   ট্যানজেন্টের   পর্যায়   π ) ​ ভুল (প্রদত্ত মান -1 এর পরিবর্তে ফলাফল 1)।"
+    },
+    {
+      "number": "9",
+      "tag": "JCC 24",
+      "question": "θ \\theta θ সুক্ষকোণ হলে- i. sin ⁡ ( n π + θ ) = sin ⁡ θ \\sin (n \\pi+\\theta)=\\sin \\theta sin ( nπ + θ ) = sin θ , যখন n n n জোড় সংখ্যা ii. tan ⁡ ( n π + θ ) = tan ⁡ θ \\tan (n \\pi+\\theta)=\\tan \\theta tan ( nπ + θ ) = tan θ , যখন n ∈ N n \\in N n ∈ N iii. cos ⁡ ( n π − θ ) = cos ⁡ θ \\cos (\\mathrm{n} \\pi-\\theta)=\\cos \\theta cos ( n π − θ ) = cos θ , যখন n বিজোড় সংখ্যা নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "(i) n n n জোড় হলে ( n π + θ ) (n \\pi+\\theta) ( nπ + θ ) এর অবস্থান ১ম চতুর্ভাগে ∴ sin ⁡ ( n π + θ ) = sin ⁡ θ \\therefore \\sin (n \\pi+\\theta)=\\sin \\theta ∴ sin ( nπ + θ ) = sin θ (ii) n ∈ N n \\in N n ∈ N এর জন্য ( n π + θ ) (n \\pi+\\theta) ( nπ + θ ) এর অবস্থান ১ম এবং ৩য় চতুর্ভাগে হতে পারে ∴ tan ⁡ ( n x + θ ) = tan ⁡ θ \\therefore \\tan (n x+\\theta)=\\tan \\theta ∴ tan ( n x + θ ) = tan θ (iii) n বিজোড় হলে ( n π − θ ) (n \\pi-\\theta) ( nπ − θ ) এর অবস্থান ২য় চতুর্ভাগে ∴ cos ⁡ ( n π − θ ) = − cos ⁡ θ \\therefore \\cos (n \\pi-\\theta)=-\\cos \\theta ∴ cos ( nπ − θ ) = − cos θ ."
+    },
+    {
+      "number": "10",
+      "tag": "JCC 24",
+      "question": "দ্বিঘাত সমীকরণের একটি মূল 1 + 3 1+\\sqrt{3} 1 + 3 ​ হলে, সমীকরণটি-",
+      "options": [
+        {
+          "label": "ক",
+          "text": "x 2 − 2 x + 2 = 0 x^{2}-2 x+2=0 x 2 − 2 x + 2 = 0",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "x 2 + 2 x + 2 x^{2}+2 x+2 x 2 + 2 x + 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "x 2 − 2 x − 2 x^{2}-2 x-2 x 2 − 2 x − 2",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "x 2 − 2 3 x − 2 x^{2}-2 \\sqrt{3} x-2 x 2 − 2 3 ​ x − 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "x 2 − 2 x + 2 = 0 x^{2}-2 x+2=0 x 2 − 2 x + 2 = 0",
+      "option_b": "x 2 + 2 x + 2 x^{2}+2 x+2 x 2 + 2 x + 2",
+      "option_c": "x 2 − 2 x − 2 x^{2}-2 x-2 x 2 − 2 x − 2",
+      "option_d": "x 2 − 2 3 x − 2 x^{2}-2 \\sqrt{3} x-2 x 2 − 2 3 ​ x − 2",
+      "correct": "গ",
+      "explanation": "যেহেতু মূলগুলো একটি বাস্তব সমীকরণ থেকে এসেছে, r 2 = 1 − 3 r_{2}=1-\\sqrt{3} r 2 ​ = 1 − 3 ​ , কারণ সমীকরণে মূলগুলো জোড়ায় জোড়ায় থাকে। ধাপ ২: মুলগুলোর সমস্তি এবং গুণফল নির্ণয় r 1 + r 2 = ( 1 + 3 ) + ( 1 − 3 ) = 2 r_{1}+r_{2}=(1+\\sqrt{3})+(1-\\sqrt{3})=2 r 1 ​ + r 2 ​ = ( 1 + 3 ​ ) + ( 1 − 3 ​ ) = 2 r 1 × r 2 = ( 1 + 3 ) ( 1 − 3 ) = 1 2 − ( 3 ) 2 = 1 − 3 = − 2 r_{1} \\times r_{2}=(1+\\sqrt{3})(1-\\sqrt{3})=1^{2}-(\\sqrt{3})^{2}=1-3=-2 r 1 ​ × r 2 ​ = ( 1 + 3 ​ ) ( 1 − 3 ​ ) = 1 2 − ( 3 ​ ) 2 = 1 − 3 = − 2 দ্বিঘাত সমীকরণটি ইবে: x 2 − ( r 1 + r 2 ) x + r 1 r 2 = 0 x 2 − 2 x − 2 = 0 \\begin{array}{c} x^{2}-\\left(r_{1}+r_{2}\\right) x+r_{1} r_{2}=0 \\\\ x^{2}-2 x-2=0 \\end{array} x 2 − ( r 1 ​ + r 2 ​ ) x + r 1 ​ r 2 ​ = 0 x 2 − 2 x − 2 = 0 ​"
+    },
+    {
+      "number": "11",
+      "tag": "CB 23,SB 23,BB 23,DIN.B 21,SB 21,JB 21,ACC 24",
+      "question": "− 3 -\\sqrt{3} − 3 ​ ঢালবিশিষ্ট সরলরেখাটি x x x অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণে উৎপন্ন করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "300 ∘ 300^{\\circ} 30 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "150 ∘ 150^{\\circ} 15 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "300 ∘ 300^{\\circ} 30 0 ∘",
+      "option_b": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_c": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_d": "150 ∘ 150^{\\circ} 15 0 ∘",
+      "correct": "গ",
+      "explanation": "tan ⁡ θ = m \\tan \\theta=m tan θ = m m = − 3 m=-\\sqrt{3} m = − 3 ​ এখন, tan ⁡ θ = − 3 ⇒ θ = tan ⁡ − 1 ( − 3 ) \\tan \\theta=-\\sqrt{3} \\Rightarrow \\theta=\\tan ^{-1}(-\\sqrt{3}) tan θ = − 3 ​ ⇒ θ = tan − 1 ( − 3 ​ ) tan ⁡ 60 ∘ = 3 ⇒ tan ⁡ − 1 ( 3 ) = 60 ∘ ⇒ tan ⁡ − 1 ( − 3 ) = − 60 ∘ \\tan 60^{\\circ}=\\sqrt{3} \\Rightarrow \\tan ^{-1}(\\sqrt{3})=60^{\\circ} \\Rightarrow \\tan ^{-1}(-\\sqrt{3})=-60^{\\circ} tan 6 0 ∘ = 3 ​ ⇒ tan − 1 ( 3 ​ ) = 6 0 ∘ ⇒ tan − 1 ( − 3 ​ ) = − 6 0 ∘ এখানে − 60 ∘ -60^{\\circ} − 6 0 ∘ অর্থ হলো রেখাটি x x x -অক্ষের ধনাপ্মক দিকের নিচের দিকে 60 ∘ 60^{\\circ} 6 0 ∘ কোণে নিচের দিকে যাচ্ছে। কিত্ত রেখাটি x x x -অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ বলতে বোবানো হয় ধনাত্মক কোণ, অর্থাৎ: θ = 180 ∘ − 60 ∘ = 120 ∘ \\theta=180^{\\circ}-60^{\\circ}=120^{\\circ} θ = 18 0 ∘ − 6 0 ∘ = 12 0 ∘"
+    },
+    {
+      "number": "12",
+      "tag": "CB 23,SB 23,BB 23,DIN.B 21,SB 21,JB 21,ACC 24",
+      "question": "− 3 -\\sqrt{3} − 3 ​ ঢালবিশিষ্ট সরলরেখাটি x x x অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণে উৎপন্ন করে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "300 ∘ 300^{\\circ} 30 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "60 ∘ 60^{\\circ} 6 0 ∘",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "120 ∘ 120^{\\circ} 12 0 ∘",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "150 ∘ 150^{\\circ} 15 0 ∘",
+          "is_correct": false
+        }
+      ],
+      "option_a": "300 ∘ 300^{\\circ} 30 0 ∘",
+      "option_b": "60 ∘ 60^{\\circ} 6 0 ∘",
+      "option_c": "120 ∘ 120^{\\circ} 12 0 ∘",
+      "option_d": "150 ∘ 150^{\\circ} 15 0 ∘",
+      "correct": "গ",
+      "explanation": "tan ⁡ θ = m \\tan \\theta=m tan θ = m m = − 3 m=-\\sqrt{3} m = − 3 ​ এখন, tan ⁡ θ = − 3 ⇒ θ = tan ⁡ − 1 ( − 3 ) \\tan \\theta=-\\sqrt{3} \\Rightarrow \\theta=\\tan ^{-1}(-\\sqrt{3}) tan θ = − 3 ​ ⇒ θ = tan − 1 ( − 3 ​ ) tan ⁡ 60 ∘ = 3 ⇒ tan ⁡ − 1 ( 3 ) = 60 ∘ ⇒ tan ⁡ − 1 ( − 3 ) = − 60 ∘ \\tan 60^{\\circ}=\\sqrt{3} \\Rightarrow \\tan ^{-1}(\\sqrt{3})=60^{\\circ} \\Rightarrow \\tan ^{-1}(-\\sqrt{3})=-60^{\\circ} tan 6 0 ∘ = 3 ​ ⇒ tan − 1 ( 3 ​ ) = 6 0 ∘ ⇒ tan − 1 ( − 3 ​ ) = − 6 0 ∘ এখানে − 60 ∘ -60^{\\circ} − 6 0 ∘ অর্থ হলো রেখাটি x x x -অক্ষের ধনাপ্মক দিকের নিচের দিকে 60 ∘ 60^{\\circ} 6 0 ∘ কোণে নিচের দিকে যাচ্ছে। কিত্ত রেখাটি x x x -অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ বলতে বোবানো হয় ধনাত্মক কোণ, অর্থাৎ: θ = 180 ∘ − 60 ∘ = 120 ∘ \\theta=180^{\\circ}-60^{\\circ}=120^{\\circ} θ = 18 0 ∘ − 6 0 ∘ = 12 0 ∘"
+    },
+    {
+      "number": "13",
+      "tag": "JCC 24",
+      "question": "একটি আয়তক্ষেত্রের পরিসীমা 56 মিটার এবং ক্ষেত্রফল 192 বর্গমিটার। আয়তক্ষেত্রটি কর্ণের দৈর্ঘ্য কত মিটার?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "24",
+          "is_correct": true
+        }
+      ],
+      "option_a": "12",
+      "option_b": "16",
+      "option_c": "20",
+      "option_d": "24",
+      "correct": "ঘ",
+      "explanation": "দৈর্ঘ্য  = x  প্রস্থ  = y 2 x + 2 y = 56 x + y = 28 …  (i)  x y = 192 …  (ii)  x = 28 − y x  এর মান (i) এ বসাই।  ( 28 − y ) y = 192 ⇒ 28 y − y 2 = 192 ⇒ y 2 − 28 y + 192 = 0 y = 16 , 12 y = 12 \\begin{array}{l}\\text { দৈর্ঘ্য }=x \\text { প্রস্থ }=y \\\\ 2 x+2 y=56 \\\\ x+y=28…\\text { (i) } \\\\ x y=192…\\text { (ii) } \\\\ x=28-y \\\\ x \\text { এর মান (i) এ বসাই। } \\\\ (28-y) y=192 \\\\ \\Rightarrow 28 y-y^{2}=192 \\\\ \\Rightarrow y^{2}-28 y+192=0 \\\\ y=16,12 \\\\ y=12\\end{array}   দৈর্ঘ্য   = x   প্রস্থ   = y 2 x + 2 y = 56 x + y = 28 …  (i)  x y = 192 …  (ii)  x = 28 − y x   এর   মান  (i)  এ   বসাই।   ( 28 − y ) y = 192 ⇒ 28 y − y 2 = 192 ⇒ y 2 − 28 y + 192 = 0 y = 16 , 12 y = 12 ​ y y y এর মান (i) এ বসাই, x = 28 − 12 = 16 ∴  কর্ণের দৈর্ঘ্য  = 16 2 + 12 2 = 20   m . \\begin{array}{l} x=28-12=16 \\\\ \\therefore \\text { কর্ণের দৈর্ঘ্য }=\\sqrt{16^{2}+12^{2}} \\\\ =20 \\mathrm{~m} . \\end{array} x = 28 − 12 = 16 ∴   কর্ণের   দৈর্ঘ্য   = 1 6 2 + 1 2 2 ​ = 20   m . ​"
+    },
+    {
+      "number": "14",
+      "tag": "JCC 24",
+      "question": "একটি আয়তক্ষেত্রের পরিসীমা 56 মিটার এবং ক্ষেত্রফল 192 বর্গমিটার। যদি কর্ণের উপর একটি বর্গক্ষেত্র আঁকা হয়, তবে— i. বর্গটির ক্ষেত্রফল 400 বর্গমিটার ii. বর্গটির কর্ণের দৈর্ঘ্য 20 2 20 \\sqrt{2} 20 2 ​ মিটার iii. বর্গটির পরিসীমা ৪০ মিটার নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "2 ( x + y ) = 56 x + y = 28 … . ( i ) x y = 192 … . ( i i ) ∴ x = 16. y = 12 \\begin{aligned} 2(x+y) & =56 \\\\ x+y & =28 ….(i)\\\\ x y & =192….(ii) \\\\ \\therefore x & =16 . y=12 \\end{aligned} 2 ( x + y ) x + y x y ∴ x ​ = 56 = 28 … . ( i ) = 192 … . ( ii ) = 16. y = 12 ​  কর্ণ = 16 2 + 12 2 = 20 \\text { কর্ণ}=\\sqrt{16^{2}+12^{2}}=20   কর্ণ = 1 6 2 + 1 2 2 ​ = 20 (i) বর্গের ক্ষেত্রফল = ( 20 ) 2 = 400 =(20)^{2}=400 = ( 20 ) 2 = 400 (ii) বর্গের কর্ণের দৈর্ঘ্য = 2 × 20 = 20 2 =\\sqrt{2} \\times 20=20 \\sqrt{2} = 2 ​ × 20 = 20 2 ​ (iii) পরিসীমা = 4 × 20 = 80 =4 \\times 20=80 = 4 × 20 = 80"
+    },
+    {
+      "number": "15",
+      "tag": "JCC 24",
+      "question": "log ⁡ a b × log ⁡ b c × log ⁡ c a = \\log _{\\sqrt{a}} b \\times \\log _{\\sqrt{b}} c \\times \\log _{\\sqrt{c}} a= lo g a ​ ​ b × lo g b ​ ​ c × lo g c ​ ​ a = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1",
+      "option_b": "2",
+      "option_c": "4",
+      "option_d": "8",
+      "correct": "খ",
+      "explanation": "log ⁡ a ( b ) 2 × log ⁡ b ( c ) 2 × log ⁡ b ( a ) 2 = 2 log ⁡ a b × 2 log ⁡ b c × 2 log ⁡ c a = 8 ( log ⁡ a b × log ⁡ b c ) × log ⁡ c a = 8 ( log ⁡ a c × log ⁡ c a ) = 8 log ⁡ a a = 8 × 1 = 8 \\begin{aligned} & \\log _{\\sqrt{a}}(\\sqrt{b})^{2} \\times \\log _{\\sqrt{b}}(\\sqrt{c})^{2} \\times \\log _{\\sqrt{b}}(\\sqrt{a})^{2} \\\\ = & 2 \\log _{\\sqrt{a}} \\sqrt{b} \\times 2 \\log _{\\sqrt{b}} \\sqrt{c} \\times 2 \\log _{\\sqrt{c}} \\sqrt{a} \\\\ = & 8\\left(\\log _{\\sqrt{a}} \\sqrt{b} \\times \\log _{\\sqrt{b}} \\sqrt{c}\\right) \\times \\log _{\\sqrt{c}} \\sqrt{a} \\\\ = & 8\\left(\\log _{\\sqrt{a}} \\sqrt{c} \\times \\log _{\\sqrt{c}} \\sqrt{a}\\right) \\\\ = & 8 \\log _{\\sqrt{a}} \\sqrt{a}=8 \\times 1=8\\end{aligned} = = = = ​ lo g a ​ ​ ( b ​ ) 2 × lo g b ​ ​ ( c ​ ) 2 × lo g b ​ ​ ( a ​ ) 2 2 lo g a ​ ​ b ​ × 2 lo g b ​ ​ c ​ × 2 lo g c ​ ​ a ​ 8 ( lo g a ​ ​ b ​ × lo g b ​ ​ c ​ ) × lo g c ​ ​ a ​ 8 ( lo g a ​ ​ c ​ × lo g c ​ ​ a ​ ) 8 lo g a ​ ​ a ​ = 8 × 1 = 8 ​"
+    },
+    {
+      "number": "16",
+      "tag": "JCC 24",
+      "question": "a এর মান কত হলে ( a + x ) 5 (a+x)^{5} ( a + x ) 5 এর বিস্তৃতিতে x³ এর সহগ 90 হবে?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "5",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2",
+      "option_b": "3",
+      "option_c": "4",
+      "option_d": "5",
+      "correct": "ঘ",
+      "explanation": "পদটি, T 3 + 1  তম  = 5 C 3 a 5 − 3 ⋅ x 3 = 5 × 4 × 3 3 × 2 × 1 a 2 ⋅ x 3 = 10 a 2 x 3 \\begin{array}{l} T_{3+1} \\text { তম }={ }^{5} C_{3} a^{5-3} \\cdot x^{3} \\\\ =\\frac{5 \\times 4 \\times 3}{3 \\times 2 \\times 1} a^{2} \\cdot x^{3} \\\\ =10 a^{2} x^{3} \\end{array} T 3 + 1 ​   তম   = 5 C 3 ​ a 5 − 3 ⋅ x 3 = 3 × 2 × 1 5 × 4 × 3 ​ a 2 ⋅ x 3 = 10 a 2 x 3 ​ শর্তমতে, 10 a 2 = 90 ⇒ a 2 = 90 10 = 9 a = 3 \\begin{array}{l} 10 a^{2}=90 \\\\ \\Rightarrow a^{2}=\\frac{90}{10}=9 \\\\ a=3 \\end{array} 10 a 2 = 90 ⇒ a 2 = 10 90 ​ = 9 a = 3 ​"
+    },
+    {
+      "number": "17",
+      "tag": "JCC 24",
+      "question": "( 2 + 3 x ) 20 (2+3 x)^{20} ( 2 + 3 x ) 20 এর বিস্তৃতিতে- i. পদ সংখ্যা 21 ii. মধ্যপদ 20 c 10 ( 6 x ) 10 { }^{20} c_{10}(6 x)^{10} 20 c 10 ​ ( 6 x ) 10 iii. x 3 \\mathrm{x}^{3} x 3 এর সহগ 20 c 3 ⋅ 3 3 ⋅ 2 17 { }^{20} \\mathrm{c}_{3} \\cdot 3^{3} \\cdot 2^{17} 20 c 3 ​ ⋅ 3 3 ⋅ 2 17 নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ক",
+      "explanation": "(i) পদসংখ্যা = 20 + 1 = 21 =20+1=21 = 20 + 1 = 21 (ii) মধ্যপদ 20 2 + 1 = 11 \\frac{20}{2}+1=11 2 20 ​ + 1 = 11 তম T 10 + 1 = 20 C 10 2 20 − 10 ⋅ ( 3 x ) 10 = 20 C 10 2 10 ⋅ ( 3 x ) 10 = 20 C 10 ( 6 x ) 10 \\begin{array}{l} T_{10+1}={ }^{20} C_{10} 2^{20-10} \\cdot(3 x)^{10} \\\\ ={ }^{20} C_{10} 2^{10} \\cdot(3 x)^{10} \\\\ ={ }^{20} C_{10}(6 x)^{10} \\end{array} T 10 + 1 ​ = 20 C 10 ​ 2 20 − 10 ⋅ ( 3 x ) 10 = 20 C 10 ​ 2 10 ⋅ ( 3 x ) 10 = 20 C 10 ​ ( 6 x ) 10 ​ (iii) x 3 x^{3} x 3 এর সহগ 20 C 3 .2 20 − 3 ⋅ ( 3 x ) 3 { }^{20} C_{3}. 2^{20-3} \\cdot(3 x)^{3} 20 C 3 ​ . 2 20 − 3 ⋅ ( 3 x ) 3 = 20 C 3 2 17 ⋅ 3 3 ⋅ x 3 ∴  সহগ = 20 C 3 3 3 ⋅ 2 17 \\begin{array}{l} ={ }^{20} C_{3} 2^{17} \\cdot 3^{3} \\cdot x^{3} \\\\ \\therefore \\text { সহগ}=^{20} C_{3} 3^{3} \\cdot 2^{17} \\end{array} = 20 C 3 ​ 2 17 ⋅ 3 3 ⋅ x 3 ∴   সহগ = 20 C 3 ​ 3 3 ⋅ 2 17 ​"
+    },
+    {
+      "number": "18",
+      "tag": "JCC 24,JGCC 24,ISCM 24,RB 19",
+      "question": "একটি সুষম চতুস্তলকের যে কোনো ধারের দৈর্ঘ্য 3 সে.মি. হলে, এর সমগ্রতলের ক্ষেত্রফল কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "9 3   c m 2 9 \\sqrt{3} \\mathrm{~cm}^{2} 9 3 ​   cm 2",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "9 2 3   c m 2 \\frac{9}{2} \\sqrt{3} \\mathrm{~cm}^{2} 2 9 ​ 3 ​   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "27 4   c m 2 \\frac{27}{4} \\mathrm{~cm}^{2} 4 27 ​   cm 2",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "27   c m 2 27 \\mathrm{~cm}^{2} 27   cm 2",
+          "is_correct": false
+        }
+      ],
+      "option_a": "9 3   c m 2 9 \\sqrt{3} \\mathrm{~cm}^{2} 9 3 ​   cm 2",
+      "option_b": "9 2 3   c m 2 \\frac{9}{2} \\sqrt{3} \\mathrm{~cm}^{2} 2 9 ​ 3 ​   cm 2",
+      "option_c": "27 4   c m 2 \\frac{27}{4} \\mathrm{~cm}^{2} 4 27 ​   cm 2",
+      "option_d": "27   c m 2 27 \\mathrm{~cm}^{2} 27   cm 2",
+      "correct": "ক",
+      "explanation": "সুষম চতুস্তলকের যেকোনো ধারের দৈর্ঘ্য a হলে, এর সমগ্রতলের ক্ষেত্রফল = 3 a 2 =\\sqrt{3} a^{2} = 3 ​ a 2 ∴ a = 3 \\therefore \\mathrm{a}=3 ∴ a = 3 সে.মি. হলে সমগ্রতলের ক্ষেত্রফল = 3 . ( 3 ) 2 = 9 3 {=} \\sqrt{3} .(3)^{2}=9 \\sqrt{3} = 3 ​ . ( 3 ) 2 = 9 3 ​ বর্গ সে.মি."
+    },
+    {
+      "number": "19",
+      "tag": "JCC 24",
+      "question": "একটি ঘনকের কর্ণের দৈর্ঘ্য 3 3 3 \\sqrt{3} 3 3 ​ সে.মি. হলে, এটির- i. পৃষ্ঠতলের কর্ণের দৈর্ঘ্য 3 2 3 \\sqrt{2} 3 2 ​ সে.মি. ii. আয়তন 27 ঘন সে.মি. iii. সমগ্রতলের ক্ষেত্রফল 36 বর্গ সে.মি. নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": false
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "খ",
+      "explanation": "প্রদত্ত: ঘনকের কর্ণের দৈর্ঘ্য, d = 3 3 d=3 \\sqrt{3} d = 3 3 ​ সে.মি. ঘনকের বাহুর দৈর্ঘ্য (a) নির্ণয় ঘনকের কর্ণের সূত্র: d = a 3 a 3 = 3 3 ⟹ a = 3  সে.মম.  \\begin{aligned} d & =a \\sqrt{3} \\\\ a \\sqrt{3}=3 \\sqrt{3} & \\Longrightarrow a=3 \\text { সে.মম. } \\end{aligned} d a 3 ​ = 3 3 ​ ​ = a 3 ​ ⟹ a = 3   সে . মম .  ​ পৃষ্ঠতলের কর্ণের দৈর্ঘ্য নির্ণয় পৃষ্ঠতলের কর্ণের সূত্র:  পৃষ্ঠতলের কর্ণ  = a 2 = 3 2  সে.মি.  \\text { পৃষ্ঠতলের কর্ণ }=a \\sqrt{2}=3 \\sqrt{2} \\text { সে.মি. }   পৃষ্ঠতলের   কর্ণ   = a 2 ​ = 3 2 ​   সে . মি .  বিবৃতি (i) সঠিক আয়তন নির্ণয় V = a 3 = 3 3 = 27  ঘন সে.মি.  V=a^{3}=3^{3}=27 \\text { ঘন সে.মি. } V = a 3 = 3 3 = 27   ঘন   সে . মি .  - বিবৃতি (ii) সঠিক সমগ্রতলের ক্ষেত্রফল নির্ণয়  ক্ষেত্রফল  = 6 a 2 = 6 × 3 2 = 54  বর্গ সে.মি.  \\text { ক্ষেত্রফল }=6 a^{2}=6 \\times 3^{2}=54 \\text { বর্গ সে.মি. }   ক্ষেত্রফল   = 6 a 2 = 6 × 3 2 = 54   বর্গ   সে . মি .  - বিবৃতি (iii) ভুল X \\mathbf{X} X (প্রদত্ত মান 36 , কিন্তু প্রকৃত মান 54 ) সিদ্ধান্ত: (i) 3 (ii) সঠिক।"
+    },
+    {
+      "number": "20",
+      "tag": "JCC 24",
+      "question": "10 C 0 = { }^{10} \\mathrm{C}_{0}= 10 C 0 ​ = কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "label": "খ",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "10!",
+          "is_correct": false
+        }
+      ],
+      "option_a": "0",
+      "option_b": "1",
+      "option_c": "10",
+      "option_d": "10!",
+      "correct": "ক",
+      "explanation": "10 C 0 = 1 { }^{10} C_{0}=1 10 C 0 ​ = 1"
+    },
+    {
+      "number": "21",
+      "tag": "JB 24,BB 24,JCC 24,CSCD 24,SCC 24,BAFSC 24,MC 24,RB 23,SB 23,CB 22,SB 22,CTG.B 20,BB 20,CB 19,SB 19,BB 19,ACC 24",
+      "question": "একটি ব্যাগে 6টি কালো, ১টি লাল এবং ৪টি সাদা বল আছে। দৈবচয়নে একটি বল তোলা হলে বলটি কালো না হওয়ার সম্ভাবনা কত?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "5 11 \\frac{5}{11} 11 5 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "6 19 \\frac{6}{19} 19 6 ​",
+          "is_correct": true
+        },
+        {
+          "label": "গ",
+          "text": "8 19 \\frac{8}{19} 19 8 ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "13 19 \\frac{13}{19} 19 13 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "5 11 \\frac{5}{11} 11 5 ​",
+      "option_b": "6 19 \\frac{6}{19} 19 6 ​",
+      "option_c": "8 19 \\frac{8}{19} 19 8 ​",
+      "option_d": "13 19 \\frac{13}{19} 19 13 ​",
+      "correct": "খ",
+      "explanation": "মোট বল সংখ্যা = 6 + 1 + 4 = 11 = 6+1+4=11 = 6 + 1 + 4 = 11 কালো বল সংখ্যা = 6 = 6 = 6 কালো না হওয়া = = = সাদা বা লাল = 1 + 4 = 5 = 1+4=5 = 1 + 4 = 5 সম্ভাব্যতা: 5 11 \\frac{5}{11} 11 5 ​"
+    },
+    {
+      "number": "22",
+      "tag": "JCC 24,CSCD 24",
+      "question": "0, 1, 0, 1, 0, ……. অনুক্রমের সাধারণ পদ কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "1 + ( − 1 ) 3 n − 1 2 \\frac{1+(-1)^{3 n-1}}{2} 2 1 + ( − 1 ) 3 n − 1 ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "1 + ( − 1 ) n 2 \\frac{1+(-1)^{n}}{2} 2 1 + ( − 1 ) n ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "1 − ( − 1 ) 2 n 2 \\frac{1-(-1)^{2 n}}{2} 2 1 − ( − 1 ) 2 n ​",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "1 + 1 2 n − 1 2 \\frac{1+1^{2 n-1}}{2} 2 1 + 1 2 n − 1 ​",
+          "is_correct": false
+        }
+      ],
+      "option_a": "1 + ( − 1 ) 3 n − 1 2 \\frac{1+(-1)^{3 n-1}}{2} 2 1 + ( − 1 ) 3 n − 1 ​",
+      "option_b": "1 + ( − 1 ) n 2 \\frac{1+(-1)^{n}}{2} 2 1 + ( − 1 ) n ​",
+      "option_c": "1 − ( − 1 ) 2 n 2 \\frac{1-(-1)^{2 n}}{2} 2 1 − ( − 1 ) 2 n ​",
+      "option_d": "1 + 1 2 n − 1 2 \\frac{1+1^{2 n-1}}{2} 2 1 + 1 2 n − 1 ​",
+      "correct": "গ",
+      "explanation": "প্রদত্ত অনুক্রম: 0 , 1 , 0 , 1 , 0 , … 0,1,0,1,0, \\ldots 0 , 1 , 0 , 1 , 0 , … প্যাটার্ন বিশ্লেষণ অনুক্রমটি পর্যায়ক্রমে 0 এবং 1 গ্রহণ করে: বিজোড় অবস্থানে (n বিজোড়): 0 জোড় অবস্থানে (n জোড়): 1 সাধারণ পদের সূত্র নির্ণয় একে নিম্নলিখিত উপায়ে প্রকাশ করা যায়: a n = 1 + ( − 1 ) n + 1 2 a_{n}=\\frac{1+(-1)^{n+1}}{2} a n ​ = 2 1 + ( − 1 ) n + 1 ​"
+    },
+    {
+      "number": "23",
+      "tag": "JCC 24",
+      "question": "a ‾ \\underline{\\mathbf{a}} a ​ ও b ‾ \\underline{\\mathbf{b}} b ​ ভেক্টরদ্বয় সমান্তরাল হলে, ভেক্টরদ্বয়— i. ভেক্টর যোগের সামান্তরিক বিধি মেনে চলে ii. ভেক্টর যোগের ত্রিভুজ বিধি মেনে চলে iii. ভেক্টর যোগের বিনিময় বিধি মেনে চলে নিচের কোনটি সঠিক?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "i ও ii",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "i ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "ii ও iii",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "i, ii ও iii",
+          "is_correct": true
+        }
+      ],
+      "option_a": "i ও ii",
+      "option_b": "i ও iii",
+      "option_c": "ii ও iii",
+      "option_d": "i, ii ও iii",
+      "correct": "ঘ",
+      "explanation": "a ‾ \\underline{\\mathbf{a}} a ​ ও b ‾ \\underline{\\mathbf{b}} b ​ ভেক্টরদ্বয় সমান্তরাল হলে, ভেক্টর যোগের নিম্নলিখিত বিধিগুলি প্রযোজ্য: 2. ভেক্টর যোগের ত্রিভুজ বিধি : ভেক্টর যোগের ত্রিভুজ বিধিও যেকোনো দুর্টি ভেক্টরের জন্য প্রযোজ্য। জই বিধি অনুযায়ী, দুটি ভেক্টরের যোগফল হল ত্রিভুজের এক বাহু থেকে অপর বাহু পর্যন্ত ভেক্টর। 3. ভেক্টর যোগের বিনিময় বিধি : ভেক্টর যোগের বিনিময় বিধি যেকোনো দুটি ভেক্টরের জন্য প্রযোজ্য। এই বিধি অনুযায়ী, ভেক্টর যোগের ক্রম পরিবর্তন করলে ফলাফল পরিবর্তিত হয় না। অতএব, a ‾ \\underline{\\mathbf{a}} a ​ ও b ‾ \\underline{\\mathbf{b}} b ​ ভেক্টরদ্বয় সমান্তরাল হলে, ভেক্টর যোগের সামান্তরিক বিধি, ত্রিভুজ বিধি এবং বিনিময় বিধি সবই প্রযোজ্য। সরলীকরণ: iii এবং iii সঠিক"
+    },
+    {
+      "number": "24",
+      "tag": "CB 20,SB 20,JB 20,DB 19,CB 19,DIN.B 19,CTG.B 19,SB 19,BB 19,ACC 24",
+      "question": "f ( x ) = 4 − 2 x f(\\mathbf{x})=\\sqrt{4-2 \\mathrm{x}} f ( x ) = 4 − 2 x ​ এর ডোমেন কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+          "is_correct": true
+        },
+        {
+          "label": "ঘ",
+          "text": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+          "is_correct": false
+        }
+      ],
+      "option_a": "{ x : x ∈ N , x ≤ 4 } \\{x: x \\in \\N, x \\leq 4\\} { x : x ∈ N , x ≤ 4 }",
+      "option_b": "{ x : x ∈ N , x ≥ 4 } \\{x: x \\in \\N, x \\geq 4\\} { x : x ∈ N , x ≥ 4 }",
+      "option_c": "{ x : x ∈ R , x ≤ 2 } \\{x: x \\in \\R, x \\leq 2\\} { x : x ∈ R , x ≤ 2 }",
+      "option_d": "{ x : x ∈ N , x ≤ 2 } \\{x: x \\in \\N, x \\leq 2\\} { x : x ∈ N , x ≤ 2 }",
+      "correct": "গ",
+      "explanation": "f ( x ) = 4 − 2 x f(x) = \\sqrt{4-2x} f ( x ) = 4 − 2 x ​ বর্গমূলের ভিতরের রাশি অঋণাত্মক হতে হবে: 4 − 2 x ≥ 0 4-2x \\ge 0 4 − 2 x ≥ 0 − 2 x ≥ − 4 -2x \\ge -4 − 2 x ≥ − 4 x ≤ 2 x \\le 2 x ≤ 2 তাই ডোমেন: { x ∈ R ∣ x ≤ 2 } \\{x \\in \\mathbb{R} \\mid x \\le 2\\} { x ∈ R ∣ x ≤ 2 } ইন্টারভাল আকারে: ( − ∞ , 2 ] (-\\infty, 2] ( − ∞ , 2 ]"
+    },
+    {
+      "number": "25",
+      "tag": "JCC 24",
+      "question": "p ‾ \\underline{\\mathbf{p}} p ​ ও q ‾ \\underline{\\mathbf{q}} q ​ যথাক্রমে P ও Q বিন্দুদ্বয়ের অবস্থান ভেক্টর এবং R বিন্দুটি PQ কে 3 : 2 অনুপাতে বহির্বিভক্ত করলে, R এর অবস্থান ভেক্টর কোনটি?",
+      "options": [
+        {
+          "label": "ক",
+          "text": "2 p ‾ + 3 q ‾ 5 \\frac{2 \\underline{p}+3 \\underline{q}}{5} 5 2 p ​ + 3 q ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "খ",
+          "text": "2 p ‾ − 3 q ‾ 5 \\frac{2 \\underline{p}-3 \\underline{q}}{5} 5 2 p ​ − 3 q ​ ​",
+          "is_correct": false
+        },
+        {
+          "label": "গ",
+          "text": "2 p ‾ − 3 q ‾ 2 \\underline{p}-3 \\underline{q} 2 p ​ − 3 q ​",
+          "is_correct": false
+        },
+        {
+          "label": "ঘ",
+          "text": "3 q ‾ − 2 p ‾ 3 \\underline{q}-2 \\underline{p} 3 q ​ − 2 p ​",
+          "is_correct": true
+        }
+      ],
+      "option_a": "2 p ‾ + 3 q ‾ 5 \\frac{2 \\underline{p}+3 \\underline{q}}{5} 5 2 p ​ + 3 q ​ ​",
+      "option_b": "2 p ‾ − 3 q ‾ 5 \\frac{2 \\underline{p}-3 \\underline{q}}{5} 5 2 p ​ − 3 q ​ ​",
+      "option_c": "2 p ‾ − 3 q ‾ 2 \\underline{p}-3 \\underline{q} 2 p ​ − 3 q ​",
+      "option_d": "3 q ‾ − 2 p ‾ 3 \\underline{q}-2 \\underline{p} 3 q ​ − 2 p ​",
+      "correct": "ঘ",
+      "explanation": "p ‾ ও q ‾ \\underline{p}{} ও \\underline{q} p ​ ও q ​ যথাক্রমে P ও Q বিন্দুদ্বয়ের অবস্থান ভেক্টের এবং R বিন্দুটি PQ কে 3 : 2 3: 2 3 : 2 অনুপাতে বহির্বিতক্ত করলে, R এর অবস্থান ভেক্টর নির্ণয় করতে আমরা নিম্নলিখিত ধাপগুলি অনুসরণ করব: ধাপ 1: বিভাজন সূত্র প্রয়োগ বহির্বিভক্ত বিন্দুর অবস্থান ভেক্টর নির্ণয়ের সূত্র হল: r ‾ = m q ‾ − n p ‾ m − n \\underline{\\mathbf{r}}=\\frac{m \\underline{\\mathbf{q}}-n \\underline{\\mathbf{p}}}{m-n} r ​ = m − n m q ​ − n p ​ ​ যেখানে, m : n m: n m : n হল বিভাজন অনুপাত। এখানে, m = 3 m=3 m = 3 এবং n = 2 n=2 n = 2 . ধাপ 2: মান বসানো r ‾ = 3 q ‾ − 2 p ‾ 3 − 2 = 3 q ‾ − 2 p ‾ \\underline{\\mathbf{r}}=\\frac{3 \\underline{\\mathbf{q}}-2 \\underline{\\mathbf{p}}}{3-2}=3 \\underline{\\mathbf{q}}-2 \\underline{\\mathbf{p}} r ​ = 3 − 2 3 q ​ − 2 p ​ ​ = 3 q ​ − 2 p ​ সরলীকরণ: r ‾ = 3 q ‾ − 2 p ‾ \\underline{\\mathbf{r}}=3 \\underline{\\mathbf{q}}-2 \\underline{\\mathbf{p}} r ​ = 3 q ​ − 2 p ​"
+    }
+  ]
+}
